@@ -331,6 +331,130 @@ body {
   transform: translateX(4px);
 }
 
+/* ===== SEÇÃO: detail-section (o que tem em cada frente) ===== */
+.detail-section {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px 24px 100px;
+}
+
+.detail-row {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+  margin-bottom: 90px;
+}
+
+.detail-row:last-child { margin-bottom: 0; }
+
+.detail-row-reverse { flex-direction: row-reverse; }
+
+.detail-media {
+  flex: 0 0 300px;
+  aspect-ratio: 1 / 1;
+  border-radius: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 20px 44px rgba(0, 0, 0, 0.35);
+}
+
+.detail-media img {
+  width: 52%;
+  height: 52%;
+  object-fit: contain;
+  filter: drop-shadow(0 12px 18px rgba(0, 0, 0, 0.3));
+}
+
+.detail-media-provas    { background: linear-gradient(160deg, var(--navy) 0%, var(--navy-tint-2) 100%); }
+.detail-media-concursos { background: linear-gradient(160deg, var(--orange) 0%, #d9701c 100%); }
+.detail-media-cursos    { background: linear-gradient(160deg, var(--navy-tint-1) 0%, var(--navy) 100%); }
+.detail-media-mentorias { background: linear-gradient(160deg, var(--navy-tint-2) 0%, var(--orange-tint-1) 100%); }
+
+.detail-copy {
+  flex: 1;
+  min-width: 0;
+}
+
+.detail-kicker {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--orange);
+  margin-bottom: 14px;
+}
+
+.detail-title {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 26px;
+  color: var(--text-primary);
+  margin-bottom: 14px;
+}
+
+.detail-desc {
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text-muted);
+  margin-bottom: 18px;
+  max-width: 480px;
+}
+
+.detail-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 24px;
+  list-style: none;
+}
+
+.detail-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.4;
+  color: var(--text-primary);
+}
+
+.detail-list li::before {
+  content: "\2713";
+  flex-shrink: 0;
+  color: var(--orange);
+  font-weight: 700;
+}
+
+.detail-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: none;
+  color: var(--orange);
+  transition: gap 0.3s ease, color 0.3s ease;
+}
+
+.detail-cta span {
+  transition: transform 0.3s ease;
+}
+
+.detail-cta:hover {
+  color: var(--orange-tint-1);
+}
+
+.detail-cta:hover span {
+  transform: translateX(4px);
+}
+
 /* ===== SEÇÃO: why-choose (badges conectados por linha) ===== */
 .why-choose {
   max-width: 1000px;
@@ -373,7 +497,7 @@ body {
 .why-badge {
   width: 84px;
   height: 84px;
-  border-radius: 50%;
+  border-radius: 22px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -382,7 +506,7 @@ body {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.why-badge svg { width: 32px; height: 32px; }
+.why-badge img { width: 36px; height: 36px; }
 
 .why-badge-navy { background: var(--navy); }
 .why-badge-orange { background: var(--orange); }
@@ -555,6 +679,18 @@ body {
 /* ===== RESPONSIVO (tablet) ===== */
 @media (max-width: 900px) {
   .paths-grid { grid-template-columns: repeat(2, 1fr); }
+
+  .detail-row,
+  .detail-row-reverse {
+    flex-direction: column;
+    gap: 32px;
+    text-align: center;
+  }
+
+  .detail-media { flex: 0 0 auto; width: 220px; }
+  .detail-kicker { justify-content: center; }
+  .detail-desc { margin-left: auto; margin-right: auto; }
+  .detail-list { align-items: flex-start; margin-left: auto; margin-right: auto; width: fit-content; }
 }
 
 /* ===== RESPONSIVO (celular) ===== */
@@ -570,10 +706,15 @@ body {
   .section-title { font-size: 24px; }
   .section-subtitle { font-size: 14px; }
 
+  .detail-section,
   .why-choose,
   .faq-section {
     padding: 50px 20px;
   }
+
+  .detail-row { margin-bottom: 60px; }
+  .detail-title { font-size: 22px; }
+  .detail-media { width: 180px; }
 
   .why-steps {
     flex-direction: column;
