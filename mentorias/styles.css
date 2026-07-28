@@ -1,0 +1,206 @@
+:root {
+  --navy: #263959;
+  --orange: #f38d33;
+  --white: #ffffff;
+  --gray-light: #f5f5f5;
+  --gray-dark: #333333;
+
+  --navy-tint-1: #3a5079;
+  --navy-tint-2: #4d6aa0;
+  --orange-tint-1: #f7ac6a;
+
+  --font-heading: 'Montserrat', sans-serif;
+  --font-body: 'Lato', sans-serif;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--gray-dark);
+  background: var(--white);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ===== FAIXA: brand-strip (wayfinding de volta ao hub F3Exatas) ===== */
+.brand-strip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1100px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 18px 24px 0;
+  font-family: var(--font-heading);
+  font-size: 13px;
+}
+
+.brand-strip-link {
+  color: var(--navy);
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  transition: color 0.3s ease;
+}
+
+.brand-strip-link:hover {
+  color: var(--orange);
+}
+
+.brand-strip-current {
+  color: #999;
+  font-weight: 600;
+}
+
+/* ===== HERO — "em breve" ===== */
+.soon-hero {
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: var(--navy);
+  border-radius: 28px;
+  max-width: 1100px;
+  margin: 20px auto 40px;
+  padding: 90px 24px;
+}
+
+.soon-hero-glow {
+  position: absolute;
+  inset: -20%;
+  background:
+    radial-gradient(circle at 20% 25%, rgba(243, 141, 51, 0.32), transparent 45%),
+    radial-gradient(circle at 80% 70%, rgba(77, 106, 160, 0.5), transparent 50%),
+    linear-gradient(135deg, var(--navy) 0%, var(--navy-tint-1) 55%, var(--navy) 100%);
+  background-size: 200% 200%;
+  animation: soon-glow-shift 16s ease-in-out infinite;
+}
+
+@keyframes soon-glow-shift {
+  0%   { background-position: 0% 0%; }
+  50%  { background-position: 100% 100%; }
+  100% { background-position: 0% 0%; }
+}
+
+.soon-hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 620px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+}
+
+.soon-hero-logo {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+}
+
+.soon-badge {
+  display: inline-block;
+  background: var(--orange);
+  color: var(--white);
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 6px 16px;
+  border-radius: 20px;
+}
+
+.soon-wordmark {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 26px;
+  color: var(--white);
+  opacity: 0.85;
+}
+
+.soon-title {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 38px;
+  line-height: 1.25;
+  color: var(--white);
+}
+
+.soon-subtitle {
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.8);
+  max-width: 460px;
+}
+
+.soon-cta {
+  margin-top: 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--orange);
+  color: var(--white);
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 15px;
+  text-decoration: none;
+  padding: 14px 32px;
+  border-radius: 30px;
+  box-shadow: 0 10px 24px rgba(243, 141, 51, 0.35);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.soon-cta:hover {
+  transform: translateY(-3px) scale(1.03);
+  box-shadow: 0 14px 30px rgba(243, 141, 51, 0.5);
+}
+
+/* ===== RODAPÉ simples ===== */
+.site-footer-mini {
+  text-align: center;
+  padding: 24px;
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: #999;
+}
+
+.site-footer-mini a {
+  color: var(--navy);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-footer-mini a:hover {
+  color: var(--orange);
+}
+
+@media (max-width: 640px) {
+  .soon-hero { margin: 10px auto 24px; padding: 60px 20px; border-radius: 20px; }
+  .soon-title { font-size: 28px; }
+  .soon-subtitle { font-size: 14px; }
+  .soon-hero-logo { width: 70px; height: 70px; }
+}

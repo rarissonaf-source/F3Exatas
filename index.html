@@ -4,112 +4,118 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>F3Exatas</title>
+<meta name="description" content="F3Exatas: um ecossistema para dominar Exatas. Escolha entre F3Provas, F3Concursos, F3Cursos e F3Mentorias.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Lato:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-  <!-- SEÇÃO 1 — baseada no print do hero "waldeck" (banner gradiente, logo + nome, divisor, texto, setas) -->
-  <section class="hero-banner">
-    <button class="hero-arrow-btn hero-arrow-left" aria-label="Anterior">&#8249;</button>
-
-    <div class="hero-banner-left">
-      <img src="assets/logo.jpg" alt="F3Exatas" class="hero-logo">
-      <span class="hero-wordmark">F3Exatas</span>
+  <!-- HERO — apresentação do ecossistema F3Exatas -->
+  <section class="hub-hero">
+    <div class="hub-hero-glow"></div>
+    <div class="hub-hero-content">
+      <img src="assets/logo-f3.png" alt="F3Exatas" class="hub-hero-logo reveal">
+      <h1 class="hub-hero-title reveal">Um ecossistema, quatro jeitos de <span>dominar Exatas</span></h1>
+      <p class="hub-hero-subtitle reveal">F3Provas, F3Concursos, F3Cursos e F3Mentorias &mdash; frentes com identidade própria, todas com o mesmo padrão F3Exatas.</p>
+      <a href="#frentes" class="hub-scroll-cue reveal">Conheça as frentes <span class="hub-scroll-arrow">&#8595;</span></a>
     </div>
-
-    <div class="hero-divider"></div>
-
-    <div class="hero-banner-right">
-      <p class="hero-tagline">F3Exatas oferece<br>materiais prontos<br>para professores</p>
-    </div>
-
-    <button class="hero-arrow-btn hero-arrow-right" aria-label="Próximo">&#8250;</button>
   </section>
 
-  <!-- SEÇÃO 2 — Conteúdo Programático (tópicos enviados para venda), em acordeon -->
-  <section class="content-section">
+  <!-- FRENTES — as três direções do ecossistema -->
+  <section class="paths-section" id="frentes">
     <div class="section-heading reveal">
-      <span class="section-kicker">Conteúdo programático</span>
-      <h2 class="section-title">Tudo que você vai receber</h2>
-      <p class="section-subtitle">Material completo de Física, organizado por tópico e pronto para usar em sala de aula.</p>
+      <span class="section-kicker">Ecossistema F3Exatas</span>
+      <h2 class="section-title">Escolha seu caminho</h2>
+      <p class="section-subtitle">Quatro frentes, um só padrão de qualidade.</p>
     </div>
-    <div class="topics-list" id="topics-list"></div>
+
+    <div class="paths-grid">
+      <article class="path-card path-card-provas reveal">
+        <div class="path-card-top">
+          <span class="path-number">01</span>
+          <span class="path-status path-status-live">Disponível</span>
+        </div>
+        <div class="path-card-icon">&#128221;</div>
+        <div class="path-card-overlay"></div>
+        <div class="path-card-body">
+          <h3 class="path-title">F3Provas</h3>
+          <p class="path-desc">Provas reais de vestibulares e das principais bancas do Brasil, filtradas por estado.</p>
+          <a href="http://localhost:3000" target="_blank" rel="noopener" class="path-cta">Acessar F3Provas <span>&#8594;</span></a>
+        </div>
+      </article>
+
+      <article class="path-card path-card-concursos reveal">
+        <div class="path-card-top">
+          <span class="path-number">02</span>
+          <span class="path-status path-status-live">Disponível</span>
+        </div>
+        <div class="path-card-icon">&#127919;</div>
+        <div class="path-card-overlay"></div>
+        <div class="path-card-body">
+          <h3 class="path-title">F3Concursos</h3>
+          <p class="path-desc">Revisão organizada por tópico, pronta para quem estuda para concursos de professor.</p>
+          <a href="concursos/index.html" class="path-cta">Acessar F3Concursos <span>&#8594;</span></a>
+        </div>
+      </article>
+
+      <article class="path-card path-card-cursos reveal">
+        <div class="path-card-top">
+          <span class="path-number">03</span>
+          <span class="path-status path-status-soon">Em breve</span>
+        </div>
+        <div class="path-card-icon">&#128218;</div>
+        <div class="path-card-overlay"></div>
+        <div class="path-card-body">
+          <h3 class="path-title">F3Cursos</h3>
+          <p class="path-desc">Cursos completos, estruturados do zero ao avançado, para quem quer ir além da revisão.</p>
+          <a href="cursos/index.html" class="path-cta">Ver F3Cursos <span>&#8594;</span></a>
+        </div>
+      </article>
+
+      <article class="path-card path-card-mentorias reveal">
+        <div class="path-card-top">
+          <span class="path-number">04</span>
+          <span class="path-status path-status-soon">Em breve</span>
+        </div>
+        <div class="path-card-icon">&#128172;</div>
+        <div class="path-card-overlay"></div>
+        <div class="path-card-body">
+          <h3 class="path-title">F3Mentorias</h3>
+          <p class="path-desc">Acompanhamento próximo para tirar dúvidas e manter o ritmo de estudo.</p>
+          <a href="mentorias/index.html" class="path-cta">Ver F3Mentorias <span>&#8594;</span></a>
+        </div>
+      </article>
+    </div>
   </section>
 
-  <!-- SEÇÃO 3 — amostras do material (imagens temporárias, a substituir pelo material final) -->
-  <section class="sample-section">
-    <div class="section-heading reveal">
-      <span class="section-kicker">Prévia do conteúdo</span>
-      <h2 class="section-title">Veja uma amostra do material</h2>
-      <p class="section-subtitle">Exemplo temporário de apresentação &mdash; será substituído pelo material final da F3Exatas.</p>
-    </div>
-    <div class="sample-grid">
-      <figure class="sample-card reveal">
-        <img src="assets/amostra-eletrodinamica.jpg" alt="Amostra de mapa mental de Eletrodinâmica" class="sample-img">
-        <figcaption class="sample-caption">Eletrodinâmica</figcaption>
-      </figure>
-      <figure class="sample-card reveal">
-        <img src="assets/amostra-resistores.jpg" alt="Amostra de mapa mental de Resistores" class="sample-img">
-        <figcaption class="sample-caption">Resistores</figcaption>
-      </figure>
-    </div>
-  </section>
-
-  <!-- SEÇÃO 4 — motivos para escolher, layout próprio (badges conectados por linha) -->
+  <!-- PILARES — o que sustenta o ecossistema -->
   <section class="why-choose">
     <div class="section-heading reveal">
-      <h2 class="section-title">Por que escolher a F3Exatas?</h2>
-      <p class="section-subtitle">O jeito F3Exatas de ensinar Física:</p>
+      <span class="section-kicker">Por que F3Exatas</span>
+      <h2 class="section-title">O padrão por trás de cada frente</h2>
     </div>
     <div class="why-steps">
+      <div class="why-step reveal">
+        <div class="why-badge why-badge-navy">&#127912;</div>
+        <p class="why-title">Identidade própria em cada frente</p>
+      </div>
+      <div class="why-step reveal">
+        <div class="why-badge why-badge-orange">&#9989;</div>
+        <p class="why-title">Mesmo padrão de qualidade em tudo</p>
+      </div>
       <div class="why-step reveal">
         <div class="why-badge why-badge-navy">&#9999;&#65039;</div>
         <p class="why-title">Conteúdo direto ao ponto</p>
       </div>
       <div class="why-step reveal">
-        <div class="why-badge why-badge-orange">&#129517;</div>
-        <p class="why-title">Organização por tópico</p>
-      </div>
-      <div class="why-step reveal">
-        <div class="why-badge why-badge-navy">&#128172;</div>
-        <p class="why-title">Linguagem clara, sem enrolação</p>
-      </div>
-      <div class="why-step reveal">
-        <div class="why-badge why-badge-orange">&#128241;</div>
-        <p class="why-title">Material pronto pra usar</p>
+        <div class="why-badge why-badge-orange">&#127919;</div>
+        <p class="why-title">Feito para quem estuda de verdade</p>
       </div>
     </div>
   </section>
 
-  <!-- SEÇÃO 4 — baseada no print dos 3 cards estilo app (telas coloridas com mascote) -->
-  <section class="cards-showcase">
-    <div class="phone-card phone-navy reveal">
-      <div class="phone-notch"></div>
-      <div class="phone-content">
-        <p class="phone-title">Cada tópico estudado é um passo mais perto da sua aprovação.</p>
-        <div class="phone-badge">Estude com direção</div>
-      </div>
-    </div>
-    <div class="phone-card phone-blue reveal">
-      <div class="phone-notch"></div>
-      <div class="phone-content phone-content-center">
-        <div class="phone-icon">&#9889;</div>
-        <p class="phone-title">Quem domina os temas certos, sai na frente.</p>
-        <p class="phone-subtitle">Física com estratégia.</p>
-      </div>
-    </div>
-    <div class="phone-card phone-orange reveal">
-      <div class="phone-notch"></div>
-      <div class="phone-content">
-        <div class="phone-icon">&#127919;</div>
-        <p class="phone-title">Não é gasto,<br>é investimento na sua aprovação.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- SEÇÃO 5 — perguntas frequentes -->
+  <!-- FAQ — dúvidas sobre o ecossistema -->
   <section class="faq-section">
     <div class="section-heading reveal">
       <span class="section-kicker">Dúvidas</span>
@@ -118,64 +124,55 @@
     <div class="faq-list">
       <details class="faq-item reveal">
         <summary class="faq-summary">
-          <span>Como recebo o material?</span>
+          <span>Qual a diferença entre F3Provas, F3Concursos, F3Cursos e F3Mentorias?</span>
           <span class="faq-chevron">&#8250;</span>
         </summary>
-        <p class="faq-answer">O material é entregue em formato digital, pronto para você baixar e usar em sala de aula.</p>
+        <p class="faq-answer">F3Provas reúne provas reais de vestibulares filtradas por estado, F3Concursos é revisão organizada por tópico para concursos de professor, F3Cursos são cursos completos do zero ao avançado, e F3Mentorias é acompanhamento próximo para tirar dúvidas. Cada uma resolve uma etapa diferente do seu estudo.</p>
       </details>
       <details class="faq-item reveal">
         <summary class="faq-summary">
-          <span>Posso usar o material com qualquer turma do Ensino Médio?</span>
+          <span>Preciso comprar as quatro frentes?</span>
           <span class="faq-chevron">&#8250;</span>
         </summary>
-        <p class="faq-answer">Sim, o conteúdo cobre os tópicos de Física do Ensino Médio, do básico aos temas mais avançados.</p>
+        <p class="faq-answer">Não. Cada frente funciona de forma independente &mdash; você escolhe a que faz sentido para o seu momento de estudo.</p>
       </details>
       <details class="faq-item reveal">
         <summary class="faq-summary">
-          <span>O material é editável?</span>
+          <span>F3Cursos e F3Mentorias já estão disponíveis?</span>
           <span class="faq-chevron">&#8250;</span>
         </summary>
-        <p class="faq-answer">Você pode adaptar o conteúdo para o seu jeito de ensinar e para a realidade da sua turma.</p>
+        <p class="faq-answer">Ainda não &mdash; estão em construção. F3Provas e F3Concursos já estão disponíveis para acesso imediato.</p>
       </details>
       <details class="faq-item reveal">
         <summary class="faq-summary">
-          <span>Como faço se tiver dúvidas depois da compra?</span>
+          <span>Como falo com a F3Exatas?</span>
           <span class="faq-chevron">&#8250;</span>
         </summary>
-        <p class="faq-answer">Você pode falar diretamente com a F3Exatas pelo WhatsApp ou Instagram, no rodapé do site.</p>
+        <p class="faq-answer">Pelo WhatsApp ou Instagram, disponíveis no rodapé do site.</p>
       </details>
     </div>
   </section>
 
-  <!-- SEÇÃO 6 — direcionamento final para a compra -->
-  <section class="cta-final reveal">
-    <h2 class="cta-title">Garanta agora o material completo de Física</h2>
-    <p class="cta-subtitle">Todo o conteúdo programático acima, organizado e pronto para você aplicar em sala de aula.</p>
-    <a href="#" class="cta-button">Quero comprar agora</a>
-  </section>
-
-  <!-- RODAPÉ — adaptado do print de rodapé -->
+  <!-- RODAPÉ -->
   <footer class="site-footer">
     <div class="footer-col">
       <span class="footer-brand">F3Exatas</span>
-      <p class="footer-desc">Materiais de Física organizados por tópico, para professores que querem preparar aulas com menos esforço e mais resultado.</p>
+      <p class="footer-desc">Um ecossistema para dominar Exatas, com uma frente para cada etapa do seu estudo.</p>
       <div class="footer-social">
         <a href="#" class="footer-social-btn">Instagram</a>
         <a href="#" class="footer-social-btn">WhatsApp</a>
       </div>
     </div>
     <div class="footer-col">
-      <span class="footer-heading">Materiais</span>
-      <a href="#" class="footer-link">Mecânica</a>
-      <a href="#" class="footer-link">Termodinâmica</a>
-      <a href="#" class="footer-link">Eletromagnetismo</a>
-      <a href="#" class="footer-link">Física Moderna</a>
-      <a href="#" class="footer-link">Ver todos</a>
+      <span class="footer-heading">Frentes</span>
+      <a href="http://localhost:3000" target="_blank" rel="noopener" class="footer-link">F3Provas</a>
+      <a href="concursos/index.html" class="footer-link">F3Concursos</a>
+      <a href="cursos/index.html" class="footer-link">F3Cursos</a>
+      <a href="mentorias/index.html" class="footer-link">F3Mentorias</a>
     </div>
     <div class="footer-col">
       <span class="footer-heading">F3Exatas</span>
-      <a href="#" class="footer-link">Sobre nós</a>
-      <a href="#" class="footer-link">Nossos materiais</a>
+      <a href="#frentes" class="footer-link">Escolher frente</a>
       <a href="#" class="footer-link">Contato</a>
       <a href="#" class="footer-link">Instagram</a>
     </div>

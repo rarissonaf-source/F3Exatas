@@ -1,0 +1,274 @@
+[
+  {
+    "id": "mf-2011-2012.1",
+    "institution": "UVA",
+    "year": 2011,
+    "edition": "2012.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA.pdf"
+  },
+  {
+    "id": "mf-2012-2013.1",
+    "institution": "UVA",
+    "year": 2012,
+    "edition": "2013.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (1).pdf"
+  },
+  {
+    "id": "mf-2013-2013.2",
+    "institution": "UVA",
+    "year": 2013,
+    "edition": "2013.2",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (2).pdf"
+  },
+  {
+    "id": "mf-2017-2017.1",
+    "institution": "UVA",
+    "year": 2017,
+    "edition": "2017.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (3).pdf"
+  },
+  {
+    "id": "mf-2017-2017.2",
+    "institution": "UVA",
+    "year": 2017,
+    "edition": "2017.2",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (5).pdf"
+  },
+  {
+    "id": "mf-2014-2015.1",
+    "institution": "UVA",
+    "year": 2014,
+    "edition": "2015.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (6).pdf"
+  },
+  {
+    "id": "mf-2015-2016.1",
+    "institution": "UVA",
+    "year": 2015,
+    "edition": "2016.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (7).pdf"
+  },
+  {
+    "id": "mf-2013-2014.1",
+    "institution": "UVA",
+    "year": 2013,
+    "edition": "2014.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (8).pdf"
+  },
+  {
+    "id": "mf-2018-2018.2",
+    "institution": "UVA",
+    "year": 2018,
+    "edition": "2018.2",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (9).pdf"
+  },
+  {
+    "id": "mf-2019-2019.2",
+    "institution": "UVA",
+    "year": 2019,
+    "edition": "2019.2",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (10).pdf"
+  },
+  {
+    "id": "mf-2019-2020.1",
+    "institution": "UVA",
+    "year": 2019,
+    "edition": "2020.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (11).pdf"
+  },
+  {
+    "id": "mf-2020-2020.2",
+    "institution": "UVA",
+    "year": 2020,
+    "edition": "2020.2",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (12).pdf"
+  },
+  {
+    "id": "mf-2022-2022.1",
+    "institution": "UVA",
+    "year": 2022,
+    "edition": "2022.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (13).pdf"
+  },
+  {
+    "id": "mf-2022-2023.1",
+    "institution": "UVA",
+    "year": 2022,
+    "edition": "2023.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (14).pdf"
+  },
+  {
+    "id": "mf-2023-2024.1",
+    "institution": "UVA",
+    "year": 2023,
+    "edition": "2024.1",
+    "examType": "especifico",
+    "sourceFile": "MATEMÁTICA E FÍSICA (15).pdf"
+  },
+  {
+    "id": "mf-2011.1",
+    "institution": "UVA",
+    "year": 2011,
+    "edition": "2011.1",
+    "examType": "especifico",
+    "sourceFile": "FÍSICA (2).pdf"
+  },
+  {
+    "id": "cg-2011.1",
+    "institution": "UVA",
+    "year": 2011,
+    "edition": "2011.1",
+    "examType": "geral",
+    "sourceFile": "FÍSICA (1).pdf"
+  },
+  {
+    "id": "cg-2011-2012.1",
+    "institution": "UVA",
+    "year": 2011,
+    "edition": "2012.1",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS.pdf"
+  },
+  {
+    "id": "cg-2012-2012.2",
+    "institution": "UVA",
+    "year": 2012,
+    "edition": "2012.2",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (1).pdf"
+  },
+  {
+    "id": "cg-2012-2013.1",
+    "institution": "UVA",
+    "year": 2012,
+    "edition": "2013.1",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (2).pdf"
+  },
+  {
+    "id": "cg-2017-2017.2",
+    "institution": "UVA",
+    "year": 2017,
+    "edition": "2017.2",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (4).pdf"
+  },
+  {
+    "id": "cg-2014-2014.2",
+    "institution": "UVA",
+    "year": 2014,
+    "edition": "2014.2",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (5).pdf"
+  },
+  {
+    "id": "cg-2014-2015.1",
+    "institution": "UVA",
+    "year": 2014,
+    "edition": "2015.1",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (6).pdf"
+  },
+  {
+    "id": "cg-2017-2017.1",
+    "institution": "UVA",
+    "year": 2017,
+    "edition": "2017.1",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (7).pdf"
+  },
+  {
+    "id": "cg-2013-2014.1",
+    "institution": "UVA",
+    "year": 2013,
+    "edition": "2014.1",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (8).pdf"
+  },
+  {
+    "id": "cg-2018-2018.2",
+    "institution": "UVA",
+    "year": 2018,
+    "edition": "2018.2",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (9).pdf"
+  },
+  {
+    "id": "cg-2019-2019.2",
+    "institution": "UVA",
+    "year": 2019,
+    "edition": "2019.2",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (10).pdf"
+  },
+  {
+    "id": "cg-2019-2020.1",
+    "institution": "UVA",
+    "year": 2019,
+    "edition": "2020.1",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (11).pdf"
+  },
+  {
+    "id": "cg-2020-2020.2",
+    "institution": "UVA",
+    "year": 2020,
+    "edition": "2020.2",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (12).pdf"
+  },
+  {
+    "id": "cg-2022-2022.1",
+    "institution": "UVA",
+    "year": 2022,
+    "edition": "2022.1",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (13).pdf"
+  },
+  {
+    "id": "cg-2022-2023.1",
+    "institution": "UVA",
+    "year": 2022,
+    "edition": "2023.1",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (14).pdf"
+  },
+  {
+    "id": "cg-2023-2024.1",
+    "institution": "UVA",
+    "year": 2023,
+    "edition": "2024.1",
+    "examType": "geral",
+    "sourceFile": "CG - INGLÊS (15).pdf"
+  },
+  {
+    "id": "cg-2015-2016.1",
+    "institution": "UVA",
+    "year": 2015,
+    "edition": "2016.1",
+    "examType": "geral",
+    "sourceFile": "PROVA CG.pdf"
+  },
+  {
+    "id": "cg-2024-2024.2",
+    "institution": "UVA",
+    "year": 2024,
+    "edition": "2024.2",
+    "examType": "geral",
+    "sourceFile": "PROVA CG (2).pdf"
+  }
+]

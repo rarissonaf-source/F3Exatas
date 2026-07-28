@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>F3Concursos | F3Exatas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- FAIXA — wayfinding de volta ao hub F3Exatas -->
+  <div class="brand-strip">
+    <a href="../index.html" class="brand-strip-link">&#8249; F3Exatas</a>
+    <span class="brand-strip-current">F3Concursos</span>
+  </div>
+
+  <!-- SEÇÃO 1 — baseada no print do hero "waldeck" (banner gradiente, logo + nome, divisor, texto, setas) -->
+  <section class="hero-banner">
+    <button class="hero-arrow-btn hero-arrow-left" aria-label="Anterior">&#8249;</button>
+
+    <div class="hero-banner-left">
+      <img src="assets/logo-f3.png" alt="F3Concursos" class="hero-logo">
+      <span class="hero-wordmark">F3Concursos</span>
+    </div>
+
+    <div class="hero-divider"></div>
+
+    <div class="hero-banner-right">
+      <p class="hero-tagline"><span>F3Concursos oferece</span> <span>materiais prontos</span> <span>para professores</span></p>
+    </div>
+
+    <button class="hero-arrow-btn hero-arrow-right" aria-label="Próximo">&#8250;</button>
+  </section>
+
+  <!-- SEÇÃO 2 — Conteúdo Programático (tópicos enviados para venda), em acordeon -->
+  <section class="content-section">
+    <div class="section-heading reveal">
+      <span class="section-kicker">Conteúdo programático</span>
+      <h2 class="section-title">Tudo que você vai receber</h2>
+      <p class="section-subtitle">Material completo de Física, organizado por tópico e pronto para usar em sala de aula.</p>
+    </div>
+    <div class="topics-list" id="topics-list"></div>
+  </section>
+
+  <!-- SEÇÃO 3 — amostras do material (imagens temporárias, a substituir pelo material final) -->
+  <section class="sample-section">
+    <div class="section-heading reveal">
+      <span class="section-kicker">Prévia do conteúdo</span>
+      <h2 class="section-title">Veja uma amostra do material</h2>
+      <p class="section-subtitle">Exemplo temporário de apresentação &mdash; será substituído pelo material final da F3Concursos.</p>
+    </div>
+    <div class="sample-grid">
+      <figure class="sample-card reveal">
+        <img src="assets/amostra-eletrodinamica.jpg" alt="Amostra de mapa mental de Eletrodinâmica" class="sample-img">
+        <figcaption class="sample-caption">Eletrodinâmica</figcaption>
+      </figure>
+      <figure class="sample-card reveal">
+        <img src="assets/amostra-resistores.jpg" alt="Amostra de mapa mental de Resistores" class="sample-img">
+        <figcaption class="sample-caption">Resistores</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 4 — motivos para escolher, layout próprio (badges conectados por linha) -->
+  <section class="why-choose">
+    <div class="section-heading reveal">
+      <h2 class="section-title">Por que escolher a F3Concursos?</h2>
+      <p class="section-subtitle">O jeito F3Concursos de ensinar Física:</p>
+    </div>
+    <div class="why-steps">
+      <div class="why-step reveal">
+        <div class="why-badge why-badge-navy">&#9999;&#65039;</div>
+        <p class="why-title">Conteúdo direto ao ponto</p>
+      </div>
+      <div class="why-step reveal">
+        <div class="why-badge why-badge-orange">&#129517;</div>
+        <p class="why-title">Organização por tópico</p>
+      </div>
+      <div class="why-step reveal">
+        <div class="why-badge why-badge-navy">&#128172;</div>
+        <p class="why-title">Linguagem clara, sem enrolação</p>
+      </div>
+      <div class="why-step reveal">
+        <div class="why-badge why-badge-orange">&#128241;</div>
+        <p class="why-title">Material pronto pra usar</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 4 — baseada no print dos 3 cards estilo app (telas coloridas com mascote) -->
+  <section class="cards-showcase">
+    <div class="phone-card phone-navy reveal">
+      <div class="phone-notch"></div>
+      <div class="phone-content">
+        <p class="phone-title">Cada tópico estudado é um passo mais perto da sua aprovação.</p>
+        <div class="phone-badge">Estude com direção</div>
+      </div>
+    </div>
+    <div class="phone-card phone-blue reveal">
+      <div class="phone-notch"></div>
+      <div class="phone-content phone-content-center">
+        <div class="phone-icon">&#9889;</div>
+        <p class="phone-title">Quem domina os temas certos, sai na frente.</p>
+        <p class="phone-subtitle">Física com estratégia.</p>
+      </div>
+    </div>
+    <div class="phone-card phone-orange reveal">
+      <div class="phone-notch"></div>
+      <div class="phone-content">
+        <div class="phone-icon">&#127919;</div>
+        <p class="phone-title">Não é gasto,<br>é investimento na sua aprovação.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 5 — perguntas frequentes -->
+  <section class="faq-section">
+    <div class="section-heading reveal">
+      <span class="section-kicker">Dúvidas</span>
+      <h2 class="section-title">Perguntas frequentes</h2>
+    </div>
+    <div class="faq-list">
+      <details class="faq-item reveal">
+        <summary class="faq-summary">
+          <span>Como recebo o material?</span>
+          <span class="faq-chevron">&#8250;</span>
+        </summary>
+        <p class="faq-answer">O material é entregue em formato digital, pronto para você baixar e usar em sala de aula.</p>
+      </details>
+      <details class="faq-item reveal">
+        <summary class="faq-summary">
+          <span>Posso usar o material com qualquer turma do Ensino Médio?</span>
+          <span class="faq-chevron">&#8250;</span>
+        </summary>
+        <p class="faq-answer">Sim, o conteúdo cobre os tópicos de Física do Ensino Médio, do básico aos temas mais avançados.</p>
+      </details>
+      <details class="faq-item reveal">
+        <summary class="faq-summary">
+          <span>O material é editável?</span>
+          <span class="faq-chevron">&#8250;</span>
+        </summary>
+        <p class="faq-answer">Você pode adaptar o conteúdo para o seu jeito de ensinar e para a realidade da sua turma.</p>
+      </details>
+      <details class="faq-item reveal">
+        <summary class="faq-summary">
+          <span>Como faço se tiver dúvidas depois da compra?</span>
+          <span class="faq-chevron">&#8250;</span>
+        </summary>
+        <p class="faq-answer">Você pode falar diretamente com a F3Concursos pelo WhatsApp ou Instagram, no rodapé do site.</p>
+      </details>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 6 — direcionamento final para a compra -->
+  <section class="cta-final reveal">
+    <h2 class="cta-title">Garanta agora o material completo de Física</h2>
+    <p class="cta-subtitle">Todo o conteúdo programático acima, organizado e pronto para você aplicar em sala de aula.</p>
+    <a href="#" class="cta-button">Quero comprar agora</a>
+  </section>
+
+  <!-- RODAPÉ — adaptado do print de rodapé -->
+  <footer class="site-footer">
+    <div class="footer-col">
+      <span class="footer-brand">F3Concursos</span>
+      <p class="footer-desc">Materiais de Física organizados por tópico, para professores que querem preparar aulas com menos esforço e mais resultado.</p>
+      <div class="footer-social">
+        <a href="#" class="footer-social-btn">Instagram</a>
+        <a href="#" class="footer-social-btn">WhatsApp</a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <span class="footer-heading">Materiais</span>
+      <a href="#" class="footer-link">Mecânica</a>
+      <a href="#" class="footer-link">Termodinâmica</a>
+      <a href="#" class="footer-link">Eletromagnetismo</a>
+      <a href="#" class="footer-link">Física Moderna</a>
+      <a href="#" class="footer-link">Ver todos</a>
+    </div>
+    <div class="footer-col">
+      <span class="footer-heading">Ecossistema F3Exatas</span>
+      <a href="../index.html" class="footer-link">F3Exatas</a>
+      <a href="http://localhost:3000" target="_blank" rel="noopener" class="footer-link">F3Provas</a>
+      <a href="../cursos/index.html" class="footer-link">F3Cursos</a>
+      <a href="../mentorias/index.html" class="footer-link">F3Mentorias</a>
+    </div>
+    <div class="footer-bottom">&copy; 2026 F3Concursos &ndash; parte do ecossistema F3Exatas</div>
+  </footer>
+
+<script src="script.js"></script>
+</body>
+</html>
