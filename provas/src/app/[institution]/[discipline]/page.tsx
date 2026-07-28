@@ -55,7 +55,7 @@ export default async function DisciplinePage({
                       {Icon && <Icon className="size-6" />}
                     </span>
                     <div className="min-w-0 flex-1">
-                      <h2 className="font-heading text-lg font-bold uppercase tracking-tight leading-tight">
+                      <h2 className="font-heading text-lg font-bold tracking-tight leading-tight">
                         {topic.name}
                       </h2>
                       <p className="text-sm font-medium uppercase tracking-wide text-muted-foreground">
@@ -78,7 +78,7 @@ export default async function DisciplinePage({
         <Card className="mt-8 gap-2 p-6 ring-1 ring-border">
           <div className="flex items-center gap-2">
             <PieChart className="size-5 text-brand-orange" />
-            <h2 className="font-heading text-xl font-bold uppercase tracking-tight">Assuntos que mais caem</h2>
+            <h2 className="font-heading text-xl font-bold tracking-tight">Assuntos que mais caem</h2>
           </div>
           <p className="text-sm text-muted-foreground">
             Distribuição das {topics.reduce((s, t) => s + t.count, 0)} questões de{" "}

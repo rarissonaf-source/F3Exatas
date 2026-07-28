@@ -28,7 +28,7 @@ export function PageHero({
         {backHref && (
           <Link
             href={backHref}
-            className="inline-flex items-center gap-1.5 text-sm font-medium uppercase tracking-wide text-white/60 transition-colors hover:text-white"
+            className="inline-flex items-center gap-1.5 text-sm font-medium text-white/60 transition-colors hover:text-white"
           >
             <ArrowLeft className="size-3.5" />
             {backLabel}
@@ -60,7 +60,7 @@ export function PageHero({
               {icon}
             </span>
           )}
-          <h1 className="font-heading text-4xl font-bold uppercase tracking-tight text-white text-balance sm:text-5xl">
+          <h1 className="font-heading text-4xl font-bold tracking-tight text-white text-balance sm:text-5xl">
             {title}
           </h1>
         </motion.div>

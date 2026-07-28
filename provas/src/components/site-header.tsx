@@ -17,7 +17,7 @@ export function SiteHeader() {
           <span className="relative flex size-12 shrink-0 items-center justify-center overflow-hidden rounded-2xl shadow-lg ring-1 ring-white/20 transition-transform group-hover:scale-105">
             <Image src="/brand/f3-logo.jpg" alt="F3" fill sizes="48px" className="object-cover" priority />
           </span>
-          <span className="text-xl uppercase tracking-wide">
+          <span className="text-xl tracking-wide">
             F3 <span className="text-brand-orange">Provas</span>
           </span>
         </Link>

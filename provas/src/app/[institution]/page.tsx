@@ -41,7 +41,7 @@ export default async function InstitutionPage({
                     </span>
                     <div className="min-w-0 flex-1">
                       <div className="flex items-center gap-2">
-                        <h2 className="font-heading text-2xl font-bold uppercase tracking-tight">{d.name}</h2>
+                        <h2 className="font-heading text-2xl font-bold tracking-tight">{d.name}</h2>
                         <ArrowRight className="size-5 -translate-x-1 text-muted-foreground opacity-0 transition-all group-hover:translate-x-0 group-hover:opacity-100" />
                       </div>
                       <p className="text-sm text-muted-foreground">

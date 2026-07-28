@@ -22,7 +22,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 12 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.4 }}
-            className="font-heading text-4xl font-bold uppercase tracking-tight text-white text-balance sm:text-5xl"
+            className="font-heading text-4xl font-bold tracking-tight text-white text-balance sm:text-5xl"
           >
             F3 <span className="text-brand-orange">Provas</span>
           </motion.h1>
@@ -76,7 +76,7 @@ export default function Home() {
                 </span>
                 <div className="min-w-0 flex-1">
                   <div className="flex items-center gap-2">
-                    <h2 className="font-heading text-lg font-bold uppercase tracking-tight">{inst.name}</h2>
+                    <h2 className="font-heading text-lg font-bold tracking-tight">{inst.name}</h2>
                     {inst.comingSoon ? (
                       <Badge variant="secondary">Em breve</Badge>
                     ) : (
