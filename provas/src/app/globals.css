@@ -137,7 +137,13 @@
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply text-foreground;
+    background:
+      radial-gradient(ellipse 900px 520px at 10% 6%, rgba(239, 137, 37, 0.09), transparent 60%),
+      radial-gradient(ellipse 800px 600px at 90% 40%, rgba(122, 147, 189, 0.14), transparent 60%),
+      radial-gradient(ellipse 700px 520px at 25% 92%, rgba(239, 137, 37, 0.06), transparent 60%),
+      var(--background);
+    background-attachment: fixed;
   }
   html {
     @apply font-sans;

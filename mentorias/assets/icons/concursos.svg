@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- graduation cap -->
+  <g stroke="#111827" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M100 128 v34 q40 22 80 0 v-34" fill="#3a5079"/>
+    <polygon points="100,58 182,96 100,134 18,96" fill="#263959"/>
+    <circle cx="100" cy="96" r="9" fill="#f38d33" stroke="none"/>
+    <path d="M164 102 v40" fill="none" stroke="#111827" stroke-width="7"/>
+    <circle cx="164" cy="150" r="9" fill="#f38d33"/>
+  </g>
+  <!-- ribbon badge -->
+  <g stroke="#111827" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M46 150 v34 l14 -10 14 10 v-34 z" fill="#f38d33"/>
+  </g>
+  <!-- sparkle accent -->
+  <path d="M40 32 l6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6 z" fill="#f38d33" stroke="#111827" stroke-width="4" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- clipboard -->
+  <g stroke="#111827" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="42" y="36" width="116" height="146" rx="14" fill="#fdf6ea"/>
+    <rect x="76" y="24" width="48" height="24" rx="8" fill="#263959"/>
+    <rect x="58" y="60" width="84" height="98" rx="6" fill="#f38d33"/>
+    <line x1="72" y1="82" x2="128" y2="82" stroke="#ffffff" stroke-width="7"/>
+    <line x1="72" y1="102" x2="128" y2="102" stroke="#ffffff" stroke-width="7"/>
+    <line x1="72" y1="122" x2="112" y2="122" stroke="#ffffff" stroke-width="7"/>
+  </g>
+  <!-- check badge -->
+  <g stroke="#111827" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="140" cy="150" r="28" fill="#263959"/>
+    <path d="M128 150 L138 161 L156 138" fill="none" stroke="#ffffff" stroke-width="8"/>
+  </g>
+  <!-- sparkle accent -->
+  <path d="M40 32 l6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6 z" fill="#f38d33" stroke="#111827" stroke-width="4" stroke-linejoin="round"/>
+</svg>

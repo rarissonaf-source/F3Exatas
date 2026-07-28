@@ -9,6 +9,12 @@
   --navy-tint-2: #4d6aa0;
   --orange-tint-1: #f7ac6a;
 
+  --bg-deep: #0a0e1a;
+  --bg-panel: #131a2c;
+  --bg-panel-border: rgba(255, 255, 255, 0.08);
+  --text-primary: #f4f6fb;
+  --text-muted: rgba(244, 246, 251, 0.66);
+
   --font-heading: 'Montserrat', sans-serif;
   --font-body: 'Lato', sans-serif;
 }
@@ -21,8 +27,12 @@ html {
 
 body {
   font-family: var(--font-body);
-  color: var(--gray-dark);
-  background: var(--white);
+  color: var(--text-primary);
+  background:
+    radial-gradient(ellipse 900px 520px at 15% 10%, rgba(243, 141, 51, 0.10), transparent 60%),
+    radial-gradient(ellipse 800px 600px at 85% 60%, rgba(77, 106, 160, 0.16), transparent 60%),
+    var(--bg-deep);
+  background-attachment: fixed;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -53,7 +63,7 @@ body {
 }
 
 .brand-strip-link {
-  color: var(--navy);
+  color: var(--text-primary);
   text-decoration: none;
   font-weight: 700;
   letter-spacing: 0.02em;
@@ -65,7 +75,7 @@ body {
 }
 
 .brand-strip-current {
-  color: #999;
+  color: var(--text-muted);
   font-weight: 600;
 }
 
@@ -77,7 +87,8 @@ body {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background: var(--navy);
+  background: var(--bg-panel);
+  border: 1px solid var(--bg-panel-border);
   border-radius: 28px;
   max-width: 1100px;
   margin: 20px auto 40px;
@@ -114,10 +125,10 @@ body {
 }
 
 .soon-hero-logo {
-  width: 90px;
-  height: 90px;
+  width: 128px;
+  height: 128px;
   object-fit: contain;
-  filter: brightness(0) invert(1);
+  filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.35));
 }
 
 .soon-badge {
@@ -185,11 +196,11 @@ body {
   padding: 24px;
   font-family: var(--font-body);
   font-size: 13px;
-  color: #999;
+  color: var(--text-muted);
 }
 
 .site-footer-mini a {
-  color: var(--navy);
+  color: var(--text-primary);
   font-weight: 700;
   text-decoration: none;
 }
