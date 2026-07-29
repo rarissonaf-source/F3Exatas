@@ -22,5 +22,29 @@
     "edition": "Subsequente 2019",
     "examType": "especifico",
     "sourceFile": "Prova-Subsequente-2019.pdf"
+  },
+  {
+    "id": "mat-integrada-2018",
+    "institution": "IFMA",
+    "year": 2018,
+    "edition": "Integrada 2018",
+    "examType": "especifico",
+    "sourceFile": "Prova-Integrado-2018.pdf"
+  },
+  {
+    "id": "mat-concomitante-2018",
+    "institution": "IFMA",
+    "year": 2018,
+    "edition": "Concomitante 2018",
+    "examType": "especifico",
+    "sourceFile": "Prova-Concomitante-2018.pdf"
+  },
+  {
+    "id": "mat-subsequente-2018",
+    "institution": "IFMA",
+    "year": 2018,
+    "edition": "Subsequente 2018",
+    "examType": "especifico",
+    "sourceFile": "Prova-Subsequente-2018.pdf"
   }
 ]

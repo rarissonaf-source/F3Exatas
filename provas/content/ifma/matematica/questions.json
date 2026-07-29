@@ -1018,5 +1018,1008 @@
     ],
     "imagePath": "mat-subsequente-2019/q40.png",
     "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2018-q21",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "Certa vez, um professor tentando motivar seus alunos com artifícios Matemáticos, realizou a seguinte sequência de colocações para um estudante: Pense em um número; Multiplique esse número por 3; Adicione 18 a esse produto; Em seguida divida o resultado obtido por 3; Subtraia desse resultado o número inicial pensado; E, por fim, adicione 4 ao resultado anterior. O professor foi capaz de responder o resultado após a sexta colocação, que independe do número pensado inicialmente pelo aluno. Qual o valor obtido pelo professor?",
+    "options": [
+      { "label": "a", "text": "18" },
+      { "label": "b", "text": "12" },
+      { "label": "c", "text": "14" },
+      { "label": "d", "text": "16" },
+      { "label": "e", "text": "10" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2018-q22",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "Sabe-se que $2^m\\cdot 3^n\\cdot p^2$ é a forma fatorada no número 3600. Qual é o valor da expressão $m+n+p$.",
+    "options": [
+      { "label": "a", "text": "10" },
+      { "label": "b", "text": "7" },
+      { "label": "c", "text": "11" },
+      { "label": "d", "text": "12" },
+      { "label": "e", "text": "9" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2018-q23",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 23,
+    "statement": "Sabendo que $E=\\left\\{\\left[\\sqrt{900}:\\left(2^3-\\left(\\dfrac{1}{2}\\right)^{-1}\\right)\\right]:5^2\\right\\}^{-1}$, o valor de E vale:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{5}$" },
+      { "label": "b", "text": "$\\sqrt{5}$" },
+      { "label": "c", "text": "25" },
+      { "label": "d", "text": "125" },
+      { "label": "e", "text": "5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2018-q24",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 24,
+    "statement": "Um professor de Matemática deseja dividir uma turma de alunos em grupos de 6 ou 10 ou 15 alunos. Sabendo-se que nessa turma há menos de 50 alunos e sempre que dividida nas quantidades dos grupos acima sobra um aluno. Quantos alunos há nessa turma?",
+    "options": [
+      { "label": "a", "text": "30" },
+      { "label": "b", "text": "41" },
+      { "label": "c", "text": "21" },
+      { "label": "d", "text": "31" },
+      { "label": "e", "text": "40" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2018-q26",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Um carro Pipa enche uma caixa d'água de 10000 litros em 45 minutos. Outro carro Pipa mais moderno enche essa mesma caixa em 30 minutos. Se colocarmos os dois carros Pipas para encher essa caixa d'água juntos, ao mesmo tempo, em quanto tempo ela estará cheia?",
+    "options": [
+      { "label": "a", "text": "18 minutos" },
+      { "label": "b", "text": "20 minutos" },
+      { "label": "c", "text": "25 minutos" },
+      { "label": "d", "text": "30 minutos" },
+      { "label": "e", "text": "45 minutos" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2018-q27",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 27,
+    "statement": "Uma caixa d'água de $2m^3$ está com $\\dfrac{2}{5}$ de sua capacidade preenchida. Deseja-se completar essa caixa d'água usando galões de água de 20 litros. Quantos desses galões de água serão necessários para que se possa encher completamente a caixa d'água?",
+    "options": [
+      { "label": "a", "text": "45" },
+      { "label": "b", "text": "40" },
+      { "label": "c", "text": "50" },
+      { "label": "d", "text": "60" },
+      { "label": "e", "text": "30" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2018-q28",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 28,
+    "statement": "Em certa liquidação \"Torra-Tudo\" em um Shopping de São Luís, as placas indicavam: Tudo com 40% de desconto à vista. O Senhor Geraldo pagou R$ 90,00 à vista por uma camisa nessa liquidação. Qual o valor dessa camisa sem o desconto?",
+    "options": [
+      { "label": "a", "text": "R$ 130,00" },
+      { "label": "b", "text": "R$ 140,00" },
+      { "label": "c", "text": "R$ 150,00" },
+      { "label": "d", "text": "R$ 126,00" },
+      { "label": "e", "text": "R$ 120,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2018-q29",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 29,
+    "statement": "João emprestou um valor em dinheiro a Carlos querendo receber somente quando o acumulado montante do empréstimo ficasse igual ao triplo do valor emprestado. Sabendo-se que Carlos negociou o empréstimo com João a 20% ao mês, em regime de juros simples, em quanto tempo João receberá o valor negociado com Carlos?",
+    "options": [
+      { "label": "a", "text": "Um ano." },
+      { "label": "b", "text": "Dez meses." },
+      { "label": "c", "text": "Um semestre." },
+      { "label": "d", "text": "Um bimestre." },
+      { "label": "e", "text": "Um trimestre" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2018-q30",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 30,
+    "statement": "Uma pequena empresa possuía apenas 3 funcionários: Ajax, Bruno e Carlos, com 20, 25 e 30 anos respectivamente, no dia 31 de dezembro de 2016. Naquela data, verificou-se que Ajax tivera 4 faltas, Bruno, 5 e Carlos, 8 faltas durante o ano de 2016. O Senhor Daniel, proprietário da empresa, resolveu premiar esses 3 funcionários com a divisão de um lucro de R$ 11000,00 de modo que a divisão fosse diretamente proporcional às suas idades e inversamente proporcional ao número de faltas de cada um. Quanto recebeu o funcionário Carlos?",
+    "options": [
+      { "label": "a", "text": "R$ 3200,00" },
+      { "label": "b", "text": "R$ 3000,00" },
+      { "label": "c", "text": "R$ 3400,00" },
+      { "label": "d", "text": "R$ 3600,00" },
+      { "label": "e", "text": "R$ 4000,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2018-q31",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 31,
+    "statement": "Sabe-se que a diferença entre dois números naturais, x e y, é igual a 8 e que a diferença entre os quadrados desses números é 144. Pode-se afirmar que $\\sqrt{x+y}$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$3\\sqrt{2}$" },
+      { "label": "b", "text": "$2\\sqrt{3}$" },
+      { "label": "c", "text": "$2\\sqrt{2}$" },
+      { "label": "d", "text": "$3\\sqrt{3}$" },
+      { "label": "e", "text": "6" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2018-q32",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "Seja o esquema seguinte mostrado na tela de um aparelho de G.P.S. (Sistema de Posicionamento Global) para ilustrar a planta de certa localidade onde se tem um trapézio retângulo ABCD e o segmento $\\overline{FE}$ paralelo a $\\overline{CD}$. As distâncias entre os pontos estão indicadas na figura acima, mas o local destinado para indicar a distância entre os pontos C e F, não foi possível sua observação por um defeito na tela. Qual a distância entre os pontos B e C?",
+    "options": [
+      { "label": "a", "text": "21 m" },
+      { "label": "b", "text": "19 m" },
+      { "label": "c", "text": "18 m" },
+      { "label": "d", "text": "16 m" },
+      { "label": "e", "text": "15 m" }
+    ],
+    "imagePath": "mat-integrada-2018/q32.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2018-q33",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "Sabe-se que em determinado polígono regular convexo, a medida de cada ângulo externo mede 40°. Quantas são as diagonais desse polígono que não passam pelo centro?",
+    "options": [
+      { "label": "a", "text": "40 diagonais" },
+      { "label": "b", "text": "36 diagonais" },
+      { "label": "c", "text": "27 diagonais" },
+      { "label": "d", "text": "35 diagonais" },
+      { "label": "e", "text": "20 diagonais" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2018-q34",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 34,
+    "statement": "O perímetro da figura seguinte pode ser escrito como o polinômio:",
+    "options": [
+      { "label": "a", "text": "$8x+5$" },
+      { "label": "b", "text": "$8x+3$" },
+      { "label": "c", "text": "$12x+5$" },
+      { "label": "d", "text": "$12x+10$" },
+      { "label": "e", "text": "$12x+8$" }
+    ],
+    "imagePath": "mat-integrada-2018/q34.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2018-q35",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 35,
+    "statement": "Sendo J=6666 e R=3333, o valor da expressão $\\dfrac{(J+R)^2-4JR}{(J-R)^2+4JR}$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{3}$" },
+      { "label": "b", "text": "9" },
+      { "label": "c", "text": "$3^2$" },
+      { "label": "d", "text": "3" },
+      { "label": "e", "text": "$3^{-2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2018-q36",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Seja o retângulo seguinte e os setores circulares construídos com centros nos vértices A e B. Adotando-se $\\pi\\cong3{,}0$ pode-se afirmar que a área hachurada é aproximadamente igual a:",
+    "options": [
+      { "label": "a", "text": "$33dm^2$" },
+      { "label": "b", "text": "$26dm^2$" },
+      { "label": "c", "text": "$36dm^2$" },
+      { "label": "d", "text": "$28dm^2$" },
+      { "label": "e", "text": "$30dm^2$" }
+    ],
+    "imagePath": "mat-integrada-2018/q36.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2018-q37",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "Em certa hora do dia, um jovem de 1,6 metros de altura projeta uma sombra de 2,5 metros de comprimento. Neste mesmo momento, uma árvore projeta uma sombra de 15 metros de comprimento. A altura da árvore, em metros, vale:",
+    "options": [
+      { "label": "a", "text": "6 m" },
+      { "label": "b", "text": "5,4 m" },
+      { "label": "c", "text": "5 m" },
+      { "label": "d", "text": "9,6 m" },
+      { "label": "e", "text": "8 m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2018-q38",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 38,
+    "statement": "Das três circunferências abaixo, as duas menores têm raio igual a 4cm e a circunferência maior tem raio igual a 9cm. Quanto mede a distância entre os centros das duas circunferências menores?",
+    "options": [
+      { "label": "a", "text": "24" },
+      { "label": "b", "text": "12" },
+      { "label": "c", "text": "17" },
+      { "label": "d", "text": "13" },
+      { "label": "e", "text": "11" }
+    ],
+    "imagePath": "mat-integrada-2018/q38.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2018-q39",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 39,
+    "statement": "Triplicando-se o raio de um círculo de área A obtemos um novo círculo de:",
+    "options": [
+      { "label": "a", "text": "área A multiplicada por 9." },
+      { "label": "b", "text": "área A multiplicada por 6." },
+      { "label": "c", "text": "área A multiplicada por 2." },
+      { "label": "d", "text": "área A multiplicada por 3." },
+      { "label": "e", "text": "área A multiplicada por 8." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2018-q40",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 40,
+    "statement": "A equação $x^2+14x+k=0$, onde K é uma constante real, tem como raízes os números $x_1$ e $x_2$. Se $x_1-3x_2=6$, o valor da constante K é:",
+    "options": [
+      { "label": "a", "text": "48" },
+      { "label": "b", "text": "45" },
+      { "label": "c", "text": "38" },
+      { "label": "d", "text": "30" },
+      { "label": "e", "text": "40" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2018-q21",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "O valor da expressão $\\sqrt{\\sqrt{7}+\\sqrt{3}}\\cdot\\sqrt{\\sqrt{7}-\\sqrt{3}}$ é:",
+    "options": [
+      { "label": "a", "text": "$3\\sqrt{7}$" },
+      { "label": "b", "text": "7" },
+      { "label": "c", "text": "2" },
+      { "label": "d", "text": "$\\sqrt{21}$" },
+      { "label": "e", "text": "$7\\sqrt{3}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2018-q22",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Na cidade de Geometrópolis, a conta de energia sofreu dois aumentos sucessivos em dois meses consecutivos: o primeiro aumento de 3,6% e o segundo de 7,5%. Pode-se concluir então que o aumento percentual acumulado nesses dois meses corresponde a:",
+    "options": [
+      { "label": "a", "text": "11,23%" },
+      { "label": "b", "text": "11,42%" },
+      { "label": "c", "text": "11,33%" },
+      { "label": "d", "text": "11,37%" },
+      { "label": "e", "text": "11,10%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2018-q23",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 23,
+    "statement": "Racionalizando a expressão $\\dfrac{2+\\sqrt{2}}{\\sqrt{2}+1}$, encontramos:",
+    "options": [
+      { "label": "a", "text": "2" },
+      { "label": "b", "text": "$\\sqrt{2}-4$" },
+      { "label": "c", "text": "$3\\sqrt{2}$" },
+      { "label": "d", "text": "$2+3\\sqrt{2}$" },
+      { "label": "e", "text": "$\\sqrt{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2018-q24",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 24,
+    "statement": "Sabe-se que $a^{3x}-a^{-3x}=7$ e $a\\ne0$. Pode-se afirmar que o valor da expressão $a^{6x}+a^{-6x}$ é igual a:",
+    "options": [
+      { "label": "a", "text": "49" },
+      { "label": "b", "text": "51" },
+      { "label": "c", "text": "47" },
+      { "label": "d", "text": "$\\dfrac{7}{6}$" },
+      { "label": "e", "text": "$-\\dfrac{49}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2018-q25",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 25,
+    "statement": "Em um curral há 100 animais. Sabendo-se que 99% destes são vacas e o restante, bois. Quantas vacas devem ser retiradas desse curral para que a quantidade de bois seja 2% do total de animais?",
+    "options": [
+      { "label": "a", "text": "50" },
+      { "label": "b", "text": "2" },
+      { "label": "c", "text": "1" },
+      { "label": "d", "text": "49" },
+      { "label": "e", "text": "98" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2018-q26",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Em uma pesquisa com 430 alunos para verificar quantos deles falam Inglês ou Espanhol, o resultado foi o seguinte: 60 não falam nenhum desses idiomas; 270 falam Inglês; 180 falam Espanhol. O número de alunos entrevistados que falam Inglês e Espanhol é igual a:",
+    "options": [
+      { "label": "a", "text": "120" },
+      { "label": "b", "text": "70" },
+      { "label": "c", "text": "80" },
+      { "label": "d", "text": "140" },
+      { "label": "e", "text": "100" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2018-q27",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 27,
+    "statement": "O conjunto solução, em $\\mathbb{R}$, da inequação $\\dfrac{1}{x}+x\\ge-2$ é?",
+    "options": [
+      { "label": "a", "text": "$\\{x\\in R\\mid x=-1\\text{ ou }x>0\\}$" },
+      { "label": "b", "text": "$\\{x\\in R\\mid x<-1\\text{ ou }x>0\\}$" },
+      { "label": "c", "text": "$\\{x\\in R\\mid x=-1\\text{ ou }x\\ge0\\}$" },
+      { "label": "d", "text": "$\\{x\\in R\\mid x=-1\\text{ ou }x<0\\}$" },
+      { "label": "e", "text": "$\\{x\\in R\\mid x=1\\text{ ou }x>0\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2018-q28",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 28,
+    "statement": "Qual o valor do produto das raízes da equação $\\left|\\,|2x-5|-7\\,\\right|=4$?",
+    "options": [
+      { "label": "a", "text": "$-72$" },
+      { "label": "b", "text": "$-90$" },
+      { "label": "c", "text": "$-88$" },
+      { "label": "d", "text": "$-96$" },
+      { "label": "e", "text": "$-60$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2018-q29",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 29,
+    "statement": "Seja x o número de peças produzidas e vendidas por uma certa empresa. Sabendo-se que o lucro dessa empresa é dado pela função $L:\\mathbb{N}\\to\\mathbb{Q}$, sendo: $L(x)=-\\dfrac{x^2}{10}+5x-40$. Essa empresa terá lucro positivo não nulo desde que se tenha:",
+    "options": [
+      { "label": "a", "text": "$10<x<40$" },
+      { "label": "b", "text": "$20<x<50$" },
+      { "label": "c", "text": "$0<x<50$" },
+      { "label": "d", "text": "$x>10$" },
+      { "label": "e", "text": "$x=25$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2018-q30",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 30,
+    "statement": "A respeito da equação $4^x-5\\cdot2^x+6=0$, pode-se afirmar que a soma de suas raízes é igual a:",
+    "options": [
+      { "label": "a", "text": "$\\log_2 18$" },
+      { "label": "b", "text": "$\\log_2 3$" },
+      { "label": "c", "text": "$\\log_2 12$" },
+      { "label": "d", "text": "$\\log_2 6$" },
+      { "label": "e", "text": "$\\log_2 32$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2018-q31",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "Seja o retângulo MNOP inscrito no triângulo ABC seguinte. Sabendo-se que $AC=20m$, $BC=15m$ e $AB=25m$, qual é a área máxima do retângulo MNOP?",
+    "options": [
+      { "label": "a", "text": "$80m^2$" },
+      { "label": "b", "text": "$90m^2$" },
+      { "label": "c", "text": "$75m^2$" },
+      { "label": "d", "text": "$60m^2$" },
+      { "label": "e", "text": "$120m^2$" }
+    ],
+    "imagePath": "mat-concomitante-2018/q31.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2018-q32",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 32,
+    "statement": "Sabendo que as raízes da equação $x^2+p\\cdot x+q=0$ são 1 e $-2$, então, as raízes da equação $x^2+q\\cdot x+p=0$ são:",
+    "options": [
+      { "label": "a", "text": "Duas raízes iguais a 1." },
+      { "label": "b", "text": "$-1$ e 1." },
+      { "label": "c", "text": "Duas raízes iguais a 2." },
+      { "label": "d", "text": "$-1$ e 2." },
+      { "label": "e", "text": "Duas raízes iguais a $-1$." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2018-q33",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "Seja o triângulo equilátero ABC inscrito em uma circunferência de raio 6 dm e centro em O. Qual a medida da altura do triângulo ABC?",
+    "options": [
+      { "label": "a", "text": "$3\\sqrt{6}\\ m$" },
+      { "label": "b", "text": "$9\\ m$" },
+      { "label": "c", "text": "$3\\sqrt{3}$" },
+      { "label": "d", "text": "$12\\ m$" },
+      { "label": "e", "text": "$6\\sqrt{2}\\ m$" }
+    ],
+    "imagePath": "mat-concomitante-2018/q33.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2018-q34",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 34,
+    "statement": "Seja o retângulo ABCD seguinte, de comprimento 3x e largura 2x. Pode-se afirmar que $sen(C\\hat{D}B)\\cdot\\cos(C\\hat{D}B)$ é igual a:",
+    "options": [
+      { "label": "a", "text": "3" },
+      { "label": "b", "text": "$\\dfrac{6}{13}$" },
+      { "label": "c", "text": "$\\dfrac{\\sqrt{10}}{3}$" },
+      { "label": "d", "text": "$\\dfrac{\\sqrt{3}}{10}$" },
+      { "label": "e", "text": "$\\dfrac{3}{10}$" }
+    ],
+    "imagePath": "mat-concomitante-2018/q34.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2018-q35",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 35,
+    "statement": "O conjunto solução da equação $\\log(9x-1)-\\log(2x+7)=\\log2$ é:",
+    "options": [
+      { "label": "a", "text": "$S=\\{3\\}$" },
+      { "label": "b", "text": "$S=\\{4\\}$" },
+      { "label": "c", "text": "$S=\\{5\\}$" },
+      { "label": "d", "text": "$S=\\{1\\}$" },
+      { "label": "e", "text": "$S=\\{2\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2018-q36",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 36,
+    "statement": "Seja g uma função real definida em $g:\\mathbb{R}\\to\\mathbb{R}$, sendo $\\mathbb{R}$ o conjunto dos números reais, tal que $g(x-2)=5x$. Nestas condições, pede-se determinar $g(x+1)$ igual a:",
+    "options": [
+      { "label": "a", "text": "$x+1$" },
+      { "label": "b", "text": "$5x+1$" },
+      { "label": "c", "text": "$5x+15$" },
+      { "label": "d", "text": "$5x+3$" },
+      { "label": "e", "text": "$x-2$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2018-q37",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "Nas figuras seguintes estão indicadas as medidas de um retângulo e de um quadrado, em centímetros. Se essas figuras têm a mesma área, então cada uma delas mede, em decímetros quadrados:",
+    "options": [
+      { "label": "a", "text": "$0{,}256dm^2$" },
+      { "label": "b", "text": "$25{,}6dm^2$" },
+      { "label": "c", "text": "$256dm^2$" },
+      { "label": "d", "text": "$2560dm^2$" },
+      { "label": "e", "text": "$2{,}56dm^2$" }
+    ],
+    "imagePath": "mat-concomitante-2018/q37.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2018-q38",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 38,
+    "statement": "Dada a função $f(x)=\\log\\left(\\dfrac{4x+8}{6x}\\right)$, o valor de x para que se tenha $f(x)=0$ é igual a:",
+    "options": [
+      { "label": "a", "text": "7" },
+      { "label": "b", "text": "5" },
+      { "label": "c", "text": "6" },
+      { "label": "d", "text": "8" },
+      { "label": "e", "text": "4" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2018-q39",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 39,
+    "statement": "Uma revendedora de automotivos cobra 30% de entrada mínima para financiamento de seus veículos. Um automóvel que custa R$ 32000,00 nessa revendedora terá entrada mínima de:",
+    "options": [
+      { "label": "a", "text": "R$ 9600,00" },
+      { "label": "b", "text": "R$ 8400,00" },
+      { "label": "c", "text": "R$ 10800,00" },
+      { "label": "d", "text": "R$ 9400,00" },
+      { "label": "e", "text": "R$ 11.600,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2018-q40",
+    "examId": "mat-concomitante-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 40,
+    "statement": "No triângulo ABC seguinte, $\\overline{MN}$ é paralelo a $\\overline{BC}$, sendo as medidas dos segmentos em centímetros. A medida do segmento $\\overline{AB}$ é igual a:",
+    "options": [
+      { "label": "a", "text": "6cm" },
+      { "label": "b", "text": "12cm" },
+      { "label": "c", "text": "5cm" },
+      { "label": "d", "text": "7cm" },
+      { "label": "e", "text": "3cm" }
+    ],
+    "imagePath": "mat-concomitante-2018/q40.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2018-q21",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "Sabe-se que o número de horas de permanência no estacionamento em um Shopping de São Luís é obtido sempre pelo arredondamento para o primeiro número inteiro imediatamente superior, quando o tempo de permanência do veículo não é um inteiro de horas, isto é, paga-se pela fração de hora o valor correspondente a uma hora. São cobrados R$5,00 pela permanência de um veículo por até 4 horas. A partir daí, são cobrados R$ 3,00 por hora excedente. Qual o valor a ser pago por um cliente que permaneceu com seu veículo por 7 horas e 23 minutos?",
+    "options": [
+      { "label": "a", "text": "R$14,00" },
+      { "label": "b", "text": "R$20,00" },
+      { "label": "c", "text": "R$19,00" },
+      { "label": "d", "text": "R$17,00" },
+      { "label": "e", "text": "R$24,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2018-q22",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 22,
+    "statement": "O custo para se produzir bolinhos de tapioca é R$ 4,00 por unidade mais um valor fixo de R$ 20,00. Sabendo-se que cada bolinho é vendido por R$ 5,00, qual a expressão que representa o lucro $L(x)$ na venda desses bolinhos, sendo x o número de bolinhos vendidos?",
+    "options": [
+      { "label": "a", "text": "$L(x)=x-20$" },
+      { "label": "b", "text": "$L(x)=5x-120$" },
+      { "label": "c", "text": "$L(x)=4x-20$" },
+      { "label": "d", "text": "$L(x)=5x-140$" },
+      { "label": "e", "text": "$L(x)=x-120$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2018-q23",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "O Senhor Geraldo dispõe de 18 metros lineares de cerca e pretende construir um cercado retangular de modo que a área cercada seja a maior possível, utilizando-se toda a cerca. Qual será a área máxima que ele poderá cercar?",
+    "options": [
+      { "label": "a", "text": "$20{,}25m^2$" },
+      { "label": "b", "text": "$18m^2$" },
+      { "label": "c", "text": "$20m^2$" },
+      { "label": "d", "text": "$21{,}75m^2$" },
+      { "label": "e", "text": "$22{,}55m^2$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2018-q24",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 24,
+    "statement": "Em um triângulo retângulo ABC, a hipotenusa mede 15 metros e um dos catetos mede 12m. O perímetro desse triângulo vale?",
+    "options": [
+      { "label": "a", "text": "11m" },
+      { "label": "b", "text": "28m" },
+      { "label": "c", "text": "64m" },
+      { "label": "d", "text": "10m" },
+      { "label": "e", "text": "36m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2018-q25",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 25,
+    "statement": "O valor de x na solução da equação $(3^x-4\\sqrt{5})\\cdot(3^x+4\\sqrt{5})=1$ é um número:",
+    "options": [
+      { "label": "a", "text": "inteiro negativo." },
+      { "label": "b", "text": "ímpar." },
+      { "label": "c", "text": "irracional negativo." },
+      { "label": "d", "text": "irracional positivo." },
+      { "label": "e", "text": "inteiro positivo." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2018-q26",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 26,
+    "statement": "Considerando $\\log2\\cong0{,}301$ e $\\log7\\cong0{,}845$, qual o valor aproximado de $\\log_8 49$?",
+    "options": [
+      { "label": "a", "text": "2,05" },
+      { "label": "b", "text": "1,87" },
+      { "label": "c", "text": "2,23" },
+      { "label": "d", "text": "2,19" },
+      { "label": "e", "text": "2,37" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2018-q27",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 27,
+    "statement": "Seja x um arco tal que $x\\in\\left[\\dfrac{\\pi}{2},\\dfrac{3\\pi}{4}\\right]$ e $sen\\,x-\\cos x=\\dfrac{\\sqrt6}{2}$. Pode-se afirmar que $\\cos(2x)$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$-\\dfrac{\\sqrt3}{2}$" },
+      { "label": "b", "text": "$-\\dfrac{1}{2}$" },
+      { "label": "c", "text": "$-\\dfrac{\\sqrt2}{2}$" },
+      { "label": "d", "text": "$-\\dfrac{\\sqrt6}{4}$" },
+      { "label": "e", "text": "$-\\dfrac{\\sqrt3}{4}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2018-q28",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 28,
+    "statement": "Os números reais x, y, z e w, nessa ordem, formam uma progressão aritmética. Qual o valor do determinante da matriz $A=\\begin{bmatrix}10^x&10^y\\\\10^z&10^w\\end{bmatrix}$?",
+    "options": [
+      { "label": "a", "text": "10" },
+      { "label": "b", "text": "1" },
+      { "label": "c", "text": "$-1$" },
+      { "label": "d", "text": "0" },
+      { "label": "e", "text": "100" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2018-q29",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 29,
+    "statement": "O valor do maior número que devemos adicionar a 2, 5 e 7, para que tenhamos nessa ordem, três números em progressão geométrica é igual a:",
+    "options": [
+      { "label": "a", "text": "$-11$" },
+      { "label": "b", "text": "$-15$" },
+      { "label": "c", "text": "11" },
+      { "label": "d", "text": "$-17$" },
+      { "label": "e", "text": "14" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2018-q30",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 30,
+    "statement": "Se $\\begin{pmatrix}4&1\\\\-2&5\\end{pmatrix}\\cdot\\begin{pmatrix}x\\\\y\\end{pmatrix}=\\begin{pmatrix}6\\\\8\\end{pmatrix}$, então $x^2+y^{-1}$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{7}{10}$" },
+      { "label": "b", "text": "$\\dfrac{3}{20}$" },
+      { "label": "c", "text": "$\\dfrac{3}{2}$" },
+      { "label": "d", "text": "$\\dfrac{4}{10}$" },
+      { "label": "e", "text": "$\\dfrac{8}{10}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2018-q31",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 31,
+    "statement": "Em um grupo de estudantes há 8 meninas e 6 rapazes. Serão formadas comissões com 5 dessas pessoas de modo que ambos os gêneros estejam representados desde que o número de meninas seja superior ao número de rapazes. Quantas comissões distintas com essas características poderão ser formadas?",
+    "options": [
+      { "label": "a", "text": "1028" },
+      { "label": "b", "text": "1620" },
+      { "label": "c", "text": "1340" },
+      { "label": "d", "text": "1180" },
+      { "label": "e", "text": "1260" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2018-q32",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 32,
+    "statement": "Allan e Bernardo brincam com um dado de 6 faces. Cada um lança uma vez o dado e vence quem tirar o maior número no lançamento. Sabendo que Allan fez o primeiro lançamento e tirou o número 5, qual a probabilidade de Allan vencer a brincadeira no primeiro lançamento?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{6}{6}$" },
+      { "label": "b", "text": "$\\dfrac{5}{6}$" },
+      { "label": "c", "text": "$\\dfrac{4}{6}$" },
+      { "label": "d", "text": "$\\dfrac{1}{6}$" },
+      { "label": "e", "text": "$\\dfrac{1}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2018-q33",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 33,
+    "statement": "Qual o termo central do desenvolvimento do binômio $\\left(2\\sqrt{x}+\\dfrac{1}{\\sqrt{y}}\\right)^4\\cdot\\left(2\\sqrt{x}-\\dfrac{1}{\\sqrt{y}}\\right)^4$?",
+    "options": [
+      { "label": "a", "text": "$96x^2y^{-2}$" },
+      { "label": "b", "text": "$48x^4y^{-4}$" },
+      { "label": "c", "text": "$72x^2y^{-2}$" },
+      { "label": "d", "text": "$60x^2y^{-2}$" },
+      { "label": "e", "text": "$90x^4y^{-4}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2018-q34",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 34,
+    "statement": "Considere uma pirâmide maciça inscrita em um prisma quadrangular reto oco, de modo que a base da pirâmide seja comum à base inferior do prisma e o vértice V da pirâmide seja um ponto qualquer com base superior desse prisma. Pode-se afirmar que o volume do prisma NÃO ocupado pela pirâmide é:",
+    "options": [
+      { "label": "a", "text": "metade do volume do prisma." },
+      { "label": "b", "text": "igual ao volume da pirâmide." },
+      { "label": "c", "text": "o dobro do volume da pirâmide." },
+      { "label": "d", "text": "o triplo do volume da pirâmide." },
+      { "label": "e", "text": "três quartos do volume do prisma." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2018-q35",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 35,
+    "statement": "Sabe-se que o copo de milk shake de uma sorveteria tem a forma de um cilindro reto de raio $r$ e altura $h$. Essa sorveteria está substituindo os copos cilíndricos por taças em formato de um cone reto invertido de mesma capacidade, de modo que o raio da borda superior seja o dobro do raio do copo cilíndrico. Qual deve ser a altura da taça em função da altura do primeiro copo?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{3}{4}h$" },
+      { "label": "b", "text": "$\\dfrac{4}{3}h$" },
+      { "label": "c", "text": "$\\dfrac{h}{2}$" },
+      { "label": "d", "text": "$2h$" },
+      { "label": "e", "text": "$h$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2018-q36",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 36,
+    "statement": "Uma esfera de raio 13 cm foi seccionada por um plano distante 5 cm de seu centro. Qual o raio do círculo formado pela região de intersecção do plano com a esfera?",
+    "options": [
+      { "label": "a", "text": "13 cm" },
+      { "label": "b", "text": "12 cm" },
+      { "label": "c", "text": "8 cm" },
+      { "label": "d", "text": "5 cm" },
+      { "label": "e", "text": "10 cm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2018-q37",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "Considere o sistema de coordenadas cartesianas e os pontos X, A, B e C assinalados na figura. Sabe-se que os pontos A, B e C são equidistantes do ponto X. Qual a equação da circunferência que contém os pontos A, B e C?",
+    "options": [
+      { "label": "a", "text": "$x^2+y^2-8x-6y+5=0$" },
+      { "label": "b", "text": "$x^2+y^2-6x-8y-7=0$" },
+      { "label": "c", "text": "$x^2+y^2-6x+8y+3=0$" },
+      { "label": "d", "text": "$x^2+y^2+6x-8y-2=0$" },
+      { "label": "e", "text": "$x^2+2y^2-8x-6y-1=0$" }
+    ],
+    "imagePath": "mat-subsequente-2018/q37.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2018-q38",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 38,
+    "statement": "Sejam $A(1,2)$, $B(-2,3)$ e $C(4,5)$ os vértices de um triângulo no plano cartesiano. O valor da área deste triângulo é?",
+    "options": [
+      { "label": "a", "text": "8 unidades de área" },
+      { "label": "b", "text": "$-12$ unidades de área" },
+      { "label": "c", "text": "12 unidades de área" },
+      { "label": "d", "text": "6 unidades de área" },
+      { "label": "e", "text": "11 unidades de área" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2018-q39",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 39,
+    "statement": "Sabendo que $Q(x)$ é o quociente da divisão de $P(x)=x^3-8x^2+2x-12$ por $D(x)=x^2+3x-1$, o valor de $Q(1)$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$-5$" },
+      { "label": "b", "text": "$-11$" },
+      { "label": "c", "text": "10" },
+      { "label": "d", "text": "5" },
+      { "label": "e", "text": "$-10$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2018-q40",
+    "examId": "mat-subsequente-2018",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 40,
+    "statement": "Seja o número complexo $z=\\sqrt2+i\\cdot\\sqrt2$, de unidade imaginária i. Qual o valor de $\\dfrac{4}{\\bar{z}}$, sendo $\\bar{z}$ o conjugado de z?",
+    "options": [
+      { "label": "a", "text": "$\\sqrt2+i\\cdot\\sqrt2$" },
+      { "label": "b", "text": "$\\sqrt2-i\\cdot\\sqrt2$" },
+      { "label": "c", "text": "$2\\sqrt2+i\\cdot2\\sqrt2$" },
+      { "label": "d", "text": "$\\dfrac{\\sqrt2+i\\cdot\\sqrt2}{2}$" },
+      { "label": "e", "text": "$2\\sqrt2-i\\cdot2\\sqrt2$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
