@@ -4707,5 +4707,1008 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2014-q21",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "Sendo p e q as medidas dos lados do retângulo abaixo, de área igual 40 m² e perímetro igual a 26 m, o valor numérico da expressão algébrica $4p^2q+4pq^2$, dentre as alternativas abaixo, é:",
+    "options": [
+      { "label": "a", "text": "1040" },
+      { "label": "b", "text": "4160" },
+      { "label": "c", "text": "2000" },
+      { "label": "d", "text": "2080" },
+      { "label": "e", "text": "1200" }
+    ],
+    "imagePath": "mat-integrada-2014/q21.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2014-q22",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "A figura abaixo representa uma chapa de zinco quadrada, de lado igual $3p+2\\dfrac{1}{2}$ que tem na região central uma perfuração na forma de um quadrado, cujo lado mede $2p+1$, sendo p um número real. A expressão que representa a área hachurada é:",
+    "options": [
+      { "label": "a", "text": "$5p^2+11p+\\dfrac{21}{4}$" },
+      { "label": "b", "text": "$5p^2-10p+\\dfrac{21}{4}$" },
+      { "label": "c", "text": "$5p^2-36p-\\dfrac{16}{5}$" },
+      { "label": "d", "text": "$9p^2+15p+\\dfrac{25}{4}$" },
+      { "label": "e", "text": "$4p^2+4p-1$" }
+    ],
+    "imagePath": "mat-integrada-2014/q22.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2014-q23",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "A área da superfície corporal de uma pessoa pode ser calculada, aproximadamente, pela fórmula de Mosteller, $A=\\dfrac{\\sqrt{p\\cdot h}}{60}$, onde A é a área em m², p é o peso em quilogramas e h, a altura da pessoa em cm. Por esta relação, a área da superfície corporal de uma pessoa que pesa 80kg e tem 1,8m de altura é igual a:",
+    "options": [
+      { "label": "a", "text": "4 m²" },
+      { "label": "b", "text": "2 m²" },
+      { "label": "c", "text": "5 m²" },
+      { "label": "d", "text": "3 m²" },
+      { "label": "e", "text": "1 m²" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2014-q24",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 24,
+    "statement": "Preocupado com a falta de área verde em sua cidade, um governante resolveu aproveitar certo terreno triangular, localizado no cruzamento de duas ruas, para construir uma praça arborizada, conforme a figura abaixo. A área da praça a ser construída, em m², é:",
+    "options": [
+      { "label": "a", "text": "$250\\sqrt3$" },
+      { "label": "b", "text": "$450\\sqrt2$" },
+      { "label": "c", "text": "$300\\sqrt3$" },
+      { "label": "d", "text": "250" },
+      { "label": "e", "text": "450" }
+    ],
+    "imagePath": "mat-integrada-2014/q24.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2014-q25",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 25,
+    "statement": "Para cercar completamente o seu quintal, João pretende construir 30 m de muro que faltam. Utilizando um tipo de tijolo estrutural, ele sabe que são necessários 12,5 tijolos por metro quadrado. A altura do muro deve ser de 2,80m. Quantos tijolos são necessários para a construção deste muro?",
+    "options": [
+      { "label": "a", "text": "375" },
+      { "label": "b", "text": "235" },
+      { "label": "c", "text": "1050" },
+      { "label": "d", "text": "2520" },
+      { "label": "e", "text": "2940" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2014-q26",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Um muro é construído por 4 pedreiros em 8 dias. Quantos pedreiros a mais serão necessários para se construir outro muro, igual ao anterior, em apenas 4 dias?",
+    "options": [
+      { "label": "a", "text": "4 pedreiros" },
+      { "label": "b", "text": "2 pedreiros" },
+      { "label": "c", "text": "6 pedreiros" },
+      { "label": "d", "text": "8 pedreiros" },
+      { "label": "e", "text": "10 pedreiros" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2014-q27",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 27,
+    "statement": "Um copo com formato do cilindro reto tem raio interno e altura medindo 6 cm e 15,0 cm, respectivamente. Um canudinho é colocado dentro do copo, conforme figura abaixo. Sabendo que 4 cm do canudinho ficam para fora do copo, o comprimento total do canudinho é de aproximadamente:",
+    "options": [
+      { "label": "a", "text": "23,2cm" },
+      { "label": "b", "text": "25,0cm" },
+      { "label": "c", "text": "21,0cm" },
+      { "label": "d", "text": "19,2cm" },
+      { "label": "e", "text": "10,0cm" }
+    ],
+    "imagePath": "mat-integrada-2014/q27.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2014-q28",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 28,
+    "statement": "Em certo posto de combustível a soma do preço do litro de gasolina com o preço do litro de álcool é de R$ 5,00. Querendo encher completamente o tanque do carro, nesse posto, Chico resolveu colocar 22 litros de álcool e 28 de gasolina, pagando por isso uma quantia de R$ 126,20. Conforme as informações acima, os valores do litro da gasolina e do álcool são, respectivamente:",
+    "options": [
+      { "label": "a", "text": "R$ 3,30 e R$ 1,70" },
+      { "label": "b", "text": "R$ 2,70 e R$ 2,30" },
+      { "label": "c", "text": "R$ 2,30 e R$ 2,70" },
+      { "label": "d", "text": "R$ 1,30 e R$ 3,70" },
+      { "label": "e", "text": "R$ 2,60 e R$ 2,40" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2014-q29",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 29,
+    "statement": "Joana arruma a sala de sua casa, que tem a forma de um quadrado com 25 m² de área, colocando um tapete também quadrado, medindo 9 m², conforme figura abaixo. A que distância devem ficar os vértices do tapete em relação aos vértices da sala, para que o centro do tapete coincida com o centro da sala?",
+    "options": [
+      { "label": "a", "text": "$\\sqrt2$" },
+      { "label": "b", "text": "$\\dfrac{\\sqrt2}{2}$" },
+      { "label": "c", "text": "$\\dfrac{5\\sqrt2}{2}$" },
+      { "label": "d", "text": "1" },
+      { "label": "e", "text": "2" }
+    ],
+    "imagePath": "mat-integrada-2014/q29.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2014-q30",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 30,
+    "statement": "Simplificando a expressão $\\dfrac{\\sqrt2}{\\sqrt2-1}-\\dfrac{1}{\\sqrt2}-\\dfrac{3}{1+\\sqrt2}$, vamos obter:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{-5\\sqrt2+10}{2}$" },
+      { "label": "b", "text": "$7\\sqrt2+2$" },
+      { "label": "c", "text": "$5\\sqrt2-15$" },
+      { "label": "d", "text": "$\\dfrac{\\sqrt2+3}{6}$" },
+      { "label": "e", "text": "$\\dfrac{7\\sqrt2+1}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2014-q31",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 31,
+    "statement": "Sendo $A=\\dfrac{x^3}{4}$, $B=-\\dfrac{2}{x}$ e $C=-2x^2$, $A\\cdot B-C$ é:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{3x^2}{2}$" },
+      { "label": "b", "text": "$\\dfrac{5x^2}{2}$" },
+      { "label": "c", "text": "$\\dfrac{3x^2}{5}$" },
+      { "label": "d", "text": "$-\\dfrac{5x^2}{2}$" },
+      { "label": "e", "text": "$-\\dfrac{3x^2}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2014-q32",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 32,
+    "statement": "Maria consegue limpar sua casa em 3 horas de serviço e Eline, sua neta, consegue limpar a mesma casa em 2 horas. Se as duas trabalharem juntas, em quanto tempo conseguirão limpar a mesma casa?",
+    "options": [
+      { "label": "a", "text": "1 h e 20 min" },
+      { "label": "b", "text": "1 h e 48 min" },
+      { "label": "c", "text": "1 h e 12 min" },
+      { "label": "d", "text": "2 h e 10 min" },
+      { "label": "e", "text": "2 h e 30 min" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2014-q33",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "O valor de x na figura abaixo é:",
+    "options": [
+      { "label": "a", "text": "60°" },
+      { "label": "b", "text": "45°" },
+      { "label": "c", "text": "50°" },
+      { "label": "d", "text": "30°" },
+      { "label": "e", "text": "70°" }
+    ],
+    "imagePath": "mat-integrada-2014/q33.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2014-q34",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 34,
+    "statement": "Antônio, Beto e Carlos decidiram fazer um concurso público para assistente administrativo. Na prova de x questões, sabe-se que, do total, Antônio acertou 3/4, Beto errou 5/8, e Carlos acertou 5/12. Logo, conclui-se que:",
+    "options": [
+      { "label": "a", "text": "Beto acertou mais questões que Carlos." },
+      { "label": "b", "text": "Beto acertou menos questões que Antônio." },
+      { "label": "c", "text": "Beto acertou mais questões que Antônio." },
+      { "label": "d", "text": "Carlos acertou mais questões que Antônio." },
+      { "label": "e", "text": "Antônio acertou o mesmo número de questões que Carlos." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2014-q35",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 35,
+    "statement": "Felipe economizou durante 3 meses e foi a uma loja comprar um celular. Após uma conversa com o gerente, ele ganhou um desconto de 8%. Sabendo que Felipe pagou, ao todo, R$ 322,00, qual era o preço original desse celular?",
+    "options": [
+      { "label": "a", "text": "R$ 300,00" },
+      { "label": "b", "text": "R$ 350,00" },
+      { "label": "c", "text": "R$ 320,00" },
+      { "label": "d", "text": "R$ 400,00" },
+      { "label": "e", "text": "R$ 450,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2014-q36",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 36,
+    "statement": "Em um shopping, determinada loja colocou um de seus produtos de preço X em promoção, do tipo \"leve 4 e pague 3\". O desconto oferecido por esta loja sobre o preço X deste produto é de:",
+    "options": [
+      { "label": "a", "text": "30%" },
+      { "label": "b", "text": "35%" },
+      { "label": "c", "text": "45%" },
+      { "label": "d", "text": "75%" },
+      { "label": "e", "text": "25%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2014-q37",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 37,
+    "statement": "Em certa cidade do Maranhão uma empresa de táxi \"A\", para realizar uma corrida, os taxistas cobram um valor fixo de R$ 6,00 mais R$ 3,00 por cada quilômetro percorrido. Uma outra empresa \"B\", cobra uma quantia fixa de R$ 3,00 mais R$ 4,00 por cada quilômetro rodado. Desejando realizar um deslocamento de 10 km, a empresa que oferece o menor preço é:",
+    "options": [
+      { "label": "a", "text": "a empresa A, pois cobra 36 reais pela corrida." },
+      { "label": "b", "text": "a empresa A, pois cobra 46 reais pela corrida." },
+      { "label": "c", "text": "a empresa B, pois cobra 36 reais pela corrida." },
+      { "label": "d", "text": "a empresa B, pois cobra 46 reais pela corrida." },
+      { "label": "e", "text": "a empresa A, pois cobra 16 reais pela corrida." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2014-q38",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 38,
+    "statement": "Um número natural x ao ser dividido por 8 obtém-se o quociente 3. O valor de x para que o resto seja o maior possível é:",
+    "options": [
+      { "label": "a", "text": "31" },
+      { "label": "b", "text": "24" },
+      { "label": "c", "text": "30" },
+      { "label": "d", "text": "32" },
+      { "label": "e", "text": "25" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2014-q39",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 39,
+    "statement": "Uma empresa está organizando uma festa de confraternização com sorteio de presentes para seus funcionários. A empresa adquiriu 60 pendrives, 144 canetas e 84 calculadoras para formar pacotes com os três produtos. Cada pessoa sorteada ganharia um pacote. Os pacotes devem ter a mesma quantidade de produtos e essa quantidade deve ser a maior possível. Cada pacote deve ter:",
+    "options": [
+      { "label": "a", "text": "10 canetas, 12 calculadoras e 3 pendrives" },
+      { "label": "b", "text": "12 canetas, 7 calculadoras e 5 pendrives" },
+      { "label": "c", "text": "11 canetas, 7 calculadoras e 12 pendrives" },
+      { "label": "d", "text": "12 canetas, 5 calculadoras e 10 pendrives" },
+      { "label": "e", "text": "12 canetas, 12 calculadoras e 12 pendrives" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2014-q40",
+    "examId": "mat-integrada-2014",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 40,
+    "statement": "Uma região quadrada tem 43200 m² de área. Indicando por ℓ a medida do lado dessa região em metros, o valor de ℓ (considerando $\\sqrt3\\cong1{,}73$) é:",
+    "options": [
+      { "label": "a", "text": "208,6" },
+      { "label": "b", "text": "200,4" },
+      { "label": "c", "text": "207,6" },
+      { "label": "d", "text": "199,5" },
+      { "label": "e", "text": "220,8" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2014-q21",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 21,
+    "statement": "A função a seguir representa a curva de aprendizagem de um indivíduo que relaciona a eficiência com a quantidade de treinamento ou experiência possuída por cada indivíduo. $Q(t)=1200-800\\cdot e^{-\\frac{1}{2}t}$, onde: Q(t) é a quantidade de peças produzidas mensalmente por um funcionário; t representa os meses de experiência; e=2,72. Conforme as informações acima, um funcionário com 4 meses de experiência irá produzir, aproximadamente,",
+    "options": [
+      { "label": "a", "text": "1195 peças." },
+      { "label": "b", "text": "1266 peças." },
+      { "label": "c", "text": "1092 peças." },
+      { "label": "d", "text": "1272 peças." },
+      { "label": "e", "text": "1314 peças." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2014-q22",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 22,
+    "statement": "O pH é uma escala usada na Química para expressar o grau de acidez ou basicidade de uma solução aquosa. Os valores do pH variam de 0 a 14, e pode ser calculado pela expressão pH = -log[H+], sendo que quando 0≤pH<7, a solução é ácida, pH=7 a solução é neutra e quando 7<pH≤14, a solução é básica. Considere: [H+] concentração de íons hidrogênio H+ em mol/l e log2≈0,3. Manuseando certa substância, um químico observou que a mesma apresentou [H+]=4·10⁻² e concluiu que se tratava:",
+    "options": [
+      { "label": "a", "text": "de leite de magnésia com pH=10,5." },
+      { "label": "b", "text": "de sangue com pH=7,3." },
+      { "label": "c", "text": "de suco de limão com pH=3,8." },
+      { "label": "d", "text": "de suco gástrico com pH=1,4." },
+      { "label": "e", "text": "de bicarbonato de sódio com pH=8,4." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2014-q24",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 24,
+    "statement": "A equação modular $|5x+3|=3x+9$, tem conjunto solução igual a:",
+    "options": [
+      { "label": "a", "text": "$\\{-3\\}$" },
+      { "label": "b", "text": "$\\{3,-3\\}$" },
+      { "label": "c", "text": "$\\{-3/2, 3\\}$" },
+      { "label": "d", "text": "$\\{-3/2\\}$" },
+      { "label": "e", "text": "$\\{3\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2014-q25",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 25,
+    "statement": "Um helicóptero levanta vôo seguindo a trajetória exposta na figura abaixo percorrendo 6 km do ponto A ao ponto B e 10 km do ponto B ao C, formando um ângulo $A\\hat{B}C=120°$. Conforme informações acima, a distância do ponto de partida A ao ponto C é de:",
+    "options": [
+      { "label": "a", "text": "26km" },
+      { "label": "b", "text": "14km" },
+      { "label": "c", "text": "16km" },
+      { "label": "d", "text": "18km" },
+      { "label": "e", "text": "10km" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2014-q26",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 26,
+    "statement": "Marque a sentença verdadeira:",
+    "options": [
+      { "label": "a", "text": "$\\sqrt[3]{125}>\\sqrt{49}$" },
+      { "label": "b", "text": "$\\sqrt[3]{1000}>\\sqrt[4]{810000}$" },
+      { "label": "c", "text": "$\\sqrt[7]{2187}<\\sqrt{400}$" },
+      { "label": "d", "text": "$\\sqrt[3]{125}<\\sqrt[5]{32}$" },
+      { "label": "e", "text": "$\\sqrt{144}<\\sqrt[4]{625}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2014-q27",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 27,
+    "statement": "Associe \"V\" para verdadeiro e \"F\" para falso nas afirmações: I. As diagonais de qualquer retângulo são congruentes. II. As diagonais de qualquer losango são congruentes. III. As diagonais de um quadrado são congruentes. IV. As diagonais de qualquer retângulo são perpendiculares entre si. V. As diagonais de qualquer losango são perpendiculares entre si. VI. As diagonais de um quadrado são perpendiculares entre si. A sequência das associações nas afirmações anteriores é:",
+    "options": [
+      { "label": "a", "text": "I-V; II-F; III-F; IV-V; V-V; VI-V" },
+      { "label": "b", "text": "I-V; II-F; III-F; IV-F; V-V; VI-V" },
+      { "label": "c", "text": "I-V; II-F; III-V; IV-F; V-V; VI-V" },
+      { "label": "d", "text": "I-F; II-F; III-F; IV-V; V-V; VI-F" },
+      { "label": "e", "text": "I-V; II-V; III-V; IV-V; V-V; VI-V" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2014-q28",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 28,
+    "statement": "O valor numérico da expressão $\\left[-1+\\left(-\\dfrac{1}{2}-\\dfrac{1}{4}+1\\right)^2\\right]\\div\\left(-\\dfrac{3}{4}\\right)$ é:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{5}{4}$" },
+      { "label": "b", "text": "$-\\dfrac{5}{4}$" },
+      { "label": "c", "text": "$\\dfrac{4}{5}$" },
+      { "label": "d", "text": "$-\\dfrac{4}{5}$" },
+      { "label": "e", "text": "$\\dfrac{45}{64}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2014-q29",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 29,
+    "statement": "O valor real de a para que $f(x)=\\dfrac{2x+6}{x-a}$ possua como inversa a função $f^{-1}(x)=\\dfrac{5x+6}{x-2}$ é igual a:",
+    "options": [
+      { "label": "a", "text": "7" },
+      { "label": "b", "text": "3" },
+      { "label": "c", "text": "10" },
+      { "label": "d", "text": "6" },
+      { "label": "e", "text": "5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2014-q30",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 30,
+    "statement": "Gina é enfermeira e vai trabalhar num hospital de sua cidade. O administrador do hospital disse que ela teria duas formas de receber seu salário. Opção A: Ela poderia receber um salário fixo de R$600,00 mais R$30,00 por cada plantão. Opção B: R$ 50,00 por cada plantão trabalhado, sem salário fixo. Quantos plantões mensais, no mínimo, Gina terá que trabalhar para que a opção B seja mais vantajosa que a opção A?",
+    "options": [
+      { "label": "a", "text": "37" },
+      { "label": "b", "text": "25" },
+      { "label": "c", "text": "28" },
+      { "label": "d", "text": "33" },
+      { "label": "e", "text": "31" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2014-q31",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 31,
+    "statement": "O valor de k, sabendo que entre as funções f(x)=2x+6 e p(x)=4x-2k ocorrerá p[f(x)]=f[p(x)], é:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{9}$" },
+      { "label": "b", "text": "0" },
+      { "label": "c", "text": "3" },
+      { "label": "d", "text": "$-3$" },
+      { "label": "e", "text": "$-9$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2014-q32",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 32,
+    "statement": "Sendo a função $f(x)=3x^2$ com f:R→R e $g(x)=2x+m$ com g:R→R, o valor de m, sabendo que $f(g(1))=0$, é:",
+    "options": [
+      { "label": "a", "text": "0 ou $-2$" },
+      { "label": "b", "text": "2" },
+      { "label": "c", "text": "2 ou 4" },
+      { "label": "d", "text": "$-2$" },
+      { "label": "e", "text": "2 ou $-4$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2014-q33",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 33,
+    "statement": "Um grupo de torcedores maranhenses fretou um avião com 200 lugares para assistir o jogo do Sampaio Correa contra o Macaé no Rio de Janeiro, jogo válido pelas oitavas do Campeonato Brasileiro da série C. Devendo cada participante pagar R$ 600,00 pelo transporte aéreo, acrescidos de R$20,00 para cada lugar do avião que ficasse vago. Nessas condições, o número de passagens vendidas que torna máxima a quantia arrecadada por esse grupo de torcedores é igual a:",
+    "options": [
+      { "label": "a", "text": "125" },
+      { "label": "b", "text": "150" },
+      { "label": "c", "text": "115" },
+      { "label": "d", "text": "180" },
+      { "label": "e", "text": "135" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2014-q34",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 34,
+    "statement": "A figura mostra os gráficos de $y=x^2$ e $y=-x^2+q$. A medida $\\overline{mn}$ é:",
+    "options": [
+      { "label": "a", "text": "$6\\sqrt2$" },
+      { "label": "b", "text": "$4\\sqrt2$" },
+      { "label": "c", "text": "$3\\sqrt6$" },
+      { "label": "d", "text": "$6\\sqrt3$" },
+      { "label": "e", "text": "$5\\sqrt3$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2014-q35",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 35,
+    "statement": "O jogador do Sampaio Correia, Arlindo Maracanã, em uma cobrança de falta, num jogo do Campeonato Brasileiro da Serie C, chuta a bola em direção ao gol, e a trajetória da bola é dada pela função $h(d)=-\\dfrac{d^2}{75}+\\dfrac{2d}{5}$ sendo d a distância do jogador até a projeção ortogonal da bola no chão em metros e h(d) a altura da bola. Considerando-se que a trave do gol tem 2,44 m de altura por 7,32 m de largura, e que o jogador está a 25 m da linha do gol, é verdade que:",
+    "options": [
+      { "label": "a", "text": "Se o goleiro não interceptar a bola, o jogador marcará o gol." },
+      { "label": "b", "text": "A bola passará por cima do gol." },
+      { "label": "c", "text": "A bola baterá na trave de cima do gol." },
+      { "label": "d", "text": "A bola tocará no chão antes da linha do gol a 10m." },
+      { "label": "e", "text": "A bola baterá no chão antes da linha do gol a 1m." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2014-q36",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 36,
+    "statement": "Apesar de a tecnologia resultar na produção de celulares cada vez mais modernos e compactos o preço deles estão mais baixo. Estima-se que daqui a x meses o preço de certo modelo de celular será $P(x)=3000+\\dfrac{2000}{x+2}$ reais. Considerando a relação P(x), o preço de um celular será 3200 reais daqui a:",
+    "options": [
+      { "label": "a", "text": "6 meses" },
+      { "label": "b", "text": "8 meses" },
+      { "label": "c", "text": "7 meses" },
+      { "label": "d", "text": "9 meses" },
+      { "label": "e", "text": "2 meses" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2014-q37",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "Numa sala retangular de um dos laboratórios do IFMA, a parte hachurada da figura abaixo está destinada à pesquisa de clonagem. A área hachurada, em função de q e p, é:",
+    "options": [
+      { "label": "a", "text": "$6q+14p-pq$" },
+      { "label": "b", "text": "$p+6q-q^2$" },
+      { "label": "c", "text": "$p-12q+pq$" },
+      { "label": "d", "text": "$4p+8q-pq$" },
+      { "label": "e", "text": "$p\\cdot q-6q+4p$" }
+    ],
+    "imagePath": "mat-concomitante-2014/q37.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2014-q38",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 38,
+    "statement": "Em relação ao número $\\dfrac{\\sqrt{7-2\\sqrt{10}}}{\\sqrt5-\\sqrt2}$, pode-se afirmar que é um número:",
+    "options": [
+      { "label": "a", "text": "racional, mas não inteiro." },
+      { "label": "b", "text": "irracional negativo" },
+      { "label": "c", "text": "inteiro negativo" },
+      { "label": "d", "text": "irracional positivo" },
+      { "label": "e", "text": "natural" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2014-q39",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 39,
+    "statement": "Em uma entrevista para seleção de um gestor de produção de uma determinada empresa, o diretor de recursos humanos fez a seguinte pergunta para o candidato: \"O dia em que nasci é um número primo maior do que o quadrado e menor que o cubo do mês em que nasci. A soma do dia do nascimento com o mês do nascimento é também um número primo, mas a diferença não é um número primo. Qual a data do meu nascimento?\" A fim de ser bem sucedido na entrevista, o candidato deveria acertar a resposta. Qual a alternativa ele deveria marcar?",
+    "options": [
+      { "label": "a", "text": "11/03" },
+      { "label": "b", "text": "19/04" },
+      { "label": "c", "text": "13/04" },
+      { "label": "d", "text": "30/05" },
+      { "label": "e", "text": "27/04" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2014-q40",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 40,
+    "statement": "O valor da expressão $\\sqrt{\\dfrac{2+\\sqrt3}{2-\\sqrt3}}+\\sqrt{\\dfrac{2-\\sqrt3}{2+\\sqrt3}}$ é:",
+    "options": [
+      { "label": "a", "text": "2" },
+      { "label": "b", "text": "1" },
+      { "label": "c", "text": "$\\sqrt2$" },
+      { "label": "d", "text": "$2\\sqrt{2+\\sqrt3}$" },
+      { "label": "e", "text": "4" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2014-q21",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 21,
+    "statement": "A reprografia Copex, para atrair consumidores, faz a seguinte promoção: até 100 cópias, o valor unitário por cópia é de R$ 0,15; a partir de 101 cópias o valor passa para R$ 0,10 por cópia. Se uma pessoa necessitar tirar n cópias, a expressão que representa o gasto, em reais, será:",
+    "options": [
+      { "label": "a", "text": "$\\begin{cases}0{,}15n, & n\\le100\\\\0{,}10n, & n>100\\end{cases}$" },
+      { "label": "b", "text": "$\\begin{cases}100, & n\\le100\\\\10+0{,}15n, & n>100\\end{cases}$" },
+      { "label": "c", "text": "$15+0{,}10n$" },
+      { "label": "d", "text": "$100+0{,}15n$" },
+      { "label": "e", "text": "$\\begin{cases}0{,}15n, & n\\le100\\\\100+0{,}15n, & n>100\\end{cases}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2014-q22",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Senhor Antônio é um dos feirantes mais conhecidos na cidade de Cidelândia. Ele comprou uma saca de arroz que supostamente tinha 100 kg do produto, pelo valor de R$ 135,00. Na revenda do produto, percebeu que, na saca de arroz, haviam apenas 90 kg do produto. Como ele deseja obter um lucro de R$ 0,50 por quilograma vendido, o preço de venda de cada quilograma deverá ser, em reais:",
+    "options": [
+      { "label": "a", "text": "1,80" },
+      { "label": "b", "text": "1,85" },
+      { "label": "c", "text": "1,50" },
+      { "label": "d", "text": "2,00" },
+      { "label": "e", "text": "1,95" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2014-q23",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Determinando as raízes da equação $x^2-14x+48=0$ temos, em centímetros, as medidas dos catetos de um triângulo retângulo. Qual é a medida da altura relativa à hipotenusa desse triângulo, em centímetros:",
+    "options": [
+      { "label": "a", "text": "4,5" },
+      { "label": "b", "text": "3,6" },
+      { "label": "c", "text": "4,8" },
+      { "label": "d", "text": "7,2" },
+      { "label": "e", "text": "7,5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2014-q24",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 24,
+    "statement": "Seja a matriz $A=(a_{ij})_{2\\times2}$ definida por $a_{ij}=i+j$ e $A^{-1}$ a sua matriz inversa. Nessas condições é verdade que a matriz $A^{-1}$ é:",
+    "options": [
+      { "label": "a", "text": "$\\begin{pmatrix}-4&3\\\\3&-2\\end{pmatrix}$" },
+      { "label": "b", "text": "$\\begin{pmatrix}-4&-3\\\\-3&-2\\end{pmatrix}$" },
+      { "label": "c", "text": "$\\begin{pmatrix}2&-3\\\\-3&4\\end{pmatrix}$" },
+      { "label": "d", "text": "$\\begin{pmatrix}3&4\\\\2&-3\\end{pmatrix}$" },
+      { "label": "e", "text": "$\\begin{pmatrix}4&3\\\\3&-2\\end{pmatrix}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2014-q25",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 25,
+    "statement": "O valor de n para a equação $(n-2)!=720$ é:",
+    "options": [
+      { "label": "a", "text": "6" },
+      { "label": "b", "text": "7" },
+      { "label": "c", "text": "9" },
+      { "label": "d", "text": "5" },
+      { "label": "e", "text": "8" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2014-q26",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 26,
+    "statement": "Duas retas não-verticais e coplanares r e s de equações reduzidas $y=m_rx+q_r$ e $y=m_sx+q_s$, respectivamente, são: I. Paralelas distintas se, e somente se, $m_r=m_s$ e $q_r\\ne q_s$. II. Paralelas coincidentes se, e somente se, $m_r\\ne m_s$ e $q_r\\ne q_s$. III. Concorrentes se, e somente se, $m_r\\ne m_s$. As afirmações corretas são:",
+    "options": [
+      { "label": "a", "text": "I" },
+      { "label": "b", "text": "II e III" },
+      { "label": "c", "text": "III" },
+      { "label": "d", "text": "II" },
+      { "label": "e", "text": "I e III" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2014-q27",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 27,
+    "statement": "Considere as seguintes afirmações: I. Sendo f(x) uma função definida de A em B, ela é função sobrejetora quando o conjunto imagem é igual a B. II. Toda função não é relação. III. Sendo uma função f definida de A em B e injetora, considerando para todo $x_1,x_2\\in A$ com $x_1\\ne x_2$, temos $f(x_1)\\ne f(x_2)$. Dentre as afirmações anteriores tem-se:",
+    "options": [
+      { "label": "a", "text": "Apenas I está correta" },
+      { "label": "b", "text": "I e III estão corretas" },
+      { "label": "c", "text": "Apenas II está correta" },
+      { "label": "d", "text": "I, II e III estão corretas" },
+      { "label": "e", "text": "Apenas III está correta" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2014-q28",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 28,
+    "statement": "Um reservatório em forma de uma pirâmide hexagonal regular tem 3 m de altura e possui o perímetro da base igual a 12 m. A capacidade volumétrica desse reservatório é:",
+    "options": [
+      { "label": "a", "text": "$6\\sqrt3\\ m^3$" },
+      { "label": "b", "text": "$9\\sqrt3\\ m^3$" },
+      { "label": "c", "text": "$8\\pi\\ m^3$" },
+      { "label": "d", "text": "$12\\sqrt3\\ m^3$" },
+      { "label": "e", "text": "$16\\pi\\ m^3$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2014-q29",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 29,
+    "statement": "Um pedreiro observou que a caixa d'água, de formato cilíndrico, projetada com 2 m de diâmetro da base e 3 m de altura, não atenderia as necessidades de seu cliente. Resolveu então aumentar em 100% o diâmetro da base mantendo a mesma altura. Com essa alteração, o aumento no volume foi de:",
+    "options": [
+      { "label": "a", "text": "$9\\pi\\ m^3$" },
+      { "label": "b", "text": "$12\\pi\\ m^3$" },
+      { "label": "c", "text": "$8\\pi\\ m^3$" },
+      { "label": "d", "text": "$6\\pi\\ m^3$" },
+      { "label": "e", "text": "$14\\pi\\ m^3$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2014-q30",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 30,
+    "statement": "Sabendo que as coordenadas $(p+k,p-2)$ e $(1-p,k)$ representam o mesmo ponto no plano cartesiano, o valor de $k^p$ será:",
+    "options": [
+      { "label": "a", "text": "$-2$" },
+      { "label": "b", "text": "$-1$" },
+      { "label": "c", "text": "0" },
+      { "label": "d", "text": "$\\sqrt2$" },
+      { "label": "e", "text": "1" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2014-q31",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 31,
+    "statement": "Numa entrevista a 200 alunos de uma escola em que o assunto era o Bulling, 80 responderam que sofreram Bulling verbal, 50 sofreram Bulling físico e 14 sofreram Bulling verbal e físico. O número de alunos que sofrem Bulling físico ou verbal nesta escola é:",
+    "options": [
+      { "label": "a", "text": "70" },
+      { "label": "b", "text": "102" },
+      { "label": "c", "text": "130" },
+      { "label": "d", "text": "116" },
+      { "label": "e", "text": "142" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2014-q32",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 32,
+    "statement": "Chico e seus dois irmãos, Antonio e Joana, foram fazer compras em um supermercado. Chico, o mais velho, é dentre os irmãos, o que sempre gasta mais, e durante as compras ele gastou R$ 900,00. Antonio gastou 1/3 do que Chico gastou e Joana 2/5 da quantidade a qual Antonio gastou. Juntos os três gastaram:",
+    "options": [
+      { "label": "a", "text": "R$ 300,00" },
+      { "label": "b", "text": "R$ 420,00" },
+      { "label": "c", "text": "R$ 1200,00" },
+      { "label": "d", "text": "R$ 1320,00" },
+      { "label": "e", "text": "R$ 1220,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2014-q33",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 33,
+    "statement": "Para uma determinada espécie de roedores $P(t)=2000\\cdot(1{,}1)^t$ representa a população após t meses, em que 2000 é a população inicial. Nestas condições, em quantos meses a população de roedores atingirá 2662 indivíduos?",
+    "options": [
+      { "label": "a", "text": "3" },
+      { "label": "b", "text": "0" },
+      { "label": "c", "text": "1" },
+      { "label": "d", "text": "2" },
+      { "label": "e", "text": "4" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2014-q34",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 34,
+    "statement": "Permutam-se de todas as formas possíveis os algarismos 1, 2, 4, 6, 7 e escrevem-se os números formados em ordem crescente. A posição ocupada pelo número 42167 é:",
+    "options": [
+      { "label": "a", "text": "31ª" },
+      { "label": "b", "text": "30ª" },
+      { "label": "c", "text": "55ª" },
+      { "label": "d", "text": "49ª" },
+      { "label": "e", "text": "54ª" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2014-q35",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 35,
+    "statement": "O gráfico acima é a representação geométrica de um polinômio da forma $P(x)=x^3+bx^2+cx+d$, cuja expressão é dada por:",
+    "options": [
+      { "label": "a", "text": "$P(x)=x^3+6x^2+x+30$" },
+      { "label": "b", "text": "$P(x)=x^3-6x^2-x+30$" },
+      { "label": "c", "text": "$P(x)=x^3-x^2-6x+30$" },
+      { "label": "d", "text": "$P(x)=x^3-30x^2-x+6$" },
+      { "label": "e", "text": "$P(x)=x^3+6x^2-30x+1$" }
+    ],
+    "imagePath": "mat-subsequente-2014/q35.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2014-q36",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 36,
+    "statement": "Sejam A e B matrizes quadradas de ordem 2. Se $A=\\begin{pmatrix}2&3\\\\-1&1\\end{pmatrix}$ e B é tal que $B=2A^2$, então, o determinante de B é igual a:",
+    "options": [
+      { "label": "a", "text": "100" },
+      { "label": "b", "text": "125" },
+      { "label": "c", "text": "25" },
+      { "label": "d", "text": "20" },
+      { "label": "e", "text": "5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2014-q37",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 37,
+    "statement": "Sejam m, n e p números reais estritamente positivos e distintos entre si. Se log m, log n e log p são termos consecutivos de uma progressão aritmética, então é correto afirmar que:",
+    "options": [
+      { "label": "a", "text": "$p<n<m$." },
+      { "label": "b", "text": "$m,n$ e $p$ é uma progressão aritmética." },
+      { "label": "c", "text": "$m+c=p$" },
+      { "label": "d", "text": "$m<n<p$" },
+      { "label": "e", "text": "$m,n$ e $p$ é uma progressão geométrica" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2014-q38",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 38,
+    "statement": "Numa escola do ensino médio da rede Estadual de São Luís do Maranhão, existem 5 professores de Matemática e 4 de Física. Quantas comissões de 3 professores podemos formar, tendo cada uma delas 2 matemáticos e um físico?",
+    "options": [
+      { "label": "a", "text": "40" },
+      { "label": "b", "text": "45" },
+      { "label": "c", "text": "30" },
+      { "label": "d", "text": "14" },
+      { "label": "e", "text": "10" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2014-q39",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 39,
+    "statement": "No estudo de trigonometria, dois estudantes do IFMA se depararam com as seguintes desigualdades: I. $\\cos(-20°)<\\cos35°$  II. $sen20°<sen35°$  III. $\\cos(-20°)<sen(-35°)$. Está(ão) correta(s):",
+    "options": [
+      { "label": "a", "text": "I e III" },
+      { "label": "b", "text": "I" },
+      { "label": "c", "text": "III" },
+      { "label": "d", "text": "I e II" },
+      { "label": "e", "text": "II" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2014-q40",
+    "examId": "mat-subsequente-2014",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 40,
+    "statement": "Um professor do IFMA encontra-se no Aeroporto Internacional Marechal Cunha Machado em São Luís-MA (ponto A) e pretende ir para sua residência (ponto R), distante 10 km do aeroporto, utilizando um taxi cujo valor da corrida, em reais, é calculado pela expressão P(x)=8+1,8x, em que x é o número de quilômetros percorridos e P(x) o valor da corrida. Se $\\hat{B}=90°$, $\\hat{C}=30°$ e se o taxi fizer o percurso $\\overline{AB}+\\overline{BR}$, conforme indicado na figura, o professor deverá pagar pela corrida: (Considere $\\sqrt3\\cong1{,}7$)",
+    "options": [
+      { "label": "a", "text": "32,30" },
+      { "label": "b", "text": "40,50" },
+      { "label": "c", "text": "31,40" },
+      { "label": "d", "text": "52,50" },
+      { "label": "e", "text": "30,45" }
+    ],
+    "imagePath": "mat-subsequente-2014/q40.png",
+    "correctAnswer": "a"
   }
 ]
