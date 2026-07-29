@@ -32,6 +32,8 @@ export const MATH_TOPICS: Topic[] = [
   { slug: "trigonometria", name: "Trigonometria", order: 10, color: "#84cc16" },
   { slug: "estatistica-probabilidade", name: "Estatística e Probabilidade", order: 11, color: "#a855f7" },
   { slug: "matematica-financeira", name: "Matemática Financeira", order: 12, color: "#0ea5e9" },
+  { slug: "combinatoria", name: "Análise Combinatória", order: 13, color: "#eab308" },
+  { slug: "progressoes", name: "Progressões (PA e PG)", order: 14, color: "#22c55e" },
 ];
 
 export const TOPICS_BY_DISCIPLINE: Record<Discipline, Topic[]> = {

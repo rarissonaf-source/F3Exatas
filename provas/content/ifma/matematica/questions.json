@@ -338,5 +338,685 @@
     ],
     "imagePath": "mat-integrada-2019/q40.png",
     "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2019-q21",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "O valor da expressão $\\dfrac{4^{10}+4^{10}+4^{10}+4^{10}}{16^6}$ é:",
+    "options": [
+      { "label": "a", "text": "$2^{-2}$" },
+      { "label": "b", "text": "$2^{2}$" },
+      { "label": "c", "text": "$2^{-1}$" },
+      { "label": "d", "text": "$2^{28}$" },
+      { "label": "e", "text": "$2^{56}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2019-q22",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "O valor da expressão $\\left(2^{\\sqrt{2}}\\cdot 3^{\\sqrt{8}}\\right)^{\\sqrt{2}}$ é:",
+    "options": [
+      { "label": "a", "text": "364" },
+      { "label": "b", "text": "362" },
+      { "label": "c", "text": "324" },
+      { "label": "d", "text": "316" },
+      { "label": "e", "text": "320" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2019-q23",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 23,
+    "statement": "O domínio $D(f)$ da função $f$, definida por $f(x)=\\sqrt{x+5}-\\sqrt{2-x}$, é:",
+    "options": [
+      { "label": "a", "text": "$D(f)=\\{x\\in\\mathbb{R}\\mid -2<x<5\\}$" },
+      { "label": "b", "text": "$D(f)=\\{x\\in\\mathbb{R}\\mid -5<x<2\\}$" },
+      { "label": "c", "text": "$D(f)=\\{x\\in\\mathbb{R}\\mid -2\\le x\\le 5\\}$" },
+      { "label": "d", "text": "$D(f)=\\{x\\in\\mathbb{R}\\mid -5\\le x\\le 2\\}$" },
+      { "label": "e", "text": "$D(f)=\\{x\\in\\mathbb{R}\\mid -5\\le x\\le -2\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2019-q24",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 24,
+    "statement": "O valor numérico da expressão $x^{-1}+y^{-2}$ para $x=-\\dfrac{1}{5}$ e $y=0{,}25$ é:",
+    "options": [
+      { "label": "a", "text": "7" },
+      { "label": "b", "text": "10" },
+      { "label": "c", "text": "9" },
+      { "label": "d", "text": "8" },
+      { "label": "e", "text": "11" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2019-q25",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 25,
+    "statement": "Sabendo-se que $x_1$ e $x_2$ são as raízes da equação $\\dfrac{x^2}{2}-bx+c=0$ e que b e c são números reais, podemos afirmar que $x_1^2+x_2^2$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{b^2-2c}{4}$" },
+      { "label": "b", "text": "$4b^2-4c$" },
+      { "label": "c", "text": "$4b^2+4c$" },
+      { "label": "d", "text": "$4b^2-2c$" },
+      { "label": "e", "text": "$\\dfrac{b^2-4c}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2019-q26",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Dois irmãos, um com 40 anos e outro com 50 anos, ao receberem uma herança, decidiram dividir o valor de maneira diretamente proporcional às suas idades. O irmão mais velho recebeu R$ 7.500,00 a mais que o irmão mais novo. O valor total recebido pelo irmão mais novo foi:",
+    "options": [
+      { "label": "a", "text": "R$ 30.000,00" },
+      { "label": "b", "text": "R$ 28.500,00" },
+      { "label": "c", "text": "R$ 75.000,00" },
+      { "label": "d", "text": "R$ 27.500,00" },
+      { "label": "e", "text": "R$ 67.500,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2019-q27",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 27,
+    "statement": "A figura seguinte é o gráfico de uma função real $f$ de domínio $[-3,6]$. Sobre essa função $f$, podemos afirmar que:",
+    "options": [
+      { "label": "a", "text": "$f\\left(-\\dfrac{11}{8}\\right)+f\\left(\\dfrac{3}{2}\\right)=1$" },
+      { "label": "b", "text": "$f(-3)+f\\left(-\\dfrac{11}{8}\\right)=0$" },
+      { "label": "c", "text": "$f(4)+f\\left(\\dfrac{3}{2}\\right)=3$" },
+      { "label": "d", "text": "$f(6)+f\\left(\\dfrac{3}{2}\\right)=7$" },
+      { "label": "e", "text": "Suas raízes são 0 e 4." }
+    ],
+    "imagePath": "mat-concomitante-2019/q27.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2019-q28",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 28,
+    "statement": "Sabe-se que um carro novo, comprado por R$ 40.000,00, sofre uma desvalorização de 10% ao ano. Qual será o valor desse automóvel daqui a três anos?",
+    "options": [
+      { "label": "a", "text": "R$ 26.244,00" },
+      { "label": "b", "text": "R$ 28.000,00" },
+      { "label": "c", "text": "R$ 27.240,00" },
+      { "label": "d", "text": "R$ 29.160,00" },
+      { "label": "e", "text": "R$ 26.000,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2019-q29",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 29,
+    "statement": "Considere as funções reais de variáveis reais dadas por $f(x)=\\sqrt[3]{x}$ e $g(x)=x+2$. O valor de $f(g(-29))$ é:",
+    "options": [
+      { "label": "a", "text": "3" },
+      { "label": "b", "text": "$-3$" },
+      { "label": "c", "text": "$-2$" },
+      { "label": "d", "text": "2" },
+      { "label": "e", "text": "$-1$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2019-q30",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 30,
+    "statement": "A soma de todas as raízes reais da equação modular $|x^2-5x-3|=3$ é:",
+    "options": [
+      { "label": "a", "text": "10" },
+      { "label": "b", "text": "9" },
+      { "label": "c", "text": "8" },
+      { "label": "d", "text": "11" },
+      { "label": "e", "text": "12" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2019-q31",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 31,
+    "statement": "A solução real da inequação $-0{,}1x^2+0{,}9\\ge0$ é:",
+    "options": [
+      { "label": "a", "text": "$\\left]3,+\\infty\\right[$" },
+      { "label": "b", "text": "$\\left]-3,3\\right[$" },
+      { "label": "c", "text": "$\\left]-\\infty,-3\\right]\\cup\\left[3,+\\infty\\right[$" },
+      { "label": "d", "text": "$\\left]-\\infty,-3\\right[$" },
+      { "label": "e", "text": "$\\left[-3,3\\right]$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2019-q32",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 32,
+    "statement": "A parábola da figura seguinte representa o gráfico da função quadrática dada por $f(x)=ax^2+bx+c$, onde $a,b$ e $c$ são constantes reais e $a\\ne0$. O quadrilátero ABCD é um quadrado de 25 unidades de área e o quadrilátero EFGH é um quadrado de 9 unidades de área. O vértice A do quadrado maior coincide com a origem do sistema cartesiano e os pontos D, E, F e C pertencem a uma reta paralela ao eixo x e $\\overline{DE}\\equiv\\overline{FC}$. O valor da soma $a+b+c$ é:",
+    "options": [
+      { "label": "a", "text": "4" },
+      { "label": "b", "text": "5" },
+      { "label": "c", "text": "3" },
+      { "label": "d", "text": "8" },
+      { "label": "e", "text": "9" }
+    ],
+    "imagePath": "mat-concomitante-2019/q32.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2019-q33",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 33,
+    "statement": "Sabendo-se que um triângulo ABC tem seus lados $\\overline{AB}=3cm$, $\\overline{AC}=7cm$ e o ângulo $\\hat{A}=60°$, a medida do lado BC desse triângulo é:",
+    "options": [
+      { "label": "a", "text": "$\\sqrt{37}\\ cm$" },
+      { "label": "b", "text": "$7\\ cm$" },
+      { "label": "c", "text": "$\\sqrt{14}\\ cm$" },
+      { "label": "d", "text": "$49\\ cm$" },
+      { "label": "e", "text": "$8\\ cm$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2019-q34",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 34,
+    "statement": "Qual a solução da equação $\\log_{81}(x-10)^2=\\dfrac{1}{2}$?",
+    "options": [
+      { "label": "a", "text": "$S=\\{13\\}$" },
+      { "label": "b", "text": "$S=\\{7\\}$" },
+      { "label": "c", "text": "$S=\\{7,13\\}$" },
+      { "label": "d", "text": "$S=\\{0\\}$" },
+      { "label": "e", "text": "$S=\\{-7,13\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2019-q35",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "A área do triângulo BCD da figura seguinte é $9cm^2$. Sabendo-se que os segmentos $\\overline{AB}$ e $\\overline{CD}$ são paralelos e medem, respectivamente, 10cm e 6cm, pode-se concluir que a área do triângulo ABD é:",
+    "options": [
+      { "label": "a", "text": "$10cm^2$" },
+      { "label": "b", "text": "$14cm^2$" },
+      { "label": "c", "text": "$13cm^2$" },
+      { "label": "d", "text": "$12cm^2$" },
+      { "label": "e", "text": "$15cm^2$" }
+    ],
+    "imagePath": "mat-concomitante-2019/q35.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2019-q36",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Um triângulo ABC de altura $\\overline{AH}=12cm$ foi cortado por um segmento $\\overline{MP}$ paralelo à base $\\overline{BC}$, conforme a figura seguinte. Sabendo que $\\overline{BC}=8cm$ e $\\overline{MP}=6cm$, o valor da área do triângulo AMP é:",
+    "options": [
+      { "label": "a", "text": "$36cm^2$" },
+      { "label": "b", "text": "$27cm^2$" },
+      { "label": "c", "text": "$24cm^2$" },
+      { "label": "d", "text": "$12cm^2$" },
+      { "label": "e", "text": "$54cm^2$" }
+    ],
+    "imagePath": "mat-concomitante-2019/q36.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2019-q37",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "Na figura seguinte, $2x$ e $\\dfrac{3x}{4}+5$ indicam, respectivamente, as medidas, em centímetros, dos segmentos $\\overline{EF}$ e $\\overline{CF}$. Considerando que os triângulos EFD e CFD são congruentes, é CORRETO afirmar que o segmento $\\overline{CF}$ mede:",
+    "options": [
+      { "label": "a", "text": "8 cm" },
+      { "label": "b", "text": "10 cm" },
+      { "label": "c", "text": "9 cm" },
+      { "label": "d", "text": "12 cm" },
+      { "label": "e", "text": "7 cm" }
+    ],
+    "imagePath": "mat-concomitante-2019/q37.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2019-q38",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 38,
+    "statement": "No paralelogramo ABCD seguinte, o segmento $\\overline{AM}$ é bissetriz do ângulo $\\hat{A}$. Se $\\overline{AC}=8cm$ e $\\overline{DM}=3cm$, logo o perímetro desse paralelogramo mede:",
+    "options": [
+      { "label": "a", "text": "34 cm" },
+      { "label": "b", "text": "36 cm" },
+      { "label": "c", "text": "38 cm" },
+      { "label": "d", "text": "32 cm" },
+      { "label": "e", "text": "30 cm" }
+    ],
+    "imagePath": "mat-concomitante-2019/q38.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2019-q39",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 39,
+    "statement": "O triângulo ABC da figura seguinte representa o formato do local para a construção de uma praça. Sabe-se que o lado $\\overline{AB}$ mede 200m. Uma pessoa que caminhou, em linha reta, do ponto B até o ponto C, andou: (Considere $\\sqrt{2}=1{,}4$)",
+    "options": [
+      { "label": "a", "text": "224 m" },
+      { "label": "b", "text": "252 m" },
+      { "label": "c", "text": "200 m" },
+      { "label": "d", "text": "240 m" },
+      { "label": "e", "text": "280 m" }
+    ],
+    "imagePath": "mat-concomitante-2019/q39.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2019-q40",
+    "examId": "mat-concomitante-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 40,
+    "statement": "A figura seguinte é composta pelo trapézio retângulo ABCD e pelo semicírculo de diâmetro CD. A área da figura é: (Considere $\\pi=3{,}14$)",
+    "options": [
+      { "label": "a", "text": "$858{,}0\\ m^2$" },
+      { "label": "b", "text": "$701{,}0\\ m^2$" },
+      { "label": "c", "text": "$1402{,}0\\ m^2$" },
+      { "label": "d", "text": "$1172{,}0\\ m^2$" },
+      { "label": "e", "text": "$575{,}4\\ m^2$" }
+    ],
+    "imagePath": "mat-concomitante-2019/q40.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2019-q21",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "Em uma sala de aula, 70% dos alunos gostam de Matemática, 30% gostam de Língua Portuguesa e 5% não gostam de nenhuma dessas duas disciplinas. Nesse grupo, o percentual de alunos que gostam das duas disciplinas, ao mesmo tempo, é:",
+    "options": [
+      { "label": "a", "text": "10%" },
+      { "label": "b", "text": "100%" },
+      { "label": "c", "text": "95%" },
+      { "label": "d", "text": "5%" },
+      { "label": "e", "text": "20%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2019-q22",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 22,
+    "statement": "O conjunto solução da inequação $4x-20\\le 7x-2$ é:",
+    "options": [
+      { "label": "a", "text": "$\\{x\\in\\mathbb{R}\\mid x\\le -6\\}$" },
+      { "label": "b", "text": "$\\{x\\in\\mathbb{R}\\mid x\\ge -6\\}$" },
+      { "label": "c", "text": "$\\{x\\in\\mathbb{R}\\mid x>6\\}$" },
+      { "label": "d", "text": "$\\{x\\in\\mathbb{R}\\mid x<-6\\}$" },
+      { "label": "e", "text": "$\\{x\\in\\mathbb{R}\\mid x\\ge6\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2019-q23",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "O número inteiro mais próximo da raiz da equação $\\dfrac{x+4}{2}-\\dfrac{x-5}{5}=0{,}7$ é:",
+    "options": [
+      { "label": "a", "text": "1" },
+      { "label": "b", "text": "$-7$" },
+      { "label": "c", "text": "$-5$" },
+      { "label": "d", "text": "$-3$" },
+      { "label": "e", "text": "$-8$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2019-q24",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 24,
+    "statement": "O produto de todas as soluções da equação $|x^2-12|=4$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$-96$" },
+      { "label": "b", "text": "$-16$" },
+      { "label": "c", "text": "$-8$" },
+      { "label": "d", "text": "128" },
+      { "label": "e", "text": "$-4\\sqrt{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2019-q25",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 25,
+    "statement": "Na figura seguinte, estão representados os gráficos da função afim $f(x)=2x$ e da função quadrática $g(x)=5x-x^2$. As coordenadas $(x,y)$ do ponto de interseção A, são:",
+    "options": [
+      { "label": "a", "text": "$(3,6)$" },
+      { "label": "b", "text": "$(1,2)$" },
+      { "label": "c", "text": "$(4,8)$" },
+      { "label": "d", "text": "$(1,6)$" },
+      { "label": "e", "text": "$(4,4)$" }
+    ],
+    "imagePath": "mat-subsequente-2019/q25.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2019-q26",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 26,
+    "statement": "A respeito do valor de $x$, que satisfaz a equação $3^{2x+2}+9^x=30$, é correto afirmar que:",
+    "options": [
+      { "label": "a", "text": "$x^2=9$" },
+      { "label": "b", "text": "$2x=1$" },
+      { "label": "c", "text": "$x^{-1}=4$" },
+      { "label": "d", "text": "$2x=3$" },
+      { "label": "e", "text": "$x=3^{-1}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2019-q27",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 27,
+    "statement": "Considerando $\\log 2=x$ e $\\log 5=y$, podemos escrever $\\log\\left(\\dfrac{1024}{625}\\right)$ em função de x e y como sendo:",
+    "options": [
+      { "label": "a", "text": "$4x+10y$" },
+      { "label": "b", "text": "$10x+4y$" },
+      { "label": "c", "text": "$10x-4y$" },
+      { "label": "d", "text": "$24x-25y$" },
+      { "label": "e", "text": "$-10x-4y$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2019-q28",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 28,
+    "statement": "Joãozinho utilizou suas 784 bolas de gude para construir uma sequência de figuras. A seguir estão representadas as 4 primeiras figuras obtidas e as seguintes seguirão o mesmo padrão de construção. Sabe-se que, ao construir a última figura, não sobrou nenhuma bola de gude. Quantas figuras Joãozinho construiu?",
+    "options": [
+      { "label": "a", "text": "29" },
+      { "label": "b", "text": "22" },
+      { "label": "c", "text": "26" },
+      { "label": "d", "text": "30" },
+      { "label": "e", "text": "28" }
+    ],
+    "imagePath": "mat-subsequente-2019/q28.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2019-q29",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 29,
+    "statement": "Em uma caixa há 40 bolas numeradas de 1 a 40, de onde serão retiradas, aleatoriamente e sem reposição, três delas. Se a primeira bola sorteada for a de número 11 e a segunda, a de número 39, qual a probabilidade de a terceira sorteada ter um número ímpar?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{9}{19}$" },
+      { "label": "b", "text": "$\\dfrac{19}{20}$" },
+      { "label": "c", "text": "$\\dfrac{1}{2}$" },
+      { "label": "d", "text": "$\\dfrac{9}{20}$" },
+      { "label": "e", "text": "$\\dfrac{10}{19}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2019-q30",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 30,
+    "statement": "O número de anagramas da palavra ESTUDO, que não começam ou não terminam com a letra O, é:",
+    "options": [
+      { "label": "a", "text": "600" },
+      { "label": "b", "text": "720" },
+      { "label": "c", "text": "480" },
+      { "label": "d", "text": "360" },
+      { "label": "e", "text": "300" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2019-q31",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 31,
+    "statement": "Dois grupos de turistas, ao chegarem em São Luís, foram passear na Avenida Litorânea. Durante o passeio, em um dos quiosques dessa avenida, um dos grupos pagou R$ 39,50 pelo consumo de 3 cocos verdes e 7 águas minerais, enquanto o outro grupo pagou R$ 47,50 por 6 cocos verdes e 5 águas minerais, no mesmo quiosque. Nessas condições, 1 coco verde e 2 águas minerais custaram:",
+    "options": [
+      { "label": "a", "text": "R$ 13,50" },
+      { "label": "b", "text": "R$ 13,00" },
+      { "label": "c", "text": "R$ 12,00" },
+      { "label": "d", "text": "R$ 11,50" },
+      { "label": "e", "text": "R$ 12,50" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2019-q32",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "No polígono ABCDE da figura seguinte, os ângulos A, B e E são retos. Qual a medida do ângulo x?",
+    "options": [
+      { "label": "a", "text": "145°" },
+      { "label": "b", "text": "130°" },
+      { "label": "c", "text": "140°" },
+      { "label": "d", "text": "155°" },
+      { "label": "e", "text": "150°" }
+    ],
+    "imagePath": "mat-subsequente-2019/q32.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2019-q33",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "Num trapézio isósceles, a razão entre as medidas de dois ângulos internos consecutivos e não congruentes é $\\dfrac{2}{3}$. O menor ângulo desse trapézio mede:",
+    "options": [
+      { "label": "a", "text": "108°" },
+      { "label": "b", "text": "72°" },
+      { "label": "c", "text": "54°" },
+      { "label": "d", "text": "90°" },
+      { "label": "e", "text": "60°" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2019-q34",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 34,
+    "statement": "No quadrilátero ABCD, tem-se $\\overline{AB}=60m$, $\\overline{BC}=80m$ e $\\overline{AD}=20\\sqrt{5}\\ m$. Qual é a área desse quadrilátero?",
+    "options": [
+      { "label": "a", "text": "$8300m^2$" },
+      { "label": "b", "text": "$3600m^2$" },
+      { "label": "c", "text": "$5200m^2$" },
+      { "label": "d", "text": "$4400m^2$" },
+      { "label": "e", "text": "$5900m^2$" }
+    ],
+    "imagePath": "mat-subsequente-2019/q34.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2019-q35",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 35,
+    "statement": "Uma caixa d'água cúbica de aresta $a$ será substituída por uma outra de mesmo formato e aresta $2a$. É CORRETO afirmar que a capacidade da nova caixa será:",
+    "options": [
+      { "label": "a", "text": "200% da capacidade da atual." },
+      { "label": "b", "text": "800% da capacidade da atual." },
+      { "label": "c", "text": "400% da capacidade da atual." },
+      { "label": "d", "text": "700% da capacidade da atual." },
+      { "label": "e", "text": "500% da capacidade da atual." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2019-q36",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 36,
+    "statement": "Um cilindro e um cone têm a mesma altura e o mesmo volume. Se o raio do cilindro é $r$, o raio do cone é:",
+    "options": [
+      { "label": "a", "text": "$r\\sqrt{3}$" },
+      { "label": "b", "text": "$2r$" },
+      { "label": "c", "text": "$3r$" },
+      { "label": "d", "text": "$r\\sqrt{2}$" },
+      { "label": "e", "text": "$6r$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2019-q37",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "No plano cartesiano seguinte, tem-se a representação do triângulo ABC. Qual a área do triângulo ABC?",
+    "options": [
+      { "label": "a", "text": "$4{,}5m^2$" },
+      { "label": "b", "text": "$3{,}8m^2$" },
+      { "label": "c", "text": "$5{,}1m^2$" },
+      { "label": "d", "text": "$4{,}9m^2$" },
+      { "label": "e", "text": "$3{,}7m^2$" }
+    ],
+    "imagePath": "mat-subsequente-2019/q37.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2019-q38",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 38,
+    "statement": "A circunferência de equação $x^2+y^2-6x-10y+21=0$ intersecta o eixo das ordenadas (eixo y) em dois pontos distintos. Qual a distância entre esses dois pontos?",
+    "options": [
+      { "label": "a", "text": "9 unidades de comprimento" },
+      { "label": "b", "text": "6 unidades de comprimento" },
+      { "label": "c", "text": "5 unidades de comprimento" },
+      { "label": "d", "text": "4 unidades de comprimento" },
+      { "label": "e", "text": "2 unidades de comprimento" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2019-q39",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 39,
+    "statement": "Sabendo-se que um triângulo retângulo ABC está inscrito em um semicírculo de raio 2,5 cm e que um dos seus lados mede 3 cm, a área desse triângulo vale:",
+    "options": [
+      { "label": "a", "text": "$7{,}5cm^2$" },
+      { "label": "b", "text": "$5cm^2$" },
+      { "label": "c", "text": "$5{,}5cm^2$" },
+      { "label": "d", "text": "$8cm^2$" },
+      { "label": "e", "text": "$6cm^2$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2019-q40",
+    "examId": "mat-subsequente-2019",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 40,
+    "statement": "Sabendo-se que na circunferência trigonométrica seguinte, a abscissa do ponto $M$ é $\\dfrac{4}{5}$ e que o ângulo $A\\hat{O}M$ mede $\\alpha$, é CORRETO afirmar que:",
+    "options": [
+      { "label": "a", "text": "$sen(\\alpha)=0{,}8$" },
+      { "label": "b", "text": "$sen(\\alpha)=\\dfrac{1}{5}$" },
+      { "label": "c", "text": "$sen(\\alpha)=0{,}6$" },
+      { "label": "d", "text": "$sen(\\alpha)=\\dfrac{2}{5}$" },
+      { "label": "e", "text": "$sen(\\alpha)=0{,}5$" }
+    ],
+    "imagePath": "mat-subsequente-2019/q40.png",
+    "correctAnswer": "c"
   }
 ]

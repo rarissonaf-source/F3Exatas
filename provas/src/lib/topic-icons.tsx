@@ -25,6 +25,8 @@ import {
   Compass,
   BarChart3,
   TrendingUp,
+  Shuffle,
+  ListOrdered,
   type LucideIcon,
 } from "lucide-react";
 
@@ -58,4 +60,6 @@ export const TOPIC_ICONS: Record<string, LucideIcon> = {
   trigonometria: Compass,
   "estatistica-probabilidade": BarChart3,
   "matematica-financeira": TrendingUp,
+  combinatoria: Shuffle,
+  progressoes: ListOrdered,
 };
