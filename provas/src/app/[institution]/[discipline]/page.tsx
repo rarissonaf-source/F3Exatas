@@ -21,7 +21,7 @@ export default async function DisciplinePage({
   const institutionData = getInstitution(institution);
   if (!disciplineName || !institutionData) notFound();
 
-  const topics = getTopicsWithCounts(institution, discipline);
+  const topics = getTopicsWithCounts(institution, discipline).filter((t) => t.count > 0);
 
   return (
     <main className="flex-1">
@@ -35,19 +35,10 @@ export default async function DisciplinePage({
         <MotionGrid className="grid gap-4 sm:grid-cols-2">
           {topics.map((topic) => {
             const Icon = TOPIC_ICONS[topic.slug];
-            const disabled = topic.count === 0;
             return (
               <MotionItem key={topic.slug}>
-                <Link
-                  href={disabled ? "#" : `/${institution}/${discipline}/${topic.slug}`}
-                  className={disabled ? "pointer-events-none" : "group"}
-                  aria-disabled={disabled}
-                >
-                  <Card
-                    className={`flex-row items-center gap-4 p-5 ring-1 ring-border transition-all ${
-                      disabled ? "opacity-40" : "hover:-translate-y-1 hover:shadow-lg"
-                    }`}
-                  >
+                <Link href={`/${institution}/${discipline}/${topic.slug}`} className="group">
+                  <Card className="flex-row items-center gap-4 p-5 ring-1 ring-border transition-all hover:-translate-y-1 hover:shadow-lg">
                     <span
                       className="flex size-13 shrink-0 items-center justify-center rounded-2xl text-white shadow-sm transition-transform group-hover:scale-105"
                       style={{ backgroundColor: topic.color }}
@@ -59,12 +50,12 @@ export default async function DisciplinePage({
                         {topic.name}
                       </h2>
                       <p className="text-sm font-medium uppercase tracking-wide text-muted-foreground">
-                        {disabled ? "Em breve" : "Ver questões"}
+                        Ver questões
                       </p>
                     </div>
                     <span
                       className="flex h-8 min-w-8 shrink-0 items-center justify-center rounded-full px-2.5 text-sm font-bold text-white"
-                      style={{ backgroundColor: disabled ? "var(--muted-foreground)" : topic.color }}
+                      style={{ backgroundColor: topic.color }}
                     >
                       {topic.count}
                     </span>
@@ -85,7 +76,7 @@ export default async function DisciplinePage({
             {disciplineName.toLowerCase()} por assunto, nas provas da {institutionData.name}.
           </p>
           <TopicDistributionChart
-            topics={topics.filter((t) => t.count > 0).map((t) => ({ slug: t.slug, name: t.name, count: t.count }))}
+            topics={topics.map((t) => ({ slug: t.slug, name: t.name, count: t.count }))}
           />
         </Card>
       </div>
