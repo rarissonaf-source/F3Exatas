@@ -2361,5 +2361,668 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2017-q21",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 21,
+    "statement": "Os irmãos Pâmela, João e Roberto receberam, respectivamente, $\\dfrac{1}{4}$, $\\dfrac{1}{6}$ e $\\dfrac{1}{18}$ de uma determinada herança. A fração desta herança que não foi distribuída entre estes irmãos foi:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{19}{36}$" },
+      { "label": "b", "text": "$\\dfrac{17}{36}$" },
+      { "label": "c", "text": "$\\dfrac{21}{36}$" },
+      { "label": "d", "text": "$\\dfrac{13}{36}$" },
+      { "label": "e", "text": "$\\dfrac{11}{36}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2017-q22",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 22,
+    "statement": "Sabendo-se que $k=0{,}16$, os valores de $\\sqrt{k}$, $6\\sqrt{k}$ e $5k\\sqrt{k}$ são, respectivamente:",
+    "options": [
+      { "label": "a", "text": "0,04; 2 e 1,6" },
+      { "label": "b", "text": "0,4; 2,4 e 0,32" },
+      { "label": "c", "text": "0,004; 2 e 0,16" },
+      { "label": "d", "text": "0,4; 5 e 16" },
+      { "label": "e", "text": "0,4; 10 e 16" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2017-q23",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 23,
+    "statement": "Um determinado mapa do Maranhão foi feito na escala de 1:2 500 000. Sabendo-se que a distância real entre duas cidades maranhenses, Santa Inês e São Luís, é de, aproximadamente, 250 km, determine essa distância no referido mapa.",
+    "options": [
+      { "label": "a", "text": "5 cm" },
+      { "label": "b", "text": "22 cm" },
+      { "label": "c", "text": "10 cm" },
+      { "label": "d", "text": "15 cm" },
+      { "label": "e", "text": "25 cm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2017-q24",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "Numa escola, há x alunos e dois jornais: A e B. Sabe-se que 112 alunos leem o jornal A, 42 leem os jornais A e B, 212 leem apenas um dos jornais e 132 não leem o jornal B. O valor de x é:",
+    "options": [
+      { "label": "a", "text": "385" },
+      { "label": "b", "text": "408" },
+      { "label": "c", "text": "478" },
+      { "label": "d", "text": "316" },
+      { "label": "e", "text": "564" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2017-q25",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 25,
+    "statement": "Os números da sequência (80, 12, y) são inversamente proporcionais aos números da sequência (6, x, 30). Determine o valor da expressão $(x-y)^2$.",
+    "options": [
+      { "label": "a", "text": "196" },
+      { "label": "b", "text": "576" },
+      { "label": "c", "text": "512" },
+      { "label": "d", "text": "145" },
+      { "label": "e", "text": "128" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2017-q26",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Um ourives confecciona pulseiras misturando 36g de ouro para cada 8g de prata. Se uma dessas pulseiras tem 45 gramas de ouro, qual foi a quantidade de prata utilizada?",
+    "options": [
+      { "label": "a", "text": "11 g" },
+      { "label": "b", "text": "12 g" },
+      { "label": "c", "text": "9 g" },
+      { "label": "d", "text": "10 g" },
+      { "label": "e", "text": "14 g" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2017-q27",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 27,
+    "statement": "Qual o conjunto solução da equação $\\dfrac{2x}{5}-\\dfrac{3(x-k)}{4}=\\dfrac{k}{6}$, sendo x a incógnita real?",
+    "options": [
+      { "label": "a", "text": "$S=\\left\\{\\dfrac{5k}{3};\\forall k\\in R\\right\\}$" },
+      { "label": "b", "text": "$S=\\left\\{\\dfrac{k}{6};\\forall k\\in R\\right\\}$" },
+      { "label": "c", "text": "$S=\\left\\{\\dfrac{3}{k};\\forall k\\in R\\right\\}$" },
+      { "label": "d", "text": "$S=\\{-3k;\\forall k\\in R\\}$" },
+      { "label": "e", "text": "$S=\\left\\{\\dfrac{2k}{5};\\forall k\\in R\\right\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2017-q29",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 29,
+    "statement": "A expressão $\\dfrac{2x^2-7x+3}{4x-2}$, com $x\\ne\\dfrac{1}{2}$, é equivalente a qual das expressões abaixo?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{x-3}{2}$" },
+      { "label": "b", "text": "$\\dfrac{2x-7}{2}$" },
+      { "label": "c", "text": "$\\dfrac{x+3}{4}$" },
+      { "label": "d", "text": "$\\dfrac{x-7}{4}$" },
+      { "label": "e", "text": "$x-\\dfrac{1}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2017-q30",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 30,
+    "statement": "Sabe-se que uma das raízes da equação $2kx^2+15x+k-6=0$, na incógnita x, é a oposta da inversa da outra. Qual o valor de k?",
+    "options": [
+      { "label": "a", "text": "4" },
+      { "label": "b", "text": "3" },
+      { "label": "c", "text": "2" },
+      { "label": "d", "text": "$-2$" },
+      { "label": "e", "text": "$-4$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2017-q31",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "Um criador de galinhas dispõe de 80 metros lineares de uma tela para a confecção de um cercado retangular para a criação de aves. Uma parede plana será utilizada como um dos lados do cercado. Dessa forma, utilizando-se toda a tela para os outros 3 lados do retângulo, qual a área máxima obtida para o cercado?",
+    "options": [
+      { "label": "a", "text": "$800m^2$" },
+      { "label": "b", "text": "$600m^2$" },
+      { "label": "c", "text": "$400m^2$" },
+      { "label": "d", "text": "$1200m^2$" },
+      { "label": "e", "text": "$1600m^2$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2017-q32",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 32,
+    "statement": "Seja f uma função real tal que $f(3x+1)=2f(x)+5$. Sabendo que $f(0)=1$, qual o valor de $f(13)$?",
+    "options": [
+      { "label": "a", "text": "31" },
+      { "label": "b", "text": "43" },
+      { "label": "c", "text": "29" },
+      { "label": "d", "text": "26" },
+      { "label": "e", "text": "19" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2017-q33",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 33,
+    "statement": "Qual o valor da soma das raízes da equação $\\left|-7+|2x-4|\\right|=5$?",
+    "options": [
+      { "label": "a", "text": "16" },
+      { "label": "b", "text": "10" },
+      { "label": "c", "text": "12" },
+      { "label": "d", "text": "14" },
+      { "label": "e", "text": "8" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2017-q34",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 34,
+    "statement": "O crescimento populacional de certo município é determinado pela função $P(t)=k\\cdot(1{,}2)^{2t+1}$, sendo \"P\" a população decorridos \"t\" anos e k uma constante real. Sabendo-se que a população hoje ($t=0$) é 18.000 habitantes, qual a população desse município daqui a 1 ano?",
+    "options": [
+      { "label": "a", "text": "36 000 habitantes" },
+      { "label": "b", "text": "25 920 habitantes" },
+      { "label": "c", "text": "28 600 habitantes" },
+      { "label": "d", "text": "31 800 habitantes" },
+      { "label": "e", "text": "21 600 habitantes" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2017-q35",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 35,
+    "statement": "Ao resolver a equação $0{,}2^{-x}=3$, encontramos como solução o valor:",
+    "options": [
+      { "label": "a", "text": "$\\log_5 3$" },
+      { "label": "b", "text": "$\\log_2 3$" },
+      { "label": "c", "text": "$\\log_3 5$" },
+      { "label": "d", "text": "$\\log 5$" },
+      { "label": "e", "text": "$\\log_2 5$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2017-q36",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Considerando os ângulos formados pelas retas paralelas r e s que foram interceptadas pelas retas m e n, conforme a figura, podemos concluir que a medida do ângulo x é igual a:",
+    "options": [
+      { "label": "a", "text": "43°" },
+      { "label": "b", "text": "37°" },
+      { "label": "c", "text": "55°" },
+      { "label": "d", "text": "63°" },
+      { "label": "e", "text": "79°" }
+    ],
+    "imagePath": "mat-concomitante-2017/q36.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2017-q37",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "Na figura seguinte, o triângulo ABC é isósceles, com $\\overline{AB}\\equiv\\overline{BC}$. Sabendo-se que $\\hat{B}=50°$, que $\\overline{CM}\\equiv\\overline{DM}$ e que $\\overline{BD}$ é a bissetriz do ângulo interno $\\hat{B}$, determine a medida do ângulo x.",
+    "options": [
+      { "label": "a", "text": "120°" },
+      { "label": "b", "text": "130°" },
+      { "label": "c", "text": "110°" },
+      { "label": "d", "text": "100°" },
+      { "label": "e", "text": "90°" }
+    ],
+    "imagePath": "mat-concomitante-2017/q37.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2017-q38",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 38,
+    "statement": "A área do quadrilátero ABCD, inscrito na circunferência de centro O e raio 4 cm, conforme a figura, é igual a:",
+    "options": [
+      { "label": "a", "text": "$8(2+\\sqrt3)$" },
+      { "label": "b", "text": "$8(1-\\sqrt3)$" },
+      { "label": "c", "text": "$2(2+\\sqrt3)$" },
+      { "label": "d", "text": "$8(2+\\sqrt2)$" },
+      { "label": "e", "text": "$16(1+\\sqrt3)$" }
+    ],
+    "imagePath": "mat-concomitante-2017/q38.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2017-q39",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 39,
+    "statement": "Qual o perímetro de um triângulo regular inscrito numa circunferência de raio 6 cm? Considere: $\\sqrt3=1{,}7$.",
+    "options": [
+      { "label": "a", "text": "18,3 cm" },
+      { "label": "b", "text": "26,4 cm" },
+      { "label": "c", "text": "22,8 cm" },
+      { "label": "d", "text": "20,0 cm" },
+      { "label": "e", "text": "30,6 cm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2017-q40",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 40,
+    "statement": "Sobre o maior número inteiro que satisfaz a inequação $\\dfrac{x+17}{19-x}>0$ é correto afirmar que ele é:",
+    "options": [
+      { "label": "a", "text": "Múltiplo de 5" },
+      { "label": "b", "text": "Divisor de 25" },
+      { "label": "c", "text": "Múltiplo de 4" },
+      { "label": "d", "text": "Divisor de 18" },
+      { "label": "e", "text": "Número primo" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2017-q21",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "Qual o valor da expressão $\\sqrt{19+8\\sqrt3}+\\sqrt{19-8\\sqrt3}$?",
+    "options": [
+      { "label": "a", "text": "8" },
+      { "label": "b", "text": "38" },
+      { "label": "c", "text": "$2\\sqrt{19}$" },
+      { "label": "d", "text": "$38\\sqrt3$" },
+      { "label": "e", "text": "$3\\sqrt{38}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2017-q22",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 22,
+    "statement": "O valor de m para que a soma das raízes da equação $(2m-4)x^2-6mx+2=0$, na incógnita x, seja igual ao seu produto é:",
+    "options": [
+      { "label": "a", "text": "$-\\dfrac{1}{3}$" },
+      { "label": "b", "text": "$\\dfrac{1}{2}$" },
+      { "label": "c", "text": "$-\\dfrac{3}{2}$" },
+      { "label": "d", "text": "$\\dfrac{2}{3}$" },
+      { "label": "e", "text": "$\\dfrac{1}{3}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2017-q23",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "Na equação $x^2+kx+\\sqrt6=0$, na incógnita x, uma das raízes é $\\sqrt2$. A soma dos quadrados das raízes dessa equação é:",
+    "options": [
+      { "label": "a", "text": "7" },
+      { "label": "b", "text": "$\\sqrt6$" },
+      { "label": "c", "text": "5" },
+      { "label": "d", "text": "$2+\\sqrt6$" },
+      { "label": "e", "text": "6" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2017-q24",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 24,
+    "statement": "Para uma função real $f:\\mathbb{R}\\to\\mathbb{R}$, que satisfaz as condições: I. $f(a+b)=f(a)+f(b)$  II. $f(1)=5$. O valor de $f(4)$ é igual a:",
+    "options": [
+      { "label": "a", "text": "25" },
+      { "label": "b", "text": "20" },
+      { "label": "c", "text": "18" },
+      { "label": "d", "text": "16" },
+      { "label": "e", "text": "10" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2017-q25",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 25,
+    "statement": "Um canhão lança uma bola do solo e esta descreve uma trajetória de acordo com a função $h(t)=-\\dfrac{6}{5}t^2+12t$, sendo t em segundos e h(t), a altura da bola, em metros, no decorrer do deslocamento. Qual a altura máxima atingida por essa bola?",
+    "options": [
+      { "label": "a", "text": "30m" },
+      { "label": "b", "text": "60m" },
+      { "label": "c", "text": "24m" },
+      { "label": "d", "text": "18m" },
+      { "label": "e", "text": "48m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2017-q26",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 26,
+    "statement": "Uma função real f de domínio real é definida pela lei de formação $f(x)=k+a\\cdot3^x$. Sendo $f(0)=5$ e $f(1)=1$, qual o valor de $f(3)$?",
+    "options": [
+      { "label": "a", "text": "$-11$" },
+      { "label": "b", "text": "$-37$" },
+      { "label": "c", "text": "$-21$" },
+      { "label": "d", "text": "$-17$" },
+      { "label": "e", "text": "$-47$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2017-q27",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 27,
+    "statement": "Seja uma função real dada por $f(2x+1)=6x-7$. Pode-se afirmar que a lei que define $f(x)$ é dada por:",
+    "options": [
+      { "label": "a", "text": "$f(x)=3x-10$" },
+      { "label": "b", "text": "$f(x)=6x-7$" },
+      { "label": "c", "text": "$f(x)=2x+7$" },
+      { "label": "d", "text": "$f(x)=-2x+3$" },
+      { "label": "e", "text": "$f(x)=-6x+3$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2017-q28",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 28,
+    "statement": "Sabendo-se que $\\log_M(M^3N^4)=5$, com M>0, M≠1, N>0 e N≠1, então $\\log_N M$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{4}{3}$" },
+      { "label": "b", "text": "$-3$" },
+      { "label": "c", "text": "$-\\dfrac{3}{4}$" },
+      { "label": "d", "text": "2" },
+      { "label": "e", "text": "1" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2017-q29",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 29,
+    "statement": "Sabe-se que $\\log3\\cong0{,}477$. Qual o valor aproximado da expressão da soma $\\log3+\\log27+\\log243+\\cdots+\\log3^{195}+\\log3^{197}+\\log3^{199}$?",
+    "options": [
+      { "label": "a", "text": "1 431" },
+      { "label": "b", "text": "4 770" },
+      { "label": "c", "text": "14 310" },
+      { "label": "d", "text": "2 862" },
+      { "label": "e", "text": "1 843,15" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2017-q30",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 30,
+    "statement": "Considere α um ângulo agudo e as afirmações seguintes: I. $sen(90°-\\alpha)=-\\cos\\alpha$  II. $sen(180°-\\alpha)=sen\\,\\alpha$  III. $\\cos(180°+\\alpha)=-\\cos\\alpha$. De acordo com os três itens acima, qual a opção verdadeira?",
+    "options": [
+      { "label": "a", "text": "Apenas II e III são verdadeiras" },
+      { "label": "b", "text": "Apenas I e III são verdadeiras" },
+      { "label": "c", "text": "Apenas I e II são verdadeiras" },
+      { "label": "d", "text": "Todas são verdadeiras" },
+      { "label": "e", "text": "Todas são falsas" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2017-q31",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 31,
+    "statement": "Numa corrida de motocicletas, 20 motos de mesma potência e consumo gastam 600 litros de gasolina em 30 minutos de corrida. Quantos litros de gasolina uma dessas motos consome em 2 horas de corrida?",
+    "options": [
+      { "label": "a", "text": "150" },
+      { "label": "b", "text": "120" },
+      { "label": "c", "text": "90" },
+      { "label": "d", "text": "180" },
+      { "label": "e", "text": "240" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2017-q32",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 32,
+    "statement": "Sabendo que $sen\\,x=\\dfrac{\\sqrt7}{4}$, com $0°\\le x\\le90°$, o valor de $\\cos x$ será:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{3}{4}$" },
+      { "label": "b", "text": "$\\dfrac{1}{2}$" },
+      { "label": "c", "text": "$\\dfrac{2}{3}$" },
+      { "label": "d", "text": "$\\dfrac{4}{3}$" },
+      { "label": "e", "text": "$\\dfrac{1}{4}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2017-q33",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "A área do triângulo ABC, apresentado na figura seguinte é igual a:",
+    "options": [
+      { "label": "a", "text": "128 cm²" },
+      { "label": "b", "text": "112 cm²" },
+      { "label": "c", "text": "98 cm²" },
+      { "label": "d", "text": "120 cm²" },
+      { "label": "e", "text": "102 cm²" }
+    ],
+    "imagePath": "mat-subsequente-2017/q33.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2017-q34",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 34,
+    "statement": "Ao rotacionar em 360° a região retangular, dada na figura, em torno do lado $\\overline{AB}$, gera-se um sólido de revolução chamado cilindro circular reto. Qual é a área lateral desse sólido? (Considere: $\\pi=3$)",
+    "options": [
+      { "label": "a", "text": "$1344cm^2$" },
+      { "label": "b", "text": "$1280cm^2$" },
+      { "label": "c", "text": "$1068cm^2$" },
+      { "label": "d", "text": "$1572cm^2$" },
+      { "label": "e", "text": "$1706cm^2$" }
+    ],
+    "imagePath": "mat-subsequente-2017/q34.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2017-q35",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 35,
+    "statement": "Para atender uma comunidade, um pedreiro construiu uma caixa d'água com formato de um paralelepípedo reto-retângulo, com as seguintes dimensões internas: 1,8m de largura, 1,8m de comprimento e 1,6m de altura. Após o término da obra, ele soube que a capacidade da caixa deveria ser de 7000 litros. Isto significa que ainda faltam V litros para atender a comunidade. Nessas condições, o valor de V é:",
+    "options": [
+      { "label": "a", "text": "12 litros" },
+      { "label": "b", "text": "978 litros" },
+      { "label": "c", "text": "1816 litros" },
+      { "label": "d", "text": "1366 litros" },
+      { "label": "e", "text": "1642 litros" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2017-q36",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Seja k um número real positivo. Sabendo-se que as retas $u:k^2x+6y+7=0$ e $v:y=\\dfrac{8}{3}x+1$ são perpendiculares, podemos afirmar que:",
+    "options": [
+      { "label": "a", "text": "$1<k\\le2$" },
+      { "label": "b", "text": "$0<k\\le1$" },
+      { "label": "c", "text": "$2<k\\le3$" },
+      { "label": "d", "text": "$k>3$" },
+      { "label": "e", "text": "Não existe k que satisfaça a condição de perpendicularidade entre u e v." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2017-q37",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "O valor de k de modo que o ponto $P(-2,3)$ pertença à reta de equação $4x+Ky-1=0$ é:",
+    "options": [
+      { "label": "a", "text": "3" },
+      { "label": "b", "text": "1" },
+      { "label": "c", "text": "2" },
+      { "label": "d", "text": "0" },
+      { "label": "e", "text": "5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2017-q38",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 38,
+    "statement": "Seja \"i\" a unidade imaginária no campo dos números complexos. Qual o valor da expressão $\\dfrac{(1+i)^{100}}{(1-i)^{200}}$?",
+    "options": [
+      { "label": "a", "text": "$2^{-50}$" },
+      { "label": "b", "text": "$-2^{-50}$" },
+      { "label": "c", "text": "$2^{-100}$" },
+      { "label": "d", "text": "$-i^{-50}$" },
+      { "label": "e", "text": "$-2i$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2017-q39",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 39,
+    "statement": "A soma dos volumes de duas caixas de água vale 12000 litros. Sabendo-se que os volumes das duas caixas estão entre si como três está para cinco, qual a diferença entre os volumes das duas caixas?",
+    "options": [
+      { "label": "a", "text": "1500 litros" },
+      { "label": "b", "text": "2500 litros" },
+      { "label": "c", "text": "4000 litros" },
+      { "label": "d", "text": "3000 litros" },
+      { "label": "e", "text": "2000 litros" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2017-q40",
+    "examId": "mat-subsequente-2017",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 40,
+    "statement": "Em uma sala de aula, há 20 meninas e 10 meninos. Dois deles serão escolhidos aleatoriamente para representar esta turma em um evento. Qual a probabilidade de serem escolhidos dois meninos?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{3}$" },
+      { "label": "b", "text": "$\\dfrac{3}{29}$" },
+      { "label": "c", "text": "$\\dfrac{2}{3}$" },
+      { "label": "d", "text": "$\\dfrac{1}{87}$" },
+      { "label": "e", "text": "$\\dfrac{38}{87}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
