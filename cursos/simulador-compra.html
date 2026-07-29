@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simulação de compra | F3Cursos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="simulador.css">
+</head>
+<body>
+
+  <div class="brand-strip">
+    <a href="index.html" class="brand-strip-link">&#8249; F3Cursos</a>
+    <span class="brand-strip-current">Simulação de compra</span>
+  </div>
+
+  <section class="checkout-shell">
+    <span class="test-badge">Modo teste &middot; sem pagamento real</span>
+
+    <!-- PASSO 1: compra -->
+    <div class="checkout-step" id="step-purchase">
+      <span class="section-kicker">Simulação</span>
+      <h1 class="checkout-title">Finalize sua matrícula</h1>
+      <p class="checkout-subtitle">Preencha os dados como se estivesse comprando de verdade. Nenhum pagamento é processado aqui &mdash; é só pra testarmos o fluxo de verificação por CPF + e-mail.</p>
+
+      <form id="purchase-form" novalidate>
+        <div class="field">
+          <label for="course-select">Curso</label>
+          <select id="course-select">
+            <option value="ifma-matematica">Matemática para o Técnico Integrado do IFMA</option>
+            <option value="halliday-fisica">Física com Halliday &mdash; Resolução e Revisão</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="name-input">Nome completo</label>
+          <input type="text" id="name-input" placeholder="Seu nome" autocomplete="name" required>
+        </div>
+
+        <div class="field">
+          <label for="email-input">E-mail</label>
+          <input type="email" id="email-input" placeholder="voce@email.com" autocomplete="email" required>
+          <span class="field-error" id="email-error"></span>
+        </div>
+
+        <div class="field">
+          <label for="cpf-input">CPF</label>
+          <input type="text" id="cpf-input" placeholder="000.000.000-00" inputmode="numeric" maxlength="14" required>
+          <span class="field-error" id="cpf-error"></span>
+        </div>
+
+        <button type="submit" class="cta-button checkout-submit">Finalizar compra (simulação)</button>
+        <p class="checkout-note">Em produção, o CPF é conferido contra a compra real e o código de acesso chega por e-mail &mdash; sem senha pra criar ou lembrar.</p>
+      </form>
+    </div>
+
+    <!-- PASSO 2: código -->
+    <div class="checkout-step" id="step-code" hidden>
+      <span class="section-kicker">Verificação</span>
+      <h1 class="checkout-title">Confirme seu acesso</h1>
+      <p class="checkout-subtitle">Enviamos um código de 6 dígitos para <strong id="code-email-target"></strong>. Digite abaixo pra liberar o curso.</p>
+
+      <div class="test-mode-box">
+        <span class="test-mode-label">Modo teste &mdash; em produção isso chegaria só no e-mail</span>
+        <span class="test-mode-code" id="test-code-display">000000</span>
+      </div>
+
+      <form id="code-form" novalidate>
+        <div class="field">
+          <label for="code-input">Código de acesso</label>
+          <input type="text" id="code-input" inputmode="numeric" maxlength="6" placeholder="000000" class="code-input" required>
+          <span class="field-error" id="code-error"></span>
+        </div>
+        <button type="submit" class="cta-button checkout-submit">Confirmar código</button>
+      </form>
+
+      <div class="checkout-links">
+        <button type="button" class="link-btn" id="resend-code-btn">Reenviar código</button>
+        <button type="button" class="link-btn" id="back-to-purchase-btn">Usar outro e-mail/CPF</button>
+      </div>
+    </div>
+
+    <!-- PASSO 3: acesso liberado -->
+    <div class="checkout-step" id="step-access" hidden>
+      <span class="section-kicker">Acesso liberado</span>
+      <h1 class="checkout-title" id="access-title">Bem-vindo ao curso</h1>
+      <p class="checkout-subtitle" id="access-subtitle"></p>
+
+      <div class="video-placeholder">
+        <span>Aula em produção</span>
+        <p>O vídeo vai aparecer aqui quando a gravação estiver pronta.</p>
+      </div>
+
+      <div class="access-actions">
+        <a href="#" class="course-cta access-youtube-link">Assistir no YouTube <span>&#8594;</span></a>
+      </div>
+
+      <p class="checkout-note">Sessão salva neste navegador &mdash; só vai pedir código de novo se você acessar de outro aparelho.</p>
+
+      <div class="checkout-links">
+        <button type="button" class="link-btn" id="new-device-btn">Simular acesso de um aparelho novo</button>
+        <button type="button" class="link-btn" id="restart-btn">Reiniciar simulação</button>
+      </div>
+    </div>
+  </section>
+
+<script src="../script.js"></script>
+<script src="simulador.js"></script>
+</body>
+</html>
