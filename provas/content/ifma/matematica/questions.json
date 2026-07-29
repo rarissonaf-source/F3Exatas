@@ -2021,5 +2021,345 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2017-q21",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "Um número natural N, de dois algarismos, tem o algarismo das unidades igual a P e o das dezenas igual a B. Colocando-se um algarismo K, à direita desse número, obtém-se um número cuja forma polinomial é:",
+    "options": [
+      { "label": "a", "text": "$100B+10P+K$" },
+      { "label": "b", "text": "$100B+100B+K$" },
+      { "label": "c", "text": "$1000P+100P+K$" },
+      { "label": "d", "text": "$10P+B+K$" },
+      { "label": "e", "text": "$P+B+K$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2017-q22",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Sejam m o quociente da divisão de 90 por 0,72 e n o quociente da divisão de 5,25 por 4,2. A razão de m para n é:",
+    "options": [
+      { "label": "a", "text": "115" },
+      { "label": "b", "text": "125" },
+      { "label": "c", "text": "110" },
+      { "label": "d", "text": "100" },
+      { "label": "e", "text": "101" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2017-q23",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 23,
+    "statement": "Uma herança deixada pelo Sr. Joaquim no valor de R$ 36.000,00 será dividida entre os seus quatro filhos em partes diretamente proporcionais às idades deles que são: 3 anos, 5 anos, 10 anos e 22 anos. Quanto receberá o filho mais velho?",
+    "options": [
+      { "label": "a", "text": "R$18.600,00" },
+      { "label": "b", "text": "R$19.800,00" },
+      { "label": "c", "text": "R$16.200,00" },
+      { "label": "d", "text": "R$16.800,00" },
+      { "label": "e", "text": "R$ 9.000,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2017-q24",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 24,
+    "statement": "Nas Olimpíadas de 2016, o brasileiro Thiago Braz, atleta do salto com vara, tornou-se campeão e recordista olímpico com um salto de 6,03 m. Após 3 semanas ele disputou a Diamond League de atletismo, em Zurique, na Suíça, e conseguiu a marca de 5,84 m, ficando em terceiro lugar. A diferença entre os dois saltos foi de:",
+    "options": [
+      { "label": "a", "text": "190 mm" },
+      { "label": "b", "text": "1,90 cm" },
+      { "label": "c", "text": "180 mm" },
+      { "label": "d", "text": "0,18 dm" },
+      { "label": "e", "text": "19,0 mm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2017-q25",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 25,
+    "statement": "A embalagem de um produto de limpeza informa que sua capacidade é de 395 cm³. Um litro desse produto supera a capacidade informada na embalagem de:",
+    "options": [
+      { "label": "a", "text": "605 ml" },
+      { "label": "b", "text": "62,5 cm³" },
+      { "label": "c", "text": "6,05 dm³" },
+      { "label": "d", "text": "6250 ml" },
+      { "label": "e", "text": "60,5 cm³" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2017-q26",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "A partir do dia primeiro de maio de 2015, em certo município maranhense, o preço da tonelada de milho foi aumentado em 30% e, quatro meses depois, sofreu uma redução de 20%. Em relação ao preço anterior ao dia primeiro de maio de 2015, o preço da tonelada de milho, após a redução de 20%, sofreu:",
+    "options": [
+      { "label": "a", "text": "uma redução de 10%" },
+      { "label": "b", "text": "uma redução de 4%" },
+      { "label": "c", "text": "um aumento de 10%" },
+      { "label": "d", "text": "um aumento de 4%" },
+      { "label": "e", "text": "uma redução de 6%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2017-q27",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 27,
+    "statement": "Vinte operários construíram $\\dfrac{1}{3}$ de certa obra em 18 dias, trabalhando 6 horas por dia. Mantendo-se a mesma produtividade, em quantos dias 30 operários, trabalhando 8 horas por dia, concluiriam o restante dessa obra?",
+    "options": [
+      { "label": "a", "text": "12 dias" },
+      { "label": "b", "text": "24 dias" },
+      { "label": "c", "text": "18 dias" },
+      { "label": "d", "text": "30 dias" },
+      { "label": "e", "text": "36 dias" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2017-q28",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 28,
+    "statement": "Um grupo de estudantes quer dividir as despesas em uma lanchonete. Sabendo-se que se cada um deles pagar R$ 25,00 faltarão R$80,00, mas se cada um deles pagar R$35,00 sobrarão R$100,00, determine o número de estudantes desse grupo.",
+    "options": [
+      { "label": "a", "text": "18" },
+      { "label": "b", "text": "15" },
+      { "label": "c", "text": "14" },
+      { "label": "d", "text": "12" },
+      { "label": "e", "text": "19" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2017-q29",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 29,
+    "statement": "Sabe-se que produto de dois números reais, x e y, é 16 e que a soma dos seus quadrados é 146. Qual o valor da expressão $4x^3y+4xy^3$?",
+    "options": [
+      { "label": "a", "text": "32 120" },
+      { "label": "b", "text": "9 344" },
+      { "label": "c", "text": "18 688" },
+      { "label": "d", "text": "16 060" },
+      { "label": "e", "text": "37 376" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2017-q30",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 30,
+    "statement": "Sejam as equações $2x-7=11$ e $\\dfrac{3y-7}{5}+\\dfrac{y}{4}=-\\dfrac{4}{15}$ em que x e y são números reais. Qual o valor da expressão $\\sqrt{x}+27y^2$?",
+    "options": [
+      { "label": "a", "text": "37" },
+      { "label": "b", "text": "47" },
+      { "label": "c", "text": "43" },
+      { "label": "d", "text": "39" },
+      { "label": "e", "text": "51" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2017-q31",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 31,
+    "statement": "Pedro perguntou a idade do seu professor de Matemática que prontamente respondeu: \"minha idade é a raiz inteira da equação $5x^2-122x-75=0$\". Qual a idade desse professor?",
+    "options": [
+      { "label": "a", "text": "45" },
+      { "label": "b", "text": "30" },
+      { "label": "c", "text": "35" },
+      { "label": "d", "text": "42" },
+      { "label": "e", "text": "25" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2017-q32",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "A medida do segmento de reta $\\overline{AB}$, na figura abaixo é:",
+    "options": [
+      { "label": "a", "text": "$2\\sqrt{10}\\ cm$" },
+      { "label": "b", "text": "$2\\sqrt5\\ cm$" },
+      { "label": "c", "text": "$3\\sqrt5\\ cm$" },
+      { "label": "d", "text": "$5\\sqrt3\\ cm$" },
+      { "label": "e", "text": "$4\\sqrt5\\ cm$" }
+    ],
+    "imagePath": "mat-integrada-2017/q32.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2017-q33",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "Seja o triângulo ABC abaixo, em que $\\overline{MN}\\parallel\\overline{BC}$. Os segmentos $\\overline{AM}$, $\\overline{MB}$, $\\overline{AN}$ e $\\overline{NC}$ medem, respectivamente, $3x+4$, $5x$, $6x-12$ e $10x-30$. Qual a razão entre as medidas dos segmentos $\\overline{BC}$ e $\\overline{MN}$, nessa ordem?",
+    "options": [
+      { "label": "a", "text": "2,15" },
+      { "label": "b", "text": "2,25" },
+      { "label": "c", "text": "2,5" },
+      { "label": "d", "text": "2" },
+      { "label": "e", "text": "1,5" }
+    ],
+    "imagePath": "mat-integrada-2017/q33.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2017-q34",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 34,
+    "statement": "Considerando os ângulos formados pelas retas paralelas r e s que foram interceptadas pelas retas m e n, conforme a figura, podemos concluir que a medida do ângulo x é igual a:",
+    "options": [
+      { "label": "a", "text": "80°" },
+      { "label": "b", "text": "70°" },
+      { "label": "c", "text": "90°" },
+      { "label": "d", "text": "100°" },
+      { "label": "e", "text": "110°" }
+    ],
+    "imagePath": "mat-integrada-2017/q34.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2017-q35",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "Considere, na figura a seguir, o semicírculo de centro O e raio 4 cm. Determine a área do triângulo ABC. (Considere $\\sqrt3=1{,}7$).",
+    "options": [
+      { "label": "a", "text": "$13{,}6cm^2$" },
+      { "label": "b", "text": "$10{,}2cm^2$" },
+      { "label": "c", "text": "$11{,}4cm^2$" },
+      { "label": "d", "text": "$12{,}8cm^2$" },
+      { "label": "e", "text": "$14{,}2cm^2$" }
+    ],
+    "imagePath": "mat-integrada-2017/q35.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2017-q36",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Em certo polígono regular, verificou-se que o número de diagonais é numericamente igual ao quádruplo do número de lados. Pode-se afirmar que a soma dos ângulos internos desse polígono mede:",
+    "options": [
+      { "label": "a", "text": "1800°" },
+      { "label": "b", "text": "1620°" },
+      { "label": "c", "text": "1680°" },
+      { "label": "d", "text": "1980°" },
+      { "label": "e", "text": "1440°" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2017-q37",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "Sabendo-se que x representa um ângulo agudo, podemos afirmar que a soma do complemento de x com o seu suplemento é igual a:",
+    "options": [
+      { "label": "a", "text": "$270°-2x$" },
+      { "label": "b", "text": "$180°-2x$" },
+      { "label": "c", "text": "$270°-x$" },
+      { "label": "d", "text": "$180°-x$" },
+      { "label": "e", "text": "$90°-2x$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2017-q38",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 38,
+    "statement": "Na figura a seguir, sabendo-se que $\\overline{AB}\\equiv\\overline{AC}$ e que M é ponto médio do lado BC, determine a medida de $x+y$.",
+    "options": [
+      { "label": "a", "text": "120°" },
+      { "label": "b", "text": "144°" },
+      { "label": "c", "text": "130°" },
+      { "label": "d", "text": "138°" },
+      { "label": "e", "text": "108°" }
+    ],
+    "imagePath": "mat-integrada-2017/q38.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2017-q39",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 39,
+    "statement": "Na figura ao lado, o segmento $\\overline{AB}$ é tangente à circunferência de raio r e centro O, no ponto A. Sabendo-se que $BC=2\\ cm$, determine a medida de $\\overline{AB}$.",
+    "options": [
+      { "label": "a", "text": "$2\\sqrt{r+1}$" },
+      { "label": "b", "text": "$\\sqrt{r+2}$" },
+      { "label": "c", "text": "$\\sqrt{2r+1}$" },
+      { "label": "d", "text": "$\\sqrt{4r+1}$" },
+      { "label": "e", "text": "$\\sqrt{r^2+4}$" }
+    ],
+    "imagePath": "mat-integrada-2017/q39.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2017-q40",
+    "examId": "mat-integrada-2017",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 40,
+    "statement": "No Brasil, é comum utilizar o hectare para medir superfícies de grandes propriedades de terra. Um fazendeiro possui um terreno retangular de 2,6 Km de comprimento e 1,3 Km de largura. Qual é a área desse terreno?",
+    "options": [
+      { "label": "a", "text": "339 hectares" },
+      { "label": "b", "text": "3380 hectares" },
+      { "label": "c", "text": "338 hectares" },
+      { "label": "d", "text": "3390 hectares" },
+      { "label": "e", "text": "3480 hectares" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
