@@ -13,10 +13,23 @@ import {
   Plug,
   Magnet,
   Atom,
+  Calculator,
+  Divide,
+  Percent,
+  Sigma,
+  Equal,
+  Grid3x3,
+  FunctionSquare,
+  Triangle,
+  Box,
+  Compass,
+  BarChart3,
+  TrendingUp,
   type LucideIcon,
 } from "lucide-react";
 
 export const TOPIC_ICONS: Record<string, LucideIcon> = {
+  // Física
   cinematica: Gauge,
   dinamica: ArrowDownUp,
   estatica: Scale,
@@ -31,4 +44,18 @@ export const TOPIC_ICONS: Record<string, LucideIcon> = {
   eletrodinamica: Plug,
   eletromagnetismo: Magnet,
   "fisica-moderna": Atom,
+
+  // Matemática
+  "numeros-operacoes": Calculator,
+  "fracoes-decimais": Divide,
+  "razao-proporcao-porcentagem": Percent,
+  "algebra-expressoes": Sigma,
+  "equacoes-inequacoes": Equal,
+  "sistemas-equacoes": Grid3x3,
+  funcoes: FunctionSquare,
+  "geometria-plana": Triangle,
+  "geometria-espacial": Box,
+  trigonometria: Compass,
+  "estatistica-probabilidade": BarChart3,
+  "matematica-financeira": TrendingUp,
 };

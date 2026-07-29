@@ -9,7 +9,7 @@ import { TopicDistributionChart } from "@/components/topic-distribution-chart";
 import { MotionGrid, MotionItem } from "@/components/motion-grid";
 import { PageHero } from "@/components/page-hero";
 
-const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física" };
+const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
 
 export default async function DisciplinePage({
   params,

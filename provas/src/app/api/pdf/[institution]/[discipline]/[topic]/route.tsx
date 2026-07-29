@@ -13,7 +13,8 @@ import {
   renderToBuffer,
 } from "@react-pdf/renderer";
 import { getExams, getQuestionsByTopic } from "@/lib/data";
-import { TOPICS } from "@/lib/topics";
+import { getTopicsForDiscipline } from "@/lib/topics";
+import { getInstitution } from "@/lib/institutions";
 import { latexToPlainText } from "@/lib/latex-plain";
 
 export const runtime = "nodejs";
@@ -41,8 +42,8 @@ const styles = StyleSheet.create({
   questionBlock: { marginBottom: 4 },
 });
 
-const OPTION_LETTER = { a: "A", b: "B", c: "C", d: "D" } as const;
-const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física" };
+const OPTION_LETTER: Record<string, string> = { a: "A", b: "B", c: "C", d: "D", e: "E" };
+const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
 
 export async function GET(
   _req: NextRequest,
@@ -50,8 +51,9 @@ export async function GET(
 ) {
   const { institution, discipline, topic } = await params;
   const disciplineName = DISCIPLINE_NAMES[discipline];
-  const topicMeta = TOPICS.find((t) => t.slug === topic);
-  if (!disciplineName || !topicMeta) {
+  const institutionData = getInstitution(institution);
+  const topicMeta = getTopicsForDiscipline(discipline).find((t) => t.slug === topic);
+  if (!disciplineName || !institutionData || !topicMeta) {
     return NextResponse.json({ error: "not found" }, { status: 404 });
   }
 
@@ -85,7 +87,7 @@ export async function GET(
     <Document>
       <Page size="A4" style={styles.page} wrap>
         <Text style={styles.title}>
-          {institution.toUpperCase()} — {disciplineName} — {topicMeta.name}
+          {institutionData.name} — {disciplineName} — {topicMeta.name}
         </Text>
         <Text style={styles.subtitle}>
           {questions.length} questões · espaço reservado para resolução após cada uma
@@ -96,7 +98,7 @@ export async function GET(
           return (
             <View key={q.id} style={styles.questionBlock} wrap={false}>
               <Text style={styles.questionHeader}>
-                Questão {q.number} — UVA {exam?.edition}
+                Questão {q.number} — {institutionData.name} {exam?.edition}
               </Text>
               <Text style={styles.statement}>{latexToPlainText(q.statement)}</Text>
               {imageDataUri && (

@@ -1,4 +1,5 @@
 export type ExamType = "especifico" | "geral";
+export type Discipline = "fisica" | "matematica";
 
 export interface ExamSource {
   id: string;
@@ -9,21 +10,23 @@ export interface ExamSource {
   sourceFile: string;
 }
 
+export type OptionLabel = "a" | "b" | "c" | "d" | "e";
+
 export interface QuestionOption {
-  label: "a" | "b" | "c" | "d";
+  label: OptionLabel;
   text: string; // may contain inline LaTeX wrapped in $...$
 }
 
 export interface Question {
   id: string;
   examId: string;
-  discipline: "fisica";
+  discipline: Discipline;
   topic: string; // slug, e.g. "cinematica"
   number: number; // original question number in the source exam
   statement: string; // may contain inline LaTeX wrapped in $...$
   options: QuestionOption[];
-  imagePath: string | null; // relative to content/uva/fisica/images
-  correctAnswer?: "a" | "b" | "c" | "d"; // only present when a gabarito was available
+  imagePath: string | null; // relative to content/<institution>/<discipline>/images
+  correctAnswer?: OptionLabel; // only present when a gabarito was available
 }
 
 export interface Topic {

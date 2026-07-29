@@ -2,7 +2,7 @@ import "server-only";
 import fs from "node:fs";
 import path from "node:path";
 import type { ExamSource, Question } from "./types";
-import { TOPICS } from "./topics";
+import { getTopicsForDiscipline } from "./topics";
 
 const CONTENT_ROOT = path.join(process.cwd(), "content");
 
@@ -21,7 +21,7 @@ export function getQuestions(institution: string, discipline: string): Question[
 
 export function getTopicsWithCounts(institution: string, discipline: string) {
   const questions = getQuestions(institution, discipline);
-  return TOPICS.map((topic) => ({
+  return getTopicsForDiscipline(discipline).map((topic) => ({
     ...topic,
     count: questions.filter((q) => q.topic === topic.slug).length,
   }));

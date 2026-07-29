@@ -1,0 +1,342 @@
+[
+  {
+    "id": "mat-integrada-2019-q21",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 21,
+    "statement": "Três barras de aço com 12 metros, 9,6 metros e 6,4 metros de comprimento, respectivamente, devem ser divididas em barras menores, todas com a mesma medida e sem que haja sobras. O número mínimo de barras a ser obtido na divisão é:",
+    "options": [
+      { "label": "a", "text": "25" },
+      { "label": "b", "text": "70" },
+      { "label": "c", "text": "140" },
+      { "label": "d", "text": "20" },
+      { "label": "e", "text": "35" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2019-q22",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "Simplificando a expressão $E = \\dfrac{6}{1-\\sqrt{3}} + \\sqrt{27}$, encontramos como resultado para E:",
+    "options": [
+      { "label": "a", "text": "$-3$" },
+      { "label": "b", "text": "$3$" },
+      { "label": "c", "text": "$2$" },
+      { "label": "d", "text": "$\\sqrt{3}$" },
+      { "label": "e", "text": "$1-\\sqrt{3}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2019-q23",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 23,
+    "statement": "O valor da soma $4^{15}+4^{15}$ é:",
+    "options": [
+      { "label": "a", "text": "$4^{30}$" },
+      { "label": "b", "text": "$2^{30}$" },
+      { "label": "c", "text": "$2^{31}$" },
+      { "label": "d", "text": "$8^{15}$" },
+      { "label": "e", "text": "$8^{30}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2019-q24",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "A idade de Júlia está para a idade de Pedro assim como 7 está para 9. Se a soma das idades dos dois é 64, a diferença entre as idades de Pedro e de Júlia é:",
+    "options": [
+      { "label": "a", "text": "12 anos" },
+      { "label": "b", "text": "10 anos" },
+      { "label": "c", "text": "6 anos" },
+      { "label": "d", "text": "8 anos" },
+      { "label": "e", "text": "14 anos" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2019-q25",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 25,
+    "statement": "Um motorista de caminhão fez o trajeto de uma cidade A para uma cidade B, com uma velocidade média de 50 km/h, em 4 horas. Em quantas horas esse motorista faria esse trajeto a uma velocidade média de 100 km/h?",
+    "options": [
+      { "label": "a", "text": "1 hora" },
+      { "label": "b", "text": "2 horas" },
+      { "label": "c", "text": "$\\dfrac{1}{2}$ hora" },
+      { "label": "d", "text": "8 horas" },
+      { "label": "e", "text": "3 horas" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2019-q26",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Numa promoção de fim de ano, uma TV foi vendida com desconto de 25% sobre o valor à vista, sendo pago por ela, após o desconto, P reais. A expressão que representa o valor da TV, à vista, em função de P, é:",
+    "options": [
+      { "label": "a", "text": "$1{,}25P$" },
+      { "label": "b", "text": "$0{,}75P$" },
+      { "label": "c", "text": "$\\dfrac{P}{0{,}25}$" },
+      { "label": "d", "text": "$\\dfrac{P}{0{,}75}$" },
+      { "label": "e", "text": "$0{,}25P$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2019-q27",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 27,
+    "statement": "Se $a+b=5$ e $a\\cdot b=-8$, o valor de $a^2+4ab+b^2$ é:",
+    "options": [
+      { "label": "a", "text": "9" },
+      { "label": "b", "text": "25" },
+      { "label": "c", "text": "$-7$" },
+      { "label": "d", "text": "41" },
+      { "label": "e", "text": "57" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2019-q28",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 28,
+    "statement": "Se $M = \\dfrac{x^5-x^3}{x^4-x^3}$, o valor de M quando $x=2018$ é:",
+    "options": [
+      { "label": "a", "text": "$M=2017$" },
+      { "label": "b", "text": "$M=2018^2$" },
+      { "label": "c", "text": "$M=2018$" },
+      { "label": "d", "text": "$M=\\sqrt{2018}$" },
+      { "label": "e", "text": "$M=2019$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2019-q29",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 29,
+    "statement": "Considere três pontos, A, B e C, alinhados sobre uma superfície plana, conforme a figura seguinte. Sabendo-se que a distância entre A e B é 0,67m e que entre B e C é de 17dm, a distância entre A e C, em centímetros, é:",
+    "options": [
+      { "label": "a", "text": "87" },
+      { "label": "b", "text": "176,7" },
+      { "label": "c", "text": "237" },
+      { "label": "d", "text": "23,7" },
+      { "label": "e", "text": "84" }
+    ],
+    "imagePath": "mat-integrada-2019/q29.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2019-q30",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 30,
+    "statement": "A solução da equação $\\dfrac{3x}{5}+5x=\\dfrac{4}{25}+\\dfrac{11x}{2}$ é:",
+    "options": [
+      { "label": "a", "text": "$S=\\left\\{\\dfrac{14}{25}\\right\\}$" },
+      { "label": "b", "text": "$S=\\left\\{\\dfrac{8}{5}\\right\\}$" },
+      { "label": "c", "text": "$S=\\left\\{\\dfrac{12}{5}\\right\\}$" },
+      { "label": "d", "text": "$S=\\left\\{\\dfrac{-4}{5}\\right\\}$" },
+      { "label": "e", "text": "$S=\\left\\{\\dfrac{7}{25}\\right\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2019-q31",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 31,
+    "statement": "Sabendo-se que os números $x$ e $y$ são naturais pares e consecutivos, com $x<y$. A expressão $x^2+y^2-xy$ pode ser reescrita como:",
+    "options": [
+      { "label": "a", "text": "$x^2+4x+6$" },
+      { "label": "b", "text": "$x^2+6x+4$" },
+      { "label": "c", "text": "$3x^2+6x+4$" },
+      { "label": "d", "text": "$x^2+4x+4$" },
+      { "label": "e", "text": "$x^2+2x+4$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2019-q32",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 32,
+    "statement": "Em uma prova composta de 45 questões, cada acerto vale 5 pontos e cada erro vale $-2$ pontos, ou seja, para cada erro, perdem-se 2 pontos. Quantas questões uma pessoa deverá acertar para obter 8 pontos?",
+    "options": [
+      { "label": "a", "text": "12" },
+      { "label": "b", "text": "13" },
+      { "label": "c", "text": "14" },
+      { "label": "d", "text": "11" },
+      { "label": "e", "text": "10" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2019-q33",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 33,
+    "statement": "O maior número inteiro que satisfaz a inequação $14-2x>50+5x$ é:",
+    "options": [
+      { "label": "a", "text": "6" },
+      { "label": "b", "text": "$-6$" },
+      { "label": "c", "text": "$-5$" },
+      { "label": "d", "text": "5" },
+      { "label": "e", "text": "$-4$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2019-q34",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 34,
+    "statement": "Na figura seguinte, a medida do ângulo $x$ é:",
+    "options": [
+      { "label": "a", "text": "$47°$" },
+      { "label": "b", "text": "$38°$" },
+      { "label": "c", "text": "$36°$" },
+      { "label": "d", "text": "$40°$" },
+      { "label": "e", "text": "$56°$" }
+    ],
+    "imagePath": "mat-integrada-2019/q34.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2019-q35",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "O quadrilátero ABCD é um retângulo e os segmentos $\\overline{AP}$ e $\\overline{RQ}$ são paralelos. Dessa forma é válida a relação:",
+    "options": [
+      { "label": "a", "text": "$x=180°+\\alpha-\\beta$" },
+      { "label": "b", "text": "$x=180°-\\alpha+\\beta$" },
+      { "label": "c", "text": "$x=\\alpha-\\beta$" },
+      { "label": "d", "text": "$x=\\beta-\\alpha$" },
+      { "label": "e", "text": "$x=180°-\\alpha-\\beta$" }
+    ],
+    "imagePath": "mat-integrada-2019/q35.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2019-q36",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "A figura poligonal seguinte é formada por dois triângulos retângulos. Dados os segmentos $\\overline{AB}=16cm$, $\\overline{AE}=3cm$ e $\\overline{BC}=9cm$, quantos centímetros mede o segmento $\\overline{AD}$?",
+    "options": [
+      { "label": "a", "text": "4" },
+      { "label": "b", "text": "12" },
+      { "label": "c", "text": "15" },
+      { "label": "d", "text": "5" },
+      { "label": "e", "text": "6" }
+    ],
+    "imagePath": "mat-integrada-2019/q36.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2019-q37",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "De um quadrado ABCD de lado 12 cm foram retirados quatro triângulos retângulos isósceles e todos com catetos de 3 cm, conforme mostra a figura a seguir. A área, em $cm^2$, do octógono remanescente é:",
+    "options": [
+      { "label": "a", "text": "118" },
+      { "label": "b", "text": "112" },
+      { "label": "c", "text": "120" },
+      { "label": "d", "text": "108" },
+      { "label": "e", "text": "126" }
+    ],
+    "imagePath": "mat-integrada-2019/q37.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2019-q38",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 38,
+    "statement": "Na figura plana seguinte, os quadriláteros ABCD e CDEF são, respectivamente, um quadrado e um losango. Se o ângulo $D\\hat{A}E=20°$, a medida do ângulo x é:",
+    "options": [
+      { "label": "a", "text": "$55°$" },
+      { "label": "b", "text": "$50°$" },
+      { "label": "c", "text": "$60°$" },
+      { "label": "d", "text": "$45°$" },
+      { "label": "e", "text": "$52°$" }
+    ],
+    "imagePath": "mat-integrada-2019/q38.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2019-q39",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 39,
+    "statement": "Sabendo-se que a área de um triângulo retângulo é 54 m² e que um dos seus catetos mede 9m, quanto mede a altura relativa à hipotenusa desse triângulo?",
+    "options": [
+      { "label": "a", "text": "3,6m" },
+      { "label": "b", "text": "4,8m" },
+      { "label": "c", "text": "7,2m" },
+      { "label": "d", "text": "10,8m" },
+      { "label": "e", "text": "9,6m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2019-q40",
+    "examId": "mat-integrada-2019",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 40,
+    "statement": "A diagonal AC divide o quadrilátero ABCD da figura seguinte em dois triângulos, sendo ABC um triângulo isósceles e ACD um triângulo equilátero. Se $\\overline{AB}=12m$, a área do quadrilátero ABCD é:",
+    "options": [
+      { "label": "a", "text": "$36(1+2\\sqrt{3})m^2$" },
+      { "label": "b", "text": "$144(1+\\sqrt{3})m^2$" },
+      { "label": "c", "text": "$72(1+\\sqrt{2})m^2$" },
+      { "label": "d", "text": "$72(1+\\sqrt{3})m^2$" },
+      { "label": "e", "text": "$72(1+2\\sqrt{3})m^2$" }
+    ],
+    "imagePath": "mat-integrada-2019/q40.png",
+    "correctAnswer": "d"
+  }
+]

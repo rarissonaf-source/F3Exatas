@@ -11,6 +11,7 @@ import {
   Info,
   XCircle,
   X,
+  ZoomIn,
 } from "lucide-react";
 import {
   Dialog,
@@ -21,26 +22,26 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { LatexText } from "@/components/latex-text";
 import { staggerContainer, fadeUpItem } from "@/lib/motion";
-import type { ExamSource, Question } from "@/lib/types";
+import type { ExamSource, OptionLabel, Question } from "@/lib/types";
 
 interface Props {
   questions: Question[];
   exams: Record<string, ExamSource>;
   institution: string;
+  institutionName: string;
   discipline: string;
   topicSlug: string;
   topicName: string;
   topicColor: string;
 }
 
-type OptionLabel = "a" | "b" | "c" | "d";
-
-const OPTION_LABELS = { a: "A", b: "B", c: "C", d: "D" } as const;
+const OPTION_LABELS: Record<OptionLabel, string> = { a: "A", b: "B", c: "C", d: "D", e: "E" };
 
 export function QuestionBrowser({
   questions,
   exams,
   institution,
+  institutionName,
   discipline,
   topicSlug,
   topicName,
@@ -49,6 +50,7 @@ export function QuestionBrowser({
   const [openIndex, setOpenIndex] = useState<number | null>(null);
   const [selected, setSelected] = useState<OptionLabel | null>(null);
   const [checked, setChecked] = useState(false);
+  const [zoomedImage, setZoomedImage] = useState<string | null>(null);
   const touchStartX = useRef<number | null>(null);
 
   const goTo = (i: number) => {
@@ -56,11 +58,16 @@ export function QuestionBrowser({
     setOpenIndex(i);
     setSelected(null);
     setChecked(false);
+    setZoomedImage(null);
   };
 
   useEffect(() => {
     if (openIndex === null) return;
     const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape" && zoomedImage) {
+        setZoomedImage(null);
+        return;
+      }
       if (e.key === "ArrowRight") goTo(openIndex + 1);
       if (e.key === "ArrowLeft") goTo(openIndex - 1);
       if (e.key === "Escape") setOpenIndex(null);
@@ -68,7 +75,7 @@ export function QuestionBrowser({
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [openIndex, questions.length]);
+  }, [openIndex, questions.length, zoomedImage]);
 
   const current = openIndex !== null ? questions[openIndex] : null;
   const currentExam = current ? exams[current.examId] : null;
@@ -101,7 +108,8 @@ export function QuestionBrowser({
                   )}
                 </div>
                 <p className="text-sm font-medium uppercase tracking-wide text-muted-foreground">
-                  UVA {exam?.edition} · {exam?.examType === "geral" ? "Conh. Gerais" : "Conh. Específicos"}
+                  {institutionName} {exam?.edition} ·{" "}
+                  {exam?.examType === "geral" ? "Conh. Gerais" : "Conh. Específicos"}
                 </p>
               </Card>
             </motion.div>
@@ -120,7 +128,20 @@ export function QuestionBrowser({
         Baixar PDF de resolução — {topicName}
       </a>
 
-      <Dialog open={current !== null} onOpenChange={(open) => !open && setOpenIndex(null)}>
+      <Dialog
+        open={current !== null}
+        onOpenChange={(open, eventDetails) => {
+          if (eventDetails.reason === "escape-key" && zoomedImage) {
+            eventDetails.cancel();
+            setZoomedImage(null);
+            return;
+          }
+          if (!open) {
+            setOpenIndex(null);
+            setZoomedImage(null);
+          }
+        }}
+      >
         <DialogContent
           showCloseButton={false}
           className="max-w-3xl max-h-[85vh] overflow-y-auto p-0"
@@ -163,7 +184,7 @@ export function QuestionBrowser({
                     Questão {current.number}
                   </span>
                   <DialogTitle className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">
-                    UVA {currentExam?.edition} ·{" "}
+                    {institutionName} {currentExam?.edition} ·{" "}
                     {currentExam?.examType === "geral" ? "Conh. Gerais" : "Conh. Específicos"}
                   </DialogTitle>
                 </div>
@@ -174,12 +195,26 @@ export function QuestionBrowser({
                   </div>
 
                   {current.imagePath && (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      src={`/content-images/${institution}/${discipline}/${current.imagePath}`}
-                      alt={`Figura da questão ${current.number}`}
-                      className="max-h-[38vh] w-full justify-self-center rounded-lg border border-border object-contain sm:max-h-[45vh]"
-                    />
+                    <button
+                      type="button"
+                      onClick={() =>
+                        setZoomedImage(
+                          `/content-images/${institution}/${discipline}/${current.imagePath}`
+                        )
+                      }
+                      className="group/img relative justify-self-center"
+                      aria-label="Ampliar figura da questão"
+                    >
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={`/content-images/${institution}/${discipline}/${current.imagePath}`}
+                        alt={`Figura da questão ${current.number}`}
+                        className="max-h-[38vh] w-full cursor-zoom-in rounded-lg border border-border object-contain transition-opacity group-hover/img:opacity-80 sm:max-h-[45vh]"
+                      />
+                      <span className="absolute right-2 top-2 flex size-8 items-center justify-center rounded-full bg-black/60 text-white opacity-0 transition-opacity group-hover/img:opacity-100">
+                        <ZoomIn className="size-4" />
+                      </span>
+                    </button>
                   )}
                 </div>
 
@@ -303,6 +338,34 @@ export function QuestionBrowser({
           )}
         </DialogContent>
       </Dialog>
+
+      <AnimatePresence>
+        {zoomedImage && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[100] flex items-center justify-center bg-black/85 p-6"
+            onClick={() => setZoomedImage(null)}
+          >
+            <button
+              type="button"
+              onClick={() => setZoomedImage(null)}
+              className="absolute right-5 top-5 flex size-9 items-center justify-center rounded-full bg-white/10 text-white transition-colors hover:bg-white/20"
+              aria-label="Fechar"
+            >
+              <X className="size-5" />
+            </button>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={zoomedImage}
+              alt="Figura ampliada"
+              className="max-h-full max-w-full object-contain"
+              onClick={(e) => e.stopPropagation()}
+            />
+          </motion.div>
+        )}
+      </AnimatePresence>
     </>
   );
 }

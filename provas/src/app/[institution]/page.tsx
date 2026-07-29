@@ -1,11 +1,16 @@
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { Atom, ArrowRight } from "lucide-react";
+import { Atom, Calculator, ArrowRight, type LucideIcon } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { MotionGrid, MotionItem } from "@/components/motion-grid";
 import { PageHero } from "@/components/page-hero";
 import { getInstitution } from "@/lib/institutions";
+
+const DISCIPLINE_ICONS: Record<string, LucideIcon> = {
+  fisica: Atom,
+  matematica: Calculator,
+};
 
 export default async function InstitutionPage({
   params,
@@ -31,13 +36,15 @@ export default async function InstitutionPage({
       />
       <div className="mx-auto w-full max-w-4xl px-6 py-12">
         <MotionGrid className="grid gap-5 sm:grid-cols-2">
-          {data.disciplines.map((d) => (
+          {data.disciplines.map((d) => {
+            const DisciplineIcon = DISCIPLINE_ICONS[d.slug] ?? Atom;
+            return (
             <MotionItem key={d.slug}>
               <Link href={`/${institution}/${d.slug}`} className="group">
                 <Card className="relative overflow-hidden p-6 ring-1 ring-border transition-all hover:-translate-y-1 hover:shadow-xl hover:ring-brand-orange/40">
                   <div className="flex items-start gap-4">
                     <span className="flex size-14 shrink-0 items-center justify-center rounded-2xl bg-brand-navy text-white shadow-sm">
-                      <Atom className="size-6" />
+                      <DisciplineIcon className="size-6" />
                     </span>
                     <div className="min-w-0 flex-1">
                       <div className="flex items-center gap-2">
@@ -52,7 +59,8 @@ export default async function InstitutionPage({
                 </Card>
               </Link>
             </MotionItem>
-          ))}
+            );
+          })}
         </MotionGrid>
       </div>
     </main>

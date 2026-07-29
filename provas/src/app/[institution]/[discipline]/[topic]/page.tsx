@@ -1,11 +1,12 @@
 import { notFound } from "next/navigation";
 import { getExams, getQuestionsByTopic } from "@/lib/data";
-import { TOPICS } from "@/lib/topics";
+import { getTopicsForDiscipline } from "@/lib/topics";
 import { TOPIC_ICONS } from "@/lib/topic-icons";
+import { getInstitution } from "@/lib/institutions";
 import { QuestionBrowser } from "@/components/question-browser";
 import { PageHero } from "@/components/page-hero";
 
-const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física" };
+const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
 
 export default async function TopicPage({
   params,
@@ -14,8 +15,9 @@ export default async function TopicPage({
 }) {
   const { institution, discipline, topic } = await params;
   const disciplineName = DISCIPLINE_NAMES[discipline];
-  const topicMeta = TOPICS.find((t) => t.slug === topic);
-  if (!disciplineName || !topicMeta) notFound();
+  const institutionData = getInstitution(institution);
+  const topicMeta = getTopicsForDiscipline(discipline).find((t) => t.slug === topic);
+  if (!disciplineName || !institutionData || !topicMeta) notFound();
 
   const questions = getQuestionsByTopic(institution, discipline, topic);
   if (questions.length === 0) notFound();
@@ -39,6 +41,7 @@ export default async function TopicPage({
           questions={questions}
           exams={examsById}
           institution={institution}
+          institutionName={institutionData.name}
           discipline={discipline}
           topicSlug={topic}
           topicName={topicMeta.name}

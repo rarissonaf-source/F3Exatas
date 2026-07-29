@@ -26,8 +26,7 @@ export const INSTITUTIONS: Institution[] = [
     state: "MA",
     stateName: "Maranhão",
     logo: "/brand/institutions/ifma.png",
-    disciplines: [],
-    comingSoon: true,
+    disciplines: [{ slug: "matematica", name: "Matemática" }],
   },
 ];
 
