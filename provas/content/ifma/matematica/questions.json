@@ -3024,5 +3024,668 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2016-q21",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "Na figura abaixo, a medida do lado do quadrado BORA é 40% maior do que a medida do lado do quadrado SIGA. Assim, pode-se afirmar que a área do quadrado BORA é:",
+    "options": [
+      { "label": "a", "text": "40% maior do que a área do quadrado SIGA." },
+      { "label": "b", "text": "86% maior do que a área do quadrado SIGA." },
+      { "label": "c", "text": "56% maior do que a área do quadrado SIGA." },
+      { "label": "d", "text": "80% maior do que a área do quadrado SIGA." },
+      { "label": "e", "text": "96% maior do que a área do quadrado SIGA." }
+    ],
+    "imagePath": "mat-concomitante-2016/q21.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2016-q22",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Um feirante vende meia dúzia de bananas por R$ 2,70. Um freguês pediu oito bananas. O feirante cobrou R$ 4,00. O freguês reclamou, dizendo que o valor a pagar deveria ser proporcional à quantidade de bananas. De acordo com o freguês, o preço das oito bananas deveria ser:",
+    "options": [
+      { "label": "a", "text": "R$ 3,60" },
+      { "label": "b", "text": "R$ 3,50" },
+      { "label": "c", "text": "R$ 3,80" },
+      { "label": "d", "text": "R$ 3,70" },
+      { "label": "e", "text": "R$ 3,40" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2016-q23",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 23,
+    "statement": "A fórmula $S=1{,}25\\cdot p+7$, em que S é o número do sapato e p é o comprimento do pé, em centímetro, relaciona, de maneira aproximada, o número do sapato que você calça com o comprimento de seu pé. De acordo com essa fórmula, o comprimento, aproximado, do pé de quem calça sapato 41 é:",
+    "options": [
+      { "label": "a", "text": "29,5 cm" },
+      { "label": "b", "text": "28,5 cm" },
+      { "label": "c", "text": "26,2 cm" },
+      { "label": "d", "text": "28,2 cm" },
+      { "label": "e", "text": "27,2 cm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2016-q24",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 24,
+    "statement": "Misturando x litros de álcool, que custa R$2,70 por litro, e y litro de gasolina, que custa R$ 3,60 por litro, foram produzidos 54 litros de um combustível cujo preço é R$ 3,00 por litro. O número de litros de álcool que há nessa mistura é:",
+    "options": [
+      { "label": "a", "text": "36" },
+      { "label": "b", "text": "32" },
+      { "label": "c", "text": "34" },
+      { "label": "d", "text": "30" },
+      { "label": "e", "text": "38" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2016-q25",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 25,
+    "statement": "A expressão $\\dfrac{4(2x+3)}{7(2x+3)}$ é equivalente a $\\dfrac{4}{7}$ para todo x real diferente de:",
+    "options": [
+      { "label": "a", "text": "$-\\dfrac{3}{2}$" },
+      { "label": "b", "text": "$\\dfrac{3}{2}$" },
+      { "label": "c", "text": "$-\\dfrac{3}{7}$" },
+      { "label": "d", "text": "$\\dfrac{3}{7}$" },
+      { "label": "e", "text": "$-\\dfrac{7}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2016-q26",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 26,
+    "statement": "As populações de duas cidades A e B variam de acordo com as funções $f(t)=2^{t+4}+80$ e $g(t)=2^{t+3}+208$, em que t é o tempo, em ano e, f(t) e g(t), representam os números de indivíduos das cidades A e B, respectivamente. Assim, daqui a quantos anos essas duas cidades terão o mesmo número de indivíduos?",
+    "options": [
+      { "label": "a", "text": "7 anos" },
+      { "label": "b", "text": "6 anos" },
+      { "label": "c", "text": "4 anos" },
+      { "label": "d", "text": "8 anos" },
+      { "label": "e", "text": "9 anos" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2016-q27",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 27,
+    "statement": "O gráfico abaixo é da função f definida no intervalo $[-3,5]$. Se $g(x)=f(x)-2$, o valor da expressão $f(-2)-f(2)+g(-3)+g(5)$ é:",
+    "options": [
+      { "label": "a", "text": "$-2$" },
+      { "label": "b", "text": "$-1$" },
+      { "label": "c", "text": "0" },
+      { "label": "d", "text": "1" },
+      { "label": "e", "text": "2" }
+    ],
+    "imagePath": "mat-concomitante-2016/q27.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2016-q28",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 28,
+    "statement": "Um veículo usado, cujo valor atual é de R$16000,00, desvaloriza-se de tal forma que seu valor daqui a 4 anos será de R$ 11000,00. Supondo que o valor desse veículo diminua linearmente, daqui a 2 anos o valor desse veículo será:",
+    "options": [
+      { "label": "a", "text": "R$ 12750,00" },
+      { "label": "b", "text": "R$ 13750,00" },
+      { "label": "c", "text": "R$ 13500,00" },
+      { "label": "d", "text": "R$ 12500,00" },
+      { "label": "e", "text": "R$ 12250,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2016-q29",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 29,
+    "statement": "O dono de uma loja comprou x relógios por R$ 1700,00 e quer vendê-los com lucro de R$ 120,00 em cada um. A expressão que representa o preço de venda de cada relógio, em reais, é:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1700}{x}-120$" },
+      { "label": "b", "text": "$-x+170$" },
+      { "label": "c", "text": "$x+120$" },
+      { "label": "d", "text": "$x+170$" },
+      { "label": "e", "text": "$\\dfrac{1700}{x}+120$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2016-q31",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 31,
+    "statement": "O preço de uma coxinha numa lanchonete é R$3,50. Comprando-se x coxinhas paga-se y reais. A expressão matemática que relaciona estas duas grandezas é:",
+    "options": [
+      { "label": "a", "text": "$y=3{,}5x$" },
+      { "label": "b", "text": "$y=3{,}5+x$" },
+      { "label": "c", "text": "$y=3{,}5-x$" },
+      { "label": "d", "text": "$y=3{,}5+2x$" },
+      { "label": "e", "text": "$y=3{,}5x+2$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2016-q32",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 32,
+    "statement": "Uma função quadrática é dada pela relação $y=(m-5)x^2-x$. Para que valores de m o gráfico desta função é uma parábola com concavidade voltada para cima?",
+    "options": [
+      { "label": "a", "text": "$m>-5$" },
+      { "label": "b", "text": "$m=5$" },
+      { "label": "c", "text": "$m=-5$" },
+      { "label": "d", "text": "$m<5$" },
+      { "label": "e", "text": "$m>5$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2016-q33",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 33,
+    "statement": "O gráfico abaixo é da função linear f(x), a sua inversa é representada por $f^{-1}(x)$. O valor $f^{-1}(2)$ é:",
+    "options": [
+      { "label": "a", "text": "3" },
+      { "label": "b", "text": "$\\dfrac{3}{4}$" },
+      { "label": "c", "text": "2" },
+      { "label": "d", "text": "$\\dfrac{2}{3}$" },
+      { "label": "e", "text": "4" }
+    ],
+    "imagePath": "mat-concomitante-2016/q33.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2016-q34",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 34,
+    "statement": "Na tabela a seguir indica-se a temperatura aproximada no Oceano Atlântico em função da profundidade: Superfície = 30°C, 200m = 25°C, 600m = 15°C, 1000m = 5°C, 4000m = 1,6°C. Considerando que a temperatura da água varia de forma linear até uma profundidade de 1000m, qual valor da temperatura, em °C, em 100m de profundidade?",
+    "options": [
+      { "label": "a", "text": "28" },
+      { "label": "b", "text": "22" },
+      { "label": "c", "text": "29" },
+      { "label": "d", "text": "27,5" },
+      { "label": "e", "text": "28,5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2016-q35",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 35,
+    "statement": "Na tabela a seguir temos algumas potências de base 3: $3^1=3$, $3^2=9$, $3^3=27$, $3^4=81$, $3^5=243$, $3^6=729$, $3^7=2187$, $3^8=6561$. A partir dos padrões que podemos identificar na tabela acima, o algarismo da unidade do resultado de $3^{502}+3^{719}$ será:",
+    "options": [
+      { "label": "a", "text": "7" },
+      { "label": "b", "text": "3" },
+      { "label": "c", "text": "6" },
+      { "label": "d", "text": "1" },
+      { "label": "e", "text": "9" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2016-q36",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 36,
+    "statement": "Na casa de Jorge a cozinha tem um formato retangular de dimensões 3m de largura por 4m de comprimento. Ao desenhar a planta baixa da cozinha em um papel com uma escala 1:200, o comprimento da cozinha em cm será:",
+    "options": [
+      { "label": "a", "text": "4" },
+      { "label": "b", "text": "2" },
+      { "label": "c", "text": "6" },
+      { "label": "d", "text": "1" },
+      { "label": "e", "text": "5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2016-q37",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 37,
+    "statement": "Considerando que x e y são as dimensões de um retângulo cuja área vale 16cm², o valor de $\\log\\sqrt[x]{\\sqrt[y]{100}}$ vale:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{20}$" },
+      { "label": "b", "text": "$\\dfrac{1}{16}$" },
+      { "label": "c", "text": "$\\dfrac{1}{8}$" },
+      { "label": "d", "text": "$\\dfrac{1}{4}$" },
+      { "label": "e", "text": "$\\dfrac{1}{32}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2016-q38",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 38,
+    "statement": "Um terreno comprado por R$100000,00 valorizou 10% no primeiro ano, 20% no segundo ano e 5% no terceiro ano. Quanto custa o terreno após o terceiro ano?",
+    "options": [
+      { "label": "a", "text": "R$ 130000" },
+      { "label": "b", "text": "R$ 120000" },
+      { "label": "c", "text": "R$ 148000" },
+      { "label": "d", "text": "R$ 138600" },
+      { "label": "e", "text": "R$ 108600" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2016-q39",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 39,
+    "statement": "Na figura abaixo, o valor de $a\\cdot h+m\\cdot n$ vale:",
+    "options": [
+      { "label": "a", "text": "400" },
+      { "label": "b", "text": "$\\dfrac{444}{25}$" },
+      { "label": "c", "text": "444" },
+      { "label": "d", "text": "25" },
+      { "label": "e", "text": "12" }
+    ],
+    "imagePath": "mat-concomitante-2016/q39.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2016-q40",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 40,
+    "statement": "Na figura abaixo há um quadrado ABCD de lado, medindo 6cm e um triângulo equilátero BDE. O valor da área do triângulo BDE vale:",
+    "options": [
+      { "label": "a", "text": "$20\\sqrt3cm^2$" },
+      { "label": "b", "text": "$18\\sqrt3cm^2$" },
+      { "label": "c", "text": "$16\\sqrt3cm^2$" },
+      { "label": "d", "text": "$36\\sqrt3cm^2$" },
+      { "label": "e", "text": "$4\\sqrt3cm^2$" }
+    ],
+    "imagePath": "mat-concomitante-2016/q40.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2016-q21",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "Uma das raízes do polinômio $P(x)=x^2+bx+c$, sendo b e c números reais, é igual a 9. Podemos afirmar que uma das raízes do polinômio $Q(x)=(2x+5)^2+b(2x+5)+c$, pode ser:",
+    "options": [
+      { "label": "a", "text": "$-2$" },
+      { "label": "b", "text": "2" },
+      { "label": "c", "text": "3" },
+      { "label": "d", "text": "4" },
+      { "label": "e", "text": "1" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2016-q22",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 22,
+    "statement": "Uma associação decidiu confeccionar bombons caseiros para serem vendidos na páscoa. O gasto com material foi de R$ 75,00 reais e os associados pretendem vender cada bombom por R$3,00 reais. O menor número de bombons que precisou ser vendido para recuperar o valor gasto é:",
+    "options": [
+      { "label": "a", "text": "27" },
+      { "label": "b", "text": "15" },
+      { "label": "c", "text": "17" },
+      { "label": "d", "text": "19" },
+      { "label": "e", "text": "25" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2016-q23",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "A soma dos inversos das raízes da equação $9x^2-8x+2=0$ é:",
+    "options": [
+      { "label": "a", "text": "8" },
+      { "label": "b", "text": "10" },
+      { "label": "c", "text": "4" },
+      { "label": "d", "text": "$\\dfrac{1}{8}$" },
+      { "label": "e", "text": "$\\dfrac{1}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2016-q24",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 24,
+    "statement": "Sendo a matriz $A=\\begin{bmatrix}3&x^2&1-y\\\\16&y&2x\\\\1&-8&0\\end{bmatrix}$ igual à sua matriz transposta, o valor de $\\left(\\dfrac{4}{x+2y}\\right)^2$ é:",
+    "options": [
+      { "label": "a", "text": "4" },
+      { "label": "b", "text": "$-1$" },
+      { "label": "c", "text": "$-5$" },
+      { "label": "d", "text": "1" },
+      { "label": "e", "text": "$-4$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2016-q25",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 25,
+    "statement": "Sabendo que a matriz $A=\\begin{bmatrix}4&8\\\\6&-3\\end{bmatrix}$ e $B=\\begin{bmatrix}1\\\\2\\end{bmatrix}$ e $A\\cdot X=6\\cdot B$. Então, a matriz X é:",
+    "options": [
+      { "label": "a", "text": "$\\begin{bmatrix}19/10\\\\-1/5\\end{bmatrix}$" },
+      { "label": "b", "text": "$\\begin{bmatrix}15/2\\\\-1/5\\end{bmatrix}$" },
+      { "label": "c", "text": "$\\begin{bmatrix}15/2\\\\8/5\\end{bmatrix}$" },
+      { "label": "d", "text": "$\\begin{bmatrix}19\\\\10\\end{bmatrix}$" },
+      { "label": "e", "text": "$\\begin{bmatrix}-19/10\\\\-1/5\\end{bmatrix}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2016-q26",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 26,
+    "statement": "Uma empresa de telecomunicação oferece um serviço de acesso à internet na forma de dois planos para seus assinantes: Plano A - Assinatura mensal de R$7,00, mais R$0,50 cada minuto de conexão durante o mês; Plano B - Assinatura mensal de R$12,00, mais R$0,40 cada minuto de conexão durante o mês. Acima de quantos minutos de conexão por mês é mais econômico optar pelo plano B?",
+    "options": [
+      { "label": "a", "text": "100" },
+      { "label": "b", "text": "80" },
+      { "label": "c", "text": "60" },
+      { "label": "d", "text": "70" },
+      { "label": "e", "text": "50" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2016-q27",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 27,
+    "statement": "Joana gasta 1ml de tinta cinza para pintar 200cm² de superfície. No sólido abaixo, tem-se um cubo de aresta igual a 15cm fixado numa face de outro cubo de aresta igual a 25cm. De quantos mililitros de tinta Joana precisa para pintar todo o sólido?",
+    "options": [
+      { "label": "a", "text": "20ml" },
+      { "label": "b", "text": "50ml" },
+      { "label": "c", "text": "24,5ml" },
+      { "label": "d", "text": "23,25ml" },
+      { "label": "e", "text": "25ml" }
+    ],
+    "imagePath": "mat-subsequente-2016/q27.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2016-q28",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 28,
+    "statement": "Sendo as retas r e s paralelas, $\\alpha=50°$ e $\\beta=60°$, a medida de $\\gamma$ é:",
+    "options": [
+      { "label": "a", "text": "20°" },
+      { "label": "b", "text": "10°" },
+      { "label": "c", "text": "25°" },
+      { "label": "d", "text": "30°" },
+      { "label": "e", "text": "35°" }
+    ],
+    "imagePath": "mat-subsequente-2016/q28.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2016-q29",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 29,
+    "statement": "Na figura abaixo, tem-se um quadrado com lado de medida x inscrito no triângulo retângulo com catetos medindo 10cm e 20cm. A área do quadrado inscrito no triângulo, em cm², vale:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{400}{9}$" },
+      { "label": "b", "text": "$\\dfrac{250}{9}$" },
+      { "label": "c", "text": "$\\dfrac{900}{7}$" },
+      { "label": "d", "text": "$\\dfrac{400}{7}$" },
+      { "label": "e", "text": "400" }
+    ],
+    "imagePath": "mat-subsequente-2016/q29.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2016-q30",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 30,
+    "statement": "O poliedro da figura abaixo foi obtido unindo-se os pontos médios das arestas do cubo. O número de vértices do poliedro obtido acima é:",
+    "options": [
+      { "label": "a", "text": "6" },
+      { "label": "b", "text": "10" },
+      { "label": "c", "text": "12" },
+      { "label": "d", "text": "20" },
+      { "label": "e", "text": "24" }
+    ],
+    "imagePath": "mat-subsequente-2016/q30.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2016-q31",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 31,
+    "statement": "Na figura abaixo se ilustra um paralelepípedo onde o ponto M é o ponto de encontro das diagonais da base ABFE. Considerando $\\overline{AB}\\equiv\\overline{CB}$, $a=6cm$ e $b=16cm$, a distância do ponto M até a aresta $\\overline{DC}$ é igual a:",
+    "options": [
+      { "label": "a", "text": "15cm" },
+      { "label": "b", "text": "10cm" },
+      { "label": "c", "text": "22cm" },
+      { "label": "d", "text": "14cm" },
+      { "label": "e", "text": "25cm" }
+    ],
+    "imagePath": "mat-subsequente-2016/q31.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2016-q32",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "O triângulo ABC da figura abaixo é equilátero e a reta suporte do lado BC tem equação $\\dfrac{x}{5}+\\dfrac{y}{5\\sqrt3}=1$. Nestas condições a equação da reta suporte do lado AB é:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{x}{-5}+\\dfrac{y}{5\\sqrt3}=1$" },
+      { "label": "b", "text": "$\\dfrac{x}{5}+\\dfrac{y}{5}=1$" },
+      { "label": "c", "text": "$\\dfrac{x}{-5}+\\dfrac{y}{-5\\sqrt3}=1$" },
+      { "label": "d", "text": "$\\dfrac{x}{5\\sqrt3}+\\dfrac{y}{5}=1$" },
+      { "label": "e", "text": "$\\dfrac{x}{5}+\\dfrac{y}{5\\sqrt3}=-1$" }
+    ],
+    "imagePath": "mat-subsequente-2016/q32.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2016-q33",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "A circunferência λ da figura abaixo é tangente ao eixo das ordenadas na origem do sistema de eixos cartesianos com centro de coordenadas C(-2,0). A equação da circunferência simétrica de λ em relação ao eixo y é:",
+    "options": [
+      { "label": "a", "text": "$(x-2)^2+y^2=4$" },
+      { "label": "b", "text": "$(x+2)^2+y^2=4$" },
+      { "label": "c", "text": "$(x-2)^2+(y+2)^2=4$" },
+      { "label": "d", "text": "$x^2+y^2=9$" },
+      { "label": "e", "text": "$(x+2)^2+(y+2)^2=4$" }
+    ],
+    "imagePath": "mat-subsequente-2016/q33.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2016-q34",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 34,
+    "statement": "Uma vez por mês, um trabalhador vai ao supermercado fazer as compras do mês. Em janeiro ele gastou R$ 480,00. No mês seguinte, ele comprou as mesmas coisas, mas gastou R$ 488,16. Isso indica que, de um mês para outro, houve inflação (aumento de preços). A taxa de inflação para os produtos que esse trabalhador comprou é o \"quanto por cento\" eles aumentaram. Essa taxa de inflação foi de:",
+    "options": [
+      { "label": "a", "text": "1,6%" },
+      { "label": "b", "text": "1,7%" },
+      { "label": "c", "text": "1,5%" },
+      { "label": "d", "text": "1,8%" },
+      { "label": "e", "text": "1,9%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2016-q35",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 35,
+    "statement": "Um engenheiro fez cálculos e concluiu que, se fossem asfaltados n quilômetros por dia, em 11 dias faltariam 16 quilômetros para completar a estrada. Mas se fossem asfaltados n+2 quilômetros por dia, em 9 dias faltariam apenas 12 quilômetros para completar a estrada. O comprimento dessa estrada, em quilômetro, é:",
+    "options": [
+      { "label": "a", "text": "87 km" },
+      { "label": "b", "text": "90 km" },
+      { "label": "c", "text": "96 km" },
+      { "label": "d", "text": "93 km" },
+      { "label": "e", "text": "99 km" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2016-q36",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 36,
+    "statement": "No primeiro dia de uma epidemia de gripe foram registrados 3 casos de pessoas infectadas. No segundo dia, cada uma das três transmitiu a gripe a outras três pessoas saudáveis. E assim a doença se propagou nos cinco dias seguintes. No final do sétimo dia, o número de pessoas que já haviam sido infectadas é:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{3^7-3}{2}$" },
+      { "label": "b", "text": "$\\dfrac{3^8-3}{2}$" },
+      { "label": "c", "text": "$\\dfrac{3^7+3}{3}$" },
+      { "label": "d", "text": "$\\dfrac{3^8+3}{3}$" },
+      { "label": "e", "text": "$\\dfrac{3^8-3}{3}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2016-q37",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 37,
+    "statement": "Um veículo novo, cujo valor atual é de R$36000,00, desvaloriza-se de tal forma que seu valor daqui a 4 anos será de R$22000,00. Supondo que seja constante a desvalorização anual, o valor desse veículo daqui a 3 anos será:",
+    "options": [
+      { "label": "a", "text": "R$24250,00" },
+      { "label": "b", "text": "R$25750,00" },
+      { "label": "c", "text": "R$25500,00" },
+      { "label": "d", "text": "R$23850,00" },
+      { "label": "e", "text": "R$23750,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2016-q38",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 38,
+    "statement": "A figura abaixo representa uma bandeira formada por quatro regiões que devem ser coloridas usando apenas as cores distintas A, B, C, D, E e F. Se cada região deve ter apenas uma cor e não se pode usar cores iguais em regiões adjacentes (regiões que têm uma fronteira em comum), então o número de maneiras distintas de se colorir essa bandeira é:",
+    "options": [
+      { "label": "a", "text": "180" },
+      { "label": "b", "text": "120" },
+      { "label": "c", "text": "480" },
+      { "label": "d", "text": "360" },
+      { "label": "e", "text": "540" }
+    ],
+    "imagePath": "mat-subsequente-2016/q38.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2016-q39",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 39,
+    "statement": "Resolvendo a expressão $sen28°+sen120°+sen208°-sen300°$, obtém-se:",
+    "options": [
+      { "label": "a", "text": "$\\sqrt3$" },
+      { "label": "b", "text": "0" },
+      { "label": "c", "text": "$\\dfrac{1}{2}$" },
+      { "label": "d", "text": "$-\\dfrac{1}{2}$" },
+      { "label": "e", "text": "1" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2016-q40",
+    "examId": "mat-subsequente-2016",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 40,
+    "statement": "Joga-se um dado não viciado duas vezes. A probabilidade de obter o número 5 na primeira jogada, considerando que a soma dos números obtidos nessas jogadas foi 9, é:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{4}$" },
+      { "label": "b", "text": "$\\dfrac{1}{2}$" },
+      { "label": "c", "text": "$\\dfrac{1}{3}$" },
+      { "label": "d", "text": "$\\dfrac{1}{5}$" },
+      { "label": "e", "text": "$\\dfrac{1}{6}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
