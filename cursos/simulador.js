@@ -174,10 +174,18 @@ function initAccessStep() {
   });
 }
 
+function applyCourseFromQuery() {
+  const courseId = new URLSearchParams(window.location.search).get("course");
+  if (courseId && COURSES[courseId]) {
+    document.getElementById("course-select").value = courseId;
+  }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   initPurchaseForm();
   initCodeForm();
   initAccessStep();
+  applyCourseFromQuery();
 
   const existing = loadSession();
   if (existing && existing.verifiedAt) {
