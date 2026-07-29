@@ -3687,5 +3687,1025 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2015-q21",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "Pedro comprou 9 kg de açúcar ao preço de R$1,80 o quilograma, seis pacotes de café ao preço de R$ 3,90 o pacote e 8 kg de arroz ao preço de R$ 2,70 o quilograma. Sabendo-se que ele pagou as compras com uma nota de R$100,00, quanto recebeu de troco?",
+    "options": [
+      { "label": "a", "text": "R$ 36,80" },
+      { "label": "b", "text": "R$ 42,80" },
+      { "label": "c", "text": "R$ 38,80" },
+      { "label": "d", "text": "R$ 39,80" },
+      { "label": "e", "text": "R$ 61,20" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2015-q22",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Quero dividir R$ 2200,00 entre Antônio, Beto e Cássia, de modo que Beto receba a metade de Antônio e Cássia receba a terça parte de Beto. Nessas condições, quanto Beto receberá a mais que Cássia?",
+    "options": [
+      { "label": "a", "text": "420" },
+      { "label": "b", "text": "450" },
+      { "label": "c", "text": "460" },
+      { "label": "d", "text": "380" },
+      { "label": "e", "text": "440" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2015-q23",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 23,
+    "statement": "Uma caixa d'água, cuja capacidade é 5m³, contém um volume de água correspondente a 75% dessa capacidade. Quantos litros de água seriam necessários para enchê-la totalmente?",
+    "options": [
+      { "label": "a", "text": "37 750" },
+      { "label": "b", "text": "2 250" },
+      { "label": "c", "text": "475" },
+      { "label": "d", "text": "375" },
+      { "label": "e", "text": "1250" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2015-q24",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 24,
+    "statement": "O valor da expressão $x=\\left[\\left(\\dfrac{1}{2}\\right)^2\\cdot\\left(\\dfrac{1}{3}\\right)^3\\right]^4\\cdot\\dfrac{1}{2}\\cdot\\left(\\dfrac{1}{3}\\right)^{-3}$, escrita na forma da potência de base $\\dfrac{1}{6}$ vale:",
+    "options": [
+      { "label": "a", "text": "$\\left(\\dfrac{1}{6}\\right)^9$" },
+      { "label": "b", "text": "$\\left(\\dfrac{1}{6}\\right)^{12}$" },
+      { "label": "c", "text": "$\\left(\\dfrac{1}{6}\\right)^{17}$" },
+      { "label": "d", "text": "$\\left(\\dfrac{1}{6}\\right)^7$" },
+      { "label": "e", "text": "$\\left(\\dfrac{1}{6}\\right)^5$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2015-q25",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 25,
+    "statement": "Uma caixa de chocolate custa R$ 12,00. Outra caixa de mesma qualidade, valores proporcionais ao número de chocolates e com mais 4 chocolates custa R$ 18,00. Quantos chocolates há em cada caixa?",
+    "options": [
+      { "label": "a", "text": "9 e 13" },
+      { "label": "b", "text": "7 e 11" },
+      { "label": "c", "text": "5 e 9" },
+      { "label": "d", "text": "6 e 10" },
+      { "label": "e", "text": "8 e 12" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2015-q26",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 26,
+    "statement": "De um quadrado de área 64m² foi retirado dois cantos opostos, também quadrados, com áreas iguais a 9 m² e 4 m². Neste contexto, o perímetro da figura final é:",
+    "options": [
+      { "label": "a", "text": "26 m" },
+      { "label": "b", "text": "22 m" },
+      { "label": "c", "text": "24 m" },
+      { "label": "d", "text": "32 m" },
+      { "label": "e", "text": "30 m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2015-q27",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 27,
+    "statement": "Quatro amigos se reuniram para dividir as despesas de um churrasco que eles queriam fazer em um feriado. Carla disse que tem x reais e Bete, y reais. Paulo possui o triplo da quantia de Carla e Silvia tem 100 reais a mais do que Bete. A expressão algébrica que representa o total de reais que todos possuem é:",
+    "options": [
+      { "label": "a", "text": "$x+2y+100$" },
+      { "label": "b", "text": "$3x+10y$" },
+      { "label": "c", "text": "$x+y+100$" },
+      { "label": "d", "text": "$3x+2y+100$" },
+      { "label": "e", "text": "$4x+2y+100$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2015-q28",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 28,
+    "statement": "Durante alguns dias Pedrinho guardou algumas moedas. Ao conferi-las ele verificou que tinha um total de 62 moedas. Algumas de R$ 1,00 e outras de R$ 0,50. Considerando que Pedrinho conseguiu juntar R$ 42,00, quantas moedas de cada tipo Pedrinho possui?",
+    "options": [
+      { "label": "a", "text": "22 de R$ 1,00 e 40 de R$ 0,50" },
+      { "label": "b", "text": "14 de R$ 1,00 e 56 de R$ 0,50" },
+      { "label": "c", "text": "36 de R$ 0,50 e 24 de R$ 1,00" },
+      { "label": "d", "text": "42 de R$ 0,50 e 21 de R$ 1,00" },
+      { "label": "e", "text": "40 de R$ 1,00 e 22 de R$ 0,50" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2015-q29",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 29,
+    "statement": "No início do mês, dona Cecília comprou 5 pacotes de massa de bolo de 650 g cada. Após alguns dias, dona Cecília verificou que já havia consumido 1,9 kg da massa do bolo. Neste contexto, a quantidade de massa de bolo restante, em quilogramas, é:",
+    "options": [
+      { "label": "a", "text": "1,25" },
+      { "label": "b", "text": "0,7" },
+      { "label": "c", "text": "1,05" },
+      { "label": "d", "text": "1,35" },
+      { "label": "e", "text": "1,5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2015-q30",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 30,
+    "statement": "No alto de uma torre localizada no Porto do Itaqui, três luzes \"piscam\" em diferentes intervalos de tempo. A primeira \"pisca\" a cada 7 segundos, a segunda \"pisca\" a cada 12 segundos e a terceira a cada 9 segundos. Se num certo instante, as luzes \"piscam\" simultaneamente, após quanto tempo elas voltarão a \"piscar\" simultaneamente?",
+    "options": [
+      { "label": "a", "text": "5 min" },
+      { "label": "b", "text": "4 min e 20s" },
+      { "label": "c", "text": "252 min" },
+      { "label": "d", "text": "4 min e 16s" },
+      { "label": "e", "text": "4 min e 12s" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2015-q31",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "O triângulo da figura seguinte tem área igual a 22 cm². Considerando $\\sqrt5\\cong2{,}2$ o perímetro do triângulo acima é igual a:",
+    "options": [
+      { "label": "a", "text": "23,8cm" },
+      { "label": "b", "text": "24,8cm" },
+      { "label": "c", "text": "21,8cm" },
+      { "label": "d", "text": "26,8cm" },
+      { "label": "e", "text": "25,8cm" }
+    ],
+    "imagePath": "mat-integrada-2015/q31.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2015-q32",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 32,
+    "statement": "Divisores próprios de um número inteiro positivo n são todos os divisores inteiros positivos de n, exceto o próprio n. Por exemplo, os divisores próprios de 16 são: 1, 2, 4 e 8. Dizemos que um número é perfeito quando pode ser escrito com a soma de seus divisores próprios. Com base nessas informações, temos as afirmativas. I. O número 28 é perfeito. II. Todo número par é perfeito. III. Não existe número primo perfeito. Sobre as afirmativas acima temos:",
+    "options": [
+      { "label": "a", "text": "I, II e III são falsas" },
+      { "label": "b", "text": "Somente I e III são falsas" },
+      { "label": "c", "text": "Somente III é falsa" },
+      { "label": "d", "text": "Somente I é falsa" },
+      { "label": "e", "text": "Somente II é falsa" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2015-q33",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 33,
+    "statement": "Nas alternativas abaixo: I. $\\sqrt[3]{\\sqrt{18}}=\\sqrt[6]{18}$  II. $\\sqrt[15]{42}=\\sqrt[5]{\\sqrt[3]{42}}$  III. $\\sqrt[6]{\\sqrt{22}}=\\sqrt[8]{22}$  IV. $\\sqrt[3]{10}<\\sqrt[12]{\\sqrt[4]{10}}$  V. $\\sqrt[4]{\\sqrt[3]{56}}=\\sqrt[12]{56}$  VI. $\\sqrt{\\sqrt[12]{74}}=\\sqrt[3]{\\sqrt[3]{\\sqrt[4]{74}}}$. Estão corretas:",
+    "options": [
+      { "label": "a", "text": "I, II e V" },
+      { "label": "b", "text": "III, IV e VI" },
+      { "label": "c", "text": "II e VI" },
+      { "label": "d", "text": "III e V" },
+      { "label": "e", "text": "IV" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2015-q34",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 34,
+    "statement": "As raízes da equação $v^2+8v+k=0$ são os números $v_1$ e $v_2$, onde k é uma constante real. Se $v_1-3v_2=4$, o valor da constante k é:",
+    "options": [
+      { "label": "a", "text": "15" },
+      { "label": "b", "text": "12" },
+      { "label": "c", "text": "$-7$" },
+      { "label": "d", "text": "$-15$" },
+      { "label": "e", "text": "10" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2015-q35",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 35,
+    "statement": "Um comerciante aumentou os preços dos seus produtos em 25% para em seguida oferecer aos seus clientes um desconto de 20% sobre o novo valor desses produtos para compras à vista. Isso significa que na compra à vista o cliente estará pagando:",
+    "options": [
+      { "label": "a", "text": "Com acréscimo de 10% em relação ao valor praticado anteriormente." },
+      { "label": "b", "text": "Com acréscimo de 5% em relação ao valor praticado anteriormente." },
+      { "label": "c", "text": "O mesmo valor anterior ao aumento de 25%" },
+      { "label": "d", "text": "Com acréscimo de 15% em relação ao valor praticado anteriormente." },
+      { "label": "e", "text": "Com desconto de 5% em relação ao valor praticado anteriormente." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2015-q36",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 36,
+    "statement": "Sejam $A=2x+1$ e $B=2x-1$. A forma simplificada da expressão $A^2+B^2-AB$ é:",
+    "options": [
+      { "label": "a", "text": "$4x^2+3$" },
+      { "label": "b", "text": "$12x^2+8x+1$" },
+      { "label": "c", "text": "$4x^2+8x+1$" },
+      { "label": "d", "text": "$4x^2-1$" },
+      { "label": "e", "text": "$4x^2+1$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2015-q37",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 37,
+    "statement": "Felipe ganhou uma bicicleta de presente de sua mãe. Sabendo que a roda maior de sua bicicleta tem 2 m de perímetro e a menor 1,8m, e que a distância entre sua casa e a escola onde estuda é de 1260 metros, quantas vezes as duas rodas da bicicleta completam voltas concomitantemente, no trajeto entre sua casa e sua escola?",
+    "options": [
+      { "label": "a", "text": "88 vezes" },
+      { "label": "b", "text": "82 vezes" },
+      { "label": "c", "text": "70 vezes" },
+      { "label": "d", "text": "74 vezes" },
+      { "label": "e", "text": "22 vezes" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2015-q38",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 38,
+    "statement": "Numa cidade do Maranhão, a prefeitura cobra o imposto predial de um bairro da seguinte forma: Imposto = Área do terreno × (R$4,00) + Perímetro do terreno × (R$3,00), onde a área do terreno é dada em m² e o perímetro do terreno em m. O valor do imposto de um terreno retangular cujos lados são as raízes da equação $k^2-40k+375=0$, em metros, é:",
+    "options": [
+      { "label": "a", "text": "R$ 2870,00" },
+      { "label": "b", "text": "R$ 2540,00" },
+      { "label": "c", "text": "R$ 1820,00" },
+      { "label": "d", "text": "R$ 2678,00" },
+      { "label": "e", "text": "R$ 1740,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2015-q39",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 39,
+    "statement": "Dois retângulos $R_1$ e $R_2$ são tais que: a medida da base de $R_1$ é o triplo da medida da base de $R_2$; a medida da altura de $R_1$ é a terça parte da medida da altura de $R_2$. Nessas condições é verdade que:",
+    "options": [
+      { "label": "a", "text": "a medida da área de $R_1$ é igual a medida da área de $R_2$." },
+      { "label": "b", "text": "o perímetro de $R_1$ é igual ao perímetro de $R_2$." },
+      { "label": "c", "text": "o perímetro de $R_1$ é o dobro do perímetro de $R_2$." },
+      { "label": "d", "text": "a medida da área de $R_2$ é o dobro da medida da área de $R_1$." },
+      { "label": "e", "text": "a medida da área de $R_1$ é o triplo da medida da área de $R_2$." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2015-q40",
+    "examId": "mat-integrada-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 40,
+    "statement": "O dono de um restaurante na Praia do Calhau em São Luís pretende colocar um painel na frente de seu estabelecimento, de dimensões de 5m por 6m, que deve ser pintado em 30% de sua área. Da área pintada, 12% devem ser na cor verde, que será o nome do restaurante. Sabendo que cada tubo de tinta verde possibilita pintar uma área de 1200 cm², o número mínimo de tubos de tinta verde necessários é:",
+    "options": [
+      { "label": "a", "text": "6" },
+      { "label": "b", "text": "9" },
+      { "label": "c", "text": "12" },
+      { "label": "d", "text": "11" },
+      { "label": "e", "text": "10" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2015-q21",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "A forma simplificada da expressão algébrica $\\left[\\dfrac{x-2}{x+1}-\\dfrac{x+7}{x^2-1}\\right]\\div\\left[\\dfrac{x-5}{1-x}\\right]$, para $x\\ne\\pm1$, é igual a:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{x-5}{x+1}$" },
+      { "label": "b", "text": "$\\dfrac{1}{x+1}$" },
+      { "label": "c", "text": "$\\dfrac{x-5}{x^2-1}$" },
+      { "label": "d", "text": "$-1$" },
+      { "label": "e", "text": "$\\dfrac{5-x}{x+1}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2015-q22",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Em um mapa, construído numa escala de 1:500000, a distância entre duas cidades, A e B, é 80 cm. Qual a distância real entre elas?",
+    "options": [
+      { "label": "a", "text": "20km" },
+      { "label": "b", "text": "400km" },
+      { "label": "c", "text": "40km" },
+      { "label": "d", "text": "16km" },
+      { "label": "e", "text": "800km" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2015-q23",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 23,
+    "statement": "Em um determinado supermercado, um pacote de leite de 500g da marca X, custa R$7,30, enquanto outro pacote de leite de 200g da mesma marca, custa R$ 3,20. Nessas condições, é CORRETO afirmar que:",
+    "options": [
+      { "label": "a", "text": "é mais econômico para um cliente comprar 1kg de leite em pacotes de 500g, do que em pacotes de 200g, pois em pacotes de 200g o leite custa, aproximadamente, 9,6% mais caro." },
+      { "label": "b", "text": "é mais econômico para um cliente comprar 1kg desse leite em pacotes de 200g, do que em pacotes de 500g, pois assim gastará 8,75% a menos." },
+      { "label": "c", "text": "é mais econômico para um cliente comprar 1kg desse leite em pacotes de 500g, do que em pacotes de 200g, pois assim gastará 12,5% a menos." },
+      { "label": "d", "text": "um cliente não fará nenhuma economia optando por comprar 1kg desse leite em pacotes de 200g ou em pacotes de 500g." },
+      { "label": "e", "text": "é mais econômico para um cliente comprar 5kg de leite em pacotes de 500g, do que em pacotes de 200g, pois em pacotes de 200g o leite custa, aproximadamente, 20% mais caro." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2015-q24",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "Concluída uma pesquisa feita entre 95 crianças, acerca de suas preferências por chocolate, cachorro-quente e sorvete, constatou-se que 60 gostam de chocolate, 55 gostam de cachorro-quente, 45 gostam de sorvete, 30 gostam de chocolate e cachorro quente, 25 gostam de cachorro-quente e sorvete, 15 gostam de sorvete e chocolate e 5 gostam dos três alimentos. O número de crianças que não gosta de nenhum desses alimentos é:",
+    "options": [
+      { "label": "a", "text": "10" },
+      { "label": "b", "text": "5" },
+      { "label": "c", "text": "0" },
+      { "label": "d", "text": "15" },
+      { "label": "e", "text": "20" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2015-q25",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 25,
+    "statement": "A soma das raízes da equação $\\left(2^x\\right)^{x-1}=4$ é:",
+    "options": [
+      { "label": "a", "text": "1 e $-2$" },
+      { "label": "b", "text": "$-1$" },
+      { "label": "c", "text": "2" },
+      { "label": "d", "text": "$-1$ e 2" },
+      { "label": "e", "text": "1" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2015-q26",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 26,
+    "statement": "Os pontos de intersecção do gráfico da função $f:\\mathbb{R}\\to\\mathbb{R}$, definida por $f(x)=2x^2-14x+20$, com o eixo das abscissas são:",
+    "options": [
+      { "label": "a", "text": "(2,0) e (5,0)" },
+      { "label": "b", "text": "(4,0) e (0,5)" },
+      { "label": "c", "text": "(0,-4) e (0,-5)" },
+      { "label": "d", "text": "(2,5) e (0,0)" },
+      { "label": "e", "text": "(6,0) e (1,0)" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2015-q27",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 27,
+    "statement": "Sobre os itens abaixo: I. Se $2<3<5$, então $\\sqrt2<\\sqrt3<\\sqrt5$  II. $\\sqrt2<\\sqrt[10]{2^5}$  III. $\\sqrt[9]{64}<2^{2/3}$  IV. $\\sqrt[5]{125}<\\sqrt[10]{1000}$. Podemos afirmar que:",
+    "options": [
+      { "label": "a", "text": "Apenas III está falso" },
+      { "label": "b", "text": "Somente I e II estão falsos" },
+      { "label": "c", "text": "Apenas II está correto" },
+      { "label": "d", "text": "Apenas I está correto" },
+      { "label": "e", "text": "Apenas IV é falso" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2015-q28",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 28,
+    "statement": "Dadas as afirmativas: I. Todo número par é divisível por 2. II. Todo número ímpar é divisível por 3. III. Todo número é divisível por 10 quando termina em 0 ou 5. IV. No calendário do mês de maio há mais números divisíveis por 9 do que por 10. V. Existe um número natural que é divisível por 2, 3, 5 e 9 ao mesmo tempo. Quais as afirmativas verdadeiras?",
+    "options": [
+      { "label": "a", "text": "III e IV" },
+      { "label": "b", "text": "II e V" },
+      { "label": "c", "text": "I e V" },
+      { "label": "d", "text": "II e IV" },
+      { "label": "e", "text": "III e V" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2015-q29",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "As praias do Caburé e Atins são umas das belezas naturais próximas da cidade de Barreirinhas, localizada, aproximadamente, a 265km de São Luís (MA), fazendo dessa cidade um centro turístico, recebendo milhares de turistas ao ano. Numa pesquisa encomendada por uma empresa de turismo, verificou-se que dos turistas consultados, 110000 visitaram a praia do Caburé, 70000 visitaram a praia de Atins, 50000 visitaram as duas praias e 9000 não visitaram nenhuma das duas praias. Com estas informações, o número de turistas consultados foi de:",
+    "options": [
+      { "label": "a", "text": "139000" },
+      { "label": "b", "text": "150000" },
+      { "label": "c", "text": "239000" },
+      { "label": "d", "text": "220000" },
+      { "label": "e", "text": "370000" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2015-q30",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 30,
+    "statement": "Uma pizzaria oferece serviços de entrega e cobra por isso uma taxa de R$1,80 mais R$0,70 por quilômetro rodado no trajeto entre o estabelecimento e o local de entrega. O valor da taxa cobrada, caso o local de entrega fosse a 8,5km do estabelecimento, é:",
+    "options": [
+      { "label": "a", "text": "R$12,30" },
+      { "label": "b", "text": "R$10,45" },
+      { "label": "c", "text": "R$7,75" },
+      { "label": "d", "text": "R$5,95" },
+      { "label": "e", "text": "R$15,30" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2015-q31",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 31,
+    "statement": "Os possíveis valores de k, onde o gráfico da parábola que representa a função $f(x)=-x^2+(k-2)x+k-5$ não intersecta o eixo $\\overrightarrow{Ox}$, podem ser representados pelo conjunto:",
+    "options": [
+      { "label": "a", "text": "$S=\\{k\\in R\\mid -4<k<4\\}$" },
+      { "label": "b", "text": "$S=\\{k\\in R\\mid k<-4\\text{ ou }k>4\\}$" },
+      { "label": "c", "text": "$S=\\{k\\in R\\mid k<-2\\text{ ou }k>2\\}$" },
+      { "label": "d", "text": "$S=\\{k\\in R\\mid -2<k<2\\}$" },
+      { "label": "e", "text": "$S=\\{k\\in R\\mid -3<k<3\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2015-q32",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "Claudia é uma estudante do IFMA e fez uma prova de geometria onde uma das questões relacionava-se com a figura abaixo. A questão solicitava que a aluna apresentasse algumas características do trapézio. Ela, então descreve as seguintes características: I - Trata-se de um trapézio escaleno. II - Os ângulos $\\hat{D}$ e $\\hat{C}$ medem, cada um, 120,75°. III - Os lados $\\overline{AD}$ e $\\overline{BC}$ são congruentes. A(s) afirmação(ões) correta(s) é (são):",
+    "options": [
+      { "label": "a", "text": "I e II" },
+      { "label": "b", "text": "III" },
+      { "label": "c", "text": "II e III" },
+      { "label": "d", "text": "I" },
+      { "label": "e", "text": "I, II e III" }
+    ],
+    "imagePath": "mat-concomitante-2015/q32.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2015-q33",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "A área de um hexágono regular, cujo apótema mede $3\\sqrt3\\ cm$, é igual a:",
+    "options": [
+      { "label": "a", "text": "$54\\sqrt3\\ cm^2$" },
+      { "label": "b", "text": "$27\\sqrt3\\ cm^2$" },
+      { "label": "c", "text": "$64\\sqrt3\\ cm^2$" },
+      { "label": "d", "text": "$9\\sqrt3\\ cm^2$" },
+      { "label": "e", "text": "$18\\sqrt3\\ cm^2$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2015-q34",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 34,
+    "statement": "Dois amigos, Lucas e Marcos, fundaram uma sociedade: Lucas contribuiu com R$ 4000,00 e Marcos, com R$ 5000,00. No final do investimento, o lucro foi dividido em partes diretamente proporcionais às quantias investidas por cada um deles. Sabendo-se que Marcos recebeu R$6500,00 a mais que Lucas, o lucro total apurado foi de:",
+    "options": [
+      { "label": "a", "text": "R$ 58 500,00" },
+      { "label": "b", "text": "R$ 56 500,00" },
+      { "label": "c", "text": "R$ 54 500,00" },
+      { "label": "d", "text": "R$ 54 000,00" },
+      { "label": "e", "text": "R$ 55 500,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2015-q35",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 35,
+    "statement": "Com a chegada da entressafra, período em que não há colheita, o preço do quilograma de cebola sofreu dois aumentos sucessivos de 20% e 30%, passando a custar R$ 5,46. O preço do quilograma de cebola anterior aos acréscimos era de:",
+    "options": [
+      { "label": "a", "text": "R$ 3,20" },
+      { "label": "b", "text": "R$ 3,50" },
+      { "label": "c", "text": "R$ 4,10" },
+      { "label": "d", "text": "R$ 4,00" },
+      { "label": "e", "text": "R$ 4,20" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2015-q36",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 36,
+    "statement": "Considere os números inteiros a, b, x, y, com x>y. Sabendo-se que as formas fatoradas de a e b são $a=2^x\\cdot3^y$ e $b=2^y\\cdot3^x\\cdot5$, que mdc(a,b)=36 e que mmc(a,b)=1080, o valor de (b-a) é igual a:",
+    "options": [
+      { "label": "a", "text": "408" },
+      { "label": "b", "text": "390" },
+      { "label": "c", "text": "468" },
+      { "label": "d", "text": "428" },
+      { "label": "e", "text": "488" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2015-q37",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 37,
+    "statement": "Os alunos de uma escola de Pindaré-Mirim fretaram, para a sua viagem de formandos, um ônibus com capacidade para 50 pessoas. Cada estudante comprometeu-se a pagar R$250,00, caso o ônibus ficasse com todas as cadeiras ocupadas. No caso de haver uma cadeira vazia, então cada aluno pagaria um adicional de R$ 4,50 por cadeira que ficasse vazia. A fórmula matemática da receita R total pago pelos alunos no frete do ônibus, em função do número x de alunos que irão comparecer é:",
+    "options": [
+      { "label": "a", "text": "$R(x)=-4{,}5x^2+475x$" },
+      { "label": "b", "text": "$R(x)=45x^2-625x$" },
+      { "label": "c", "text": "$R(x)=35x^2-325x$" },
+      { "label": "d", "text": "$R(x)=3{,}5x^2+630x$" },
+      { "label": "e", "text": "$R(x)=-25x^2-250x$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2015-q38",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 38,
+    "statement": "Considere as funções afins f(x) e p(x), definidas de reais em reais, onde $f(x)=2x+4$ e $p(x)=6x-2m$, sendo m uma constante real. O valor de m para que $p(f(x))=f(p(x))$ é:",
+    "options": [
+      { "label": "a", "text": "$-7$" },
+      { "label": "b", "text": "$\\dfrac{1}{3}$" },
+      { "label": "c", "text": "5" },
+      { "label": "d", "text": "7" },
+      { "label": "e", "text": "$-10$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2015-q39",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 39,
+    "statement": "Seja $f(x)=3^{2x+1}$ uma função exponencial, definida de reais em reais. Se a e b são constantes reais, tais que $f(a)=27f(b)$, pode-se afirmar que:",
+    "options": [
+      { "label": "a", "text": "$a+b=2$" },
+      { "label": "b", "text": "$a-b=\\dfrac{3}{2}$" },
+      { "label": "c", "text": "$a-b=3$" },
+      { "label": "d", "text": "$a+b=5$" },
+      { "label": "e", "text": "$2a-b=6$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2015-q40",
+    "examId": "mat-concomitante-2015",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 40,
+    "statement": "Dada a função $f:\\mathbb{R}_+\\to[1;+\\infty)$, onde $\\mathbb{R}_+$ representa o conjunto dos números reais não negativos, definida por $f(x)=x^2+1$, sua inversa $f^{-1}$ é definida por:",
+    "options": [
+      { "label": "a", "text": "$f^{-1}(x)=\\sqrt{x-1}$" },
+      { "label": "b", "text": "$f^{-1}(x)=\\sqrt{x+1}$" },
+      { "label": "c", "text": "$f^{-1}(x)=\\sqrt{2x-1}$" },
+      { "label": "d", "text": "$f^{-1}(x)=\\sqrt{x+2}$" },
+      { "label": "e", "text": "$f^{-1}(x)=\\sqrt{x-2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2015-q21",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 21,
+    "statement": "Sabendo-se que $-1$ é uma das raízes da equação $(k-2)x^2-k(x+1)-1=0$, $k\\ne2$, na incógnita x, o valor da expressão $2k^2-7k$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$-3$" },
+      { "label": "b", "text": "$-1$" },
+      { "label": "c", "text": "3" },
+      { "label": "d", "text": "1" },
+      { "label": "e", "text": "$-5$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2015-q22",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "As medidas internas de uma piscina cilíndrica são: 6m de diâmetro e 1,7m de profundidade. Quantos metros quadrados de lajotas, aproximadamente, seriam necessários para revesti-la internamente? (Considere $\\pi=3{,}14$)",
+    "options": [
+      { "label": "a", "text": "53,6m²" },
+      { "label": "b", "text": "60,3m²" },
+      { "label": "c", "text": "56,3m²" },
+      { "label": "d", "text": "64,3m²" },
+      { "label": "e", "text": "59,6m²" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2015-q23",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 23,
+    "statement": "Numa turma de 30 alunos, dos quais 16 são mulheres, um grupo de cinco alunos, sendo dois homens e três mulheres, será escolhido, ao acaso, para representar essa turma em um evento. Quantos grupos diferentes poderão ser formados?",
+    "options": [
+      { "label": "a", "text": "610 520" },
+      { "label": "b", "text": "50 960" },
+      { "label": "c", "text": "1120" },
+      { "label": "d", "text": "15 680" },
+      { "label": "e", "text": "31 360" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2015-q24",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 24,
+    "statement": "Sabendo-se que: $A=\\dfrac{0{,}0001\\cdot(0{,}001)^2\\cdot10^2}{(0{,}01)^3}+\\dfrac{10^3\\cdot(0{,}1)^{-2}}{10^5}$, então o valor de A é:",
+    "options": [
+      { "label": "a", "text": "4,02" },
+      { "label": "b", "text": "2,03" },
+      { "label": "c", "text": "1,01" },
+      { "label": "d", "text": "1,45" },
+      { "label": "e", "text": "10" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2015-q25",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 25,
+    "statement": "Paulo foi a uma loja de sua cidade e comprou um ventilador em 8 parcelas, sendo a primeira de R$ 128,00 e o valor de cada parcela, a partir da segunda, equivalente a 50% da parcela anterior. Ao final, quanto Paulo pagou pelo ventilador?",
+    "options": [
+      { "label": "a", "text": "R$ 212,50" },
+      { "label": "b", "text": "R$ 255,00" },
+      { "label": "c", "text": "R$ 275,00" },
+      { "label": "d", "text": "R$ 248,00" },
+      { "label": "e", "text": "R$ 265,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2015-q26",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 26,
+    "statement": "Sejam as retas $r:a_1x+b_1y+c_1=0$ e $s:a_2x+b_2y+c_2=0$ para $a_1,a_2,b_1,b_2,c_1$ e $c_2$ constantes reais não nulas. De acordo com as posições entre duas retas, temos as seguintes afirmativas e relações: A. r e s são retas paralelas distintas. B. r e s são retas coincidentes. C. r e s são retas concorrentes entre si. I. $\\dfrac{a_1}{a_2}\\ne\\dfrac{b_1}{b_2}$  II. $\\dfrac{a_1}{a_2}=\\dfrac{b_1}{b_2}=\\dfrac{c_1}{c_2}$  III. $\\dfrac{a_1}{a_2}=\\dfrac{b_1}{b_2}\\ne\\dfrac{c_1}{c_2}$. Relacione as afirmativas com as igualdades:",
+    "options": [
+      { "label": "a", "text": "A-II; B-II; C-I" },
+      { "label": "b", "text": "A-I; B-II; C-III" },
+      { "label": "c", "text": "A-II; B-I; C-III" },
+      { "label": "d", "text": "A-III; B-I; C-II" },
+      { "label": "e", "text": "A-III; B-II; C-I" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2015-q27",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 27,
+    "statement": "Leia as afirmativas. I. O polígono que possui 9 lados é denominado decágono. II. A soma dos ângulos internos de qualquer quadrilátero é 360°. III. Um polígono convexo regular tem todos os ângulos internos com a mesma medida. IV. Se dois polígonos têm quantidades diferentes de lados, necessariamente eles têm a soma dos ângulos internos também diferentes. A(s) afirmação(ões) correta(s) são:",
+    "options": [
+      { "label": "a", "text": "IV" },
+      { "label": "b", "text": "I" },
+      { "label": "c", "text": "I, II, III e IV" },
+      { "label": "d", "text": "II, III e IV" },
+      { "label": "e", "text": "II e IV" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2015-q28",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 28,
+    "statement": "Uma consulta feita com 55 pessoas sobre o consumo de dois tipos de sucos, A e B, resultou no seguinte: 30 pessoas gostam do suco tipo A, 20 pessoas gostam do suco tipo B e 10 pessoas gostam dos dois tipos de sucos. Neste caso, o número de pessoas que não gostam de nenhum dos tipos de sucos é:",
+    "options": [
+      { "label": "a", "text": "18" },
+      { "label": "b", "text": "12" },
+      { "label": "c", "text": "10" },
+      { "label": "d", "text": "16" },
+      { "label": "e", "text": "15" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2015-q29",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 29,
+    "statement": "Nas afirmações abaixo: I. $\\dfrac{1}{4}\\cdot\\sqrt{48}+8\\cdot\\sqrt3=8\\cdot\\sqrt6$  II. $\\dfrac{2}{5}a^3b^2\\cdot\\sqrt{\\dfrac{50x^2}{4a^4b^4}}=a\\cdot x\\cdot\\sqrt2$, para $x>0$, $a>0$ e $b>0$  III. Se $\\sqrt[3]{300}=2^x\\cdot3^y\\cdot5^z$, então $x=\\dfrac{2}{3}$, $y=\\dfrac{1}{3}$ e $z=\\dfrac{2}{3}$  IV. Se $2<3<5$, então $\\sqrt2<\\sqrt[3]{3}<\\sqrt[4]{5}$. São verdadeiras:",
+    "options": [
+      { "label": "a", "text": "II e III" },
+      { "label": "b", "text": "I e II" },
+      { "label": "c", "text": "III e IV" },
+      { "label": "d", "text": "II, III e IV" },
+      { "label": "e", "text": "I e IV" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2015-q30",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 30,
+    "statement": "Sejam as afirmativas, sabendo que $\\mathbb{R}$ é o conjunto dos números reais, $\\mathbb{Z}$ o conjunto dos números inteiros, $\\mathbb{Q}$ o conjunto dos números racionais e $\\mathbb{I}$ o conjunto dos números irracionais: I. $\\sqrt{10}\\in(\\mathbb{Q}\\cup\\mathbb{I})$  II. $\\mathbb{Z}\\not\\subset\\mathbb{R}$  III. $(\\mathbb{Q}\\cap\\mathbb{I})=\\varnothing$  IV. $\\mathbb{R}\\subset\\mathbb{R}^*$  V. $3{,}762\\in(\\mathbb{Q}\\cap\\mathbb{Z})$  VI. $\\mathbb{I}\\not\\subset\\mathbb{Z}$. As afirmativas corretas são:",
+    "options": [
+      { "label": "a", "text": "V e VI" },
+      { "label": "b", "text": "II, IV e V" },
+      { "label": "c", "text": "II, III e V" },
+      { "label": "d", "text": "I, III e VI" },
+      { "label": "e", "text": "III e IV" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2015-q31",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "Em um trapézio retângulo de área $40\\sqrt3\\ cm^2$, o lado oblíquo forma com a base maior um ângulo de 60°. Sabendo-se que a base maior supera a base menor em 4cm, o perímetro desse trapézio mede:",
+    "options": [
+      { "label": "a", "text": "$4(7+\\sqrt3)cm$" },
+      { "label": "b", "text": "$2(5+\\sqrt2)cm$" },
+      { "label": "c", "text": "$4(6+\\sqrt3)cm$" },
+      { "label": "d", "text": "$8(3+2\\sqrt3)cm$" },
+      { "label": "e", "text": "$3(4+\\sqrt3)cm$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2015-q32",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 32,
+    "statement": "Numa prova de 20 questões, sendo cinco opções em cada questão e apenas uma correta, um aluno disse que tinha certeza que havia feito 16 questões corretas, mas que as outras quatro ele havia marcado aleatoriamente. Qual a probabilidade desse aluno acertar as quatro questões que ele, como dissera, marcou aleatoriamente?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{625}$" },
+      { "label": "b", "text": "$\\dfrac{1}{125}$" },
+      { "label": "c", "text": "$\\dfrac{1}{25}$" },
+      { "label": "d", "text": "$\\dfrac{1}{5}$" },
+      { "label": "e", "text": "$\\dfrac{1}{4}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2015-q33",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 33,
+    "statement": "Dadas as matrizes $A=\\begin{pmatrix}a&b\\\\1&2\\end{pmatrix}$, $B=\\begin{pmatrix}0&1\\\\-1&3\\end{pmatrix}$ e $C=\\begin{pmatrix}2&-7\\\\-2&7\\end{pmatrix}$. O valor do produto ab, sabendo que $A\\cdot B=C$, é igual a:",
+    "options": [
+      { "label": "a", "text": "3" },
+      { "label": "b", "text": "2" },
+      { "label": "c", "text": "$-3$" },
+      { "label": "d", "text": "1" },
+      { "label": "e", "text": "$-1$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2015-q34",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 34,
+    "statement": "Sendo as funções afins f(x) e g(x) definidas de reais em reais onde $f(x)=2x+3$ e $g(x)=3x+t$, o valor de t de modo que se tenha $f(g(x))=g(f(x))$ é:",
+    "options": [
+      { "label": "a", "text": "$t=5$" },
+      { "label": "b", "text": "$t=0$" },
+      { "label": "c", "text": "$t=-2$" },
+      { "label": "d", "text": "$t=-3$" },
+      { "label": "e", "text": "$t=6$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2015-q35",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 35,
+    "statement": "Seja a função f, definida de $\\mathbb{R}$ em $\\mathbb{R}$, dada por $f(x)=kx+t$, em que k e t são constantes reais não nulas e os pontos $(-1,3)$ e $(0,-1)$ pertencem ao gráfico de f. Sejam as afirmativas: I. f é crescente, $\\forall x\\in\\mathbb{R}$. II. $\\dfrac{3}{4}$ é zero da função. III. O ponto $(-10,39)$ pertence ao gráfico de f. IV. $f(x)<0$, se $x<\\dfrac{1}{4}$. V. $f(x)\\le0$, se $x\\ge-\\dfrac{1}{4}$. Das afirmativas acima, as verdadeiras são:",
+    "options": [
+      { "label": "a", "text": "II e IV" },
+      { "label": "b", "text": "I e II" },
+      { "label": "c", "text": "II e V" },
+      { "label": "d", "text": "III e V" },
+      { "label": "e", "text": "IV e V" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2015-q36",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 36,
+    "statement": "Seja x um ângulo do segundo quadrante. Sendo $sen(x)+2\\cos(x)=0$, o valor de $\\cos(x)$ é igual a:",
+    "options": [
+      { "label": "a", "text": "$-\\dfrac{\\sqrt5}{5}$" },
+      { "label": "b", "text": "$\\dfrac{\\sqrt5}{5}$" },
+      { "label": "c", "text": "$-\\dfrac{\\sqrt3}{3}$" },
+      { "label": "d", "text": "$\\dfrac{\\sqrt3}{3}$" },
+      { "label": "e", "text": "$-\\dfrac{\\sqrt2}{3}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2015-q37",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 37,
+    "statement": "Os três primeiros termos da sequência (2,x,y,30) estão em progressão geométrica crescente e os três últimos, em progressão aritmética crescente. O valor do quociente de y por x é:",
+    "options": [
+      { "label": "a", "text": "4" },
+      { "label": "b", "text": "3" },
+      { "label": "c", "text": "5" },
+      { "label": "d", "text": "6" },
+      { "label": "e", "text": "$\\dfrac{2}{3}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2015-q38",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 38,
+    "statement": "Considere os números complexos $Z=\\sqrt3+i$ e $W=1-i$. Para as informações abaixo: I. $|\\bar{Z}\\cdot W|=3\\sqrt2$  II. $W^2+2Z$ é um número real  III. $Z=4\\left[\\cos\\left(\\dfrac{\\pi}{6}\\right)+i\\,sen\\left(\\dfrac{\\pi}{6}\\right)\\right]$  IV. $\\dfrac{Z}{W}=\\dfrac{1+i}{2}$. Podemos afirmar:",
+    "options": [
+      { "label": "a", "text": "Somente II é correta" },
+      { "label": "b", "text": "Apenas III e IV estão corretas" },
+      { "label": "c", "text": "Apenas IV e I estão corretas" },
+      { "label": "d", "text": "Apenas III e I estão corretas" },
+      { "label": "e", "text": "Somente IV é correta" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2015-q39",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 39,
+    "statement": "Sabendo-se que $2^k=5$, então $\\log_{50}4$ em função de k é igual a:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{2}{1+2k}$" },
+      { "label": "b", "text": "$\\dfrac{2}{2+k}$" },
+      { "label": "c", "text": "$\\dfrac{2}{1+k}$" },
+      { "label": "d", "text": "$\\dfrac{1}{1+2k}$" },
+      { "label": "e", "text": "$\\dfrac{1}{1+k}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2015-q40",
+    "examId": "mat-subsequente-2015",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 40,
+    "statement": "Dadas as matrizes $A=\\begin{pmatrix}1&3\\\\4&-1\\end{pmatrix}$ e $B=\\begin{pmatrix}a&b\\\\c&d\\end{pmatrix}$ de ordem 2. No produto dessas matrizes $A\\cdot B=I_2$, onde $I_2$ é uma matriz identidade de ordem 2, tem-se o valor de $bc-ad$ igual a:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{10}$" },
+      { "label": "b", "text": "$-\\dfrac{1}{20}$" },
+      { "label": "c", "text": "$\\dfrac{1}{50}$" },
+      { "label": "d", "text": "$\\dfrac{1}{13}$" },
+      { "label": "e", "text": "$\\dfrac{1}{5}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
