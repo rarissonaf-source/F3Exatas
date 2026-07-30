@@ -37,6 +37,35 @@ interface Props {
 
 const OPTION_LABELS: Record<OptionLabel, string> = { a: "A", b: "B", c: "C", d: "D", e: "E" };
 
+const CHECKIN_LOG_KEY = "f3provas_answer_checks";
+const CHECKIN_SHOWN_KEY = "f3provas_checkin_last_shown";
+const DAY_MS = 24 * 60 * 60 * 1000;
+const CHECKIN_THRESHOLD = 10;
+const MENTORIAS_URL = "https://f3-exatas.vercel.app/mentorias/index.html";
+
+function recordAnswerCheckAndMaybePrompt(): boolean {
+  if (typeof window === "undefined") return false;
+
+  const now = Date.now();
+  let log: number[] = [];
+  try {
+    log = JSON.parse(localStorage.getItem(CHECKIN_LOG_KEY) ?? "[]");
+  } catch {
+    log = [];
+  }
+  log = log.filter((t) => now - t < DAY_MS);
+  log.push(now);
+  localStorage.setItem(CHECKIN_LOG_KEY, JSON.stringify(log));
+
+  if (log.length < CHECKIN_THRESHOLD) return false;
+
+  const lastShown = Number(localStorage.getItem(CHECKIN_SHOWN_KEY) ?? 0);
+  if (now - lastShown < DAY_MS) return false;
+
+  localStorage.setItem(CHECKIN_SHOWN_KEY, String(now));
+  return true;
+}
+
 export function QuestionBrowser({
   questions,
   exams,
@@ -51,6 +80,7 @@ export function QuestionBrowser({
   const [selected, setSelected] = useState<OptionLabel | null>(null);
   const [checked, setChecked] = useState(false);
   const [zoomedImage, setZoomedImage] = useState<string | null>(null);
+  const [checkinOpen, setCheckinOpen] = useState(false);
   const touchStartX = useRef<number | null>(null);
 
   const goTo = (i: number) => {
@@ -299,7 +329,10 @@ export function QuestionBrowser({
                 {!checked && (
                   <Button
                     disabled={selected === null}
-                    onClick={() => setChecked(true)}
+                    onClick={() => {
+                      setChecked(true);
+                      if (recordAnswerCheckAndMaybePrompt()) setCheckinOpen(true);
+                    }}
                     style={{ backgroundColor: topicColor }}
                     className="text-base font-bold uppercase tracking-wide text-white hover:opacity-90"
                   >
@@ -363,6 +396,49 @@ export function QuestionBrowser({
               className="max-h-full max-w-full object-contain"
               onClick={(e) => e.stopPropagation()}
             />
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      <AnimatePresence>
+        {checkinOpen && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[110] flex items-end justify-center bg-black/50 p-4 sm:items-center"
+            onClick={() => setCheckinOpen(false)}
+          >
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: 20 }}
+              onClick={(e) => e.stopPropagation()}
+              className="w-full max-w-sm rounded-2xl bg-popover p-5 text-popover-foreground ring-1 ring-border shadow-xl"
+            >
+              <div className="flex items-start gap-3">
+                <span className="flex size-9 shrink-0 items-center justify-center rounded-full bg-brand-navy text-xs font-bold text-white">
+                  F3
+                </span>
+                <div className="rounded-2xl rounded-tl-sm bg-muted px-4 py-3 text-sm leading-relaxed">
+                  Você já resolveu <strong>10 questões</strong> hoje! Como tá indo o rendimento até agora?
+                </div>
+              </div>
+              <div className="mt-4 flex flex-col gap-2">
+                <Button onClick={() => setCheckinOpen(false)} className="w-full justify-center">
+                  Tá tudo certo, bora continuar
+                </Button>
+                <a
+                  href={MENTORIAS_URL}
+                  target="_blank"
+                  rel="noopener"
+                  onClick={() => setCheckinOpen(false)}
+                  className="w-full rounded-md border border-border py-2 text-center text-sm font-semibold text-foreground transition-colors hover:bg-muted"
+                >
+                  Preciso de uma ajuda extra
+                </a>
+              </div>
+            </motion.div>
           </motion.div>
         )}
       </AnimatePresence>
