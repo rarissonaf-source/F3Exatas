@@ -5710,5 +5710,1025 @@
     ],
     "imagePath": "mat-subsequente-2014/q40.png",
     "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2013-q21",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 21,
+    "statement": "Sabendo que $x=(-8):[(-2):(-2)]$ e $y=[(-8):(-2)]:(-2)$, então o valor de $\\left[\\left(\\dfrac{x}{y}\\right)^2\\right]^2$ equivale a:",
+    "options": [
+      { "label": "a", "text": "32" },
+      { "label": "b", "text": "16" },
+      { "label": "c", "text": "256" },
+      { "label": "d", "text": "8" },
+      { "label": "e", "text": "4" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2013-q22",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Ane alugou um carro em uma locadora que cobra R$ 22,10 por dia pelo aluguel do mesmo, além disso, cobra também, uma taxa fixa de R$ 30,00. Quanto Ane gastou, tendo alugado o carro por 21 dias?",
+    "options": [
+      { "label": "a", "text": "R$ 494,00" },
+      { "label": "b", "text": "R$ 494,10" },
+      { "label": "c", "text": "R$ 424,00" },
+      { "label": "d", "text": "R$ 400,00" },
+      { "label": "e", "text": "R$ 250,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2013-q23",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 23,
+    "statement": "Se $a+\\dfrac{1}{a}=4{,}5$, então o valor de $a^2+\\dfrac{1}{a^2}$ é:",
+    "options": [
+      { "label": "a", "text": "2" },
+      { "label": "b", "text": "20,25" },
+      { "label": "c", "text": "9" },
+      { "label": "d", "text": "18,25" },
+      { "label": "e", "text": "1" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2013-q24",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "Pedro gasta do seu salário 1/5 para pagar mensalidade da sua faculdade, 1/10 para combustível e 1/2 para despesas de casa. Considerando-se apenas estas despesas, podemos afirmar que a porcentagem que sobra do seu salário é:",
+    "options": [
+      { "label": "a", "text": "32%" },
+      { "label": "b", "text": "22%" },
+      { "label": "c", "text": "25%" },
+      { "label": "d", "text": "30%" },
+      { "label": "e", "text": "20%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2013-q25",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 25,
+    "statement": "Num determinado triângulo, a soma das medidas da base e da altura é 62,5 cm e a diferença entre elas é 15,5 cm. Sabendo-se que a medida da base é maior que a medida da altura, a área desse triângulo é:",
+    "options": [
+      { "label": "a", "text": "458,25 cm²" },
+      { "label": "b", "text": "46,87 cm²" },
+      { "label": "c", "text": "75 cm²" },
+      { "label": "d", "text": "37,5 cm²" },
+      { "label": "e", "text": "25 cm²" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2013-q26",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 26,
+    "statement": "O resultado da operação (0,03km + 200mm + 100cm + 1hm) é:",
+    "options": [
+      { "label": "a", "text": "13,12 km" },
+      { "label": "b", "text": "131,2 m" },
+      { "label": "c", "text": "1,3 hm" },
+      { "label": "d", "text": "1312 cm" },
+      { "label": "e", "text": "1.3120 mm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2013-q27",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 27,
+    "statement": "Observando a planta de um apartamento feita na escala 1:100, quais as medidas das dimensões reais do quarto desse apartamento?",
+    "options": [
+      { "label": "a", "text": "3.0000 cm e 2.5000 cm" },
+      { "label": "b", "text": "3,5 m e 3,0 m" },
+      { "label": "c", "text": "4,5 m e 3,0 m" },
+      { "label": "d", "text": "3,0 m e 2,5 m" },
+      { "label": "e", "text": "25 m e 30 m" }
+    ],
+    "imagePath": "mat-integrada-2013/q27.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2013-q28",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 28,
+    "statement": "O saldo bancário de Luiz era de R$ 600,00. Ele depositou R$ 500,00 e pagou suas despesas de aluguel e alimentação com dois cheques, um no valor de R$ 700,00 e o outro de R$ 450,00, respectivamente. Quanto será o saldo de Luiz depois do depósito e do pagamento dos cheques, em reais (R$)?",
+    "options": [
+      { "label": "a", "text": "0" },
+      { "label": "b", "text": "$-150,00$" },
+      { "label": "c", "text": "50,00" },
+      { "label": "d", "text": "100,00" },
+      { "label": "e", "text": "$-50,00$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2013-q29",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Na padaria do Sr. Renato são produzidos 600 pães com 20 kg de farinha de trigo. Quantos pães a padaria produzirá com 30 kg de farinha de trigo, mantendo a mesma proporção?",
+    "options": [
+      { "label": "a", "text": "1.200 pães" },
+      { "label": "b", "text": "750 pães" },
+      { "label": "c", "text": "800 pães" },
+      { "label": "d", "text": "900 pães" },
+      { "label": "e", "text": "1.000 pães" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2013-q30",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 30,
+    "statement": "Ao desenvolver o produto notável $\\left(2x+\\dfrac{1}{2}\\right)^2$, Lucas o escreveu da seguinte forma: $4x^2+x+\\dfrac{1}{4}$. Porém, o professor disse que estava errado. Qual das opções abaixo é o desenvolvimento correto desse produto notável?",
+    "options": [
+      { "label": "a", "text": "$4x^2+x+\\dfrac{1}{2}$" },
+      { "label": "b", "text": "$2x^2+2x+\\dfrac{1}{2}$" },
+      { "label": "c", "text": "$4x^2+2x+\\dfrac{1}{4}$" },
+      { "label": "d", "text": "$4x^2+4x+\\dfrac{1}{4}$" },
+      { "label": "e", "text": "$2x^2+4x+\\dfrac{1}{4}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2013-q31",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "O valor de x na figura corresponde a:",
+    "options": [
+      { "label": "a", "text": "19°" },
+      { "label": "b", "text": "32°" },
+      { "label": "c", "text": "12°" },
+      { "label": "d", "text": "25°" },
+      { "label": "e", "text": "21°" }
+    ],
+    "imagePath": "mat-integrada-2013/q31.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2013-q32",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 32,
+    "statement": "Um vendedor recebe uma comissão pela quantidade de produtos vendidos. O valor da comissão recebida pelas vendas é calculada pela expressão $\\left(\\dfrac{p^2+40}{2p}\\right)$ reais, em que p é a quantidade de produtos vendidos. De quanto será a comissão desse vendedor, se ele vender 200 produtos?",
+    "options": [
+      { "label": "a", "text": "R$ 200,00" },
+      { "label": "b", "text": "R$ 100,10" },
+      { "label": "c", "text": "R$ 200,20" },
+      { "label": "d", "text": "R$ 101,00" },
+      { "label": "e", "text": "R$ 251,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2013-q33",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 33,
+    "statement": "Mariana estudou durante a semana e registrou os horários de início e término na tabela a seguir: Segunda 8h às 11h; Terça 8h25min às 10h35min; Quarta 9h30min às 11h20min; Quinta 8h15min às 10h50min; Sexta 8h às 10h30min. Quantas horas ela estudou durante essa semana?",
+    "options": [
+      { "label": "a", "text": "12h05min" },
+      { "label": "b", "text": "11h35min" },
+      { "label": "c", "text": "12h55min" },
+      { "label": "d", "text": "11h55min" },
+      { "label": "e", "text": "13h10min" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2013-q34",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 34,
+    "statement": "Um possível resultado, de acordo com o esquema abaixo, é:",
+    "options": [
+      { "label": "a", "text": "10" },
+      { "label": "b", "text": "4" },
+      { "label": "c", "text": "$\\dfrac{1}{4}$" },
+      { "label": "d", "text": "$\\dfrac{1}{5}$" },
+      { "label": "e", "text": "1" }
+    ],
+    "imagePath": "mat-integrada-2013/q34.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2013-q35",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 35,
+    "statement": "O valor da expressão $\\sqrt{\\sqrt{\\sqrt[3]{11^{12}}}}+\\left(\\sqrt{3^{24}}\\right)^{1/3}$ é:",
+    "options": [
+      { "label": "a", "text": "$\\sqrt{11}+\\sqrt3$" },
+      { "label": "b", "text": "12" },
+      { "label": "c", "text": "$\\sqrt{14}$" },
+      { "label": "d", "text": "20" },
+      { "label": "e", "text": "$\\sqrt{33}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2013-q36",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 36,
+    "statement": "Para montar uma empresa, Mariana, Ricardo e Lucas formaram uma sociedade. Mariana entrou com R$ 8.000,00, Ricardo com R$ 9.000,00 e Lucas com R$ 10.000,00. Depois de 1 ano, a empresa obteve um lucro de R$ 10.800,00, que foi dividido entre os sócios em partes diretamente proporcionais à quantia que cada um investiu. Qual foi a parte que coube a Mariana?",
+    "options": [
+      { "label": "a", "text": "R$ 3.600,00" },
+      { "label": "b", "text": "R$ 3.000,00" },
+      { "label": "c", "text": "R$ 4.000,00" },
+      { "label": "d", "text": "R$ 4.200,00" },
+      { "label": "e", "text": "R$ 3.200,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2013-q37",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "João quer vender um terreno mostrado na figura abaixo e colocou a seguinte placa: \"Vende-se este terreno a R$ 120,00/m²\". O valor total, em reais (R$), do terreno é:",
+    "options": [
+      { "label": "a", "text": "R$ 9.720,00" },
+      { "label": "b", "text": "R$ 6.820,00" },
+      { "label": "c", "text": "R$ 7.320,00" },
+      { "label": "d", "text": "R$ 7.920,00" },
+      { "label": "e", "text": "R$ 6.920,00" }
+    ],
+    "imagePath": "mat-integrada-2013/q37.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2013-q38",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 38,
+    "statement": "Sr. Luiz saiu para comprar um fogão, uma geladeira e uma máquina de lavar e encontrou a seguinte promoção numa loja de departamentos: A geladeira e o fogão custam juntos R$ 1.600,00; O fogão e a máquina de lavar custam juntos R$ 1.200,00; A geladeira e máquina de lavar custam juntas R$ 2.000,00. Quanto o Sr. Luiz pagará pelos três produtos?",
+    "options": [
+      { "label": "a", "text": "R$ 2.800,00" },
+      { "label": "b", "text": "R$ 2.600,00" },
+      { "label": "c", "text": "R$ 3.200,00" },
+      { "label": "d", "text": "R$ 3.000,00" },
+      { "label": "e", "text": "R$ 2.400,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2013-q39",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 39,
+    "statement": "Ricardo e Lucas são irmãos. Atualmente a diferença de suas idades é de 6 anos. Sabendo-se que daqui a 4 anos a soma de suas idades será de 28 anos, qual a idade do irmão mais velho, hoje?",
+    "options": [
+      { "label": "a", "text": "13 anos" },
+      { "label": "b", "text": "11 anos" },
+      { "label": "c", "text": "9 anos" },
+      { "label": "d", "text": "7 anos" },
+      { "label": "e", "text": "15 anos" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2013-q40",
+    "examId": "mat-integrada-2013",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 40,
+    "statement": "Um observador vê o topo de um prédio segundo um ângulo visual de 45°. Aproximando-se 30 metros do prédio, observa-o sob um ângulo de 60°. A altura desse prédio é de aproximadamente: (admita $\\sqrt3=1{,}73$)",
+    "options": [
+      { "label": "a", "text": "65,72 m" },
+      { "label": "b", "text": "71,09 m" },
+      { "label": "c", "text": "85,13 m" },
+      { "label": "d", "text": "69,11 m" },
+      { "label": "e", "text": "96,07 m" }
+    ],
+    "imagePath": "mat-integrada-2013/q40.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2013-q21",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "Em uma festa foram vendidos 400 ingressos para 200 casais. Além disso, foram vendidos mais 400 ingressos avulsos, sendo 40% para mulheres. Qual a porcentagem de homens nesta festa?",
+    "options": [
+      { "label": "a", "text": "45%" },
+      { "label": "b", "text": "50%" },
+      { "label": "c", "text": "55%" },
+      { "label": "d", "text": "40%" },
+      { "label": "e", "text": "60%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2013-q22",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 22,
+    "statement": "A empresa de telefonia \"PIM\" oferece um plano em que o usuário paga R$ 25,00 por mês, mais R$ 0,05 por minuto de ligação. Já a concorrente \"EI\" oferece um plano em que paga-se R$ 10,00 por mês, mais R$ 0,20 por minuto de ligação. Carina concluiu que o plano da \"EI\" era mais econômico para ela. Isto significa que ela pretende falar mensalmente, no máximo:",
+    "options": [
+      { "label": "a", "text": "99 minutos" },
+      { "label": "b", "text": "89 minutos" },
+      { "label": "c", "text": "1 hora e 49 minutos" },
+      { "label": "d", "text": "1 hora e 25 minutos" },
+      { "label": "e", "text": "2 horas" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2013-q23",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 23,
+    "statement": "Na figura vemos o gráfico da função f. Neste caso, o valor de $f^{-1}(2)$ é:",
+    "options": [
+      { "label": "a", "text": "0" },
+      { "label": "b", "text": "1" },
+      { "label": "c", "text": "2" },
+      { "label": "d", "text": "-1" },
+      { "label": "e", "text": "-2" }
+    ],
+    "imagePath": "mat-concomitante-2013/q23.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2013-q24",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 24,
+    "statement": "Patrícia olha uma pedra na outra margem de um rio exatamente a sua frente. Percorrendo 200m o ângulo de visão da pedra fica de 45° como na figura. Assim Patrícia conclui que a largura do rio é de:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{100\\sqrt3}{3}$ m" },
+      { "label": "b", "text": "$200\\sqrt3$ m" },
+      { "label": "c", "text": "200 m" },
+      { "label": "d", "text": "100 m" },
+      { "label": "e", "text": "$100\\sqrt3$ m" }
+    ],
+    "imagePath": "mat-concomitante-2013/q24.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2013-q25",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 25,
+    "statement": "Uma festa foi realizada em dois salões A e B. Durante a festa 15 pessoas saíram do salão A para o B e 25 saíram do salão B para o A. Ao fim da festa, o salão A tinha 65 pessoas e o B tinha 35. Logo, inicialmente havia em A e B respectivamente:",
+    "options": [
+      { "label": "a", "text": "60 e 40 pessoas" },
+      { "label": "b", "text": "45 e 55 pessoas" },
+      { "label": "c", "text": "50 e 50 pessoas" },
+      { "label": "d", "text": "65 e 35 pessoas" },
+      { "label": "e", "text": "55 e 45 pessoas" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2013-q26",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 26,
+    "statement": "A loja Vendebem fez uma promoção para vender pratos e copos decorados para o Natal. Sem mudar os valores dos produtos, criou dois kits natalinos. No primeiro, foi colocado 3 pratos e 4 copos a um preço de R$ 77,00 e no segundo kit foi colocado 4 pratos e 3 copos por um preço de R$ 84,00. Mantendo os preços individuais de cada prato e cada copo, quanto custaria 1 copo mais um prato?",
+    "options": [
+      { "label": "a", "text": "R$ 18,00" },
+      { "label": "b", "text": "R$ 22,00" },
+      { "label": "c", "text": "R$ 15,00" },
+      { "label": "d", "text": "R$ 23,00" },
+      { "label": "e", "text": "R$ 14,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2013-q27",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 27,
+    "statement": "Uma torre de telecomunicações se rompeu durante a passagem de uma tempestade. A ponta da torre toca o solo a 8m de sua base como na figura. Se a torre tinha 16m, quando inteira, determine a altura h, da parte ainda em pé, que mede:",
+    "options": [
+      { "label": "a", "text": "6 m" },
+      { "label": "b", "text": "8 m" },
+      { "label": "c", "text": "10 m" },
+      { "label": "d", "text": "5 m" },
+      { "label": "e", "text": "9 m" }
+    ],
+    "imagePath": "mat-concomitante-2013/q27.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2013-q28",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 28,
+    "statement": "Na figura abaixo temos o gráfico de duas funções f e g. Se $g(x)=x^2+1$ e com base na figura, podemos afirmar que a expressão da função f é:",
+    "options": [
+      { "label": "a", "text": "$f(x)=x+3$" },
+      { "label": "b", "text": "$f(x)=-2x+4$" },
+      { "label": "c", "text": "$f(x)=2x+14$" },
+      { "label": "d", "text": "$f(x)=7-x$" },
+      { "label": "e", "text": "$f(x)=-x-7$" }
+    ],
+    "imagePath": "mat-concomitante-2013/q28.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2013-q29",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 29,
+    "statement": "A população de certa cidade cresce a uma taxa de 10% ao ano. Supondo que esta taxa não se altere, em quanto tempo a população será 10 vezes a população inicial? Adote $\\log11=1{,}04$.",
+    "options": [
+      { "label": "a", "text": "20 anos" },
+      { "label": "b", "text": "10 anos" },
+      { "label": "c", "text": "1 ano" },
+      { "label": "d", "text": "100 anos" },
+      { "label": "e", "text": "25 anos" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2013-q30",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 30,
+    "statement": "A figura mostra os gráficos de $y=x^2$ e $y=-x^2+p$ com $p\\in\\mathbb{R}$. A área do triângulo ABC é:",
+    "options": [
+      { "label": "a", "text": "2" },
+      { "label": "b", "text": "8" },
+      { "label": "c", "text": "4" },
+      { "label": "d", "text": "$\\dfrac{1}{8}$" },
+      { "label": "e", "text": "$\\dfrac{1}{4}$" }
+    ],
+    "imagePath": "mat-concomitante-2013/q30.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2013-q31",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 31,
+    "statement": "Sejam f e g funções definidas por $f(x)=3x-5$ e $g(x)=2x+b$. Se $f(g(x))=g(f(x))$ então o valor de b é:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{5}{3}$" },
+      { "label": "b", "text": "$-5$" },
+      { "label": "c", "text": "3" },
+      { "label": "d", "text": "$-3$" },
+      { "label": "e", "text": "$-\\dfrac{5}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2013-q32",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 32,
+    "statement": "Na despesa de consumo de Marcos num restaurante na Praia da Marcela foi acrescida a quantia de R$ 25,55 referente ao pagamento de 10% pelo serviço de garçom. Logo, no total, Marcos pagou:",
+    "options": [
+      { "label": "a", "text": "R$ 255,50" },
+      { "label": "b", "text": "R$ 281,05" },
+      { "label": "c", "text": "R$ 230,45" },
+      { "label": "d", "text": "R$ 145,00" },
+      { "label": "e", "text": "R$ 155,50" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2013-q33",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 33,
+    "statement": "O preço que o consumidor paga por uma corrida de taxi inclui o valor fixo da bandeirada e uma parcela que depende da distância percorrida. Se a bandeirada custa R$ 3,00 e cada quilômetro percorrido custa R$ 0,50, para que o valor da corrida não ultrapasse R$ 28,00, a distância percorrida deve:",
+    "options": [
+      { "label": "a", "text": "Ultrapassar 80 km" },
+      { "label": "b", "text": "Não ultrapassar de 50 km" },
+      { "label": "c", "text": "Igual a 80 km" },
+      { "label": "d", "text": "Não ultrapassa de 60 km" },
+      { "label": "e", "text": "Igual a 60 km" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2013-q34",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 34,
+    "statement": "Se um funcionário de uma empresa comercial ganha mensalmente R$ 1440,00 e gasta 3/4 do que ganha com aluguel e alimentação, o que resta para as demais despesas é:",
+    "options": [
+      { "label": "a", "text": "R$ 360,00" },
+      { "label": "b", "text": "R$ 1080,00" },
+      { "label": "c", "text": "R$ 460,00" },
+      { "label": "d", "text": "R$ 1060,00" },
+      { "label": "e", "text": "R$ 560,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2013-q35",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 35,
+    "statement": "Dadas as funções $f(x)=\\dfrac{3x-1}{x+1}$ e $g(x)=2$, os valores reais de x para que se tenha $f(x)\\ge g(x)$ pertencem ao conjunto:",
+    "options": [
+      { "label": "a", "text": "$\\{x\\in R\\mid x>-1\\}$" },
+      { "label": "b", "text": "$\\{x\\in R\\mid x\\le3\\}$" },
+      { "label": "c", "text": "$\\{x\\in R\\mid x<-1\\text{ ou }x\\ge3\\}$" },
+      { "label": "d", "text": "$\\{x\\in R\\mid x\\ge-3\\}$" },
+      { "label": "e", "text": "$\\{x\\in R\\mid x<-2\\text{ ou }x\\ge3\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2013-q36",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Se as raízes da equação $x^2-7x+6=0$ expressam, em centímetros, as medidas dos catetos de um triângulo retângulo, então a medida da hipotenusa desse triângulo vale:",
+    "options": [
+      { "label": "a", "text": "$\\sqrt{35}$" },
+      { "label": "b", "text": "35" },
+      { "label": "c", "text": "37" },
+      { "label": "d", "text": "$\\sqrt{37}$" },
+      { "label": "e", "text": "$\\sqrt{17}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2013-q37",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 37,
+    "statement": "A função inversa da função $y=10^x-3$ é:",
+    "options": [
+      { "label": "a", "text": "$y=\\log(x+3)$" },
+      { "label": "b", "text": "$y=\\log(x)-3$" },
+      { "label": "c", "text": "$y=\\log(x)+3$" },
+      { "label": "d", "text": "$y=10\\log(x)+3$" },
+      { "label": "e", "text": "$y=3-\\log(x)$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2013-q38",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 38,
+    "statement": "Se a diferença entre as medidas dos lados de um retângulo é de 4 cm e a área desse retângulo acrescida de 48cm² é igual ao quadrado do maior lado, então as dimensões do retângulo são:",
+    "options": [
+      { "label": "a", "text": "8cm e 10cm" },
+      { "label": "b", "text": "4cm e 5cm" },
+      { "label": "c", "text": "8cm e 12cm" },
+      { "label": "d", "text": "12cm e 5cm" },
+      { "label": "e", "text": "8cm e 5cm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2013-q39",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 39,
+    "statement": "Seja f uma função polinomial do 2º grau. Se f(0)=3, f(1)=2 e f(-1)=10, então $f(1/3)$ vale:",
+    "options": [
+      { "label": "a", "text": "$-1$" },
+      { "label": "b", "text": "1" },
+      { "label": "c", "text": "0" },
+      { "label": "d", "text": "$-2$" },
+      { "label": "e", "text": "2" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2013-q40",
+    "examId": "mat-concomitante-2013",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 40,
+    "statement": "O ponto onde os gráficos das funções $f(x)=9^{2x+1}$ e $g(x)=\\dfrac{1}{81^{3x+2}}$ se intersectam é:",
+    "options": [
+      { "label": "a", "text": "$\\left(\\dfrac{-3}{8},\\dfrac{\\sqrt3}{3}\\right)$" },
+      { "label": "b", "text": "$\\left(\\dfrac{-5}{8},\\dfrac{\\sqrt3}{3}\\right)$" },
+      { "label": "c", "text": "$\\left(\\dfrac{-5}{3},\\dfrac{\\sqrt3}{2}\\right)$" },
+      { "label": "d", "text": "$\\left(\\dfrac{-5}{8},\\dfrac{\\sqrt3}{2}\\right)$" },
+      { "label": "e", "text": "$\\left(\\dfrac{-5}{3},\\dfrac{\\sqrt3}{8}\\right)$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2013-q21",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "No diagrama abaixo está representada a divisão de um polinômio por um binômio $x-a$ utilizando o Dispositivo de Briot-Ruffini. Neste caso, os valores de a, b, c e d são, respectivamente:",
+    "options": [
+      { "label": "a", "text": "-3, 3, 2 e 16" },
+      { "label": "b", "text": "1, 2, 3 e 10" },
+      { "label": "c", "text": "1, -6, 1 e 11" },
+      { "label": "d", "text": "3, 2, -3 e 0" },
+      { "label": "e", "text": "2, 3, -3 e 16" }
+    ],
+    "imagePath": "mat-subsequente-2013/q21.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2013-q22",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "Se o polinômio $p(x)=2x^3+5x^2+mx+12$ é divisível por $h(x)=x+3$, então o parâmetro m é igual a:",
+    "options": [
+      { "label": "a", "text": "3" },
+      { "label": "b", "text": "2" },
+      { "label": "c", "text": "1" },
+      { "label": "d", "text": "-1" },
+      { "label": "e", "text": "-3" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2013-q23",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 23,
+    "statement": "O pentatlo moderno é uma modalidade olímpica composta das seguintes modalidades: corrida, tiro, hipismo, natação e esgrima. Nas Olimpíadas de Londres 2012, a atleta brasileira Yane Marques ganhou a medalha de bronze. A fim de se preparar para essa prova, inicialmente ela programou um treinamento com três dessas modalidades. De quantas maneiras distintas Yane Marques poderia ter escolhido as modalidades para esse treinamento inicial?",
+    "options": [
+      { "label": "a", "text": "15 maneiras" },
+      { "label": "b", "text": "6 maneiras" },
+      { "label": "c", "text": "3 maneiras" },
+      { "label": "d", "text": "2 maneiras" },
+      { "label": "e", "text": "10 maneiras" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2013-q24",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 24,
+    "statement": "Um pedaço retangular de papelão com 30 cm de largura e 40 cm de comprimento. De cada \"canto\" desse papelão foi retirado um quadrado de lado x, em seguida, o papelão foi dobrado nas linhas tracejadas de maneira a formar uma caixa sem tampa, conforme a figura. Para x=10cm, o volume da caixa e a área total da figura serão, respectivamente:",
+    "options": [
+      { "label": "a", "text": "12000 cm³ e 2600 cm²" },
+      { "label": "b", "text": "10000 cm³ e 1000 cm²" },
+      { "label": "c", "text": "20000 cm³ e 12000 cm²" },
+      { "label": "d", "text": "10000 cm³ e 10000 cm²" },
+      { "label": "e", "text": "12000 cm³ e 3600 cm²" }
+    ],
+    "imagePath": "mat-subsequente-2013/q24.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2013-q25",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 25,
+    "statement": "O gráfico da figura ao lado representa a função:",
+    "options": [
+      { "label": "a", "text": "$f(x)=sen(x)\\cdot\\cos(x)$" },
+      { "label": "b", "text": "$f(x)=sen(x)$" },
+      { "label": "c", "text": "$f(x)=\\cos(2x)$" },
+      { "label": "d", "text": "$f(x)=2\\cdot sen\\left(\\dfrac{x}{2}\\right)$" },
+      { "label": "e", "text": "$f(x)=2\\cdot sen(2x)$" }
+    ],
+    "imagePath": "mat-subsequente-2013/q25.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2013-q26",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 26,
+    "statement": "No campeonato brasileiro da série \"D\" de 2012 o clube maranhense Sampaio Correia foi o campeão, adquirindo assim, o direito a disputar a série \"C\" em 2013. Considerando-se que a série \"C\" terá 20 times e que todos jogarão contra todos duas vezes (ida e volta), podemos afirmar que o número de jogos do campeonato será dado por:",
+    "options": [
+      { "label": "a", "text": "$2\\cdot A_{20,2}$" },
+      { "label": "b", "text": "$2\\cdot C_{20,2}$" },
+      { "label": "c", "text": "$2\\cdot P_{20}^2$" },
+      { "label": "d", "text": "2.20.20" },
+      { "label": "e", "text": "2.10.20" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2013-q27",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 27,
+    "statement": "Ao dividirmos o polinômio $\\begin{vmatrix}x^3&x^2&1\\\\1&x&x^2\\\\1&x&1\\end{vmatrix}$ por $\\begin{vmatrix}x&1\\\\x&x\\end{vmatrix}$ encontraremos como resto da divisão polinomial:",
+    "options": [
+      { "label": "a", "text": "$\\begin{vmatrix}x&2\\\\1&x\\end{vmatrix}$" },
+      { "label": "b", "text": "$\\begin{vmatrix}3&x\\\\x&1\\end{vmatrix}$" },
+      { "label": "c", "text": "$\\begin{vmatrix}2&1\\\\x&3\\end{vmatrix}$" },
+      { "label": "d", "text": "$\\begin{vmatrix}3x&x\\\\3&1\\end{vmatrix}$" },
+      { "label": "e", "text": "$\\begin{vmatrix}x&x\\\\1&x\\end{vmatrix}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2013-q28",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 28,
+    "statement": "Durante um ano, as quantidades mensais de CDs vendidos pelo grupo \"Swing do ABC\" podem ser descritas pela função $v(t)=-|300t-1800|+4000$, em que t é o tempo em meses (janeiro, t=1; fevereiro t=2; etc). É correto afirmar que o grupo vendeu:",
+    "options": [
+      { "label": "a", "text": "a menor quantidade no mês de dezembro" },
+      { "label": "b", "text": "a mesma quantidade nos meses de março e outubro" },
+      { "label": "c", "text": "no mês de abril mais que no mês de junho" },
+      { "label": "d", "text": "a maior quantidade em julho" },
+      { "label": "e", "text": "a mesma quantidade em todos os meses" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2013-q29",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 29,
+    "statement": "No Maranhão a expansão no plantio de grãos ocorre especialmente com a soja, a qual, depois de colhida, deve ser armazenada em galpões, como o da figura abaixo. Para conservar as propriedades originais desse produto, deve ser instalado um sistema de refrigeração, no qual estarão dispostos, em locais estratégicos, pontos de entrada de ar. Determine quantos desses pontos devem ser instalados, sabendo que para cada 119m³ de espaço interno do galpão será instalado um ponto de entrada de ar. (Adote: $\\pi=3$).",
+    "options": [
+      { "label": "a", "text": "5" },
+      { "label": "b", "text": "3" },
+      { "label": "c", "text": "10" },
+      { "label": "d", "text": "2" },
+      { "label": "e", "text": "8" }
+    ],
+    "imagePath": "mat-subsequente-2013/q29.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2013-q30",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 30,
+    "statement": "Numa fazenda, o proprietário mandou plantar pés de café da seguinte forma: 10 pés no 1º dia, (10+x) pés no 2º dia, (10+2x) pés no 3º dia, e assim sucessivamente. Ao final de 20 dias ele mandou encerrar a plantação, com um total de 390 pés de café plantados. O valor de x é:",
+    "options": [
+      { "label": "a", "text": "3" },
+      { "label": "b", "text": "2" },
+      { "label": "c", "text": "1" },
+      { "label": "d", "text": "10" },
+      { "label": "e", "text": "20" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2013-q31",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 31,
+    "statement": "Mário recebe por mês x reais provenientes do seu trabalho como professor de Matemática do IFMA. Sabe-se que ele destina 1/3 de seu salário para despesas como viagens e aluguel, e 2/5 do seu salário para alimentação. Sobra, assim, ao final do mês, R$ 600,00. Nessas condições, podemos afirmar que o professor Mário recebe por mês, em reais, o valor de:",
+    "options": [
+      { "label": "a", "text": "R$ 2.000,00" },
+      { "label": "b", "text": "R$ 2.250,00" },
+      { "label": "c", "text": "R$ 2.500,00" },
+      { "label": "d", "text": "R$ 2.750,00" },
+      { "label": "e", "text": "R$ 3.000,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2013-q32",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 32,
+    "statement": "No interior de uma sala, na forma de um paralelepípedo, com altura h, empilham-se cubos com arestas de medidas 2, 1, 1/2, 1/4 e assim por diante, conforme figura abaixo. O menor valor para a altura h, se o empilhamento pudesse ser feito infinitamente, é:",
+    "options": [
+      { "label": "a", "text": "3/2" },
+      { "label": "b", "text": "2/3" },
+      { "label": "c", "text": "4" },
+      { "label": "d", "text": "3" },
+      { "label": "e", "text": "2" }
+    ],
+    "imagePath": "mat-subsequente-2013/q32.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2013-q33",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 33,
+    "statement": "Na figura abaixo temos uma taça com a forma de um cone circular reto (parte de cima), com líquido que atinge metade de sua altura. Se V é a capacidade da taça cheia, qual o volume ocupado pelo líquido, na taça?",
+    "options": [
+      { "label": "a", "text": "V/4" },
+      { "label": "b", "text": "V/2" },
+      { "label": "c", "text": "8V" },
+      { "label": "d", "text": "4V" },
+      { "label": "e", "text": "V/8" }
+    ],
+    "imagePath": "mat-subsequente-2013/q33.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2013-q34",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 34,
+    "statement": "Os códigos secretos são muito utilizados por agentes especiais, a fim de evitar que as mensagens sejam captadas por outras pessoas. Uma maneira de codificar as palavras é fazendo uso de matrizes. Para isso, cada letra é substituída pelo número de sua posição no alfabeto (a=1, b=2, ..., z=23). Com esses números, forma-se a matriz M. Por exemplo: se $M=\\begin{bmatrix}2&1\\\\11&1\\end{bmatrix}$, a mensagem é bala. Para maior segurança, cada mensagem de quatro letras é enviada ao agente na forma M.A, onde $A=\\begin{bmatrix}2&-1\\\\1&1\\end{bmatrix}$, conhecida como matriz codificadora. Certo agente recebeu a matriz $\\begin{bmatrix}50&-4\\\\31&-14\\end{bmatrix}$. Qual é a mensagem?",
+    "options": [
+      { "label": "a", "text": "SOPA" },
+      { "label": "b", "text": "SAPO" },
+      { "label": "c", "text": "SUBA" },
+      { "label": "d", "text": "PETA" },
+      { "label": "e", "text": "PATO" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2013-q35",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "Uma antena de TV foi colocada sobre um bloco de concreto que mede 1,5 m de altura. Em certo instante, a sombra total projetada mediu 8 m, enquanto o bloco projetou uma sombra de 200 cm. Nessas condições, a altura da antena em metros, é:",
+    "options": [
+      { "label": "a", "text": "4,00 m" },
+      { "label": "b", "text": "5,00 m" },
+      { "label": "c", "text": "4,25 m" },
+      { "label": "d", "text": "4,50 m" },
+      { "label": "e", "text": "4,75 m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2013-q36",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 36,
+    "statement": "O futebol é considerado o esporte preferido dos brasileiros. Uma das regras do futebol diz respeito à saída da bola pela linha de fundo, quando chutada pelo time adversário. Nesse caso, temos o chamado tiro de meta, comumente batido pelo goleiro com os pés. Sabe-se que, em uma partida de futebol, determinado goleiro bateu um tiro de meta, cuja bola teve sua trajetória descrita pela equação $h(t)=-10t^2+30t$ ($t\\ge0$), onde t é o tempo medido em segundos e h(t) é a altura em metros da bola no instante t. Após o chute, a altura máxima atingida pela bola é:",
+    "options": [
+      { "label": "a", "text": "24,50 m" },
+      { "label": "b", "text": "26,50 m" },
+      { "label": "c", "text": "28,50 m" },
+      { "label": "d", "text": "22,50 m" },
+      { "label": "e", "text": "30,00 m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2013-q37",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 37,
+    "statement": "Um consumidor adquiriu um aparelho celular com dois chips, que possibilitou utilizar os serviços das operadoras V e C. A operadora V cobra um valor fixo de R$ 0,05, quando iniciada a ligação e mais R$ 0,12 por minuto da mesma ligação. A operadora C cobra um valor fixo de R$ 0,08 e mais R$ 0,11 por minuto na ligação. Considere as afirmações a seguir: I. O custo de uma ligação de exatos 3 minutos é o mesmo, qualquer que seja a operadora. II. O custo da ligação usando a operadora V será menor do que a ligação usando a operadora C, independentemente do tempo de duração da ligação. III. Uma ligação de 10 (dez) minutos efetuada pela operadora V custará R$ 0,18 a mais do que efetuada pela operadora C. IV. Toda ligação com duração inferior a 3 (três) minutos efetuada usando a operadora V será mais \"barata\" que uma efetuada usando a operadora C. Determine a alternativa que contém todas as afirmativas corretas:",
+    "options": [
+      { "label": "a", "text": "II e IV" },
+      { "label": "b", "text": "I, II e III" },
+      { "label": "c", "text": "I e IV" },
+      { "label": "d", "text": "II, III e IV" },
+      { "label": "e", "text": "I, II, III e IV" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2013-q38",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 38,
+    "statement": "Dadas às sentenças abaixo: I. Seja a dízima periódica 1,3252525... sua fração geratriz é 656/495. II. Se A={1,3,6,9} e B={3,5,9}, então $C_B^A=\\{3,9\\}$. III. Dados três segmentos de retas, com dimensões medindo 6, 14 e 20, pode-se afirmar que é possível construir com esses segmentos, ligando dois a dois suas extremidades, um triângulo qualquer. IV. Se os conjuntos N={a,b}, M={b,c,d} e P={c,d,e,f}, então $(N\\cup M)\\cap(P\\cup N)=\\{a,b,c,d\\}$. Podemos afirmar que estão corretas:",
+    "options": [
+      { "label": "a", "text": "I e III" },
+      { "label": "b", "text": "I e IV" },
+      { "label": "c", "text": "I e II" },
+      { "label": "d", "text": "II e III" },
+      { "label": "e", "text": "III e IV" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2013-q39",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 39,
+    "statement": "Na figura abaixo, deseja-se construir alguns degraus de queda d'água; para tal, os pedreiros fizeram uso de 3 quadrados com lados de aresta iguais a 9, 6 e x. O valor do lado, do menor quadrado, é:",
+    "options": [
+      { "label": "a", "text": "3" },
+      { "label": "b", "text": "2" },
+      { "label": "c", "text": "4" },
+      { "label": "d", "text": "2,5" },
+      { "label": "e", "text": "3,5" }
+    ],
+    "imagePath": "mat-subsequente-2013/q39.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2013-q40",
+    "examId": "mat-subsequente-2013",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 40,
+    "statement": "O professor de Matemática Império propôs o seguinte problema para seus alunos: $[\\log_5 16][\\log_4 25][\\log_{100}(xy)]=2$ e $x+y=7$. No entanto, apenas um aluno conseguiu resolver o problema de maneira correta e este encontrou como solução:",
+    "options": [
+      { "label": "a", "text": "x=5,y=2 ou x=2,y=5" },
+      { "label": "b", "text": "x=3,y=4 ou x=4,y=3" },
+      { "label": "c", "text": "x=-1,y=8 ou x=8,y=-1" },
+      { "label": "d", "text": "x=1,y=6 ou x=6,y=1" },
+      { "label": "e", "text": "x=-2,y=9 ou x=9,y=-2" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
