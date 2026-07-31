@@ -158,5 +158,29 @@
     "edition": "Subsequente 2013",
     "examType": "especifico",
     "sourceFile": "Prova2013_SUBSEQUENTE.pdf"
+  },
+  {
+    "id": "mat-integrada-2012",
+    "institution": "IFMA",
+    "year": 2012,
+    "edition": "Integrada 2012",
+    "examType": "especifico",
+    "sourceFile": "Prova2012_INTEGRADA.pdf"
+  },
+  {
+    "id": "mat-concomitante-2012",
+    "institution": "IFMA",
+    "year": 2012,
+    "edition": "Concomitante 2012",
+    "examType": "especifico",
+    "sourceFile": "Prova2012_CONCOMITANTE.pdf"
+  },
+  {
+    "id": "mat-subsequente-2012",
+    "institution": "IFMA",
+    "year": 2012,
+    "edition": "Subsequente 2012",
+    "examType": "especifico",
+    "sourceFile": "Prova2012_SUBSEQUENTE.pdf"
   }
 ]

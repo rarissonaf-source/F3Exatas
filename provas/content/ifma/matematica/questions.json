@@ -6730,5 +6730,1025 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2012-q21",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "Carlos, André e Cristóvão se juntaram para jogar na Mega Sena para concorrerem a um prêmio de R$ 9.000.000,00. Fizeram um jogo no valor de R$ 24,00, onde Carlos contribuiu com R$ 8,00, André com R$ 4,00 e Cristóvão com a quantia de R$12,00. Felizmente, um de seus bilhetes foi o único sorteado e tiveram que dividir todo o prêmio em quantidades diretamente proporcionais às quantias investidas por cada um dos amigos. Quanto recebeu André, em reais?",
+    "options": [
+      { "label": "a", "text": "R$ 1.500.000,00" },
+      { "label": "b", "text": "R$ 2.250.000,00" },
+      { "label": "c", "text": "R$ 1.125.000,00" },
+      { "label": "d", "text": "R$ 750.000,00" },
+      { "label": "e", "text": "R$ 3.000.000,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2012-q22",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Adriana e Karine adoram cinema. Elas marcaram de assistir uma estreia na sexta-feira. Ao irem comprar os ingressos, tiveram uma decepção, pois o preço tinha subido, passando de R$ 12,00 para R$ 15,00, mas compraram os ingressos e diminuíram a pipoca. Qual o aumento percentual no valor do ingresso?",
+    "options": [
+      { "label": "a", "text": "25%" },
+      { "label": "b", "text": "20%" },
+      { "label": "c", "text": "30%" },
+      { "label": "d", "text": "10%" },
+      { "label": "e", "text": "15%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2012-q23",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Marque a alternativa que representa a área da figura hachurada (pintada).",
+    "options": [
+      { "label": "a", "text": "20 cm²" },
+      { "label": "b", "text": "15 cm²" },
+      { "label": "c", "text": "10 cm²" },
+      { "label": "d", "text": "5 cm²" },
+      { "label": "e", "text": "40 cm²" }
+    ],
+    "imagePath": "mat-integrada-2012/q23.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2012-q24",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "A Jaqueline, no mês de novembro, gastou metade do seu salário com alimentação, 1/5 do salário com prestações, 1/8 do salário com transportes e ainda restou R$ 140,00, que ela gastou com vestuários. O salário de Jaqueline no mês de novembro foi, em reais:",
+    "options": [
+      { "label": "a", "text": "R$ 800,00" },
+      { "label": "b", "text": "R$ 950,00" },
+      { "label": "c", "text": "R$ 1.000,00" },
+      { "label": "d", "text": "R$ 900,00" },
+      { "label": "e", "text": "R$ 850,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2012-q25",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 25,
+    "statement": "Um avicultor comprou 5.300 pintos nascidos há um dia para povoar um aviário. Ao chegar à granja, percebeu que morreram 106 pintinhos. A taxa de mortalidade foi de:",
+    "options": [
+      { "label": "a", "text": "2%" },
+      { "label": "b", "text": "1,5%" },
+      { "label": "c", "text": "3%" },
+      { "label": "d", "text": "3,5%" },
+      { "label": "e", "text": "2,5%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2012-q26",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 26,
+    "statement": "Uma pessoa caminha em volta de uma praça de forma circular com raio equivalente a 20m. Após determinado tempo, essa pessoa constatou que tinha dado 20 voltas ao redor da praça. Essa pessoa caminhou: (considere $\\pi=3{,}14$)",
+    "options": [
+      { "label": "a", "text": "2.512 m" },
+      { "label": "b", "text": "2.199 m" },
+      { "label": "c", "text": "1.256 m" },
+      { "label": "d", "text": "3.199 m" },
+      { "label": "e", "text": "4.000 m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2012-q27",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 27,
+    "statement": "O valor do ângulo x no triângulo ABC abaixo é:",
+    "options": [
+      { "label": "a", "text": "105°" },
+      { "label": "b", "text": "120°" },
+      { "label": "c", "text": "90°" },
+      { "label": "d", "text": "110°" },
+      { "label": "e", "text": "80°" }
+    ],
+    "imagePath": "mat-integrada-2012/q27.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2012-q28",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 28,
+    "statement": "Uma livraria dá desconto de 20%, sobre o preço de tabela, em todos os livros que vende. Ao adquirir um livro cujo preço de tabela é 90 reais, quanto uma pessoa irá pagar com esse desconto?",
+    "options": [
+      { "label": "a", "text": "72 reais" },
+      { "label": "b", "text": "52 reais" },
+      { "label": "c", "text": "68 reais" },
+      { "label": "d", "text": "78 reais" },
+      { "label": "e", "text": "46 reais" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2012-q29",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 29,
+    "statement": "Em um escritório de advocacia, trabalham apenas dois advogados e uma secretária. Como Dr. Pedro e o Dr. Carlos sempre advogam em causas diferentes, a secretária Juliana coloca 01 grampo em cada processo do Dr. Pedro e 02 grampos em cada processo do Dr. Carlos, para diferenciá-los facilmente no arquivo. Sabendo-se que ao todo são 78 processos nos quais foram usados 110 grampos. Podemos concluir que o número de processos do Dr. Carlos é:",
+    "options": [
+      { "label": "a", "text": "32" },
+      { "label": "b", "text": "46" },
+      { "label": "c", "text": "40" },
+      { "label": "d", "text": "64" },
+      { "label": "e", "text": "28" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2012-q30",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 30,
+    "statement": "O perímetro de uma praça na forma de um triângulo é 60 cm. As medidas dos lados são diretamente proporcionais aos números 3,4 e 5. Então o menor lado da praça mede:",
+    "options": [
+      { "label": "a", "text": "15 cm" },
+      { "label": "b", "text": "13 cm" },
+      { "label": "c", "text": "16 cm" },
+      { "label": "d", "text": "18 cm" },
+      { "label": "e", "text": "22 cm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2012-q31",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "Dois polígonos são semelhantes, sendo que os lados do polígono maior medem o dobro dos lados do polígono menor. Nesse caso, os ângulos internos do polígono maior:",
+    "options": [
+      { "label": "a", "text": "São congruentes aos ângulos do polígono menor." },
+      { "label": "b", "text": "Medem a metade dos ângulos do polígono menor." },
+      { "label": "c", "text": "Medem o dobro dos ângulos do polígono menor." },
+      { "label": "d", "text": "Medem o quádruplo dos ângulos do polígono menor." },
+      { "label": "e", "text": "Medem o triplo dos ângulos do polígono menor." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2012-q32",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 32,
+    "statement": "O correio de todo país realiza durante o período natalino o projeto \"ADOTE UMA CARTA\", para realizar o sonho de crianças carentes. Sabe-se que até o dia 01/12/11 o correio já recebeu 22.340 cartas e que um quarto destas está no Maranhão e um quinto das que estão neste estado já foram adotadas. Quantas cartas ainda faltam para serem adotadas no Maranhão?",
+    "options": [
+      { "label": "a", "text": "4468" },
+      { "label": "b", "text": "1117" },
+      { "label": "c", "text": "5585" },
+      { "label": "d", "text": "21223" },
+      { "label": "e", "text": "17872" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2012-q33",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 33,
+    "statement": "Considere as seguintes afirmações: I. Na reta real, a distância entre os números $10^7$ e $10^5$ é maior que a distância entre $10^7$ e $10^8$. II. $\\left(\\dfrac{1}{3}\\right)^{-2}=9$. III. $0{,}000421=4{,}21\\cdot10^{-3}$. IV. $-5^2=25$. São corretas as afirmações:",
+    "options": [
+      { "label": "a", "text": "Somente II" },
+      { "label": "b", "text": "Somente I,II e IV" },
+      { "label": "c", "text": "Somente I e II" },
+      { "label": "d", "text": "Somente I" },
+      { "label": "e", "text": "Todas estão corretas" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2012-q34",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 34,
+    "statement": "O preço do quilo de feijão era R$ 1,00 em janeiro de 2000 e começou a triplicar a cada 6 meses. O valor do quilo de feijão valerá R$ 81,00 em:",
+    "options": [
+      { "label": "a", "text": "2 anos" },
+      { "label": "b", "text": "1 ano" },
+      { "label": "c", "text": "2 ½ anos" },
+      { "label": "d", "text": "13 anos" },
+      { "label": "e", "text": "3 anos" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2012-q35",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 35,
+    "statement": "Os alunos Tadeu e Pedro observavam a uma distância de 15m e sob um ângulo de 45° com a horizontal a árvore de natal que foi colocada no pátio do IFMA. Então Pedro desafiou Tadeu a descobrir a altura somente da árvore. Considerando que sua ponteira (estrela) mede 100 cm. Tadeu acertou e deu como resposta:",
+    "options": [
+      { "label": "a", "text": "15,62m" },
+      { "label": "b", "text": "16m" },
+      { "label": "c", "text": "16,62m" },
+      { "label": "d", "text": "15m" },
+      { "label": "e", "text": "14,62m" }
+    ],
+    "imagePath": "mat-integrada-2012/q35.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2012-q36",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Ana caminha todas as manhãs na praça que possui a forma retangular ABCD de 140 metros de perímetro e 1200 m² de área. Quantos metros Ana caminhou, se deu 2 voltas completas na região triangular BCD.",
+    "options": [
+      { "label": "a", "text": "240 metros" },
+      { "label": "b", "text": "140 metros" },
+      { "label": "c", "text": "120 metros" },
+      { "label": "d", "text": "280 metros" },
+      { "label": "e", "text": "200 metros" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2012-q37",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 37,
+    "statement": "A Prefeitura de Anajuri adquiriu uma área retangular de 2 hectares para ser dividida em lotes retangulares de 5 metros de largura por 8 metros de comprimento, onde serão construídas casas populares. Para que seja feito o loteamento, 15% da área serão destinados à construção de ruas e de uma praça. Como em cada lote será construída uma casa, o número de casas construídas na área restante é: (Considere: 1 hectare = 10.000 m²).",
+    "options": [
+      { "label": "a", "text": "425" },
+      { "label": "b", "text": "212" },
+      { "label": "c", "text": "850" },
+      { "label": "d", "text": "487" },
+      { "label": "e", "text": "500" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2012-q38",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 38,
+    "statement": "A professora de matemática do IFMA afirmou que as notas de Fulano, Sicrano e Beltrano são números pares consecutivos e que o quadrado da última é igual ao produto das duas primeiras acrescido de 40. A maior nota é:",
+    "options": [
+      { "label": "a", "text": "8" },
+      { "label": "b", "text": "10" },
+      { "label": "c", "text": "6" },
+      { "label": "d", "text": "4" },
+      { "label": "e", "text": "2" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2012-q39",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 39,
+    "statement": "A soma das raízes da equação $\\sqrt{5x-1}-\\sqrt{x}=1$ é:",
+    "options": [
+      { "label": "a", "text": "1" },
+      { "label": "b", "text": "$\\dfrac{1}{4}$" },
+      { "label": "c", "text": "2" },
+      { "label": "d", "text": "$\\dfrac{5}{4}$" },
+      { "label": "e", "text": "4" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2012-q40",
+    "examId": "mat-integrada-2012",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 40,
+    "statement": "O valor da expressão $\\sqrt{\\dfrac{10^{30}+10^{40}}{10^{40}+10^{50}}}$ é:",
+    "options": [
+      { "label": "a", "text": "$10^{-5}$" },
+      { "label": "b", "text": "$10^{-10}$" },
+      { "label": "c", "text": "$1/10$" },
+      { "label": "d", "text": "$\\sqrt{10^{-5}}$" },
+      { "label": "e", "text": "$10^5$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2012-q21",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 21,
+    "statement": "Se Isael multiplicar 2,5 por um número racional x e ao resultado adicionar 3,25 vai encontrar números maiores que 20. Os valores que x pode assumir para satisfazer essa condição são:",
+    "options": [
+      { "label": "a", "text": "x > 6,7" },
+      { "label": "b", "text": "x > 4,5" },
+      { "label": "c", "text": "x > 3,5" },
+      { "label": "d", "text": "x > 8,5" },
+      { "label": "e", "text": "$4\\le x\\le8$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2012-q22",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 22,
+    "statement": "Um atleta de uma prova de resistência deve percorrer 60 Km sobre uma pista circular de raio 40m. O número aproximado de voltas que ele deve dar é: (considerar $\\pi=3{,}14$)",
+    "options": [
+      { "label": "a", "text": "239" },
+      { "label": "b", "text": "236" },
+      { "label": "c", "text": "328" },
+      { "label": "d", "text": "200" },
+      { "label": "e", "text": "150" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2012-q23",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Observe as figuras abaixo e considere: A_I: área da região pintada na figura I; A_II: área da região pintada na figura II; A_III: área da região pintada na figura III. Em relação às áreas A_I, A_II e A_III, podemos afirmar:",
+    "options": [
+      { "label": "a", "text": "A_I = A_II = A_III" },
+      { "label": "b", "text": "A_I > A_II > A_III" },
+      { "label": "c", "text": "A_I < A_II < A_III" },
+      { "label": "d", "text": "A_I = A_II < A_III" },
+      { "label": "e", "text": "A_II > A_I = A_III" }
+    ],
+    "imagePath": "mat-concomitante-2012/q23.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2012-q24",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 24,
+    "statement": "A altura h de um homem varia com o tamanho F do seu fêmur de acordo com a sentença matemática (medidas em cm): $h=69{,}089+2{,}238F$. Se a idade ultrapassa 30 anos, subtrai-se 0,06 cm da altura para cada ano após os 30 anos. Qual a altura, aproximadamente, de um homem de 50 anos cujo fêmur mede 45 cm?",
+    "options": [
+      { "label": "a", "text": "1,69 m" },
+      { "label": "b", "text": "1,58 m" },
+      { "label": "c", "text": "1,61 m" },
+      { "label": "d", "text": "1,65 m" },
+      { "label": "e", "text": "1,70 m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2012-q25",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 25,
+    "statement": "No pátio de uma revendedora de veículos existem motos e automóveis num total de 120 veículos e 320 rodas. A quantidade de motos e automóveis, respectivamente, é:",
+    "options": [
+      { "label": "a", "text": "80 motos e 40 automóveis" },
+      { "label": "b", "text": "40 motos e 80 automóveis" },
+      { "label": "c", "text": "100 motos e 35 automóveis" },
+      { "label": "d", "text": "20 motos e 80 automóveis" },
+      { "label": "e", "text": "150 motos e 15 automóveis" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2012-q26",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Alice possui um salão de festas, na forma retangular, com 9 metros de largura e 20 metros de comprimento. Ela deseja revestir o piso desse salão com lajotas que custam R$ 18,50 o metro quadrado. O pedreiro cobra R$ 15,00 por metro quadrado colocado. Nesse caso, para revestir todo o salão, o custo com pedreiro e com lajotas, respectivamente foi:",
+    "options": [
+      { "label": "a", "text": "R$ 2.700,00 e R$ 3.330,00" },
+      { "label": "b", "text": "R$ 3.330,00 e R$ 2.600,00" },
+      { "label": "c", "text": "R$ 2.700,00 e R$ 3.000,00" },
+      { "label": "d", "text": "R$ 2.700,00 e R$ 3.240,00" },
+      { "label": "e", "text": "R$ 2.800,00 e R$ 4.300,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2012-q27",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 27,
+    "statement": "Numa prova de Química, 12% dos alunos erraram todas as questões, 32% acertaram algumas e erraram outras e os 14 alunos restantes acertaram todas. Nessas condições, quantos alunos fizeram essa prova?",
+    "options": [
+      { "label": "a", "text": "25" },
+      { "label": "b", "text": "15" },
+      { "label": "c", "text": "20" },
+      { "label": "d", "text": "18" },
+      { "label": "e", "text": "28" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2012-q28",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 28,
+    "statement": "A área e o perímetro do triângulo ABC são, respectivamente:",
+    "options": [
+      { "label": "a", "text": "$32\\sqrt3\\ cm^2$ e $8(3+\\sqrt3)\\ cm$." },
+      { "label": "b", "text": "$64\\sqrt3\\ cm^2$ e $32\\sqrt3\\ cm$." },
+      { "label": "c", "text": "$16\\sqrt3\\ cm^2$ e $8\\sqrt3\\ cm$." },
+      { "label": "d", "text": "$8\\sqrt3\\ cm^2$ e $8(2+\\sqrt3)\\ cm$." },
+      { "label": "e", "text": "$24\\sqrt3\\ cm^2$ e $16\\sqrt3\\ cm$." }
+    ],
+    "imagePath": "mat-concomitante-2012/q28.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2012-q29",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 29,
+    "statement": "Um grupo de estudantes do curso de Física do IFMA Campus-Santa Inês decidiu viajar de ônibus para participar de um Seminário de Física em Imperatriz. Ao fazerem uma pesquisa de preço, os estudantes receberam de uma empresa a seguinte proposta, na qual o preço de cada passagem dependia do total de alunos: cada aluno pagará R$ 90,00 acrescido de R$ 5,00 por poltrona que ficar vaga no ônibus. Sabendo que o ônibus tem 52 poltronas, é correto afirmar:",
+    "options": [
+      { "label": "a", "text": "Se o total de alunos for x, o valor em reais de cada passagem será calculado pela expressão 90 + 5.(52 - x)." },
+      { "label": "b", "text": "Se viajarem 30 alunos, cada um deles pagará R$ 110,00." },
+      { "label": "c", "text": "Se viajarem 50 alunos, a empresa deverá receber um total de R$ 6.500,00 referente ao total de pagamentos das passagens." },
+      { "label": "d", "text": "Se viajarem x alunos, o valor total (em reais) que a empresa deverá receber, referente ao pagamento das passagens, é calculado pela expressão $300-5x^2$." },
+      { "label": "e", "text": "O valor total máximo que a empresa poderá receber pelo pagamento das passagens ocorrerá quando o total de alunos for igual a 20." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2012-q30",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 30,
+    "statement": "O gráfico mostra o salário mensal dos vendedores de plano de saúde em função da quantidade de contratos realizados. A função que relaciona o salário em reais (y) a contratos realizados (x) é dada por:",
+    "options": [
+      { "label": "a", "text": "$y=400+\\dfrac{200}{3}x$" },
+      { "label": "b", "text": "$y=400x-\\dfrac{200}{3}$" },
+      { "label": "c", "text": "$y=600+80x$" },
+      { "label": "d", "text": "$y=600x-70$" },
+      { "label": "e", "text": "$y=400x+600$" }
+    ],
+    "imagePath": "mat-concomitante-2012/q30.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2012-q31",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 31,
+    "statement": "O crescimento de certo tipo de bactéria pode ser representado pela seguinte função exponencial $N(t)=3000\\cdot2^{0{,}2t}$, onde N(t) representa o número de bactérias após t horas. A partir da expressão acima, quanto tempo será necessário para que haja 96.000 bactérias?",
+    "options": [
+      { "label": "a", "text": "25 h" },
+      { "label": "b", "text": "10 h" },
+      { "label": "c", "text": "2,5 h" },
+      { "label": "d", "text": "48 h" },
+      { "label": "e", "text": "32 h" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2012-q32",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 32,
+    "statement": "Quais os valores reais de x que satisfazem a equação $\\log_2x+\\log_2(x+2)=3$?",
+    "options": [
+      { "label": "a", "text": "x=2" },
+      { "label": "b", "text": "x=-4 ou x=2" },
+      { "label": "c", "text": "x=3" },
+      { "label": "d", "text": "x=-4" },
+      { "label": "e", "text": "x=1" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2012-q33",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "Sendo $a=\\dfrac{x+\\sqrt2}{2}$ e $b=\\dfrac{x-\\sqrt2}{2}$. O valor numérico de $a^2-b^2$ para x=-1, é:",
+    "options": [
+      { "label": "a", "text": "$-\\sqrt2$" },
+      { "label": "b", "text": "$\\sqrt2$" },
+      { "label": "c", "text": "0" },
+      { "label": "d", "text": "1" },
+      { "label": "e", "text": "$-\\dfrac{1}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2012-q34",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 34,
+    "statement": "O índice de massa corporal (IMC) é obtido pela fórmula dada por $IMC=\\dfrac{MASSA}{(ALTURA)^2}$, (sendo massa dada em quilogramas e altura, em metros) e é utilizada para o controle do peso de um indivíduo, de acordo com a tabela: NORMAL: $19<IMC\\le25$; PRÉ-OBESO: $25<IMC\\le30$; OBESO: $IMC>30$. Qual seria a massa máxima de um indivíduo de altura 1,5m para ser considerado pré-obeso?",
+    "options": [
+      { "label": "a", "text": "67,5kg" },
+      { "label": "b", "text": "69,75kg" },
+      { "label": "c", "text": "56,25kg" },
+      { "label": "d", "text": "65,25kg" },
+      { "label": "e", "text": "58,5kg" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2012-q35",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 35,
+    "statement": "Patrícia foi fazer uma pesquisa de preço em alguns cursos de aperfeiçoamento de sua cidade e obteve os seguintes resultados: Curso A: matrícula por R$ 60,00 e mensalidade R$ 65,00. Curso B: sem taxa de matrícula e mensalidade R$ 80,00. Curso C: matrícula inicial de R$ 50,00 renovada a cada 6 meses e mensalidade R$ 60,00. Sabendo que o curso tem duração de um ano e meio, podemos afirmar:",
+    "options": [
+      { "label": "a", "text": "O custo do curso A é igual ao custo do curso C." },
+      { "label": "b", "text": "O custo do curso B é menor que o custo do curso C." },
+      { "label": "c", "text": "O custo do curso A é maior que o custo do curso B." },
+      { "label": "d", "text": "O custo do curso B é igual ao custo do curso A." },
+      { "label": "e", "text": "O custo dos cursos A, B e C são iguais." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2012-q36",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 36,
+    "statement": "Se $f:\\mathbb{R}\\to\\mathbb{R}_+^*$ é uma função exponencial definida pela expressão $f(x)=a^x$, com a>0 e a≠1, tal que seu gráfico passa pelo ponto (-1,4), então:",
+    "options": [
+      { "label": "a", "text": "$f(2)\\cdot f(-2)=1$" },
+      { "label": "b", "text": "$f(x)=\\left(\\dfrac{1}{6}\\right)^x$" },
+      { "label": "c", "text": "$f(-2)=\\dfrac{1}{16}$" },
+      { "label": "d", "text": "$f(-1)=5\\sqrt2$" },
+      { "label": "e", "text": "$f(x)=(\\sqrt5)^x$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2012-q37",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 37,
+    "statement": "Sejam A e B duas operadoras de telefonia móvel que atuam no Maranhão com planos distintos. Sabe-se que A tem uma taxa fixa de R$ 39,90 ao mês mais R$ 0,10 por minuto além da franquia contratada e B tem uma taxa fixa de R$ 29,90 ao mês mais R$ 0,15 por minuto além da franquia. Dentre as alternativas abaixo, o tempo mínimo além da franquia para que a conta mensal de B seja superior a de A?",
+    "options": [
+      { "label": "a", "text": "201min" },
+      { "label": "b", "text": "200min" },
+      { "label": "c", "text": "199min" },
+      { "label": "d", "text": "205min" },
+      { "label": "e", "text": "150min" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2012-q38",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 38,
+    "statement": "Um triângulo ABC tem seus lados iguais a 7 cm, 8 cm e 9 cm. O cosseno do maior ângulo interno de ABC é:",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{2}{7}$" },
+      { "label": "b", "text": "$\\dfrac{3}{8}$" },
+      { "label": "c", "text": "$\\dfrac{3}{2}$" },
+      { "label": "d", "text": "$\\dfrac{3}{7}$" },
+      { "label": "e", "text": "$\\dfrac{4}{7}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2012-q39",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 39,
+    "statement": "O valor de k para que a função f definida por $f(x)=-2x^2-4x+k-3$ tenha valor máximo igual a 4 é:",
+    "options": [
+      { "label": "a", "text": "5" },
+      { "label": "b", "text": "4" },
+      { "label": "c", "text": "3" },
+      { "label": "d", "text": "8" },
+      { "label": "e", "text": "-2" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2012-q40",
+    "examId": "mat-concomitante-2012",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 40,
+    "statement": "Um espaço para um show, na forma retangular, será cercado no Aterro do Bacanga, em três de seus lados, exceto o lado das arquibancadas, como indica a figura. Sendo o custo do metro de cerca de R$ 3,00 para os extremos e R$ 4,00 para o lado paralelo às arquibancadas, e dispondo-se de R$ 1.200,00, as dimensões do espaço que pode ser cercado com esse valor, para que ele possua a maior área possível:",
+    "options": [
+      { "label": "a", "text": "100 m e 150 m" },
+      { "label": "b", "text": "112,5 m e 150 m" },
+      { "label": "c", "text": "120 m e 145 m" },
+      { "label": "d", "text": "110 m e 100 m" },
+      { "label": "e", "text": "85 m e 110 m" }
+    ],
+    "imagePath": "mat-concomitante-2012/q40.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2012-q21",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "Sabe-se que com 25 tijolos de seis furos, constrói-se um metro quadrado de alvenaria. Carlos gostaria de construir o muro do seu terreno, de forma retangular, que tem 10 metros de frente e 25 metros de comprimento. A altura do muro será de 2 metros. A quantidade de tijolos de seis furos que Carlos irá comprar é:",
+    "options": [
+      { "label": "a", "text": "2500 tijolos" },
+      { "label": "b", "text": "3500 tijolos" },
+      { "label": "c", "text": "4500 tijolos" },
+      { "label": "d", "text": "5500 tijolos" },
+      { "label": "e", "text": "12500 tijolos" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2012-q22",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 22,
+    "statement": "Você deve saber que a medida de capacidade é o litro (l) e que 1m³ equivale 1.000 litros. Um reservatório de água na forma cilíndrica tem 2 metros de altura e raio da base igual a 0,75 metros. Considerando $\\pi=3{,}14$, a capacidade desse reservatório, em litros, é:",
+    "options": [
+      { "label": "a", "text": "4532,5" },
+      { "label": "b", "text": "3532,5" },
+      { "label": "c", "text": "2532,5" },
+      { "label": "d", "text": "5532,5" },
+      { "label": "e", "text": "6532,5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2012-q23",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "Em uma praça existem dois canteiros, um de forma retangular com 5 metros de largura e x metros de comprimento e outro de forma quadrada com 8 metros de lado. Os valores que x deve assumir para que o perímetro do retângulo seja maior que o perímetro do quadrado é:",
+    "options": [
+      { "label": "a", "text": "x > 27" },
+      { "label": "b", "text": "x > 9" },
+      { "label": "c", "text": "x > 15" },
+      { "label": "d", "text": "x > 11" },
+      { "label": "e", "text": "x < 10" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2012-q24",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 24,
+    "statement": "Sejam A e B duas matrizes quadradas de mesma ordem. A igualdade $(A+B)^2=A^2+2\\cdot A\\cdot B+B^2$ será possível:",
+    "options": [
+      { "label": "a", "text": "Quando o produto A.B for comutativo" },
+      { "label": "b", "text": "Sempre, pois é uma expressão binomial" },
+      { "label": "c", "text": "Sempre, pois o produto de matrizes é associativo" },
+      { "label": "d", "text": "Se, e somente se, uma delas for a matriz identidade" },
+      { "label": "e", "text": "Se, e somente se, A = B" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2012-q25",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 25,
+    "statement": "Quantos são os números de três dígitos distintos que são ímpares?",
+    "options": [
+      { "label": "a", "text": "648" },
+      { "label": "b", "text": "405" },
+      { "label": "c", "text": "360" },
+      { "label": "d", "text": "729" },
+      { "label": "e", "text": "320" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2012-q26",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Felipe pretende fazer uma assinatura de um canal fechado de TV. Para não errar na escolha fez uma pesquisa entre todas as pessoas que moravam com ele para saber o gosto entre esporte, filme e educação. Obteve os seguintes resultados: 6 gostam de esporte; 5, de filme; 4, de educação; 2 gostam de esporte e filme; 1 gosta de filme e educação; 1 gosta de esporte e educação; 1 gosta dos três e 1 não gosta de assistir televisão. Quantas pessoas moram com Felipe?",
+    "options": [
+      { "label": "a", "text": "14" },
+      { "label": "b", "text": "11" },
+      { "label": "c", "text": "10" },
+      { "label": "d", "text": "13" },
+      { "label": "e", "text": "12" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2012-q27",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 27,
+    "statement": "A soma das raízes das equações $2^{3x+1}=16$ e $8^{y+2}=1$ é:",
+    "options": [
+      { "label": "a", "text": "x+y=2" },
+      { "label": "b", "text": "x+y=0" },
+      { "label": "c", "text": "x+y=-1" },
+      { "label": "d", "text": "x+y=-2" },
+      { "label": "e", "text": "x+y=1" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2012-q28",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 28,
+    "statement": "Observando as placas dos carros, nota-se que elas possuem três letras e quatro algarismos. Considerando que o alfabeto latino tem 26 letras, o número de carros emplacados em que as placas iniciam sempre com a letra A e terminam com o algarismo 3, é:",
+    "options": [
+      { "label": "a", "text": "6 760 000" },
+      { "label": "b", "text": "17 576 000" },
+      { "label": "c", "text": "676 000" },
+      { "label": "d", "text": "600 000" },
+      { "label": "e", "text": "1 757 600" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2012-q29",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 29,
+    "statement": "Se 3 e 1/3 são as raízes da equação $ax^2-6x+c=0$, então qual o valor de a+c?",
+    "options": [
+      { "label": "a", "text": "1" },
+      { "label": "b", "text": "0" },
+      { "label": "c", "text": "-9/5" },
+      { "label": "d", "text": "18/5" },
+      { "label": "e", "text": "-5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2012-q30",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 30,
+    "statement": "Katitu está na porta de sua casa quando observa um objeto no céu sob um ângulo de 75° com a horizontal e, no mesmo instante, Pedro, a 210m de Katitu, observa o mesmo objeto sob um ângulo de 30° com a horizontal. A qual distância está Katitu do objeto observado?",
+    "options": [
+      { "label": "a", "text": "$105\\sqrt2\\ m$" },
+      { "label": "b", "text": "$105\\ m$" },
+      { "label": "c", "text": "$105\\sqrt3\\ m$" },
+      { "label": "d", "text": "$70\\sqrt3\\ m$" },
+      { "label": "e", "text": "$210\\sqrt2\\ m$" }
+    ],
+    "imagePath": "mat-subsequente-2012/q30.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2012-q31",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 31,
+    "statement": "No campeonato de xadrez do IFMA a regra é que cada competidor jogue duas vezes com cada um dos outros. Sabendo que houve 110 partidas, podemos afirmar que o número de competidores inscritos foi?",
+    "options": [
+      { "label": "a", "text": "11" },
+      { "label": "b", "text": "12" },
+      { "label": "c", "text": "10" },
+      { "label": "d", "text": "9" },
+      { "label": "e", "text": "13" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2012-q32",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 32,
+    "statement": "Taty quer organizar a festa de sua filha e gostou de dois modelos de lembranças que retirou de uma revista de moldes: uma caixa com forma de um paralelepípedo de 9 cm de largura, 7cm de comprimento e 10cm de altura e outra de forma cilíndrica de 10cm de diâmetro e 10cm de altura. Para fazer 20 unidades de um único modelo a um menor custo de produção e desconsiderando as sobras, quantos metros quadrados Taty usará de material para confeccionar as lembranças?",
+    "options": [
+      { "label": "a", "text": "446 cm²" },
+      { "label": "b", "text": "892 cm²" },
+      { "label": "c", "text": "8920 cm²" },
+      { "label": "d", "text": "9420 cm²" },
+      { "label": "e", "text": "942 cm²" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2012-q33",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 33,
+    "statement": "O valor de x na equação $\\log3+\\log9+\\log27+\\cdots+\\log3^{15}=x$ é: (use $\\log3=0{,}48$)",
+    "options": [
+      { "label": "a", "text": "10,08" },
+      { "label": "b", "text": "61,44" },
+      { "label": "c", "text": "7,2" },
+      { "label": "d", "text": "48" },
+      { "label": "e", "text": "57,6" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2012-q34",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 34,
+    "statement": "Duas linhas de ônibus ligam as cidades de Pindaré-Mirim a Santa Inês, e 4 linhas de ônibus ligam as cidades de Santa Inês e Zé Doca, como mostra o esquema. A quantidade de modos distintos de um usuário escolher uma sequência dessas linhas, indo da cidade de Pindaré-Mirim para Zé Doca, passando por Santa Inês é:",
+    "options": [
+      { "label": "a", "text": "7" },
+      { "label": "b", "text": "8" },
+      { "label": "c", "text": "6" },
+      { "label": "d", "text": "5" },
+      { "label": "e", "text": "4" }
+    ],
+    "imagePath": "mat-subsequente-2012/q34.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2012-q35",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "Para realização de um espetáculo ao ar livre, foi montado um palco cuja superfície tem a forma de um trapézio isósceles de 78m de perímetro com bases que medem 15m e 33m. A área da superfície desse palco é:",
+    "options": [
+      { "label": "a", "text": "292 m²" },
+      { "label": "b", "text": "180 m²" },
+      { "label": "c", "text": "288 m²" },
+      { "label": "d", "text": "234 m²" },
+      { "label": "e", "text": "198 m²" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2012-q36",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 36,
+    "statement": "A equação escrita na forma $a\\cdot x^2+b\\cdot x+c=0$, com $a\\ne0$, $b\\ne0$ e $c\\ne0$, possuem raízes $x_1=tg(u)$ e $x_2=tg(v)$, sendo $u+v=60°$. Das afirmações abaixo: I. $c=\\sqrt3\\cdot b-b$  II. Se $S=x_1+x_2$ e $P=x_1\\cdot x_2$, então $S=\\sqrt3\\cdot(1-P)$  III. $b=\\sqrt3(c-a)$  IV. $c=\\dfrac{1}{3}\\cdot(\\sqrt3\\cdot b+b)$. É correto afirmar que:",
+    "options": [
+      { "label": "a", "text": "I e II são verdadeiras" },
+      { "label": "b", "text": "I e III são verdadeiras" },
+      { "label": "c", "text": "I e IV são verdadeiras" },
+      { "label": "d", "text": "II e IV são verdadeiras" },
+      { "label": "e", "text": "II e III são verdadeiras" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2012-q37",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 37,
+    "statement": "Pretende-se construir um reservatório de água em forma de um paralelepípedo retângulo com 3m de altura e perímetro da base mede 30m. O comprimento e a largura desse reservatório para que ele tenha capacidade de 108.000 litros é:",
+    "options": [
+      { "label": "a", "text": "12m e 3m" },
+      { "label": "b", "text": "12m e 4m" },
+      { "label": "c", "text": "8m e 5m" },
+      { "label": "d", "text": "12m e 8m" },
+      { "label": "e", "text": "10m e 5m" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2012-q38",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 38,
+    "statement": "Querendo fazer um levantamento de seus gastos com alguns itens da cesta básica de maior custo, Dona Maria fez as seguintes tabelas. Tabela 1 - Quantidade comprada de arroz, feijão e carne (kg) nos meses de janeiro, fevereiro e março: arroz 10, 6, 8; feijão 3, 0, 2; carne 7, 10, 10. Tabela 2 - Valor pago, em reais, por kg de arroz, feijão e carne nos meses de janeiro, fevereiro e março: arroz 6,30, 5,50, 5,00; feijão 2,10, 1,99, 2,05; carne 9,00, 7,80, 8,50. Concluiu-se, então, que:",
+    "options": [
+      { "label": "a", "text": "A diferença de gasto de janeiro para fevereiro é de R$ 21,30." },
+      { "label": "b", "text": "O gasto em fevereiro foi de R$ 110,10." },
+      { "label": "c", "text": "O gasto de março foi de R$ 226,00." },
+      { "label": "d", "text": "O custo dos meses de março e janeiro foi o mesmo." },
+      { "label": "e", "text": "O gasto de janeiro excede em R$ 3,00 o de março." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2012-q39",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 39,
+    "statement": "A base de um prisma é quadrada cujo perímetro mede 16m e sua altura vale 8m. O volume desse prisma, em cm³, é:",
+    "options": [
+      { "label": "a", "text": "$(256\\cdot10^6)\\ cm^3$" },
+      { "label": "b", "text": "$(128\\cdot10^{-5})\\ cm^3$" },
+      { "label": "c", "text": "$(128\\cdot10^6)\\ cm^3$" },
+      { "label": "d", "text": "$(128\\cdot10^3)\\ cm^3$" },
+      { "label": "e", "text": "$(32\\cdot10^6)\\ cm^3$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2012-q40",
+    "examId": "mat-subsequente-2012",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 40,
+    "statement": "A proliferação de certo tipo de bactéria pode ser representada pela função $P(t)=1000\\cdot2^{0{,}4t}$, onde t é o tempo dado em horas e P(t) a população de bactérias após t horas. Após quanto tempo a população será de 128.000 bactérias?",
+    "options": [
+      { "label": "a", "text": "16h" },
+      { "label": "b", "text": "17h50min" },
+      { "label": "c", "text": "17h" },
+      { "label": "d", "text": "18h" },
+      { "label": "e", "text": "17h30min" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
