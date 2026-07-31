@@ -1,5 +1,1008 @@
 [
   {
+    "id": "mat-subsequente-2020-q21",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 21,
+    "statement": "Há 2 anos, a idade de Oliver era o dobro da idade de Melissa. Daqui a 6 anos, a soma das idades será 31 anos. Determine a idade de Melissa.",
+    "options": [
+      { "label": "a", "text": "7 anos" },
+      { "label": "b", "text": "6 anos" },
+      { "label": "c", "text": "10 anos" },
+      { "label": "d", "text": "12 anos" },
+      { "label": "e", "text": "13 anos" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2020-q22",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 22,
+    "statement": "O quádruplo de um número excede o dobro desse mesmo número em 80 unidades. Qual é o resto da divisão desse número por 11?",
+    "options": [
+      { "label": "a", "text": "8" },
+      { "label": "b", "text": "5" },
+      { "label": "c", "text": "6" },
+      { "label": "d", "text": "4" },
+      { "label": "e", "text": "7" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2020-q23",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 23,
+    "statement": "Considere um número real $x$, sendo $x < 2$. Sabendo-se que $x$ está para $2 - x$ assim como $2 - x$ está para $2$, determine o valor de $x$.",
+    "options": [
+      { "label": "a", "text": "$3 + \\sqrt{5}$" },
+      { "label": "b", "text": "$3 - \\sqrt{5}$" },
+      { "label": "c", "text": "$\\sqrt{5} - 3$" },
+      { "label": "d", "text": "$\\dfrac{3+\\sqrt{5}}{2}$" },
+      { "label": "e", "text": "$\\dfrac{\\sqrt{5}}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2020-q24",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 24,
+    "statement": "Numa experiência de laboratório, uma substância com temperatura inicial de $-13°C$ foi aquecida durante 8 minutos até atingir $27°C$. Considerando-se que, durante essa experiência, a temperatura variou linearmente em função do tempo, depois de quanto tempo, após o início da experiência, a temperatura dessa substância atingiu $0°C$?",
+    "options": [
+      { "label": "a", "text": "4 min" },
+      { "label": "b", "text": "3,6 min" },
+      { "label": "c", "text": "2 min e 36s" },
+      { "label": "d", "text": "3,8 min" },
+      { "label": "e", "text": "3 min e 6 s" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2020-q25",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 25,
+    "statement": "Considere as funções reais f e g dadas por $f(x) = |2x-1| - 3$ e $g(x) = -2$. Os pontos de intersecções dos gráficos dessas funções, construídos num mesmo plano cartesiano, são",
+    "options": [
+      { "label": "a", "text": "$(-2,-2)$ e $(-1,-2)$" },
+      { "label": "b", "text": "$(2,-2)$ e $(3,-2)$" },
+      { "label": "c", "text": "$(-1,-2)$ e $(1,-2)$" },
+      { "label": "d", "text": "$(-1,-2)$ e $(-2,-2)$" },
+      { "label": "e", "text": "$(0,-2)$ e $(1,-2)$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2020-q26",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 26,
+    "statement": "Sabe-se que a tabela de valores abaixo foi construída a partir de uma função real cuja lei de formação é dada por um polinômio.\n\n| x | -1 | 0 | 1 | 2 | 3 | 4 |\n|---|----|---|---|---|----|----|\n| f(x) | 10 | 2 | 0 | 4 | 14 | 30 |\n\nQual a lei de formação dessa função?",
+    "options": [
+      { "label": "a", "text": "$f(x) = 4x^2 - 7x + 2$" },
+      { "label": "b", "text": "$f(x) = 2x^2 + 5x + 2$" },
+      { "label": "c", "text": "$f(x) = x^2 - 3x + 2$" },
+      { "label": "d", "text": "$f(x) = 3x^2 - 5x + 2$" },
+      { "label": "e", "text": "$f(x) = x + 2$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2020-q27",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 27,
+    "statement": "O esquema seguinte representa três retas paralelas $a, b$ e $c$ com duas transversais a elas, $s$ e $t$. Qual a medida de $x$?",
+    "options": [
+      { "label": "a", "text": "67,5 m" },
+      { "label": "b", "text": "62,5 m" },
+      { "label": "c", "text": "75 m" },
+      { "label": "d", "text": "60 m" },
+      { "label": "e", "text": "72,5 m" }
+    ],
+    "imagePath": "mat-subsequente-2020/q27.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2020-q28",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 28,
+    "statement": "Considere um triângulo ABC inscrito em uma circunferência de raio R. Dois lados desse triângulo medem 8 cm e 15 cm e o ângulo formado por eles é $60°$. Qual a medida do raio R da circunferência?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{13\\sqrt{3}}{3}\\ cm$" },
+      { "label": "b", "text": "$\\dfrac{11\\sqrt{3}}{3}\\ cm$" },
+      { "label": "c", "text": "$\\dfrac{15\\sqrt{3}}{8}\\ cm$" },
+      { "label": "d", "text": "$7\\sqrt{3}\\ cm$" },
+      { "label": "e", "text": "$7,5\\ cm$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2020-q29",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 29,
+    "statement": "Seja o trapézio isósceles ABCD a seguir, com base maior AB = 20dm e lados AD = BC = 16dm. Qual o perímetro desse trapézio, sabendo-se que os ângulos agudos medem 30° cada um?",
+    "options": [
+      { "label": "a", "text": "$88\\sqrt{3}\\ cm$" },
+      { "label": "b", "text": "$8(7 + 2\\sqrt{3})\\ cm$" },
+      { "label": "c", "text": "$16(7 + \\sqrt{3})\\ cm$" },
+      { "label": "d", "text": "$8(11 + 2\\sqrt{3})\\ cm$" },
+      { "label": "e", "text": "$8(9 + 2\\sqrt{3})\\ cm$" }
+    ],
+    "imagePath": "mat-subsequente-2020/q29.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2020-q30",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 30,
+    "statement": "A altura e a área lateral de um prisma reto de base quadrada medem 7,5 cm e $120\\ cm^2$, respectivamente. Qual o volume desse prisma?",
+    "options": [
+      { "label": "a", "text": "$96\\ cm^3$" },
+      { "label": "b", "text": "$120\\ cm^3$" },
+      { "label": "c", "text": "$108\\ cm^3$" },
+      { "label": "d", "text": "$118\\ cm^3$" },
+      { "label": "e", "text": "$88\\ cm^3$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2020-q31",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 31,
+    "statement": "Considere um cilindro equilátero de volume igual a $32\\pi\\sqrt{2}\\ dm^3$. Qual a medida da área total desse cilindro?",
+    "options": [
+      { "label": "a", "text": "$48\\pi\\ dm^2$" },
+      { "label": "b", "text": "$72\\pi\\ dm^2$" },
+      { "label": "c", "text": "$36\\pi\\ dm^2$" },
+      { "label": "d", "text": "$60\\pi\\ dm^2$" },
+      { "label": "e", "text": "$16\\sqrt{2}\\pi\\ dm^2$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2020-q32",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 32,
+    "statement": "Numa progressão aritmética de 8 termos positivos, a soma do terceiro termo com o oitavo é igual a 149, e a soma do primeiro com o sétimo é igual a 104. Qual é o valor da soma dos termos dessa progressão?",
+    "options": [
+      { "label": "a", "text": "416" },
+      { "label": "b", "text": "105" },
+      { "label": "c", "text": "223" },
+      { "label": "d", "text": "476" },
+      { "label": "e", "text": "596" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2020-q33",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 33,
+    "statement": "Para que exista a igualdade $sen\\ x = 4k - 7$, onde $k$ é uma constante real, o maior valor inteiro de $k$ é",
+    "options": [
+      { "label": "a", "text": "2" },
+      { "label": "b", "text": "1" },
+      { "label": "c", "text": "3" },
+      { "label": "d", "text": "-1" },
+      { "label": "e", "text": "0" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2020-q34",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 34,
+    "statement": "A soma das raízes da equação $sen\\ x + \\cos\\left(\\dfrac{\\pi}{2} - x\\right) = 1$, com $0 \\leq x \\leq \\pi$, é",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{3\\pi}{2}$" },
+      { "label": "b", "text": "$\\dfrac{\\pi}{2}$" },
+      { "label": "c", "text": "$\\dfrac{5\\pi}{6}$" },
+      { "label": "d", "text": "$\\dfrac{\\pi}{6}$" },
+      { "label": "e", "text": "$\\pi$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2020-q35",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "Seja o ponto $G(2,1)$, as coordenadas do baricentro do triângulo $A(a,b)$, $B(-4,-1)$ e $C(8,1)$. Qual o valor de $\\log_{\\sqrt{5}}(a+b)$?",
+    "options": [
+      { "label": "a", "text": "$\\sqrt{5}$" },
+      { "label": "b", "text": "5" },
+      { "label": "c", "text": "3" },
+      { "label": "d", "text": "2" },
+      { "label": "e", "text": "$5\\sqrt{5}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2020-q36",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Uma reta $t$ de equação $y = -2x + n$ é tangente à circunferência $\\lambda$ de equação $x^2 + y^2 = 20$. Os possíveis valores de $n$ são",
+    "options": [
+      { "label": "a", "text": "$n = -\\sqrt{20}$ ou $n = \\sqrt{20}$" },
+      { "label": "b", "text": "$n = -4$ ou $n = 4$" },
+      { "label": "c", "text": "$n = -6$ ou $n = 6$" },
+      { "label": "d", "text": "$n = 2$ ou $n = 4$" },
+      { "label": "e", "text": "$n = -10$ ou $n = 10$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2020-q37",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 37,
+    "statement": "No desenvolvimento do binômio de Newton a seguir $(2x+y)^6 = 64x^6 + Ax^5y + 240x^4y^2 + Bx^3y^3 + 60x^2y^4 + Cxy^5 + y^6$, pode-se afirmar que $(A - B + C)^2$ é igual a",
+    "options": [
+      { "label": "a", "text": "400" },
+      { "label": "b", "text": "3600" },
+      { "label": "c", "text": "1296" },
+      { "label": "d", "text": "1024" },
+      { "label": "e", "text": "1936" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-subsequente-2020-q38",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 38,
+    "statement": "Na Segunda divisão do Campeonato Brasileiro de Futebol participam 20 times e somente os 4 primeiros serão classificados para a primeira divisão do ano seguinte. Sendo assim, quantas são as possibilidades de classificação nos 4 primeiros lugares?",
+    "options": [
+      { "label": "a", "text": "58140" },
+      { "label": "b", "text": "27907200" },
+      { "label": "c", "text": "116280" },
+      { "label": "d", "text": "43680" },
+      { "label": "e", "text": "4845" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2020-q39",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 39,
+    "statement": "Numa urna há 13 bolas, sendo 8 azuis, numeradas de 1 a 8, e 5 bolas vermelhas, numeradas de 9 a 13. Pedro retirou uma bola da urna e observou que a mesma continha um número par. Qual é a probabilidade dessa bola ser azul?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{8}$" },
+      { "label": "b", "text": "$\\dfrac{2}{3}$" },
+      { "label": "c", "text": "$\\dfrac{8}{13}$" },
+      { "label": "d", "text": "$\\dfrac{4}{13}$" },
+      { "label": "e", "text": "$\\dfrac{6}{13}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2020-q40",
+    "examId": "mat-subsequente-2020",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 40,
+    "statement": "O conjugado do número complexo $z = 16 \\cdot \\left(\\cos\\dfrac{2\\pi}{3} + i\\ sen\\dfrac{2\\pi}{3}\\right)$, sendo $i = \\sqrt{-1}$, escrito na forma algébrica é",
+    "options": [
+      { "label": "a", "text": "$-\\dfrac{1}{2} + \\dfrac{\\sqrt{3}}{2}i$" },
+      { "label": "b", "text": "$-8 + 8\\sqrt{3}\\ i$" },
+      { "label": "c", "text": "$-8 - 8\\sqrt{3}\\ i$" },
+      { "label": "d", "text": "$\\dfrac{1}{2} - \\dfrac{\\sqrt{3}}{2}i$" },
+      { "label": "e", "text": "$\\dfrac{2}{3} - \\dfrac{2}{3}i$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2020-q21",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 21,
+    "statement": "Sejam os conjuntos $A = \\{0, 2, 4, 6\\}$, $B = \\{1,3,4,5,7\\}$ e $C = \\{1,2,6,9,10\\}$. O conjunto resultante das operações $(A \\cap C) \\cup (B - A)$ será",
+    "options": [
+      { "label": "a", "text": "$\\{1,3,5,7\\}$" },
+      { "label": "b", "text": "$\\{1,2,3,5,6,7\\}$" },
+      { "label": "c", "text": "$\\{2,4,6,7\\}$" },
+      { "label": "d", "text": "$\\{1,3,5,7,9,10\\}$" },
+      { "label": "e", "text": "$\\{0,1,2,3,4,5,6,7,9,10\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2020-q22",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "O valor da expressão $\\sqrt[3]{334 + \\sqrt{76 + \\sqrt{21 + \\sqrt{16}}}}$ é igual a",
+    "options": [
+      { "label": "a", "text": "7" },
+      { "label": "b", "text": "9" },
+      { "label": "c", "text": "5" },
+      { "label": "d", "text": "11" },
+      { "label": "e", "text": "13" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2020-q23",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 23,
+    "statement": "O valor numérico da expressão $\\dfrac{2x^2 - 12x + 18}{2}$ para $x = 3,5$ é",
+    "options": [
+      { "label": "a", "text": "0,45" },
+      { "label": "b", "text": "4,75" },
+      { "label": "c", "text": "3,25" },
+      { "label": "d", "text": "0,25" },
+      { "label": "e", "text": "2,25" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2020-q24",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 24,
+    "statement": "Sejam $a$ e $b$ dois números reais tais que $a^2 + b^2 = 13$, $2a + 2b = 10$ e $3a - 3b = 3$. Qual o valor da expressão $2a^4 - 2b^4$?",
+    "options": [
+      { "label": "a", "text": "130" },
+      { "label": "b", "text": "120" },
+      { "label": "c", "text": "110" },
+      { "label": "d", "text": "100" },
+      { "label": "e", "text": "90" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2020-q25",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 25,
+    "statement": "Seja a função $f: \\mathbb{R} - \\{2\\} \\to \\mathbb{R} - \\{1\\}$ definida por $f(x) = \\dfrac{x+1}{x-2}$. A sua função inversa $f^{-1}(x)$ tem domínio representado pelo conjunto",
+    "options": [
+      { "label": "a", "text": "$\\{x \\in \\mathbb{R} / x \\neq 2\\}$" },
+      { "label": "b", "text": "$\\{x \\in \\mathbb{R} / x \\neq 1\\}$" },
+      { "label": "c", "text": "$\\{x \\in \\mathbb{R} / x \\neq \\dfrac{1}{2}\\}$" },
+      { "label": "d", "text": "$\\{x \\in \\mathbb{R} / x \\neq -\\dfrac{1}{2}\\}$" },
+      { "label": "e", "text": "$\\{x \\in \\mathbb{R} / x \\neq 0\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2020-q26",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 26,
+    "statement": "De acordo com os gráficos das funções reais f e g a seguir, o valor de $f(g(-3)) - g(2)$ é",
+    "options": [
+      { "label": "a", "text": "-3" },
+      { "label": "b", "text": "-2" },
+      { "label": "c", "text": "-4" },
+      { "label": "d", "text": "5" },
+      { "label": "e", "text": "6" }
+    ],
+    "imagePath": "mat-concomitante-2020/q26.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2020-q27",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 27,
+    "statement": "Na função $f(x) = mx^2 + (m-1)x + 2n$, quais devem ser os valores naturais de $m$ e $n$, de modo que $f$ seja uma função afim, cujo gráfico intercepte o eixo das ordenadas no ponto $(0, 8)$?",
+    "options": [
+      { "label": "a", "text": "$m=1$ e $n=4$" },
+      { "label": "b", "text": "$m=0$ e $n=4$" },
+      { "label": "c", "text": "$m=-1$ e $n=4$" },
+      { "label": "d", "text": "$m=0$ e $n=8$" },
+      { "label": "e", "text": "$m=1$ e $n=8$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2020-q28",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 28,
+    "statement": "Seja a função $f: \\mathbb{R} \\to \\mathbb{R}$ definida por $f(x) = kx^2 - 80$, sendo $k$ uma constante real. Sabendo-se que $f(-4) = 0$, o valor de $f(-1)$ é",
+    "options": [
+      { "label": "a", "text": "76" },
+      { "label": "b", "text": "78" },
+      { "label": "c", "text": "-89" },
+      { "label": "d", "text": "-80" },
+      { "label": "e", "text": "-75" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2020-q29",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 29,
+    "statement": "Seja $f: \\mathbb{R} \\to \\mathbb{R}$ definida pela lei $f(x) = -3|x-5| + 7$. O valor máximo dessa função é",
+    "options": [
+      { "label": "a", "text": "5" },
+      { "label": "b", "text": "8" },
+      { "label": "c", "text": "12" },
+      { "label": "d", "text": "15" },
+      { "label": "e", "text": "7" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2020-q30",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 30,
+    "statement": "Na figura a seguir estão representados o gráfico da função dada por $f(x) = -x^2 + 6x$ e o triângulo ABC. Sabendo-se que o ponto A é o vértice da parábola e que as abscissas de B e C são as raízes da função f(x), a medida da área do triângulo ABC, em unidades de área, é",
+    "options": [
+      { "label": "a", "text": "36" },
+      { "label": "b", "text": "24" },
+      { "label": "c", "text": "27" },
+      { "label": "d", "text": "18" },
+      { "label": "e", "text": "12" }
+    ],
+    "imagePath": "mat-concomitante-2020/q30.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2020-q31",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 31,
+    "statement": "Seja a equação logarítmica $(\\log_3 x)^2 - \\dfrac{5}{2}(\\log_{\\sqrt{3}} x) + 6 = 0$. Pode-se afirmar que a soma de suas raízes é igual a",
+    "options": [
+      { "label": "a", "text": "36" },
+      { "label": "b", "text": "27" },
+      { "label": "c", "text": "25" },
+      { "label": "d", "text": "12" },
+      { "label": "e", "text": "5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2020-q32",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 32,
+    "statement": "Seja $M_0$ o capital aplicado sob o sistema de capitalização composta que, após $x$ meses, gera um montante $M(x)$, descrito pelo modelo exponencial $M(x) = M_0 \\cdot 1,04^x$. Pode-se concluir que o tempo mínimo, em meses, necessário para que esse capital tenha o seu valor dobrado é, aproximadamente (Use: $\\log 2 = 0,301$ e $\\log 0,52 = -0,284$)",
+    "options": [
+      { "label": "a", "text": "24" },
+      { "label": "b", "text": "18" },
+      { "label": "c", "text": "16" },
+      { "label": "d", "text": "19" },
+      { "label": "e", "text": "20" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2020-q33",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 33,
+    "statement": "Se os catetos de um triângulo retângulo medem $12\\ cm$ e $16\\ cm$, então o seno do ângulo oposto ao maior cateto é igual a",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{3}{5}$" },
+      { "label": "b", "text": "$\\dfrac{4}{5}$" },
+      { "label": "c", "text": "$\\dfrac{3}{4}$" },
+      { "label": "d", "text": "$\\dfrac{5}{4}$" },
+      { "label": "e", "text": "1" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2020-q34",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 34,
+    "statement": "Sabendo-se que o suplemento do complemento de um ângulo é igual ao triplo do próprio ângulo, pode-se afirmar que o dobro desse ângulo mede",
+    "options": [
+      { "label": "a", "text": "90°" },
+      { "label": "b", "text": "135°" },
+      { "label": "c", "text": "120°" },
+      { "label": "d", "text": "70°" },
+      { "label": "e", "text": "45°" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2020-q35",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "Considerando-se que na figura seguinte as retas r e s são paralelas e que o triângulo ABC é equilátero, o valor de x é",
+    "options": [
+      { "label": "a", "text": "120°" },
+      { "label": "b", "text": "140°" },
+      { "label": "c", "text": "130°" },
+      { "label": "d", "text": "125°" },
+      { "label": "e", "text": "135°" }
+    ],
+    "imagePath": "mat-concomitante-2020/q35.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2020-q36",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "O hexágono regular ABCDEF a seguir está inscrito em uma circunferência de raio $r$ e tem apótema medindo $\\dfrac{3\\sqrt{3}}{2}\\ cm$. Qual é a medida do diâmetro dessa circunferência?",
+    "options": [
+      { "label": "a", "text": "$6\\sqrt{3}$ cm" },
+      { "label": "b", "text": "$4\\sqrt{3}$ cm" },
+      { "label": "c", "text": "$9\\sqrt{3}$ cm" },
+      { "label": "d", "text": "9 cm" },
+      { "label": "e", "text": "6 cm" }
+    ],
+    "imagePath": "mat-concomitante-2020/q36.png",
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2020-q37",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "Em um triângulo retângulo, um dos seus catetos mede 12 cm e a hipotenusa mede $15\\ cm$. Qual é a medida do outro cateto desse triângulo?",
+    "options": [
+      { "label": "a", "text": "7 cm" },
+      { "label": "b", "text": "8 cm" },
+      { "label": "c", "text": "9 cm" },
+      { "label": "d", "text": "10 cm" },
+      { "label": "e", "text": "6 cm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2020-q38",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 38,
+    "statement": "Considerando-se que a área e o perímetro do polígono ABCDEF a seguir medem $70\\ cm^2$ e $40$ cm, respectivamente, a área do quadrado DEFG, em $cm^2$, mede",
+    "options": [
+      { "label": "a", "text": "35" },
+      { "label": "b", "text": "40" },
+      { "label": "c", "text": "45" },
+      { "label": "d", "text": "30" },
+      { "label": "e", "text": "50" }
+    ],
+    "imagePath": "mat-concomitante-2020/q38.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2020-q39",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 39,
+    "statement": "No triângulo retângulo $ABC$ seguinte, $D$ é um ponto do lado $\\overline{AC}$ tal que $AD = x$. Considerando-se que $AC = 8\\ cm$ e $BC = 10\\ cm$, a lei que expressa a área $y$ do triângulo $BCD$ em função de $x$ é",
+    "options": [
+      { "label": "a", "text": "$y = -3x + 18$" },
+      { "label": "b", "text": "$y = 2x + 8$" },
+      { "label": "c", "text": "$y = -x + 8$" },
+      { "label": "d", "text": "$y = -3x + 24$" },
+      { "label": "e", "text": "$y = 4x - 48$" }
+    ],
+    "imagePath": "mat-concomitante-2020/q39.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2020-q40",
+    "examId": "mat-concomitante-2020",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 40,
+    "statement": "Sejam $Q$ a medida da superfície de uma região quadrada, cujo lado mede $\\dfrac{5x}{2}$ e $R$ a medida da superfície de uma região retangular cujas dimensões medem $x$ e $2x+3$. O menor valor inteiro que $x$ pode assumir para que $R < Q$ é",
+    "options": [
+      { "label": "a", "text": "2" },
+      { "label": "b", "text": "1" },
+      { "label": "c", "text": "4" },
+      { "label": "d", "text": "3" },
+      { "label": "e", "text": "5" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2020-q21",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 21,
+    "statement": "Com quantos zeros termina o número inteiro $k$, sendo $k = 2^6 \\cdot 10^3 \\cdot 5^7$?",
+    "options": [
+      { "label": "a", "text": "9" },
+      { "label": "b", "text": "12" },
+      { "label": "c", "text": "16" },
+      { "label": "d", "text": "18" },
+      { "label": "e", "text": "100" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2020-q22",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "Qual o valor da expressão $\\dfrac{64^{0,666\\ldots} + 36^{0,5}}{\\sqrt{8}}$?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{11\\sqrt{2}}{2}$" },
+      { "label": "b", "text": "$\\dfrac{7\\sqrt{2}}{2}$" },
+      { "label": "c", "text": "$\\dfrac{13\\sqrt{2}}{2}$" },
+      { "label": "d", "text": "$\\dfrac{25\\sqrt{2}}{2}$" },
+      { "label": "e", "text": "$\\dfrac{15\\sqrt{2}}{2}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2020-q23",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 23,
+    "statement": "O valor de uma motocicleta que era vendida por R$16.000,00 sofreu dois aumentos sucessivos de preços, o primeiro de 5% e o segundo de 2%. Pode-se afirmar que esses dois aumentos sofridos pelo valor da motocicleta correspondem a um único aumento de:",
+    "options": [
+      { "label": "a", "text": "7,2%" },
+      { "label": "b", "text": "7,1%" },
+      { "label": "c", "text": "7,0%" },
+      { "label": "d", "text": "7,3%" },
+      { "label": "e", "text": "7,5%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2020-q24",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "Em certo quiosque à beira de uma das belíssimas praias de São Luís, um coco d'água que era vendido por R$ 4,00 passou a ser vendido por R$ 5,50. Em termos percentuais, o aumento foi de:",
+    "options": [
+      { "label": "a", "text": "30%" },
+      { "label": "b", "text": "35%" },
+      { "label": "c", "text": "37,5%" },
+      { "label": "d", "text": "40%" },
+      { "label": "e", "text": "25%" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2020-q25",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 25,
+    "statement": "A solução $S$ da equação $3 - \\dfrac{7x}{8} = x - \\left(\\dfrac{x}{2} + \\dfrac{2x}{6}\\right)$ é",
+    "options": [
+      { "label": "a", "text": "$S = \\left\\{\\dfrac{52}{25}\\right\\}$" },
+      { "label": "b", "text": "$S = \\left\\{\\dfrac{-7}{24}\\right\\}$" },
+      { "label": "c", "text": "$S = \\left\\{\\dfrac{7}{48}\\right\\}$" },
+      { "label": "d", "text": "$S = \\left\\{\\dfrac{36}{50}\\right\\}$" },
+      { "label": "e", "text": "$S = \\left\\{\\dfrac{72}{25}\\right\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2020-q26",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 26,
+    "statement": "O sistema de equações $\\begin{cases} 2x - y = 21 \\\\ x - 3y = 3 \\end{cases}$ tem como solução o par ordenado $(x, y)$. Sendo assim, $6x - 8y$ é igual a",
+    "options": [
+      { "label": "a", "text": "32" },
+      { "label": "b", "text": "44" },
+      { "label": "c", "text": "40" },
+      { "label": "d", "text": "36" },
+      { "label": "e", "text": "48" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2020-q27",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 27,
+    "statement": "O senhor Vidal possui três barras de alumínio de comprimentos 12m, 16m e 20m. Para a realização de um determinado serviço, precisa cortá-las uma de cada vez, em tamanhos iguais e com o menor número de cortes possíveis. Pode-se concluir que a quantidade de peças obtidas será",
+    "options": [
+      { "label": "a", "text": "16 peças" },
+      { "label": "b", "text": "14 peças" },
+      { "label": "c", "text": "12 peças" },
+      { "label": "d", "text": "20 peças" },
+      { "label": "e", "text": "24 peças" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2020-q28",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 28,
+    "statement": "Dona Aparecida comprou em um mercado do bairro onde mora 2,5 kg de peixe, 750 g de carne moída e $1\\dfrac{3}{4}$ kg de frango. Quantos quilogramas de alimentos ela comprou nesse mercado?",
+    "options": [
+      { "label": "a", "text": "6,0 kg" },
+      { "label": "b", "text": "4,50 kg" },
+      { "label": "c", "text": "3500 g" },
+      { "label": "d", "text": "4800 g" },
+      { "label": "e", "text": "5,0 kg" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "e"
+  },
+  {
+    "id": "mat-integrada-2020-q29",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "O proprietário de uma loja resolveu dividir R$ 50.000,00 em partes diretamente proporcionais aos números de vendas por dia de cada um dos três vendedores, Aldo, Bia e Carol. Aldo fez 4 vendas por dia, Bia, 7 e Carol, 9. Qual a diferença entre os valores recebidos por Carol e Aldo?",
+    "options": [
+      { "label": "a", "text": "R$ 17.500,00" },
+      { "label": "b", "text": "R$ 12.500,00" },
+      { "label": "c", "text": "R$ 10.000,00" },
+      { "label": "d", "text": "R$ 7.500,00" },
+      { "label": "e", "text": "R$ 8.500,00" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2020-q30",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 30,
+    "statement": "O valor numérico da expressão $(k \\cdot x^2 + 4x - 5)^5$ para $x = 1$ é $32$. Qual o valor da expressão $2^k$?",
+    "options": [
+      { "label": "a", "text": "8" },
+      { "label": "b", "text": "4" },
+      { "label": "c", "text": "16" },
+      { "label": "d", "text": "32" },
+      { "label": "e", "text": "64" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2020-q31",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 31,
+    "statement": "Qual a forma mais simples da expressão $\\dfrac{2x^2 - 5x - 3}{x^2 - 6x + 9}$, sendo $x \\neq 3$?",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{2x+1}{x-3}$" },
+      { "label": "b", "text": "$\\dfrac{2x-1}{x-3}$" },
+      { "label": "c", "text": "$\\dfrac{2x+1}{x+3}$" },
+      { "label": "d", "text": "$\\dfrac{2x-1}{3-x}$" },
+      { "label": "e", "text": "$\\dfrac{x-3}{2x}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2020-q32",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 32,
+    "statement": "Considerando-se que $a^2 + 2a = 15$ e $b^2 - 6b = 11$, a maior raiz da equação $x^2 = (a+1)^2 + (b-3)^2$, na incógnita $x$, é",
+    "options": [
+      { "label": "a", "text": "5" },
+      { "label": "b", "text": "6" },
+      { "label": "c", "text": "7" },
+      { "label": "d", "text": "-2" },
+      { "label": "e", "text": "-3" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2020-q33",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "Qual é o número de diagonais de um polígono regular cuja soma das medidas dos seus ângulos internos é $1440°$?",
+    "options": [
+      { "label": "a", "text": "18 diagonais" },
+      { "label": "b", "text": "20 diagonais" },
+      { "label": "c", "text": "35 diagonais" },
+      { "label": "d", "text": "14 diagonais" },
+      { "label": "e", "text": "9 diagonais" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2020-q34",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 34,
+    "statement": "No $\\triangle ABC$, $med(\\hat{ABC}) = med(\\hat{ACB}) = 45°$, $\\overline{AH}$ é a bissetriz do ângulo interno $B\\hat{A}C$ e $\\overline{CS}$ é a bissetriz do ângulo interno $A\\hat{C}H$. Qual é a medida do ângulo $A\\hat{S}C$?",
+    "options": [
+      { "label": "a", "text": "22,5°" },
+      { "label": "b", "text": "90°" },
+      { "label": "c", "text": "100°" },
+      { "label": "d", "text": "112,5°" },
+      { "label": "e", "text": "67,5°" }
+    ],
+    "imagePath": "mat-integrada-2020/q34.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2020-q35",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "A diferença entre as medidas dos raios de duas circunferências concêntricas é 4 cm. O comprimento da menor circunferência é igual a $12\\pi$ cm. Portanto, o raio da circunferência maior mede",
+    "options": [
+      { "label": "a", "text": "8 cm" },
+      { "label": "b", "text": "10 cm" },
+      { "label": "c", "text": "6 cm" },
+      { "label": "d", "text": "4 cm" },
+      { "label": "e", "text": "2 cm" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2020-q36",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "O trapézio isósceles ABCD foi construído a partir de triângulos equiláteros congruentes. Sendo $3\\sqrt{8}$ cm a medida da base maior do trapézio, quanto mede a área sombreada na figura?",
+    "options": [
+      { "label": "a", "text": "$3\\sqrt{3}\\ cm^2$" },
+      { "label": "b", "text": "$6\\sqrt{3}\\ cm^2$" },
+      { "label": "c", "text": "$2\\sqrt{3}\\ cm^2$" },
+      { "label": "d", "text": "$8\\sqrt{3}\\ cm^2$" },
+      { "label": "e", "text": "$9\\sqrt{3}\\ cm^2$" }
+    ],
+    "imagePath": "mat-integrada-2020/q36.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2020-q37",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 37,
+    "statement": "Tales de Mileto foi um matemático grego que viveu por volta de 546 a.C e é considerado um dos \"sete sábios\" da antiguidade. De acordo com o seu teorema, qualquer reta paralela a um dos lados de um triângulo que intercepta os outros dois lados, divide esses lados em segmentos proporcionais. A partir dessa definição, qual é a medida do segmento $\\overline{DE}$ representado na figura seguinte, sabendo-se que $\\overline{AB} \\parallel \\overline{DE}$, AB=EC=6 cm, BE=2 cm e DC=7,5 cm?",
+    "options": [
+      { "label": "a", "text": "3,0 cm" },
+      { "label": "b", "text": "4,0 cm" },
+      { "label": "c", "text": "3,5 cm" },
+      { "label": "d", "text": "4,5 cm" },
+      { "label": "e", "text": "3,75 cm" }
+    ],
+    "imagePath": "mat-integrada-2020/q37.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2020-q39",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 39,
+    "statement": "Na figura seguinte, considerando-se que o polígono $ABCD$ é um quadrado cujo lado mede 6 cm e que $AE = CG = 1,5$ cm, a medida de $\\overline{DF}$, em cm, é",
+    "options": [
+      { "label": "a", "text": "5,0" },
+      { "label": "b", "text": "4,5" },
+      { "label": "c", "text": "4,8" },
+      { "label": "d", "text": "5,1" },
+      { "label": "e", "text": "5,5" }
+    ],
+    "imagePath": "mat-integrada-2020/q39.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2020-q40",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 40,
+    "statement": "Considerando-se que os ângulos $5x - 40°$ e $3x - 10°$ são opostos pelo vértice, o complemento de um desses ângulos mede",
+    "options": [
+      { "label": "a", "text": "55°" },
+      { "label": "b", "text": "75°" },
+      { "label": "c", "text": "145°" },
+      { "label": "d", "text": "65°" },
+      { "label": "e", "text": "155°" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
     "id": "mat-integrada-2019-q21",
     "examId": "mat-integrada-2019",
     "discipline": "matematica",

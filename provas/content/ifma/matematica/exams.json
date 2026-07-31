@@ -1,5 +1,29 @@
 [
   {
+    "id": "mat-subsequente-2020",
+    "institution": "IFMA",
+    "year": 2020,
+    "edition": "Subsequente 2020",
+    "examType": "especifico",
+    "sourceFile": "CADERNO DE PROVAFORMA SUBSEQUENTE -2020.pdf"
+  },
+  {
+    "id": "mat-concomitante-2020",
+    "institution": "IFMA",
+    "year": 2020,
+    "edition": "Concomitante 2020",
+    "examType": "especifico",
+    "sourceFile": "CADERNO DE PROVAFORMA CONCOMITANTE 2020.pdf"
+  },
+  {
+    "id": "mat-integrada-2020",
+    "institution": "IFMA",
+    "year": 2020,
+    "edition": "Integrada 2020",
+    "examType": "especifico",
+    "sourceFile": "Caderno-de-provas-integrado-2020.pdf"
+  },
+  {
     "id": "mat-integrada-2019",
     "institution": "IFMA",
     "year": 2019,
