@@ -1,5 +1,725 @@
 [
   {
+    "id": "mat-subsequente-2022-q16",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 16,
+    "statement": "Analisando o gráfico da média de temperatura da terra acima e abaixo da média, apresentado no Texto 1, e comparando a menor temperatura indicada no período 1800-1850 e a maior temperatura indicada após o ano 2000, verifica-se que, aproximadamente, houve",
+    "options": [
+      { "label": "a", "text": "uma variação de 1,5°C." },
+      { "label": "b", "text": "uma variação de 3°C." },
+      { "label": "c", "text": "uma variação de -3°C." },
+      { "label": "d", "text": "uma variação de -1,5°C." }
+    ],
+    "imagePath": "mat-subsequente-2022/q16.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2022-q17",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "Para acesso a um banco de dados com as temperaturas mundiais dos continentes nas últimas décadas, um técnico cadastrou a senha COP26. Um invasor para acertar essa senha, sabendo que o padrão dela é de três letras e dois números, nessa ordem e sem repetição, utilizando as letras do alfabeto e os algarismos de 0 a 9, teria que, no máximo, fazer um número de tentativas entre",
+    "options": [
+      { "label": "a", "text": "1,3 e 1,4 milhões." },
+      { "label": "b", "text": "1,2 e 1,3 milhões." },
+      { "label": "c", "text": "1,5 e 1,6 milhões." },
+      { "label": "d", "text": "1,4 e 1,5 milhões." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2022-q18",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 18,
+    "statement": "Como parte de um projeto sobre pesquisas climáticas, um grupo de professores e alunos de um Instituto Federal lançou ao espaço um balão meteorológico semelhante ao exibido na Figura 1. Considerando que esse balão fosse uma esfera maciça de volume $36\\pi\\ m^3$, o diâmetro desse balão seria de",
+    "options": [
+      { "label": "a", "text": "6 m." },
+      { "label": "b", "text": "3 m." },
+      { "label": "c", "text": "9 m." },
+      { "label": "d", "text": "12 m." }
+    ],
+    "imagePath": "mat-subsequente-2022/q18.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2022-q19",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 19,
+    "statement": "A reportagem intitulada \"Degelo das calotas polares ocorre 6 vezes mais rápido que nos anos 90\", reproduzida no site Agência Brasil, em 12/03/2020, informa que \"Entre 1992 e 2017, a Groenlândia e a Antártida perderam 6,4 mil milhões de toneladas de gelo, o que foi suficiente para elevar em 17,8 milímetros (mm) o nível do mar.\" Considerando que o aumento do nível do mar venha ocorrendo de forma constante desde o período informado e que nenhuma ação significativa tenha sido tomada para mudar esse cenário, até o final de 2021 o nível do mar terá, aproximadamente, um acréscimo de mais",
+    "options": [
+      { "label": "a", "text": "2,14 mm." },
+      { "label": "b", "text": "3,56 mm." },
+      { "label": "c", "text": "1,42 mm." },
+      { "label": "d", "text": "2,85 mm." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2022-q20",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 20,
+    "statement": "Considere que, na COP26 ocorrida em 2021, participaram exatamente 200 países e que, dentre esses, estão os 13 países da América do Sul. No ano de 2022, a COP27 acontecerá no Egito. Supondo que entre os países participantes da COP26 fosse realizado um sorteio para definir os países sede das edições COP28 e COP29, e sabendo que um mesmo país não poderia sediar os dois eventos, a probabilidade de os países sede dessas duas edições serem da América do Sul é obtido por meio do seguinte cálculo",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{13}{200} \\cdot \\dfrac{12}{199}$" },
+      { "label": "b", "text": "$\\dfrac{13}{200} \\cdot \\dfrac{13}{200}$" },
+      { "label": "c", "text": "$\\dfrac{13}{200} \\cdot \\dfrac{12}{200}$" },
+      { "label": "d", "text": "$\\dfrac{13}{200} \\cdot \\dfrac{13}{199}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2022-q21",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 21,
+    "statement": "Para entender a opinião dos estudantes do IFMA sobre os fatores que influenciam as mudanças climáticas, um professor realizou uma pesquisa com 800 alunos. Os alunos poderiam escolher entre as opções: desmatamento (D), emissão de gases poluentes (E) e poluição das águas (P), podendo escolher mais de uma opção ou nenhuma delas. Foram obtidos os resultados conforme expresso no Quadro 1: D=360, E=250, P=285, D e E=130, D e P=25, E e P=60, D, E e P=10. De acordo com os dados apresentados, o número de alunos entrevistados que não escolheu nenhum dos três fatores indicados na pesquisa foi",
+    "options": [
+      { "label": "a", "text": "110." },
+      { "label": "b", "text": "95." },
+      { "label": "c", "text": "225." },
+      { "label": "d", "text": "320." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2022-q22",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "Um dos caminhos para reduzirmos os impactos da ação humana sobre o clima é a utilização de formas de energias renováveis e limpas, como a energia fotovoltaica. Considere que um painel solar como o apresentado na Figura 2 é capaz de produzir 0,45 kw de energia e que um telhado de formato retangular com dimensões de 16 m de comprimento e 6 m de largura será preenchido com o maior número possível desses painéis, sem cortá-los. Sabendo que os painéis podem ser instalados na horizontal ou na vertical, e que não passarão dos limites do telhado, esse conjunto de painéis no telhado produziria uma quantidade de energia de",
+    "options": [
+      { "label": "a", "text": "21,6 kw." },
+      { "label": "b", "text": "26,1 kw." },
+      { "label": "c", "text": "24,3 kw." },
+      { "label": "d", "text": "25,2 kw." }
+    ],
+    "imagePath": "mat-subsequente-2022/q22.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2022-q23",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 23,
+    "statement": "O lançamento de lixo próximo a um manancial faz com que a quantidade de poluição nesse ecossistema aumente, anualmente, de acordo com a função $p(t) = d.q^t$, com $d > 0$, $q > 0$ e $q \\neq 1$. Nessa função, $d$ representa a quantidade inicial de poluentes no manancial, $q$ é o fator de crescimento e $t$ é o tempo em anos. Nessas condições, a quantidade de anos que será necessário para que a quantidade de poluentes no manancial atinja um valor $X$ pode ser calculado por",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{log\\left(\\frac{X}{d}\\right)}{\\log q}$" },
+      { "label": "b", "text": "$\\dfrac{log\\left(\\frac{d}{X}\\right)}{\\log q}$" },
+      { "label": "c", "text": "$\\dfrac{\\log q}{log\\left(\\frac{X}{d}\\right)}$" },
+      { "label": "d", "text": "$\\dfrac{\\log q}{log\\left(\\frac{d}{X}\\right)}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2022-q24",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 24,
+    "statement": "A Figura 3 apresenta a imagem de um aerogerador cuja torre de sustentação mede 120 m de altura e cada pá da hélice mede 63 m de comprimento. O ponto H gira em torno do eixo central em sentido anti-horário e a função $f$, que descreve a altura do ponto H em relação ao solo, em função do tempo $t$, é representada grafimente (sem escala), conforme mostra a Figura 4. Considerando as informações dadas, a função $f(t)$ que expressa a altura do ponto H (em metros), em relação ao solo, em função do tempo t (em radianos), é",
+    "options": [
+      { "label": "a", "text": "$f(t) = 183 + 120 sen(t)$" },
+      { "label": "b", "text": "$f(t) = 120 + 63 cos(t)$" },
+      { "label": "c", "text": "$f(t) = 120 + 63 sen(t)$" },
+      { "label": "d", "text": "$f(t) = 183 + 120 cos(t)$" }
+    ],
+    "imagePath": "mat-subsequente-2022/q24.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2022-q25",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 25,
+    "statement": "A redução da emissão de gases por veículos automotores movidos a combustíveis fósseis é um dos fatores que pode ajudar os países a atingirem as metas traçadas na COP26. Para fazer sua parte, um estudante passa a fazer seus percursos de bicicleta. No primeiro dia ele percorreu 6 km, no segundo dia percorreu 9 km e foi aumentando seus percursos nos dias seguintes, em progressão aritmética. Sendo assim, ao final do quinto dia o estudante teria percorrido ao todo",
+    "options": [
+      { "label": "a", "text": "54 km." },
+      { "label": "b", "text": "63 km." },
+      { "label": "c", "text": "60 km." },
+      { "label": "d", "text": "57 km." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2022-q26",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 26,
+    "statement": "A Figura 5 apresenta, em perspectiva, uma imagem do prédio da Reitoria do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA). Considerando que o prédio da Reitoria do IFMA seja um paralelepípedo retângulo e que, no encontro de algumas de suas faces, foram traçadas as retas a, b, r, s e t, conforme a Figura 5, então, as retas",
+    "options": [
+      { "label": "a", "text": "a e s são paralelas." },
+      { "label": "b", "text": "b e t são concorrentes." },
+      { "label": "c", "text": "r e s são perpendiculares." },
+      { "label": "d", "text": "r e t são reversas." }
+    ],
+    "imagePath": "mat-subsequente-2022/q26.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2022-q27",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 27,
+    "statement": "Num determinado momento do dia, a variação de temperatura (em °C) em uma cidade é representada pela função $f(t) = -2t^2 + 8t + 4$, com o tempo (t) em horas variando conforme $0 \\leq t \\leq 4$. Nessas condições, a variação máxima de temperatura atingida nesse dia foi de",
+    "options": [
+      { "label": "a", "text": "4°C." },
+      { "label": "b", "text": "8°C." },
+      { "label": "c", "text": "12°C." },
+      { "label": "d", "text": "16°C." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2022-q28",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 28,
+    "statement": "Com a atual crise hídrica que assola muitas regiões do planeta, uma das soluções para o fornecimento de água potável para as populações é a dessalinização de água do mar. Suponha que uma empresa projeta fabricar dessalinizadores portáteis de baixo custo em três modelos para venda: M1, M2 e M3. Para fabricação desses modelos, são utilizados três conjuntos de peças: C1, C2 e C3, com custos e quantidades diferenciados. A matriz $A = \\begin{bmatrix} 100 \\\\ 150 \\\\ 200 \\end{bmatrix}$ apresenta, em reais, o custo de cada conjunto de peças (C1, C2, C3) e a matriz $B = \\begin{bmatrix} 3 & 2 & 2 \\\\ 4 & 3 & 2 \\\\ 5 & 4 & 3 \\end{bmatrix}$ fornece o número de conjuntos de peças necessários para montar cada um dos modelos (M1, M2, M3) que a empresa pretende comercializar. O custo de fabricação de cada um dos modelos de dessalinizadores é representado pela matriz",
+    "options": [
+      { "label": "a", "text": "$\\begin{bmatrix} 1000 \\\\ 1250 \\\\ 1700 \\end{bmatrix}$" },
+      { "label": "b", "text": "$\\begin{bmatrix} 1000 & 1250 & 1700 \\end{bmatrix}$" },
+      { "label": "c", "text": "$\\begin{bmatrix} 1900 \\\\ 1450 \\\\ 1100 \\end{bmatrix}$" },
+      { "label": "d", "text": "$\\begin{bmatrix} 1900 & 1450 & 1100 \\end{bmatrix}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2022-q29",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 29,
+    "statement": "Para aproveitamento de espaço na instalação de usinas de energia fotovoltaicas, algumas instituições têm optado por instalar os painéis solares como cobertura de garagem para automóveis. A Figura 6 apresenta a estrutura de uma garagem onde a parte superior é formada por painéis solares. As colunas A, B e C, assim como o segmento DE, são perpendiculares ao solo e paralelos entre si. Dadas as dimensões apresentadas, o comprimento EF da cobertura da garagem mede",
+    "options": [
+      { "label": "a", "text": "10,0 m." },
+      { "label": "b", "text": "10,5 m." },
+      { "label": "c", "text": "11,0 m." },
+      { "label": "d", "text": "11,5 m." }
+    ],
+    "imagePath": "mat-subsequente-2022/q29.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2022-q30",
+    "examId": "mat-subsequente-2022",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 30,
+    "statement": "As mudanças climáticas que vêm assolando o planeta exigem da humanidade empreender esforços para evitar o desperdício de água potável. Suponha uma caixa d'água com volume de 4000 litros e que uma rachadura nessa caixa faça com que 2% de seu volume vaze a cada hora. Considerando que, no momento em que a rachadura surgiu, a caixa d'água estivesse totalmente cheia e que nenhuma outra quantidade de água tenha sido acrescentada, uma função que representa o volume (V), $V \\geq 0$, em litros, de água nessa caixa por hora (h) é",
+    "options": [
+      { "label": "a", "text": "$V(h) = 4000 - 2h$" },
+      { "label": "b", "text": "$V(h) = 4000.0,98^h$" },
+      { "label": "c", "text": "$V(h) = 4000.0,02^h$" },
+      { "label": "d", "text": "$V(h) = 4000 - 98h$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2022-q16",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "Segundo o Texto 1, o acordo de Paris estabeleceu como grande objetivo internacional limitar o aquecimento do planeta a +1,5°C em comparação com a era pré-industrial. No entanto, os cientistas advertem que, com as medidas atuais, a Terra se encaminha para um aumento de 2,7°C. Em relação à meta do acordo de Paris, o aumento percentual para a previsão dos cientistas é de",
+    "options": [
+      { "label": "a", "text": "70%." },
+      { "label": "b", "text": "80%." },
+      { "label": "c", "text": "60%." },
+      { "label": "d", "text": "50%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2022-q17",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Suponha que a ajuda financeira, para auxiliar os países mais vulneráveis, prevista no Texto 1 em 100 bilhões de dólares, tenha sido reduzida para quatro quintos do valor previsto e que, durante a arrecadação, três quintos da meta atualizada foram arrecadados pelos governos dos países ricos e o restante por entidades privadas. O valor disponibilizado pelas entidades privadas foi de",
+    "options": [
+      { "label": "a", "text": "32 bilhões." },
+      { "label": "b", "text": "48 bilhões." },
+      { "label": "c", "text": "42 bilhões." },
+      { "label": "d", "text": "38 bilhões." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2022-q18",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "Para contribuir com redução de gás metano ($CH_4$), um país sugeriu que fosse estabelecida uma meta de redução em emissões de ($CH_4$) de 20% ao ano, em relação ao ano anterior. Se essa meta for cumprida, as emissões de ($CH_4$) se reduzirão à metade após um período de (Dado $\\log 2 = 0,3$)",
+    "options": [
+      { "label": "a", "text": "3 anos." },
+      { "label": "b", "text": "4 anos." },
+      { "label": "c", "text": "5 anos." },
+      { "label": "d", "text": "6 anos." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2022-q19",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 19,
+    "statement": "Conforme o Texto 1, as organizações da sociedade civil podem participar de reuniões sobre o clima como observadoras. Se numa dessas reuniões participaram dois grupos, sendo um que acredita nas mudanças climáticas e outro que rejeita as teorias de mudança do clima, num total de 300 pessoas e, sabendo que a quantidade de pessoas do grupo das que acredita nas mudanças climáticas corresponde a dois terços da quantidade de pessoas presentes na reunião, o total de pessoas que não acredita nas mudanças e estavam presentes na reunião foi",
+    "options": [
+      { "label": "a", "text": "200." },
+      { "label": "b", "text": "150." },
+      { "label": "c", "text": "100." },
+      { "label": "d", "text": "250." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2022-q20",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 20,
+    "statement": "Um dos grandes responsáveis pela emissão de gás metano no Brasil é o setor de agropecuária. Sabe-se que o gado bovino libera cerca de 60kg de metano por animal a cada ano, e os caprinos 5kg por animal a cada ano. Um pecuarista tinha, inicialmente, 2.000 bois em sua fazenda, enquanto outro pecuarista tinha 120.000 caprinos em sua fazenda. Se o criador de gado bovino continuar comprando o mesmo tipo de animal que tem em sua fazenda, até que a emissão de metano anual de seus animais se equipare à emissão de metano dos animais do criador de caprinos, ele poderá adquirir um total de",
+    "options": [
+      { "label": "a", "text": "9000 bois." },
+      { "label": "b", "text": "8000 bois." },
+      { "label": "c", "text": "10.000 bois." },
+      { "label": "d", "text": "11.000 bois." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2022-q21",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "Desejando medir a altura de uma geleira, um pesquisador observou que ela projetava no solo uma sombra de 150m e que, no mesmo horário a sombra do explorador media 0,85m. Sabendo que o explorador mede 1,70m, a altura de geleira é",
+    "options": [
+      { "label": "a", "text": "200m." },
+      { "label": "b", "text": "250m." },
+      { "label": "c", "text": "350m." },
+      { "label": "d", "text": "300m." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2022-q22",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Algumas projeções indicam que, se nada for feito para frear os efeitos das mudanças climáticas, o nível do mar subirá, no mínimo, 60cm do nível de 2020 até o ano de 2100. Se considerarmos um crescimento constante anual do nível do mar, no período de 2021 a 2100, esse crescimento anual, em milímetros, será de",
+    "options": [
+      { "label": "a", "text": "7,5mm." },
+      { "label": "b", "text": "6,5mm." },
+      { "label": "c", "text": "0,75mm." },
+      { "label": "d", "text": "0,65mm." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2022-q23",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 23,
+    "statement": "A COP26 é a 26ª edição da Conferência das Partes (COP) da convenção-quadro da ONU sobre mudança do clima. O evento ocorre anualmente, mas, no ano de 2020, em razão da pandemia do coronavírus, a COP26 não ocorreu, tendo sido adiada para o ano de 2021. Com base nessas informações a COP1 ocorreu no ano de",
+    "options": [
+      { "label": "a", "text": "1994." },
+      { "label": "b", "text": "1996." },
+      { "label": "c", "text": "1993." },
+      { "label": "d", "text": "1995." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2022-q24",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 24,
+    "statement": "Conforme o Texto 1, no quarto parágrafo, \"[...] além da descarbonização acelerada da economia, está a questão da ajuda financeira, de 100 bilhões de dólares por ano, prometida para 2020 pelos países ricos para as nações desfavorecidas e mais vulneráveis à mudança climática, mas que não foi concretizada\". A representação, em notação científica, dessa ajuda financeira é dada por",
+    "options": [
+      { "label": "a", "text": "$1,0.10^{11}$" },
+      { "label": "b", "text": "$10.10^{10}$" },
+      { "label": "c", "text": "$0,1.10^{11}$" },
+      { "label": "d", "text": "$1,0.10^{10}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2022-q25",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 25,
+    "statement": "Um professor de biologia lançou o tema do aquecimento global para que os alunos pesquisassem sobre os elementos: poluição, queimada e desmatamento, considerados os principais causadores desse problema climático. Para distribuir melhor a pesquisa, o professor dividiu a turma de 35 alunos em três grupos: P(poluição), Q(queimada) e D (desmatamento). Sabendo-se que, no grupo D, havia 5 homens e 3 mulheres, no grupo Q, havia 10 homens e 5 mulheres e, no grupo P, havia 2 homens e 10 mulheres, escolhendo-se, ao acaso, uma pessoa dessa turma, a probabilidade dessa pessoa ser do sexo masculino é, aproximadamente, de",
+    "options": [
+      { "label": "a", "text": "0,51." },
+      { "label": "b", "text": "0,34." },
+      { "label": "c", "text": "0,49." },
+      { "label": "d", "text": "0,29." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2022-q26",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 26,
+    "statement": "Uma pesquisa de opinião foi realizada com um grupo de 120 estudantes de uma escola pública sobre os benefícios do uso da bicicleta para a preservação do meio ambiente. Com base nos dados obtidos do Gráfico 1, é correto afirmar:",
+    "options": [
+      { "label": "a", "text": "somente 12 estudantes optaram pelo benefício mais saúde e qualidade de vida." },
+      { "label": "b", "text": "a soma de todos os percentuais é menor do que 100%." },
+      { "label": "c", "text": "o benefício zero emissão de CO2 corresponde às respostas de 48 estudantes." },
+      { "label": "d", "text": "o menor dos percentuais corresponde às respostas de 24 estudantes." }
+    ],
+    "imagePath": "mat-concomitante-2022/q26.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2022-q27",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 27,
+    "statement": "A Figura 1 mostra as letras da COP26 e suas respectivas medidas. A função quadrática que representa a soma das áreas das regiões sombreadas de cinza de cada letra, em função de $x$, é dada por",
+    "options": [
+      { "label": "a", "text": "$f(x) = 1250 + 495x - 6x^2$" },
+      { "label": "b", "text": "$f(x) = 1250 + 235x - 6x^2$" },
+      { "label": "c", "text": "$f(x) = 1250 + 235x - 4x^2$" },
+      { "label": "d", "text": "$f(x) = 1250 + 495x - 4x^2$" }
+    ],
+    "imagePath": "mat-concomitante-2022/q27.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2022-q28",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 28,
+    "statement": "A Figura 2 mostra as coordenadas A e B, no sistema cartesiano, dos hotéis onde dois amigos que participam da COP26 estão hospedados. A medida do segmento $\\overline{AB}$ em unidades de comprimento é igual a",
+    "options": [
+      { "label": "a", "text": "5." },
+      { "label": "b", "text": "7." },
+      { "label": "c", "text": "25." },
+      { "label": "d", "text": "10." }
+    ],
+    "imagePath": "mat-concomitante-2022/q28.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2022-q29",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 29,
+    "statement": "Pensando em utilizar a energia solar como uma forma de amenizar os impactos ambientais, o senhor João comprou um kit de painéis solares no valor de R$ 50.000,00 parcelados em 12 meses, a juros simples, a taxa de 0,5% ao mês. Ao final do parcelamento, o senhor João pagou de juros o valor de",
+    "options": [
+      { "label": "a", "text": "R$ 1500,00." },
+      { "label": "b", "text": "R$ 3000,00." },
+      { "label": "c", "text": "R$ 2000,00." },
+      { "label": "d", "text": "R$ 4500,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2022-q30",
+    "examId": "mat-concomitante-2022",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 30,
+    "statement": "Um agricultor arrendou seu terreno para uma empresa de energia eólica com o objetivo de melhorar a renda familiar e de contribuir com a preservação do meio ambiente. Supondo que foram instalados quatro aerogeradores na propriedade e que cada aerogerador corresponde a uma renda mensal de R$1.000,00, a lei de formação da função correspondente ao valor recebido pelo proprietário do terreno, ao final de $x$ meses, é dada por",
+    "options": [
+      { "label": "a", "text": "$f(x) = 4000x$" },
+      { "label": "b", "text": "$f(x) = 1000x$" },
+      { "label": "c", "text": "$f(x) = 1000x + 4000$" },
+      { "label": "d", "text": "$f(x) = 4000x + 1000$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2022-q16",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 16,
+    "statement": "Segundo o Texto 1, os países em desenvolvimento precisam de financiamentos a juros baixos para enfrentarem os desafios ambientais. Pensando nesse apoio, um banco de desenvolvimento oferece pacotes de ajuda financeira em bilhões de dólares para ações ambientais nesses países a uma taxa de juros simples anual de 3%. Se uma nação pegar um empréstimo de 10 bilhões, para pagar após cinco anos, o montante a ser pago será",
+    "options": [
+      { "label": "a", "text": "12,5 bilhões." },
+      { "label": "b", "text": "15 bilhões." },
+      { "label": "c", "text": "11,5 bilhões." },
+      { "label": "d", "text": "14 bilhões." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2022-q17",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 17,
+    "statement": "A análise do Gráfico 1 permite afirmar que",
+    "options": [
+      { "label": "a", "text": "os EUA emitem mais dióxido de carbono que todos os demais países listados abaixo dele no gráfico juntos." },
+      { "label": "b", "text": "a China emite menos dióxido de carbono que todos os demais países listados no gráfico juntos." },
+      { "label": "c", "text": "a UE emite três vezes mais dióxido de carbono que o Japão." },
+      { "label": "d", "text": "a Índia emite cinquenta por cento menos dióxido de carbono que a UE." }
+    ],
+    "imagePath": "mat-integrada-2022/q17.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2022-q18",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "Para uma campanha de conscientização sobre as mudanças climáticas, uma ONG confeccionou bottons, feitos com material reciclado, em formato circular, com 4cm de diâmetro. Se 1 cm² do botton tem massa de 1g e foram confeccionados 1.000.000 bottons, a massa total de material reciclado aproveitada na confecção dos bottons, considerando $\\pi = 3$, foi de",
+    "options": [
+      { "label": "a", "text": "36.000 kg." },
+      { "label": "b", "text": "1.200 kg." },
+      { "label": "c", "text": "12.000 kg." },
+      { "label": "d", "text": "3.600 kg." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2022-q19",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 19,
+    "statement": "Para incentivar a discussão sobre o efeito estufa e as mudanças climáticas, um professor produziu uma maquete retratando um ambiente afetado pela poluição. Sabendo que a maquete foi construída em um recipiente em formato de paralelepípedo reto-retângulo, com 1,2m de comprimento, 0,6m de largura e 0,5m de altura, a capacidade da maquete, em litros, é de",
+    "options": [
+      { "label": "a", "text": "720." },
+      { "label": "b", "text": "360." },
+      { "label": "c", "text": "72." },
+      { "label": "d", "text": "36." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2022-q20",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 20,
+    "statement": "Na tentativa de conscientizar a população sobre as mudanças climáticas e a necessidade de um consumo mais sustentável, o governo de um país decidiu veicular uma propaganda nas 3 principais redes de televisão do país. Na primeira rede, a propaganda ocorre a cada 3 horas; na segunda, a cada 4 horas; e, na terceira, a cada 5 horas. Se as propagandas, nas 3 emissoras, foram veiculadas pela primeira vez no mesmo instante, a próxima vez que elas serão transmitidas, concomitantemente, pelas 3 emissoras ocorrerá após",
+    "options": [
+      { "label": "a", "text": "50 horas." },
+      { "label": "b", "text": "30 horas." },
+      { "label": "c", "text": "60 horas." },
+      { "label": "d", "text": "40 horas." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2022-q21",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "Um prêmio de 60 bilhões de dólares será distribuído entre três nações em desenvolvimento que conseguiram reduzir suas emissões de gases do efeito estufa. Sabe-se que a distribuição ocorrerá de forma proporcional ao percentual das emissões que cada nação conseguiu reduzir. A primeira nação conseguiu reduzir as emissões em 50%; a segunda, em 40%; e a terceira, em 30%. O valor recebido pela nação que reduziu as emissões em 40% foi",
+    "options": [
+      { "label": "a", "text": "15 bilhões." },
+      { "label": "b", "text": "25 bilhões." },
+      { "label": "c", "text": "30 bilhões." },
+      { "label": "d", "text": "20 bilhões." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2022-q22",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 22,
+    "statement": "Um grande empresário, preocupado com o aquecimento global, ofereceu a seu país um prêmio de 100 milhões de dólares, caso ele cumprisse a meta de redução de emissão de gases do efeito estufa estabelecida para o ano de 2022, em uma reunião global, sobre mudanças climáticas; e mais 10 milhões de dólares para cada ano subsequente em que o país alcançasse a meta. A função que representa o valor $y$ que esse país poderá arrecadar, após $x$ anos será",
+    "options": [
+      { "label": "a", "text": "$y = 10.000.000x + 100.000.000$" },
+      { "label": "b", "text": "$y = 10.000.000x + 80.000.000$" },
+      { "label": "c", "text": "$y = 110.000.000x$" },
+      { "label": "d", "text": "$y = 80.000.000x$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2022-q23",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "O aumento da temperatura do planeta resulta em mortes causadas por ondas de calor extremas, como a que atingiu a França, em 2019, e matou cerca de $x$ pessoas. Sabe-se que 50% delas, algo em torno de 750 pessoas, tinha mais de 75 anos. A equação do primeiro grau que determina o número $x$ de pessoas mortas é dada por",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{x}{2} - 750 = 0$" },
+      { "label": "b", "text": "$2x - 750 = 0$" },
+      { "label": "c", "text": "$\\dfrac{x}{750} + 2 = 0$" },
+      { "label": "d", "text": "$\\dfrac{x}{5} - 750 = 0$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2022-q24",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "Leia o trecho a seguir, retirado do Texto 1: \"A população global duplicou para 7,8 bilhões. A prosperidade também dobrou, mas cerca de 1,3 bilhão de pessoas continuam na pobreza e 700 milhões passam fome.\" O percentual de pessoas que continua na pobreza, aproximadamente, corresponde a",
+    "options": [
+      { "label": "a", "text": "18%." },
+      { "label": "b", "text": "15%." },
+      { "label": "c", "text": "17%." },
+      { "label": "d", "text": "21%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2022-q25",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 25,
+    "statement": "Considerando o trecho: \"A população global duplicou para 7,8 bilhões. A prosperidade também dobrou, mas cerca de 1,3 bilhão de pessoas continuam na pobreza e 700 milhões passam fome.\" A representação, em notação científica, da quantidade de pessoas que não está na linha de pobreza é dada por",
+    "options": [
+      { "label": "a", "text": "$7,0.10^{11}$" },
+      { "label": "b", "text": "$6,5.10^{9}$" },
+      { "label": "c", "text": "$6,5.10^{10}$" },
+      { "label": "d", "text": "$7,0.10^{9}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2022-q26",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Considerando o trecho: \"A população global duplicou para 7,8 bilhões. A prosperidade também dobrou, mas cerca de 1,3 bilhão de pessoas continuam na pobreza e 700 milhões passam fome.\" A razão entre o total de pessoas que está na pobreza e a população global é de",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{1}{6}$" },
+      { "label": "b", "text": "$\\dfrac{1}{8}$" },
+      { "label": "c", "text": "6" },
+      { "label": "d", "text": "8" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2022-q27",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 27,
+    "statement": "Um professor de Geografia pretende trabalhar os quatro temas extraídos do Texto 1: onda de calor, inundações, secas e poluição. Para escolher com qual dos assuntos iniciaria a sequência de aulas, o professor distribuiu os nomes dos temas em diferentes pedaços de papel, colocou-os em uma urna e, de forma aleatória, retirou um papel. A probabilidade de ter sido retirado o papel com o tema poluição é de",
+    "options": [
+      { "label": "a", "text": "0,33." },
+      { "label": "b", "text": "0,50." },
+      { "label": "c", "text": "0,25." },
+      { "label": "d", "text": "0,41." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2022-q28",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 28,
+    "statement": "De acordo com o Texto 1, nos últimos 50 anos, a população global duplicou, chegando atualmente a um total de 7,8 bilhões de pessoas. Supondo que, a partir de agora, a cada 30 anos, haverá um aumento da população mundial em 1,5 bilhão de pessoas; em 2081, a população global, aproximadamente, será de",
+    "options": [
+      { "label": "a", "text": "8,3 bilhões." },
+      { "label": "b", "text": "13,8 bilhões." },
+      { "label": "c", "text": "15,4 bilhões." },
+      { "label": "d", "text": "10,8 bilhões." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2022-q29",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 29,
+    "statement": "Considere o trecho: \"A Figura 1 mostra uma área de desmatamento na região Amazônica em forma de um triângulo retângulo. Sabe-se que as medidas $\\overline{AB}$ e $\\overline{BC}$ são, respectivamente, 8 e 10 metros.\" A medida, em metros, do segmento $\\overline{AC}$ é",
+    "options": [
+      { "label": "a", "text": "13." },
+      { "label": "b", "text": "9." },
+      { "label": "c", "text": "6." },
+      { "label": "d", "text": "12." }
+    ],
+    "imagePath": "mat-integrada-2022/q29.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2022-q30",
+    "examId": "mat-integrada-2022",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 30,
+    "statement": "Considere o trecho: \"A Figura 1 mostra uma área de desmatamento na região Amazônica em forma de um triângulo retângulo. Sabe-se que as medidas $\\overline{AB}$ e $\\overline{BC}$ são, respectivamente, 8 e 10 metros.\" A área, em $m^2$, da região desmatada é",
+    "options": [
+      { "label": "a", "text": "30." },
+      { "label": "b", "text": "27." },
+      { "label": "c", "text": "40." },
+      { "label": "d", "text": "24." }
+    ],
+    "imagePath": "mat-integrada-2022/q30.png",
+    "correctAnswer": "d"
+  },
+  {
     "id": "mat-subsequente-2020-q21",
     "examId": "mat-subsequente-2020",
     "discipline": "matematica",

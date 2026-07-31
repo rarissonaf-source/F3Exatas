@@ -1,5 +1,29 @@
 [
   {
+    "id": "mat-subsequente-2022",
+    "institution": "IFMA",
+    "year": 2022,
+    "edition": "Subsequente 2022 (Seletivo)",
+    "examType": "especifico",
+    "sourceFile": "Prova-dos-cursos-subsequentes-Seletivo-2022.pdf"
+  },
+  {
+    "id": "mat-concomitante-2022",
+    "institution": "IFMA",
+    "year": 2022,
+    "edition": "Concomitante 2022 (Seletivo)",
+    "examType": "especifico",
+    "sourceFile": "Prova-dos-cursos-concomitantes-Seletivo-2022.pdf"
+  },
+  {
+    "id": "mat-integrada-2022",
+    "institution": "IFMA",
+    "year": 2022,
+    "edition": "Integrada 2022 (Seletivo)",
+    "examType": "especifico",
+    "sourceFile": "Prova-dos-cursos-integrados-Seletivo-2022.pdf"
+  },
+  {
     "id": "mat-subsequente-2020",
     "institution": "IFMA",
     "year": 2020,
