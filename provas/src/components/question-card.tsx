@@ -13,6 +13,7 @@ import {
   Copy,
   Lock,
   Plus,
+  AlertTriangle,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { LatexText } from "@/components/latex-text";
@@ -55,6 +56,7 @@ export function QuestionCard({
 
   const hasGabarito = Boolean(question.correctAnswer);
   const isCorrect = checked && hasGabarito && selected === question.correctAnswer;
+  const isAnnulled = Boolean(question.annulled);
   const imageUrl = question.imagePath
     ? `/content-images/${institution}/${discipline}/${question.imagePath}`
     : null;
@@ -148,17 +150,19 @@ export function QuestionCard({
             <motion.button
               key={opt.label}
               type="button"
-              disabled={checked}
+              disabled={checked || isAnnulled}
               onClick={() => setSelected(opt.label)}
-              whileTap={checked ? undefined : { scale: 0.985 }}
+              whileTap={checked || isAnnulled ? undefined : { scale: 0.985 }}
               className={`flex w-full items-start gap-3 rounded-xl p-4 text-left text-base transition-colors ${
-                isTheCorrectOne
-                  ? "bg-emerald-50 ring-1 ring-emerald-400 dark:bg-emerald-950/40"
-                  : isWrongSelected
-                    ? "bg-red-50 ring-1 ring-red-400 dark:bg-red-950/40"
-                    : isSelected
-                      ? "bg-muted ring-1 ring-foreground/30"
-                      : "bg-muted/60 hover:bg-muted disabled:hover:bg-muted/60"
+                isAnnulled
+                  ? "cursor-not-allowed bg-muted/40 opacity-60"
+                  : isTheCorrectOne
+                    ? "bg-emerald-50 ring-1 ring-emerald-400 dark:bg-emerald-950/40"
+                    : isWrongSelected
+                      ? "bg-red-50 ring-1 ring-red-400 dark:bg-red-950/40"
+                      : isSelected
+                        ? "bg-muted ring-1 ring-foreground/30"
+                        : "bg-muted/60 hover:bg-muted disabled:hover:bg-muted/60"
               }`}
             >
               <span
@@ -179,8 +183,18 @@ export function QuestionCard({
         })}
       </div>
 
+      {isAnnulled && (
+        <div className="mt-4 flex items-start gap-2 rounded-xl bg-amber-50 p-4 text-base font-semibold text-amber-800 dark:bg-amber-950/40 dark:text-amber-400">
+          <AlertTriangle className="mt-0.5 size-5 shrink-0" />
+          <span>
+            Questão anulada pelo gabarito oficial do IFMA. Não há alternativa correta — a questão é exibida
+            apenas para referência.
+          </span>
+        </div>
+      )}
+
       <AnimatePresence>
-        {checked && !hasGabarito && (
+        {checked && !isAnnulled && !hasGabarito && (
           <motion.div
             initial={{ opacity: 0, scale: 0.96 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -191,7 +205,7 @@ export function QuestionCard({
           </motion.div>
         )}
 
-        {checked && hasGabarito && (
+        {checked && !isAnnulled && hasGabarito && (
           <motion.div
             initial={{ opacity: 0, scale: 0.96 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -209,7 +223,7 @@ export function QuestionCard({
         )}
       </AnimatePresence>
 
-      {!checked && (
+      {!checked && !isAnnulled && (
         <Button
           disabled={selected === null}
           onClick={handleVerify}

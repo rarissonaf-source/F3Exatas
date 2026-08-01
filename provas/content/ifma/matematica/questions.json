@@ -1376,6 +1376,22 @@
     "correctAnswer": "d"
   },
   {
+    "id": "mat-integrada-2024-q28",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 28,
+    "statement": "Para empreender, no ramo de Inteligência Artificial, um recém-formado na área de TI (Tecnologia da Informação) pretende adquirir um empréstimo com um amigo. A condição acordada entre eles garantiu um valor de 25 mil reais, valor a ser pago ao final de dois anos, com taxa de juros simples de 1% ao mês. Desse modo, ao final desse tempo, ele terá pago um valor total de",
+    "options": [
+      { "label": "a", "text": "R$ 30.000,00." },
+      { "label": "b", "text": "R$ 31.000,00." },
+      { "label": "c", "text": "R$ 29.000,00." },
+      { "label": "d", "text": "R$ 28.000,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
     "id": "mat-integrada-2024-q29",
     "examId": "mat-integrada-2024",
     "discipline": "matematica",
@@ -3097,6 +3113,23 @@
     "correctAnswer": "d"
   },
   {
+    "id": "mat-integrada-2020-q38",
+    "examId": "mat-integrada-2020",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 38,
+    "statement": "Considere o trapézio isósceles a seguir. Sabe-se as medidas dos ângulos internos são $D\\hat{A}C = 2x - 15°$ e $D\\hat{C}B = 3x + 5°$. Qual a medida do ângulo $A\\hat{B}C$?",
+    "options": [
+      { "label": "a", "text": "61°" },
+      { "label": "b", "text": "63°" },
+      { "label": "c", "text": "65°" },
+      { "label": "d", "text": "59°" },
+      { "label": "e", "text": "57°" }
+    ],
+    "imagePath": "mat-integrada-2020/q38.png",
+    "correctAnswer": "a"
+  },
+  {
     "id": "mat-integrada-2020-q39",
     "examId": "mat-integrada-2020",
     "discipline": "matematica",
@@ -4217,6 +4250,23 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2018-q25",
+    "examId": "mat-integrada-2018",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 25,
+    "statement": "Sejam as expressões, $y = \\sqrt[24]{243}$ e $z = \\sqrt[18]{81}$. Pode-se afirmar que:",
+    "options": [
+      { "label": "a", "text": "$x > z > y$" },
+      { "label": "b", "text": "$x > y > z$" },
+      { "label": "c", "text": "$x = y > z$" },
+      { "label": "d", "text": "$x < y < z$" },
+      { "label": "e", "text": "$x > z = y$" }
+    ],
+    "imagePath": null,
+    "annulled": true
   },
   {
     "id": "mat-integrada-2018-q26",

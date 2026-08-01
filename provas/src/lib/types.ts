@@ -27,6 +27,7 @@ export interface Question {
   options: QuestionOption[];
   imagePath: string | null; // relative to content/<institution>/<discipline>/images
   correctAnswer?: OptionLabel; // only present when a gabarito was available
+  annulled?: boolean; // question was officially annulled by the exam board (no valid alternative); answering is disabled
 }
 
 export interface Topic {
