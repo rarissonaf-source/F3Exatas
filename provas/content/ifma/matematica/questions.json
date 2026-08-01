@@ -1,5 +1,725 @@
 [
   {
+    "id": "mat-subsequente-2026-q16",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "O estado do Maranhão possui os Lençóis Maranhenses, uma área formada por dunas de areia intercaladas por lagoas sazonais. Uma dessas lagoas pode ser aproximada por um setor circular de raio 500 m e ângulo central de 72°. Segundo esses dados, a área dessa lagoa, em m², é",
+    "options": [
+      { "label": "a", "text": "40000 π." },
+      { "label": "b", "text": "25000 π." },
+      { "label": "c", "text": "50000 π." },
+      { "label": "d", "text": "75000 π." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2026-q17",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 17,
+    "statement": "O estado do Maranhão é conhecido por sua vasta costa litorânea e por sua rica biodiversidade marinha, especialmente na região da Baía de São Marcos. Suponha que um pesquisador ambiental está monitorando a população de uma espécie de peixe em uma área específica da baía. Ele descobriu que, em um monitoramento por um período de 20 dias, a população diária de peixes, em milhares de indivíduos, pode ser modelada pela função $y = -x^2 + 20x + 100$, em que x representa o número de dias decorridos desde o início do monitoramento, e y é a população de peixes. A população máxima de peixes atingida durante esse período de 20 dias de observação foi de",
+    "options": [
+      { "label": "a", "text": "225 mil indivíduos." },
+      { "label": "b", "text": "250 mil indivíduos." },
+      { "label": "c", "text": "100 mil indivíduos." },
+      { "label": "d", "text": "200 mil indivíduos." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2026-q18",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 18,
+    "statement": "No estado do Maranhão, a produção de arroz é uma atividade agrícola de grande importância, principalmente na Baixada Maranhense. Uma cooperativa de agricultores observou um padrão crescente na quantidade de sacas de arroz produzidas por dia durante uma semana. Para cada dia, a produção de sacas de arroz triplicou em relação ao dia anterior, conforme a tendência de produção para a primeira parte da semana, registrada no Quadro 01: Segunda-feira: 50 sacas; Terça-feira: 150 sacas; Quarta-feira: 450 sacas. Seguindo essa mesma tendência, a produção de arroz, em sacas, no sábado foi de",
+    "options": [
+      { "label": "a", "text": "12150." },
+      { "label": "b", "text": "4050." },
+      { "label": "c", "text": "16350." },
+      { "label": "d", "text": "1350." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2026-q19",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 19,
+    "statement": "No estado do Maranhão, em uma feira de artesanato e gastronomia, em São Luís, certa barraca oferece dois de seus pratos mais populares: o vatapá e a torta de camarão. Para otimizar as vendas, foram analisados os dados dos 200 clientes que a visitaram no último sábado e chegou-se às seguintes conclusões: 120 clientes compraram vatapá; 80 clientes compraram torta de camarão; 30 clientes compraram os dois pratos. Se um cliente for selecionado ao acaso para uma pesquisa de satisfação, a probabilidade de ele ter comprado vatapá ou torta de camarão é",
+    "options": [
+      { "label": "a", "text": "0,90." },
+      { "label": "b", "text": "0,85." },
+      { "label": "c", "text": "0,75." },
+      { "label": "d", "text": "0,60." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2026-q20",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 20,
+    "statement": "A culinária maranhense é famosa por seus sabores únicos, utilizando ingredientes como o açaí, o pequi e o babaçu. Em uma pequena lanchonete, em Barreirinhas, próxima aos Lençóis Maranhenses, o dono está criando um menu de sucos especiais. Ele tem uma geladeira com 8 tipos de frutas diferentes da região e quer oferecer sucos mistos, utilizando sempre a combinação de 2 ou 3 frutas diferentes por suco. A quantidade de sucos de frutas diferentes que podem ser criados é",
+    "options": [
+      { "label": "a", "text": "84." },
+      { "label": "b", "text": "28." },
+      { "label": "c", "text": "56." },
+      { "label": "d", "text": "96." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2026-q21",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "Um engenheiro civil em São Luís, Maranhão, está projetando um novo cais para o Porto do Itaqui. A área total de uma das seções do cais foi modelada pela expressão $x^2 - 2x + 3$. Para determinar o comprimento de uma das paredes, ele precisa dividir essa área pela largura da parede, que é representada por $x - 5$. Ao realizar o cálculo usando o Dispositivo Prático de Briot-Ruffini, um funcionário esbarrou na mesa, derrubando café e manchando a parte final do resultado (que está representado na Figura 01 pelo retângulo pontilhado), o que impediu a visualização do último número. O valor que o engenheiro precisa encontrar para completar o cálculo e determinar o resto da divisão é",
+    "options": [
+      { "label": "a", "text": "13." },
+      { "label": "b", "text": "21." },
+      { "label": "c", "text": "18." },
+      { "label": "d", "text": "12." }
+    ],
+    "imagePath": "mat-subsequente-2026/q21.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2026-q22",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 22,
+    "statement": "No planejamento urbano de São Luís, no Maranhão, um engenheiro de trânsito está analisando o mapa da cidade para garantir o fluxo de veículos. Para que duas novas avenidas, representadas pelas retas r e s, sejam construídas de forma que sejam paralelas uma a outra, a condição que deve ser satisfeita em relação aos seus coeficientes angulares ou lineares é",
+    "options": [
+      { "label": "a", "text": "Seus coeficientes lineares devem ser opostos." },
+      { "label": "b", "text": "Seus coeficientes angulares devem ser iguais." },
+      { "label": "c", "text": "O produto de seus coeficientes lineares deve ser igual a 1." },
+      { "label": "d", "text": "O produto de seus coeficientes angulares deve ser igual a -1." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2026-q23",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "Imagine que a prefeitura de São Luís está planejando um festival. O custo total para montar o palco e a estrutura de som e iluminação é de R$ 35.000,00. Além disso, o custo para a contratação dos grupos é de R$ 500,00 por grupo. O dinheiro arrecadado será proveniente da venda de ingressos, que custam R$ 20,00 cada. Para que a prefeitura consiga cobrir todos os custos do festival e ainda obter um lucro de R$ 5.000,00, ela precisa atingir uma meta de arrecadação. Considerando que a prefeitura já contratou 20 grupos, o número de ingressos que precisam ser vendidos para atingir a meta de arrecadação desejada é de",
+    "options": [
+      { "label": "a", "text": "2400." },
+      { "label": "b", "text": "2250." },
+      { "label": "c", "text": "2750." },
+      { "label": "d", "text": "2500." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2026-q24",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 24,
+    "statement": "Em uma pesquisa com 150 turistas que visitaram São Luís, a capital do Maranhão, verificou-se que 90 deles foram ao Centro Histórico, e 60 deles visitaram os Lençóis Maranhenses. Sabendo que 20 desses turistas visitaram ambos os locais, a quantidade de turistas que visitaram pelo menos um dos dois pontos turísticos é",
+    "options": [
+      { "label": "a", "text": "150." },
+      { "label": "b", "text": "130." },
+      { "label": "c", "text": "170." },
+      { "label": "d", "text": "110." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2026-q25",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 25,
+    "statement": "Em um dos festejos do Cazumbá, um dos personagens mais marcantes do Bumba Meu Boi do Maranhão, um artesão está construindo um portal em formato de arco parabólico. A altura (y) desse arco, em metros, em relação à sua base horizontal, pode ser descrita pela equação $y = -x^2 + 8x - 12$. A base do arco está localizada sobre o eixo dos x. Para que o portal seja fixado ao chão, o artesão precisa saber a distância exata entre os dois pontos em que o arco toca o solo. Essa distância, em metros, é",
+    "options": [
+      { "label": "a", "text": "6." },
+      { "label": "b", "text": "8." },
+      { "label": "c", "text": "4." },
+      { "label": "d", "text": "2." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2026-q26",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 26,
+    "statement": "Em uma reta são marcados os pontos A, B, C, D e E, em sequência, de tal forma que $AB + CD = 3BC$, $AE = 15$ e $DE = AB$. Se marcado o ponto médio (M) do segmento BE, tem-se que sua distância ao ponto E é 6. O comprimento do segmento MC, em unidades de distância, é igual a",
+    "options": [
+      { "label": "a", "text": "3." },
+      { "label": "b", "text": "4,5." },
+      { "label": "c", "text": "6." },
+      { "label": "d", "text": "1,5." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2026-q27",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 27,
+    "statement": "Sejam $X\\hat{O}Y$ e $Y\\hat{O}Z$ ângulos adjacentes, e sejam OA, OB, OC e OD semirretas bissetrizes, respectivamente, dos ângulos $X\\hat{O}Y$, $Y\\hat{O}Z$, $A\\hat{O}B$ e $X\\hat{O}Z$. A razão entre os ângulos $Y\\hat{O}C$ e $D\\hat{O}C$ é igual a",
+    "options": [
+      { "label": "a", "text": "0." },
+      { "label": "b", "text": "2." },
+      { "label": "c", "text": "1." },
+      { "label": "d", "text": "0,5." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2026-q28",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 28,
+    "statement": "Um atleta da equipe de basquete do IFMA, após sofrer uma falta, terá direito à cobrança de dois lances livres, valendo um ponto cada. Sabendo que ele tem 75% de chance de converter seu arremesso, a probabilidade de ele converter pelo menos um arremesso em seus dois lances livres é igual a",
+    "options": [
+      { "label": "a", "text": "15/16." },
+      { "label": "b", "text": "3/4." },
+      { "label": "c", "text": "3/8." },
+      { "label": "d", "text": "9/16." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2026-q29",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 29,
+    "statement": "Um campus do IFMA contabilizou que, de 350 alunos do curso de Informática, 120 não conheciam a linguagem de programação A nem B; 90 conheciam apenas a linguagem A, e para cada 3 alunos que conheciam apenas B, um conhecia ambas as linguagens. A quantidade de alunos que conheciam ambas as linguagens foi de",
+    "options": [
+      { "label": "a", "text": "105." },
+      { "label": "b", "text": "52." },
+      { "label": "c", "text": "156." },
+      { "label": "d", "text": "35." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2026-q30",
+    "examId": "mat-subsequente-2026",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 30,
+    "statement": "Um filho recebe de seu pai uma mesada de R$ 35,00, normalmente composta por uma nota de 20, uma de 10 e outra de 5 reais. Em uma certa semana, porém, o pai tinha apenas notas de baixo valor, dando ao filho cinco notas de 5 reais e cinco notas de 2 reais. A quantidade de valores distintos, diferentes de zero, que o filho pode obter, ao combinar as notas de baixo valor recebidas, é igual a",
+    "options": [
+      { "label": "a", "text": "30." },
+      { "label": "b", "text": "31." },
+      { "label": "c", "text": "33." },
+      { "label": "d", "text": "35." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2026-q16",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "No Maranhão, para atravessar de barco um trecho do rio Itapecuru, 6 barqueiros conseguem transportar um certo grupo de pessoas em 5 horas. Se apenas 3 barqueiros estiverem disponíveis, eles conseguirão transportar esse mesmo grupo de pessoas em",
+    "options": [
+      { "label": "a", "text": "9 horas." },
+      { "label": "b", "text": "7,5 horas." },
+      { "label": "c", "text": "10 horas." },
+      { "label": "d", "text": "11,5 horas." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2026-q17",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Suponha que, em 2024, o estado do Maranhão investiu R$ 850 milhões em programas sociais e educacionais. Desse total, 40% foram destinados à Educação, 35% à Saúde e o restante às áreas de Cultura e Esporte. Em 2025, o orçamento total aumentou em 20%, mas a distribuição percentual mudou: 45% para Educação, 30% para Saúde e o restante para Cultura e Esporte. O valor aplicado em Educação, em 2025, e o respectivo aumento em relação a 2024 foi de",
+    "options": [
+      { "label": "a", "text": "R$ 459 milhões, aumento de R$ 119 milhões." },
+      { "label": "b", "text": "R$ 360 milhões, aumento de R$ 20 milhões." },
+      { "label": "c", "text": "R$ 468 milhões, aumento de R$ 128 milhões." },
+      { "label": "d", "text": "R$ 510 milhões, aumento de R$ 170 milhões." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2026-q18",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 18,
+    "statement": "Um pescador da cidade de Tutóia–MA pegou um empréstimo de R$ 12.000,00, em uma cooperativa, para reformar sua embarcação. O contrato prevê juros simples de 2% ao mês, com prazo de 5 meses para o pagamento em parcela única no vencimento. O montante total que o pescador deverá pagar ao final do prazo será de",
+    "options": [
+      { "label": "a", "text": "R$ 12.600,00." },
+      { "label": "b", "text": "R$ 12.200,00." },
+      { "label": "c", "text": "R$ 13.500,00." },
+      { "label": "d", "text": "R$ 13.200,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2026-q19",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 19,
+    "statement": "Durante uma feira de artesanato em São Luís–MA, uma banca vende peças feitas de palha, cerâmica e madeira. No estoque do artesão, há: 12 peças de palha; 8 peças de cerâmica; 10 peças de madeira. Se um turista comprar aleatoriamente uma peça, a probabilidade de ela ser de cerâmica é de",
+    "options": [
+      { "label": "a", "text": "2/9." },
+      { "label": "b", "text": "1/3." },
+      { "label": "c", "text": "8/29." },
+      { "label": "d", "text": "4/15." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2026-q20",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 20,
+    "statement": "Em uma viagem de São Luís para Barreirinhas/MA, um grupo de turistas alugou carros e vans. No total, foram alugados 8 veículos, que juntos transportaram 44 passageiros. Sabendo que cada carro comporta 4 pessoas, e cada van comporta 8 pessoas, o produto da quantidade de carros e vans que foram alugados é",
+    "options": [
+      { "label": "a", "text": "12." },
+      { "label": "b", "text": "15." },
+      { "label": "c", "text": "16." },
+      { "label": "d", "text": "8." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2026-q21",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 21,
+    "statement": "Na cidade de São Luís, famosa por seus casarões coloniais, um guia turístico planejou uma rota que passa por duas ruas históricas: a Rua Portugal e a Rua do Giz. A rota completa tem um total de 3,5 km. O guia percebeu que a extensão da Rua Portugal é o dobro da extensão da Rua do Giz, mais 0,5 km. A extensão, em quilômetros, de cada uma dessas ruas é",
+    "options": [
+      { "label": "a", "text": "Rua do Giz: 1,5 km e Rua Portugal: 2,0 km." },
+      { "label": "b", "text": "Rua do Giz: 2,5 km e Rua Portugal: 1,0 km." },
+      { "label": "c", "text": "Rua do Giz: 1,0 km e Rua Portugal: 2,5 km." },
+      { "label": "d", "text": "Rua do Giz: 0,5 km e Rua Portugal: 3,0 km." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2026-q22",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 22,
+    "statement": "Suponha que, na Praça da Matriz, em Alcântara/MA, há duas fontes históricas que jorram água em intervalos regulares. A primeira fonte jorra água a cada 25 minutos, e a segunda, a cada 35 minutos. Se ambas jorraram água ao mesmo tempo, às 10 h 15 min da manhã, elas jorrarão água juntas novamente às",
+    "options": [
+      { "label": "a", "text": "12 h 55 min." },
+      { "label": "b", "text": "13 h 10 min." },
+      { "label": "c", "text": "13 h 15 min." },
+      { "label": "d", "text": "12 h 15 min." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2026-q23",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 23,
+    "statement": "Em 2024, quatro cidades do Maranhão participaram de um programa estadual de incentivo ao turismo sustentável. O número de turistas registrados foi o seguinte: São Luís: 120000 turistas; Barreirinhas: 80000 turistas; Carolina: 60000 turistas; Alcântara: 40000 turistas. No ano seguinte (2025), cada cidade teve aumento de 20% em relação à sua própria quantidade do ano anterior. Com base nesses dados, a média aritmética do número de turistas, em 2025, nessas quatro cidades, será:",
+    "options": [
+      { "label": "a", "text": "75.000." },
+      { "label": "b", "text": "90.000." },
+      { "label": "c", "text": "72.000." },
+      { "label": "d", "text": "120.000." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2026-q24",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 24,
+    "statement": "Na cidade de Barreirinhas, no Maranhão, um engenheiro projetou caixas d'água em formato de blocos retangulares para abastecer uma escola rural. Cada caixa possui 2,5 m de comprimento, 1,8 m de largura e 1,6 m de altura. A escola precisa de 20.000 litros de água por semana. Considerando que 1 m³ = 1.000 litros, o número de caixas d'água completas desse tipo, que são necessárias para suprir a demanda semanal da escola, é",
+    "options": [
+      { "label": "a", "text": "3." },
+      { "label": "b", "text": "2." },
+      { "label": "c", "text": "4." },
+      { "label": "d", "text": "5." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2026-q25",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 25,
+    "statement": "João, servidor público em Imperatriz (MA), tinha, em sua conta bancária, o saldo de R$ 2.450,00. Durante a semana, ele realizou as seguintes operações: recebeu um reembolso de diárias no valor de R$ 1.280,00; pagou o aluguel de sua casa no valor de R$ 1.750,00; comprou passagens de ônibus para São Luís no valor de R$ 360,00; realizou um saque de R$ 500,00; depositou em sua conta o valor de R$ 920,00 referente a uma consultoria. O saldo final de João, em sua conta, após todas essas operações, em reais, é",
+    "options": [
+      { "label": "a", "text": "R$ 2.040,00." },
+      { "label": "b", "text": "R$ 2.950,00." },
+      { "label": "c", "text": "R$ 3.040,00." },
+      { "label": "d", "text": "R$ 4.090,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2026-q26",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Em um levantamento realizado sobre a qualidade alimentar dos estudantes de uma instituição de ensino, observou-se que 90% deles possuem peso inferior a 95kg e que 42 estudantes apresentam peso inferior a 55kg. Se 80% deles possuem peso superior a 55kg, a quantidade de estudantes que apresentam peso superior a 55kg e inferior a 95kg é",
+    "options": [
+      { "label": "a", "text": "168." },
+      { "label": "b", "text": "147." },
+      { "label": "c", "text": "189." },
+      { "label": "d", "text": "231." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2026-q27",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 27,
+    "statement": "A média aritmética da lista de números inteiros 11, 7, a, b, c e 6 é 6,5. Se a, b e c são inteiros consecutivos, a mediana da lista é",
+    "options": [
+      { "label": "a", "text": "6." },
+      { "label": "b", "text": "4,5." },
+      { "label": "c", "text": "5." },
+      { "label": "d", "text": "5,5." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2026-q28",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 28,
+    "statement": "Em um campus do Instituto Federal do Maranhão, a razão entre o número de profissionais professores e o de não professores deve ser sempre maior que 8:15. Sabendo que no campus há 15 professores, o número máximo de profissionais não professores é",
+    "options": [
+      { "label": "a", "text": "7." },
+      { "label": "b", "text": "8." },
+      { "label": "c", "text": "28." },
+      { "label": "d", "text": "29." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2026-q29",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 29,
+    "statement": "Quando se fala em ordem de grandeza da população de uma cidade, a comparação pode ser feita pela quantidade de habitantes em notação científica, isto é, pela escala populacional em que a cidade se encontra. Em termos globais, pode-se classificar as cidades da seguinte forma: cidade pequena: $10^4$ habitantes; cidade média: $10^5$ habitantes; cidade grande: $10^6$ habitantes; megacidade: $10^7$ habitantes. De acordo com o IBGE, em 2022, estimou-se que São Luís tinha uma população de $103,78 \\cdot 10^4$ habitantes. A partir da definição acima, São Luís pode ser classificada como uma",
+    "options": [
+      { "label": "a", "text": "Cidade pequena." },
+      { "label": "b", "text": "Cidade grande." },
+      { "label": "c", "text": "Megacidade." },
+      { "label": "d", "text": "Cidade média." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2026-q30",
+    "examId": "mat-concomitante-2026",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 30,
+    "statement": "Em uma fábrica de peças automotivas, um Técnico acompanha a operação de duas máquinas. Para isso, verifica que a máquina A leva o triplo do tempo do que a máquina B para produzir N peças e, trabalhando juntas, em suas respectivas taxas, as máquinas produzem 6 peças em 3,5 dias. De acordo com sua verificação, constata que a máquina A, para produzir 3 peças, leva uma quantidade de dias equivalente a",
+    "options": [
+      { "label": "a", "text": "3." },
+      { "label": "b", "text": "3,5." },
+      { "label": "c", "text": "7." },
+      { "label": "d", "text": "14." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2026-q16",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "Um grupo de turistas visitou os Lençóis Maranhenses e contratou um guia local, que cobra R$ 180,00 por 6 horas de passeio. Mantendo essa proporção, o valor cobrado por 8 horas e 30 minutos de passeio será de",
+    "options": [
+      { "label": "a", "text": "R$ 230,00." },
+      { "label": "b", "text": "R$ 249,00." },
+      { "label": "c", "text": "R$ 255,00." },
+      { "label": "d", "text": "R$ 264,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2026-q17",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "A produção agrícola do Maranhão, em 2023, foi de 1,2 milhão de toneladas. Em 2024, a produção aumentou 15%. A produção total de 2024, em milhões de toneladas, foi de",
+    "options": [
+      { "label": "a", "text": "1,25." },
+      { "label": "b", "text": "1,38." },
+      { "label": "c", "text": "1,5." },
+      { "label": "d", "text": "1,8." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2026-q18",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 18,
+    "statement": "Um produtor rural de Imperatriz/MA vendeu um total de 300 quilos de frutas em uma feira, sendo apenas mangas e cajus. O preço da manga é de R$ 5,00 por quilo e o do caju é de R$ 3,00 por quilo. Se a arrecadação total foi de R$ 1.200,00, a quantidade de quilos de caju que ele vendeu é de",
+    "options": [
+      { "label": "a", "text": "100." },
+      { "label": "b", "text": "120." },
+      { "label": "c", "text": "150." },
+      { "label": "d", "text": "180." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2026-q19",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 19,
+    "statement": "Um estudante, em Codó/MA, possui 15 livros em sua estante, sendo 5 de Matemática, 7 de Física e 3 de Química. Se ele escolher um livro ao acaso, a probabilidade de o livro ser de Química é",
+    "options": [
+      { "label": "a", "text": "1/3." },
+      { "label": "b", "text": "1/5." },
+      { "label": "c", "text": "1/6." },
+      { "label": "d", "text": "2/3." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2026-q20",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 20,
+    "statement": "Um ciclista de Teresina, no Piauí, planeja pedalar de casa até a cidade de Timon, no Maranhão, que fica a 50 quilômetros de distância. Ele já percorreu 18 km e, para o restante do trajeto, ele quer pedalar a uma velocidade média de 9 km/h. O tempo que ele ainda precisará pedalar para chegar em Timon é",
+    "options": [
+      { "label": "a", "text": "2 h 53 min 23 s." },
+      { "label": "b", "text": "2 h 59 min 00 s." },
+      { "label": "c", "text": "3 h 23 min 15 s." },
+      { "label": "d", "text": "3 h 33 min 20 s." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2026-q21",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 21,
+    "statement": "Um fazendeiro, em Caxias/MA, usa 1/4 de sua terra para plantar milho e 1/2 para plantar feijão. A fração restante da terra é deixada sem plantio. A fração da terra que o fazendeiro deixou sem plantio é",
+    "options": [
+      { "label": "a", "text": "1/2." },
+      { "label": "b", "text": "1/3." },
+      { "label": "c", "text": "1/4." },
+      { "label": "d", "text": "1/5." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2026-q22",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 22,
+    "statement": "Um microempresário de Codó/MA aplicou um capital de R$ 2.000,00 a uma taxa de juros simples de 2% ao mês. O montante após 5 meses será de",
+    "options": [
+      { "label": "a", "text": "R$ 2.040,00." },
+      { "label": "b", "text": "R$ 2.200,00." },
+      { "label": "c", "text": "R$ 2.400,00." },
+      { "label": "d", "text": "R$ 2.500,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2026-q23",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "Uma empresa de turismo do Maranhão oferece pacotes para os Lençóis Maranhenses. O pacote inclui uma taxa fixa de R$ 1.200,00 pelo transporte e R$ 150,00 por turista. Para obter um valor em grupo, a empresa decidiu dividir o valor total igualmente entre todos os turistas, de forma que cada um pagou R$ 250,00. O número de turistas que participaram do passeio foi",
+    "options": [
+      { "label": "a", "text": "10." },
+      { "label": "b", "text": "12." },
+      { "label": "c", "text": "15." },
+      { "label": "d", "text": "17." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2026-q24",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 24,
+    "statement": "Três ônibus partem da rodoviária de São Luís/MA para diferentes cidades. O ônibus A parte a cada 12 minutos, o ônibus B parte a cada 18 minutos e o ônibus C parte a cada 24 minutos. Se eles partiram juntos às 7h30 da manhã, eles partirão juntos novamente às",
+    "options": [
+      { "label": "a", "text": "8h12min." },
+      { "label": "b", "text": "8h22min." },
+      { "label": "c", "text": "8h30min." },
+      { "label": "d", "text": "8h42min." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2026-q25",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 25,
+    "statement": "Na cidade de Alcântara/MA há diversas ladeiras históricas que ligam a parte alta da cidade ao porto, às margens do mar. Um estudante decidiu medir o comprimento de uma dessas ladeiras para utilizá-la em um projeto escolar. Ele verificou que, caminhando, a distância entre o topo da ladeira e o porto é de 130 metros, e a diferença de altura entre o nível do mar e o ponto mais alto da ladeira é de 50 metros. Considerando que a ladeira forma um triângulo retângulo com o solo (horizontal) e a altura (vertical), a distância horizontal do topo da ladeira ao porto é de",
+    "options": [
+      { "label": "a", "text": "125 m." },
+      { "label": "b", "text": "127 m." },
+      { "label": "c", "text": "120 m." },
+      { "label": "d", "text": "135 m." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2026-q26",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 26,
+    "statement": "A tabela mostra os horários locais de chegada e de partida para dois voos que fazem o trajeto entre duas cidades A e B, que possuem fusos horários distintos. Os voos partem e chegam no mesmo dia e têm a mesma duração (ida e volta). Voo 925: partida 10h10 na cidade A, chegada 16h10 na cidade B. Voo 926: chegada na cidade A em horário a determinar, partida 07h15 na cidade B. Se é 18h45 na cidade A quando é 13h45 no mesmo dia na cidade B, o horário de chegada do voo 926 na cidade A é",
+    "options": [
+      { "label": "a", "text": "03h15." },
+      { "label": "b", "text": "08h15." },
+      { "label": "c", "text": "18h15." },
+      { "label": "d", "text": "23h15." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2026-q27",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 27,
+    "statement": "Um audaz estudante, ao conhecer os fundamentos matemáticos por trás dos juros atrelados aos investimentos, decidiu investir V reais em um fundo de ações, cujo retorno foi de 12%. Compreendendo os riscos, decidiu, ainda, diversificar seu portfólio, investindo também F reais em renda fixa com retorno de 7% no mesmo período. Sabendo que o retorno no fundo de ações superou o da renda fixa em R$ 65,40 e que o valor total investido foi de R$ 2.540,00, o valor investido em renda fixa foi de",
+    "options": [
+      { "label": "a", "text": "R$ 936,00." },
+      { "label": "b", "text": "R$ 1.280,00." },
+      { "label": "c", "text": "R$ 1.260,00." },
+      { "label": "d", "text": "R$ 1.604,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2026-q28",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 28,
+    "statement": "Um fabricante de cervejas artesanais maranhense está analisando os custos de produção de seus produtos comercializados em pacotes contendo doze latas e uma embalagem. Para essa análise, cada unidade vendida corresponde a um conjunto formado por doze latas e uma embalagem. Considerando as relações entre custo e quantidade apresentadas nos gráficos a seguir para as latas e para a embalagem, o custo total de produção para 420 unidades é igual a",
+    "options": [
+      { "label": "a", "text": "R$ 1.712,00." },
+      { "label": "b", "text": "R$ 16.616,00." },
+      { "label": "c", "text": "R$ 17.444,00." },
+      { "label": "d", "text": "R$ 165.656,00." }
+    ],
+    "imagePath": "mat-integrada-2026/q28.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2026-q29",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 29,
+    "statement": "Para os jogos internos de um campus, 77 estudantes foram inscritos como jogadores, cada um dos quais participou de exatamente uma das sete modalidades disponíveis durante o torneio. Se a quantidade de estudantes em cada uma das modalidades corresponder a números ímpares consecutivos, a probabilidade de um determinado jogador participar da modalidade com o segundo menor número de estudantes é igual a",
+    "options": [
+      { "label": "a", "text": "1/11." },
+      { "label": "b", "text": "5/11." },
+      { "label": "c", "text": "5/77." },
+      { "label": "d", "text": "15/77." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2026-q30",
+    "examId": "mat-integrada-2026",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 30,
+    "statement": "Na figura ao lado, os triângulos ABC e XYZ são isósceles, e os segmentos AC e BC são, respectivamente, paralelos aos segmentos XZ e YZ. A base e a altura do triângulo ABC são 15cm e 21cm, respectivamente. Se a área pintada é igual a área do triângulo XYZ, então a sua base, XY, é igual a",
+    "options": [
+      { "label": "a", "text": "7,5cm." },
+      { "label": "b", "text": "15cm." },
+      { "label": "c", "text": "$7,5\\sqrt{2}\\ cm$." },
+      { "label": "d", "text": "$10,5\\sqrt{2}\\ cm$." }
+    ],
+    "imagePath": "mat-integrada-2026/q30.png",
+    "correctAnswer": "c"
+  },
+  {
     "id": "mat-subsequente-2024-q16",
     "examId": "mat-subsequente-2024",
     "discipline": "matematica",

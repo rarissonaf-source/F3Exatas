@@ -1,5 +1,29 @@
 [
   {
+    "id": "mat-subsequente-2026",
+    "institution": "IFMA",
+    "year": 2026,
+    "edition": "Subsequente 2026 (Seletivo Unificado)",
+    "examType": "especifico",
+    "sourceFile": "Caderno-de-Prova-Forma-Subsequente.pdf"
+  },
+  {
+    "id": "mat-concomitante-2026",
+    "institution": "IFMA",
+    "year": 2026,
+    "edition": "Concomitante 2026 (Seletivo Unificado)",
+    "examType": "especifico",
+    "sourceFile": "Caderno-de-Prova-Forma-Concomitante.pdf"
+  },
+  {
+    "id": "mat-integrada-2026",
+    "institution": "IFMA",
+    "year": 2026,
+    "edition": "Integrada 2026 (Seletivo Unificado)",
+    "examType": "especifico",
+    "sourceFile": "Caderno-de-Prova-Forma-Integrado.pdf"
+  },
+  {
     "id": "mat-subsequente-2024",
     "institution": "IFMA",
     "year": 2024,
