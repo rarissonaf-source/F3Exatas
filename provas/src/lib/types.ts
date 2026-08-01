@@ -14,7 +14,8 @@ export type OptionLabel = "a" | "b" | "c" | "d" | "e";
 
 export interface QuestionOption {
   label: OptionLabel;
-  text: string; // may contain inline LaTeX wrapped in $...$
+  text: string; // may contain inline LaTeX wrapped in $...$; empty string when imagePath is set
+  imagePath?: string | null; // relative to content/<institution>/<discipline>/images; used when the alternative itself is a graph/figure
 }
 
 export interface Question {

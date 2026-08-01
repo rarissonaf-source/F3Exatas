@@ -117,7 +117,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 23,
-    "statement": "Imagine que a prefeitura de São Luís está planejando um festival. O custo total para montar o palco e a estrutura de som e iluminação é de R$ 35.000,00. Além disso, o custo para a contratação dos grupos é de R$ 500,00 por grupo. O dinheiro arrecadado será proveniente da venda de ingressos, que custam R$ 20,00 cada. Para que a prefeitura consiga cobrir todos os custos do festival e ainda obter um lucro de R$ 5.000,00, ela precisa atingir uma meta de arrecadação. Considerando que a prefeitura já contratou 20 grupos, o número de ingressos que precisam ser vendidos para atingir a meta de arrecadação desejada é de",
+    "statement": "Imagine que a prefeitura de São Luís está planejando um festival. O custo total para montar o palco e a estrutura de som e iluminação é de R\\$ 35.000,00. Além disso, o custo para a contratação dos grupos é de R\\$ 500,00 por grupo. O dinheiro arrecadado será proveniente da venda de ingressos, que custam R\\$ 20,00 cada. Para que a prefeitura consiga cobrir todos os custos do festival e ainda obter um lucro de R\\$ 5.000,00, ela precisa atingir uma meta de arrecadação. Considerando que a prefeitura já contratou 20 grupos, o número de ingressos que precisam ser vendidos para atingir a meta de arrecadação desejada é de",
     "options": [
       { "label": "a", "text": "2400." },
       { "label": "b", "text": "2250." },
@@ -229,7 +229,7 @@
     "discipline": "matematica",
     "topic": "combinatoria",
     "number": 30,
-    "statement": "Um filho recebe de seu pai uma mesada de R$ 35,00, normalmente composta por uma nota de 20, uma de 10 e outra de 5 reais. Em uma certa semana, porém, o pai tinha apenas notas de baixo valor, dando ao filho cinco notas de 5 reais e cinco notas de 2 reais. A quantidade de valores distintos, diferentes de zero, que o filho pode obter, ao combinar as notas de baixo valor recebidas, é igual a",
+    "statement": "Um filho recebe de seu pai uma mesada de R\\$ 35,00, normalmente composta por uma nota de 20, uma de 10 e outra de 5 reais. Em uma certa semana, porém, o pai tinha apenas notas de baixo valor, dando ao filho cinco notas de 5 reais e cinco notas de 2 reais. A quantidade de valores distintos, diferentes de zero, que o filho pode obter, ao combinar as notas de baixo valor recebidas, é igual a",
     "options": [
       { "label": "a", "text": "30." },
       { "label": "b", "text": "31." },
@@ -261,12 +261,12 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 17,
-    "statement": "Suponha que, em 2024, o estado do Maranhão investiu R$ 850 milhões em programas sociais e educacionais. Desse total, 40% foram destinados à Educação, 35% à Saúde e o restante às áreas de Cultura e Esporte. Em 2025, o orçamento total aumentou em 20%, mas a distribuição percentual mudou: 45% para Educação, 30% para Saúde e o restante para Cultura e Esporte. O valor aplicado em Educação, em 2025, e o respectivo aumento em relação a 2024 foi de",
+    "statement": "Suponha que, em 2024, o estado do Maranhão investiu R\\$ 850 milhões em programas sociais e educacionais. Desse total, 40% foram destinados à Educação, 35% à Saúde e o restante às áreas de Cultura e Esporte. Em 2025, o orçamento total aumentou em 20%, mas a distribuição percentual mudou: 45% para Educação, 30% para Saúde e o restante para Cultura e Esporte. O valor aplicado em Educação, em 2025, e o respectivo aumento em relação a 2024 foi de",
     "options": [
-      { "label": "a", "text": "R$ 459 milhões, aumento de R$ 119 milhões." },
-      { "label": "b", "text": "R$ 360 milhões, aumento de R$ 20 milhões." },
-      { "label": "c", "text": "R$ 468 milhões, aumento de R$ 128 milhões." },
-      { "label": "d", "text": "R$ 510 milhões, aumento de R$ 170 milhões." }
+      { "label": "a", "text": "R\\$ 459 milhões, aumento de R\\$ 119 milhões." },
+      { "label": "b", "text": "R\\$ 360 milhões, aumento de R\\$ 20 milhões." },
+      { "label": "c", "text": "R\\$ 468 milhões, aumento de R\\$ 128 milhões." },
+      { "label": "d", "text": "R\\$ 510 milhões, aumento de R\\$ 170 milhões." }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -277,12 +277,12 @@
     "discipline": "matematica",
     "topic": "matematica-financeira",
     "number": 18,
-    "statement": "Um pescador da cidade de Tutóia–MA pegou um empréstimo de R$ 12.000,00, em uma cooperativa, para reformar sua embarcação. O contrato prevê juros simples de 2% ao mês, com prazo de 5 meses para o pagamento em parcela única no vencimento. O montante total que o pescador deverá pagar ao final do prazo será de",
+    "statement": "Um pescador da cidade de Tutóia–MA pegou um empréstimo de R\\$ 12.000,00, em uma cooperativa, para reformar sua embarcação. O contrato prevê juros simples de 2% ao mês, com prazo de 5 meses para o pagamento em parcela única no vencimento. O montante total que o pescador deverá pagar ao final do prazo será de",
     "options": [
-      { "label": "a", "text": "R$ 12.600,00." },
-      { "label": "b", "text": "R$ 12.200,00." },
-      { "label": "c", "text": "R$ 13.500,00." },
-      { "label": "d", "text": "R$ 13.200,00." }
+      { "label": "a", "text": "R\\$ 12.600,00." },
+      { "label": "b", "text": "R\\$ 12.200,00." },
+      { "label": "c", "text": "R\\$ 13.500,00." },
+      { "label": "d", "text": "R\\$ 13.200,00." }
     ],
     "imagePath": null,
     "correctAnswer": "d"
@@ -389,12 +389,12 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 25,
-    "statement": "João, servidor público em Imperatriz (MA), tinha, em sua conta bancária, o saldo de R$ 2.450,00. Durante a semana, ele realizou as seguintes operações: recebeu um reembolso de diárias no valor de R$ 1.280,00; pagou o aluguel de sua casa no valor de R$ 1.750,00; comprou passagens de ônibus para São Luís no valor de R$ 360,00; realizou um saque de R$ 500,00; depositou em sua conta o valor de R$ 920,00 referente a uma consultoria. O saldo final de João, em sua conta, após todas essas operações, em reais, é",
+    "statement": "João, servidor público em Imperatriz (MA), tinha, em sua conta bancária, o saldo de R\\$ 2.450,00. Durante a semana, ele realizou as seguintes operações: recebeu um reembolso de diárias no valor de R\\$ 1.280,00; pagou o aluguel de sua casa no valor de R\\$ 1.750,00; comprou passagens de ônibus para São Luís no valor de R\\$ 360,00; realizou um saque de R\\$ 500,00; depositou em sua conta o valor de R\\$ 920,00 referente a uma consultoria. O saldo final de João, em sua conta, após todas essas operações, em reais, é",
     "options": [
-      { "label": "a", "text": "R$ 2.040,00." },
-      { "label": "b", "text": "R$ 2.950,00." },
-      { "label": "c", "text": "R$ 3.040,00." },
-      { "label": "d", "text": "R$ 4.090,00." }
+      { "label": "a", "text": "R\\$ 2.040,00." },
+      { "label": "b", "text": "R\\$ 2.950,00." },
+      { "label": "c", "text": "R\\$ 3.040,00." },
+      { "label": "d", "text": "R\\$ 4.090,00." }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -485,12 +485,12 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 16,
-    "statement": "Um grupo de turistas visitou os Lençóis Maranhenses e contratou um guia local, que cobra R$ 180,00 por 6 horas de passeio. Mantendo essa proporção, o valor cobrado por 8 horas e 30 minutos de passeio será de",
+    "statement": "Um grupo de turistas visitou os Lençóis Maranhenses e contratou um guia local, que cobra R\\$ 180,00 por 6 horas de passeio. Mantendo essa proporção, o valor cobrado por 8 horas e 30 minutos de passeio será de",
     "options": [
-      { "label": "a", "text": "R$ 230,00." },
-      { "label": "b", "text": "R$ 249,00." },
-      { "label": "c", "text": "R$ 255,00." },
-      { "label": "d", "text": "R$ 264,00." }
+      { "label": "a", "text": "R\\$ 230,00." },
+      { "label": "b", "text": "R\\$ 249,00." },
+      { "label": "c", "text": "R\\$ 255,00." },
+      { "label": "d", "text": "R\\$ 264,00." }
     ],
     "imagePath": null,
     "correctAnswer": "c"
@@ -517,7 +517,7 @@
     "discipline": "matematica",
     "topic": "sistemas-equacoes",
     "number": 18,
-    "statement": "Um produtor rural de Imperatriz/MA vendeu um total de 300 quilos de frutas em uma feira, sendo apenas mangas e cajus. O preço da manga é de R$ 5,00 por quilo e o do caju é de R$ 3,00 por quilo. Se a arrecadação total foi de R$ 1.200,00, a quantidade de quilos de caju que ele vendeu é de",
+    "statement": "Um produtor rural de Imperatriz/MA vendeu um total de 300 quilos de frutas em uma feira, sendo apenas mangas e cajus. O preço da manga é de R\\$ 5,00 por quilo e o do caju é de R\\$ 3,00 por quilo. Se a arrecadação total foi de R\\$ 1.200,00, a quantidade de quilos de caju que ele vendeu é de",
     "options": [
       { "label": "a", "text": "100." },
       { "label": "b", "text": "120." },
@@ -581,12 +581,12 @@
     "discipline": "matematica",
     "topic": "matematica-financeira",
     "number": 22,
-    "statement": "Um microempresário de Codó/MA aplicou um capital de R$ 2.000,00 a uma taxa de juros simples de 2% ao mês. O montante após 5 meses será de",
+    "statement": "Um microempresário de Codó/MA aplicou um capital de R\\$ 2.000,00 a uma taxa de juros simples de 2% ao mês. O montante após 5 meses será de",
     "options": [
-      { "label": "a", "text": "R$ 2.040,00." },
-      { "label": "b", "text": "R$ 2.200,00." },
-      { "label": "c", "text": "R$ 2.400,00." },
-      { "label": "d", "text": "R$ 2.500,00." }
+      { "label": "a", "text": "R\\$ 2.040,00." },
+      { "label": "b", "text": "R\\$ 2.200,00." },
+      { "label": "c", "text": "R\\$ 2.400,00." },
+      { "label": "d", "text": "R\\$ 2.500,00." }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -597,7 +597,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 23,
-    "statement": "Uma empresa de turismo do Maranhão oferece pacotes para os Lençóis Maranhenses. O pacote inclui uma taxa fixa de R$ 1.200,00 pelo transporte e R$ 150,00 por turista. Para obter um valor em grupo, a empresa decidiu dividir o valor total igualmente entre todos os turistas, de forma que cada um pagou R$ 250,00. O número de turistas que participaram do passeio foi",
+    "statement": "Uma empresa de turismo do Maranhão oferece pacotes para os Lençóis Maranhenses. O pacote inclui uma taxa fixa de R\\$ 1.200,00 pelo transporte e R\\$ 150,00 por turista. Para obter um valor em grupo, a empresa decidiu dividir o valor total igualmente entre todos os turistas, de forma que cada um pagou R\\$ 250,00. O número de turistas que participaram do passeio foi",
     "options": [
       { "label": "a", "text": "10." },
       { "label": "b", "text": "12." },
@@ -661,12 +661,12 @@
     "discipline": "matematica",
     "topic": "sistemas-equacoes",
     "number": 27,
-    "statement": "Um audaz estudante, ao conhecer os fundamentos matemáticos por trás dos juros atrelados aos investimentos, decidiu investir V reais em um fundo de ações, cujo retorno foi de 12%. Compreendendo os riscos, decidiu, ainda, diversificar seu portfólio, investindo também F reais em renda fixa com retorno de 7% no mesmo período. Sabendo que o retorno no fundo de ações superou o da renda fixa em R$ 65,40 e que o valor total investido foi de R$ 2.540,00, o valor investido em renda fixa foi de",
+    "statement": "Um audaz estudante, ao conhecer os fundamentos matemáticos por trás dos juros atrelados aos investimentos, decidiu investir V reais em um fundo de ações, cujo retorno foi de 12%. Compreendendo os riscos, decidiu, ainda, diversificar seu portfólio, investindo também F reais em renda fixa com retorno de 7% no mesmo período. Sabendo que o retorno no fundo de ações superou o da renda fixa em R\\$ 65,40 e que o valor total investido foi de R\\$ 2.540,00, o valor investido em renda fixa foi de",
     "options": [
-      { "label": "a", "text": "R$ 936,00." },
-      { "label": "b", "text": "R$ 1.280,00." },
-      { "label": "c", "text": "R$ 1.260,00." },
-      { "label": "d", "text": "R$ 1.604,00." }
+      { "label": "a", "text": "R\\$ 936,00." },
+      { "label": "b", "text": "R\\$ 1.280,00." },
+      { "label": "c", "text": "R\\$ 1.260,00." },
+      { "label": "d", "text": "R\\$ 1.604,00." }
     ],
     "imagePath": null,
     "correctAnswer": "c"
@@ -679,10 +679,10 @@
     "number": 28,
     "statement": "Um fabricante de cervejas artesanais maranhense está analisando os custos de produção de seus produtos comercializados em pacotes contendo doze latas e uma embalagem. Para essa análise, cada unidade vendida corresponde a um conjunto formado por doze latas e uma embalagem. Considerando as relações entre custo e quantidade apresentadas nos gráficos a seguir para as latas e para a embalagem, o custo total de produção para 420 unidades é igual a",
     "options": [
-      { "label": "a", "text": "R$ 1.712,00." },
-      { "label": "b", "text": "R$ 16.616,00." },
-      { "label": "c", "text": "R$ 17.444,00." },
-      { "label": "d", "text": "R$ 165.656,00." }
+      { "label": "a", "text": "R\\$ 1.712,00." },
+      { "label": "b", "text": "R\\$ 16.616,00." },
+      { "label": "c", "text": "R\\$ 17.444,00." },
+      { "label": "d", "text": "R\\$ 165.656,00." }
     ],
     "imagePath": "mat-integrada-2026/q28.png",
     "correctAnswer": "c"
@@ -725,12 +725,12 @@
     "discipline": "matematica",
     "topic": "progressoes",
     "number": 16,
-    "statement": "Um empresário da área tecnológica resolveu investir em pequenas empresas para desenvolverem softwares de Inteligência Artificial (IA). No processo de seleção, foram classificadas quatro empresas diferentes. De acordo com a classificação, para cada empresa, iniciando pela mais bem classificada, ele distribuiu metade dos recursos que possuía e, ao final dessa distribuição, ele ainda tinha R$ 4,1 milhões de reais. Dessa forma, é correto afirmar que o total de recursos que esse empresário reservou inicialmente, em milhões de reais, foi de",
+    "statement": "Um empresário da área tecnológica resolveu investir em pequenas empresas para desenvolverem softwares de Inteligência Artificial (IA). No processo de seleção, foram classificadas quatro empresas diferentes. De acordo com a classificação, para cada empresa, iniciando pela mais bem classificada, ele distribuiu metade dos recursos que possuía e, ao final dessa distribuição, ele ainda tinha R\\$ 4,1 milhões de reais. Dessa forma, é correto afirmar que o total de recursos que esse empresário reservou inicialmente, em milhões de reais, foi de",
     "options": [
-      { "label": "a", "text": "R$ 131,2." },
-      { "label": "b", "text": "R$ 65,6." },
-      { "label": "c", "text": "R$ 32,8." },
-      { "label": "d", "text": "R$ 16,4." }
+      { "label": "a", "text": "R\\$ 131,2." },
+      { "label": "b", "text": "R\\$ 65,6." },
+      { "label": "c", "text": "R\\$ 32,8." },
+      { "label": "d", "text": "R\\$ 16,4." }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -853,7 +853,7 @@
     "discipline": "matematica",
     "topic": "progressoes",
     "number": 24,
-    "statement": "Considere que uma empresa de IA tenha, em 2023, o faturamento de US $ 15 bilhões e nos dois anos seguintes, respectivamente, US $ 18 bilhões e US $ 21 bilhões. Se o crescimento permanecer nessa proporção, a soma total de faturamentos de US $ 168 bilhões será atingida em",
+    "statement": "Considere que uma empresa de IA tenha, em 2023, o faturamento de US \\$ 15 bilhões e nos dois anos seguintes, respectivamente, US \\$ 18 bilhões e US \\$ 21 bilhões. Se o crescimento permanecer nessa proporção, a soma total de faturamentos de US \\$ 168 bilhões será atingida em",
     "options": [
       { "label": "a", "text": "2028." },
       { "label": "b", "text": "2029." },
@@ -951,10 +951,10 @@
     "number": 16,
     "statement": "O Texto 1 cita que 45 milhões de euros equivale a cerca de 242 milhões de reais. Sendo assim, é possível concluir que a cotação do euro em reais, aproximadamente, foi de",
     "options": [
-      { "label": "a", "text": "R$ 5,45." },
-      { "label": "b", "text": "R$ 5,38." },
-      { "label": "c", "text": "R$ 5,81." },
-      { "label": "d", "text": "R$ 5,65." }
+      { "label": "a", "text": "R\\$ 5,45." },
+      { "label": "b", "text": "R\\$ 5,38." },
+      { "label": "c", "text": "R\\$ 5,81." },
+      { "label": "d", "text": "R\\$ 5,65." }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -1173,12 +1173,12 @@
     "discipline": "matematica",
     "topic": "matematica-financeira",
     "number": 30,
-    "statement": "Para a aquisição de um celular com tela configurada para a redução nos danos visuais, uma loja disponibilizou as seguintes condições: à vista, com valor de R$ 5.800,00 ou pagamento ao final de dois anos, com taxa de juros simples de 1% ao mês. Caso a opção seja pelo pagamento ao final de dois anos, o comprador terá pago um valor de",
+    "statement": "Para a aquisição de um celular com tela configurada para a redução nos danos visuais, uma loja disponibilizou as seguintes condições: à vista, com valor de R\\$ 5.800,00 ou pagamento ao final de dois anos, com taxa de juros simples de 1% ao mês. Caso a opção seja pelo pagamento ao final de dois anos, o comprador terá pago um valor de",
     "options": [
-      { "label": "a", "text": "R$ 7.200,00." },
-      { "label": "b", "text": "R$ 7.258,00." },
-      { "label": "c", "text": "R$ 7.136,00." },
-      { "label": "d", "text": "R$ 7.192,00." }
+      { "label": "a", "text": "R\\$ 7.200,00." },
+      { "label": "b", "text": "R\\$ 7.258,00." },
+      { "label": "c", "text": "R\\$ 7.136,00." },
+      { "label": "d", "text": "R\\$ 7.192,00." }
     ],
     "imagePath": null,
     "correctAnswer": "d"
@@ -1205,12 +1205,12 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 17,
-    "statement": "De acordo com o Texto 1, U$ 504 milhões equivale a cerca de R$ 2,61 bilhões. Sendo assim, é possível afirmar que a cotação do dólar, em reais, aproximadamente, foi de",
+    "statement": "De acordo com o Texto 1, U$ 504 milhões equivale a cerca de R\\$ 2,61 bilhões. Sendo assim, é possível afirmar que a cotação do dólar, em reais, aproximadamente, foi de",
     "options": [
-      { "label": "a", "text": "R$ 5,12." },
-      { "label": "b", "text": "R$ 5,24." },
-      { "label": "c", "text": "R$ 5,18." },
-      { "label": "d", "text": "R$ 5,30." }
+      { "label": "a", "text": "R\\$ 5,12." },
+      { "label": "b", "text": "R\\$ 5,24." },
+      { "label": "c", "text": "R\\$ 5,18." },
+      { "label": "d", "text": "R\\$ 5,30." }
     ],
     "imagePath": null,
     "correctAnswer": "c"
@@ -1383,10 +1383,10 @@
     "number": 28,
     "statement": "Para empreender, no ramo de Inteligência Artificial, um recém-formado na área de TI (Tecnologia da Informação) pretende adquirir um empréstimo com um amigo. A condição acordada entre eles garantiu um valor de 25 mil reais, valor a ser pago ao final de dois anos, com taxa de juros simples de 1% ao mês. Desse modo, ao final desse tempo, ele terá pago um valor total de",
     "options": [
-      { "label": "a", "text": "R$ 30.000,00." },
-      { "label": "b", "text": "R$ 31.000,00." },
-      { "label": "c", "text": "R$ 29.000,00." },
-      { "label": "d", "text": "R$ 28.000,00." }
+      { "label": "a", "text": "R\\$ 30.000,00." },
+      { "label": "b", "text": "R\\$ 31.000,00." },
+      { "label": "c", "text": "R\\$ 29.000,00." },
+      { "label": "d", "text": "R\\$ 28.000,00." }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -1877,12 +1877,12 @@
     "discipline": "matematica",
     "topic": "matematica-financeira",
     "number": 29,
-    "statement": "Pensando em utilizar a energia solar como uma forma de amenizar os impactos ambientais, o senhor João comprou um kit de painéis solares no valor de R$ 50.000,00 parcelados em 12 meses, a juros simples, a taxa de 0,5% ao mês. Ao final do parcelamento, o senhor João pagou de juros o valor de",
+    "statement": "Pensando em utilizar a energia solar como uma forma de amenizar os impactos ambientais, o senhor João comprou um kit de painéis solares no valor de R\\$ 50.000,00 parcelados em 12 meses, a juros simples, a taxa de 0,5% ao mês. Ao final do parcelamento, o senhor João pagou de juros o valor de",
     "options": [
-      { "label": "a", "text": "R$ 1500,00." },
-      { "label": "b", "text": "R$ 3000,00." },
-      { "label": "c", "text": "R$ 2000,00." },
-      { "label": "d", "text": "R$ 4500,00." }
+      { "label": "a", "text": "R\\$ 1500,00." },
+      { "label": "b", "text": "R\\$ 3000,00." },
+      { "label": "c", "text": "R\\$ 2000,00." },
+      { "label": "d", "text": "R\\$ 4500,00." }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -1893,7 +1893,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 30,
-    "statement": "Um agricultor arrendou seu terreno para uma empresa de energia eólica com o objetivo de melhorar a renda familiar e de contribuir com a preservação do meio ambiente. Supondo que foram instalados quatro aerogeradores na propriedade e que cada aerogerador corresponde a uma renda mensal de R$1.000,00, a lei de formação da função correspondente ao valor recebido pelo proprietário do terreno, ao final de $x$ meses, é dada por",
+    "statement": "Um agricultor arrendou seu terreno para uma empresa de energia eólica com o objetivo de melhorar a renda familiar e de contribuir com a preservação do meio ambiente. Supondo que foram instalados quatro aerogeradores na propriedade e que cada aerogerador corresponde a uma renda mensal de R\\$1.000,00, a lei de formação da função correspondente ao valor recebido pelo proprietário do terreno, ao final de $x$ meses, é dada por",
     "options": [
       { "label": "a", "text": "$f(x) = 4000x$" },
       { "label": "b", "text": "$f(x) = 1000x$" },
@@ -2863,7 +2863,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 23,
-    "statement": "O valor de uma motocicleta que era vendida por R$16.000,00 sofreu dois aumentos sucessivos de preços, o primeiro de 5% e o segundo de 2%. Pode-se afirmar que esses dois aumentos sofridos pelo valor da motocicleta correspondem a um único aumento de:",
+    "statement": "O valor de uma motocicleta que era vendida por R\\$16.000,00 sofreu dois aumentos sucessivos de preços, o primeiro de 5% e o segundo de 2%. Pode-se afirmar que esses dois aumentos sofridos pelo valor da motocicleta correspondem a um único aumento de:",
     "options": [
       { "label": "a", "text": "7,2%" },
       { "label": "b", "text": "7,1%" },
@@ -2880,7 +2880,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 24,
-    "statement": "Em certo quiosque à beira de uma das belíssimas praias de São Luís, um coco d'água que era vendido por R$ 4,00 passou a ser vendido por R$ 5,50. Em termos percentuais, o aumento foi de:",
+    "statement": "Em certo quiosque à beira de uma das belíssimas praias de São Luís, um coco d'água que era vendido por R\\$ 4,00 passou a ser vendido por R\\$ 5,50. Em termos percentuais, o aumento foi de:",
     "options": [
       { "label": "a", "text": "30%" },
       { "label": "b", "text": "35%" },
@@ -2965,13 +2965,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 29,
-    "statement": "O proprietário de uma loja resolveu dividir R$ 50.000,00 em partes diretamente proporcionais aos números de vendas por dia de cada um dos três vendedores, Aldo, Bia e Carol. Aldo fez 4 vendas por dia, Bia, 7 e Carol, 9. Qual a diferença entre os valores recebidos por Carol e Aldo?",
+    "statement": "O proprietário de uma loja resolveu dividir R\\$ 50.000,00 em partes diretamente proporcionais aos números de vendas por dia de cada um dos três vendedores, Aldo, Bia e Carol. Aldo fez 4 vendas por dia, Bia, 7 e Carol, 9. Qual a diferença entre os valores recebidos por Carol e Aldo?",
     "options": [
-      { "label": "a", "text": "R$ 17.500,00" },
-      { "label": "b", "text": "R$ 12.500,00" },
-      { "label": "c", "text": "R$ 10.000,00" },
-      { "label": "d", "text": "R$ 7.500,00" },
-      { "label": "e", "text": "R$ 8.500,00" }
+      { "label": "a", "text": "R\\$ 17.500,00" },
+      { "label": "b", "text": "R\\$ 12.500,00" },
+      { "label": "c", "text": "R\\$ 10.000,00" },
+      { "label": "d", "text": "R\\$ 7.500,00" },
+      { "label": "e", "text": "R\\$ 8.500,00" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -3594,13 +3594,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 26,
-    "statement": "Dois irmãos, um com 40 anos e outro com 50 anos, ao receberem uma herança, decidiram dividir o valor de maneira diretamente proporcional às suas idades. O irmão mais velho recebeu R$ 7.500,00 a mais que o irmão mais novo. O valor total recebido pelo irmão mais novo foi:",
+    "statement": "Dois irmãos, um com 40 anos e outro com 50 anos, ao receberem uma herança, decidiram dividir o valor de maneira diretamente proporcional às suas idades. O irmão mais velho recebeu R\\$ 7.500,00 a mais que o irmão mais novo. O valor total recebido pelo irmão mais novo foi:",
     "options": [
-      { "label": "a", "text": "R$ 30.000,00" },
-      { "label": "b", "text": "R$ 28.500,00" },
-      { "label": "c", "text": "R$ 75.000,00" },
-      { "label": "d", "text": "R$ 27.500,00" },
-      { "label": "e", "text": "R$ 67.500,00" }
+      { "label": "a", "text": "R\\$ 30.000,00" },
+      { "label": "b", "text": "R\\$ 28.500,00" },
+      { "label": "c", "text": "R\\$ 75.000,00" },
+      { "label": "d", "text": "R\\$ 27.500,00" },
+      { "label": "e", "text": "R\\$ 67.500,00" }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -3628,13 +3628,13 @@
     "discipline": "matematica",
     "topic": "matematica-financeira",
     "number": 28,
-    "statement": "Sabe-se que um carro novo, comprado por R$ 40.000,00, sofre uma desvalorização de 10% ao ano. Qual será o valor desse automóvel daqui a três anos?",
+    "statement": "Sabe-se que um carro novo, comprado por R\\$ 40.000,00, sofre uma desvalorização de 10% ao ano. Qual será o valor desse automóvel daqui a três anos?",
     "options": [
-      { "label": "a", "text": "R$ 26.244,00" },
-      { "label": "b", "text": "R$ 28.000,00" },
-      { "label": "c", "text": "R$ 27.240,00" },
-      { "label": "d", "text": "R$ 29.160,00" },
-      { "label": "e", "text": "R$ 26.000,00" }
+      { "label": "a", "text": "R\\$ 26.244,00" },
+      { "label": "b", "text": "R\\$ 28.000,00" },
+      { "label": "c", "text": "R\\$ 27.240,00" },
+      { "label": "d", "text": "R\\$ 29.160,00" },
+      { "label": "e", "text": "R\\$ 26.000,00" }
     ],
     "imagePath": null,
     "correctAnswer": "d"
@@ -4019,13 +4019,13 @@
     "discipline": "matematica",
     "topic": "sistemas-equacoes",
     "number": 31,
-    "statement": "Dois grupos de turistas, ao chegarem em São Luís, foram passear na Avenida Litorânea. Durante o passeio, em um dos quiosques dessa avenida, um dos grupos pagou R$ 39,50 pelo consumo de 3 cocos verdes e 7 águas minerais, enquanto o outro grupo pagou R$ 47,50 por 6 cocos verdes e 5 águas minerais, no mesmo quiosque. Nessas condições, 1 coco verde e 2 águas minerais custaram:",
+    "statement": "Dois grupos de turistas, ao chegarem em São Luís, foram passear na Avenida Litorânea. Durante o passeio, em um dos quiosques dessa avenida, um dos grupos pagou R\\$ 39,50 pelo consumo de 3 cocos verdes e 7 águas minerais, enquanto o outro grupo pagou R\\$ 47,50 por 6 cocos verdes e 5 águas minerais, no mesmo quiosque. Nessas condições, 1 coco verde e 2 águas minerais custaram:",
     "options": [
-      { "label": "a", "text": "R$ 13,50" },
-      { "label": "b", "text": "R$ 13,00" },
-      { "label": "c", "text": "R$ 12,00" },
-      { "label": "d", "text": "R$ 11,50" },
-      { "label": "e", "text": "R$ 12,50" }
+      { "label": "a", "text": "R\\$ 13,50" },
+      { "label": "b", "text": "R\\$ 13,00" },
+      { "label": "c", "text": "R\\$ 12,00" },
+      { "label": "d", "text": "R\\$ 11,50" },
+      { "label": "e", "text": "R\\$ 12,50" }
     ],
     "imagePath": null,
     "correctAnswer": "c"
@@ -4308,13 +4308,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 28,
-    "statement": "Em certa liquidação \"Torra-Tudo\" em um Shopping de São Luís, as placas indicavam: Tudo com 40% de desconto à vista. O Senhor Geraldo pagou R$ 90,00 à vista por uma camisa nessa liquidação. Qual o valor dessa camisa sem o desconto?",
+    "statement": "Em certa liquidação \"Torra-Tudo\" em um Shopping de São Luís, as placas indicavam: Tudo com 40% de desconto à vista. O Senhor Geraldo pagou R\\$ 90,00 à vista por uma camisa nessa liquidação. Qual o valor dessa camisa sem o desconto?",
     "options": [
-      { "label": "a", "text": "R$ 130,00" },
-      { "label": "b", "text": "R$ 140,00" },
-      { "label": "c", "text": "R$ 150,00" },
-      { "label": "d", "text": "R$ 126,00" },
-      { "label": "e", "text": "R$ 120,00" }
+      { "label": "a", "text": "R\\$ 130,00" },
+      { "label": "b", "text": "R\\$ 140,00" },
+      { "label": "c", "text": "R\\$ 150,00" },
+      { "label": "d", "text": "R\\$ 126,00" },
+      { "label": "e", "text": "R\\$ 120,00" }
     ],
     "imagePath": null,
     "correctAnswer": "c"
@@ -4342,13 +4342,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 30,
-    "statement": "Uma pequena empresa possuía apenas 3 funcionários: Ajax, Bruno e Carlos, com 20, 25 e 30 anos respectivamente, no dia 31 de dezembro de 2016. Naquela data, verificou-se que Ajax tivera 4 faltas, Bruno, 5 e Carlos, 8 faltas durante o ano de 2016. O Senhor Daniel, proprietário da empresa, resolveu premiar esses 3 funcionários com a divisão de um lucro de R$ 11000,00 de modo que a divisão fosse diretamente proporcional às suas idades e inversamente proporcional ao número de faltas de cada um. Quanto recebeu o funcionário Carlos?",
+    "statement": "Uma pequena empresa possuía apenas 3 funcionários: Ajax, Bruno e Carlos, com 20, 25 e 30 anos respectivamente, no dia 31 de dezembro de 2016. Naquela data, verificou-se que Ajax tivera 4 faltas, Bruno, 5 e Carlos, 8 faltas durante o ano de 2016. O Senhor Daniel, proprietário da empresa, resolveu premiar esses 3 funcionários com a divisão de um lucro de R\\$ 11000,00 de modo que a divisão fosse diretamente proporcional às suas idades e inversamente proporcional ao número de faltas de cada um. Quanto recebeu o funcionário Carlos?",
     "options": [
-      { "label": "a", "text": "R$ 3200,00" },
-      { "label": "b", "text": "R$ 3000,00" },
-      { "label": "c", "text": "R$ 3400,00" },
-      { "label": "d", "text": "R$ 3600,00" },
-      { "label": "e", "text": "R$ 4000,00" }
+      { "label": "a", "text": "R\\$ 3200,00" },
+      { "label": "b", "text": "R\\$ 3000,00" },
+      { "label": "c", "text": "R\\$ 3400,00" },
+      { "label": "d", "text": "R\\$ 3600,00" },
+      { "label": "e", "text": "R\\$ 4000,00" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -4835,13 +4835,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 39,
-    "statement": "Uma revendedora de automotivos cobra 30% de entrada mínima para financiamento de seus veículos. Um automóvel que custa R$ 32000,00 nessa revendedora terá entrada mínima de:",
+    "statement": "Uma revendedora de automotivos cobra 30% de entrada mínima para financiamento de seus veículos. Um automóvel que custa R\\$ 32000,00 nessa revendedora terá entrada mínima de:",
     "options": [
-      { "label": "a", "text": "R$ 9600,00" },
-      { "label": "b", "text": "R$ 8400,00" },
-      { "label": "c", "text": "R$ 10800,00" },
-      { "label": "d", "text": "R$ 9400,00" },
-      { "label": "e", "text": "R$ 11.600,00" }
+      { "label": "a", "text": "R\\$ 9600,00" },
+      { "label": "b", "text": "R\\$ 8400,00" },
+      { "label": "c", "text": "R\\$ 10800,00" },
+      { "label": "d", "text": "R\\$ 9400,00" },
+      { "label": "e", "text": "R\\$ 11.600,00" }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -4869,13 +4869,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 21,
-    "statement": "Sabe-se que o número de horas de permanência no estacionamento em um Shopping de São Luís é obtido sempre pelo arredondamento para o primeiro número inteiro imediatamente superior, quando o tempo de permanência do veículo não é um inteiro de horas, isto é, paga-se pela fração de hora o valor correspondente a uma hora. São cobrados R$5,00 pela permanência de um veículo por até 4 horas. A partir daí, são cobrados R$ 3,00 por hora excedente. Qual o valor a ser pago por um cliente que permaneceu com seu veículo por 7 horas e 23 minutos?",
+    "statement": "Sabe-se que o número de horas de permanência no estacionamento em um Shopping de São Luís é obtido sempre pelo arredondamento para o primeiro número inteiro imediatamente superior, quando o tempo de permanência do veículo não é um inteiro de horas, isto é, paga-se pela fração de hora o valor correspondente a uma hora. São cobrados R\\$5,00 pela permanência de um veículo por até 4 horas. A partir daí, são cobrados R\\$ 3,00 por hora excedente. Qual o valor a ser pago por um cliente que permaneceu com seu veículo por 7 horas e 23 minutos?",
     "options": [
-      { "label": "a", "text": "R$14,00" },
-      { "label": "b", "text": "R$20,00" },
-      { "label": "c", "text": "R$19,00" },
-      { "label": "d", "text": "R$17,00" },
-      { "label": "e", "text": "R$24,00" }
+      { "label": "a", "text": "R\\$14,00" },
+      { "label": "b", "text": "R\\$20,00" },
+      { "label": "c", "text": "R\\$19,00" },
+      { "label": "d", "text": "R\\$17,00" },
+      { "label": "e", "text": "R\\$24,00" }
     ],
     "imagePath": null,
     "correctAnswer": "d"
@@ -4886,7 +4886,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 22,
-    "statement": "O custo para se produzir bolinhos de tapioca é R$ 4,00 por unidade mais um valor fixo de R$ 20,00. Sabendo-se que cada bolinho é vendido por R$ 5,00, qual a expressão que representa o lucro $L(x)$ na venda desses bolinhos, sendo x o número de bolinhos vendidos?",
+    "statement": "O custo para se produzir bolinhos de tapioca é R\\$ 4,00 por unidade mais um valor fixo de R\\$ 20,00. Sabendo-se que cada bolinho é vendido por R\\$ 5,00, qual a expressão que representa o lucro $L(x)$ na venda desses bolinhos, sendo x o número de bolinhos vendidos?",
     "options": [
       { "label": "a", "text": "$L(x)=x-20$" },
       { "label": "b", "text": "$L(x)=5x-120$" },
@@ -5243,13 +5243,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 23,
-    "statement": "Uma herança deixada pelo Sr. Joaquim no valor de R$ 36.000,00 será dividida entre os seus quatro filhos em partes diretamente proporcionais às idades deles que são: 3 anos, 5 anos, 10 anos e 22 anos. Quanto receberá o filho mais velho?",
+    "statement": "Uma herança deixada pelo Sr. Joaquim no valor de R\\$ 36.000,00 será dividida entre os seus quatro filhos em partes diretamente proporcionais às idades deles que são: 3 anos, 5 anos, 10 anos e 22 anos. Quanto receberá o filho mais velho?",
     "options": [
-      { "label": "a", "text": "R$18.600,00" },
-      { "label": "b", "text": "R$19.800,00" },
-      { "label": "c", "text": "R$16.200,00" },
-      { "label": "d", "text": "R$16.800,00" },
-      { "label": "e", "text": "R$ 9.000,00" }
+      { "label": "a", "text": "R\\$18.600,00" },
+      { "label": "b", "text": "R\\$19.800,00" },
+      { "label": "c", "text": "R\\$16.200,00" },
+      { "label": "d", "text": "R\\$16.800,00" },
+      { "label": "e", "text": "R\\$ 9.000,00" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -5328,7 +5328,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 28,
-    "statement": "Um grupo de estudantes quer dividir as despesas em uma lanchonete. Sabendo-se que se cada um deles pagar R$ 25,00 faltarão R$80,00, mas se cada um deles pagar R$35,00 sobrarão R$100,00, determine o número de estudantes desse grupo.",
+    "statement": "Um grupo de estudantes quer dividir as despesas em uma lanchonete. Sabendo-se que se cada um deles pagar R\\$ 25,00 faltarão R\\$80,00, mas se cada um deles pagar R\\$35,00 sobrarão R\\$100,00, determine o número de estudantes desse grupo.",
     "options": [
       { "label": "a", "text": "18" },
       { "label": "b", "text": "15" },
@@ -5658,6 +5658,23 @@
       { "label": "c", "text": "$S=\\left\\{\\dfrac{3}{k};\\forall k\\in R\\right\\}$" },
       { "label": "d", "text": "$S=\\{-3k;\\forall k\\in R\\}$" },
       { "label": "e", "text": "$S=\\left\\{\\dfrac{2k}{5};\\forall k\\in R\\right\\}$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2017-q28",
+    "examId": "mat-concomitante-2017",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 28,
+    "statement": "A companhia de telefonia móvel \"Ligue Mais\" dispõe de um plano que consiste em um valor fixo de R\\$ 25,80 por até 40 minutos de ligações para qualquer operadora. A partir daí, cobra mais R\\$1,20 por minuto excedente. Com base nessas informações, qual a representação gráfica mais apropriada para o valor cobrado nesse plano em função de x minutos de ligação para qualquer operadora?",
+    "options": [
+      { "label": "a", "text": "", "imagePath": "mat-concomitante-2017/q28_a.png" },
+      { "label": "b", "text": "", "imagePath": "mat-concomitante-2017/q28_b.png" },
+      { "label": "c", "text": "", "imagePath": "mat-concomitante-2017/q28_c.png" },
+      { "label": "d", "text": "", "imagePath": "mat-concomitante-2017/q28_d.png" },
+      { "label": "e", "text": "", "imagePath": "mat-concomitante-2017/q28_e.png" }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -6229,13 +6246,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 22,
-    "statement": "Um feirante vende meia dúzia de bananas por R$ 2,70. Um freguês pediu oito bananas. O feirante cobrou R$ 4,00. O freguês reclamou, dizendo que o valor a pagar deveria ser proporcional à quantidade de bananas. De acordo com o freguês, o preço das oito bananas deveria ser:",
+    "statement": "Um feirante vende meia dúzia de bananas por R\\$ 2,70. Um freguês pediu oito bananas. O feirante cobrou R\\$ 4,00. O freguês reclamou, dizendo que o valor a pagar deveria ser proporcional à quantidade de bananas. De acordo com o freguês, o preço das oito bananas deveria ser:",
     "options": [
-      { "label": "a", "text": "R$ 3,60" },
-      { "label": "b", "text": "R$ 3,50" },
-      { "label": "c", "text": "R$ 3,80" },
-      { "label": "d", "text": "R$ 3,70" },
-      { "label": "e", "text": "R$ 3,40" }
+      { "label": "a", "text": "R\\$ 3,60" },
+      { "label": "b", "text": "R\\$ 3,50" },
+      { "label": "c", "text": "R\\$ 3,80" },
+      { "label": "d", "text": "R\\$ 3,70" },
+      { "label": "e", "text": "R\\$ 3,40" }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -6263,7 +6280,7 @@
     "discipline": "matematica",
     "topic": "sistemas-equacoes",
     "number": 24,
-    "statement": "Misturando x litros de álcool, que custa R$2,70 por litro, e y litro de gasolina, que custa R$ 3,60 por litro, foram produzidos 54 litros de um combustível cujo preço é R$ 3,00 por litro. O número de litros de álcool que há nessa mistura é:",
+    "statement": "Misturando x litros de álcool, que custa R\\$2,70 por litro, e y litro de gasolina, que custa R\\$ 3,60 por litro, foram produzidos 54 litros de um combustível cujo preço é R\\$ 3,00 por litro. O número de litros de álcool que há nessa mistura é:",
     "options": [
       { "label": "a", "text": "36" },
       { "label": "b", "text": "32" },
@@ -6331,13 +6348,13 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 28,
-    "statement": "Um veículo usado, cujo valor atual é de R$16000,00, desvaloriza-se de tal forma que seu valor daqui a 4 anos será de R$ 11000,00. Supondo que o valor desse veículo diminua linearmente, daqui a 2 anos o valor desse veículo será:",
+    "statement": "Um veículo usado, cujo valor atual é de R\\$16000,00, desvaloriza-se de tal forma que seu valor daqui a 4 anos será de R\\$ 11000,00. Supondo que o valor desse veículo diminua linearmente, daqui a 2 anos o valor desse veículo será:",
     "options": [
-      { "label": "a", "text": "R$ 12750,00" },
-      { "label": "b", "text": "R$ 13750,00" },
-      { "label": "c", "text": "R$ 13500,00" },
-      { "label": "d", "text": "R$ 12500,00" },
-      { "label": "e", "text": "R$ 12250,00" }
+      { "label": "a", "text": "R\\$ 12750,00" },
+      { "label": "b", "text": "R\\$ 13750,00" },
+      { "label": "c", "text": "R\\$ 13500,00" },
+      { "label": "d", "text": "R\\$ 12500,00" },
+      { "label": "e", "text": "R\\$ 12250,00" }
     ],
     "imagePath": null,
     "correctAnswer": "c"
@@ -6348,7 +6365,7 @@
     "discipline": "matematica",
     "topic": "algebra-expressoes",
     "number": 29,
-    "statement": "O dono de uma loja comprou x relógios por R$ 1700,00 e quer vendê-los com lucro de R$ 120,00 em cada um. A expressão que representa o preço de venda de cada relógio, em reais, é:",
+    "statement": "O dono de uma loja comprou x relógios por R\\$ 1700,00 e quer vendê-los com lucro de R\\$ 120,00 em cada um. A expressão que representa o preço de venda de cada relógio, em reais, é:",
     "options": [
       { "label": "a", "text": "$\\dfrac{1700}{x}-120$" },
       { "label": "b", "text": "$-x+170$" },
@@ -6365,7 +6382,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 31,
-    "statement": "O preço de uma coxinha numa lanchonete é R$3,50. Comprando-se x coxinhas paga-se y reais. A expressão matemática que relaciona estas duas grandezas é:",
+    "statement": "O preço de uma coxinha numa lanchonete é R\\$3,50. Comprando-se x coxinhas paga-se y reais. A expressão matemática que relaciona estas duas grandezas é:",
     "options": [
       { "label": "a", "text": "$y=3{,}5x$" },
       { "label": "b", "text": "$y=3{,}5+x$" },
@@ -6484,13 +6501,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 38,
-    "statement": "Um terreno comprado por R$100000,00 valorizou 10% no primeiro ano, 20% no segundo ano e 5% no terceiro ano. Quanto custa o terreno após o terceiro ano?",
+    "statement": "Um terreno comprado por R\\$100000,00 valorizou 10% no primeiro ano, 20% no segundo ano e 5% no terceiro ano. Quanto custa o terreno após o terceiro ano?",
     "options": [
-      { "label": "a", "text": "R$ 130000" },
-      { "label": "b", "text": "R$ 120000" },
-      { "label": "c", "text": "R$ 148000" },
-      { "label": "d", "text": "R$ 138600" },
-      { "label": "e", "text": "R$ 108600" }
+      { "label": "a", "text": "R\\$ 130000" },
+      { "label": "b", "text": "R\\$ 120000" },
+      { "label": "c", "text": "R\\$ 148000" },
+      { "label": "d", "text": "R\\$ 138600" },
+      { "label": "e", "text": "R\\$ 108600" }
     ],
     "imagePath": null,
     "correctAnswer": "d"
@@ -6552,7 +6569,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 22,
-    "statement": "Uma associação decidiu confeccionar bombons caseiros para serem vendidos na páscoa. O gasto com material foi de R$ 75,00 reais e os associados pretendem vender cada bombom por R$3,00 reais. O menor número de bombons que precisou ser vendido para recuperar o valor gasto é:",
+    "statement": "Uma associação decidiu confeccionar bombons caseiros para serem vendidos na páscoa. O gasto com material foi de R\\$ 75,00 reais e os associados pretendem vender cada bombom por R\\$3,00 reais. O menor número de bombons que precisou ser vendido para recuperar o valor gasto é:",
     "options": [
       { "label": "a", "text": "27" },
       { "label": "b", "text": "15" },
@@ -6620,7 +6637,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 26,
-    "statement": "Uma empresa de telecomunicação oferece um serviço de acesso à internet na forma de dois planos para seus assinantes: Plano A - Assinatura mensal de R$7,00, mais R$0,50 cada minuto de conexão durante o mês; Plano B - Assinatura mensal de R$12,00, mais R$0,40 cada minuto de conexão durante o mês. Acima de quantos minutos de conexão por mês é mais econômico optar pelo plano B?",
+    "statement": "Uma empresa de telecomunicação oferece um serviço de acesso à internet na forma de dois planos para seus assinantes: Plano A - Assinatura mensal de R\\$7,00, mais R\\$0,50 cada minuto de conexão durante o mês; Plano B - Assinatura mensal de R\\$12,00, mais R\\$0,40 cada minuto de conexão durante o mês. Acima de quantos minutos de conexão por mês é mais econômico optar pelo plano B?",
     "options": [
       { "label": "a", "text": "100" },
       { "label": "b", "text": "80" },
@@ -6756,7 +6773,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 34,
-    "statement": "Uma vez por mês, um trabalhador vai ao supermercado fazer as compras do mês. Em janeiro ele gastou R$ 480,00. No mês seguinte, ele comprou as mesmas coisas, mas gastou R$ 488,16. Isso indica que, de um mês para outro, houve inflação (aumento de preços). A taxa de inflação para os produtos que esse trabalhador comprou é o \"quanto por cento\" eles aumentaram. Essa taxa de inflação foi de:",
+    "statement": "Uma vez por mês, um trabalhador vai ao supermercado fazer as compras do mês. Em janeiro ele gastou R\\$ 480,00. No mês seguinte, ele comprou as mesmas coisas, mas gastou R\\$ 488,16. Isso indica que, de um mês para outro, houve inflação (aumento de preços). A taxa de inflação para os produtos que esse trabalhador comprou é o \"quanto por cento\" eles aumentaram. Essa taxa de inflação foi de:",
     "options": [
       { "label": "a", "text": "1,6%" },
       { "label": "b", "text": "1,7%" },
@@ -6807,13 +6824,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 37,
-    "statement": "Um veículo novo, cujo valor atual é de R$36000,00, desvaloriza-se de tal forma que seu valor daqui a 4 anos será de R$22000,00. Supondo que seja constante a desvalorização anual, o valor desse veículo daqui a 3 anos será:",
+    "statement": "Um veículo novo, cujo valor atual é de R\\$36000,00, desvaloriza-se de tal forma que seu valor daqui a 4 anos será de R\\$22000,00. Supondo que seja constante a desvalorização anual, o valor desse veículo daqui a 3 anos será:",
     "options": [
-      { "label": "a", "text": "R$24250,00" },
-      { "label": "b", "text": "R$25750,00" },
-      { "label": "c", "text": "R$25500,00" },
-      { "label": "d", "text": "R$23850,00" },
-      { "label": "e", "text": "R$23750,00" }
+      { "label": "a", "text": "R\\$24250,00" },
+      { "label": "b", "text": "R\\$25750,00" },
+      { "label": "c", "text": "R\\$25500,00" },
+      { "label": "d", "text": "R\\$23850,00" },
+      { "label": "e", "text": "R\\$23750,00" }
     ],
     "imagePath": null,
     "correctAnswer": "c"
@@ -6875,13 +6892,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 21,
-    "statement": "Pedro comprou 9 kg de açúcar ao preço de R$1,80 o quilograma, seis pacotes de café ao preço de R$ 3,90 o pacote e 8 kg de arroz ao preço de R$ 2,70 o quilograma. Sabendo-se que ele pagou as compras com uma nota de R$100,00, quanto recebeu de troco?",
+    "statement": "Pedro comprou 9 kg de açúcar ao preço de R\\$1,80 o quilograma, seis pacotes de café ao preço de R\\$ 3,90 o pacote e 8 kg de arroz ao preço de R\\$ 2,70 o quilograma. Sabendo-se que ele pagou as compras com uma nota de R\\$100,00, quanto recebeu de troco?",
     "options": [
-      { "label": "a", "text": "R$ 36,80" },
-      { "label": "b", "text": "R$ 42,80" },
-      { "label": "c", "text": "R$ 38,80" },
-      { "label": "d", "text": "R$ 39,80" },
-      { "label": "e", "text": "R$ 61,20" }
+      { "label": "a", "text": "R\\$ 36,80" },
+      { "label": "b", "text": "R\\$ 42,80" },
+      { "label": "c", "text": "R\\$ 38,80" },
+      { "label": "d", "text": "R\\$ 39,80" },
+      { "label": "e", "text": "R\\$ 61,20" }
     ],
     "imagePath": null,
     "correctAnswer": "c"
@@ -6892,7 +6909,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 22,
-    "statement": "Quero dividir R$ 2200,00 entre Antônio, Beto e Cássia, de modo que Beto receba a metade de Antônio e Cássia receba a terça parte de Beto. Nessas condições, quanto Beto receberá a mais que Cássia?",
+    "statement": "Quero dividir R\\$ 2200,00 entre Antônio, Beto e Cássia, de modo que Beto receba a metade de Antônio e Cássia receba a terça parte de Beto. Nessas condições, quanto Beto receberá a mais que Cássia?",
     "options": [
       { "label": "a", "text": "420" },
       { "label": "b", "text": "450" },
@@ -6943,7 +6960,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 25,
-    "statement": "Uma caixa de chocolate custa R$ 12,00. Outra caixa de mesma qualidade, valores proporcionais ao número de chocolates e com mais 4 chocolates custa R$ 18,00. Quantos chocolates há em cada caixa?",
+    "statement": "Uma caixa de chocolate custa R\\$ 12,00. Outra caixa de mesma qualidade, valores proporcionais ao número de chocolates e com mais 4 chocolates custa R\\$ 18,00. Quantos chocolates há em cada caixa?",
     "options": [
       { "label": "a", "text": "9 e 13" },
       { "label": "b", "text": "7 e 11" },
@@ -6994,13 +7011,13 @@
     "discipline": "matematica",
     "topic": "sistemas-equacoes",
     "number": 28,
-    "statement": "Durante alguns dias Pedrinho guardou algumas moedas. Ao conferi-las ele verificou que tinha um total de 62 moedas. Algumas de R$ 1,00 e outras de R$ 0,50. Considerando que Pedrinho conseguiu juntar R$ 42,00, quantas moedas de cada tipo Pedrinho possui?",
+    "statement": "Durante alguns dias Pedrinho guardou algumas moedas. Ao conferi-las ele verificou que tinha um total de 62 moedas. Algumas de R\\$ 1,00 e outras de R\\$ 0,50. Considerando que Pedrinho conseguiu juntar R\\$ 42,00, quantas moedas de cada tipo Pedrinho possui?",
     "options": [
-      { "label": "a", "text": "22 de R$ 1,00 e 40 de R$ 0,50" },
-      { "label": "b", "text": "14 de R$ 1,00 e 56 de R$ 0,50" },
-      { "label": "c", "text": "36 de R$ 0,50 e 24 de R$ 1,00" },
-      { "label": "d", "text": "42 de R$ 0,50 e 21 de R$ 1,00" },
-      { "label": "e", "text": "40 de R$ 1,00 e 22 de R$ 0,50" }
+      { "label": "a", "text": "22 de R\\$ 1,00 e 40 de R\\$ 0,50" },
+      { "label": "b", "text": "14 de R\\$ 1,00 e 56 de R\\$ 0,50" },
+      { "label": "c", "text": "36 de R\\$ 0,50 e 24 de R\\$ 1,00" },
+      { "label": "d", "text": "42 de R\\$ 0,50 e 21 de R\\$ 1,00" },
+      { "label": "e", "text": "40 de R\\$ 1,00 e 22 de R\\$ 0,50" }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -7164,13 +7181,13 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 38,
-    "statement": "Numa cidade do Maranhão, a prefeitura cobra o imposto predial de um bairro da seguinte forma: Imposto = Área do terreno × (R$4,00) + Perímetro do terreno × (R$3,00), onde a área do terreno é dada em m² e o perímetro do terreno em m. O valor do imposto de um terreno retangular cujos lados são as raízes da equação $k^2-40k+375=0$, em metros, é:",
+    "statement": "Numa cidade do Maranhão, a prefeitura cobra o imposto predial de um bairro da seguinte forma: Imposto = Área do terreno × (R\\$4,00) + Perímetro do terreno × (R\\$3,00), onde a área do terreno é dada em m² e o perímetro do terreno em m. O valor do imposto de um terreno retangular cujos lados são as raízes da equação $k^2-40k+375=0$, em metros, é:",
     "options": [
-      { "label": "a", "text": "R$ 2870,00" },
-      { "label": "b", "text": "R$ 2540,00" },
-      { "label": "c", "text": "R$ 1820,00" },
-      { "label": "d", "text": "R$ 2678,00" },
-      { "label": "e", "text": "R$ 1740,00" }
+      { "label": "a", "text": "R\\$ 2870,00" },
+      { "label": "b", "text": "R\\$ 2540,00" },
+      { "label": "c", "text": "R\\$ 1820,00" },
+      { "label": "d", "text": "R\\$ 2678,00" },
+      { "label": "e", "text": "R\\$ 1740,00" }
     ],
     "imagePath": null,
     "correctAnswer": "e"
@@ -7249,7 +7266,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 23,
-    "statement": "Em um determinado supermercado, um pacote de leite de 500g da marca X, custa R$7,30, enquanto outro pacote de leite de 200g da mesma marca, custa R$ 3,20. Nessas condições, é CORRETO afirmar que:",
+    "statement": "Em um determinado supermercado, um pacote de leite de 500g da marca X, custa R\\$7,30, enquanto outro pacote de leite de 200g da mesma marca, custa R\\$ 3,20. Nessas condições, é CORRETO afirmar que:",
     "options": [
       { "label": "a", "text": "é mais econômico para um cliente comprar 1kg de leite em pacotes de 500g, do que em pacotes de 200g, pois em pacotes de 200g o leite custa, aproximadamente, 9,6% mais caro." },
       { "label": "b", "text": "é mais econômico para um cliente comprar 1kg desse leite em pacotes de 200g, do que em pacotes de 500g, pois assim gastará 8,75% a menos." },
@@ -7368,13 +7385,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 30,
-    "statement": "Uma pizzaria oferece serviços de entrega e cobra por isso uma taxa de R$1,80 mais R$0,70 por quilômetro rodado no trajeto entre o estabelecimento e o local de entrega. O valor da taxa cobrada, caso o local de entrega fosse a 8,5km do estabelecimento, é:",
+    "statement": "Uma pizzaria oferece serviços de entrega e cobra por isso uma taxa de R\\$1,80 mais R\\$0,70 por quilômetro rodado no trajeto entre o estabelecimento e o local de entrega. O valor da taxa cobrada, caso o local de entrega fosse a 8,5km do estabelecimento, é:",
     "options": [
-      { "label": "a", "text": "R$12,30" },
-      { "label": "b", "text": "R$10,45" },
-      { "label": "c", "text": "R$7,75" },
-      { "label": "d", "text": "R$5,95" },
-      { "label": "e", "text": "R$15,30" }
+      { "label": "a", "text": "R\\$12,30" },
+      { "label": "b", "text": "R\\$10,45" },
+      { "label": "c", "text": "R\\$7,75" },
+      { "label": "d", "text": "R\\$5,95" },
+      { "label": "e", "text": "R\\$15,30" }
     ],
     "imagePath": null,
     "correctAnswer": "c"
@@ -7436,13 +7453,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 34,
-    "statement": "Dois amigos, Lucas e Marcos, fundaram uma sociedade: Lucas contribuiu com R$ 4000,00 e Marcos, com R$ 5000,00. No final do investimento, o lucro foi dividido em partes diretamente proporcionais às quantias investidas por cada um deles. Sabendo-se que Marcos recebeu R$6500,00 a mais que Lucas, o lucro total apurado foi de:",
+    "statement": "Dois amigos, Lucas e Marcos, fundaram uma sociedade: Lucas contribuiu com R\\$ 4000,00 e Marcos, com R\\$ 5000,00. No final do investimento, o lucro foi dividido em partes diretamente proporcionais às quantias investidas por cada um deles. Sabendo-se que Marcos recebeu R\\$6500,00 a mais que Lucas, o lucro total apurado foi de:",
     "options": [
-      { "label": "a", "text": "R$ 58 500,00" },
-      { "label": "b", "text": "R$ 56 500,00" },
-      { "label": "c", "text": "R$ 54 500,00" },
-      { "label": "d", "text": "R$ 54 000,00" },
-      { "label": "e", "text": "R$ 55 500,00" }
+      { "label": "a", "text": "R\\$ 58 500,00" },
+      { "label": "b", "text": "R\\$ 56 500,00" },
+      { "label": "c", "text": "R\\$ 54 500,00" },
+      { "label": "d", "text": "R\\$ 54 000,00" },
+      { "label": "e", "text": "R\\$ 55 500,00" }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -7453,13 +7470,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 35,
-    "statement": "Com a chegada da entressafra, período em que não há colheita, o preço do quilograma de cebola sofreu dois aumentos sucessivos de 20% e 30%, passando a custar R$ 5,46. O preço do quilograma de cebola anterior aos acréscimos era de:",
+    "statement": "Com a chegada da entressafra, período em que não há colheita, o preço do quilograma de cebola sofreu dois aumentos sucessivos de 20% e 30%, passando a custar R\\$ 5,46. O preço do quilograma de cebola anterior aos acréscimos era de:",
     "options": [
-      { "label": "a", "text": "R$ 3,20" },
-      { "label": "b", "text": "R$ 3,50" },
-      { "label": "c", "text": "R$ 4,10" },
-      { "label": "d", "text": "R$ 4,00" },
-      { "label": "e", "text": "R$ 4,20" }
+      { "label": "a", "text": "R\\$ 3,20" },
+      { "label": "b", "text": "R\\$ 3,50" },
+      { "label": "c", "text": "R\\$ 4,10" },
+      { "label": "d", "text": "R\\$ 4,00" },
+      { "label": "e", "text": "R\\$ 4,20" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -7487,7 +7504,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 37,
-    "statement": "Os alunos de uma escola de Pindaré-Mirim fretaram, para a sua viagem de formandos, um ônibus com capacidade para 50 pessoas. Cada estudante comprometeu-se a pagar R$250,00, caso o ônibus ficasse com todas as cadeiras ocupadas. No caso de haver uma cadeira vazia, então cada aluno pagaria um adicional de R$ 4,50 por cadeira que ficasse vazia. A fórmula matemática da receita R total pago pelos alunos no frete do ônibus, em função do número x de alunos que irão comparecer é:",
+    "statement": "Os alunos de uma escola de Pindaré-Mirim fretaram, para a sua viagem de formandos, um ônibus com capacidade para 50 pessoas. Cada estudante comprometeu-se a pagar R\\$250,00, caso o ônibus ficasse com todas as cadeiras ocupadas. No caso de haver uma cadeira vazia, então cada aluno pagaria um adicional de R\\$ 4,50 por cadeira que ficasse vazia. A fórmula matemática da receita R total pago pelos alunos no frete do ônibus, em função do número x de alunos que irão comparecer é:",
     "options": [
       { "label": "a", "text": "$R(x)=-4{,}5x^2+475x$" },
       { "label": "b", "text": "$R(x)=45x^2-625x$" },
@@ -7623,13 +7640,13 @@
     "discipline": "matematica",
     "topic": "progressoes",
     "number": 25,
-    "statement": "Paulo foi a uma loja de sua cidade e comprou um ventilador em 8 parcelas, sendo a primeira de R$ 128,00 e o valor de cada parcela, a partir da segunda, equivalente a 50% da parcela anterior. Ao final, quanto Paulo pagou pelo ventilador?",
+    "statement": "Paulo foi a uma loja de sua cidade e comprou um ventilador em 8 parcelas, sendo a primeira de R\\$ 128,00 e o valor de cada parcela, a partir da segunda, equivalente a 50% da parcela anterior. Ao final, quanto Paulo pagou pelo ventilador?",
     "options": [
-      { "label": "a", "text": "R$ 212,50" },
-      { "label": "b", "text": "R$ 255,00" },
-      { "label": "c", "text": "R$ 275,00" },
-      { "label": "d", "text": "R$ 248,00" },
-      { "label": "e", "text": "R$ 265,00" }
+      { "label": "a", "text": "R\\$ 212,50" },
+      { "label": "b", "text": "R\\$ 255,00" },
+      { "label": "c", "text": "R\\$ 275,00" },
+      { "label": "d", "text": "R\\$ 248,00" },
+      { "label": "e", "text": "R\\$ 265,00" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -8014,13 +8031,13 @@
     "discipline": "matematica",
     "topic": "sistemas-equacoes",
     "number": 28,
-    "statement": "Em certo posto de combustível a soma do preço do litro de gasolina com o preço do litro de álcool é de R$ 5,00. Querendo encher completamente o tanque do carro, nesse posto, Chico resolveu colocar 22 litros de álcool e 28 de gasolina, pagando por isso uma quantia de R$ 126,20. Conforme as informações acima, os valores do litro da gasolina e do álcool são, respectivamente:",
+    "statement": "Em certo posto de combustível a soma do preço do litro de gasolina com o preço do litro de álcool é de R\\$ 5,00. Querendo encher completamente o tanque do carro, nesse posto, Chico resolveu colocar 22 litros de álcool e 28 de gasolina, pagando por isso uma quantia de R\\$ 126,20. Conforme as informações acima, os valores do litro da gasolina e do álcool são, respectivamente:",
     "options": [
-      { "label": "a", "text": "R$ 3,30 e R$ 1,70" },
-      { "label": "b", "text": "R$ 2,70 e R$ 2,30" },
-      { "label": "c", "text": "R$ 2,30 e R$ 2,70" },
-      { "label": "d", "text": "R$ 1,30 e R$ 3,70" },
-      { "label": "e", "text": "R$ 2,60 e R$ 2,40" }
+      { "label": "a", "text": "R\\$ 3,30 e R\\$ 1,70" },
+      { "label": "b", "text": "R\\$ 2,70 e R\\$ 2,30" },
+      { "label": "c", "text": "R\\$ 2,30 e R\\$ 2,70" },
+      { "label": "d", "text": "R\\$ 1,30 e R\\$ 3,70" },
+      { "label": "e", "text": "R\\$ 2,60 e R\\$ 2,40" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -8133,13 +8150,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 35,
-    "statement": "Felipe economizou durante 3 meses e foi a uma loja comprar um celular. Após uma conversa com o gerente, ele ganhou um desconto de 8%. Sabendo que Felipe pagou, ao todo, R$ 322,00, qual era o preço original desse celular?",
+    "statement": "Felipe economizou durante 3 meses e foi a uma loja comprar um celular. Após uma conversa com o gerente, ele ganhou um desconto de 8%. Sabendo que Felipe pagou, ao todo, R\\$ 322,00, qual era o preço original desse celular?",
     "options": [
-      { "label": "a", "text": "R$ 300,00" },
-      { "label": "b", "text": "R$ 350,00" },
-      { "label": "c", "text": "R$ 320,00" },
-      { "label": "d", "text": "R$ 400,00" },
-      { "label": "e", "text": "R$ 450,00" }
+      { "label": "a", "text": "R\\$ 300,00" },
+      { "label": "b", "text": "R\\$ 350,00" },
+      { "label": "c", "text": "R\\$ 320,00" },
+      { "label": "d", "text": "R\\$ 400,00" },
+      { "label": "e", "text": "R\\$ 450,00" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -8167,7 +8184,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 37,
-    "statement": "Em certa cidade do Maranhão uma empresa de táxi \"A\", para realizar uma corrida, os taxistas cobram um valor fixo de R$ 6,00 mais R$ 3,00 por cada quilômetro percorrido. Uma outra empresa \"B\", cobra uma quantia fixa de R$ 3,00 mais R$ 4,00 por cada quilômetro rodado. Desejando realizar um deslocamento de 10 km, a empresa que oferece o menor preço é:",
+    "statement": "Em certa cidade do Maranhão uma empresa de táxi \"A\", para realizar uma corrida, os taxistas cobram um valor fixo de R\\$ 6,00 mais R\\$ 3,00 por cada quilômetro percorrido. Uma outra empresa \"B\", cobra uma quantia fixa de R\\$ 3,00 mais R\\$ 4,00 por cada quilômetro rodado. Desejando realizar um deslocamento de 10 km, a empresa que oferece o menor preço é:",
     "options": [
       { "label": "a", "text": "a empresa A, pois cobra 36 reais pela corrida." },
       { "label": "b", "text": "a empresa A, pois cobra 46 reais pela corrida." },
@@ -8262,6 +8279,23 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2014-q23",
+    "examId": "mat-concomitante-2014",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 23,
+    "statement": "Dada a função $f(x) = |x - 2|$, o gráfico que representa f(x) é",
+    "options": [
+      { "label": "a", "text": "", "imagePath": "mat-concomitante-2014/q23_a.png" },
+      { "label": "b", "text": "", "imagePath": "mat-concomitante-2014/q23_b.png" },
+      { "label": "c", "text": "", "imagePath": "mat-concomitante-2014/q23_c.png" },
+      { "label": "d", "text": "", "imagePath": "mat-concomitante-2014/q23_d.png" },
+      { "label": "e", "text": "", "imagePath": "mat-concomitante-2014/q23_e.png" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   },
   {
     "id": "mat-concomitante-2014-q24",
@@ -8371,7 +8405,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 30,
-    "statement": "Gina é enfermeira e vai trabalhar num hospital de sua cidade. O administrador do hospital disse que ela teria duas formas de receber seu salário. Opção A: Ela poderia receber um salário fixo de R$600,00 mais R$30,00 por cada plantão. Opção B: R$ 50,00 por cada plantão trabalhado, sem salário fixo. Quantos plantões mensais, no mínimo, Gina terá que trabalhar para que a opção B seja mais vantajosa que a opção A?",
+    "statement": "Gina é enfermeira e vai trabalhar num hospital de sua cidade. O administrador do hospital disse que ela teria duas formas de receber seu salário. Opção A: Ela poderia receber um salário fixo de R\\$600,00 mais R\\$30,00 por cada plantão. Opção B: R\\$ 50,00 por cada plantão trabalhado, sem salário fixo. Quantos plantões mensais, no mínimo, Gina terá que trabalhar para que a opção B seja mais vantajosa que a opção A?",
     "options": [
       { "label": "a", "text": "37" },
       { "label": "b", "text": "25" },
@@ -8422,7 +8456,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 33,
-    "statement": "Um grupo de torcedores maranhenses fretou um avião com 200 lugares para assistir o jogo do Sampaio Correa contra o Macaé no Rio de Janeiro, jogo válido pelas oitavas do Campeonato Brasileiro da série C. Devendo cada participante pagar R$ 600,00 pelo transporte aéreo, acrescidos de R$20,00 para cada lugar do avião que ficasse vago. Nessas condições, o número de passagens vendidas que torna máxima a quantia arrecadada por esse grupo de torcedores é igual a:",
+    "statement": "Um grupo de torcedores maranhenses fretou um avião com 200 lugares para assistir o jogo do Sampaio Correa contra o Macaé no Rio de Janeiro, jogo válido pelas oitavas do Campeonato Brasileiro da série C. Devendo cada participante pagar R\\$ 600,00 pelo transporte aéreo, acrescidos de R\\$20,00 para cada lugar do avião que ficasse vago. Nessas condições, o número de passagens vendidas que torna máxima a quantia arrecadada por esse grupo de torcedores é igual a:",
     "options": [
       { "label": "a", "text": "125" },
       { "label": "b", "text": "150" },
@@ -8558,7 +8592,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 21,
-    "statement": "A reprografia Copex, para atrair consumidores, faz a seguinte promoção: até 100 cópias, o valor unitário por cópia é de R$ 0,15; a partir de 101 cópias o valor passa para R$ 0,10 por cópia. Se uma pessoa necessitar tirar n cópias, a expressão que representa o gasto, em reais, será:",
+    "statement": "A reprografia Copex, para atrair consumidores, faz a seguinte promoção: até 100 cópias, o valor unitário por cópia é de R\\$ 0,15; a partir de 101 cópias o valor passa para R\\$ 0,10 por cópia. Se uma pessoa necessitar tirar n cópias, a expressão que representa o gasto, em reais, será:",
     "options": [
       { "label": "a", "text": "$\\begin{cases}0{,}15n, & n\\le100\\\\0{,}10n, & n>100\\end{cases}$" },
       { "label": "b", "text": "$\\begin{cases}100, & n\\le100\\\\10+0{,}15n, & n>100\\end{cases}$" },
@@ -8575,7 +8609,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 22,
-    "statement": "Senhor Antônio é um dos feirantes mais conhecidos na cidade de Cidelândia. Ele comprou uma saca de arroz que supostamente tinha 100 kg do produto, pelo valor de R$ 135,00. Na revenda do produto, percebeu que, na saca de arroz, haviam apenas 90 kg do produto. Como ele deseja obter um lucro de R$ 0,50 por quilograma vendido, o preço de venda de cada quilograma deverá ser, em reais:",
+    "statement": "Senhor Antônio é um dos feirantes mais conhecidos na cidade de Cidelândia. Ele comprou uma saca de arroz que supostamente tinha 100 kg do produto, pelo valor de R\\$ 135,00. Na revenda do produto, percebeu que, na saca de arroz, haviam apenas 90 kg do produto. Como ele deseja obter um lucro de R\\$ 0,50 por quilograma vendido, o preço de venda de cada quilograma deverá ser, em reais:",
     "options": [
       { "label": "a", "text": "1,80" },
       { "label": "b", "text": "1,85" },
@@ -8745,13 +8779,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 32,
-    "statement": "Chico e seus dois irmãos, Antonio e Joana, foram fazer compras em um supermercado. Chico, o mais velho, é dentre os irmãos, o que sempre gasta mais, e durante as compras ele gastou R$ 900,00. Antonio gastou 1/3 do que Chico gastou e Joana 2/5 da quantidade a qual Antonio gastou. Juntos os três gastaram:",
+    "statement": "Chico e seus dois irmãos, Antonio e Joana, foram fazer compras em um supermercado. Chico, o mais velho, é dentre os irmãos, o que sempre gasta mais, e durante as compras ele gastou R\\$ 900,00. Antonio gastou 1/3 do que Chico gastou e Joana 2/5 da quantidade a qual Antonio gastou. Juntos os três gastaram:",
     "options": [
-      { "label": "a", "text": "R$ 300,00" },
-      { "label": "b", "text": "R$ 420,00" },
-      { "label": "c", "text": "R$ 1200,00" },
-      { "label": "d", "text": "R$ 1320,00" },
-      { "label": "e", "text": "R$ 1220,00" }
+      { "label": "a", "text": "R\\$ 300,00" },
+      { "label": "b", "text": "R\\$ 420,00" },
+      { "label": "c", "text": "R\\$ 1200,00" },
+      { "label": "d", "text": "R\\$ 1320,00" },
+      { "label": "e", "text": "R\\$ 1220,00" }
     ],
     "imagePath": null,
     "correctAnswer": "d"
@@ -8915,13 +8949,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 22,
-    "statement": "Ane alugou um carro em uma locadora que cobra R$ 22,10 por dia pelo aluguel do mesmo, além disso, cobra também, uma taxa fixa de R$ 30,00. Quanto Ane gastou, tendo alugado o carro por 21 dias?",
+    "statement": "Ane alugou um carro em uma locadora que cobra R\\$ 22,10 por dia pelo aluguel do mesmo, além disso, cobra também, uma taxa fixa de R\\$ 30,00. Quanto Ane gastou, tendo alugado o carro por 21 dias?",
     "options": [
-      { "label": "a", "text": "R$ 494,00" },
-      { "label": "b", "text": "R$ 494,10" },
-      { "label": "c", "text": "R$ 424,00" },
-      { "label": "d", "text": "R$ 400,00" },
-      { "label": "e", "text": "R$ 250,00" }
+      { "label": "a", "text": "R\\$ 494,00" },
+      { "label": "b", "text": "R\\$ 494,10" },
+      { "label": "c", "text": "R\\$ 424,00" },
+      { "label": "d", "text": "R\\$ 400,00" },
+      { "label": "e", "text": "R\\$ 250,00" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -9017,7 +9051,7 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 28,
-    "statement": "O saldo bancário de Luiz era de R$ 600,00. Ele depositou R$ 500,00 e pagou suas despesas de aluguel e alimentação com dois cheques, um no valor de R$ 700,00 e o outro de R$ 450,00, respectivamente. Quanto será o saldo de Luiz depois do depósito e do pagamento dos cheques, em reais (R$)?",
+    "statement": "O saldo bancário de Luiz era de R\\$ 600,00. Ele depositou R\\$ 500,00 e pagou suas despesas de aluguel e alimentação com dois cheques, um no valor de R\\$ 700,00 e o outro de R\\$ 450,00, respectivamente. Quanto será o saldo de Luiz depois do depósito e do pagamento dos cheques, em reais (R\\$)?",
     "options": [
       { "label": "a", "text": "0" },
       { "label": "b", "text": "$-150,00$" },
@@ -9087,11 +9121,11 @@
     "number": 32,
     "statement": "Um vendedor recebe uma comissão pela quantidade de produtos vendidos. O valor da comissão recebida pelas vendas é calculada pela expressão $\\left(\\dfrac{p^2+40}{2p}\\right)$ reais, em que p é a quantidade de produtos vendidos. De quanto será a comissão desse vendedor, se ele vender 200 produtos?",
     "options": [
-      { "label": "a", "text": "R$ 200,00" },
-      { "label": "b", "text": "R$ 100,10" },
-      { "label": "c", "text": "R$ 200,20" },
-      { "label": "d", "text": "R$ 101,00" },
-      { "label": "e", "text": "R$ 251,00" }
+      { "label": "a", "text": "R\\$ 200,00" },
+      { "label": "b", "text": "R\\$ 100,10" },
+      { "label": "c", "text": "R\\$ 200,20" },
+      { "label": "d", "text": "R\\$ 101,00" },
+      { "label": "e", "text": "R\\$ 251,00" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -9153,13 +9187,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 36,
-    "statement": "Para montar uma empresa, Mariana, Ricardo e Lucas formaram uma sociedade. Mariana entrou com R$ 8.000,00, Ricardo com R$ 9.000,00 e Lucas com R$ 10.000,00. Depois de 1 ano, a empresa obteve um lucro de R$ 10.800,00, que foi dividido entre os sócios em partes diretamente proporcionais à quantia que cada um investiu. Qual foi a parte que coube a Mariana?",
+    "statement": "Para montar uma empresa, Mariana, Ricardo e Lucas formaram uma sociedade. Mariana entrou com R\\$ 8.000,00, Ricardo com R\\$ 9.000,00 e Lucas com R\\$ 10.000,00. Depois de 1 ano, a empresa obteve um lucro de R\\$ 10.800,00, que foi dividido entre os sócios em partes diretamente proporcionais à quantia que cada um investiu. Qual foi a parte que coube a Mariana?",
     "options": [
-      { "label": "a", "text": "R$ 3.600,00" },
-      { "label": "b", "text": "R$ 3.000,00" },
-      { "label": "c", "text": "R$ 4.000,00" },
-      { "label": "d", "text": "R$ 4.200,00" },
-      { "label": "e", "text": "R$ 3.200,00" }
+      { "label": "a", "text": "R\\$ 3.600,00" },
+      { "label": "b", "text": "R\\$ 3.000,00" },
+      { "label": "c", "text": "R\\$ 4.000,00" },
+      { "label": "d", "text": "R\\$ 4.200,00" },
+      { "label": "e", "text": "R\\$ 3.200,00" }
     ],
     "imagePath": null,
     "correctAnswer": "e"
@@ -9170,13 +9204,13 @@
     "discipline": "matematica",
     "topic": "geometria-plana",
     "number": 37,
-    "statement": "João quer vender um terreno mostrado na figura abaixo e colocou a seguinte placa: \"Vende-se este terreno a R$ 120,00/m²\". O valor total, em reais (R$), do terreno é:",
+    "statement": "João quer vender um terreno mostrado na figura abaixo e colocou a seguinte placa: \"Vende-se este terreno a R\\$ 120,00/m²\". O valor total, em reais (R\\$), do terreno é:",
     "options": [
-      { "label": "a", "text": "R$ 9.720,00" },
-      { "label": "b", "text": "R$ 6.820,00" },
-      { "label": "c", "text": "R$ 7.320,00" },
-      { "label": "d", "text": "R$ 7.920,00" },
-      { "label": "e", "text": "R$ 6.920,00" }
+      { "label": "a", "text": "R\\$ 9.720,00" },
+      { "label": "b", "text": "R\\$ 6.820,00" },
+      { "label": "c", "text": "R\\$ 7.320,00" },
+      { "label": "d", "text": "R\\$ 7.920,00" },
+      { "label": "e", "text": "R\\$ 6.920,00" }
     ],
     "imagePath": "mat-integrada-2013/q37.png",
     "correctAnswer": "c"
@@ -9187,13 +9221,13 @@
     "discipline": "matematica",
     "topic": "sistemas-equacoes",
     "number": 38,
-    "statement": "Sr. Luiz saiu para comprar um fogão, uma geladeira e uma máquina de lavar e encontrou a seguinte promoção numa loja de departamentos: A geladeira e o fogão custam juntos R$ 1.600,00; O fogão e a máquina de lavar custam juntos R$ 1.200,00; A geladeira e máquina de lavar custam juntas R$ 2.000,00. Quanto o Sr. Luiz pagará pelos três produtos?",
+    "statement": "Sr. Luiz saiu para comprar um fogão, uma geladeira e uma máquina de lavar e encontrou a seguinte promoção numa loja de departamentos: A geladeira e o fogão custam juntos R\\$ 1.600,00; O fogão e a máquina de lavar custam juntos R\\$ 1.200,00; A geladeira e máquina de lavar custam juntas R\\$ 2.000,00. Quanto o Sr. Luiz pagará pelos três produtos?",
     "options": [
-      { "label": "a", "text": "R$ 2.800,00" },
-      { "label": "b", "text": "R$ 2.600,00" },
-      { "label": "c", "text": "R$ 3.200,00" },
-      { "label": "d", "text": "R$ 3.000,00" },
-      { "label": "e", "text": "R$ 2.400,00" }
+      { "label": "a", "text": "R\\$ 2.800,00" },
+      { "label": "b", "text": "R\\$ 2.600,00" },
+      { "label": "c", "text": "R\\$ 3.200,00" },
+      { "label": "d", "text": "R\\$ 3.000,00" },
+      { "label": "e", "text": "R\\$ 2.400,00" }
     ],
     "imagePath": null,
     "correctAnswer": "e"
@@ -9255,7 +9289,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 22,
-    "statement": "A empresa de telefonia \"PIM\" oferece um plano em que o usuário paga R$ 25,00 por mês, mais R$ 0,05 por minuto de ligação. Já a concorrente \"EI\" oferece um plano em que paga-se R$ 10,00 por mês, mais R$ 0,20 por minuto de ligação. Carina concluiu que o plano da \"EI\" era mais econômico para ela. Isto significa que ela pretende falar mensalmente, no máximo:",
+    "statement": "A empresa de telefonia \"PIM\" oferece um plano em que o usuário paga R\\$ 25,00 por mês, mais R\\$ 0,05 por minuto de ligação. Já a concorrente \"EI\" oferece um plano em que paga-se R\\$ 10,00 por mês, mais R\\$ 0,20 por minuto de ligação. Carina concluiu que o plano da \"EI\" era mais econômico para ela. Isto significa que ela pretende falar mensalmente, no máximo:",
     "options": [
       { "label": "a", "text": "99 minutos" },
       { "label": "b", "text": "89 minutos" },
@@ -9323,13 +9357,13 @@
     "discipline": "matematica",
     "topic": "sistemas-equacoes",
     "number": 26,
-    "statement": "A loja Vendebem fez uma promoção para vender pratos e copos decorados para o Natal. Sem mudar os valores dos produtos, criou dois kits natalinos. No primeiro, foi colocado 3 pratos e 4 copos a um preço de R$ 77,00 e no segundo kit foi colocado 4 pratos e 3 copos por um preço de R$ 84,00. Mantendo os preços individuais de cada prato e cada copo, quanto custaria 1 copo mais um prato?",
+    "statement": "A loja Vendebem fez uma promoção para vender pratos e copos decorados para o Natal. Sem mudar os valores dos produtos, criou dois kits natalinos. No primeiro, foi colocado 3 pratos e 4 copos a um preço de R\\$ 77,00 e no segundo kit foi colocado 4 pratos e 3 copos por um preço de R\\$ 84,00. Mantendo os preços individuais de cada prato e cada copo, quanto custaria 1 copo mais um prato?",
     "options": [
-      { "label": "a", "text": "R$ 18,00" },
-      { "label": "b", "text": "R$ 22,00" },
-      { "label": "c", "text": "R$ 15,00" },
-      { "label": "d", "text": "R$ 23,00" },
-      { "label": "e", "text": "R$ 14,00" }
+      { "label": "a", "text": "R\\$ 18,00" },
+      { "label": "b", "text": "R\\$ 22,00" },
+      { "label": "c", "text": "R\\$ 15,00" },
+      { "label": "d", "text": "R\\$ 23,00" },
+      { "label": "e", "text": "R\\$ 14,00" }
     ],
     "imagePath": null,
     "correctAnswer": "d"
@@ -9425,13 +9459,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 32,
-    "statement": "Na despesa de consumo de Marcos num restaurante na Praia da Marcela foi acrescida a quantia de R$ 25,55 referente ao pagamento de 10% pelo serviço de garçom. Logo, no total, Marcos pagou:",
+    "statement": "Na despesa de consumo de Marcos num restaurante na Praia da Marcela foi acrescida a quantia de R\\$ 25,55 referente ao pagamento de 10% pelo serviço de garçom. Logo, no total, Marcos pagou:",
     "options": [
-      { "label": "a", "text": "R$ 255,50" },
-      { "label": "b", "text": "R$ 281,05" },
-      { "label": "c", "text": "R$ 230,45" },
-      { "label": "d", "text": "R$ 145,00" },
-      { "label": "e", "text": "R$ 155,50" }
+      { "label": "a", "text": "R\\$ 255,50" },
+      { "label": "b", "text": "R\\$ 281,05" },
+      { "label": "c", "text": "R\\$ 230,45" },
+      { "label": "d", "text": "R\\$ 145,00" },
+      { "label": "e", "text": "R\\$ 155,50" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -9442,7 +9476,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 33,
-    "statement": "O preço que o consumidor paga por uma corrida de taxi inclui o valor fixo da bandeirada e uma parcela que depende da distância percorrida. Se a bandeirada custa R$ 3,00 e cada quilômetro percorrido custa R$ 0,50, para que o valor da corrida não ultrapasse R$ 28,00, a distância percorrida deve:",
+    "statement": "O preço que o consumidor paga por uma corrida de taxi inclui o valor fixo da bandeirada e uma parcela que depende da distância percorrida. Se a bandeirada custa R\\$ 3,00 e cada quilômetro percorrido custa R\\$ 0,50, para que o valor da corrida não ultrapasse R\\$ 28,00, a distância percorrida deve:",
     "options": [
       { "label": "a", "text": "Ultrapassar 80 km" },
       { "label": "b", "text": "Não ultrapassar de 50 km" },
@@ -9459,13 +9493,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 34,
-    "statement": "Se um funcionário de uma empresa comercial ganha mensalmente R$ 1440,00 e gasta 3/4 do que ganha com aluguel e alimentação, o que resta para as demais despesas é:",
+    "statement": "Se um funcionário de uma empresa comercial ganha mensalmente R\\$ 1440,00 e gasta 3/4 do que ganha com aluguel e alimentação, o que resta para as demais despesas é:",
     "options": [
-      { "label": "a", "text": "R$ 360,00" },
-      { "label": "b", "text": "R$ 1080,00" },
-      { "label": "c", "text": "R$ 460,00" },
-      { "label": "d", "text": "R$ 1060,00" },
-      { "label": "e", "text": "R$ 560,00" }
+      { "label": "a", "text": "R\\$ 360,00" },
+      { "label": "b", "text": "R\\$ 1080,00" },
+      { "label": "c", "text": "R\\$ 460,00" },
+      { "label": "d", "text": "R\\$ 1060,00" },
+      { "label": "e", "text": "R\\$ 560,00" }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -9748,13 +9782,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 31,
-    "statement": "Mário recebe por mês x reais provenientes do seu trabalho como professor de Matemática do IFMA. Sabe-se que ele destina 1/3 de seu salário para despesas como viagens e aluguel, e 2/5 do seu salário para alimentação. Sobra, assim, ao final do mês, R$ 600,00. Nessas condições, podemos afirmar que o professor Mário recebe por mês, em reais, o valor de:",
+    "statement": "Mário recebe por mês x reais provenientes do seu trabalho como professor de Matemática do IFMA. Sabe-se que ele destina 1/3 de seu salário para despesas como viagens e aluguel, e 2/5 do seu salário para alimentação. Sobra, assim, ao final do mês, R\\$ 600,00. Nessas condições, podemos afirmar que o professor Mário recebe por mês, em reais, o valor de:",
     "options": [
-      { "label": "a", "text": "R$ 2.000,00" },
-      { "label": "b", "text": "R$ 2.250,00" },
-      { "label": "c", "text": "R$ 2.500,00" },
-      { "label": "d", "text": "R$ 2.750,00" },
-      { "label": "e", "text": "R$ 3.000,00" }
+      { "label": "a", "text": "R\\$ 2.000,00" },
+      { "label": "b", "text": "R\\$ 2.250,00" },
+      { "label": "c", "text": "R\\$ 2.500,00" },
+      { "label": "d", "text": "R\\$ 2.750,00" },
+      { "label": "e", "text": "R\\$ 3.000,00" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -9850,7 +9884,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 37,
-    "statement": "Um consumidor adquiriu um aparelho celular com dois chips, que possibilitou utilizar os serviços das operadoras V e C. A operadora V cobra um valor fixo de R$ 0,05, quando iniciada a ligação e mais R$ 0,12 por minuto da mesma ligação. A operadora C cobra um valor fixo de R$ 0,08 e mais R$ 0,11 por minuto na ligação. Considere as afirmações a seguir: I. O custo de uma ligação de exatos 3 minutos é o mesmo, qualquer que seja a operadora. II. O custo da ligação usando a operadora V será menor do que a ligação usando a operadora C, independentemente do tempo de duração da ligação. III. Uma ligação de 10 (dez) minutos efetuada pela operadora V custará R$ 0,18 a mais do que efetuada pela operadora C. IV. Toda ligação com duração inferior a 3 (três) minutos efetuada usando a operadora V será mais \"barata\" que uma efetuada usando a operadora C. Determine a alternativa que contém todas as afirmativas corretas:",
+    "statement": "Um consumidor adquiriu um aparelho celular com dois chips, que possibilitou utilizar os serviços das operadoras V e C. A operadora V cobra um valor fixo de R\\$ 0,05, quando iniciada a ligação e mais R\\$ 0,12 por minuto da mesma ligação. A operadora C cobra um valor fixo de R\\$ 0,08 e mais R\\$ 0,11 por minuto na ligação. Considere as afirmações a seguir: I. O custo de uma ligação de exatos 3 minutos é o mesmo, qualquer que seja a operadora. II. O custo da ligação usando a operadora V será menor do que a ligação usando a operadora C, independentemente do tempo de duração da ligação. III. Uma ligação de 10 (dez) minutos efetuada pela operadora V custará R\\$ 0,18 a mais do que efetuada pela operadora C. IV. Toda ligação com duração inferior a 3 (três) minutos efetuada usando a operadora V será mais \"barata\" que uma efetuada usando a operadora C. Determine a alternativa que contém todas as afirmativas corretas:",
     "options": [
       { "label": "a", "text": "II e IV" },
       { "label": "b", "text": "I, II e III" },
@@ -9918,13 +9952,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 21,
-    "statement": "Carlos, André e Cristóvão se juntaram para jogar na Mega Sena para concorrerem a um prêmio de R$ 9.000.000,00. Fizeram um jogo no valor de R$ 24,00, onde Carlos contribuiu com R$ 8,00, André com R$ 4,00 e Cristóvão com a quantia de R$12,00. Felizmente, um de seus bilhetes foi o único sorteado e tiveram que dividir todo o prêmio em quantidades diretamente proporcionais às quantias investidas por cada um dos amigos. Quanto recebeu André, em reais?",
+    "statement": "Carlos, André e Cristóvão se juntaram para jogar na Mega Sena para concorrerem a um prêmio de R\\$ 9.000.000,00. Fizeram um jogo no valor de R\\$ 24,00, onde Carlos contribuiu com R\\$ 8,00, André com R\\$ 4,00 e Cristóvão com a quantia de R\\$12,00. Felizmente, um de seus bilhetes foi o único sorteado e tiveram que dividir todo o prêmio em quantidades diretamente proporcionais às quantias investidas por cada um dos amigos. Quanto recebeu André, em reais?",
     "options": [
-      { "label": "a", "text": "R$ 1.500.000,00" },
-      { "label": "b", "text": "R$ 2.250.000,00" },
-      { "label": "c", "text": "R$ 1.125.000,00" },
-      { "label": "d", "text": "R$ 750.000,00" },
-      { "label": "e", "text": "R$ 3.000.000,00" }
+      { "label": "a", "text": "R\\$ 1.500.000,00" },
+      { "label": "b", "text": "R\\$ 2.250.000,00" },
+      { "label": "c", "text": "R\\$ 1.125.000,00" },
+      { "label": "d", "text": "R\\$ 750.000,00" },
+      { "label": "e", "text": "R\\$ 3.000.000,00" }
     ],
     "imagePath": null,
     "correctAnswer": "d"
@@ -9935,7 +9969,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 22,
-    "statement": "Adriana e Karine adoram cinema. Elas marcaram de assistir uma estreia na sexta-feira. Ao irem comprar os ingressos, tiveram uma decepção, pois o preço tinha subido, passando de R$ 12,00 para R$ 15,00, mas compraram os ingressos e diminuíram a pipoca. Qual o aumento percentual no valor do ingresso?",
+    "statement": "Adriana e Karine adoram cinema. Elas marcaram de assistir uma estreia na sexta-feira. Ao irem comprar os ingressos, tiveram uma decepção, pois o preço tinha subido, passando de R\\$ 12,00 para R\\$ 15,00, mas compraram os ingressos e diminuíram a pipoca. Qual o aumento percentual no valor do ingresso?",
     "options": [
       { "label": "a", "text": "25%" },
       { "label": "b", "text": "20%" },
@@ -9969,13 +10003,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 24,
-    "statement": "A Jaqueline, no mês de novembro, gastou metade do seu salário com alimentação, 1/5 do salário com prestações, 1/8 do salário com transportes e ainda restou R$ 140,00, que ela gastou com vestuários. O salário de Jaqueline no mês de novembro foi, em reais:",
+    "statement": "A Jaqueline, no mês de novembro, gastou metade do seu salário com alimentação, 1/5 do salário com prestações, 1/8 do salário com transportes e ainda restou R\\$ 140,00, que ela gastou com vestuários. O salário de Jaqueline no mês de novembro foi, em reais:",
     "options": [
-      { "label": "a", "text": "R$ 800,00" },
-      { "label": "b", "text": "R$ 950,00" },
-      { "label": "c", "text": "R$ 1.000,00" },
-      { "label": "d", "text": "R$ 900,00" },
-      { "label": "e", "text": "R$ 850,00" }
+      { "label": "a", "text": "R\\$ 800,00" },
+      { "label": "b", "text": "R\\$ 950,00" },
+      { "label": "c", "text": "R\\$ 1.000,00" },
+      { "label": "d", "text": "R\\$ 900,00" },
+      { "label": "e", "text": "R\\$ 850,00" }
     ],
     "imagePath": null,
     "correctAnswer": "a"
@@ -10139,7 +10173,7 @@
     "discipline": "matematica",
     "topic": "progressoes",
     "number": 34,
-    "statement": "O preço do quilo de feijão era R$ 1,00 em janeiro de 2000 e começou a triplicar a cada 6 meses. O valor do quilo de feijão valerá R$ 81,00 em:",
+    "statement": "O preço do quilo de feijão era R\\$ 1,00 em janeiro de 2000 e começou a triplicar a cada 6 meses. O valor do quilo de feijão valerá R\\$ 81,00 em:",
     "options": [
       { "label": "a", "text": "2 anos" },
       { "label": "b", "text": "1 ano" },
@@ -10343,13 +10377,13 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 26,
-    "statement": "Alice possui um salão de festas, na forma retangular, com 9 metros de largura e 20 metros de comprimento. Ela deseja revestir o piso desse salão com lajotas que custam R$ 18,50 o metro quadrado. O pedreiro cobra R$ 15,00 por metro quadrado colocado. Nesse caso, para revestir todo o salão, o custo com pedreiro e com lajotas, respectivamente foi:",
+    "statement": "Alice possui um salão de festas, na forma retangular, com 9 metros de largura e 20 metros de comprimento. Ela deseja revestir o piso desse salão com lajotas que custam R\\$ 18,50 o metro quadrado. O pedreiro cobra R\\$ 15,00 por metro quadrado colocado. Nesse caso, para revestir todo o salão, o custo com pedreiro e com lajotas, respectivamente foi:",
     "options": [
-      { "label": "a", "text": "R$ 2.700,00 e R$ 3.330,00" },
-      { "label": "b", "text": "R$ 3.330,00 e R$ 2.600,00" },
-      { "label": "c", "text": "R$ 2.700,00 e R$ 3.000,00" },
-      { "label": "d", "text": "R$ 2.700,00 e R$ 3.240,00" },
-      { "label": "e", "text": "R$ 2.800,00 e R$ 4.300,00" }
+      { "label": "a", "text": "R\\$ 2.700,00 e R\\$ 3.330,00" },
+      { "label": "b", "text": "R\\$ 3.330,00 e R\\$ 2.600,00" },
+      { "label": "c", "text": "R\\$ 2.700,00 e R\\$ 3.000,00" },
+      { "label": "d", "text": "R\\$ 2.700,00 e R\\$ 3.240,00" },
+      { "label": "e", "text": "R\\$ 2.800,00 e R\\$ 4.300,00" }
     ],
     "imagePath": null,
     "correctAnswer": "b"
@@ -10394,11 +10428,11 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 29,
-    "statement": "Um grupo de estudantes do curso de Física do IFMA Campus-Santa Inês decidiu viajar de ônibus para participar de um Seminário de Física em Imperatriz. Ao fazerem uma pesquisa de preço, os estudantes receberam de uma empresa a seguinte proposta, na qual o preço de cada passagem dependia do total de alunos: cada aluno pagará R$ 90,00 acrescido de R$ 5,00 por poltrona que ficar vaga no ônibus. Sabendo que o ônibus tem 52 poltronas, é correto afirmar:",
+    "statement": "Um grupo de estudantes do curso de Física do IFMA Campus-Santa Inês decidiu viajar de ônibus para participar de um Seminário de Física em Imperatriz. Ao fazerem uma pesquisa de preço, os estudantes receberam de uma empresa a seguinte proposta, na qual o preço de cada passagem dependia do total de alunos: cada aluno pagará R\\$ 90,00 acrescido de R\\$ 5,00 por poltrona que ficar vaga no ônibus. Sabendo que o ônibus tem 52 poltronas, é correto afirmar:",
     "options": [
       { "label": "a", "text": "Se o total de alunos for x, o valor em reais de cada passagem será calculado pela expressão 90 + 5.(52 - x)." },
-      { "label": "b", "text": "Se viajarem 30 alunos, cada um deles pagará R$ 110,00." },
-      { "label": "c", "text": "Se viajarem 50 alunos, a empresa deverá receber um total de R$ 6.500,00 referente ao total de pagamentos das passagens." },
+      { "label": "b", "text": "Se viajarem 30 alunos, cada um deles pagará R\\$ 110,00." },
+      { "label": "c", "text": "Se viajarem 50 alunos, a empresa deverá receber um total de R\\$ 6.500,00 referente ao total de pagamentos das passagens." },
       { "label": "d", "text": "Se viajarem x alunos, o valor total (em reais) que a empresa deverá receber, referente ao pagamento das passagens, é calculado pela expressão $300-5x^2$." },
       { "label": "e", "text": "O valor total máximo que a empresa poderá receber pelo pagamento das passagens ocorrerá quando o total de alunos for igual a 20." }
     ],
@@ -10496,7 +10530,7 @@
     "discipline": "matematica",
     "topic": "razao-proporcao-porcentagem",
     "number": 35,
-    "statement": "Patrícia foi fazer uma pesquisa de preço em alguns cursos de aperfeiçoamento de sua cidade e obteve os seguintes resultados: Curso A: matrícula por R$ 60,00 e mensalidade R$ 65,00. Curso B: sem taxa de matrícula e mensalidade R$ 80,00. Curso C: matrícula inicial de R$ 50,00 renovada a cada 6 meses e mensalidade R$ 60,00. Sabendo que o curso tem duração de um ano e meio, podemos afirmar:",
+    "statement": "Patrícia foi fazer uma pesquisa de preço em alguns cursos de aperfeiçoamento de sua cidade e obteve os seguintes resultados: Curso A: matrícula por R\\$ 60,00 e mensalidade R\\$ 65,00. Curso B: sem taxa de matrícula e mensalidade R\\$ 80,00. Curso C: matrícula inicial de R\\$ 50,00 renovada a cada 6 meses e mensalidade R\\$ 60,00. Sabendo que o curso tem duração de um ano e meio, podemos afirmar:",
     "options": [
       { "label": "a", "text": "O custo do curso A é igual ao custo do curso C." },
       { "label": "b", "text": "O custo do curso B é menor que o custo do curso C." },
@@ -10530,7 +10564,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 37,
-    "statement": "Sejam A e B duas operadoras de telefonia móvel que atuam no Maranhão com planos distintos. Sabe-se que A tem uma taxa fixa de R$ 39,90 ao mês mais R$ 0,10 por minuto além da franquia contratada e B tem uma taxa fixa de R$ 29,90 ao mês mais R$ 0,15 por minuto além da franquia. Dentre as alternativas abaixo, o tempo mínimo além da franquia para que a conta mensal de B seja superior a de A?",
+    "statement": "Sejam A e B duas operadoras de telefonia móvel que atuam no Maranhão com planos distintos. Sabe-se que A tem uma taxa fixa de R\\$ 39,90 ao mês mais R\\$ 0,10 por minuto além da franquia contratada e B tem uma taxa fixa de R\\$ 29,90 ao mês mais R\\$ 0,15 por minuto além da franquia. Dentre as alternativas abaixo, o tempo mínimo além da franquia para que a conta mensal de B seja superior a de A?",
     "options": [
       { "label": "a", "text": "201min" },
       { "label": "b", "text": "200min" },
@@ -10581,7 +10615,7 @@
     "discipline": "matematica",
     "topic": "geometria-plana",
     "number": 40,
-    "statement": "Um espaço para um show, na forma retangular, será cercado no Aterro do Bacanga, em três de seus lados, exceto o lado das arquibancadas, como indica a figura. Sendo o custo do metro de cerca de R$ 3,00 para os extremos e R$ 4,00 para o lado paralelo às arquibancadas, e dispondo-se de R$ 1.200,00, as dimensões do espaço que pode ser cercado com esse valor, para que ele possua a maior área possível:",
+    "statement": "Um espaço para um show, na forma retangular, será cercado no Aterro do Bacanga, em três de seus lados, exceto o lado das arquibancadas, como indica a figura. Sendo o custo do metro de cerca de R\\$ 3,00 para os extremos e R\\$ 4,00 para o lado paralelo às arquibancadas, e dispondo-se de R\\$ 1.200,00, as dimensões do espaço que pode ser cercado com esse valor, para que ele possua a maior área possível:",
     "options": [
       { "label": "a", "text": "100 m e 150 m" },
       { "label": "b", "text": "112,5 m e 150 m" },
@@ -10889,11 +10923,11 @@
     "number": 38,
     "statement": "Querendo fazer um levantamento de seus gastos com alguns itens da cesta básica de maior custo, Dona Maria fez as seguintes tabelas. Tabela 1 - Quantidade comprada de arroz, feijão e carne (kg) nos meses de janeiro, fevereiro e março: arroz 10, 6, 8; feijão 3, 0, 2; carne 7, 10, 10. Tabela 2 - Valor pago, em reais, por kg de arroz, feijão e carne nos meses de janeiro, fevereiro e março: arroz 6,30, 5,50, 5,00; feijão 2,10, 1,99, 2,05; carne 9,00, 7,80, 8,50. Concluiu-se, então, que:",
     "options": [
-      { "label": "a", "text": "A diferença de gasto de janeiro para fevereiro é de R$ 21,30." },
-      { "label": "b", "text": "O gasto em fevereiro foi de R$ 110,10." },
-      { "label": "c", "text": "O gasto de março foi de R$ 226,00." },
+      { "label": "a", "text": "A diferença de gasto de janeiro para fevereiro é de R\\$ 21,30." },
+      { "label": "b", "text": "O gasto em fevereiro foi de R\\$ 110,10." },
+      { "label": "c", "text": "O gasto de março foi de R\\$ 226,00." },
       { "label": "d", "text": "O custo dos meses de março e janeiro foi o mesmo." },
-      { "label": "e", "text": "O gasto de janeiro excede em R$ 3,00 o de março." }
+      { "label": "e", "text": "O gasto de janeiro excede em R\\$ 3,00 o de março." }
     ],
     "imagePath": null,
     "correctAnswer": "e"

@@ -145,6 +145,9 @@ export function QuestionCard({
           const isSelected = selected === opt.label;
           const isTheCorrectOne = checked && hasGabarito && opt.label === question.correctAnswer;
           const isWrongSelected = checked && hasGabarito && isSelected && !isTheCorrectOne;
+          const optionImageUrl = opt.imagePath
+            ? `/content-images/${institution}/${discipline}/${opt.imagePath}`
+            : null;
 
           return (
             <motion.button
@@ -173,9 +176,18 @@ export function QuestionCard({
               >
                 {OPTION_LABELS[opt.label]}
               </span>
-              <span className="flex-1 pt-0.5">
-                <LatexText text={opt.text} />
-              </span>
+              {optionImageUrl ? (
+                /* eslint-disable-next-line @next/next/no-img-element */
+                <img
+                  src={optionImageUrl}
+                  alt={`Alternativa ${OPTION_LABELS[opt.label]}`}
+                  className="max-h-40 flex-1 rounded-lg border border-border bg-white object-contain p-1"
+                />
+              ) : (
+                <span className="flex-1 pt-0.5">
+                  <LatexText text={opt.text} />
+                </span>
+              )}
               {isTheCorrectOne && <CheckCircle2 className="size-5 shrink-0 text-emerald-600" />}
               {isWrongSelected && <XCircle className="size-5 shrink-0 text-red-600" />}
             </motion.button>
