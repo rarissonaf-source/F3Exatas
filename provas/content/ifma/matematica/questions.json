@@ -1,5 +1,693 @@
 [
   {
+    "id": "mat-subsequente-2024-q16",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 16,
+    "statement": "Um empresário da área tecnológica resolveu investir em pequenas empresas para desenvolverem softwares de Inteligência Artificial (IA). No processo de seleção, foram classificadas quatro empresas diferentes. De acordo com a classificação, para cada empresa, iniciando pela mais bem classificada, ele distribuiu metade dos recursos que possuía e, ao final dessa distribuição, ele ainda tinha R$ 4,1 milhões de reais. Dessa forma, é correto afirmar que o total de recursos que esse empresário reservou inicialmente, em milhões de reais, foi de",
+    "options": [
+      { "label": "a", "text": "R$ 131,2." },
+      { "label": "b", "text": "R$ 65,6." },
+      { "label": "c", "text": "R$ 32,8." },
+      { "label": "d", "text": "R$ 16,4." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2024-q17",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "Um professor de matemática solicitou aos seus alunos que identificassem a quantidade de anagramas possíveis de serem formados com as letras da palavra chatbot. Se cada um desses anagramas fosse escrito em um pedaço de papel e sorteado, aleatoriamente, apenas um papel, a probabilidade de o anagrama sorteado iniciar e terminar com letras iguais é, aproximadamente, de",
+    "options": [
+      { "label": "a", "text": "4,8%." },
+      { "label": "b", "text": "11,9%." },
+      { "label": "c", "text": "2,4%." },
+      { "label": "d", "text": "14,3%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2024-q18",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 18,
+    "statement": "Foi proposto a um chatbot que resolvesse a seguinte questão: \"Dois lados opostos de uma folha retangular com dimensões de 8m x 3m, conforme Figura 1, têm unidas perfeitamente suas extremidades formando um cilindro. Considerando a coincidência perfeita desses lados, determine a soma dos volumes dos possíveis cilindros formados.\" Nesse caso, a resposta correta dada pelo chatbot é",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{18}{\\pi}\\ m^3$" },
+      { "label": "b", "text": "$\\dfrac{30}{\\pi}\\ m^3$" },
+      { "label": "c", "text": "$\\dfrac{48}{\\pi}\\ m^3$" },
+      { "label": "d", "text": "$\\dfrac{66}{\\pi}\\ m^3$" }
+    ],
+    "imagePath": "mat-subsequente-2024/q18.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2024-q19",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "O Vale do Silício, na Califórnia, Estados Unidos, é uma região onde estão concentradas várias empresas de alta tecnologia. Considere que as empresas: Chat-TEC, Bot-TEC e IA-TEC estão localizadas em três ruas distintas que se cruzam duas a duas. Se os cruzamentos das ruas fossem representados sobre um plano cartesiano em que as empresas Chat-TEC, Bot-TEC e IA-TEC estivessem, respectivamente, representadas pelos pontos X (k, 1), Y (1, 3) e Z (3, 5), elas seriam vértices de um triângulo, somente se",
+    "options": [
+      { "label": "a", "text": "k ≠ -2." },
+      { "label": "b", "text": "k ≠ -1." },
+      { "label": "c", "text": "k ≠ 0." },
+      { "label": "d", "text": "k ≠ 1." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2024-q20",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 20,
+    "statement": "Suponha que as empresas Chat-TEC (X), Bot-TEC (Y) e IA-TEC (Z) estivessem localizadas nos vértices do triângulo representado na Figura 2. Neste caso, considerando $\\sqrt{2} = 1,4$ e $\\sqrt{3} = 1,7$, a distância em linha reta da empresa Chat-TEC até a empresa Bot-TEC seria, aproximadamente, de",
+    "options": [
+      { "label": "a", "text": "1400,0 m." },
+      { "label": "b", "text": "1220,0 m." },
+      { "label": "c", "text": "823,5 m." },
+      { "label": "d", "text": "788,2 m." }
+    ],
+    "imagePath": "mat-subsequente-2024/q20.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2024-q21",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "No primeiro semestre de 2023, o IFMA matriculou 65 estudantes no curso de capacitação em Inteligência Artificial (IA). Entre os matriculados, 35 eram homens e 30 eram mulheres. Do total de homens matriculados, 60% nunca tinham feito curso nessa área, e, do total de mulheres matriculadas, 20% já haviam feito curso nessa área. Diante dessas condições, a quantidade de estudantes matriculados que eram homens ou que já tinham feito curso na área de IA era",
+    "options": [
+      { "label": "a", "text": "41." },
+      { "label": "b", "text": "55." },
+      { "label": "c", "text": "48." },
+      { "label": "d", "text": "52." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2024-q22",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "Foi proposto a um chatbot que resolvesse a seguinte questão: \"Considerando a expressão representada por $k^2 + \\dfrac{1}{k^2} + k^3 - \\dfrac{1}{k^3}$, e se $k - \\dfrac{1}{k} = 2$, então, a maior diferença entre os algarismos que formam o resultado da expressão é igual a\". O chatbot, acertadamente, retornou como resposta",
+    "options": [
+      { "label": "a", "text": "-2." },
+      { "label": "b", "text": "-1." },
+      { "label": "c", "text": "1." },
+      { "label": "d", "text": "2." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2024-q23",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "Em um concurso para trabalhar em uma empresa de IA, foi proposta a seguinte questão: \"Se entre as três raízes da equação $a^3 + 4a^2 + a - 6 = 0$, uma delas é igual à soma das outras duas, então, a soma das raízes dessa equação é igual a\". O candidato que acertou assinalou a opção",
+    "options": [
+      { "label": "a", "text": "-4." },
+      { "label": "b", "text": "-6." },
+      { "label": "c", "text": "3." },
+      { "label": "d", "text": "1." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2024-q24",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 24,
+    "statement": "Considere que uma empresa de IA tenha, em 2023, o faturamento de US $ 15 bilhões e nos dois anos seguintes, respectivamente, US $ 18 bilhões e US $ 21 bilhões. Se o crescimento permanecer nessa proporção, a soma total de faturamentos de US $ 168 bilhões será atingida em",
+    "options": [
+      { "label": "a", "text": "2028." },
+      { "label": "b", "text": "2029." },
+      { "label": "c", "text": "2030." },
+      { "label": "d", "text": "2031." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2024-q25",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 25,
+    "statement": "Para bonificar com ações seus colaboradores, os executivos de uma empresa de IA propuseram o seguinte desafio: \"Se um poliedro convexo é formado por três quadrados e dois triângulos, a soma das quantidades de faces, vértices e arestas desse poliedro é igual a\". Os empregados que acertaram marcaram a opção",
+    "options": [
+      { "label": "a", "text": "18." },
+      { "label": "b", "text": "20." },
+      { "label": "c", "text": "23." },
+      { "label": "d", "text": "24." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2024-q27",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 27,
+    "statement": "Uma empresa que investia em IA analisou os valores aplicados a cada mês, em milhares de dólares, no desenvolvimento de um novo chatbot. Verificou-se que, no período analisado, os investimentos variaram de acordo com a função $I(m) = -2m^2 + 200m - 3200$, sendo m o número de meses desde o início dos investimentos. Nessas condições, o mês em que a empresa investiu US $ 1800,00 foi o de número",
+    "options": [
+      { "label": "a", "text": "20." },
+      { "label": "b", "text": "30." },
+      { "label": "c", "text": "50." },
+      { "label": "d", "text": "60." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2024-q28",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 28,
+    "statement": "Cinco amigos (A, B, C, D e E) se posicionam em um círculo desenhado no chão. Quatro ficam sobre a circunferência do círculo segurando cordas que se cruzam no ponto onde está o quinto amigo, conforme a Figura 4. Se as distâncias dos amigos A, D e E até o amigo B são, respectivamente, 8m, 10m e 26m, então, a distância de C até B é de",
+    "options": [
+      { "label": "a", "text": "32,5m." },
+      { "label": "b", "text": "30,0m." },
+      { "label": "c", "text": "29,5m." },
+      { "label": "d", "text": "28,0m." }
+    ],
+    "imagePath": "mat-subsequente-2024/q28.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2024-q29",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 29,
+    "statement": "Um software de Inteligência Artificial (IA) aprende novas palavras de acordo com a função $N(t) = Pi \\cdot 3^t$, em que Pi representa a quantidade inicial de palavras inseridas no software pelo desenvolvedor do programa e t é o tempo em minutos. Se inicialmente foram inseridas 200 palavras no software de IA, ele terá aprendido 48.600 palavras após",
+    "options": [
+      { "label": "a", "text": "3 min." },
+      { "label": "b", "text": "4 min." },
+      { "label": "c", "text": "5 min." },
+      { "label": "d", "text": "6 min." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2024-q30",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 30,
+    "statement": "Em uma empresa de tecnologia, seis mulheres e cinco homens disputam a diretoria da empresa, formada por cinco pessoas. Se, obrigatoriamente, na diretoria deve haver, pelo menos, uma mulher, a quantidade de maneiras distintas que essa diretoria pode ser formada é igual a",
+    "options": [
+      { "label": "a", "text": "32." },
+      { "label": "b", "text": "125." },
+      { "label": "c", "text": "461." },
+      { "label": "d", "text": "726." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2024-q16",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "O Texto 1 cita que 45 milhões de euros equivale a cerca de 242 milhões de reais. Sendo assim, é possível concluir que a cotação do euro em reais, aproximadamente, foi de",
+    "options": [
+      { "label": "a", "text": "R$ 5,45." },
+      { "label": "b", "text": "R$ 5,38." },
+      { "label": "c", "text": "R$ 5,81." },
+      { "label": "d", "text": "R$ 5,65." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2024-q17",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "A distância entre Brasil e Suécia é cerca de 10336 km. Aproximadamente, o tempo que um avião, com velocidade média de 580 km/h, leva para percorrer esse trajeto é",
+    "options": [
+      { "label": "a", "text": "20h." },
+      { "label": "b", "text": "22h." },
+      { "label": "c", "text": "18h." },
+      { "label": "d", "text": "16h." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2024-q18",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 18,
+    "statement": "Um relatório de 2022 avaliou a estratégia nacional de digitalização da Suécia e constatou que a disponibilização de ferramentas digitais precisava ser melhorada, pois 24 mil docentes, o que representa 20% do total de participantes, afirmaram ter \"acesso limitado\" a essas ferramentas. Sabendo disso, é correto afirmar que o número total de professores respondentes dessa pesquisa foi",
+    "options": [
+      { "label": "a", "text": "96 mil." },
+      { "label": "b", "text": "72 mil." },
+      { "label": "c", "text": "120 mil." },
+      { "label": "d", "text": "112 mil." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2024-q19",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 19,
+    "statement": "Segundo dados do Jornal da USP, brasileiros passam em média 56% das horas que estão acordados do dia, em frente às telas de smartphones e/ou computadores. Considerando que 8 horas do dia sejam destinadas ao sono, o tempo remanescente para a realização de outras atividades, que não estejam vinculadas a smartphones e/ou computadores, equivale a",
+    "options": [
+      { "label": "a", "text": "7 h 02 min 24 s." },
+      { "label": "b", "text": "4 h 04 min 22 s." },
+      { "label": "c", "text": "8 h 02 min 18 s." },
+      { "label": "d", "text": "7 h 04 min 15 s." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2024-q20",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 20,
+    "statement": "Considere o resumo de recomendação da Sociedade Brasileira de Pediatria (SBP) sobre os limites diários de contato com celulares, tablets e computadores, em função da idade: dos 2 aos 5 anos: 1 h por dia; dos 6 aos 10 anos: 1,5 h por dia; dos 11 aos 18 anos: 2,5 h por dia. Suponha, agora, que, em uma sala de aula frequentada por 10 alunos, com idades distribuídas da seguinte forma: 1 aluno de 2 anos; 2 alunos de 3 anos; 3 alunos de 6 anos; 2 alunos de 8 anos; 1 aluno de 11 anos; 1 aluno de 15 anos. A média aritmética dos tempos que esses alunos podem permanecer em frente à tela é",
+    "options": [
+      { "label": "a", "text": "1,82 h." },
+      { "label": "b", "text": "1,55 h." },
+      { "label": "c", "text": "2,24 h." },
+      { "label": "d", "text": "1,21 h." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2024-q21",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "Suponha que uma sala de aula esteja sendo construída para ser utilizada sem o apoio de recursos digitais, conforme a Figura 1. Sabendo que, nessa sala de aula, cada aluno necessita de um espaço correspondente a 1,50 m², o número máximo de alunos que podem estar presentes, simultaneamente, nesse ambiente, considerando a área destinada aos alunos, é",
+    "options": [
+      { "label": "a", "text": "36." },
+      { "label": "b", "text": "28." },
+      { "label": "c", "text": "32." },
+      { "label": "d", "text": "40." }
+    ],
+    "imagePath": "mat-concomitante-2024/q21.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2024-q22",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "O Índice de Escolaridade analisa o percentual de indivíduos maiores de 25 anos que concluíram a educação básica. Segundo dados da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), a Suécia tem um índice de escolaridade próximo a 82%. No Brasil, esse nível está em torno de 45%. Supondo que a Suécia possui cerca de 7,5 milhões de habitantes com idade superior a 25 anos, enquanto no Brasil esse número esteja próximo de 141 milhões, o quantitativo, respectivo, de pessoas representadas por esses percentuais corresponde a",
+    "options": [
+      { "label": "a", "text": "6.000.000 e 60.000.000." },
+      { "label": "b", "text": "6.500.000 e 65.000.000." },
+      { "label": "c", "text": "6.150.000 e 63.450.000." },
+      { "label": "d", "text": "6.720.000 e 68.410.000." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2024-q23",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 23,
+    "statement": "Sabendo que a distância entre o Brasil e a Suécia é cerca de 10336 km, o valor dessa medida, em metros, é equivalente a",
+    "options": [
+      { "label": "a", "text": "10,336 m." },
+      { "label": "b", "text": "0,10336 m." },
+      { "label": "c", "text": "1033600 m." },
+      { "label": "d", "text": "10336000 m." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2024-q24",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "Imagine que um aluno estava estudando para as avaliações escolares em seu celular e decidiu responder a um simulado online. Sabendo que, dentre 20 questões, ele chutou 12 das quais acertou 4; a razão do número de acertos em relação ao total de chutes é",
+    "options": [
+      { "label": "a", "text": "1/3." },
+      { "label": "b", "text": "2/5." },
+      { "label": "c", "text": "1/4." },
+      { "label": "d", "text": "3/7." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2024-q25",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 25,
+    "statement": "Os pais de um estudante contabilizaram que, em três dias e meio, seu filho permaneceu 10,5 h em frente ao celular ou computador. Preocupados com essa situação, observaram quanto tempo ele ficaria em frente a essas telas no período de um mês (30 dias). Considerando essa mesma proporção, eles descobriram que o tempo seria de",
+    "options": [
+      { "label": "a", "text": "3 dias e 1 hora." },
+      { "label": "b", "text": "3 dias e 18 horas." },
+      { "label": "c", "text": "3 dias, 10 horas e 22 minutos." },
+      { "label": "d", "text": "3 dias, 2 horas e 4 minutos." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2024-q26",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 26,
+    "statement": "Segundo dados do Texto 1, \"um questionário realizado em dezembro de 2022, com 2 mil professores do país, mostrou que 1 em cada 5 docentes supunham que seus alunos nunca haviam redigido um texto manualmente\". Com base nessa informação, o percentual de docentes cuja suposição é de que os alunos nunca redigiram um texto manualmente é",
+    "options": [
+      { "label": "a", "text": "20%." },
+      { "label": "b", "text": "25%." },
+      { "label": "c", "text": "30%." },
+      { "label": "d", "text": "5%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2024-q27",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 27,
+    "statement": "Na tentativa de estruturar sua rotina diária, um estudante organizou seu tempo disponível da seguinte forma: 1/3 do tempo para ficar em celular/computador, 1/4 para estudar, 1/5 para as tarefas domésticas e ainda sobraria 1 h 05 min para outras situações não previstas. Nesse caso, o tempo total disponível dessa pessoa corresponde a",
+    "options": [
+      { "label": "a", "text": "6 h." },
+      { "label": "b", "text": "7 h." },
+      { "label": "c", "text": "5 h." },
+      { "label": "d", "text": "4 h." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2024-q28",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 28,
+    "statement": "Imagine que alguns especialistas da Suécia estão analisando se o padrão das telas usadas pelos estudantes interfere nos resultados de aprendizagem deles. Sabendo que uma das telas pesquisadas corresponde a um retângulo com área equivalente a 300 cm², cujo lado maior possui três vezes o comprimento do lado menor, nesse caso, a soma dos lados dessa tela é",
+    "options": [
+      { "label": "a", "text": "80 cm." },
+      { "label": "b", "text": "70 cm." },
+      { "label": "c", "text": "95 cm." },
+      { "label": "d", "text": "100 cm." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2024-q29",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 29,
+    "statement": "Considere que um estudo relacionou diretamente o uso excessivo de mídias em tela ao aumento na probabilidade de os indivíduos desenvolverem problemas motores e na visão; presumindo que, em uma determinada empresa, trabalhem 32 mulheres e 43 homens, todos com funções associadas ao uso excessivo de telas. Além desses, atuam ainda 52 mulheres e 38 homens que não estão expostos ao risco desse uso excessivo. Nesses termos, escolhendo uma pessoa ao acaso, a probabilidade de ela estar em uma atividade, usando excessivamente, a tela é",
+    "options": [
+      { "label": "a", "text": "1/2." },
+      { "label": "b", "text": "1/3." },
+      { "label": "c", "text": "5/11." },
+      { "label": "d", "text": "16/33." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2024-q30",
+    "examId": "mat-concomitante-2024",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 30,
+    "statement": "Para a aquisição de um celular com tela configurada para a redução nos danos visuais, uma loja disponibilizou as seguintes condições: à vista, com valor de R$ 5.800,00 ou pagamento ao final de dois anos, com taxa de juros simples de 1% ao mês. Caso a opção seja pelo pagamento ao final de dois anos, o comprador terá pago um valor de",
+    "options": [
+      { "label": "a", "text": "R$ 7.200,00." },
+      { "label": "b", "text": "R$ 7.258,00." },
+      { "label": "c", "text": "R$ 7.136,00." },
+      { "label": "d", "text": "R$ 7.192,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2024-q16",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "O Texto 1 mostra que 41% das empresas brasileiras utilizam alguma forma de Inteligência Artificial em seu dia a dia. Considerando-se que existam 21 milhões de empresas no Brasil, a quantidade de corporações com uso dessa tecnologia é",
+    "options": [
+      { "label": "a", "text": "8.400.000." },
+      { "label": "b", "text": "8.610.000." },
+      { "label": "c", "text": "12.390.000." },
+      { "label": "d", "text": "12.600.000." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2024-q17",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "De acordo com o Texto 1, U$ 504 milhões equivale a cerca de R$ 2,61 bilhões. Sendo assim, é possível afirmar que a cotação do dólar, em reais, aproximadamente, foi de",
+    "options": [
+      { "label": "a", "text": "R$ 5,12." },
+      { "label": "b", "text": "R$ 5,24." },
+      { "label": "c", "text": "R$ 5,18." },
+      { "label": "d", "text": "R$ 5,30." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2024-q18",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 18,
+    "statement": "Tomando por base os valores percentuais presentes nas barras do Texto 3, a média aritmética da aceitação nos 10 países que mais confiam em inteligência artificial é de",
+    "options": [
+      { "label": "a", "text": "47,7%." },
+      { "label": "b", "text": "53,2%." },
+      { "label": "c", "text": "63,1%." },
+      { "label": "d", "text": "43,9%." }
+    ],
+    "imagePath": "mat-integrada-2024/q18.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2024-q19",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 19,
+    "statement": "A leitura do Texto 3 permite afirmar que a diferença entre os percentuais do país que mais aceita e do que menos aceita (dentre os 10 com maior aceitação) a Inteligência Artificial é",
+    "options": [
+      { "label": "a", "text": "41%." },
+      { "label": "b", "text": "40%." },
+      { "label": "c", "text": "39%." },
+      { "label": "d", "text": "42%." }
+    ],
+    "imagePath": "mat-integrada-2024/q19.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2024-q20",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Considerando que, no Texto 3, as barras representantes dos percentuais de aceitação da Inteligência Artificial possuem áreas proporcionais ao seu respectivo percentual e que a barra referente à Índia (primeira posição) é um retângulo de dimensões 0,8 cm x 4 cm, é possível afirmar que a barra de Cingapura (quinta posição) é um retângulo de área igual a",
+    "options": [
+      { "label": "a", "text": "2,22 cm²." },
+      { "label": "b", "text": "3,02 cm²." },
+      { "label": "c", "text": "1,92 cm²." },
+      { "label": "d", "text": "3,20 cm²." }
+    ],
+    "imagePath": "mat-integrada-2024/q20.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2024-q21",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 21,
+    "statement": "De acordo com os dados apresentados no Texto 3, a moda dos percentuais de aceitação nos 10 países que mais confiam na inteligência artificial é de",
+    "options": [
+      { "label": "a", "text": "42,5%." },
+      { "label": "b", "text": "54,5%." },
+      { "label": "c", "text": "26%." },
+      { "label": "d", "text": "34%." }
+    ],
+    "imagePath": "mat-integrada-2024/q21.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2024-q22",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 22,
+    "statement": "Em um número natural, formado por três algarismos, o dígito da centena é 4, o da dezena é 6 e o da unidade é Y, formando o número 46Y. Sabendo que esse número é múltiplo de 3, o produto dos valores que Y pode assumir é",
+    "options": [
+      { "label": "a", "text": "10." },
+      { "label": "b", "text": "40." },
+      { "label": "c", "text": "20." },
+      { "label": "d", "text": "80." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2024-q23",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 23,
+    "statement": "Considere que uma determinada pessoa estava estudando probabilidade com auxílio do aplicativo CHATGPT, e fez o questionamento apresentado na Figura 1 abaixo. Após essa mensagem, o aplicativo CHATGPT respondeu, corretamente, que a probabilidade, nessa situação, corresponderia a",
+    "options": [
+      { "label": "a", "text": "2/3." },
+      { "label": "b", "text": "4/5." },
+      { "label": "c", "text": "1/3." },
+      { "label": "d", "text": "1/2." }
+    ],
+    "imagePath": "mat-integrada-2024/q23.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2024-q24",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "De acordo com o Texto 1, a estimativa do investimento realizado por companhias brasileiras em Inteligência Artificial, no ano de 2022, foi de U$ 504 milhões, o que representa um aumento de 28% em relação ao ano anterior. Dessa forma, no ano de 2021, em valores estimados, o investimento teria sido equivalente a",
+    "options": [
+      { "label": "a", "text": "U$ 363.880.000,00." },
+      { "label": "b", "text": "U$ 402.290.000,00." },
+      { "label": "c", "text": "U$ 393.750.000,00." },
+      { "label": "d", "text": "U$ 355.438.000,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2024-q25",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 25,
+    "statement": "Para a construção de uma microempresa de treinamento em programas e recursos de Inteligência Artificial, foi utilizado um terreno retangular, cujo comprimento é de 5 m maior do que a largura e a área igual a 300 m². A soma dos lados desse terreno retangular é",
+    "options": [
+      { "label": "a", "text": "70 m." },
+      { "label": "b", "text": "60 m." },
+      { "label": "c", "text": "54 m." },
+      { "label": "d", "text": "72 m." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2024-q26",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 26,
+    "statement": "Sabendo que as medidas dos lados de um triângulo retângulo podem ser representadas por x, x+5 e 25 (sendo esse último referente ao maior lado), o produto dos valores dos lados desse triângulo é de",
+    "options": [
+      { "label": "a", "text": "6.000." },
+      { "label": "b", "text": "7.500." },
+      { "label": "c", "text": "9.000." },
+      { "label": "d", "text": "4.500." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2024-q27",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 27,
+    "statement": "Um jovem estudante pretende ir ao Vale do Silício, localizado nos Estados Unidos, para fazer um curso sobre Inteligência Artificial. Contudo, as distâncias nas estradas do país são marcadas em milhas. Como ele está acostumado a utilizar os valores em quilômetros e quer entender melhor as distâncias locais, analisa uma placa, indicando que a cidade aonde ele deseja chegar, está a 92 milhas de distância. Sabendo que 1 quilômetro é equivalente a cerca de 0,62 milhas, é correto afirmar que a distância a ser percorrida por ele, em quilômetros, aproximadamente, é de",
+    "options": [
+      { "label": "a", "text": "155." },
+      { "label": "b", "text": "132." },
+      { "label": "c", "text": "126." },
+      { "label": "d", "text": "148." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2024-q29",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 29,
+    "statement": "Segundo o Texto 1, os investimentos em Inteligência Artificial aumentaram 28% entre 2021 e 2022. Esse percentual de 28%, na forma de fração, pode ser representado como",
+    "options": [
+      { "label": "a", "text": "7/25." },
+      { "label": "b", "text": "7/20." },
+      { "label": "c", "text": "13/21." },
+      { "label": "d", "text": "1/4." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2024-q30",
+    "examId": "mat-integrada-2024",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 30,
+    "statement": "Uma empresa de Inteligência Artificial (IA) montou a logomarca abaixo apresentada para divulgação e distribuição de panfletos: um retângulo representando a letra \"i\" e um triângulo representando a letra \"a\", conforme Figura 2. Para impressão das logomarcas, serão utilizadas folhas de 210 mm x 312,5 mm, considerando um desperdício de exatamente 20%. Partindo desses dados, a quantidade de logomarcas que será possível imprimir em cada folha é",
+    "options": [
+      { "label": "a", "text": "13." },
+      { "label": "b", "text": "14." },
+      { "label": "c", "text": "11." },
+      { "label": "d", "text": "12." }
+    ],
+    "imagePath": "mat-integrada-2024/q30.png",
+    "correctAnswer": "b"
+  },
+  {
     "id": "mat-subsequente-2022-q16",
     "examId": "mat-subsequente-2022",
     "discipline": "matematica",
