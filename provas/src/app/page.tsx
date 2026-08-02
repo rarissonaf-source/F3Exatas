@@ -17,7 +17,15 @@ export default function Home() {
 
   return (
     <main className="relative flex-1">
-      <div className="relative overflow-hidden bg-brand-navy pb-14 pt-16 sm:pb-16 sm:pt-20">
+      <div
+        className="relative overflow-hidden pb-14 pt-16 sm:pb-16 sm:pt-20"
+        style={{
+          // Same diagonal navy → navy-tint → orange signature used by the hero banners
+          // on F3Concursos/F3Cursos/F3Mentorias, so this reads as the same family of pages.
+          background:
+            "linear-gradient(100deg, var(--brand-navy) 0%, var(--brand-navy) 30%, #4d6aa0 55%, var(--brand-orange) 100%)",
+        }}
+      >
         <div className="relative mx-auto w-full max-w-4xl px-6">
           <motion.h1
             initial={{ opacity: 0, y: 12 }}
