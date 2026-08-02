@@ -23,7 +23,15 @@ export function PageHero({
   backLabel?: string;
 }) {
   return (
-    <div className="relative overflow-hidden bg-brand-navy">
+    <div
+      className="relative overflow-hidden"
+      style={{
+        // Same diagonal navy → navy-tint → orange signature used by the hero banners
+        // on F3Concursos/F3Cursos/F3Mentorias, so this reads as the same family of pages.
+        background:
+          "linear-gradient(100deg, var(--brand-navy) 0%, var(--brand-navy) 30%, #4d6aa0 55%, var(--brand-orange) 100%)",
+      }}
+    >
       <div className="relative mx-auto w-full max-w-4xl px-6 py-10 sm:py-12">
         {backHref && (
           <Link
