@@ -5940,7 +5940,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 24,
-    "statement": "Para uma função real $f:\\mathbb{R}\\to\\mathbb{R}$, que satisfaz as condições: I. $f(a+b)=f(a)+f(b)$  II. $f(1)=5$. O valor de $f(4)$ é igual a:",
+    "statement": "Para uma função real $f:\\mathbb{R}\\to\\mathbb{R}$, que satisfaz as condições:\nI. $f(a+b)=f(a)+f(b)$\nII. $f(1)=5$.\nO valor de $f(4)$ é igual a:",
     "options": [
       { "label": "a", "text": "25" },
       { "label": "b", "text": "20" },
@@ -6042,7 +6042,7 @@
     "discipline": "matematica",
     "topic": "trigonometria",
     "number": 30,
-    "statement": "Considere α um ângulo agudo e as afirmações seguintes: I. $sen(90°-\\alpha)=-\\cos\\alpha$  II. $sen(180°-\\alpha)=sen\\,\\alpha$  III. $\\cos(180°+\\alpha)=-\\cos\\alpha$. De acordo com os três itens acima, qual a opção verdadeira?",
+    "statement": "Considere α um ângulo agudo e as afirmações seguintes:\nI. $sen(90°-\\alpha)=-\\cos\\alpha$\nII. $sen(180°-\\alpha)=sen\\,\\alpha$\nIII. $\\cos(180°+\\alpha)=-\\cos\\alpha$.\nDe acordo com os três itens acima, qual a opção verdadeira?",
     "options": [
       { "label": "a", "text": "Apenas II e III são verdadeiras" },
       { "label": "b", "text": "Apenas I e III são verdadeiras" },
@@ -7079,7 +7079,7 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 32,
-    "statement": "Divisores próprios de um número inteiro positivo n são todos os divisores inteiros positivos de n, exceto o próprio n. Por exemplo, os divisores próprios de 16 são: 1, 2, 4 e 8. Dizemos que um número é perfeito quando pode ser escrito com a soma de seus divisores próprios. Com base nessas informações, temos as afirmativas. I. O número 28 é perfeito. II. Todo número par é perfeito. III. Não existe número primo perfeito. Sobre as afirmativas acima temos:",
+    "statement": "Divisores próprios de um número inteiro positivo n são todos os divisores inteiros positivos de n, exceto o próprio n. Por exemplo, os divisores próprios de 16 são: 1, 2, 4 e 8. Dizemos que um número é perfeito quando pode ser escrito com a soma de seus divisores próprios. Com base nessas informações, temos as afirmativas.\nI. O número 28 é perfeito.\nII. Todo número par é perfeito.\nIII. Não existe número primo perfeito.\nSobre as afirmativas acima temos:",
     "options": [
       { "label": "a", "text": "I, II e III são falsas" },
       { "label": "b", "text": "Somente I e III são falsas" },
@@ -7096,7 +7096,7 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 33,
-    "statement": "Nas alternativas abaixo: I. $\\sqrt[3]{\\sqrt{18}}=\\sqrt[6]{18}$  II. $\\sqrt[15]{42}=\\sqrt[5]{\\sqrt[3]{42}}$  III. $\\sqrt[6]{\\sqrt{22}}=\\sqrt[8]{22}$  IV. $\\sqrt[3]{10}<\\sqrt[12]{\\sqrt[4]{10}}$  V. $\\sqrt[4]{\\sqrt[3]{56}}=\\sqrt[12]{56}$  VI. $\\sqrt{\\sqrt[12]{74}}=\\sqrt[3]{\\sqrt[3]{\\sqrt[4]{74}}}$. Estão corretas:",
+    "statement": "Nas alternativas abaixo:\nI. $\\sqrt[3]{\\sqrt{18}}=\\sqrt[6]{18}$\nII. $\\sqrt[15]{42}=\\sqrt[5]{\\sqrt[3]{42}}$\nIII. $\\sqrt[6]{\\sqrt{22}}=\\sqrt[8]{22}$\nIV. $\\sqrt[3]{10}<\\sqrt[12]{\\sqrt[4]{10}}$\nV. $\\sqrt[4]{\\sqrt[3]{56}}=\\sqrt[12]{56}$\nVI. $\\sqrt{\\sqrt[12]{74}}=\\sqrt[3]{\\sqrt[3]{\\sqrt[4]{74}}}$.\nEstão corretas:",
     "options": [
       { "label": "a", "text": "I, II e V" },
       { "label": "b", "text": "III, IV e VI" },
@@ -7334,7 +7334,7 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 27,
-    "statement": "Sobre os itens abaixo: I. Se $2<3<5$, então $\\sqrt2<\\sqrt3<\\sqrt5$  II. $\\sqrt2<\\sqrt[10]{2^5}$  III. $\\sqrt[9]{64}<2^{2/3}$  IV. $\\sqrt[5]{125}<\\sqrt[10]{1000}$. Podemos afirmar que:",
+    "statement": "Sobre os itens abaixo:\nI. Se $2<3<5$, então $\\sqrt2<\\sqrt3<\\sqrt5$\nII. $\\sqrt2<\\sqrt[10]{2^5}$\nIII. $\\sqrt[9]{64}<2^{2/3}$\nIV. $\\sqrt[5]{125}<\\sqrt[10]{1000}$.\nPodemos afirmar que:",
     "options": [
       { "label": "a", "text": "Apenas III está falso" },
       { "label": "b", "text": "Somente I e II estão falsos" },
@@ -7351,7 +7351,7 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 28,
-    "statement": "Dadas as afirmativas: I. Todo número par é divisível por 2. II. Todo número ímpar é divisível por 3. III. Todo número é divisível por 10 quando termina em 0 ou 5. IV. No calendário do mês de maio há mais números divisíveis por 9 do que por 10. V. Existe um número natural que é divisível por 2, 3, 5 e 9 ao mesmo tempo. Quais as afirmativas verdadeiras?",
+    "statement": "Dadas as afirmativas:\nI. Todo número par é divisível por 2.\nII. Todo número ímpar é divisível por 3.\nIII. Todo número é divisível por 10 quando termina em 0 ou 5.\nIV. No calendário do mês de maio há mais números divisíveis por 9 do que por 10.\nV. Existe um número natural que é divisível por 2, 3, 5 e 9 ao mesmo tempo.\nQuais as afirmativas verdadeiras?",
     "options": [
       { "label": "a", "text": "III e IV" },
       { "label": "b", "text": "II e V" },
@@ -7657,7 +7657,7 @@
     "discipline": "matematica",
     "topic": "geometria-plana",
     "number": 26,
-    "statement": "Sejam as retas $r:a_1x+b_1y+c_1=0$ e $s:a_2x+b_2y+c_2=0$ para $a_1,a_2,b_1,b_2,c_1$ e $c_2$ constantes reais não nulas. De acordo com as posições entre duas retas, temos as seguintes afirmativas e relações: A. r e s são retas paralelas distintas. B. r e s são retas coincidentes. C. r e s são retas concorrentes entre si. I. $\\dfrac{a_1}{a_2}\\ne\\dfrac{b_1}{b_2}$  II. $\\dfrac{a_1}{a_2}=\\dfrac{b_1}{b_2}=\\dfrac{c_1}{c_2}$  III. $\\dfrac{a_1}{a_2}=\\dfrac{b_1}{b_2}\\ne\\dfrac{c_1}{c_2}$. Relacione as afirmativas com as igualdades:",
+    "statement": "Sejam as retas $r:a_1x+b_1y+c_1=0$ e $s:a_2x+b_2y+c_2=0$ para $a_1,a_2,b_1,b_2,c_1$ e $c_2$ constantes reais não nulas. De acordo com as posições entre duas retas, temos as seguintes afirmativas e relações:\nA. r e s são retas paralelas distintas.\nB. r e s são retas coincidentes.\nC. r e s são retas concorrentes entre si.\nI. $\\dfrac{a_1}{a_2}\\ne\\dfrac{b_1}{b_2}$\nII. $\\dfrac{a_1}{a_2}=\\dfrac{b_1}{b_2}=\\dfrac{c_1}{c_2}$\nIII. $\\dfrac{a_1}{a_2}=\\dfrac{b_1}{b_2}\\ne\\dfrac{c_1}{c_2}$.\nRelacione as afirmativas com as igualdades:",
     "options": [
       { "label": "a", "text": "A-II; B-II; C-I" },
       { "label": "b", "text": "A-I; B-II; C-III" },
@@ -7674,7 +7674,7 @@
     "discipline": "matematica",
     "topic": "geometria-plana",
     "number": 27,
-    "statement": "Leia as afirmativas. I. O polígono que possui 9 lados é denominado decágono. II. A soma dos ângulos internos de qualquer quadrilátero é 360°. III. Um polígono convexo regular tem todos os ângulos internos com a mesma medida. IV. Se dois polígonos têm quantidades diferentes de lados, necessariamente eles têm a soma dos ângulos internos também diferentes. A(s) afirmação(ões) correta(s) são:",
+    "statement": "Leia as afirmativas.\nI. O polígono que possui 9 lados é denominado decágono.\nII. A soma dos ângulos internos de qualquer quadrilátero é 360°.\nIII. Um polígono convexo regular tem todos os ângulos internos com a mesma medida.\nIV. Se dois polígonos têm quantidades diferentes de lados, necessariamente eles têm a soma dos ângulos internos também diferentes.\nA(s) afirmação(ões) correta(s) são:",
     "options": [
       { "label": "a", "text": "IV" },
       { "label": "b", "text": "I" },
@@ -7708,7 +7708,7 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 29,
-    "statement": "Nas afirmações abaixo: I. $\\dfrac{1}{4}\\cdot\\sqrt{48}+8\\cdot\\sqrt3=8\\cdot\\sqrt6$  II. $\\dfrac{2}{5}a^3b^2\\cdot\\sqrt{\\dfrac{50x^2}{4a^4b^4}}=a\\cdot x\\cdot\\sqrt2$, para $x>0$, $a>0$ e $b>0$  III. Se $\\sqrt[3]{300}=2^x\\cdot3^y\\cdot5^z$, então $x=\\dfrac{2}{3}$, $y=\\dfrac{1}{3}$ e $z=\\dfrac{2}{3}$  IV. Se $2<3<5$, então $\\sqrt2<\\sqrt[3]{3}<\\sqrt[4]{5}$. São verdadeiras:",
+    "statement": "Nas afirmações abaixo:\nI. $\\dfrac{1}{4}\\cdot\\sqrt{48}+8\\cdot\\sqrt3=8\\cdot\\sqrt6$\nII. $\\dfrac{2}{5}a^3b^2\\cdot\\sqrt{\\dfrac{50x^2}{4a^4b^4}}=a\\cdot x\\cdot\\sqrt2$, para $x>0$, $a>0$ e $b>0$\nIII. Se $\\sqrt[3]{300}=2^x\\cdot3^y\\cdot5^z$, então $x=\\dfrac{2}{3}$, $y=\\dfrac{1}{3}$ e $z=\\dfrac{2}{3}$\nIV. Se $2<3<5$, então $\\sqrt2<\\sqrt[3]{3}<\\sqrt[4]{5}$.\nSão verdadeiras:",
     "options": [
       { "label": "a", "text": "II e III" },
       { "label": "b", "text": "I e II" },
@@ -7725,7 +7725,7 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 30,
-    "statement": "Sejam as afirmativas, sabendo que $\\mathbb{R}$ é o conjunto dos números reais, $\\mathbb{Z}$ o conjunto dos números inteiros, $\\mathbb{Q}$ o conjunto dos números racionais e $\\mathbb{I}$ o conjunto dos números irracionais: I. $\\sqrt{10}\\in(\\mathbb{Q}\\cup\\mathbb{I})$  II. $\\mathbb{Z}\\not\\subset\\mathbb{R}$  III. $(\\mathbb{Q}\\cap\\mathbb{I})=\\varnothing$  IV. $\\mathbb{R}\\subset\\mathbb{R}^*$  V. $3{,}762\\in(\\mathbb{Q}\\cap\\mathbb{Z})$  VI. $\\mathbb{I}\\not\\subset\\mathbb{Z}$. As afirmativas corretas são:",
+    "statement": "Sejam as afirmativas, sabendo que $\\mathbb{R}$ é o conjunto dos números reais, $\\mathbb{Z}$ o conjunto dos números inteiros, $\\mathbb{Q}$ o conjunto dos números racionais e $\\mathbb{I}$ o conjunto dos números irracionais:\nI. $\\sqrt{10}\\in(\\mathbb{Q}\\cup\\mathbb{I})$\nII. $\\mathbb{Z}\\not\\subset\\mathbb{R}$\nIII. $(\\mathbb{Q}\\cap\\mathbb{I})=\\varnothing$\nIV. $\\mathbb{R}\\subset\\mathbb{R}^*$\nV. $3{,}762\\in(\\mathbb{Q}\\cap\\mathbb{Z})$\nVI. $\\mathbb{I}\\not\\subset\\mathbb{Z}$.\nAs afirmativas corretas são:",
     "options": [
       { "label": "a", "text": "V e VI" },
       { "label": "b", "text": "II, IV e V" },
@@ -7810,7 +7810,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 35,
-    "statement": "Seja a função f, definida de $\\mathbb{R}$ em $\\mathbb{R}$, dada por $f(x)=kx+t$, em que k e t são constantes reais não nulas e os pontos $(-1,3)$ e $(0,-1)$ pertencem ao gráfico de f. Sejam as afirmativas: I. f é crescente, $\\forall x\\in\\mathbb{R}$. II. $\\dfrac{3}{4}$ é zero da função. III. O ponto $(-10,39)$ pertence ao gráfico de f. IV. $f(x)<0$, se $x<\\dfrac{1}{4}$. V. $f(x)\\le0$, se $x\\ge-\\dfrac{1}{4}$. Das afirmativas acima, as verdadeiras são:",
+    "statement": "Seja a função f, definida de $\\mathbb{R}$ em $\\mathbb{R}$, dada por $f(x)=kx+t$, em que k e t são constantes reais não nulas e os pontos $(-1,3)$ e $(0,-1)$ pertencem ao gráfico de f. Sejam as afirmativas:\nI. f é crescente, $\\forall x\\in\\mathbb{R}$.\nII. $\\dfrac{3}{4}$ é zero da função.\nIII. O ponto $(-10,39)$ pertence ao gráfico de f.\nIV. $f(x)<0$, se $x<\\dfrac{1}{4}$.\nV. $f(x)\\le0$, se $x\\ge-\\dfrac{1}{4}$.\nDas afirmativas acima, as verdadeiras são:",
     "options": [
       { "label": "a", "text": "II e IV" },
       { "label": "b", "text": "I e II" },
@@ -7861,7 +7861,7 @@
     "discipline": "matematica",
     "topic": "algebra-expressoes",
     "number": 38,
-    "statement": "Considere os números complexos $Z=\\sqrt3+i$ e $W=1-i$. Para as informações abaixo: I. $|\\bar{Z}\\cdot W|=3\\sqrt2$  II. $W^2+2Z$ é um número real  III. $Z=4\\left[\\cos\\left(\\dfrac{\\pi}{6}\\right)+i\\,sen\\left(\\dfrac{\\pi}{6}\\right)\\right]$  IV. $\\dfrac{Z}{W}=\\dfrac{1+i}{2}$. Podemos afirmar:",
+    "statement": "Considere os números complexos $Z=\\sqrt3+i$ e $W=1-i$. Para as informações abaixo:\nI. $|\\bar{Z}\\cdot W|=3\\sqrt2$\nII. $W^2+2Z$ é um número real\nIII. $Z=4\\left[\\cos\\left(\\dfrac{\\pi}{6}\\right)+i\\,sen\\left(\\dfrac{\\pi}{6}\\right)\\right]$\nIV. $\\dfrac{Z}{W}=\\dfrac{1+i}{2}$.\nPodemos afirmar:",
     "options": [
       { "label": "a", "text": "Somente II é correta" },
       { "label": "b", "text": "Apenas III e IV estão corretas" },
@@ -8354,7 +8354,7 @@
     "discipline": "matematica",
     "topic": "geometria-plana",
     "number": 27,
-    "statement": "Associe \"V\" para verdadeiro e \"F\" para falso nas afirmações: I. As diagonais de qualquer retângulo são congruentes. II. As diagonais de qualquer losango são congruentes. III. As diagonais de um quadrado são congruentes. IV. As diagonais de qualquer retângulo são perpendiculares entre si. V. As diagonais de qualquer losango são perpendiculares entre si. VI. As diagonais de um quadrado são perpendiculares entre si. A sequência das associações nas afirmações anteriores é:",
+    "statement": "Associe \"V\" para verdadeiro e \"F\" para falso nas afirmações:\nI. As diagonais de qualquer retângulo são congruentes.\nII. As diagonais de qualquer losango são congruentes.\nIII. As diagonais de um quadrado são congruentes.\nIV. As diagonais de qualquer retângulo são perpendiculares entre si.\nV. As diagonais de qualquer losango são perpendiculares entre si.\nVI. As diagonais de um quadrado são perpendiculares entre si.\nA sequência das associações nas afirmações anteriores é:",
     "options": [
       { "label": "a", "text": "I-V; II-F; III-F; IV-V; V-V; VI-V" },
       { "label": "b", "text": "I-V; II-F; III-F; IV-F; V-V; VI-V" },
@@ -8677,7 +8677,7 @@
     "discipline": "matematica",
     "topic": "geometria-plana",
     "number": 26,
-    "statement": "Duas retas não-verticais e coplanares r e s de equações reduzidas $y=m_rx+q_r$ e $y=m_sx+q_s$, respectivamente, são: I. Paralelas distintas se, e somente se, $m_r=m_s$ e $q_r\\ne q_s$. II. Paralelas coincidentes se, e somente se, $m_r\\ne m_s$ e $q_r\\ne q_s$. III. Concorrentes se, e somente se, $m_r\\ne m_s$. As afirmações corretas são:",
+    "statement": "Duas retas não-verticais e coplanares r e s de equações reduzidas $y=m_rx+q_r$ e $y=m_sx+q_s$, respectivamente, são:\nI. Paralelas distintas se, e somente se, $m_r=m_s$ e $q_r\\ne q_s$.\nII. Paralelas coincidentes se, e somente se, $m_r\\ne m_s$ e $q_r\\ne q_s$.\nIII. Concorrentes se, e somente se, $m_r\\ne m_s$.\nAs afirmações corretas são:",
     "options": [
       { "label": "a", "text": "I" },
       { "label": "b", "text": "II e III" },
@@ -8694,7 +8694,7 @@
     "discipline": "matematica",
     "topic": "funcoes",
     "number": 27,
-    "statement": "Considere as seguintes afirmações: I. Sendo f(x) uma função definida de A em B, ela é função sobrejetora quando o conjunto imagem é igual a B. II. Toda função não é relação. III. Sendo uma função f definida de A em B e injetora, considerando para todo $x_1,x_2\\in A$ com $x_1\\ne x_2$, temos $f(x_1)\\ne f(x_2)$. Dentre as afirmações anteriores tem-se:",
+    "statement": "Considere as seguintes afirmações:\nI. Sendo f(x) uma função definida de A em B, ela é função sobrejetora quando o conjunto imagem é igual a B.\nII. Toda função não é relação.\nIII. Sendo uma função f definida de A em B e injetora, considerando para todo $x_1,x_2\\in A$ com $x_1\\ne x_2$, temos $f(x_1)\\ne f(x_2)$.\nDentre as afirmações anteriores tem-se:",
     "options": [
       { "label": "a", "text": "Apenas I está correta" },
       { "label": "b", "text": "I e III estão corretas" },
@@ -8898,7 +8898,7 @@
     "discipline": "matematica",
     "topic": "trigonometria",
     "number": 39,
-    "statement": "No estudo de trigonometria, dois estudantes do IFMA se depararam com as seguintes desigualdades: I. $\\cos(-20°)<\\cos35°$  II. $sen20°<sen35°$  III. $\\cos(-20°)<sen(-35°)$. Está(ão) correta(s):",
+    "statement": "No estudo de trigonometria, dois estudantes do IFMA se depararam com as seguintes desigualdades:\nI. $\\cos(-20°)<\\cos35°$\nII. $sen20°<sen35°$\nIII. $\\cos(-20°)<sen(-35°)$.\nEstá(ão) correta(s):",
     "options": [
       { "label": "a", "text": "I e III" },
       { "label": "b", "text": "I" },
@@ -9884,7 +9884,7 @@
     "discipline": "matematica",
     "topic": "equacoes-inequacoes",
     "number": 37,
-    "statement": "Um consumidor adquiriu um aparelho celular com dois chips, que possibilitou utilizar os serviços das operadoras V e C. A operadora V cobra um valor fixo de R\\$ 0,05, quando iniciada a ligação e mais R\\$ 0,12 por minuto da mesma ligação. A operadora C cobra um valor fixo de R\\$ 0,08 e mais R\\$ 0,11 por minuto na ligação. Considere as afirmações a seguir: I. O custo de uma ligação de exatos 3 minutos é o mesmo, qualquer que seja a operadora. II. O custo da ligação usando a operadora V será menor do que a ligação usando a operadora C, independentemente do tempo de duração da ligação. III. Uma ligação de 10 (dez) minutos efetuada pela operadora V custará R\\$ 0,18 a mais do que efetuada pela operadora C. IV. Toda ligação com duração inferior a 3 (três) minutos efetuada usando a operadora V será mais \"barata\" que uma efetuada usando a operadora C. Determine a alternativa que contém todas as afirmativas corretas:",
+    "statement": "Um consumidor adquiriu um aparelho celular com dois chips, que possibilitou utilizar os serviços das operadoras V e C. A operadora V cobra um valor fixo de R\\$ 0,05, quando iniciada a ligação e mais R\\$ 0,12 por minuto da mesma ligação. A operadora C cobra um valor fixo de R\\$ 0,08 e mais R\\$ 0,11 por minuto na ligação. Considere as afirmações a seguir:\nI. O custo de uma ligação de exatos 3 minutos é o mesmo, qualquer que seja a operadora.\nII. O custo da ligação usando a operadora V será menor do que a ligação usando a operadora C, independentemente do tempo de duração da ligação.\nIII. Uma ligação de 10 (dez) minutos efetuada pela operadora V custará R\\$ 0,18 a mais do que efetuada pela operadora C.\nIV. Toda ligação com duração inferior a 3 (três) minutos efetuada usando a operadora V será mais \"barata\" que uma efetuada usando a operadora C.\nDetermine a alternativa que contém todas as afirmativas corretas:",
     "options": [
       { "label": "a", "text": "II e IV" },
       { "label": "b", "text": "I, II e III" },
@@ -9901,7 +9901,7 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 38,
-    "statement": "Dadas às sentenças abaixo: I. Seja a dízima periódica 1,3252525... sua fração geratriz é 656/495. II. Se A={1,3,6,9} e B={3,5,9}, então $C_B^A=\\{3,9\\}$. III. Dados três segmentos de retas, com dimensões medindo 6, 14 e 20, pode-se afirmar que é possível construir com esses segmentos, ligando dois a dois suas extremidades, um triângulo qualquer. IV. Se os conjuntos N={a,b}, M={b,c,d} e P={c,d,e,f}, então $(N\\cup M)\\cap(P\\cup N)=\\{a,b,c,d\\}$. Podemos afirmar que estão corretas:",
+    "statement": "Dadas às sentenças abaixo:\nI. Seja a dízima periódica 1,3252525... sua fração geratriz é 656/495.\nII. Se A={1,3,6,9} e B={3,5,9}, então $C_B^A=\\{3,9\\}$.\nIII. Dados três segmentos de retas, com dimensões medindo 6, 14 e 20, pode-se afirmar que é possível construir com esses segmentos, ligando dois a dois suas extremidades, um triângulo qualquer.\nIV. Se os conjuntos N={a,b}, M={b,c,d} e P={c,d,e,f}, então $(N\\cup M)\\cap(P\\cup N)=\\{a,b,c,d\\}$.\nPodemos afirmar que estão corretas:",
     "options": [
       { "label": "a", "text": "I e III" },
       { "label": "b", "text": "I e IV" },
@@ -10156,7 +10156,7 @@
     "discipline": "matematica",
     "topic": "numeros-operacoes",
     "number": 33,
-    "statement": "Considere as seguintes afirmações: I. Na reta real, a distância entre os números $10^7$ e $10^5$ é maior que a distância entre $10^7$ e $10^8$. II. $\\left(\\dfrac{1}{3}\\right)^{-2}=9$. III. $0{,}000421=4{,}21\\cdot10^{-3}$. IV. $-5^2=25$. São corretas as afirmações:",
+    "statement": "Considere as seguintes afirmações:\nI. Na reta real, a distância entre os números $10^7$ e $10^5$ é maior que a distância entre $10^7$ e $10^8$.\nII. $\\left(\\dfrac{1}{3}\\right)^{-2}=9$.\nIII. $0{,}000421=4{,}21\\cdot10^{-3}$.\nIV. $-5^2=25$.\nSão corretas as afirmações:",
     "options": [
       { "label": "a", "text": "Somente II" },
       { "label": "b", "text": "Somente I,II e IV" },
@@ -10887,7 +10887,7 @@
     "discipline": "matematica",
     "topic": "trigonometria",
     "number": 36,
-    "statement": "A equação escrita na forma $a\\cdot x^2+b\\cdot x+c=0$, com $a\\ne0$, $b\\ne0$ e $c\\ne0$, possuem raízes $x_1=tg(u)$ e $x_2=tg(v)$, sendo $u+v=60°$. Das afirmações abaixo: I. $c=\\sqrt3\\cdot b-b$  II. Se $S=x_1+x_2$ e $P=x_1\\cdot x_2$, então $S=\\sqrt3\\cdot(1-P)$  III. $b=\\sqrt3(c-a)$  IV. $c=\\dfrac{1}{3}\\cdot(\\sqrt3\\cdot b+b)$. É correto afirmar que:",
+    "statement": "A equação escrita na forma $a\\cdot x^2+b\\cdot x+c=0$, com $a\\ne0$, $b\\ne0$ e $c\\ne0$, possuem raízes $x_1=tg(u)$ e $x_2=tg(v)$, sendo $u+v=60°$. Das afirmações abaixo:\nI. $c=\\sqrt3\\cdot b-b$\nII. Se $S=x_1+x_2$ e $P=x_1\\cdot x_2$, então $S=\\sqrt3\\cdot(1-P)$\nIII. $b=\\sqrt3(c-a)$\nIV. $c=\\dfrac{1}{3}\\cdot(\\sqrt3\\cdot b+b)$.\nÉ correto afirmar que:",
     "options": [
       { "label": "a", "text": "I e II são verdadeiras" },
       { "label": "b", "text": "I e III são verdadeiras" },
