@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { motion } from "framer-motion";
+import { BASE_PATH } from "@/lib/base-path";
 
 export function SiteHeader() {
   return (
@@ -15,7 +16,7 @@ export function SiteHeader() {
       <div className="mx-auto flex h-20 w-full max-w-4xl items-center px-6">
         <Link href="/" className="group flex items-center gap-3 font-heading font-bold tracking-tight">
           <span className="relative flex size-12 shrink-0 items-center justify-center overflow-hidden rounded-2xl shadow-lg ring-1 ring-white/20 transition-transform group-hover:scale-105">
-            <Image src="/brand/f3-logo.jpg" alt="F3" fill sizes="48px" className="object-cover" priority />
+            <Image src={`${BASE_PATH}/brand/f3-logo.jpg`} alt="F3" fill sizes="48px" className="object-cover" priority />
           </span>
           <span className="text-xl tracking-wide">
             F3 <span className="text-brand-orange">Provas</span>

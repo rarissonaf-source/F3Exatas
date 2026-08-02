@@ -210,6 +210,7 @@ body {
   flex-direction: column;
   box-shadow: 0 14px 30px rgba(38, 57, 89, 0.16);
   transition: transform 0.35s ease, box-shadow 0.35s ease;
+  cursor: pointer;
 }
 
 .path-card:hover {
@@ -317,6 +318,15 @@ body {
   color: var(--white);
   margin-top: 6px;
   transition: gap 0.3s ease, color 0.3s ease;
+}
+
+/* Invisible overlay link that makes the whole card clickable for mouse/touch users.
+   Hidden from the accessibility tree and tab order — the visible .path-cta below
+   remains the one real, focusable link for keyboard and screen-reader users. */
+.path-card-stretch {
+  position: absolute;
+  inset: 0;
+  z-index: 4;
 }
 
 .path-cta span {

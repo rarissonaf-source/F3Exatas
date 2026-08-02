@@ -18,6 +18,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { LatexText } from "@/components/latex-text";
 import { createList, getLists, toggleQuestionInList, type QuestionList } from "@/lib/question-lists";
+import { BASE_PATH } from "@/lib/base-path";
 import type { ExamSource, OptionLabel, Question } from "@/lib/types";
 
 const OPTION_LABELS: Record<OptionLabel, string> = { a: "A", b: "B", c: "C", d: "D", e: "E" };
@@ -58,7 +59,7 @@ export function QuestionCard({
   const isCorrect = checked && hasGabarito && selected === question.correctAnswer;
   const isAnnulled = Boolean(question.annulled);
   const imageUrl = question.imagePath
-    ? `/content-images/${institution}/${discipline}/${question.imagePath}`
+    ? `${BASE_PATH}/content-images/${institution}/${discipline}/${question.imagePath}`
     : null;
 
   useEffect(() => {
@@ -146,7 +147,7 @@ export function QuestionCard({
           const isTheCorrectOne = checked && hasGabarito && opt.label === question.correctAnswer;
           const isWrongSelected = checked && hasGabarito && isSelected && !isTheCorrectOne;
           const optionImageUrl = opt.imagePath
-            ? `/content-images/${institution}/${discipline}/${opt.imagePath}`
+            ? `${BASE_PATH}/content-images/${institution}/${discipline}/${opt.imagePath}`
             : null;
 
           return (

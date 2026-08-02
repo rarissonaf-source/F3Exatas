@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/provas", "destination": "https://f3-exatas-qttp.vercel.app/provas" },
+    { "source": "/provas/:path*", "destination": "https://f3-exatas-qttp.vercel.app/provas/:path*" }
+  ]
+}

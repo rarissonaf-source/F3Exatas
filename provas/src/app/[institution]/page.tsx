@@ -6,6 +6,7 @@ import { Card } from "@/components/ui/card";
 import { MotionGrid, MotionItem } from "@/components/motion-grid";
 import { PageHero } from "@/components/page-hero";
 import { getInstitution } from "@/lib/institutions";
+import { BASE_PATH } from "@/lib/base-path";
 
 const DISCIPLINE_ICONS: Record<string, LucideIcon> = {
   fisica: Atom,
@@ -28,7 +29,7 @@ export default async function InstitutionPage({
         subtitle={`${data.fullName} — ${data.stateName}. Escolha uma disciplina.`}
         icon={
           <span className="relative block size-full overflow-hidden rounded-2xl bg-white">
-            <Image src={data.logo} alt={data.name} fill className="object-contain p-2" sizes="56px" />
+            <Image src={`${BASE_PATH}${data.logo}`} alt={data.name} fill className="object-contain p-2" sizes="56px" />
           </span>
         }
         backHref="/"

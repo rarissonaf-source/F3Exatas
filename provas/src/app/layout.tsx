@@ -3,6 +3,7 @@ import { Montserrat, Lato } from "next/font/google";
 import "katex/dist/katex.min.css";
 import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
+import { BASE_PATH } from "@/lib/base-path";
 
 const montserrat = Montserrat({
   variable: "--font-montserrat",
@@ -21,8 +22,8 @@ export const metadata: Metadata = {
   description:
     "Repositório de provas de vestibular por instituição, disciplina e assunto — parte da rede F3 Exatas.",
   icons: {
-    icon: "/brand/f3-logo.jpg",
-    apple: "/brand/f3-logo.jpg",
+    icon: `${BASE_PATH}/brand/f3-logo.jpg`,
+    apple: `${BASE_PATH}/brand/f3-logo.jpg`,
   },
 };
 

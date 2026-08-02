@@ -3,6 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 import type { ExamSource, Question } from "./types";
 import { getTopicsForDiscipline } from "./topics";
+import { BASE_PATH } from "./base-path";
 
 const CONTENT_ROOT = path.join(process.cwd(), "content");
 
@@ -53,5 +54,5 @@ export function getExamById(
 }
 
 export function imageUrl(institution: string, discipline: string, imagePath: string) {
-  return `/content-images/${institution}/${discipline}/${imagePath}`;
+  return `${BASE_PATH}/content-images/${institution}/${discipline}/${imagePath}`;
 }

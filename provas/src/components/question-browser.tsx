@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button";
 import { QuestionCard } from "@/components/question-card";
 import { recordAnswerCheckAndMaybePrompt, MENTORIAS_URL } from "@/lib/checkin";
 import { staggerContainer, fadeUpItem } from "@/lib/motion";
+import { BASE_PATH } from "@/lib/base-path";
 import type { ExamSource, Question } from "@/lib/types";
 
 interface Props {
@@ -61,7 +62,7 @@ export function QuestionBrowser({
       </motion.div>
 
       <a
-        href={`/api/pdf/${institution}/${discipline}/${topicSlug}`}
+        href={`${BASE_PATH}/api/pdf/${institution}/${discipline}/${topicSlug}`}
         className="mt-8 inline-flex items-center gap-2.5 rounded-full py-2.5 pl-2.5 pr-5 text-sm font-bold uppercase tracking-wide text-white shadow-md transition-transform hover:scale-[1.02]"
         style={{ backgroundColor: topicColor }}
       >

@@ -7,6 +7,7 @@ import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import { staggerContainer, fadeUpItem } from "@/lib/motion";
 import { INSTITUTIONS, STATES } from "@/lib/institutions";
+import { BASE_PATH } from "@/lib/base-path";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 
@@ -72,7 +73,7 @@ export default function Home() {
                 }`}
               >
                 <span className="relative flex size-24 shrink-0 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-border">
-                  <Image src={inst.logo} alt={inst.name} fill className="object-contain p-2.5" sizes="96px" />
+                  <Image src={`${BASE_PATH}${inst.logo}`} alt={inst.name} fill className="object-contain p-2.5" sizes="96px" />
                 </span>
                 <div className="min-w-0 flex-1">
                   <div className="flex items-center gap-2">
