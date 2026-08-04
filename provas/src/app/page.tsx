@@ -34,10 +34,10 @@ export default function Home() {
           <img
             src={`${BASE_PATH}/brand/icons/provas.svg`}
             alt=""
-            // Same icon-as-white-silhouette treatment as the .hero-logo used in the
-            // F3Concursos/F3Cursos/F3Mentorias hero banners, and the same fixed sizes.
+            // Full-color icon (not a white silhouette) with a soft drop-shadow — same
+            // treatment as the hub's path-card and the F3Cursos/F3Mentorias hero-logo.
             className="size-[90px] object-contain sm:size-[130px]"
-            style={{ filter: "brightness(0) invert(1)" }}
+            style={{ filter: "drop-shadow(0 10px 20px rgba(0, 0, 0, 0.35))" }}
           />
           <h1 className="font-heading text-2xl font-extrabold tracking-tight text-white sm:text-3xl">
             F3 <span className="text-brand-orange">Provas</span>
