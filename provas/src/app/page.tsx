@@ -29,16 +29,16 @@ export default function Home() {
             "linear-gradient(100deg, var(--brand-navy) 0%, var(--brand-navy) 30%, #4d6aa0 55%, var(--brand-orange) 100%)",
         }}
       >
-        <div className="flex flex-1 flex-col items-center gap-3 text-center sm:items-center">
-          <span className="relative block size-20 shrink-0 sm:size-28">
-            <Image
-              src={`${BASE_PATH}/brand/f3-logo.jpg`}
-              alt=""
-              fill
-              sizes="112px"
-              className="rounded-2xl object-cover shadow-lg"
-            />
-          </span>
+        <div className="flex flex-1 flex-col items-center gap-[18px] text-center sm:items-center">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={`${BASE_PATH}/brand/icons/provas.svg`}
+            alt=""
+            // Same icon-as-white-silhouette treatment as the .hero-logo used in the
+            // F3Concursos/F3Cursos/F3Mentorias hero banners, and the same fixed sizes.
+            className="size-[90px] object-contain sm:size-[130px]"
+            style={{ filter: "brightness(0) invert(1)" }}
+          />
           <h1 className="font-heading text-2xl font-extrabold tracking-tight text-white sm:text-3xl">
             F3 <span className="text-brand-orange">Provas</span>
           </h1>
