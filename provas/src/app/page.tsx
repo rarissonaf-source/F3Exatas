@@ -17,8 +17,11 @@ export default function Home() {
 
   return (
     <main className="relative flex-1">
-      <div
-        className="relative overflow-hidden pb-14 pt-16 sm:pb-16 sm:pt-20"
+      <motion.div
+        initial={{ opacity: 0, y: 16 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.45 }}
+        className="relative mx-auto my-8 flex min-h-[300px] w-full max-w-4xl flex-col items-center gap-6 overflow-hidden rounded-[28px] px-6 py-10 sm:my-10 sm:flex-row sm:gap-0 sm:px-16"
         style={{
           // Same diagonal navy → navy-tint → orange signature used by the hero banners
           // on F3Concursos/F3Cursos/F3Mentorias, so this reads as the same family of pages.
@@ -26,25 +29,29 @@ export default function Home() {
             "linear-gradient(100deg, var(--brand-navy) 0%, var(--brand-navy) 30%, #4d6aa0 55%, var(--brand-orange) 100%)",
         }}
       >
-        <div className="relative mx-auto w-full max-w-4xl px-6">
-          <motion.h1
-            initial={{ opacity: 0, y: 12 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.4 }}
-            className="font-heading text-4xl font-bold tracking-tight text-white text-balance sm:text-5xl"
-          >
+        <div className="flex flex-1 flex-col items-center gap-3 text-center sm:items-center">
+          <span className="relative block size-20 shrink-0 sm:size-28">
+            <Image
+              src={`${BASE_PATH}/brand/f3-logo.jpg`}
+              alt=""
+              fill
+              sizes="112px"
+              className="rounded-2xl object-cover shadow-lg"
+            />
+          </span>
+          <h1 className="font-heading text-2xl font-extrabold tracking-tight text-white sm:text-3xl">
             F3 <span className="text-brand-orange">Provas</span>
-          </motion.h1>
-          <motion.p
-            initial={{ opacity: 0, y: 12 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.4, delay: 0.05 }}
-            className="mt-3 max-w-xl text-base text-white/70 text-balance"
-          >
-            Questões de vestibular organizadas por instituição, disciplina e assunto.
-          </motion.p>
+          </h1>
         </div>
-      </div>
+
+        <div className="hidden self-stretch border-l border-white/30 sm:block" />
+
+        <div className="flex-1 text-center sm:pl-12 sm:text-left">
+          <p className="font-heading text-xl font-bold leading-snug text-balance text-white sm:text-2xl">
+            Questões de vestibular organizadas por instituição, disciplina e assunto.
+          </p>
+        </div>
+      </motion.div>
 
       <div className="mx-auto w-full max-w-4xl px-6 py-10">
         <div className="mb-6 flex flex-wrap gap-2">

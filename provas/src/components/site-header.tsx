@@ -1,28 +1,25 @@
-"use client";
-
 import Link from "next/link";
-import Image from "next/image";
-import { motion } from "framer-motion";
-import { BASE_PATH } from "@/lib/base-path";
 
+// Minimal wayfinding strip — matches the "‹ F3Exatas" / current-app-name pattern used
+// at the top of F3Concursos, F3Cursos and F3Mentorias, instead of a full navy bar.
 export function SiteHeader() {
   return (
-    <motion.header
-      initial={{ y: -56, opacity: 0 }}
-      animate={{ y: 0, opacity: 1 }}
-      transition={{ duration: 0.5, ease: "easeOut" }}
-      className="sticky top-0 z-40 border-b border-white/10 bg-brand-navy text-white shadow-md"
-    >
-      <div className="mx-auto flex h-20 w-full max-w-4xl items-center px-6">
-        <Link href="/" className="group flex items-center gap-3 font-heading font-bold tracking-tight">
-          <span className="relative flex size-12 shrink-0 items-center justify-center overflow-hidden rounded-2xl shadow-lg ring-1 ring-white/20 transition-transform group-hover:scale-105">
-            <Image src={`${BASE_PATH}/brand/f3-logo.jpg`} alt="F3" fill sizes="48px" className="object-cover" priority />
-          </span>
-          <span className="text-xl tracking-wide">
-            F3 <span className="text-brand-orange">Provas</span>
-          </span>
-        </Link>
-      </div>
-    </motion.header>
+    <div className="mx-auto flex w-full max-w-4xl items-center justify-between px-6 pt-5 font-heading text-[13px]">
+      {/* Plain <a>, not next/link: this must escape the app's "/provas" basePath and land
+          on the hub's own root ("/"), not get auto-prefixed to "/provas". */}
+      {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
+      <a
+        href="/"
+        className="font-bold tracking-wide text-white/90 transition-colors hover:text-brand-orange"
+      >
+        &lsaquo; F3Exatas
+      </a>
+      <Link
+        href="/"
+        className="font-semibold text-white/50 transition-colors hover:text-white/80"
+      >
+        F3 Provas
+      </Link>
+    </div>
   );
 }
