@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Matemática para o IFMA | F3Cursos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- FAIXA — wayfinding de volta ao hub F3Exatas e ao F3Cursos -->
+  <div class="brand-strip">
+    <a href="../index.html" class="brand-strip-link">&#8249; F3Exatas</a>
+    <span class="brand-strip-current"><a href="index.html" style="color: inherit; text-decoration: none;">F3Cursos</a> / Matemática IFMA</span>
+  </div>
+
+  <!-- SEÇÃO 1 — hero -->
+  <section class="hero-banner">
+    <div class="hero-banner-left">
+      <img src="assets/icons/cursos.svg" alt="F3Cursos" class="hero-logo">
+      <span class="hero-wordmark">Matemática IFMA</span>
+    </div>
+    <div class="hero-divider"></div>
+    <div class="hero-banner-right">
+      <p class="hero-tagline"><span>Aulas organizadas</span> <span>por assunto,</span> <span>direto do YouTube</span></p>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 2 — acesso por e-mail (portão antes da lista de aulas) -->
+  <section class="content-section" id="access-gate">
+    <div class="section-heading reveal">
+      <span class="section-kicker">Matemática &middot; IFMA</span>
+      <h2 class="section-title">Acesso às aulas</h2>
+      <p class="section-subtitle">Essa área está em acesso restrito por enquanto. Digite o e-mail liberado para ver a lista de aulas.</p>
+    </div>
+    <form class="gate-form reveal" id="gate-form">
+      <input type="email" class="gate-input" id="gate-email" placeholder="seu@email.com" required autocomplete="email">
+      <button type="submit" class="course-cta gate-submit">Entrar <span>&#8594;</span></button>
+    </form>
+    <p class="gate-error" id="gate-error" hidden>E-mail não autorizado. Fale com a F3Exatas para liberar seu acesso.</p>
+  </section>
+
+  <!-- SEÇÃO 3 — aulas por assunto (só aparece após acesso liberado) -->
+  <section class="content-section" id="lessons-section" hidden>
+    <div class="section-heading reveal">
+      <span class="section-kicker">Matemática &middot; IFMA</span>
+      <h2 class="section-title">Aulas por assunto</h2>
+      <p class="section-subtitle">Mesmos assuntos que caem na prova do técnico integrado do IFMA. Clique numa aula para assistir no YouTube.</p>
+    </div>
+    <div class="topics-list" id="topics-list"></div>
+  </section>
+
+  <!-- MODAL — player de vídeo embutido, abre sobre a página ao clicar numa aula -->
+  <div class="player-modal" id="player-modal" hidden>
+    <div class="player-box">
+      <div class="player-frame-wrap">
+        <iframe id="player-frame" src="" title="Aula" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="player-footer">
+        <span class="player-caption" id="player-caption"></span>
+        <button type="button" class="player-close" id="player-close" aria-label="Fechar vídeo">&times;</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- RODAPÉ -->
+  <footer class="site-footer">
+    <div class="footer-col">
+      <span class="footer-brand">F3Cursos</span>
+      <p class="footer-desc">Cursos em vídeo de Física e Matemática, do ensino médio ao superior, com aulas comentadas e direto ao ponto.</p>
+      <div class="footer-social">
+        <a href="https://www.instagram.com/f3exatas" target="_blank" rel="noopener" class="footer-social-btn">Instagram</a>
+        <a href="#" class="footer-social-btn">WhatsApp</a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <span class="footer-heading">Cursos</span>
+      <a href="simulador-compra.html?course=ifma-matematica" class="footer-link">Matemática &ndash; IFMA</a>
+      <a href="simulador-compra.html?course=halliday-fisica" class="footer-link">Física &ndash; Halliday</a>
+    </div>
+    <div class="footer-col">
+      <span class="footer-heading">Ecossistema F3Exatas</span>
+      <a href="../index.html" class="footer-link">F3Exatas</a>
+      <a href="/provas" class="footer-link">F3Provas</a>
+      <a href="../concursos/index.html" class="footer-link">F3Concursos</a>
+      <a href="../mentorias/index.html" class="footer-link">F3Mentorias</a>
+    </div>
+    <div class="footer-bottom">&copy; 2026 F3Cursos &ndash; parte do ecossistema F3Exatas</div>
+  </footer>
+
+<script src="lessons-ifma-matematica.js?v=5"></script>
+</body>
+</html>

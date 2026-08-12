@@ -517,6 +517,313 @@ body {
   padding: 0 20px 18px;
 }
 
+/* ===== SEÇÃO: topics-list / topic-item (quadros de aulas por assunto) ===== */
+.topics-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  align-items: start;
+}
+
+.topic-item {
+  border: 1px solid var(--bg-panel-border);
+  border-radius: 16px;
+  overflow: hidden;
+  background: var(--bg-panel);
+  transition: transform 0.25s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.topic-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.28);
+  border-color: var(--orange);
+}
+
+.topic-summary {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 20px;
+  cursor: pointer;
+}
+
+.topic-summary::-webkit-details-marker {
+  display: none;
+}
+
+.topic-icon-badge {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+}
+
+.topic-icon-badge svg {
+  width: 24px;
+  height: 24px;
+}
+
+.topic-icon-badge.topic-icon-navy { background: var(--navy); }
+.topic-icon-badge.topic-icon-orange { background: var(--orange); }
+
+.topic-card-text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.topic-title {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  color: var(--text-primary);
+  font-size: 15px;
+  line-height: 1.3;
+}
+
+.topic-count {
+  align-self: flex-start;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 10.5px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  border: 1px solid var(--bg-panel-border);
+  border-radius: 20px;
+  padding: 3px 10px;
+}
+
+.topic-count.has-videos {
+  color: var(--orange);
+  border-color: var(--orange);
+}
+
+.topic-chevron {
+  color: var(--orange);
+  font-size: 20px;
+  transition: transform 0.3s ease;
+  flex-shrink: 0;
+}
+
+.topic-item[open] .topic-chevron {
+  transform: rotate(90deg);
+}
+
+.lesson-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(148px, 1fr));
+  gap: 12px;
+  padding: 2px 20px 20px 84px;
+}
+
+.lesson-thumb {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+  text-align: left;
+  font: inherit;
+}
+
+.lesson-thumb-img-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--bg-deep);
+  border: 1px solid var(--bg-panel-border);
+}
+
+.lesson-thumb-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.lesson-thumb:hover .lesson-thumb-img-wrap img {
+  transform: scale(1.08);
+}
+
+.lesson-thumb:hover .lesson-thumb-img-wrap {
+  border-color: var(--orange);
+}
+
+.lesson-thumb-play {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(6, 9, 17, 0.15);
+  color: var(--white);
+  font-size: 20px;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.lesson-thumb:hover .lesson-thumb-play {
+  opacity: 1;
+}
+
+.lesson-thumb-title {
+  font-family: var(--font-body);
+  font-size: 12.5px;
+  line-height: 1.35;
+  color: var(--text-primary);
+}
+
+.topic-empty {
+  padding: 0 20px 18px 84px;
+  font-family: var(--font-body);
+  font-size: 14px;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* ===== SEÇÃO: gate-form (acesso por e-mail) ===== */
+.gate-form {
+  display: flex;
+  gap: 12px;
+  max-width: 440px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.gate-input {
+  flex: 1;
+  min-width: 220px;
+  background: var(--bg-panel);
+  border: 1px solid var(--bg-panel-border);
+  border-radius: 10px;
+  padding: 14px 16px;
+  font-family: var(--font-body);
+  font-size: 15px;
+  color: var(--text-primary);
+}
+
+.gate-input:focus {
+  outline: none;
+  border-color: var(--orange);
+}
+
+.gate-input::placeholder {
+  color: var(--text-muted);
+}
+
+.gate-submit {
+  border: none;
+  background: var(--orange);
+  color: var(--white);
+  padding: 14px 24px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.gate-submit:hover {
+  gap: 10px;
+}
+
+.gate-error {
+  max-width: 440px;
+  margin: 14px auto 0;
+  text-align: center;
+  font-family: var(--font-body);
+  font-size: 14px;
+  color: var(--orange-tint-1);
+}
+
+
+/* ===== SEÇÃO: player-modal (aula tocando dentro do site) ===== */
+.player-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(6, 9, 17, 0.88);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.player-modal[hidden] {
+  display: none;
+}
+
+.player-box {
+  width: 100%;
+  max-width: 920px;
+  background: var(--bg-panel);
+  border: 1px solid var(--bg-panel-border);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 30px 70px rgba(0, 0, 0, 0.5);
+}
+
+.player-frame-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+
+.player-frame-wrap iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.player-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 20px;
+}
+
+.player-caption {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--text-primary);
+}
+
+.player-close {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1px solid var(--bg-panel-border);
+  background: transparent;
+  color: var(--text-primary);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.player-close:hover {
+  background: rgba(243, 141, 51, 0.15);
+  border-color: var(--orange);
+}
+
 /* ===== SEÇÃO: cta-final ===== */
 .cta-final {
   text-align: center;
@@ -652,6 +959,7 @@ body {
 /* ===== RESPONSIVO (celular) ===== */
 @media (max-width: 900px) {
   .course-grid { grid-template-columns: 1fr; }
+  .topics-list { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 640px) {
@@ -703,6 +1011,9 @@ body {
     align-items: center;
     gap: 28px;
   }
+
+  .lesson-grid { padding-left: 20px; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+  .topic-empty { padding-left: 20px; }
 
   .why-steps::before { display: none; }
 
