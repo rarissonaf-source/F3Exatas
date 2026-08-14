@@ -9,18 +9,47 @@ const ACCESS_STORAGE_KEY = "f3cursos_ifma_matematica_access";
 // Para adicionar uma aula nova, inclua um item no array "videos" do módulo
 // correspondente: { title: "Nome da aula", youtubeUrl: "https://youtu.be/XXXX" }.
 const modules = [
-  { slug: "numeros-operacoes", name: "Números e Operações", videos: [] },
+  {
+    slug: "numeros-operacoes",
+    name: "Números e Operações",
+    videos: [
+      { title: "Mínimo Múltiplo Comum (MMC)", youtubeUrl: "https://youtu.be/0uXv8Uhy1TU" },
+      { title: "Notação científica", youtubeUrl: "https://youtu.be/XKVo2OKsa5o" },
+    ],
+  },
   { slug: "fracoes-decimais", name: "Frações e Números Decimais", videos: [] },
-  { slug: "razao-proporcao-porcentagem", name: "Razão, Proporção e Porcentagem", videos: [] },
+  {
+    slug: "razao-proporcao-porcentagem",
+    name: "Razão, Proporção e Porcentagem",
+    videos: [
+      { title: "Divisão proporcional", youtubeUrl: "https://youtu.be/23W6jkWDBIY" },
+      { title: "Porcentagem", youtubeUrl: "https://youtu.be/xi2EdHRNUg4" },
+      { title: "Razão", youtubeUrl: "https://youtu.be/srQvz26H_t8" },
+    ],
+  },
   { slug: "algebra-expressoes", name: "Álgebra e Expressões", videos: [] },
-  { slug: "equacoes-inequacoes", name: "Equações e Inequações", videos: [] },
+  {
+    slug: "equacoes-inequacoes",
+    name: "Equações e Inequações",
+    videos: [
+      { title: "Equação do 1º grau", youtubeUrl: "https://youtu.be/aErX2jxONBw" },
+    ],
+  },
   { slug: "sistemas-equacoes", name: "Sistemas de Equações", videos: [] },
-  { slug: "funcoes", name: "Funções", videos: [] },
+  {
+    slug: "funcoes",
+    name: "Funções",
+    videos: [
+      { title: "Função do 1º grau", youtubeUrl: "https://youtu.be/_tS9QOxTKW0" },
+    ],
+  },
   {
     slug: "geometria-plana",
     name: "Geometria Plana",
     videos: [
       { title: "Área do círculo", youtubeUrl: "https://www.youtube.com/watch?v=LYVydfDbwz8" },
+      { title: "Teorema de Pitágoras", youtubeUrl: "https://youtu.be/wgfUCreeePc" },
+      { title: "Área do triângulo retângulo", youtubeUrl: "https://youtu.be/mufUGz4I7QU" },
     ],
   },
   {
@@ -36,6 +65,7 @@ const modules = [
     name: "Estatística e Probabilidade",
     videos: [
       { title: "Leitura e interpretação de gráficos", youtubeUrl: "https://www.youtube.com/watch?v=fWnBL6qRe8M" },
+      { title: "Probabilidade", youtubeUrl: "https://youtu.be/op12oJSVEuA" },
     ],
   },
   {
@@ -46,7 +76,13 @@ const modules = [
     ],
   },
   { slug: "combinatoria", name: "Análise Combinatória", videos: [] },
-  { slug: "progressoes", name: "Progressões (PA e PG)", videos: [] },
+  {
+    slug: "progressoes",
+    name: "Progressões (PA e PG)",
+    videos: [
+      { title: "Progressão Aritmética (PA)", youtubeUrl: "https://youtu.be/eRjYlqmAWYQ" },
+    ],
+  },
 ];
 
 // Ícone de linha simples por assunto, mesmo estilo dos badges "por que
