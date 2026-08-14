@@ -8,6 +8,7 @@ import {
   Text,
   View,
   Image,
+  Link,
   Font,
   StyleSheet,
   renderToBuffer,
@@ -30,8 +31,49 @@ Font.register({
   ],
 });
 
+// Página A4 em pontos (72pt/in) — mesma proporção do fundo rasterizado a
+// partir do modelo da F3Exatas (src/pdf-assets/f3-template-bg.png).
+const PAGE_WIDTH_PT = 595.28;
+const PAGE_HEIGHT_PT = 841.89;
+
+const TEMPLATE_BG_DATA_URI = (() => {
+  const buf = fs.readFileSync(path.join(process.cwd(), "src/pdf-assets/f3-template-bg.png"));
+  return `data:image/png;base64,${buf.toString("base64")}`;
+})();
+
+// Links dos ícones do cabeçalho do modelo (whatsapp, instagram, site) — uma
+// constante cada, pra trocar em um lugar só quando o número/canal mudar.
+const WHATSAPP_URL = "https://whatsapp.com/channel/0029Vb6EbFCDp2QFrLj4Ge3r";
+const INSTAGRAM_URL = "https://www.instagram.com/f3exatas";
+const SITE_URL = "https://f3-exatas.vercel.app";
+
+// Posição (em pt) de cada ícone dentro da faixa laranja do cabeçalho,
+// medida sobre o fundo rasterizado em src/pdf-assets/f3-template-bg.png.
+const HEADER_ICON_LINKS = [
+  { url: WHATSAPP_URL, left: 449 },
+  { url: INSTAGRAM_URL, left: 501 },
+  { url: SITE_URL, left: 553 },
+] as const;
+const HEADER_ICON_TOP = 7;
+const HEADER_ICON_SIZE = 30;
+
 const styles = StyleSheet.create({
-  page: { padding: 40, fontSize: 11, fontFamily: "DejaVuSans" },
+  // padding assimétrico pra deixar o conteúdo dentro da área quadriculada do
+  // modelo: abaixo da faixa laranja do cabeçalho e acima da onda do rodapé.
+  page: {
+    paddingTop: 70,
+    paddingBottom: 210,
+    paddingHorizontal: 40,
+    fontSize: 11,
+    fontFamily: "DejaVuSans",
+  },
+  templateBg: {
+    position: "absolute",
+    top: 0,
+    left: 0,
+    width: PAGE_WIDTH_PT,
+    height: PAGE_HEIGHT_PT,
+  },
   title: { fontSize: 16, marginBottom: 4, fontFamily: "DejaVuSans", fontWeight: "bold" },
   subtitle: { fontSize: 10, marginBottom: 20, color: "#666" },
   questionHeader: { fontSize: 12, fontFamily: "DejaVuSans", fontWeight: "bold", marginBottom: 6 },
@@ -86,6 +128,23 @@ export async function GET(
   const doc = (
     <Document>
       <Page size="A4" style={styles.page} wrap>
+        <Image src={TEMPLATE_BG_DATA_URI} style={styles.templateBg} fixed />
+        {HEADER_ICON_LINKS.map(({ url, left }) => (
+          <Link
+            key={url}
+            src={url}
+            style={{
+              position: "absolute",
+              top: HEADER_ICON_TOP,
+              left,
+              width: HEADER_ICON_SIZE,
+              height: HEADER_ICON_SIZE,
+            }}
+            fixed
+          >
+            <View style={{ width: "100%", height: "100%" }} />
+          </Link>
+        ))}
         <Text style={styles.title}>
           {institutionData.name} — {disciplineName} — {topicMeta.name}
         </Text>
