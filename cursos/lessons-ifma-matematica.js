@@ -15,6 +15,8 @@ const modules = [
     videos: [
       { title: "Mínimo Múltiplo Comum (MMC)", youtubeUrl: "https://youtu.be/0uXv8Uhy1TU" },
       { title: "Notação científica", youtubeUrl: "https://youtu.be/XKVo2OKsa5o" },
+      { title: "Notação científica — questão IFMA 2023", youtubeUrl: "https://youtu.be/P8jEmpMWxww" },
+      { title: "Regra de três — questão IFMA 2023", youtubeUrl: "https://youtu.be/nsbZc42EyJo" },
     ],
   },
   { slug: "fracoes-decimais", name: "Frações e Números Decimais", videos: [] },
@@ -25,6 +27,8 @@ const modules = [
       { title: "Divisão proporcional", youtubeUrl: "https://youtu.be/23W6jkWDBIY" },
       { title: "Porcentagem", youtubeUrl: "https://youtu.be/xi2EdHRNUg4" },
       { title: "Razão", youtubeUrl: "https://youtu.be/srQvz26H_t8" },
+      { title: "Porcentagem — questão IFMA 2023", youtubeUrl: "https://youtu.be/CZHjEqK76LQ" },
+      { title: "Razão e proporção — questão IFMA 2023", youtubeUrl: "https://youtu.be/gNpvUCQuQf8" },
     ],
   },
   { slug: "algebra-expressoes", name: "Álgebra e Expressões", videos: [] },
@@ -41,6 +45,7 @@ const modules = [
     name: "Funções",
     videos: [
       { title: "Função do 1º grau", youtubeUrl: "https://youtu.be/_tS9QOxTKW0" },
+      { title: "Função — questão IFMA 2023", youtubeUrl: "https://youtu.be/XU9ZmBBhE_w" },
     ],
   },
   {
@@ -50,6 +55,7 @@ const modules = [
       { title: "Área do círculo", youtubeUrl: "https://www.youtube.com/watch?v=LYVydfDbwz8" },
       { title: "Teorema de Pitágoras", youtubeUrl: "https://youtu.be/wgfUCreeePc" },
       { title: "Área do triângulo retângulo", youtubeUrl: "https://youtu.be/mufUGz4I7QU" },
+      { title: "Geometria plana — questão IFMA 2023", youtubeUrl: "https://youtu.be/pTKtQk9BoOA" },
     ],
   },
   {
