@@ -24,6 +24,30 @@
     "sourceFile": "Caderno-de-Prova-Forma-Integrado.pdf"
   },
   {
+    "id": "mat-subsequente-2025",
+    "institution": "IFMA",
+    "year": 2025,
+    "edition": "Subsequente 2025 (Seletivo Unificado)",
+    "examType": "especifico",
+    "sourceFile": "Caderno-de-prova-Forma-Subsequente-2025.pdf"
+  },
+  {
+    "id": "mat-concomitante-2025",
+    "institution": "IFMA",
+    "year": 2025,
+    "edition": "Concomitante 2025 (Seletivo Unificado)",
+    "examType": "especifico",
+    "sourceFile": "Caderno-de-Prova-Forma-Concomitante-2025.pdf"
+  },
+  {
+    "id": "mat-integrada-2025",
+    "institution": "IFMA",
+    "year": 2025,
+    "edition": "Integrada 2025 (Seletivo Unificado)",
+    "examType": "especifico",
+    "sourceFile": "Caderno-de-prova-Forma-Integrado- 2025.pdf"
+  },
+  {
     "id": "mat-subsequente-2024",
     "institution": "IFMA",
     "year": 2024,
@@ -46,6 +70,30 @@
     "edition": "Integrada 2024 (Seletivo)",
     "examType": "especifico",
     "sourceFile": "Caderno-de-provas-integrado-2024.pdf"
+  },
+  {
+    "id": "mat-subsequente-2023",
+    "institution": "IFMA",
+    "year": 2023,
+    "edition": "Subsequente 2023 (Seletivo)",
+    "examType": "especifico",
+    "sourceFile": "Prova-dos-cursos-subsequentes-Seletivo-2023.pdf"
+  },
+  {
+    "id": "mat-concomitante-2023",
+    "institution": "IFMA",
+    "year": 2023,
+    "edition": "Concomitante 2023 (Seletivo)",
+    "examType": "especifico",
+    "sourceFile": "Prova-dos-cursos-concomitantes-Seletivo-2023.pdf"
+  },
+  {
+    "id": "mat-integrada-2023",
+    "institution": "IFMA",
+    "year": 2023,
+    "edition": "Integrada 2023 (Seletivo)",
+    "examType": "especifico",
+    "sourceFile": "Prova-dos-cursos-integrados-Seletivo-2023.pdf"
   },
   {
     "id": "mat-subsequente-2022",

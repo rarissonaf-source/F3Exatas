@@ -1424,6 +1424,1446 @@
     "correctAnswer": "b"
   },
   {
+    "id": "mat-subsequente-2025-q16",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 16,
+    "statement": "Um professor de Matemática de uma escola em Codó, no Maranhão, estava ensinando a divisão de polinômios e apresentou uma técnica chamada Dispositivo Prático de Briot-Ruffini. Ao final de um exemplo, que era a divisão de $x^2 + 2x + 4$ por $x - 2$, o professor começou a apagar a lousa, mas um aluno pediu que ele esperasse um pouco, pois ainda estava copiando. Nesse momento, o professor apagou um número, que está representado na figura abaixo pelo retângulo pontilhado indicado pela seta. De acordo com a figura, o número que o professor apagou foi",
+    "options": [
+      { "label": "a", "text": "2." },
+      { "label": "b", "text": "-2." },
+      { "label": "c", "text": "4." },
+      { "label": "d", "text": "-4." }
+    ],
+    "imagePath": "mat-subsequente-2025/q16.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2025-q17",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "Em uma feira de artigos nordestinos, existem três estandes de comidas típicas: um de acarajé, um de tapioca e um de quibebe. Há também dois estandes de artesanato: um de bordados e outro de cerâmicas. Se um visitante da feira decide escolher um estande de comida e um estande de artesanato, o número de maneiras distintas que ele pode fazer essa escolha é",
+    "options": [
+      { "label": "a", "text": "3." },
+      { "label": "b", "text": "6." },
+      { "label": "c", "text": "14." },
+      { "label": "d", "text": "25." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2025-q18",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 18,
+    "statement": "Uma festa popular do Maranhão atraiu 45000 pessoas no último ano, mas os organizadores desejam aumentar o número de participantes para o próximo evento. Eles pretendem conseguir um aumento de pelo menos 2/5 do número de pessoas do ano anterior. Se esse aumento ocorrer, o número mínimo de participantes, no próximo evento, será",
+    "options": [
+      { "label": "a", "text": "54000." },
+      { "label": "b", "text": "55000." },
+      { "label": "c", "text": "63000." },
+      { "label": "d", "text": "72000." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2025-q19",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 19,
+    "statement": "Em uma escola pública de São Luís (MA), 120 alunos participaram de um projeto de reciclagem. Após uma campanha de conscientização, a escola conseguiu aumentar a participação para 180 alunos. Mantendo-se a mesma proporção, se 120 alunos reuniram 200 kg de materiais recicláveis, o número de quilogramas de materiais recicláveis reunido com a participação de 180 alunos será igual a",
+    "options": [
+      { "label": "a", "text": "250 kg." },
+      { "label": "b", "text": "280 kg." },
+      { "label": "c", "text": "300 kg." },
+      { "label": "d", "text": "320 kg." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2025-q20",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "Dos gráficos apresentados a seguir, uma função modular está representada na letra",
+    "options": [
+      { "label": "a", "text": "A." },
+      { "label": "b", "text": "B." },
+      { "label": "c", "text": "C." },
+      { "label": "d", "text": "D." }
+    ],
+    "imagePath": "mat-subsequente-2025/q20.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2025-q21",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 21,
+    "statement": "É possível afirmar que duas retas quaisquer são paralelas quando",
+    "options": [
+      { "label": "a", "text": "os coeficientes lineares dessas retas são iguais." },
+      { "label": "b", "text": "os coeficientes angulares dessas retas são iguais." },
+      { "label": "c", "text": "o produto dos coeficientes lineares dessas retas é −1." },
+      { "label": "d", "text": "o produto dos coeficientes angulares dessas retas é −1." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2025-q22",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Suponha que, durante uma campanha de vacinação no Maranhão, o governo divulgou que 80% da população da cidade de São Luís já havia sido vacinada contra a COVID-19. Considerando que a cidade tem, aproximadamente, 1038000 habitantes, o número de pessoas que ainda faltam se vacinar é",
+    "options": [
+      { "label": "a", "text": "207600." },
+      { "label": "b", "text": "355500." },
+      { "label": "c", "text": "675300." },
+      { "label": "d", "text": "830400." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2025-q23",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 23,
+    "statement": "Um agricultor do Maranhão deseja cercar uma área em formato retangular para plantar hortaliças. A largura do retângulo é dada como $x$ metros, e o comprimento é 6 metros a mais que a largura. Se a área do retângulo deve ser de 72 metros quadrados, o perímetro do retângulo, em metros, é igual a",
+    "options": [
+      { "label": "a", "text": "34." },
+      { "label": "b", "text": "34,4." },
+      { "label": "c", "text": "36." },
+      { "label": "d", "text": "39,6." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2025-q24",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 24,
+    "statement": "Uma família agricultora maranhense colheu melancias ao longo de trinta dias. No primeiro dia, colheu 43 unidades, mas a quantidade colhida aumentou, constantemente, a cada dia, alcançando 79 unidades no décimo dia. O total de melancias colhidas ao longo do período de trinta dias foi",
+    "options": [
+      { "label": "a", "text": "1830." },
+      { "label": "b", "text": "3030." },
+      { "label": "c", "text": "3660." },
+      { "label": "d", "text": "6060." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2025-q25",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 25,
+    "statement": "A prefeitura de uma cidade maranhense quer instalar uma ciclovia ao longo da reta $3y - \\sqrt{3}x - 2 = 0$, que representa uma das principais avenidas da cidade. Para atender às normas de segurança, é preciso calcular o ângulo agudo entre essa reta e a bissetriz dos quadrantes pares do plano cartesiano. A medida desse ângulo é",
+    "options": [
+      { "label": "a", "text": "15°." },
+      { "label": "b", "text": "30°." },
+      { "label": "c", "text": "60°." },
+      { "label": "d", "text": "75°." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2025-q26",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 26,
+    "statement": "Uma firma de soluções digitais maranhense está desenvolvendo um software que modela o comportamento de funções matemáticas aplicadas a otimizações de produções. Uma das funções, definida por $f(x) = \\sqrt{19 - 6\\sqrt{x}} - \\sqrt{19 + 6\\sqrt{x}}$, tem como objetivo prever o valor da produção em um determinado ponto $x$. Sendo assim, o valor de $f$, quando $x = 10$, é",
+    "options": [
+      { "label": "a", "text": "−3." },
+      { "label": "b", "text": "−4." },
+      { "label": "c", "text": "−5." },
+      { "label": "d", "text": "−6." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2025-q27",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 27,
+    "statement": "Ao aterrissar no Aeroporto de São Luís (MA), um casal simulou uma corrida por aplicativo até o Palácio dos Leões. A simulação considerou um preço fixo de R\\$ 4,20, um adicional de R\\$ 0,30 por minuto e um adicional de R\\$ 1,15 por quilômetro. Sabendo que a distância até o destino é 14 km e o tempo estimado da corrida é 22 minutos, o valor total simulado corresponde a",
+    "options": [
+      { "label": "a", "text": "R\\$ 26,90." },
+      { "label": "b", "text": "R\\$ 33,70." },
+      { "label": "c", "text": "R\\$ 36,10." },
+      { "label": "d", "text": "R\\$ 56,40." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2025-q28",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 28,
+    "statement": "Em um evento em São Luís (MA), um grupo de quatro pessoas decidiu que cada uma levaria, exatamente, um prato, que deveria ser escolhido entre seis opções disponíveis: arroz de cuxá, peixada maranhense, carne de sol, sururu ao leite de coco, juçara ou doce de buriti. A probabilidade de que arroz de cuxá e juçara não sejam escolhidos é",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{2}{3}$." },
+      { "label": "b", "text": "$\\dfrac{3}{5}$." },
+      { "label": "c", "text": "$\\dfrac{1}{15}$." },
+      { "label": "d", "text": "$\\dfrac{1}{20}$." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2025-q29",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 29,
+    "statement": "Foi realizada uma pesquisa em diversos estados do Brasil para avaliar a intenção de turismo em três destinos do Maranhão: Lençóis Maranhenses, Centro Histórico de São Luís e Alcântara. Em um grupo de mil entrevistados, constatou-se:\n53 pessoas desejavam visitar apenas Alcântara.\n72 pessoas desejavam visitar o Centro Histórico de São Luís e Alcântara, mas não os Lençóis Maranhenses.\n75 pessoas desejavam visitar os Lençóis Maranhenses e o Centro Histórico de São Luís, mas não Alcântara.\n115 pessoas desejavam visitar os Lençóis Maranhenses e Alcântara, mas não o Centro Histórico de São Luís.\n540 pessoas desejavam visitar os Lençóis Maranhenses.\nO número de pessoas que desejavam visitar os três destinos era um terço do número de pessoas que não desejavam visitar lugar algum.\nO número de pessoas que desejavam visitar apenas o Centro Histórico de São Luís era um quarto do número de pessoas que desejavam visitar apenas os Lençóis Maranhenses.\nA quantidade de pessoas que desejavam visitar os três destinos é",
+    "options": [
+      { "label": "a", "text": "65." },
+      { "label": "b", "text": "90." },
+      { "label": "c", "text": "195." },
+      { "label": "d", "text": "270." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2025-q30",
+    "examId": "mat-subsequente-2025",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 30,
+    "statement": "Ao jogar areia sobre uma superfície plana, os grãos acumulam-se formando uma pilha em formato de cone, conforme figura abaixo. Para estimar o volume dessa pilha, um técnico observou que a circunferência da base correspondia ao comprimento de uma corda de 24 metros e mediu a geratriz do cone, encontrando 5 metros. Considerando $\\pi = 3$, o volume estimado pelo técnico foi",
+    "options": [
+      { "label": "a", "text": "$36\\ m^3$." },
+      { "label": "b", "text": "$48\\ m^3$." },
+      { "label": "c", "text": "$108\\ m^3$." },
+      { "label": "d", "text": "$144\\ m^3$." }
+    ],
+    "imagePath": "mat-subsequente-2025/q30.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2025-q16",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 16,
+    "statement": "Na cidade de São José de Ribamar (MA), um administrador de um banheiro público está planejando a compra de sacos de lixo para lixeiros em formato de bloco retangular com as dimensões de 40 cm de altura, 10 cm de largura e 30 cm de profundidade. Como são vendidos por volume, ele precisa saber o volume do lixeiro em litros, para adquirir os sacos adequados. Sendo assim, para se encaixar, adequadamente, nesse lixeiro, o volume, em litros, do saco de lixo que o administrador deve comprar é",
+    "options": [
+      { "label": "a", "text": "12." },
+      { "label": "b", "text": "15." },
+      { "label": "c", "text": "120." },
+      { "label": "d", "text": "150." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2025-q17",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Em um supermercado do Maranhão, estão disponíveis diferentes pacotes de lâminas de barbear da mesma marca com os seguintes preços:\nR\\$ 123,40 para o pacote com 20 lâminas.\nR\\$ 94,88 para o pacote com 16 lâminas.\nR\\$ 80,76 para o pacote com 12 lâminas.\nR\\$ 43,26 para o pacote com 6 lâminas.\nA opção que apresenta o menor preço por lâmina é o pacote com",
+    "options": [
+      { "label": "a", "text": "06 lâminas." },
+      { "label": "b", "text": "12 lâminas." },
+      { "label": "c", "text": "16 lâminas." },
+      { "label": "d", "text": "20 lâminas." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2025-q18",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 18,
+    "statement": "Durante o Festival de Verão de São Luís (MA), diversas marcas locais de roupas e acessórios expõem suas coleções, refletindo a cultura e as tradições maranhenses. Os organizadores do evento querem analisar quais estilos estão em alta entre os visitantes. Após uma pesquisa, os seguintes dados foram coletados sobre os estilos preferidos dos participantes:\n40 pessoas preferem roupas de praia.\n30 pessoas optam por roupas de festa.\n25 pessoas gostam de roupas tradicionais (como o bumba meu boi).\n20 pessoas escolhem roupas esportivas.\nA partir desses dados, deve-se concluir que o estilo de roupa mais popular entre os participantes do festival é",
+    "options": [
+      { "label": "a", "text": "roupas de praia." },
+      { "label": "b", "text": "roupas de festa." },
+      { "label": "c", "text": "roupas esportivas." },
+      { "label": "d", "text": "roupas tradicionais." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2025-q19",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 19,
+    "statement": "Para a compra de ingressos para o Festival de Verão, considere que os ingressos da pista são vendidos a R\\$ 70,00 no primeiro lote. No segundo lote, o preço é de R\\$ 90,00; e no terceiro lote, R\\$ 120,00. Com base no preço do primeiro lote, o aumento percentual aproximado dos ingressos nos segundo e terceiro lotes, respectivamente, foi igual a",
+    "options": [
+      { "label": "a", "text": "28,57% e 33,33%." },
+      { "label": "b", "text": "31,02% e 69,44%." },
+      { "label": "c", "text": "28,57% e 71,43%." },
+      { "label": "d", "text": "31,02% e 71,43%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2025-q20",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Para o Festival de Verão, um palco foi projetado no formato de um retângulo com um semicírculo acoplado em uma de suas extremidades. O retângulo tem 15 metros de comprimento e 6 metros de largura, enquanto o semicírculo está colado na extremidade maior do retângulo, conforme a figura abaixo. Considerando $\\pi = 3,14$, a área total aproximada, em metros quadrados, disponível no palco do Festival de Verão, é igual a",
+    "options": [
+      { "label": "a", "text": "90." },
+      { "label": "b", "text": "178." },
+      { "label": "c", "text": "301." },
+      { "label": "d", "text": "443." }
+    ],
+    "imagePath": "mat-concomitante-2025/q20.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2025-q21",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 21,
+    "statement": "Imagine que, durante o Festival de Verão de São Luís (MA), uma apresentação de uma banda local atraiu uma grande quantidade de público. A quantidade de pessoas na plateia aumentou de 100 para 1000 ao longo do evento. Para medir a popularidade do show, o organizador decidiu calcular o aumento em escala logarítmica do público. Nesse caso, é correto afirmar que $log\\ 1000$ é maior que $log\\ 100$ em",
+    "options": [
+      { "label": "a", "text": "50%." },
+      { "label": "b", "text": "100%." },
+      { "label": "c", "text": "500%." },
+      { "label": "d", "text": "1000%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2025-q22",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "Ao examinar o plano cartesiano exibido no mapa abaixo, que possui eixos com intervalos de 2 em 2 unidades, é possível determinar as coordenadas dos pontos que representam as cidades de São Luís (MA) e Fortaleza (CE). As coordenadas de São Luís (MA) e Fortaleza (CE) são, respectivamente,",
+    "options": [
+      { "label": "a", "text": "(14, 2) e (6, 46)." },
+      { "label": "b", "text": "(2, 6) e (46, 14)." },
+      { "label": "c", "text": "(2, 46) e (6, 14)." },
+      { "label": "d", "text": "(2, 14) e (46, 6)." }
+    ],
+    "imagePath": "mat-concomitante-2025/q22.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2025-q23",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 23,
+    "statement": "Em um projeto de preservação ambiental do Maranhão, duas ONGs estão trabalhando para reflorestar uma área. A ONG 1 planeja plantar certa quantidade de árvores, enquanto a ONG 2 planeja plantar 50 árvores a mais do que a ONG 1. Juntas, elas pretendem plantar um total de 600 árvores. O produto do número de árvores que cada ONG irá plantar é igual a",
+    "options": [
+      { "label": "a", "text": "50000." },
+      { "label": "b", "text": "89375." },
+      { "label": "c", "text": "95625." },
+      { "label": "d", "text": "103125." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2025-q24",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 24,
+    "statement": "Em uma feira gastronômica no Maranhão, 1/5 das barracas vendem somente doces regionais, como o doce de espécie; 13/20 vendem apenas pratos típicos, como arroz de cuxá; e o restante oferece só bebidas típicas, como tiquira e guaraná. Se você visita uma barraca aleatoriamente, a probabilidade de que ela esteja vendendo doces regionais ou bebidas típicas é igual a",
+    "options": [
+      { "label": "a", "text": "65%." },
+      { "label": "b", "text": "15%." },
+      { "label": "c", "text": "35%." },
+      { "label": "d", "text": "20%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2025-q25",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 25,
+    "statement": "O rio Mearim, localizado no estado do Maranhão, nasce na confluência das serras Negra, Menina e Crueiras. Sabendo que, a cada segundo, o rio transporta um fluxo constante de 550 metros cúbicos de água, o volume total de água, em metros cúbicos, que o rio transporta em uma hora é igual a",
+    "options": [
+      { "label": "a", "text": "550." },
+      { "label": "b", "text": "33000." },
+      { "label": "c", "text": "55000." },
+      { "label": "d", "text": "1980000." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2025-q26",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 26,
+    "statement": "Uma empresa de turismo do Maranhão organiza passeios para os Lençóis Maranhenses. Eles perceberam que o número de clientes depende do preço cobrado por pessoa, de acordo com a equação $C(p) = \\dfrac{-p^2}{16} + \\dfrac{5}{4}p + 93,75$ onde $C(p)$ representa o número de clientes e $p$ o preço, em reais, cobrado por cliente. O preço que maximiza o número de clientes é",
+    "options": [
+      { "label": "a", "text": "10." },
+      { "label": "b", "text": "30." },
+      { "label": "c", "text": "50." },
+      { "label": "d", "text": "70." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2025-q27",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 27,
+    "statement": "Um pescador do litoral maranhense solicitou um empréstimo de R\\$ 6.500,00 para reformar seu barco. O empréstimo foi feito a uma taxa de juros simples de 3,75% ao mês e deverá ser quitado em 12 meses. O montante que ele pagará ao término de 12 meses será",
+    "options": [
+      { "label": "a", "text": "R\\$ 6.743,75." },
+      { "label": "b", "text": "R\\$ 9.425,00." },
+      { "label": "c", "text": "R\\$ 10.110,45." },
+      { "label": "d", "text": "R\\$ 80.925,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2025-q28",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 28,
+    "statement": "A bandeira do Maranhão reflete a rica história e diversidade cultural do estado. Ela foi criada em 1889 por Joaquim de Sousa Andrade, também conhecido como Sousândrade, um poeta e intelectual maranhense. A estrela branca de cinco pontas, dentro do quadrado azul no canto superior esquerdo, pode ser entendida como a união de",
+    "options": [
+      { "label": "a", "text": "cinco triângulos equiláteros e um círculo." },
+      { "label": "b", "text": "cinco triângulos retângulos e um quadrado." },
+      { "label": "c", "text": "cinco triângulos isósceles e um pentágono." },
+      { "label": "d", "text": "cinco triângulos escalenos e um heptágono." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2025-q29",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Um casal, planejando suas férias nos Lençóis Maranhenses, pesquisou diversos pacotes turísticos. Durante a madrugada, encontraram uma oferta com 47% de desconto. Com o desconto aplicado, o valor por pessoa ficou em R\\$ 530,00. O preço total do pacote para o casal antes da promoção era",
+    "options": [
+      { "label": "a", "text": "R\\$ 1.000,00." },
+      { "label": "b", "text": "R\\$ 1.127,66." },
+      { "label": "c", "text": "R\\$ 2.000,00." },
+      { "label": "d", "text": "R\\$ 2.255,32." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2025-q30",
+    "examId": "mat-concomitante-2025",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 30,
+    "statement": "Em uma cidade no interior do Maranhão, planeja-se construir uma ponte que deve atravessar um rio com 112 metros de largura e superar um desnível vertical de 15 metros. A ponte formará um triângulo retângulo, onde a largura do rio representa um dos catetos, e o desnível vertical, o outro cateto. O comprimento total da ponte necessário para essa construção é igual a",
+    "options": [
+      { "label": "a", "text": "113 m." },
+      { "label": "b", "text": "97 m." },
+      { "label": "c", "text": "127 m." },
+      { "label": "d", "text": "98 m." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2025-q16",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "Suponha que uma empresa aérea venda uma passagem de São Luís (MA) para Recife (PE) por R\\$ 672,00 em um determinado dia e horário. Além disso, a companhia possui um programa de milhas aéreas que cobra R\\$ 25,50 pela compra de cada 1.000 milhas. A mesma passagem pode ser adquirida por 18.672 milhas, mas estas só podem ser compradas em lotes de 1.000. Se a pessoa não possuir milhas acumuladas, a forma mais vantajosa de adquirir essa passagem é comprá-la com",
+    "options": [
+      { "label": "a", "text": "milhas que custarão R\\$ 493,84." },
+      { "label": "b", "text": "milhas que custarão R\\$ 484,50." },
+      { "label": "c", "text": "dinheiro, pois as milhas custarão R\\$ 732,45." },
+      { "label": "d", "text": "dinheiro, pois as milhas custarão R\\$ 780,50." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2025-q17",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Viajar da capital São Luís (MA) para Caxias (MA), a uma velocidade média de 60 km/h, leva aproximadamente 6 horas e 5 minutos para completar a jornada. Se a velocidade aumentar para 80 km/h, o tempo necessário para percorrer a mesma distância será de, aproximadamente,",
+    "options": [
+      { "label": "a", "text": "4 horas e 34 minutos." },
+      { "label": "b", "text": "4 horas e 44 minutos." },
+      { "label": "c", "text": "5 horas e 13 minutos." },
+      { "label": "d", "text": "5 horas e 21 minutos." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2025-q18",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 18,
+    "statement": "Um agricultor do Maranhão está planejando cultivar um novo lote de feijão em um terreno retangular. A largura do terreno é definida como $2x$ metros, e o comprimento é igual a $4x + 8$ metros. Sabe-se que a área total do terreno destinada ao cultivo tem 64 m². Sendo assim, as dimensões do terreno (largura e comprimento), em metros, são, respectivamente,",
+    "options": [
+      { "label": "a", "text": "4 e 16." },
+      { "label": "b", "text": "5 e 12,8." },
+      { "label": "c", "text": "6,4 e 10." },
+      { "label": "d", "text": "8 e 8." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2025-q19",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 19,
+    "statement": "No Maranhão, a produção de farinha de mandioca é uma atividade importante. Um produtor local fabrica 150 kg de farinha a cada intervalo de 6 dias e deseja saber quanto tempo será necessário para produzir 620 kg dessa farinha. Mantendo constante a sua taxa diária de produção, ele produzirá os 620 kg de farinha no",
+    "options": [
+      { "label": "a", "text": "23º dia." },
+      { "label": "b", "text": "24º dia." },
+      { "label": "c", "text": "25º dia." },
+      { "label": "d", "text": "26º dia." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2025-q20",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 20,
+    "statement": "A Densidade Demográfica é definida como a razão entre a população e a extensão territorial. Em Caxias (MA), essa proporção corresponde a, aproximadamente, 30,18 habitantes por quilômetro quadrado. Dado que a área da cidade tem, aproximadamente, 5.151 km², a população estimada no município é, aproximadamente, igual a",
+    "options": [
+      { "label": "a", "text": "155289 habitantes." },
+      { "label": "b", "text": "155457 habitantes." },
+      { "label": "c", "text": "155673 habitantes." },
+      { "label": "d", "text": "155972 habitantes." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2025-q21",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "Suponha que a distância, em linha reta, entre São Luís (MA) e Caxias (MA) é 309 km e entre Imperatriz (MA) e Caxias (MA) é 412 km. Como as distâncias, em quilômetros, entre esses três locais formam um triângulo retângulo (reto em Caxias), deve-se concluir que a distância, em linha reta, entre Imperatriz e São Luís equivale a",
+    "options": [
+      { "label": "a", "text": "505 km." },
+      { "label": "b", "text": "515 km." },
+      { "label": "c", "text": "525 km." },
+      { "label": "d", "text": "535 km." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2025-q22",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 22,
+    "statement": "Em uma pesquisa sobre a produção agrícola no Maranhão, foram coletados, em cinco municípios diferentes, dados sobre a produção de três tipos de culturas, em toneladas:\nSão Luís — Milho: 1200, Soja: 800, Arroz: 1500\nImperatriz — Milho: 1500, Soja: 700, Arroz: 1800\nCaxias — Milho: 900, Soja: 600, Arroz: 1200\nBacabal — Milho: 1100, Soja: 900, Arroz: 1400\nTimon — Milho: 1300, Soja: 500, Arroz: 1600\nConsiderando os cinco municípios, as médias aritméticas da produção de cada tipo de cultura (milho, soja e arroz), em toneladas, são, respectivamente,",
+    "options": [
+      { "label": "a", "text": "1100, 700 e 1600." },
+      { "label": "b", "text": "1200, 600 e 1500." },
+      { "label": "c", "text": "1200, 700 e 1500." },
+      { "label": "d", "text": "1300, 900 e 1800." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2025-q23",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Uma fachada retangular de um prédio histórico em São Luís (MA), medindo 10 metros de altura por 14 metros de largura, será revestida com azulejos quadrados medindo 20 cm de lado. Sabendo que apenas 3/4 da área total da fachada será coberta por azulejos, a quantidade de azulejos necessária para realizar o revestimento, desconsiderando eventuais desperdícios, é igual a",
+    "options": [
+      { "label": "a", "text": "525." },
+      { "label": "b", "text": "875." },
+      { "label": "c", "text": "2625." },
+      { "label": "d", "text": "3500." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2025-q24",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 24,
+    "statement": "O Maranhão é um dos estados mais populosos do Nordeste, com uma população em torno de 7 milhões de habitantes. Se aproximadamente 15% da população vive na capital São Luís (MA), a quantidade de pessoas que moram na capital é próxima de",
+    "options": [
+      { "label": "a", "text": "595 mil." },
+      { "label": "b", "text": "995 mil." },
+      { "label": "c", "text": "1,05 milhão." },
+      { "label": "d", "text": "5,95 milhões." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2025-q25",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 25,
+    "statement": "Uma fazenda, no Maranhão, produz 6,5 mil quilos de arroz por hectare. Considerando que a produção é proporcional à área cultivada, a quantidade de toneladas produzidas em 350 hectares é igual a",
+    "options": [
+      { "label": "a", "text": "2,100." },
+      { "label": "b", "text": "2,275." },
+      { "label": "c", "text": "2100." },
+      { "label": "d", "text": "2275." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2025-q26",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 26,
+    "statement": "Durante o período de chuvas em São Luís (MA), as medições de precipitação mensal, em milímetros, para seis meses foram registradas:\nJaneiro: 278\nFevereiro: 359\nMarço: 406\nAbril: 462\nMaio: 238\nJunho: 155\nA mediana de precipitação para esses seis meses foi igual a",
+    "options": [
+      { "label": "a", "text": "318,5." },
+      { "label": "b", "text": "368,5." },
+      { "label": "c", "text": "406,0." },
+      { "label": "d", "text": "434,0." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2025-q27",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 27,
+    "statement": "Um número inteiro positivo é formado por três algarismos, sendo o dígito da centena 3, o da dezena 5 e o da unidade X. Sabendo que esse número é divisível por 3, a soma dos quadrados dos valores que X pode assumir é",
+    "options": [
+      { "label": "a", "text": "66." },
+      { "label": "b", "text": "76." },
+      { "label": "c", "text": "106." },
+      { "label": "d", "text": "126." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2025-q28",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 28,
+    "statement": "Para fazer uma ligação para o Maranhão, deve-se discar o código de área do Estado. O código de área para a região metropolitana de São Luís (MA) é 98 e para as demais regiões do Estado é 99. O produto dos códigos de área 98 e 99 tem a sua decomposição em fatores primos dada por",
+    "options": [
+      { "label": "a", "text": "$2 \\cdot 3^{2} \\cdot 7 \\cdot 11^{2}$." },
+      { "label": "b", "text": "$2^{2} \\cdot 3 \\cdot 7^{2} \\cdot 11$." },
+      { "label": "c", "text": "$2 \\cdot 3^{2} \\cdot 7^{2} \\cdot 11$." },
+      { "label": "d", "text": "$2^{2} \\cdot 3^{2} \\cdot 7 \\cdot 11$." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2025-q29",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 29,
+    "statement": "Durante um festival cultural no Maranhão, serão distribuídos cartões com imagens de diferentes pontos turísticos do estado: 500 cartões com a imagem do Parque Nacional dos Lençóis Maranhenses; 1000 cartões com a imagem do Centro Histórico de São Luís; 1500 cartões com a imagem do Palácio dos Leões; 2000 cartões com a imagem da Praia de São Marcos. Se um cartão é escolhido aleatoriamente, a probabilidade de que o cartão escolhido tenha a imagem da Praia de São Marcos ou do Parque Nacional dos Lençóis Maranhenses é igual a",
+    "options": [
+      { "label": "a", "text": "2/5." },
+      { "label": "b", "text": "1/2." },
+      { "label": "c", "text": "1/10." },
+      { "label": "d", "text": "3/10." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2025-q30",
+    "examId": "mat-integrada-2025",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 30,
+    "statement": "Uma cooperativa de pescadores no litoral do Maranhão decide investir R\\$ 25.000,00 na compra de novos equipamentos de pesca. Para isso, eles tomaram um empréstimo com uma taxa de juros simples de 5,25% ao mês. Sabendo que o pagamento será feito ao final de 10 meses, a quantia total de juros que a cooperativa pagará é",
+    "options": [
+      { "label": "a", "text": "R\\$ 13.125,00." },
+      { "label": "b", "text": "R\\$ 16.702,40." },
+      { "label": "c", "text": "R\\$ 38.125,00." },
+      { "label": "d", "text": "R\\$ 41.702,40." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2023-q16",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 16,
+    "statement": "De acordo com um levantamento, 728.203 pessoas estão presas no Brasil. Desse total, aproximadamente 40%, por crimes contra o patrimônio; 31%, por envolvimento com drogas; 18%, por \"outros\" crimes; e apenas 10%, por homicídio. Ao selecionar aleatoriamente duas dentre o total de pessoas presas, a probabilidade de que sejam indicadas uma pessoa presa por envolvimento com drogas e uma pessoa condenada por homicídio é de",
+    "options": [
+      { "label": "a", "text": "5,4%." },
+      { "label": "b", "text": "3,1%." },
+      { "label": "c", "text": "41,1%." },
+      { "label": "d", "text": "35,5%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2023-q17",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 17,
+    "statement": "De acordo com um levantamento, 728.203 pessoas estão presas no Brasil. Desse total, aproximadamente 40%, por crimes contra o patrimônio; 31%, por envolvimento com drogas; 18%, por \"outros\" crimes; e apenas 10%, por homicídio. Ainda considerando o total de pessoas encarceradas no Brasil, a probabilidade de encontrar, aleatoriamente, uma pessoa culpada por crimes contra o patrimônio ou um indivíduo responsável por \"outros\" crimes é de",
+    "options": [
+      { "label": "a", "text": "7,2%." },
+      { "label": "b", "text": "36%." },
+      { "label": "c", "text": "58%." },
+      { "label": "d", "text": "9,4%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2023-q18",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "Para a realização de um estudo sobre a violência contra a mulher, será formada uma comissão composta por 5 médicos e 4 psicólogos. Em uma clínica, em que 8 médicos e 7 psicólogos se disponibilizaram a participar, o número de formas que será possível organizar a comissão é",
+    "options": [
+      { "label": "a", "text": "5 644 800." },
+      { "label": "b", "text": "2 822 400." },
+      { "label": "c", "text": "1 960." },
+      { "label": "d", "text": "3 920." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2023-q19",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 19,
+    "statement": "Em determinada cidade do Maranhão, como resultado da constante conscientização e do aumento na rigidez da punição pelo crime, o número de crimes de violência contra a mulher vem diminuindo no decorrer do ano, como pode ser visto nos dados dos três primeiros meses:\nJaneiro: 50 000\nFevereiro: 48 300\nMarço: 46 600\nCaso essa tendência se mantenha durante todos os meses do ano, o número de crimes esperado para dezembro corresponde a",
+    "options": [
+      { "label": "a", "text": "31 300." },
+      { "label": "b", "text": "33 000." },
+      { "label": "c", "text": "29 600." },
+      { "label": "d", "text": "34 700." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2023-q20",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 20,
+    "statement": "Um estudo realizado no Maranhão observou que, para cada solicitação de medida protetiva atendida no prazo legal, chegavam outras três que não eram atendidas dentro desse prazo. Em uma determinada semana, foram registradas, em São Luís, as solicitações de medidas protetivas:\nSegunda-feira: 256\nTerça-feira: 512\nQuarta-feira: 1024\nSeguindo essa mesma tendência, o número de solicitações não atendidas, no sábado, foi de",
+    "options": [
+      { "label": "a", "text": "8 194." },
+      { "label": "b", "text": "6 144." },
+      { "label": "c", "text": "2 048." },
+      { "label": "d", "text": "16 384." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-subsequente-2023-q21",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "De acordo com um levantamento sobre esclarecimento de homicídios no Brasil, na edição que traz os dados referentes a 2020, houve aumento de 12 para 17 no número de estados que foram capazes de fornecer informações para o cálculo das taxas de esclarecimento. Nesse contexto, o aumento foi, aproximadamente, de",
+    "options": [
+      { "label": "a", "text": "19/50." },
+      { "label": "b", "text": "23/50." },
+      { "label": "c", "text": "21/50." },
+      { "label": "d", "text": "27/50." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2023-q22",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 22,
+    "statement": "No bairro A, ocorreu redução dos casos de violência a uma taxa constante de 10 casos por mês. Em contraste, no bairro B, houve um significativo aumento dos casos de violência, a uma taxa constante de 15 casos mensais. No gráfico da Figura 01, estão representadas as funções que descrevem o que ocorre em ambos os bairros, em que o eixo das ordenadas indica a quantidade de casos de violência, em função do tempo em meses (eixo das abscissas). Tomando por base essas informações, o número de casos se igualou nos dois bairros no mês",
+    "options": [
+      { "label": "a", "text": "3." },
+      { "label": "b", "text": "2." },
+      { "label": "c", "text": "5." },
+      { "label": "d", "text": "4." }
+    ],
+    "imagePath": "mat-subsequente-2023/q22.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2023-q23",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 23,
+    "statement": "Após uma longa e detalhada análise dos registros oficiais envolvendo casos de violência doméstica protocolados em uma delegacia de defesa da mulher, observou-se que, em setembro de 2022, o número de boletins de ocorrência variou de acordo com a função $y = -2x^2 + 60x$, em que $x$ é o tempo decorrido, em dias, e $y$ é o quantitativo de registros naquele dia. Nessas condições, o maior número de boletins de ocorrência nesse mês de observação foi",
+    "options": [
+      { "label": "a", "text": "500." },
+      { "label": "b", "text": "400." },
+      { "label": "c", "text": "450." },
+      { "label": "d", "text": "380." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2023-q24",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 24,
+    "statement": "Um estudo de psicologia, que analisou a influência de jogos de desafio/corrente sobre os casos de suicídio entre adolescentes, determinou que a ocorrência de casos sofre impacto do número de compartilhamentos do jogo em redes sociais. Considerando que o número de casos de suicídio segue, aproximadamente, a função $N(c) = \\dfrac{1}{16} \\cdot \\left(\\dfrac{1}{2}\\right)^{-\\frac{c}{1000}+5}$, em que $c$ corresponde à quantidade de compartilhamentos, o número de casos de suicídio atingirá 16 quando forem feitos",
+    "options": [
+      { "label": "a", "text": "15 mil compartilhamentos." },
+      { "label": "b", "text": "50 mil compartilhamentos." },
+      { "label": "c", "text": "9 mil compartilhamentos." },
+      { "label": "d", "text": "13 mil compartilhamentos." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2023-q25",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 25,
+    "statement": "Um mapa da violência em palavras reúne termos como desigualdade social, corrupção, desemprego e tráfico. Para uma campanha de conscientização contra a violência nos grandes centros urbanos, uma empresa deseja escrever a palavra \"violência\" de todas as formas possíveis, permutando suas letras. Sendo assim, a quantidade de maneiras distintas possíveis para a escrita é",
+    "options": [
+      { "label": "a", "text": "9!." },
+      { "label": "b", "text": "8!." },
+      { "label": "c", "text": "9!/2!." },
+      { "label": "d", "text": "8!/2!." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2023-q26",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 26,
+    "statement": "Considere a Figura 2 e $\\pi = 3,14$. O Departamento de Polícia de um estado brasileiro pretende desenvolver um projeto de conscientização em uma área muito violenta, delimitada pela região circular apresentada na Figura 2 (raio de 22 km). Sabendo que os encarregados estão estruturando uma operação para cercar o perímetro dessa região circular, e que são necessários pelo menos dois policiais a cada 100 metros de perímetro, o número mínimo de agentes direcionados para cercar a região mencionada é",
+    "options": [
+      { "label": "a", "text": "2 764." },
+      { "label": "b", "text": "1 382." },
+      { "label": "c", "text": "2 551." },
+      { "label": "d", "text": "1 024." }
+    ],
+    "imagePath": "mat-subsequente-2023/q26.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2023-q27",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 27,
+    "statement": "Considere a Figura 2 (região circular de raio 22 km) e $\\pi = 3,14$. A área, em quilômetros quadrados, delimitada pelo círculo na Figura 2, aproximadamente, é",
+    "options": [
+      { "label": "a", "text": "1 520 km²." },
+      { "label": "b", "text": "1 500 km²." },
+      { "label": "c", "text": "1 540 km²." },
+      { "label": "d", "text": "1 480 km²." }
+    ],
+    "imagePath": "mat-subsequente-2023/q27.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-subsequente-2023-q28",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 28,
+    "statement": "Em pesquisa realizada junto à população, buscou-se descobrir a opinião dos cidadãos acerca da punição mais adequada a ser aplicada aos criminosos que cometem atos de violência contra a mulher. Dos 900 respondentes, 453 concordam que apenas o encarceramento de isolamento total é medida punitiva adequada; 348 apontaram que a prisão em regime semiaberto daria melhores resultados e, dentre esses participantes, 256 assinalaram que o serviço comunitário deve ocorrer concomitantemente com a prisão em regime semiaberto; e do total de respondentes, 355 defendem que são necessárias medidas educativas/prestação de serviço comunitário. Sabendo que todos os respondentes escolheram entre as opções citadas e quem escolheu o isolamento total não concorda com nenhuma outra opção, o número de pessoas que optaram apenas por medidas educativas/prestação de serviço comunitário foi",
+    "options": [
+      { "label": "a", "text": "123." },
+      { "label": "b", "text": "231." },
+      { "label": "c", "text": "87." },
+      { "label": "d", "text": "99." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-subsequente-2023-q29",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 29,
+    "statement": "Tem-se um gráfico da taxa de homicídios de jovens no Brasil e nos estados brasileiros. Um analista deseja avaliar a influência do Rio Grande do Norte, estado com maior taxa de homicídios, sobre o estado do Maranhão, uma vez que a proximidade de locais violentos pode ser um dos fatores causadores da disseminação da violência. Para fazer o cálculo, ele construiu a Figura 3, enquadrada em um sistema de coordenadas cartesianas, para determinar a distância, em linha reta, entre esses dois estados. A distância calculada pelo analista foi de",
+    "options": [
+      { "label": "a", "text": "1 250 km." },
+      { "label": "b", "text": "980 km." },
+      { "label": "c", "text": "1 070 km." },
+      { "label": "d", "text": "1 560 km." }
+    ],
+    "imagePath": "mat-subsequente-2023/q29.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-subsequente-2023-q30",
+    "examId": "mat-subsequente-2023",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 30,
+    "statement": "Um perito responsável por elucidar um caso de tentativa de feminicídio ocasionado por arma de fogo deve determinar se a munição encontrada na arma do suspeito corresponde ao projétil causador do ferimento na vítima. Uma das técnicas que o perito irá utilizar analisa a equivalência do volume do projétil e do ferimento encontrado no corpo da vítima. Sabendo que o corpo do projétil possui formato cilíndrico e cabeça em forma de meia esfera, conforme representado na Figura 4, o volume desse projétil, em $mm^3$, é, aproximadamente, de. Considere $\\pi = 3,14$.",
+    "options": [
+      { "label": "a", "text": "21,7." },
+      { "label": "b", "text": "27,5." },
+      { "label": "c", "text": "20,1." },
+      { "label": "d", "text": "25,1." }
+    ],
+    "imagePath": "mat-subsequente-2023/q30.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2023-q16",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 16,
+    "statement": "A partir da análise dos dados apresentados no gráfico de feminicídios por ano, o ano em que foi possível observar o maior número de feminicídios foi",
+    "options": [
+      { "label": "a", "text": "2019." },
+      { "label": "b", "text": "2021." },
+      { "label": "c", "text": "2015." },
+      { "label": "d", "text": "2018." }
+    ],
+    "imagePath": "mat-concomitante-2023/q16.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2023-q17",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 17,
+    "statement": "Um estudo registra que, pelo menos, uma mulher foi vítima de feminicídio a cada 8 horas em 2021. Considerando a manutenção dessa média, o número mínimo de vidas perdidas, em 2022, poderá ser de",
+    "options": [
+      { "label": "a", "text": "1460." },
+      { "label": "b", "text": "1095." },
+      { "label": "c", "text": "3650." },
+      { "label": "d", "text": "8760." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2023-q18",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 18,
+    "statement": "Se as 2300 pessoas que se tornaram órfãs por feminicídio no Brasil, em 2021, representam apenas 20% do total de órfãos por assassinato no país nesse mesmo ano, o total de pessoas, que se tornaram órfãs por assassinato, no ano de 2021, foi de",
+    "options": [
+      { "label": "a", "text": "12.000." },
+      { "label": "b", "text": "11.000." },
+      { "label": "c", "text": "12.500." },
+      { "label": "d", "text": "11.500." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2023-q19",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 19,
+    "statement": "No Brasil, mais de 2.300 pessoas se tornaram órfãs em decorrência de feminicídios no ano de 2021. Suponha que o governo e instituições associadas estabeleceram um cronograma de medidas educativas, preventivas e até mesmo punitivas, relacionadas a essa modalidade de crime, visando alcançar uma meta de redução equivalente a 19% desse quantitativo até o final de 2022. Sendo assim, espera-se que, nesse prazo, o número de órfãos seja de",
+    "options": [
+      { "label": "a", "text": "437." },
+      { "label": "b", "text": "1863." },
+      { "label": "c", "text": "1840." },
+      { "label": "d", "text": "2737." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2023-q20",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "Em uma cidade, o número de casos de feminicídio era de 2458 no início da análise dos dados. Após uma política de prevenção, apresentou redução a uma taxa constante de 10 casos por mês. A lei de formação da função que determina o número de casos de feminicídios (F) em função do número de meses (x) é",
+    "options": [
+      { "label": "a", "text": "$F(x) = 2458 - 10x$" },
+      { "label": "b", "text": "$F(x) = 2458 + 10x$" },
+      { "label": "c", "text": "$F(x) = 2468x$" },
+      { "label": "d", "text": "$F(x) = 2448x$" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2023-q21",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 21,
+    "statement": "Duas instituições que abrigam vítimas de violência doméstica disponibilizam suas vagas, respectivamente, a cada 30 e 50 dias. Se as duas instituições abrirem vagas simultâneas hoje, o tempo que levará para que as duas instituições abram novas vagas, concomitantemente, será de",
+    "options": [
+      { "label": "a", "text": "5 meses." },
+      { "label": "b", "text": "3 meses e 18 dias." },
+      { "label": "c", "text": "3 meses." },
+      { "label": "d", "text": "5 meses e 4 dias." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2023-q22",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 22,
+    "statement": "A prefeitura de uma cidade fez campanha contra crimes de feminicídio. Sabendo que a média de crimes era de 25 casos por semana e foi reduzida em um quinto após o primeiro ano dessa campanha, e em um quarto da nova média após o segundo ano, conclui-se que a média de crimes, ao final dos dois anos de campanha, foi de",
+    "options": [
+      { "label": "a", "text": "16." },
+      { "label": "b", "text": "17." },
+      { "label": "c", "text": "15." },
+      { "label": "d", "text": "18." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2023-q23",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 23,
+    "statement": "Considerando o gráfico de feminicídios por ano, no período de 2015 a 2020, a média anual de casos de feminicídios foi de",
+    "options": [
+      { "label": "a", "text": "78." },
+      { "label": "b", "text": "65." },
+      { "label": "c", "text": "85." },
+      { "label": "d", "text": "91." }
+    ],
+    "imagePath": "mat-concomitante-2023/q23.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2023-q24",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 24,
+    "statement": "Com base nos gráficos de feminicídio, violência psicológica e incidentes de insanidade mental do acusado, é correto afirmar que o",
+    "options": [
+      { "label": "a", "text": "número de casos de feminicídios é crescente de 2015 a 2019." },
+      { "label": "b", "text": "número de casos de violência psicológica é crescente de 2014 a 2018." },
+      { "label": "c", "text": "maior número de casos de violência psicológica ocorreu no ano de 2018." },
+      { "label": "d", "text": "estudo de incidentes de insanidade mental do acusado mostra, em 2020, 29 casos." }
+    ],
+    "imagePath": "mat-concomitante-2023/q24.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2023-q25",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 25,
+    "statement": "Uma charge mostra uma mulher subindo os degraus de uma escada. Com exceção do degrau com o nome PARABÉNS, os demais sete degraus registram situações difíceis que a mulher enfrenta no seu cotidiano: sentimento de culpa, violência física, assédio psicológico, assédio moral, assédio sexual, dupla jornada e feminicídio. Escrevendo cada uma dessas situações difíceis em uma tirinha de papel e depositando todas as tirinhas em uma urna, a probabilidade de se obter, aproximadamente, em uma única retirada aleatória, uma situação de assédio, é de",
+    "options": [
+      { "label": "a", "text": "0,65." },
+      { "label": "b", "text": "0,36." },
+      { "label": "c", "text": "0,43." },
+      { "label": "d", "text": "0,55." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2023-q26",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 26,
+    "statement": "A Figura 1 mostra um símbolo de luta da violência contra a mulher. As medidas da região preta delimitam a imagem de uma cruz. A área dessa região, em unidades de área, é uma expressão dada por",
+    "options": [
+      { "label": "a", "text": "$4xy + x^2$." },
+      { "label": "b", "text": "$xy + 2x^2$." },
+      { "label": "c", "text": "$3xy + y^2$." },
+      { "label": "d", "text": "$4xy + 2y^2$." }
+    ],
+    "imagePath": "mat-concomitante-2023/q26.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-concomitante-2023-q27",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 27,
+    "statement": "O feminicídio, só em 2021, deixou cerca de 2.300 órfãos no Brasil. Supondo que 60% desses órfãos são meninas, o total de meninos que ficaram órfãos é de",
+    "options": [
+      { "label": "a", "text": "1380." },
+      { "label": "b", "text": "860." },
+      { "label": "c", "text": "1260." },
+      { "label": "d", "text": "920." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-concomitante-2023-q28",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 28,
+    "statement": "Para construir um complexo de acolhimento às mulheres vítimas de violência doméstica com risco de morte, a prefeitura de um município do interior do Maranhão doou dois terrenos em forma de triângulos retângulos, como mostra a Figura 2. Sabendo que os triângulos ABC e DEF são semelhantes, o valor da medida do lado AB, em metros, é de",
+    "options": [
+      { "label": "a", "text": "50." },
+      { "label": "b", "text": "90." },
+      { "label": "c", "text": "60." },
+      { "label": "d", "text": "100." }
+    ],
+    "imagePath": "mat-concomitante-2023/q28.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-concomitante-2023-q29",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 29,
+    "statement": "Marina sofreu uma violência física do marido e, no mesmo dia (t=0), contou o ocorrido apenas para uma amiga, pedindo segredo. A amiga, revoltada com a situação, no dia seguinte (t=1), contou o fato a outras duas pessoas. Supondo que cada pessoa, que recebia a informação, repassava o ocorrido apenas no dia seguinte e somente para duas novas pessoas que desconheciam a violência, além de Marina, o número total de pessoas que soube desse caso de violência, ao final do quarto dia (t=3), foi de",
+    "options": [
+      { "label": "a", "text": "14." },
+      { "label": "b", "text": "15." },
+      { "label": "c", "text": "18." },
+      { "label": "d", "text": "10." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-concomitante-2023-q30",
+    "examId": "mat-concomitante-2023",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 30,
+    "statement": "Dados atuais mostram que a cada 5 horas, pelo menos, uma mulher é vítima de violência no Brasil. Com base nessa informação e passadas, exatamente, 72 horas, o número mínimo de casos de violência contra a mulher contabilizados no Brasil é de",
+    "options": [
+      { "label": "a", "text": "17." },
+      { "label": "b", "text": "15." },
+      { "label": "c", "text": "16." },
+      { "label": "d", "text": "14." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2023-q16",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "Segundo um levantamento, cerca de 79% das 90 vítimas entre tentativas e feminicídios consumados no DF, entre 2019 e 2020, tiveram como vítimas mulheres negras. O total de mulheres negras que foram vítimas foi",
+    "options": [
+      { "label": "a", "text": "69." },
+      { "label": "b", "text": "67." },
+      { "label": "c", "text": "71." },
+      { "label": "d", "text": "73." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2023-q17",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 17,
+    "statement": "Se uma CPI do feminicídio realizou, em média, duas sessões de 90min durante 18 dos meses em que esteve ativa, o total de horas que os parlamentares nomeados para a comissão dedicaram à CPI foi",
+    "options": [
+      { "label": "a", "text": "55." },
+      { "label": "b", "text": "54." },
+      { "label": "c", "text": "53." },
+      { "label": "d", "text": "52." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2023-q18",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 18,
+    "statement": "Sabendo que a taxa de mortalidade por feminicídio no ano de 2021 foi de 1,22 mortes para cada 100 mil mulheres, uma razão que pode representar essa taxa é",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{61}{5\\ 000\\ 000}$." },
+      { "label": "b", "text": "$\\dfrac{61}{500\\ 000}$." },
+      { "label": "c", "text": "$\\dfrac{30}{1\\ 000\\ 000}$." },
+      { "label": "d", "text": "$\\dfrac{30}{1\\ 000\\ 000}$." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2023-q19",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 19,
+    "statement": "Um levantamento feito por um banco de dados global entre 2000 e 2019 estimou que 27% das mulheres de 15 a 49 anos sofreram algum tipo de violência de seus parceiros. Em uma cidade com 8 000 000 de mulheres de 15 a 49 anos, se a estimativa do levantamento global se mantiver, o número esperado de mulheres que sofrerão algum tipo de violência, em notação científica, é",
+    "options": [
+      { "label": "a", "text": "$2,16 \\cdot 10^{6}$." },
+      { "label": "b", "text": "$2,16 \\cdot 10^{5}$." },
+      { "label": "c", "text": "$2,7 \\cdot 10^{6}$." },
+      { "label": "d", "text": "$2,7 \\cdot 10^{5}$." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2023-q20",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "Em uma cidade, o tempo (T) de resposta a uma ligação telefônica de emergência para a polícia, em minutos, é dada pela função $T(x) = 2x + 5$, onde $x$ representa a distância, em quilômetros, da viatura policial ao local da ocorrência. Se uma emergência ocorreu a 12 km de uma viatura, o tempo de resposta a essa emergência foi de",
+    "options": [
+      { "label": "a", "text": "28 minutos." },
+      { "label": "b", "text": "30 minutos." },
+      { "label": "c", "text": "31 minutos." },
+      { "label": "d", "text": "29 minutos." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2023-q21",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "Após uma denúncia de tentativa de feminicídio, a justiça determinou que o agressor não poderia ficar a menos de 5,2 km da vítima que sofreu a agressão. Se a vítima se encontra 3 km ao sul de uma biblioteca da cidade e o agressor se encontra a 4 km a oeste dessa mesma biblioteca, então",
+    "options": [
+      { "label": "a", "text": "a determinação judicial está sendo cumprida, pois o agressor está a 5,5 km da vítima." },
+      { "label": "b", "text": "a determinação judicial está sendo descumprida, pois o agressor está a 5 km da vítima." },
+      { "label": "c", "text": "a determinação judicial está sendo cumprida, pois o agressor está a 6 km da vítima." },
+      { "label": "d", "text": "a determinação judicial está sendo descumprida, pois o agressor está a 4,5 km da vítima." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2023-q22",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 22,
+    "statement": "O governo de uma cidade concedeu empréstimos para que vítimas de tentativa de feminicídio pudessem recomeçar suas vidas longe dos agressores. Se os empréstimos eram de R\\$ 10.000,00 a uma taxa de juros simples de 0,1% ao mês e com prazo de pagamento de 60 meses, o montante a ser pago ao final do prazo será de",
+    "options": [
+      { "label": "a", "text": "R\\$ 10.600,00." },
+      { "label": "b", "text": "R\\$ 12.000,00." },
+      { "label": "c", "text": "R\\$ 11.600,00." },
+      { "label": "d", "text": "R\\$ 13.000,00." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2023-q23",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Uma manifestação repudiando a violência contra as mulheres foi realizada em uma praça, construída no formato de um trapézio isósceles de base menor medindo 120 m, base maior medindo 280 m, e os lados não paralelos medindo 100 m. Sabendo que a praça ficou totalmente ocupada pelos manifestantes e que cada $m^2$ foi ocupado por 4 pessoas, o número de pessoas presentes na manifestação foi",
+    "options": [
+      { "label": "a", "text": "40.000." },
+      { "label": "b", "text": "50.000." },
+      { "label": "c", "text": "48.000." },
+      { "label": "d", "text": "58.000." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2023-q24",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 24,
+    "statement": "O Ligue 180 - Central de Atendimento à Mulher é um serviço criado para o combate à violência contra a mulher. Por meio de ligação gratuita e confidencial, esse canal de denúncia funciona 24 horas por dia, todos os dias da semana. O número telefônico utilizado para ligar na Central de Atendimento à Mulher tem a sua decomposição em fatores primos dada por",
+    "options": [
+      { "label": "a", "text": "$2^{2} \\cdot 3^{2} \\cdot 5$." },
+      { "label": "b", "text": "$2^{3} \\cdot 3^{2} \\cdot 5$." },
+      { "label": "c", "text": "$2 \\cdot 3^{3} \\cdot 5^{2}$." },
+      { "label": "d", "text": "$2^{2} \\cdot 3^{2} \\cdot 5^{2}$." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2023-q25",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 25,
+    "statement": "O Ligue 180 - Central de Atendimento à Mulher funciona 24 horas por dia, todos os dias da semana, por meio de ligação gratuita e confidencial. Uma vítima de violência doméstica ligou 4 vezes para a Central de Atendimento à Mulher, solicitando ajuda. Supondo que cada ligação durou 5 minutos, o tempo total, em segundos, que a vítima gastou ligando para o canal de denúncia foi de",
+    "options": [
+      { "label": "a", "text": "300." },
+      { "label": "b", "text": "1200." },
+      { "label": "c", "text": "1000." },
+      { "label": "d", "text": "600." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mat-integrada-2023-q26",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 26,
+    "statement": "Um levantamento sobre fatores de vulnerabilidade à violência durante a pandemia apontou: perda de emprego ou impossibilidade de trabalhar para garantir renda própria (25,10%), maior convivência com o agressor (21,80%), dificuldade de ir até Delegacia da Mulher, Polícia ou outros locais que funcionam como rede de proteção (9,20%), dificuldade para encontrar pessoas que poderiam auxiliar na situação de violência sofrida (6,90%) e outros (10,10%). Com base nesses dados é correto afirmar que",
+    "options": [
+      { "label": "a", "text": "o maior dos percentuais corresponde ao fator \"Maior convivência com o agressor\"." },
+      { "label": "b", "text": "o percentual de \"Perda de emprego ou impossibilidade de trabalhar para garantir renda própria\" é maior do que a soma dos demais percentuais." },
+      { "label": "c", "text": "o menor dos percentuais corresponde ao fator \"Outros\"." },
+      { "label": "d", "text": "a soma de todos os percentuais é igual a 73,10%." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mat-integrada-2023-q27",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 27,
+    "statement": "Uma sala de aula tem ao todo 33 estudantes. O número de mulheres é a metade do número de homens e seis delas relataram já ter sofrido algum tipo de violência física por parte dos seus parceiros. A quantidade de mulheres desta sala que não relataram nenhum caso de violência foi um total de",
+    "options": [
+      { "label": "a", "text": "11." },
+      { "label": "b", "text": "8." },
+      { "label": "c", "text": "5." },
+      { "label": "d", "text": "10." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mat-integrada-2023-q28",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 28,
+    "statement": "Uma pesquisa de opinião realizada com 180 mulheres, em um terminal rodoviário, investigou a forma de violência contra a mulher da qual elas tinham sido vítimas. De acordo com a tabela a seguir, cada mulher entrevistada indicava apenas uma forma de violência.\nFormas de Violência — Número\nViolência Patrimonial — 18\nViolência Sexual — 40\nViolência Física — 85\nViolência Moral — 17\nViolência Psicológica — 20\nTotal — 180\nEscolhendo uma dessas mulheres, aleatoriamente, a probabilidade de ela ter sofrido violência física é de",
+    "options": [
+      { "label": "a", "text": "$\\dfrac{17}{36}$." },
+      { "label": "b", "text": "$\\dfrac{1}{13}$." },
+      { "label": "c", "text": "$\\dfrac{18}{47}$." },
+      { "label": "d", "text": "$\\dfrac{2}{9}$." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2023-q29",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 29,
+    "statement": "Uma mulher vítima de violência doméstica obteve na justiça uma medida protetiva que proibia o agressor de se aproximar dela num raio de 500 metros. A área da maior região circular, em $m^2$, que a vítima está protegida do agressor é de",
+    "options": [
+      { "label": "a", "text": "$250000\\pi$." },
+      { "label": "b", "text": "$150000\\pi$." },
+      { "label": "c", "text": "$100000\\pi$." },
+      { "label": "d", "text": "$1250000\\pi$." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mat-integrada-2023-q30",
+    "examId": "mat-integrada-2023",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 30,
+    "statement": "Uma CPI do Feminicídio iniciou suas atividades no dia 5 de novembro de 2019 e concluiu os trabalhos com o relatório final no dia 10 de maio de 2021. Supondo que, ao longo desse período, foram realizadas um total de 51 reuniões e que, nos meses de janeiro, na Câmara Legislativa, não tem expediente, a média de reuniões por mês de trabalho foi de",
+    "options": [
+      { "label": "a", "text": "5." },
+      { "label": "b", "text": "2." },
+      { "label": "c", "text": "6." },
+      { "label": "d", "text": "3." }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
     "id": "mat-subsequente-2022-q16",
     "examId": "mat-subsequente-2022",
     "discipline": "matematica",
