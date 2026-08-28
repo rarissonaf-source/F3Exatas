@@ -880,6 +880,22 @@
     "correctAnswer": "b"
   },
   {
+    "id": "mat-subsequente-2024-q26",
+    "examId": "mat-subsequente-2024",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 26,
+    "statement": "Como desempate de um concurso para ingresso em uma empresa de IA, foi proposta a seguinte questão: \"Considerando o eixo horizontal como x e o eixo vertical como f(x), o gráfico que representa a função $f(x) = ||x| - 1|$ é\". O candidato que acertou e foi contratado assinalou a opção",
+    "options": [
+      { "label": "a", "text": "", "imagePath": "mat-subsequente-2024/q26_a.png" },
+      { "label": "b", "text": "", "imagePath": "mat-subsequente-2024/q26_b.png" },
+      { "label": "c", "text": "", "imagePath": "mat-subsequente-2024/q26_c.png" },
+      { "label": "d", "text": "", "imagePath": "mat-subsequente-2024/q26_d.png" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
     "id": "mat-subsequente-2024-q27",
     "examId": "mat-subsequente-2024",
     "discipline": "matematica",
@@ -7815,6 +7831,23 @@
     ],
     "imagePath": null,
     "correctAnswer": "e"
+  },
+  {
+    "id": "mat-concomitante-2016-q30",
+    "examId": "mat-concomitante-2016",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 30,
+    "statement": "Uma empresa aluga microcomputadores para navegantes da internet. Para a utilização desse serviço um usuário paga uma taxa fixa de R\\$ 4,00 acrescida de R\\$ 2,00 por hora da utilização da máquina. O gráfico que melhor representa o preço a pagar pelos navegantes de internet é:",
+    "options": [
+      { "label": "a", "text": "", "imagePath": "mat-concomitante-2016/q30_a.png" },
+      { "label": "b", "text": "", "imagePath": "mat-concomitante-2016/q30_b.png" },
+      { "label": "c", "text": "", "imagePath": "mat-concomitante-2016/q30_c.png" },
+      { "label": "d", "text": "", "imagePath": "mat-concomitante-2016/q30_d.png" },
+      { "label": "e", "text": "", "imagePath": "mat-concomitante-2016/q30_e.png" }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   },
   {
     "id": "mat-concomitante-2016-q31",
