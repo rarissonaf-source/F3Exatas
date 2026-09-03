@@ -10,13 +10,13 @@ export function SiteHeader() {
       {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
       <a
         href="/"
-        className="font-bold tracking-wide text-white/90 transition-colors hover:text-brand-orange"
+        className="font-bold tracking-wide text-foreground/90 transition-colors hover:text-brand-orange"
       >
         &lsaquo; F3Exatas
       </a>
       <Link
         href="/"
-        className="font-semibold text-white/50 transition-colors hover:text-white/80"
+        className="font-semibold text-muted-foreground transition-colors hover:text-foreground"
       >
         F3 Provas
       </Link>
