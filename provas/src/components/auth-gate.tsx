@@ -2,28 +2,24 @@
 
 import { useEffect, useRef, useState } from "react";
 import { BASE_PATH } from "@/lib/base-path";
+import {
+  SHARED_ACCOUNT,
+  EMPTY_PROFILE,
+  type F3Profile,
+  getCurrentProfile,
+  updateCurrentProfile,
+  isAuthed,
+  unlockAccount,
+  logoutAccount,
+} from "@/lib/account";
 
 const GATE_USER = "f3exatas";
 const GATE_PASS = "exatas2026";
-const AUTH_KEY = "f3_auth_ok";
-const CURRENT_KEY = "f3_current_account";
-const PROFILES_KEY = "f3_profiles";
-const LEGACY_USER_KEY = "f3_user";
-const SHARED_ACCOUNT = "_shared";
 const PHOTO_MAX_SIZE = 256;
 
 // Cole aqui o Client ID criado no Google Cloud Console (Credentials > OAuth client ID > Web application).
 const GOOGLE_CLIENT_ID = "940839767965-tipond9snpkqeubb55rahh8p21c5bqko.apps.googleusercontent.com";
 const ALLOWED_GOOGLE_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com"];
-
-type F3Profile = {
-  name: string;
-  email: string;
-  phone: string;
-  picture: string;
-};
-
-const EMPTY_PROFILE: F3Profile = { name: "Usuário F3Exatas", email: "", phone: "", picture: "" };
 
 declare global {
   interface Window {
@@ -61,59 +57,6 @@ function initials(name: string): string {
     .join("");
 }
 
-function loadProfiles(): Record<string, F3Profile> {
-  try {
-    return JSON.parse(localStorage.getItem(PROFILES_KEY) || "{}") || {};
-  } catch {
-    return {};
-  }
-}
-
-function saveProfiles(profiles: Record<string, F3Profile>) {
-  localStorage.setItem(PROFILES_KEY, JSON.stringify(profiles));
-}
-
-function ensureProfile(key: string, seed: F3Profile): F3Profile {
-  const profiles = loadProfiles();
-  if (!profiles[key]) {
-    profiles[key] = seed;
-    saveProfiles(profiles);
-  }
-  return profiles[key];
-}
-
-function getCurrentAccountKey(): string {
-  const key = localStorage.getItem(CURRENT_KEY);
-  if (key) return key;
-
-  try {
-    const legacy = JSON.parse(localStorage.getItem(LEGACY_USER_KEY) || "null");
-    if (legacy) {
-      const migratedKey = legacy.email || SHARED_ACCOUNT;
-      ensureProfile(migratedKey, legacy);
-      localStorage.setItem(CURRENT_KEY, migratedKey);
-      return migratedKey;
-    }
-  } catch {
-    /* ignora */
-  }
-
-  localStorage.setItem(CURRENT_KEY, SHARED_ACCOUNT);
-  return SHARED_ACCOUNT;
-}
-
-function getCurrentProfile(): F3Profile {
-  const key = getCurrentAccountKey();
-  return ensureProfile(key, EMPTY_PROFILE);
-}
-
-function updateCurrentProfile(updated: F3Profile) {
-  const key = getCurrentAccountKey();
-  const profiles = loadProfiles();
-  profiles[key] = updated;
-  saveProfiles(profiles);
-}
-
 function resizeImageToDataUrl(file: File, maxSize: number, callback: (dataUrl: string) => void) {
   const reader = new FileReader();
   reader.onload = (e) => {
@@ -147,7 +90,7 @@ export function AuthGate() {
   const googleBtnRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const authed = localStorage.getItem(AUTH_KEY) === "1";
+    const authed = isAuthed();
     setUnlocked(authed);
     if (authed) setProfile(getCurrentProfile());
     setChecked(true);
@@ -195,9 +138,7 @@ export function AuthGate() {
   }, [checked, unlocked]);
 
   function unlock(accountKey: string, seedProfile: F3Profile) {
-    const resolved = ensureProfile(accountKey, seedProfile);
-    localStorage.setItem(CURRENT_KEY, accountKey);
-    localStorage.setItem(AUTH_KEY, "1");
+    const resolved = unlockAccount(accountKey, seedProfile);
     setProfile(resolved);
     setUnlocked(true);
   }
@@ -212,8 +153,7 @@ export function AuthGate() {
   }
 
   function handleLogout() {
-    localStorage.removeItem(AUTH_KEY);
-    localStorage.removeItem(CURRENT_KEY);
+    logoutAccount();
     location.reload();
   }
 

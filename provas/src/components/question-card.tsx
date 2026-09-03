@@ -11,13 +11,15 @@ import {
   ListPlus,
   Share2,
   Copy,
-  Lock,
   Plus,
   AlertTriangle,
+  Send,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { LatexText } from "@/components/latex-text";
 import { createList, getLists, toggleQuestionInList, type QuestionList } from "@/lib/question-lists";
+import { getComments, addComment, type QuestionComment } from "@/lib/comments";
+import { getCurrentProfile } from "@/lib/account";
 import { BASE_PATH } from "@/lib/base-path";
 import type { ExamSource, OptionLabel, Question } from "@/lib/types";
 
@@ -271,7 +273,7 @@ export function QuestionCard({
       <AnimatePresence mode="wait">
         {panel === "comments" && (
           <PanelWrapper key="comments">
-            <CommentsPanel />
+            <CommentsPanel questionId={question.id} />
           </PanelWrapper>
         )}
         {panel === "lists" && (
@@ -356,17 +358,90 @@ function ToolbarButton({
   );
 }
 
-function CommentsPanel() {
+function commentInitials(name: string): string {
+  return (name || "F3")
+    .trim()
+    .split(/\s+/)
+    .slice(0, 2)
+    .map((p) => p.charAt(0).toUpperCase())
+    .join("");
+}
+
+function CommentAvatar({ name, picture }: { name: string; picture: string }) {
+  return picture ? (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img src={picture} alt="" className="size-8 shrink-0 rounded-full object-cover" />
+  ) : (
+    <span className="flex size-8 shrink-0 items-center justify-center rounded-full bg-brand-navy text-xs font-bold text-white">
+      {commentInitials(name)}
+    </span>
+  );
+}
+
+function CommentsPanel({ questionId }: { questionId: string }) {
+  const [comments, setComments] = useState<QuestionComment[]>([]);
+  const [profile, setProfile] = useState({ name: "Usuário F3Exatas", picture: "" });
+  const [text, setText] = useState("");
+
+  useEffect(() => {
+    setComments(getComments(questionId));
+    const p = getCurrentProfile();
+    setProfile({ name: p.name || "Usuário F3Exatas", picture: p.picture });
+  }, [questionId]);
+
+  function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    const trimmed = text.trim();
+    if (!trimmed) return;
+    const comment = addComment(questionId, trimmed, profile);
+    setComments((prev) => [...prev, comment]);
+    setText("");
+  }
+
   return (
-    <div className="flex flex-col items-start gap-2 rounded-xl border border-dashed border-border p-4 text-sm text-muted-foreground">
-      <div className="flex items-center gap-2 font-semibold text-foreground">
-        <Lock className="size-4" />
-        Comentários exigem login
-      </div>
-      <p>Faça login para ver e deixar comentários nesta questão.</p>
-      <Button disabled size="sm">
-        Entrar (em breve)
-      </Button>
+    <div className="flex flex-col gap-4">
+      {comments.length > 0 && (
+        <div className="flex flex-col gap-3">
+          {comments.map((c) => (
+            <div key={c.id} className="flex items-start gap-3">
+              <CommentAvatar name={c.authorName} picture={c.authorPicture} />
+              <div className="flex-1 rounded-2xl rounded-tl-sm bg-muted px-4 py-2.5">
+                <div className="flex items-baseline gap-2">
+                  <span className="text-sm font-bold text-foreground">{c.authorName}</span>
+                  <span className="text-xs text-muted-foreground">
+                    {new Intl.DateTimeFormat("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }).format(
+                      new Date(c.createdAt)
+                    )}
+                  </span>
+                </div>
+                <p className="mt-0.5 text-sm leading-relaxed text-foreground">{c.text}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+
+      <form onSubmit={handleSubmit} className="flex items-center gap-3">
+        <CommentAvatar name={profile.name} picture={profile.picture} />
+        <div className="relative flex-1">
+          <input
+            type="text"
+            value={text}
+            onChange={(e) => setText(e.target.value)}
+            placeholder="Escreva algo..."
+            aria-label="Escrever comentário"
+            className="w-full rounded-full border border-border bg-foreground/5 py-2.5 pl-4 pr-11 text-sm outline-none placeholder:text-muted-foreground/50 focus:border-brand-orange/50"
+          />
+          <button
+            type="submit"
+            disabled={!text.trim()}
+            aria-label="Enviar comentário"
+            className="absolute right-1.5 top-1/2 flex size-8 -translate-y-1/2 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-muted disabled:opacity-30"
+          >
+            <Send className="size-4" />
+          </button>
+        </div>
+      </form>
     </div>
   );
 }
