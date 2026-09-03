@@ -3,6 +3,7 @@ import { Montserrat, Lato } from "next/font/google";
 import "katex/dist/katex.min.css";
 import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
+import { AuthGate } from "@/components/auth-gate";
 import { BASE_PATH } from "@/lib/base-path";
 
 const montserrat = Montserrat({
@@ -38,6 +39,7 @@ export default function RootLayout({
       className={`${montserrat.variable} ${lato.variable} dark h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
+        <AuthGate />
         <SiteHeader />
         {children}
       </body>
