@@ -2,7 +2,11 @@
   var GATE_USER = "f3exatas";
   var GATE_PASS = "exatas2026";
   var AUTH_KEY = "f3_auth_ok";
-  var USER_KEY = "f3_user";
+  var CURRENT_KEY = "f3_current_account";
+  var PROFILES_KEY = "f3_profiles";
+  var LEGACY_USER_KEY = "f3_user";
+  var SHARED_ACCOUNT = "_shared";
+  var PHOTO_MAX_SIZE = 256;
 
   // Cole aqui o Client ID criado no Google Cloud Console (Credentials > OAuth client ID > Web application).
   var GOOGLE_CLIENT_ID = "940839767965-tipond9snpkqeubb55rahh8p21c5bqko.apps.googleusercontent.com";
@@ -52,7 +56,11 @@
     ".f3acc-drawer nav{display:flex;flex-direction:column;gap:4px;}" +
     ".f3acc-drawer nav button{width:100%;text-align:left;background:none;border:none;padding:11px 12px;border-radius:10px;font-family:'Montserrat',sans-serif;font-size:14px;font-weight:600;color:#f4f6fb;cursor:pointer;}" +
     ".f3acc-drawer nav button:hover{background:rgba(255,255,255,0.06);}" +
-    ".f3acc-drawer nav button.f3acc-logout{color:#f38d33;}";
+    ".f3acc-drawer nav button.f3acc-logout{color:#f38d33;}" +
+    ".f3acc-photo-wrap{position:relative;width:76px;height:76px;margin:0 auto 14px;cursor:pointer;}" +
+    ".f3acc-photo-wrap .f3acc-avatar{width:76px;height:76px;margin-bottom:0;font-size:24px;}" +
+    ".f3acc-photo-badge{position:absolute;bottom:0;right:0;width:26px;height:26px;border-radius:50%;background:#f38d33;border:2px solid #131a2c;display:flex;align-items:center;justify-content:center;font-size:13px;}" +
+    ".f3acc-photo-input{display:none;}";
   document.head.appendChild(style);
 
   function decodeJwtPayload(token) {
@@ -68,18 +76,6 @@
     return JSON.parse(json);
   }
 
-  function getUser() {
-    try {
-      return JSON.parse(localStorage.getItem(USER_KEY) || "null") || {};
-    } catch (e) {
-      return {};
-    }
-  }
-
-  function saveUser(user) {
-    localStorage.setItem(USER_KEY, JSON.stringify(user));
-  }
-
   function initials(name) {
     return (name || "F3")
       .trim()
@@ -91,9 +87,82 @@
       .join("");
   }
 
+  function loadProfiles() {
+    try {
+      return JSON.parse(localStorage.getItem(PROFILES_KEY) || "{}") || {};
+    } catch (e) {
+      return {};
+    }
+  }
+
+  function saveProfiles(profiles) {
+    localStorage.setItem(PROFILES_KEY, JSON.stringify(profiles));
+  }
+
+  function ensureProfile(key, seed) {
+    var profiles = loadProfiles();
+    if (!profiles[key]) {
+      profiles[key] = seed;
+      saveProfiles(profiles);
+    }
+    return profiles[key];
+  }
+
+  function getCurrentAccountKey() {
+    var key = localStorage.getItem(CURRENT_KEY);
+    if (key) return key;
+
+    // Migra sessões antigas (antes de existir perfil por conta).
+    try {
+      var legacy = JSON.parse(localStorage.getItem(LEGACY_USER_KEY) || "null");
+      if (legacy) {
+        var migratedKey = legacy.email || SHARED_ACCOUNT;
+        ensureProfile(migratedKey, legacy);
+        localStorage.setItem(CURRENT_KEY, migratedKey);
+        return migratedKey;
+      }
+    } catch (e) {
+      /* ignora */
+    }
+
+    localStorage.setItem(CURRENT_KEY, SHARED_ACCOUNT);
+    return SHARED_ACCOUNT;
+  }
+
+  function getCurrentProfile() {
+    var key = getCurrentAccountKey();
+    return ensureProfile(key, { name: "Usuário F3Exatas", email: "", phone: "", picture: "" });
+  }
+
+  function updateCurrentProfile(updated) {
+    var key = getCurrentAccountKey();
+    var profiles = loadProfiles();
+    profiles[key] = updated;
+    saveProfiles(profiles);
+  }
+
+  function resizeImageToDataUrl(file, maxSize, callback) {
+    var reader = new FileReader();
+    reader.onload = function (e) {
+      var img = new Image();
+      img.onload = function () {
+        var scale = Math.min(1, maxSize / Math.max(img.width, img.height));
+        var w = Math.round(img.width * scale);
+        var h = Math.round(img.height * scale);
+        var canvas = document.createElement("canvas");
+        canvas.width = w;
+        canvas.height = h;
+        canvas.getContext("2d").drawImage(img, 0, 0, w, h);
+        callback(canvas.toDataURL("image/jpeg", 0.85));
+      };
+      img.src = e.target.result;
+    };
+    reader.readAsDataURL(file);
+  }
+
   // ===== Menu lateral de conta (ícone de três barras + drawer) =====
   function renderAccountWidget() {
-    var user = getUser();
+    var profile = getCurrentProfile();
 
     var toggle = document.createElement("div");
     toggle.className = "f3acc-toggle";
@@ -112,11 +181,11 @@
     drawer.innerHTML =
       '<button type="button" class="f3acc-drawer-close" id="f3acc-drawer-close">&times;</button>' +
       '<div class="f3acc-profile">' +
-      (user.picture
-        ? '<img class="f3acc-avatar" src="' + user.picture + '" alt="">'
-        : '<span class="f3acc-avatar">' + initials(user.name) + "</span>") +
-      '<div class="f3acc-profile-name">' + (user.name || "Usuário F3Exatas") + "</div>" +
-      '<div class="f3acc-profile-email">' + (user.email || "") + "</div>" +
+      (profile.picture
+        ? '<img class="f3acc-avatar" src="' + profile.picture + '" alt="">'
+        : '<span class="f3acc-avatar">' + initials(profile.name) + "</span>") +
+      '<div class="f3acc-profile-name">' + (profile.name || "Usuário F3Exatas") + "</div>" +
+      '<div class="f3acc-profile-email">' + (profile.email || "") + "</div>" +
       "</div>" +
       "<nav>" +
       '<button type="button" id="f3acc-edit-btn">Editar dados</button>' +
@@ -139,7 +208,7 @@
 
     document.getElementById("f3acc-logout-btn").addEventListener("click", function () {
       localStorage.removeItem(AUTH_KEY);
-      localStorage.removeItem(USER_KEY);
+      localStorage.removeItem(CURRENT_KEY);
       location.reload();
     });
 
@@ -150,18 +219,27 @@
   }
 
   function openEditModal() {
-    var user = getUser();
+    var profile = getCurrentProfile();
+    var pendingPicture = profile.picture || "";
+
     var overlay = document.createElement("div");
     overlay.className = "f3gate-overlay";
     overlay.style.zIndex = "999999";
     overlay.innerHTML =
       '<div class="f3gate-card">' +
       '<div class="f3gate-title">Editar dados</div>' +
-      '<div class="f3gate-subtitle">Essas informações ficam salvas só neste navegador.</div>' +
+      '<div class="f3gate-subtitle">Sua foto e seus dados ficam salvos nessa conta, mesmo saindo e entrando de novo.</div>' +
+      '<div class="f3acc-photo-wrap" id="f3acc-photo-wrap">' +
+      (pendingPicture
+        ? '<img class="f3acc-avatar" id="f3acc-photo-preview" src="' + pendingPicture + '" alt="">'
+        : '<span class="f3acc-avatar" id="f3acc-photo-preview">' + initials(profile.name) + "</span>") +
+      '<span class="f3acc-photo-badge">&#128247;</span>' +
+      '<input type="file" accept="image/*" class="f3acc-photo-input" id="f3acc-photo-input">' +
+      "</div>" +
       '<form id="f3acc-edit-form">' +
-      '<div class="f3gate-field"><label>Nome</label><input id="f3acc-name" type="text" value="' + (user.name || "").replace(/"/g, "&quot;") + '"></div>' +
-      '<div class="f3gate-field"><label>Número</label><input id="f3acc-phone" type="tel" placeholder="(00) 00000-0000" value="' + (user.phone || "").replace(/"/g, "&quot;") + '"></div>' +
-      '<div class="f3gate-field"><label>E-mail</label><input id="f3acc-email" type="email" value="' + (user.email || "").replace(/"/g, "&quot;") + '"></div>' +
+      '<div class="f3gate-field"><label>Nome</label><input id="f3acc-name" type="text" value="' + (profile.name || "").replace(/"/g, "&quot;") + '"></div>' +
+      '<div class="f3gate-field"><label>Número</label><input id="f3acc-phone" type="tel" placeholder="(00) 00000-0000" value="' + (profile.phone || "").replace(/"/g, "&quot;") + '"></div>' +
+      '<div class="f3gate-field"><label>E-mail</label><input id="f3acc-email" type="email" value="' + (profile.email || "").replace(/"/g, "&quot;") + '"></div>' +
       '<button type="submit" class="f3gate-submit">Salvar</button>' +
       '<button type="button" class="f3gate-submit f3gate-submit-ghost" id="f3acc-cancel-btn">Cancelar</button>' +
       "</form>" +
@@ -174,15 +252,34 @@
     document.getElementById("f3acc-cancel-btn").addEventListener("click", function () {
       overlay.remove();
     });
+
+    var photoInput = document.getElementById("f3acc-photo-input");
+    document.getElementById("f3acc-photo-wrap").addEventListener("click", function () {
+      photoInput.click();
+    });
+    photoInput.addEventListener("change", function () {
+      var file = photoInput.files && photoInput.files[0];
+      if (!file) return;
+      resizeImageToDataUrl(file, PHOTO_MAX_SIZE, function (dataUrl) {
+        pendingPicture = dataUrl;
+        var preview = document.getElementById("f3acc-photo-preview");
+        var img = document.createElement("img");
+        img.className = "f3acc-avatar";
+        img.id = "f3acc-photo-preview";
+        img.src = dataUrl;
+        preview.replaceWith(img);
+      });
+    });
+
     document.getElementById("f3acc-edit-form").addEventListener("submit", function (e) {
       e.preventDefault();
       var updated = {
         name: document.getElementById("f3acc-name").value.trim(),
         phone: document.getElementById("f3acc-phone").value.trim(),
         email: document.getElementById("f3acc-email").value.trim(),
-        picture: user.picture || "",
+        picture: pendingPicture,
       };
-      saveUser(updated);
+      updateCurrentProfile(updated);
       overlay.remove();
       ["f3acc-toggle", "f3acc-backdrop", "f3acc-drawer"].forEach(function (id) {
         var el = document.getElementById(id);
@@ -230,9 +327,10 @@
     hintMsg.classList.add("is-visible");
   }
 
-  function unlock(user) {
+  function unlock(accountKey, seedProfile) {
+    ensureProfile(accountKey, seedProfile);
+    localStorage.setItem(CURRENT_KEY, accountKey);
     localStorage.setItem(AUTH_KEY, "1");
-    saveUser(user || { name: "Usuário F3Exatas", email: "", phone: "", picture: "" });
     document.documentElement.style.overflow = "";
     overlay.remove();
     renderAccountWidget();
@@ -242,7 +340,7 @@
     var payload = decodeJwtPayload(response.credential);
     var email = (payload.email || "").toLowerCase();
     if (ALLOWED_GOOGLE_EMAILS.indexOf(email) !== -1) {
-      unlock({ name: payload.name || "", email: email, phone: "", picture: payload.picture || "" });
+      unlock(email, { name: payload.name || "", email: email, phone: "", picture: payload.picture || "" });
     } else {
       document.getElementById("f3gate-error").textContent = "E-mail não autorizado. Fale com a F3Exatas para liberar seu acesso.";
     }
@@ -285,7 +383,7 @@
     var user = document.getElementById("f3gate-user").value.trim();
     var pass = document.getElementById("f3gate-pass").value;
     if (user === GATE_USER && pass === GATE_PASS) {
-      unlock({ name: "Usuário F3Exatas", email: "", phone: "", picture: "" });
+      unlock(SHARED_ACCOUNT, { name: "Usuário F3Exatas", email: "", phone: "", picture: "" });
     } else {
       document.getElementById("f3gate-error").textContent = "Usuário ou senha incorretos.";
     }

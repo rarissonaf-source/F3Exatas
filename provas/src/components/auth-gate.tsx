@@ -6,20 +6,24 @@ import { BASE_PATH } from "@/lib/base-path";
 const GATE_USER = "f3exatas";
 const GATE_PASS = "exatas2026";
 const AUTH_KEY = "f3_auth_ok";
-const USER_KEY = "f3_user";
+const CURRENT_KEY = "f3_current_account";
+const PROFILES_KEY = "f3_profiles";
+const LEGACY_USER_KEY = "f3_user";
+const SHARED_ACCOUNT = "_shared";
+const PHOTO_MAX_SIZE = 256;
 
 // Cole aqui o Client ID criado no Google Cloud Console (Credentials > OAuth client ID > Web application).
 const GOOGLE_CLIENT_ID = "940839767965-tipond9snpkqeubb55rahh8p21c5bqko.apps.googleusercontent.com";
 const ALLOWED_GOOGLE_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com"];
 
-type F3User = {
+type F3Profile = {
   name: string;
   email: string;
   phone: string;
   picture: string;
 };
 
-const EMPTY_USER: F3User = { name: "Usuário F3Exatas", email: "", phone: "", picture: "" };
+const EMPTY_PROFILE: F3Profile = { name: "Usuário F3Exatas", email: "", phone: "", picture: "" };
 
 declare global {
   interface Window {
@@ -57,18 +61,82 @@ function initials(name: string): string {
     .join("");
 }
 
-function loadUser(): F3User {
+function loadProfiles(): Record<string, F3Profile> {
   try {
-    return { ...EMPTY_USER, ...JSON.parse(localStorage.getItem(USER_KEY) || "{}") };
+    return JSON.parse(localStorage.getItem(PROFILES_KEY) || "{}") || {};
   } catch {
-    return EMPTY_USER;
+    return {};
   }
+}
+
+function saveProfiles(profiles: Record<string, F3Profile>) {
+  localStorage.setItem(PROFILES_KEY, JSON.stringify(profiles));
+}
+
+function ensureProfile(key: string, seed: F3Profile): F3Profile {
+  const profiles = loadProfiles();
+  if (!profiles[key]) {
+    profiles[key] = seed;
+    saveProfiles(profiles);
+  }
+  return profiles[key];
+}
+
+function getCurrentAccountKey(): string {
+  const key = localStorage.getItem(CURRENT_KEY);
+  if (key) return key;
+
+  try {
+    const legacy = JSON.parse(localStorage.getItem(LEGACY_USER_KEY) || "null");
+    if (legacy) {
+      const migratedKey = legacy.email || SHARED_ACCOUNT;
+      ensureProfile(migratedKey, legacy);
+      localStorage.setItem(CURRENT_KEY, migratedKey);
+      return migratedKey;
+    }
+  } catch {
+    /* ignora */
+  }
+
+  localStorage.setItem(CURRENT_KEY, SHARED_ACCOUNT);
+  return SHARED_ACCOUNT;
+}
+
+function getCurrentProfile(): F3Profile {
+  const key = getCurrentAccountKey();
+  return ensureProfile(key, EMPTY_PROFILE);
+}
+
+function updateCurrentProfile(updated: F3Profile) {
+  const key = getCurrentAccountKey();
+  const profiles = loadProfiles();
+  profiles[key] = updated;
+  saveProfiles(profiles);
+}
+
+function resizeImageToDataUrl(file: File, maxSize: number, callback: (dataUrl: string) => void) {
+  const reader = new FileReader();
+  reader.onload = (e) => {
+    const img = new Image();
+    img.onload = () => {
+      const scale = Math.min(1, maxSize / Math.max(img.width, img.height));
+      const w = Math.round(img.width * scale);
+      const h = Math.round(img.height * scale);
+      const canvas = document.createElement("canvas");
+      canvas.width = w;
+      canvas.height = h;
+      canvas.getContext("2d")?.drawImage(img, 0, 0, w, h);
+      callback(canvas.toDataURL("image/jpeg", 0.85));
+    };
+    img.src = e.target?.result as string;
+  };
+  reader.readAsDataURL(file);
 }
 
 export function AuthGate() {
   const [checked, setChecked] = useState(false);
   const [unlocked, setUnlocked] = useState(false);
-  const [account, setAccount] = useState<F3User>(EMPTY_USER);
+  const [profile, setProfile] = useState<F3Profile>(EMPTY_PROFILE);
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [editOpen, setEditOpen] = useState(false);
 
@@ -79,8 +147,9 @@ export function AuthGate() {
   const googleBtnRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    setUnlocked(localStorage.getItem(AUTH_KEY) === "1");
-    setAccount(loadUser());
+    const authed = localStorage.getItem(AUTH_KEY) === "1";
+    setUnlocked(authed);
+    if (authed) setProfile(getCurrentProfile());
     setChecked(true);
   }, []);
 
@@ -104,7 +173,7 @@ export function AuthGate() {
           const payload = decodeJwtPayload(response.credential);
           const email = (payload.email || "").toLowerCase();
           if (ALLOWED_GOOGLE_EMAILS.includes(email)) {
-            unlock({ name: payload.name || "", email, phone: "", picture: payload.picture || "" });
+            unlock(email, { name: payload.name || "", email, phone: "", picture: payload.picture || "" });
           } else {
             setError("E-mail não autorizado. Fale com a F3Exatas para liberar seu acesso.");
           }
@@ -125,17 +194,18 @@ export function AuthGate() {
     };
   }, [checked, unlocked]);
 
-  function unlock(newUser: F3User) {
+  function unlock(accountKey: string, seedProfile: F3Profile) {
+    const resolved = ensureProfile(accountKey, seedProfile);
+    localStorage.setItem(CURRENT_KEY, accountKey);
     localStorage.setItem(AUTH_KEY, "1");
-    localStorage.setItem(USER_KEY, JSON.stringify(newUser));
-    setAccount(newUser);
+    setProfile(resolved);
     setUnlocked(true);
   }
 
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     if (user.trim() === GATE_USER && pass === GATE_PASS) {
-      unlock(EMPTY_USER);
+      unlock(SHARED_ACCOUNT, EMPTY_PROFILE);
     } else {
       setError("Usuário ou senha incorretos.");
     }
@@ -143,7 +213,7 @@ export function AuthGate() {
 
   function handleLogout() {
     localStorage.removeItem(AUTH_KEY);
-    localStorage.removeItem(USER_KEY);
+    localStorage.removeItem(CURRENT_KEY);
     location.reload();
   }
 
@@ -183,16 +253,16 @@ export function AuthGate() {
             &times;
           </button>
           <div className="mb-4 flex flex-col items-center border-b border-white/10 pb-5 text-center">
-            {account.picture ? (
+            {profile.picture ? (
               // eslint-disable-next-line @next/next/no-img-element
-              <img src={account.picture} alt="" className="mb-3 h-16 w-16 rounded-full object-cover" />
+              <img src={profile.picture} alt="" className="mb-3 h-16 w-16 rounded-full object-cover" />
             ) : (
               <span className="mb-3 flex h-16 w-16 items-center justify-center rounded-full bg-brand-orange font-heading text-xl font-bold text-white">
-                {initials(account.name)}
+                {initials(profile.name)}
               </span>
             )}
-            <div className="font-heading text-sm font-bold text-white">{account.name || "Usuário F3Exatas"}</div>
-            <div className="mt-0.5 text-xs text-white/50">{account.email}</div>
+            <div className="font-heading text-sm font-bold text-white">{profile.name || "Usuário F3Exatas"}</div>
+            <div className="mt-0.5 text-xs text-white/50">{profile.email}</div>
           </div>
           <nav className="flex flex-col gap-1">
             <button
@@ -217,11 +287,11 @@ export function AuthGate() {
 
         {editOpen && (
           <EditModal
-            account={account}
+            profile={profile}
             onCancel={() => setEditOpen(false)}
             onSave={(updated) => {
-              localStorage.setItem(USER_KEY, JSON.stringify(updated));
-              setAccount(updated);
+              updateCurrentProfile(updated);
+              setProfile(updated);
               setEditOpen(false);
             }}
           />
@@ -310,17 +380,25 @@ export function AuthGate() {
 }
 
 function EditModal({
-  account,
+  profile,
   onCancel,
   onSave,
 }: {
-  account: F3User;
+  profile: F3Profile;
   onCancel: () => void;
-  onSave: (updated: F3User) => void;
+  onSave: (updated: F3Profile) => void;
 }) {
-  const [name, setName] = useState(account.name);
-  const [phone, setPhone] = useState(account.phone);
-  const [email, setEmail] = useState(account.email);
+  const [name, setName] = useState(profile.name);
+  const [phone, setPhone] = useState(profile.phone);
+  const [email, setEmail] = useState(profile.email);
+  const [picture, setPicture] = useState(profile.picture);
+  const fileInputRef = useRef<HTMLInputElement>(null);
+
+  function handleFileChange(e: React.ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    resizeImageToDataUrl(file, PHOTO_MAX_SIZE, setPicture);
+  }
 
   return (
     <div
@@ -331,14 +409,39 @@ function EditModal({
     >
       <div className="w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
         <h1 className="mb-2 font-heading text-xl font-extrabold text-white">Editar dados</h1>
-        <p className="mb-6 text-sm leading-relaxed text-white/60">
-          Essas informações ficam salvas só neste navegador.
+        <p className="mb-5 text-sm leading-relaxed text-white/60">
+          Sua foto e seus dados ficam salvos nessa conta, mesmo saindo e entrando de novo.
         </p>
+
+        <div
+          className="relative mx-auto mb-4 h-[76px] w-[76px] cursor-pointer"
+          onClick={() => fileInputRef.current?.click()}
+        >
+          {picture ? (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img src={picture} alt="" className="h-[76px] w-[76px] rounded-full object-cover" />
+          ) : (
+            <span className="flex h-[76px] w-[76px] items-center justify-center rounded-full bg-brand-orange font-heading text-2xl font-bold text-white">
+              {initials(name)}
+            </span>
+          )}
+          <span className="absolute bottom-0 right-0 flex h-[26px] w-[26px] items-center justify-center rounded-full border-2 border-[#131a2c] bg-brand-orange text-xs">
+            📷
+          </span>
+          <input
+            ref={fileInputRef}
+            type="file"
+            accept="image/*"
+            className="hidden"
+            onChange={handleFileChange}
+          />
+        </div>
+
         <form
           className="text-left"
           onSubmit={(e) => {
             e.preventDefault();
-            onSave({ name: name.trim(), phone: phone.trim(), email: email.trim(), picture: account.picture });
+            onSave({ name: name.trim(), phone: phone.trim(), email: email.trim(), picture });
           }}
         >
           <div className="mb-3.5">

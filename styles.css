@@ -711,7 +711,18 @@ body {
   .hub-hero-logo { width: 84px; height: 84px; }
 
   .paths-section { padding: 60px 20px; }
-  .paths-grid { grid-template-columns: 1fr; }
+  .paths-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+
+  .path-card { aspect-ratio: 1 / 1.1; border-radius: 16px; }
+  .path-card-top { top: 10px; left: 10px; right: 10px; }
+  .path-number { font-size: 11px; }
+  .path-status { font-size: 9px; padding: 3px 8px; }
+  .path-card-icon img { width: 46px; height: 46px; }
+  .path-card-overlay { height: 72%; }
+  .path-card-body { padding: 0 12px 14px; gap: 3px; }
+  .path-title { font-size: 15px; }
+  .path-desc { display: none; }
+  .path-cta { font-size: 11px; margin-top: 2px; gap: 5px; }
 
   .section-title { font-size: 24px; }
   .section-subtitle { font-size: 14px; }
