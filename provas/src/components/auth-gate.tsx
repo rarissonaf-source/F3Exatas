@@ -226,11 +226,11 @@ export function AuthGate() {
           type="button"
           onClick={() => setDrawerOpen(true)}
           aria-label="Abrir menu"
-          className="fixed right-4 top-3.5 z-[99997] flex h-[42px] w-[42px] flex-col items-center justify-center gap-1 rounded-xl border border-white/10 bg-[#131a2cea] shadow-lg"
+          className="fixed right-4 top-3.5 z-[99997] flex h-[42px] w-[42px] flex-col items-center justify-center gap-1 rounded-xl border border-black/[0.08] bg-white/95 shadow-lg"
         >
-          <span className="block h-0.5 w-[18px] rounded bg-white" />
-          <span className="block h-0.5 w-[18px] rounded bg-white" />
-          <span className="block h-0.5 w-[18px] rounded bg-white" />
+          <span className="block h-0.5 w-[18px] rounded bg-brand-navy" />
+          <span className="block h-0.5 w-[18px] rounded bg-brand-navy" />
+          <span className="block h-0.5 w-[18px] rounded bg-brand-navy" />
         </button>
 
         <div
