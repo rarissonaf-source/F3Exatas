@@ -380,27 +380,36 @@ function CommentAvatar({ name, picture }: { name: string; picture: string }) {
 
 function CommentsPanel({ questionId }: { questionId: string }) {
   const [comments, setComments] = useState<QuestionComment[]>([]);
-  const [profile, setProfile] = useState({ name: "Usuário F3Exatas", picture: "" });
+  const [loading, setLoading] = useState(true);
+  const [profile, setProfile] = useState({ name: "Usuário F3Exatas", email: "", picture: "" });
   const [text, setText] = useState("");
+  const [submitting, setSubmitting] = useState(false);
 
   useEffect(() => {
-    setComments(getComments(questionId));
     const p = getCurrentProfile();
-    setProfile({ name: p.name || "Usuário F3Exatas", picture: p.picture });
+    setProfile({ name: p.name || "Usuário F3Exatas", email: p.email, picture: p.picture });
+    getComments(questionId)
+      .then(setComments)
+      .finally(() => setLoading(false));
   }, [questionId]);
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     const trimmed = text.trim();
-    if (!trimmed) return;
-    const comment = addComment(questionId, trimmed, profile);
-    setComments((prev) => [...prev, comment]);
-    setText("");
+    if (!trimmed || submitting) return;
+    setSubmitting(true);
+    const comment = await addComment(questionId, trimmed, profile);
+    if (comment) {
+      setComments((prev) => [...prev, comment]);
+      setText("");
+    }
+    setSubmitting(false);
   }
 
   return (
     <div className="flex flex-col gap-4">
-      {comments.length > 0 && (
+      {loading && <p className="text-sm text-muted-foreground">Carregando comentários...</p>}
+      {!loading && comments.length > 0 && (
         <div className="flex flex-col gap-3">
           {comments.map((c) => (
             <div key={c.id} className="flex items-start gap-3">
@@ -434,7 +443,7 @@ function CommentsPanel({ questionId }: { questionId: string }) {
           />
           <button
             type="submit"
-            disabled={!text.trim()}
+            disabled={!text.trim() || submitting}
             aria-label="Enviar comentário"
             className="absolute right-1.5 top-1/2 flex size-8 -translate-y-1/2 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-muted disabled:opacity-30"
           >

@@ -1,4 +1,4 @@
-const STORAGE_KEY = "f3provas_comments";
+import { BASE_PATH } from "@/lib/base-path";
 
 export interface QuestionComment {
   id: string;
@@ -8,39 +8,27 @@ export interface QuestionComment {
   createdAt: number;
 }
 
-type CommentMap = Record<string, QuestionComment[]>;
-
-function readAll(): CommentMap {
-  if (typeof window === "undefined") return {};
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) ?? "{}");
-  } catch {
-    return {};
-  }
+export async function getComments(questionId: string): Promise<QuestionComment[]> {
+  const res = await fetch(`${BASE_PATH}/api/comments/${questionId}`);
+  if (!res.ok) return [];
+  return res.json();
 }
 
-function writeAll(map: CommentMap) {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(map));
-}
-
-export function getComments(questionId: string): QuestionComment[] {
-  return readAll()[questionId] ?? [];
-}
-
-export function addComment(
+export async function addComment(
   questionId: string,
   text: string,
-  author: { name: string; picture: string }
-): QuestionComment {
-  const map = readAll();
-  const comment: QuestionComment = {
-    id: `c-${Date.now()}-${Math.random().toString(36).slice(2, 7)}`,
-    authorName: author.name,
-    authorPicture: author.picture,
-    text,
-    createdAt: Date.now(),
-  };
-  map[questionId] = [...(map[questionId] ?? []), comment];
-  writeAll(map);
-  return comment;
+  author: { name: string; email: string; picture: string }
+): Promise<QuestionComment | null> {
+  const res = await fetch(`${BASE_PATH}/api/comments/${questionId}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      text,
+      authorName: author.name,
+      authorEmail: author.email,
+      authorPicture: author.picture,
+    }),
+  });
+  if (!res.ok) return null;
+  return res.json();
 }
