@@ -3,6 +3,29 @@ import { sql } from "@vercel/postgres";
 
 const MAX_TEXT_LENGTH = 2000;
 
+// Sem OPENAI_API_KEY configurada, deixa passar sem bloquear — moderação é uma
+// camada extra, não deve derrubar o recurso de comentar caso a chave falte.
+async function isFlaggedByModeration(text: string): Promise<boolean> {
+  const apiKey = process.env.OPENAI_API_KEY;
+  if (!apiKey) return false;
+
+  try {
+    const res = await fetch("https://api.openai.com/v1/moderations", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({ model: "omni-moderation-latest", input: text }),
+    });
+    if (!res.ok) return false;
+    const data = await res.json();
+    return Boolean(data.results?.[0]?.flagged);
+  } catch {
+    return false;
+  }
+}
+
 export async function GET(
   _req: NextRequest,
   { params }: { params: Promise<{ questionId: string }> }
@@ -42,6 +65,13 @@ export async function POST(
 
   if (!text || text.length > MAX_TEXT_LENGTH) {
     return NextResponse.json({ error: "Comentário inválido." }, { status: 400 });
+  }
+
+  if (await isFlaggedByModeration(text)) {
+    return NextResponse.json(
+      { error: "Esse comentário não foi publicado por violar nossas diretrizes de conteúdo (discurso de ódio, discriminação ou algo do tipo)." },
+      { status: 400 }
+    );
   }
 
   const id = `c-${Date.now()}-${Math.random().toString(36).slice(2, 9)}`;

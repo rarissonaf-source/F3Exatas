@@ -407,6 +407,7 @@ function CommentsPanel({
   const [profile, setProfile] = useState({ name: "Usuário F3Exatas", email: "", picture: "" });
   const [text, setText] = useState("");
   const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState("");
 
   useEffect(() => {
     const p = getCurrentProfile();
@@ -418,10 +419,13 @@ function CommentsPanel({
     const trimmed = text.trim();
     if (!trimmed || submitting) return;
     setSubmitting(true);
-    const comment = await addComment(questionId, trimmed, profile);
-    if (comment) {
-      setComments((prev) => [...prev, comment]);
+    setError("");
+    const result = await addComment(questionId, trimmed, profile);
+    if (result.comment) {
+      setComments((prev) => [...prev, result.comment]);
       setText("");
+    } else {
+      setError(result.error);
     }
     setSubmitting(false);
   }
@@ -439,7 +443,7 @@ function CommentsPanel({
           {comments.map((c) => {
             const isOwn = !!profile.email && c.authorEmail === profile.email;
             return (
-              <div key={c.id} className="group/comment flex items-start gap-3">
+              <div key={c.id} className="flex items-start gap-3">
                 <CommentAvatar name={c.authorName} picture={c.authorPicture} />
                 <div className="flex-1 rounded-2xl rounded-tl-sm bg-muted px-4 py-2.5">
                   <div className="flex items-baseline justify-between gap-2">
@@ -456,7 +460,7 @@ function CommentsPanel({
                         type="button"
                         onClick={() => handleDelete(c.id)}
                         aria-label="Excluir comentário"
-                        className="text-muted-foreground/60 opacity-0 transition-opacity hover:text-destructive group-hover/comment:opacity-100"
+                        className="text-muted-foreground/60 transition-colors hover:text-destructive"
                       >
                         <Trash2 className="size-3.5" />
                       </button>
@@ -491,6 +495,7 @@ function CommentsPanel({
           </button>
         </div>
       </form>
+      {error && <p className="text-xs font-medium text-destructive">{error}</p>}
     </div>
   );
 }

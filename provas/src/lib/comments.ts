@@ -19,7 +19,7 @@ export async function addComment(
   questionId: string,
   text: string,
   author: { name: string; email: string; picture: string }
-): Promise<QuestionComment | null> {
+): Promise<{ comment: QuestionComment; error?: undefined } | { comment?: undefined; error: string }> {
   const res = await fetch(`${BASE_PATH}/api/comments/${questionId}`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -30,8 +30,9 @@ export async function addComment(
       authorPicture: author.picture,
     }),
   });
-  if (!res.ok) return null;
-  return res.json();
+  const data = await res.json();
+  if (!res.ok) return { error: data.error || "Não foi possível publicar o comentário." };
+  return { comment: data };
 }
 
 export async function deleteComment(
