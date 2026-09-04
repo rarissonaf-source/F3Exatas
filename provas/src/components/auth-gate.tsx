@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
 import { BASE_PATH } from "@/lib/base-path";
 import {
   SHARED_ACCOUNT,
@@ -12,6 +13,7 @@ import {
   unlockAccount,
   logoutAccount,
 } from "@/lib/account";
+import { getLists, type QuestionList } from "@/lib/question-lists";
 
 const GATE_USER = "f3exatas";
 const GATE_PASS = "exatas2026";
@@ -82,6 +84,7 @@ export function AuthGate() {
   const [profile, setProfile] = useState<F3Profile>(EMPTY_PROFILE);
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [editOpen, setEditOpen] = useState(false);
+  const [lists, setLists] = useState<QuestionList[]>([]);
 
   const [user, setUser] = useState("");
   const [pass, setPass] = useState("");
@@ -164,7 +167,10 @@ export function AuthGate() {
       <>
         <button
           type="button"
-          onClick={() => setDrawerOpen(true)}
+          onClick={() => {
+            setLists(getLists());
+            setDrawerOpen(true);
+          }}
           aria-label="Abrir menu"
           className="fixed right-4 top-3.5 z-[99997] flex h-[42px] w-[42px] flex-col items-center justify-center gap-1 rounded-xl border border-black/[0.08] bg-white/95 shadow-lg"
         >
@@ -204,6 +210,27 @@ export function AuthGate() {
             <div className="font-heading text-sm font-bold text-white">{profile.name || "Usuário F3Exatas"}</div>
             <div className="mt-0.5 text-xs text-white/50">{profile.email}</div>
           </div>
+          {lists.length > 0 && (
+            <div className="mb-4 border-b border-white/10 pb-4">
+              <div className="mb-2 px-3 font-heading text-xs font-bold uppercase tracking-wide text-white/40">
+                Minhas listas
+              </div>
+              <nav className="flex flex-col gap-1">
+                {lists.map((list) => (
+                  <Link
+                    key={list.id}
+                    href={`/listas/${list.id}`}
+                    onClick={() => setDrawerOpen(false)}
+                    className="flex items-center justify-between rounded-lg px-3 py-2.5 text-sm font-semibold text-white hover:bg-white/5"
+                  >
+                    <span className="truncate">{list.name}</span>
+                    <span className="ml-2 shrink-0 text-xs font-bold text-white/40">{list.questionIds.length}</span>
+                  </Link>
+                ))}
+              </nav>
+            </div>
+          )}
+
           <nav className="flex flex-col gap-1">
             <button
               type="button"

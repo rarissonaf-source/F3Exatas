@@ -25,6 +25,10 @@ export function getLists(): QuestionList[] {
   return Object.values(readLists()).sort((a, b) => a.name.localeCompare(b.name));
 }
 
+export function getListById(id: string): QuestionList | null {
+  return readLists()[id] ?? null;
+}
+
 export function createList(name: string): QuestionList {
   const lists = readLists();
   const id = `list-${Date.now()}-${Math.random().toString(36).slice(2, 7)}`;
