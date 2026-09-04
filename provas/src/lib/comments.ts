@@ -2,6 +2,7 @@ import { BASE_PATH } from "@/lib/base-path";
 
 export interface QuestionComment {
   id: string;
+  authorEmail: string;
   authorName: string;
   authorPicture: string;
   text: string;
@@ -31,4 +32,16 @@ export async function addComment(
   });
   if (!res.ok) return null;
   return res.json();
+}
+
+export async function deleteComment(
+  questionId: string,
+  commentId: string,
+  authorEmail: string
+): Promise<boolean> {
+  const res = await fetch(
+    `${BASE_PATH}/api/comments/${questionId}?commentId=${encodeURIComponent(commentId)}&authorEmail=${encodeURIComponent(authorEmail)}`,
+    { method: "DELETE" }
+  );
+  return res.ok;
 }

@@ -14,11 +14,12 @@ import {
   Plus,
   AlertTriangle,
   Send,
+  Trash2,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { LatexText } from "@/components/latex-text";
 import { createList, getLists, toggleQuestionInList, type QuestionList } from "@/lib/question-lists";
-import { getComments, addComment, type QuestionComment } from "@/lib/comments";
+import { getComments, addComment, deleteComment, type QuestionComment } from "@/lib/comments";
 import { getCurrentProfile } from "@/lib/account";
 import { BASE_PATH } from "@/lib/base-path";
 import type { ExamSource, OptionLabel, Question } from "@/lib/types";
@@ -406,27 +407,47 @@ function CommentsPanel({ questionId }: { questionId: string }) {
     setSubmitting(false);
   }
 
+  async function handleDelete(commentId: string) {
+    const ok = await deleteComment(questionId, commentId, profile.email);
+    if (ok) setComments((prev) => prev.filter((c) => c.id !== commentId));
+  }
+
   return (
     <div className="flex flex-col gap-4">
       {loading && <p className="text-sm text-muted-foreground">Carregando comentários...</p>}
       {!loading && comments.length > 0 && (
         <div className="flex flex-col gap-3">
-          {comments.map((c) => (
-            <div key={c.id} className="flex items-start gap-3">
-              <CommentAvatar name={c.authorName} picture={c.authorPicture} />
-              <div className="flex-1 rounded-2xl rounded-tl-sm bg-muted px-4 py-2.5">
-                <div className="flex items-baseline gap-2">
-                  <span className="text-sm font-bold text-foreground">{c.authorName}</span>
-                  <span className="text-xs text-muted-foreground">
-                    {new Intl.DateTimeFormat("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }).format(
-                      new Date(c.createdAt)
+          {comments.map((c) => {
+            const isOwn = !!profile.email && c.authorEmail === profile.email;
+            return (
+              <div key={c.id} className="group/comment flex items-start gap-3">
+                <CommentAvatar name={c.authorName} picture={c.authorPicture} />
+                <div className="flex-1 rounded-2xl rounded-tl-sm bg-muted px-4 py-2.5">
+                  <div className="flex items-baseline justify-between gap-2">
+                    <div className="flex items-baseline gap-2">
+                      <span className="text-sm font-bold text-foreground">{c.authorName}</span>
+                      <span className="text-xs text-muted-foreground">
+                        {new Intl.DateTimeFormat("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }).format(
+                          new Date(c.createdAt)
+                        )}
+                      </span>
+                    </div>
+                    {isOwn && (
+                      <button
+                        type="button"
+                        onClick={() => handleDelete(c.id)}
+                        aria-label="Excluir comentário"
+                        className="text-muted-foreground/60 opacity-0 transition-opacity hover:text-destructive group-hover/comment:opacity-100"
+                      >
+                        <Trash2 className="size-3.5" />
+                      </button>
                     )}
-                  </span>
+                  </div>
+                  <p className="mt-0.5 text-sm leading-relaxed text-foreground">{c.text}</p>
                 </div>
-                <p className="mt-0.5 text-sm leading-relaxed text-foreground">{c.text}</p>
               </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
       )}
 

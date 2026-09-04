@@ -10,7 +10,7 @@ export async function GET(
   const { questionId } = await params;
 
   const { rows } = await sql`
-    select id, author_name, author_picture, text, created_at
+    select id, author_email, author_name, author_picture, text, created_at
     from comments
     where question_id = ${questionId}
     order by created_at asc
@@ -19,6 +19,7 @@ export async function GET(
   return NextResponse.json(
     rows.map((r) => ({
       id: r.id,
+      authorEmail: r.author_email,
       authorName: r.author_name,
       authorPicture: r.author_picture,
       text: r.text,
@@ -52,9 +53,37 @@ export async function POST(
 
   return NextResponse.json({
     id,
+    authorEmail,
     authorName: authorName || "Usuário F3Exatas",
     authorPicture,
     text,
     createdAt: Date.now(),
   });
+}
+
+export async function DELETE(
+  req: NextRequest,
+  { params }: { params: Promise<{ questionId: string }> }
+) {
+  const { questionId } = await params;
+  const { searchParams } = new URL(req.url);
+  const commentId = searchParams.get("commentId") || "";
+  const authorEmail = searchParams.get("authorEmail") || "";
+
+  // Comentários feitos com o login compartilhado (sem e-mail) não têm dono
+  // identificável, então não podem ser apagados por essa via.
+  if (!commentId || !authorEmail) {
+    return NextResponse.json({ error: "Sem permissão para apagar este comentário." }, { status: 403 });
+  }
+
+  const { rowCount } = await sql`
+    delete from comments
+    where id = ${commentId} and question_id = ${questionId} and author_email = ${authorEmail}
+  `;
+
+  if (rowCount === 0) {
+    return NextResponse.json({ error: "Comentário não encontrado ou sem permissão." }, { status: 403 });
+  }
+
+  return NextResponse.json({ ok: true });
 }
