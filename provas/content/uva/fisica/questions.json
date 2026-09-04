@@ -8312,7 +8312,8 @@
         "text": "O comprimento do globo ocular e a posição da retina."
       }
     ],
-    "imagePath": null
+    "imagePath": null,
+    "annulled": true
   },
   {
     "id": "cg-2024-2024.2-q37",
@@ -8339,7 +8340,8 @@
         "text": "A força elétrica seria anulada."
       }
     ],
-    "imagePath": null
+    "imagePath": null,
+    "correctAnswer": "a"
   },
   {
     "id": "cg-2024-2024.2-q38",
@@ -8366,7 +8368,8 @@
         "text": "V V V F"
       }
     ],
-    "imagePath": null
+    "imagePath": null,
+    "correctAnswer": "d"
   },
   {
     "id": "cg-2024-2024.2-q39",
@@ -8393,7 +8396,8 @@
         "text": "$675\\ \\Omega$"
       }
     ],
-    "imagePath": null
+    "imagePath": null,
+    "annulled": true
   },
   {
     "id": "cg-2024-2024.2-q40",
@@ -8420,7 +8424,8 @@
         "text": "Antiferromagnetismo."
       }
     ],
-    "imagePath": null
+    "imagePath": null,
+    "correctAnswer": "b"
   },
   {
     "id": "cg-2024-2024.2-q41",
@@ -8447,7 +8452,8 @@
         "text": "$10\\ \\mu C$"
       }
     ],
-    "imagePath": null
+    "imagePath": null,
+    "correctAnswer": "a"
   },
   {
     "id": "cg-2024-2024.2-q42",
@@ -8474,6 +8480,3431 @@
         "text": "$2,4 \\times 10^{-10}\\ N$"
       }
     ],
-    "imagePath": null
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "mf-2011-2011.2-q11",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 11,
+    "statement": "A unidade de medida de capacitância no SI é o farad, F. Em função das unidades de medida das grandezas fundamentais do SI, o farad é expresso como:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$F = A^2s^4/(kg.m^2)$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$F = (kg.m)/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$F = A/m$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$F = A.s/m$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2011.2-q12",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 12,
+    "statement": "Uma pessoa observa o movimento de uma partícula que se move com aceleração constante e mede sua posição em função do tempo. Ela encontra os valores mostrados na tabela abaixo. Qual a velocidade inicial deste móvel?\n\nTempo (s): 0   1   2   3   4   5\nPosição (m): 5   15   35   65   105   155",
+    "options": [
+      {
+        "label": "a",
+        "text": "0 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2011.2-q13",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 13,
+    "statement": "No momento de seu lançamento, um foguete possui massa $1,5 \\times 10^{4}\\ kg$ e aceleração $12\\ m/s^2$. Qual o valor do empuxo (força que os gases expelidos comunicam ao foguete) dos motores do foguete? Considere a aceleração da gravidade $g = 10\\ m/s^2$ e despreze a resistência do ar.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$33 \\times 10^{4}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$18 \\times 10^{4}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$15 \\times 10^{4}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1,5 \\times 10^{4}\\ N$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2011.2-q14",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 14,
+    "statement": "Ceres é classificado hoje como um planeta anão que se encontra na região do cinturão de asteroides, entre Marte e Júpiter. Sua distância ao Sol é aproximadamente $3\\ UA$ (Unidade Astronômica), onde $1\\ UA$ é a distância média da Terra ao Sol. Em quanto tempo, em anos terrestres, Ceres percorre sua órbita em torno do Sol? Considere $\\sqrt{3} = 1,7$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,7",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,8",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2011.2-q15",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "A tensão da rede elétrica no Estado do Ceará é $220\\ V$. Você instala um disjuntor de $50\\ A$ no ponto de entrada da rede elétrica de sua casa. A resistência equivalente de todos aparelhos elétricos que você tem em casa (tv, geladeira, ventilador, etc..) é $8,8\\ \\Omega$. Você deseja instalar um aparelho de ar-condicionado para amenizar o calor. Qual o menor valor da resistência que esse ar-condicionado pode ter para que o disjuntor não desligue?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,2\\ \\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4,4\\ \\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6,6\\ \\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$8,8\\ \\Omega$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2011.2-q16",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 16,
+    "statement": "Uma partícula possui carga Q e move-se, em linha reta, com velocidade constante ao longo da horizontal. Ela penetra em uma região onde existe um campo magnético uniforme na direção vertical, apontando para cima. O movimento da partícula na região do campo será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "circular uniforme",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "retilíneo uniforme",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "retilíneo retardado",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "retilíneo acelerado",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2011.2-q17",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 17,
+    "statement": "Uma esfera de massa $m = 25\\ g$ e volume $10\\ cm^3$ é totalmente imersa e, a seguir, largada em um recipiente contendo água. Quanto tempo a esfera leva para cair uma distância de $75\\ cm$? Considere a aceleração da gravidade $g = 10\\ m/s^2$ e a densidade da água $1\\ g/cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,25 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,50 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,75 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,00 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2011.2-q18",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "Uma barra de $250\\ g$ de uma determinada liga metálica é aquecida à temperatura de $70°C$. Em seguida a mesma é imersa em um recipiente isolado termicamente e que contém $100\\ g$ de água a $25°C$. A temperatura final do sistema é de $30°C$. Qual o calor específico da barra? Dado: calor específico da água, $c = 1,0\\ cal/g°C$",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,01 $cal/g°C$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,02 $cal/g°C$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,04 $cal/g°C$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,05 $cal/g°C$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2011.2-q19",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 19,
+    "statement": "Se você quisesse construir um barômetro de água, qual seria a altura mínima necessária deste aparelho, de modo a permitir que você medisse a pressão atmosférica? Dados: $1\\ atm = 10^5\\ Pa$. Considere a aceleração da gravidade $g = 10\\ m/s^2$ e a densidade da água $1\\ g/cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,1 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2011.2-q20",
+    "examId": "mf-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "A propriedade que as ondas têm de contornar um obstáculo e atingir uma região por trás do mesmo chama-se:",
+    "options": [
+      {
+        "label": "a",
+        "text": "reflexão",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "refração",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "difração",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "dispersão",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2011-2011.2-q37",
+    "examId": "cg-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 37,
+    "statement": "A sua \\\"conta de luz\\\" vem com o valor expresso na unidade de medida kW.h. Isto é uma unidade de medida de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "corrente",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "energia",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "potência",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "carga",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2011-2011.2-q38",
+    "examId": "cg-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 38,
+    "statement": "A aceleração é uma grandeza física vetorial. Em qual dos movimentos abaixo a aceleração não é constante?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Circular Uniforme",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Lançamento de um projétil",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Retilíneo Uniformemente Retardado",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Retilíneo Uniformemente Acelerado",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2011-2011.2-q39",
+    "examId": "cg-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 39,
+    "statement": "Um garoto de $40,0\\ kg$ encontra-se parado, portando sua mochila de $5,00\\ kg$, sobre uma pista de patinação no gelo. Em seguida, ele joga a mochila, com velocidade $10,0\\ m/s$, para seu pai, que se encontra fora da pista. Considerando que não existe atrito entre o patim e a pista, qual a velocidade adquirida pelo garoto logo após atirar a mochila?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10,0 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8,00 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4,50 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,25 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2011-2011.2-q40",
+    "examId": "cg-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 40,
+    "statement": "Um aquecedor elétrico de potência $1500\\ W$ consiste em um resistor pelo qual passa uma corrente elétrica. Ele é submerso em um recipiente contendo água. Em quanto tempo ele faz ferver (levar à temperatura de $100°C$) $1\\ kg$ de água, inicialmente na temperatura de $25°C$? Dados: calor específico da água, $c = 1,0\\ cal/g.°C$ e considere $1\\ cal = 4\\ J$",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "200 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "300 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "400 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2011-2011.2-q41",
+    "examId": "cg-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 41,
+    "statement": "O termômetro de uma estação meteorológica localizada na cidade de Sobral mediu, em certo dia, a temperatura máxima de $38°C$ às $14h45min$ e a temperatura mínima de $18°C$, às $02h20min$. Em Fahrenheit essa diferença de temperatura corresponde a: Considere $0°C = 32°F$ e $100°C = 180°F$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "18°F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20°F",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "36°F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40°F",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2011-2011.2-q42",
+    "examId": "cg-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "A transmissão de calor na atmosfera da Terra se dá, principalmente, através de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "condução",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "radiação",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "convecção",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "propulsão",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2011-2011.2-q43",
+    "examId": "cg-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 43,
+    "statement": "Você está parado em uma calçada e ouve a sirene de uma ambulância do SAMU, que se desloca com velocidade constante. O som lhe parecerá mais agudo quando a ambulância se aproxima, e mais grave quando ela se afasta de você. Isto ocorre devido ao efeito:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Joule",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Doppler",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Ohm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Casimir",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2011-2011.2-q44",
+    "examId": "cg-2011-2011.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 44,
+    "statement": "A luz ultravioleta pode causar danos à nossa pele e aos olhos, se nos expusermos a ela por um longo período de tempo sem a devida proteção. Ela se chama ultra violeta porque:",
+    "options": [
+      {
+        "label": "a",
+        "text": "sua frequência é maior que a da luz violeta",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "sua velocidade no vácuo é maior que a da luz violeta",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "seu comprimento de onda é maior que o da luz violeta",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sua intensidade é maior que a da luz violeta",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2012.2-q11",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 11,
+    "statement": "Uma partícula se desloca em uma trajetória retilínea segundo a equação: $x(t) = 3t^2 - 12t + 12$, onde $x$ é a posição, em metros, e $t$, o tempo, em segundos. Qual a velocidade da partícula quando o tempo for igual a $2\\ s$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2012.2-q12",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 12,
+    "statement": "Um veículo lunar está descendo verticalmente na superfície da Lua, onde a gravidade é de $1,6\\ m/s^2$. O motor é desligado quando o veículo está a $4,8\\ m$ do solo e possui velocidade, para baixo, de $0,8\\ m/s$. Ao desligar o motor, o veículo inicia uma queda livre. Qual a velocidade (em módulo) do veículo lunar no instante em que ele toca a superfície da Lua?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,8 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,6 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,0 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,0 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2011-2012.2-q13",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 13,
+    "statement": "A esteira rolante de um terminal aeroportuário tem $35\\ m$ de comprimento e desliza à velocidade de $1,0\\ m/s$. Uma criança caminha sobre a esteira, e no sentido contrário ao movimento da mesma, com velocidade de $1,5\\ m/s$. Quanto tempo a criança leva para atravessar a esteira de uma extremidade à outra?",
+    "options": [
+      {
+        "label": "a",
+        "text": "14 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "35 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "70 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2012.2-q14",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 14,
+    "statement": "Uma pedra com massa $0,10\\ kg$ está presa a um fio sem massa de comprimento igual a $0,40\\ m$, formando um pêndulo que oscila até um ângulo de $60$ graus com a vertical. Qual a tensão no fio quando ele passa pelo ponto mais baixo de sua trajetória? Considere a aceleração da gravidade no local igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,0 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,0 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,0 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,0 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2012.2-q15",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 15,
+    "statement": "Quantos capacitores de $10\\ \\mu F$ devem ser ligados em paralelo para acumularem uma carga de $1\\ C$ e tendo uma diferença de potencial de $100\\ V$ entre seus terminais?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^4$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^6$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2012.2-q16",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 16,
+    "statement": "Na figura, um campo elétrico E de módulo $2,0 \\times 10^3\\ N/C$ é estabelecido entre duas placas paralelas. Uma partícula de carga elétrica negativa igual a $1,5 \\times 10^{-19}\\ C$, é lançada a partir da extremidade inferior esquerda, com velocidade inicial v, fazendo um ângulo $\\theta = 15°$ com a horizontal, e módulo igual a $6,0 \\times 10^6\\ m/s$. A que distância, a partir de seu ponto de lançamento, a partícula atingirá a placa inferior? Neste caso a força elétrica é da ordem de $10^{14}$ vezes maior que a força da gravidade e esta última pode ser desprezada. Seja: massa da partícula igual a $9,0 \\times 10^{-31}\\ kg$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,8 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,6 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,4 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7,2 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "mf-2011-2012.2/q16.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2012.2-q17",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 17,
+    "statement": "Um professor da UVA criou uma escala de temperatura, escala UVA, onde a temperatura ($T_U$) é medida em grau UVA (°U). Nesta escala, a temperatura que corresponde ao zero absoluto ($0\\ K = -273°C$) é dada por $0°U$ e a diferença entre o ponto de ebulição e o ponto de fusão da água é $180°U$. Qual a fórmula de conversão entre as temperaturas nas escalas Celsius ($T_C$) e UVA ($T_U$)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$T_C = \\frac{9}{5}T_U - 273$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$T_C = \\frac{5}{9}T_U - 273$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$T_C = \\frac{9}{5}T_U + 273$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$T_C = \\frac{5}{9}T_U + 273$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2012.2-q18",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "O espelho de vidro Pyrex do telescópio do observatório do monte Palomar possui diâmetro de $200\\ in$, onde in significa polegada. As temperaturas extremas registradas no monte Palomar são $-10°C$ e $50°C$. Determine a variação máxima no diâmetro do espelho. O coeficiente de dilatação linear do vidro Pyrex é: $3,2 \\times 10^{-6}/°C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,020 in",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,032 in",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,038 in",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,064 in",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2012.2-q19",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Uma corda de comprimento $125\\ cm$ tem massa $2,5\\ g$. Ela é esticada sob uma tensão de $5,0\\ N$ entre dois suportes fixos. Qual é a mais baixa frequência de ressonância nesta corda?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20kHz",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2kHz",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 Hz",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2011-2012.2-q20",
+    "examId": "mf-2011-2012.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Uma pedra é largada em um poço. O som da pedra batendo na água é ouvido $3,15\\ s$ depois. Qual é a profundidade do poço? Considere: velocidade do som no ar, no local onde está localizado o poço, igual a $300\\ m/s$, aceleração da gravidade igual a $10\\ m/s^2$, $\\sqrt{108900} = 330$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "45 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "55 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2015-2015.2-q11",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 11,
+    "statement": "\"Todos os planetas se movem em órbitas elípticas, estando o Sol em um dos focos.\" Esta é a primeira de três leis, que descrevem o movimento dos planetas em torno do Sol. Estas leis foram deduzidas por qual cientista?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Isaac Newton",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Galileu Galilei",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Tycho Brahe",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Johannes Kepler",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2015-2015.2-q12",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 12,
+    "statement": "Um paraquedista de $75\\ kg$ salta e, após a abertura do paraquedas, sua velocidade aumenta na taxa de $2,5\\ m/s^2$. Se o paraquedas tem massa $5\\ kg$, qual a força de resistência do ar sobre o paraquedas? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "200 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "400 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "600 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1000 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2015-2015.2-q13",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 13,
+    "statement": "Um homem de massa $80\\ kg$ corre, paralelamente aos trilhos, pela plataforma de uma estação ferroviária a $5\\ m/s$. Ele salta sobre um vagão, de massa $1920\\ kg$, estacionado sobre os trilhos. Se, ao cair sobre o vagão, o homem ficar parado em relação ao mesmo, qual a velocidade final atingida pelo conjunto (homem + vagão)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20 cm/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30 cm/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40 cm/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50 cm/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2015-2015.2-q14",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 14,
+    "statement": "Numa disputa de saltos ornamentais, um mergulhador gira duas vezes ao saltar da plataforma de $10\\ m$. Supondo que sua velocidade vertical inicial seja igual a zero, qual sua velocidade angular média durante o salto? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi\\ rad/s$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{2}\\ rad/s$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi\\sqrt{2}\\ rad/s$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\pi\\sqrt{2}\\ rad/s$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2015-2015.2-q15",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 15,
+    "statement": "Uma peça de ferro contém um certo número de cavidades internas. Seu peso no ar é de $7870\\ N$ e na água $5870\\ N$. Qual o volume total ocupado por estas cavidades? Considere a massa de ar nas cavidades desprezível e a aceleração da gravidade igual a $10\\ m/s^2$. Densidade do ferro igual a $7,87\\ g/cm^3$, e da água $1\\ g/cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$0,1\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$0,2\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$0,3\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$0,4\\ m^3$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2015-2015.2-q16",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 16,
+    "statement": "A bateria de um automóvel pode fornecer uma carga de $80\\ A.h$, de um terminal a outro da mesma, através de um circuito. Se toda a carga sofrer uma variação de tensão de $12\\ V$, qual a energia envolvida neste processo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,6 MJ",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,0 MJ",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,3 MJ",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,6 MJ",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2015-2015.2-q17",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 17,
+    "statement": "Um fio de diâmetro $1,0\\ mm$ e comprimento $2,0\\ m$ possui resistência $250\\ m\\Omega$. Consultando a tabela, podemos afirmar que este fio é feito de: Considere $\\pi = 3$.\n\nMaterial: Alumínio — Resistividade: $2,7\\times10^{-8}\\ \\Omega.m$\nMaterial: Cobre — Resistividade: $1,7\\times10^{-8}\\ \\Omega.m$\nMaterial: Ferro — Resistividade: $9,4\\times10^{-8}\\ \\Omega.m$\nMaterial: Tungstênio — Resistividade: $5,3\\times10^{-8}\\ \\Omega.m$",
+    "options": [
+      {
+        "label": "a",
+        "text": "Alumínio",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Cobre",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Ferro",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Tungstênio",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2015-2015.2-q18",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 18,
+    "statement": "Em uma região do espaço, um campo elétrico de $1,2\\ kV/m$ e um campo magnético perpendicular de $0,400\\ T$ agem sobre um elétron em movimento sem acelerá-lo. Qual a velocidade deste elétron?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,0\\times10^3\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1,5\\times10^3\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,3\\times10^3\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3,0\\times10^3\\ m/s$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2015-2015.2-q19",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "Quando $30\\ J$ de calor são transferidos para $30\\ g$ de uma substância de massa molar $50\\ g/mol$, sua temperatura sobe $10°C$. Qual o calor específico molar desta substância? O calor específico molar é definido como sendo a quantidade de calor necessária para elevar a temperatura de um mol de determinada substância em um kelvin.",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 J/mol.K",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 J/mol.K",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25 J/mol.K",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "35 J/mol.K",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2015-2015.2-q20",
+    "examId": "mf-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 20,
+    "statement": "Um espelho de barbear côncavo possui raio de curvatura $36\\ cm$. Ele está posicionado de tal forma que a imagem direita do rosto de um homem é duas vezes maior que o original. A que distância do homem está o espelho?",
+    "options": [
+      {
+        "label": "a",
+        "text": "7,0 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "17,5 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2015-2015.2-q37",
+    "examId": "cg-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "O cúbito é uma antiga unidade de medida de comprimento que corresponde a $53\\ cm$. Pelos textos antigos estima-se que a arca de Noé tinha cerca de $300$ cúbitos de comprimento. Isto corresponde a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "127 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "145 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "159 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "170 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2015-2015.2-q38",
+    "examId": "cg-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 38,
+    "statement": "Em boas condições, pista seca e freios novos, um carro pode parar com aceleração constante de $5\\ m/s^2$. Nestas condições, se um carro encontra-se inicialmente na velocidade de $108\\ km/h$, que distância ele percorrerá até a parada total?",
+    "options": [
+      {
+        "label": "a",
+        "text": "30 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "90 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2015-2015.2-q39",
+    "examId": "cg-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 39,
+    "statement": "Um goleiro coloca a bola em jogo, ao bater um tiro de meta com a bola no solo, imprimindo à bola de futebol uma velocidade inicial de $108\\ km/h$. Ao retornar ao campo, a bola possui uma velocidade de $90\\ km/h$. Quanta energia foi perdida devido à resistência do ar? Considere a massa da bola igual a $400\\ g$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "55 J",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "125 J",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "180 J",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "225 J",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2015-2015.2-q40",
+    "examId": "cg-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 40,
+    "statement": "Um objeto, que executa um movimento harmônico simples, leva $0,25\\ s$ para se deslocar entre os dois pontos onde sua velocidade é zero. Qual o período deste movimento?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,25 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,50 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,75 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,00 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2015-2015.2-q41",
+    "examId": "cg-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 41,
+    "statement": "Uma onda estacionária é estabelecida em uma corda de violão. Ela está oscilando em seu sétimo harmônico. Quantos nós existem nesta configuração?",
+    "options": [
+      {
+        "label": "a",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2015-2015.2-q42",
+    "examId": "cg-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "Um trabalho de $200\\ J$ é realizado sobre um sistema e, do mesmo, são retiradas $70,0\\ cal$ de calor. Qual a variação na energia interna deste sistema? Seja $1\\ cal = 4,2\\ J$",
+    "options": [
+      {
+        "label": "a",
+        "text": "-494 J",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-320 J",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-186 J",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-94 J",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2015-2015.2-q43",
+    "examId": "cg-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 43,
+    "statement": "Em um relâmpago típico, uma corrente de $2,5\\times10^4\\ A$ é mantida durante $20\\ \\mu s$. Quanta carga é transferida no relâmpago?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,0 C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,5 C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5 C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,5 C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2015-2015.2-q44",
+    "examId": "cg-2015-2015.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 44,
+    "statement": "O sal de cozinha é formado por cristais de cloreto de sódio, NaCl. Se a distância entre um íon $Na^+$ e $Cl^-$ é $3,0\\times10^{-10}\\ m$, qual a força eletrostática entre eles? Dê a resposta com dois algarismos significativos. Sejam $k_0 = 9,0\\times10^9\\ Nm^2/C^2$ e a carga elementar $e = 1,6\\times10^{-19}\\ C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,6\\times10^{-9}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1,9\\times10^{-9}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,3\\times10^{-9}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2,6\\times10^{-9}\\ N$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2016-2016.2-q11",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 11,
+    "statement": "Um homem de $80\\ kg$ está parado sobre uma pequena ponte horizontal uniforme de peso $2,8\\ kN$ e comprimento L. A distância do homem até a extremidade esquerda da ponte é $L/4$. Qual a força vertical que o suporte da extremidade esquerda exerce sobre a ponte? Considere a aceleração da gravidade, g, igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "800 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2000 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2800 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3600 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2016-2016.2-q12",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 12,
+    "statement": "Uma bala de $30\\ g$, viajando a $500\\ m/s$, penetra horizontalmente $10\\ cm$ em uma parede antes de parar completamente. Suponha que a força que a parede faz sobre a bala é constante e que não há perdas de energia por calor. Qual o valor desta força?",
+    "options": [
+      {
+        "label": "a",
+        "text": "7,5 kN",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12,5 kN",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25,0 kN",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "37,5 kN",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2016-2016.2-q13",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 13,
+    "statement": "Um foguete está subindo com velocidade de $4300\\ km/h$ em relação à Terra. Quando o combustível acaba, o motor é desacoplado e lançado para trás com velocidade $100\\ km/h$ em relação ao restante do foguete, o módulo de comando. Se o motor tem massa quatro vezes maior que a do módulo de comando, qual a velocidade final deste último em relação à Terra?",
+    "options": [
+      {
+        "label": "a",
+        "text": "4200 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4300 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4400 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4700 km/h",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2016-2016.2-q14",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 14,
+    "statement": "O sal de cozinha é composto por cristais iônicos de cloreto de sódio ($Na^+Cl^-$). Se a distância entre os íons é aproximadamente $0,3\\ nm$, qual a força elétrica entre os íons $Na^+$ e $Cl^-$? Sejam dados: Carga elementar $1,6\\times10^{-19}\\ C$, $K_0 = 9\\times10^9\\ N.m^2/C^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,56\\times10^{-9}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,56\\times10^{-10}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,56\\times10^{-12}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2,56\\times10^{-15}\\ N$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2016-2016.2-q15",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 15,
+    "statement": "Quantos capacitores de $1,00\\ \\mu F$ devem ser ligados em paralelo para armazenar uma carga de $1,00\\ C$ com uma diferença de potencial de $100\\ V$ entre as placas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^4$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^6$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2016-2016.2-q16",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 16,
+    "statement": "Os faróis de um automóvel em movimento consomem $10\\ A$ do alternador de $12\\ V$, que é acionado pelo motor do automóvel. Se o alternador tem eficiência de $80\\%$, qual a potência que o motor deve fornecer ao alternador para manter os faróis acesos? Considere $1\\ HP = 0,75\\ kW$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,16 HP",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,20 HP",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,24 HP",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,28 HP",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2016-2016.2-q17",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 17,
+    "statement": "Um gás ideal, inicialmente na temperatura de $300\\ K$, é comprimido do volume de $3,0\\ m^3$ para $2,0\\ m^3$, à pressão constante de $25\\ N/m^2$. Neste processo $75\\ J$ são perdidos pelo gás na forma de calor. Qual a variação na energia interna deste gás?",
+    "options": [
+      {
+        "label": "a",
+        "text": "-50 J",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50 J",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-100 J",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 J",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2016-2016.2-q18",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 18,
+    "statement": "Dois espectadores (A e B) em um estádio de futebol veem e depois ouvem uma bola ser chutada em campo. Para o espectador A a diferença de tempo entre os dois eventos é $0,118\\ s$ e para o espectador B, $0,089\\ s$. O ângulo entre a linha de visão do espectador A e a linha de visão do espectador B é $90°$. Qual a distância entre os dois espectadores? Seja dado: a velocidade do som no estádio igual a $340\\ m/s$. Considere nos cálculos e na resposta valores inteiros.",
+    "options": [
+      {
+        "label": "a",
+        "text": "30 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "70 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2016-2016.2-q19",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 19,
+    "statement": "Uma esfera oca de raio externo $5,0\\ cm$ e raio interno $3,0\\ cm$ flutua com metade de seu volume submerso em um líquido de densidade $800\\ kg/m^3$. Qual a densidade da esfera? Considere a massa de ar no interior da esfera desprezível.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$180\\ kg/m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$400\\ kg/m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$510\\ kg/m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$640\\ kg/m^3$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2016-2016.2-q20",
+    "examId": "mf-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 20,
+    "statement": "O índice de refração do benzeno é $1,8$. Qual o ângulo crítico para um raio luminoso que se propaga do benzeno para a interface benzeno-ar? Sejam dados: Índice de refração do ar igual a $1$, $arcsen(0) = 0°$, $arcsen(0,56) = 34°$, $arcsen(0,8) = 53°$, $arcsen(1) = 90°$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0°",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "34°",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "53°",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90°",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2016-2016.2-q37",
+    "examId": "cg-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 37,
+    "statement": "Quando vamos calibrar os pneus de um veículo, em um posto de combustível ou em um borracheiro, qual a unidade de medida correta a que devemos nos referir quando usamos o sistema inglês de unidades? Sejam as abreviações: lb para libra (força) e in para polegada.",
+    "options": [
+      {
+        "label": "a",
+        "text": "lb",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "lb.in",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "lb/in",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$lb/in^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2016-2016.2-q38",
+    "examId": "cg-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 38,
+    "statement": "De maneira análoga ao ano-luz, $1\\ ns$-luz é a distância que a luz percorre em $1\\ ns$. Sendo a velocidade da luz no vácuo igual a $3\\times10^8\\ m/s$, qual o valor de $1\\ ns$-luz, no vácuo, em metros?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,03 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,3 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2016-2016.2-q39",
+    "examId": "cg-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 39,
+    "statement": "Um elevador carregado tem massa $3,0\\times10^3\\ kg$ e sobe $210\\ m$ em $21\\ s$ com velocidade constante. Qual a potência com a qual a força do cabo realiza trabalho sobre o elevador? Considere a aceleração da gravidade, g, igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3,0\\times10^3\\ W$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3,0\\times10^4\\ W$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3,0\\times10^5\\ W$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3,0\\times10^6\\ W$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2016-2016.2-q40",
+    "examId": "cg-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "Uma gota de água possui carga elétrica de $-1,00\\times10^{-16}\\ C$. Quantos elétrons em excesso possui essa gota de água? Seja a carga elementar: $1,60\\times10^{-19}\\ C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "300",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "625",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1000",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1600",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2016-2016.2-q41",
+    "examId": "cg-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 41,
+    "statement": "Qual a energia potencial elétrica entre dois elétrons separados por uma distância de $9\\ nm$? Sejam dados: Carga elementar $1,6\\times10^{-19}\\ C$, $K_0 = 9\\times10^9\\ N.m^2/C^2$, $1\\ eV = 1,6\\times10^{-19}\\ J$, onde eV (elétron-volt) é uma unidade de medida de energia bastante usada em escala atômica e molecular.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,16 eV",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,60 eV",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,56 eV",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,10 eV",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2016-2016.2-q42",
+    "examId": "cg-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "A temperatura na superfície do Sol é de aproximadamente $5778\\ K$. Qual a temperatura da superfície do Sol na escala Fahrenheit? Considere $0°C = 273\\ K$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4404 °F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5505 °F",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9941 °F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10400 °F",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2016-2016.2-q43",
+    "examId": "cg-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 43,
+    "statement": "A tensão em um fio preso em ambas as extremidades é duplicada sem que o comprimento do fio varie. Qual a razão entre a nova e a antiga velocidade de uma onda transversal que se propaga neste fio?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1/\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2016-2016.2-q44",
+    "examId": "cg-2016-2016.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 44,
+    "statement": "Um objeto localizado a $30,0\\ cm$ de um espelho esférico produz uma imagem invertida cuja ampliação é $0,75$. Qual a distância desta imagem?",
+    "options": [
+      {
+        "label": "a",
+        "text": "7,50 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15,0 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22,5 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30,0 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2018-2018.1-q11",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 11,
+    "statement": "Um homem suspeito corre o mais rápido possível por uma esteira rolante de um grande centro comercial, levando $2,0\\ s$ para atravessá-la. Os seguranças aparecem e o homem retorna ao ponto de partida pela mesma esteira levando, neste caso, $10\\ s$ para atravessá-la. Qual a razão entre a velocidade do homem e a velocidade da esteira?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2018-2018.1-q12",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 12,
+    "statement": "Um projétil de massa igual a $9,0\\ kg$ é lançado verticalmente para cima. O arrasto do ar diminui a energia mecânica do projétil em $63\\ kJ$ durante a sua subida. Que altura adicional o projétil atingiria se o arrasto do ar fosse desprezível? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "540 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "700 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "860 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1400 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2018-2018.1-q13",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 13,
+    "statement": "Em uma brincadeira comum, mas bastante perigosa, alguém puxa uma cadeira quando uma pessoa está prestes a se sentar, fazendo com que a vítima caia ao chão. Suponha que a vítima tenha $70\\ kg$, caia de uma altura de $45\\ cm$ e que o choque com o chão tenha duração de $0,07\\ s$. Qual o valor da força média aplicada pelo piso sobre a pessoa durante a colisão? Considere a queda da vítima como uma queda livre a partir do repouso e a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "210 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1470 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2450 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3000 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2018-2018.1-q14",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 14,
+    "statement": "A intensidade luminosa média na superfície da Terra é de $1250\\ W/m^2$. A eficiência média de painéis solares fotovoltaicos é de $16\\%$. Uma determinada residência tem um consumo médio de $360\\ kWh$ em um mês de $30$ dias. Se os painéis recebem iluminação durante $12\\ h$ por dia, qual a área que eles devem possuir para restituir à companhia de eletricidade o consumo da residência citada?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,0\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,5\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3,5\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5,0\\ m^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2018-2018.1-q15",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 15,
+    "statement": "Um elétron é colocado em repouso em um campo elétrico uniforme de $500\\ N/C$. Qual a velocidade deste elétron $45,5\\ ns$ após ser solto? Sejam: Carga elementar, $e = 1,6\\times10^{-19}\\ C$, massa do elétron, $m = 9,1\\times10^{-31}\\ kg$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,7\\times10^6\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,1\\times10^6\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4,0\\times10^6\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5,2\\times10^6\\ m/s$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2018-2018.1-q16",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 16,
+    "statement": "A Terra possui uma carga elétrica líquida que produz um campo elétrico orientado para o centro da Terra com módulo de $150\\ N/C$ em pontos na vizinhança de sua superfície. Qual seria a carga líquida que uma pessoa de $75\\ kg$ deveria possuir para que a força elétrica produzida sobre a pessoa por esse campo compensasse seu peso? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "+2 C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-3 C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "+4 C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-5 C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2018-2018.1-q17",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 17,
+    "statement": "O avião supersônico Concorde (já retirado de circulação) é feito basicamente de alumínio e possui um comprimento de $62\\ m$ quando em repouso no solo em um dia típico europeu ($15°C$). Quando em voo, com velocidade igual a duas vezes a do som, o atrito com o ar faz com que se dilate $25\\ cm$ em seu comprimento. Qual a temperatura da parte externa do Concorde durante o voo? O coeficiente de dilatação térmica linear do alumínio é igual a $23\\times10^{-6}/°C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "160°C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "175°C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "190°C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "210°C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2018-2018.1-q18",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "Em um certo processo termodinâmico, o calor liberado pelo sistema é igual a $2,7\\times10^5\\ J$ e, ao mesmo tempo, o sistema se contrai sob a ação de uma pressão externa de valor $9,0\\times10^5\\ Pa$. A energia interna do sistema é a mesma nos estados inicial e final do processo. Qual a variação no volume do sistema?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$0,3\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3,3\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$24,3\\ m^3$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2018-2018.1-q19",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Um sussurro (a $1\\ m$ de distância) possui nível sonoro de $20\\ dB$. Uma conversa (a $1\\ m$ de distância) possui nível sonoro de $60\\ dB$. Qual a razão entre a intensidade sonora da conversa e a intensidade sonora do sussurro? O limiar de audição possui nível sonoro de $0\\ dB$ e intensidade sonora $10^{-12}\\ W/m^2$:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^4$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^{12}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2018-2018.1-q20",
+    "examId": "mf-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Uma das extremidades de um fio de densidade linear $0,02\\ kg/m$ é presa a um dos ramos de um diapasão excitado eletricamente com frequência igual a $120\\ Hz$. A outra extremidade passa sobre uma polia e suporta um objeto suspenso de massa igual a $1,8\\ kg$. Qual o comprimento da onda gerada no fio? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,25 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,43 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,61 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,78 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.1-q37",
+    "examId": "cg-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "Um motorista viaja em seu veículo em uma estrada retilínea a $20\\ m/s$, quando percebe uma possível situação de perigo à sua frente. Ele aplica os freios no tempo $t=0$, pára, e retorna de marcha ré, alcançando a velocidade de $10\\ m/s$ no tempo $t=10\\ s$. Qual o módulo da aceleração média do veículo nestes $10\\ s$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\ m/s^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.1-q38",
+    "examId": "cg-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 38,
+    "statement": "Uma força F aplicada a um objeto de massa $m_1$ produz aceleração igual a $3,0\\ m/s^2$. Se a força F for aplicada a um objeto de massa $m_2$ produz aceleração igual a $1,0\\ m/s^2$. Se a força F for aplicada a um objeto de massa $m_1 + m_2$, qual o valor da sua aceleração?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$0,50\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$0,75\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$0,80\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$0,95\\ m/s^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.1-q39",
+    "examId": "cg-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 39,
+    "statement": "Uma diferença de potencial de $110\\ V$ é aplicada a um aquecedor de ambientes de $1100\\ W$. Qual a corrente no elemento de aquecimento?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 A",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 A",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 A",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11 A",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.1-q40",
+    "examId": "cg-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "Um capacitor está conectado a uma bateria de $12\\ V$ e possui carga elétrica de módulo $48\\ \\mu C$ em suas placas. Qual o módulo da carga nas placas do capacitor quando ele é conectado a uma pilha de $1,5\\ V$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1\\ \\mu C$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\ \\mu C$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4\\ \\mu C$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6\\ \\mu C$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2018-2018.1-q41",
+    "examId": "cg-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 41,
+    "statement": "A olimpíada de inverno em Pyeong Chang, Coreia do Sul, registrou as temperaturas médias mais baixas deste tipo de competição. Se a temperatura média na cidade durante os jogos foi de $12,2°F$, qual o valor da temperatura em graus Celsius?",
+    "options": [
+      {
+        "label": "a",
+        "text": "-11°C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-20°C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-32°C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-44°C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2018-2018.1-q42",
+    "examId": "cg-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 42,
+    "statement": "Um barco que flutua em água doce (massa específica $= 10^3\\ kg/m^3$) desloca um volume de água que pesa $40\\ kN$. Qual o peso de água salgada (massa específica $= 1,1\\times10^3\\ kg/m^3$) que esse barco desloca ao flutuar na mesma? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "32 kN",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "36 kN",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40 kN",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "44 kN",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.1-q43",
+    "examId": "cg-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 43,
+    "statement": "Um sistema massa-mola executa um Movimento Harmônico Simples de amplitude A. Para qual deslocamento da massa m, metade da energia é cinética e metade é potencial elástica?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A/4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\frac{\\sqrt{2}}{2}A$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{2}A$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2018-2018.1-q44",
+    "examId": "cg-2018-2018.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 44,
+    "statement": "Um raio de luz se propaga no ar e incide sobre uma placa de vidro. No ar o raio incide fazendo um ângulo de $33°$ com a normal à superfície, e no vidro esse ângulo é de $21°$. Qual o índice de refração do vidro? Dados $sen(21°) = 0,36$ e $sen(33°) = 0,54$. Considere o índice de refração do ar igual a 1:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2019-2019.1-q11",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 11,
+    "statement": "Uma pedra é expelida verticalmente para cima por um vulcão em erupção com velocidade inicial de $40\\ m/s$. Desprezando a resistência do ar, qual o tempo, após o lançamento, que a pedra leva para atingir a velocidade de $20\\ m/s$, no sentido de cima para baixo? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2019-2019.1-q12",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 12,
+    "statement": "Um avião sofre a ação de uma força de sustentação que é ortogonal ao plano das suas asas e 4 vezes o seu peso. Se esse avião voa a $252\\ km/h$, qual o ângulo de inclinação com a horizontal, $\\theta$, que as asas devem fazer para realizar uma curva plana com raio de $1400\\ m$? Considere a aceleração da gravidade $g=10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "arcsen(0,0500)",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "arcsen(0,0625)",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "arcsen(0,0750)",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "arcsen(0,0875)",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2019-2019.1-q13",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 13,
+    "statement": "O motor do sistema de manobra dos antigos ônibus espaciais exerce uma força constante de $26700\\ N$ durante $4\\ s$ ejetando uma quantidade de combustível de massa desprezível quando comparada à massa do ônibus espacial. Qual a variação na quantidade de movimento do ônibus espacial neste intervalo de tempo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6675 kg.m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "26700 kg.m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "106800 kg.m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "145600 kg.m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2019-2019.1-q14",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 14,
+    "statement": "O movimento do pistão no motor de um automóvel pode ser considerado um Movimento Harmônico Simples, MHS. O percurso do pistão (dobro da amplitude) é igual a $0,100\\ m$ e o motor gira a $3600$ rotações por minuto. Qual a aceleração do pistão no ponto final do percurso? Considere $\\pi = 3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$6\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$9\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$12\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$18\\ m/s^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "mf-2019-2019.1-q15",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 15,
+    "statement": "Na água do mar um salva vidas com volume igual a $0,050\\ m^3$ suporta o peso de uma pessoa de $73,5\\ kg$ e densidade $980\\ kg/m^3$. O salva vidas mantém $20\\%$ do corpo desta pessoa fora d'água quando está completamente submerso. Qual a densidade média do material que compõe o salva vidas? Considere: densidade da água igual $10^3\\ kg/m^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$730\\ kg/m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$870\\ kg/m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$920\\ kg/m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$980\\ kg/m^3$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2019.1-q16",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 16,
+    "statement": "A vaporização do suor é um mecanismo de controle da temperatura de animais de sangue quente. Qual a quantidade de água que deve evaporar da pele de um homem de $70,0\\ kg$ para que a temperatura de seu corpo diminua $1,00°C$? Sejam dados: Calor de vaporização da água na temperatura do corpo humano ($37°C$) igual a $2,415\\times10^6\\ J/kg.K$; Calor específico típico para o corpo humano igual a $3450\\ J/kg.K$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,100 kg",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,215 kg",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,320 kg",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,471 kg",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2019.1-q17",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 17,
+    "statement": "Uma máquina de Carnot possui eficiência de $40\\%$ e seu reservatório frio encontra-se a $-90°C$. Um engenheiro recebe a tarefa de aumentar a eficiência para $50\\%$. De quantos graus Celsius a temperatura do reservatório quente deve aumentar mantendo-se a temperatura do reservatório frio constante? Considere $0°C = 273\\ K$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "45°C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "61°C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "77°C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90°C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2019.1-q18",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 18,
+    "statement": "O fluxo magnético através da face de um cubo é igual a $+0,120\\ Wb$. Qual deve ser o fluxo magnético total através das outras cinco faces deste cubo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "-0,024 Wb",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-0,120 Wb",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "+0,120 Wb",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "+0,600 Wb",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2019.1-q19",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 19,
+    "statement": "Três resistores idênticos são conectados em série. Quando uma determinada tensão é aplicada aos terminais dos resistores uma potência de $27\\ W$ é dissipada. Qual seria a potência total dissipada se os três resistores forem ligados em paralelo, mantendo-se a mesma tensão em seus terminais?",
+    "options": [
+      {
+        "label": "a",
+        "text": "9 W",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "27 W",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "81 W",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "243 W",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2019-2019.1-q20",
+    "examId": "mf-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Em determinado planeta um pássaro macho voa no sentido da fêmea com velocidade $25\\ m/s$ enquanto canta com uma frequência de $1200\\ Hz$. A fêmea está em repouso e ouve o canto com uma frequência de $1230\\ Hz$. Qual a velocidade do som na atmosfera deste planeta?",
+    "options": [
+      {
+        "label": "a",
+        "text": "250 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "575 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "900 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1025 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2019-2019.1-q37",
+    "examId": "cg-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "A milha (mi) é uma unidade de medida muito usada em países de língua inglesa. Sabendo que $1,00\\ mi = 1,60\\ km$, quantos metros quadrados existem em $1$ milha quadrada?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,56\\times10^3\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,56\\times10^5\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,56\\times10^6\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2,56\\times10^9\\ m^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2019.1-q38",
+    "examId": "cg-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 38,
+    "statement": "Um avião precisa de $280\\ m$ para a decolagem. Ele parte do repouso com aceleração constante e leva $8,0\\ s$ neste percurso. Qual a velocidade no momento da decolagem?",
+    "options": [
+      {
+        "label": "a",
+        "text": "48 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "54 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "62 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "70 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2019-2019.1-q39",
+    "examId": "cg-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 39,
+    "statement": "O ponto mais profundo nos oceanos da Terra é a fossa Marianas, localizada a $11\\ km$ de profundidade. Qual a pressão manométrica, em atm, a essa profundidade? Considere a água incompressível e de densidade $1000\\ kg/m^3$, a aceleração da gravidade igual a $10\\ m/s^2$ e $1\\ atm = 10^5\\ Pa$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "11 atm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "110 atm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1100 atm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11000 atm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2019.1-q40",
+    "examId": "cg-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 40,
+    "statement": "Uma forma de cubos de gelo de massa desprezível contém $350\\ g$ de água a $30°C$. Quanto calor deve ser retirado da água para que ela seja levada a $0°C$ e transformada em gelo? Considere: Calor específico da água igual a $1\\ cal/g.°C$, calor de fusão da água igual a $80\\ cal/g$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10500 cal",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "17500 cal",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "28000 cal",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "38500 cal",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2019-2019.1-q41",
+    "examId": "cg-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 41,
+    "statement": "Durante um processo químico um técnico de laboratório fornece $254\\ J$ de calor a um sistema. Simultaneamente, $73\\ J$ de trabalho são realizados sobre esse sistema. Qual a variação da energia interna deste sistema?",
+    "options": [
+      {
+        "label": "a",
+        "text": "181 J",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "327 J",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "400 J",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "435 J",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2019-2019.1-q42",
+    "examId": "cg-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 42,
+    "statement": "Uma diferença de potencial de $5,00\\ V$ é aplicada à extremidade de um fio de $2,70\\ m$ e diâmetro $0,3\\ mm$. A corrente medida é de $12,5\\ A$. Qual a resistividade deste fio? Considere $\\pi = 3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^{-7}\\ \\Omega.m$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{-8}\\ \\Omega.m$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^{-6}\\ \\Omega.m$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^{-10}\\ \\Omega.m$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2019-2019.1-q43",
+    "examId": "cg-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 43,
+    "statement": "Um resistor de $20\\ \\Omega$ é ligado em paralelo a um resistor de $30\\ \\Omega$. O conjunto é ligado a uma diferença de potencial de $12\\ V$. Qual a corrente total desta configuração de resistores?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 A",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 A",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 A",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 A",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2019-2019.1-q44",
+    "examId": "cg-2019-2019.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 44,
+    "statement": "A imagem de uma árvore cabe precisamente em um espelho plano de altura $4,0\\ cm$ quando o espelho é mantido a uma distância de $35\\ cm$ do olho. A árvore está a $27,65\\ m$ do espelho. Qual a altura da árvore?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,2 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,3 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,6 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,1 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2025-2026.1-q36",
+    "examId": "cg-2025-2026.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 36,
+    "statement": "Em uma avenida reta de Dubai, um veículo passa por um posto de inspeção a uma velocidade de $72\\ km/h$, acima da velocidade limite permitida no local, que é de $60\\ km/h$. Cinco segundos após isso, um carro policial parte do repouso com uma aceleração constante de $4\\ m/s^2$. Nestas condições, em quanto tempo aproximadamente ele irá se emparelhar com o veículo infrator.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10,5 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11,0 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12,5 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "13,5 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2025-2026.1-q37",
+    "examId": "cg-2025-2026.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 37,
+    "statement": "Durante uma sessão de treinamento, um atleta eleva verticalmente uma massa de $25\\ kg$, com um braço, pela distância de meio metro. Quanta energia química foi liberada nos músculos do braço, somente para elevar essa massa? Considere $g=10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "50 J",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "75 J",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100 J",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "150 J",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2025-2026.1-q38",
+    "examId": "cg-2025-2026.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 38,
+    "statement": "Nos preparativos do teste de uma nova aerodinâmica para um foguete movido a pressão de água, um grupo de estudantes recebe a tarefa de realizar previsões sobre o deslocamento vertical que o foguete deve realizar. De testes anteriores, realizados na horizontal, já se sabe que a velocidade inicial do foguete é de $40\\ m/s$. Os estudantes resolvem em uma primeira aproximação desconsiderar a resistência do ar e adotam $g=10\\ m/s^2$. Nestas condições eles calculam que a altura máxima atingida pelo foguete é de aproximadamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "20 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "80 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2025-2026.1-q39",
+    "examId": "cg-2025-2026.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 39,
+    "statement": "Em um canteiro de obras, um guindaste eleva rotineiramente uma carga de vigas metálicas de no máximo $2$ toneladas. O operador sabe que o guindaste tem uma aceleração e uma desaceleração máximas no processo de elevar esta carga. Se ele ultrapassar este valor, o guindaste pode sofrer danos e deverá passar por manutenção. O operador sempre trabalha respeitando estes limites. No caso, ele sempre opera com uma desaceleração de $3,0\\ m/s^2$. Considere $g=10\\ m/s^2$. Qual será a tração no cabo que garante a segurança do equipamento?",
+    "options": [
+      {
+        "label": "a",
+        "text": "14.000 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16.000 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18.000 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20.000 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2025-2026.1-q40",
+    "examId": "cg-2025-2026.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 40,
+    "statement": "No ano de 1977, o submersível de grandes profundidades DSV Alvin realizou um dos mergulhos de exploração mais importantes da história das ciências, nas proximidades das ilhas Galápagos, quando em uma inspeção de fontes termais submarinas, descobriu, a cerca de $3\\ km$ de profundidade, toda uma nova biota de animais marinhos exóticos que dependia principalmente de fontes de energia térmica e de materiais expelidos por estas. Considere que a densidade média da água do mar é $d=1,02\\ g/cm^3$, a aceleração da gravidade local é $g=10\\ m/s^2$ e a pressão atmosférica é $p_{atm}=1,0\\times10^5\\ N/m^3$. Nessas condições, estas criaturas exóticas estão submetidas aproximadamente a que pressão?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3,03\\times10^7\\ Pa$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3,04\\times10^7\\ Pa$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3,07\\times10^7\\ Pa$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3,08\\times10^7\\ Pa$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2025-2026.1-q41",
+    "examId": "cg-2025-2026.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 41,
+    "statement": "Para a realização da preparação final de uma pastilha de um semicondutor, com $150\\ g$ de massa, este deve ser retirado de um forno a $200°C$ e colocado em um recipiente, com capacidade térmica de $30\\ cal/°C$, contendo $70\\ g$ de água destilada, que está a $10°C$. Uma temperatura de equilíbrio térmico final deve ser obtida e mantida durante cerca de meia hora por um aquecedor, para finalizar o processo de preparação. Nessas circunstâncias, qual é esta temperatura de equilíbrio? Considere $c(água) = 1\\ cal/g\\times°C$; $c(semi condutor)= 0,09\\ cal/g\\times°C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "30,6°C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "31,6°C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "32,6°C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "33,6°C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2025-2026.1-q42",
+    "examId": "cg-2025-2026.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "Em uma usina termoelétrica de pequeno porte, são liberados para o vapor $500\\ cal$ por segundo, realizando um trabalho na turbina a uma potência de $800\\ Watts$. Considere $1\\ cal = 4,0\\ J$. Nessas condições, o rendimento energético aproximado desta usina é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "25%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "35%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
