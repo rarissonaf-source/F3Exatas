@@ -78,9 +78,7 @@ export async function DELETE(
   const commentId = searchParams.get("commentId") || "";
   const authorEmail = searchParams.get("authorEmail") || "";
 
-  // Comentários feitos com o login compartilhado (sem e-mail) não têm dono
-  // identificável, então não podem ser apagados por essa via.
-  if (!commentId || !authorEmail) {
+  if (!commentId) {
     return NextResponse.json({ error: "Sem permissão para apagar este comentário." }, { status: 403 });
   }
 

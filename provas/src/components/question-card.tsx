@@ -441,7 +441,7 @@ function CommentsPanel({
       {!loading && comments.length > 0 && (
         <div className="flex flex-col gap-3">
           {comments.map((c) => {
-            const isOwn = !!profile.email && c.authorEmail === profile.email;
+            const isOwn = c.authorEmail === profile.email;
             return (
               <div key={c.id} className="flex items-start gap-3">
                 <CommentAvatar name={c.authorName} picture={c.authorPicture} />
