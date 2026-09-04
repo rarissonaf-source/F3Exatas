@@ -56,6 +56,8 @@ export function QuestionCard({
   const [highlighted, setHighlighted] = useState(
     () => typeof window !== "undefined" && window.location.hash === `#${question.id}`
   );
+  const [comments, setComments] = useState<QuestionComment[]>([]);
+  const [commentsLoading, setCommentsLoading] = useState(true);
   const rootRef = useRef<HTMLDivElement>(null);
 
   const hasGabarito = Boolean(question.correctAnswer);
@@ -72,6 +74,13 @@ export function QuestionCard({
     return () => clearTimeout(t);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  useEffect(() => {
+    getComments(question.id)
+      .then(setComments)
+      .finally(() => setCommentsLoading(false));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [question.id]);
 
   useEffect(() => {
     if (!zoomedImage) return;
@@ -253,7 +262,7 @@ export function QuestionCard({
       <div className="mt-5 flex flex-wrap items-center gap-1 border-t border-border pt-3">
         <ToolbarButton
           icon={MessageSquare}
-          label="Comentário"
+          label={!commentsLoading && comments.length > 0 ? `Comentário (${comments.length})` : "Comentário"}
           active={panel === "comments"}
           onClick={() => togglePanel("comments")}
         />
@@ -274,7 +283,12 @@ export function QuestionCard({
       <AnimatePresence mode="wait">
         {panel === "comments" && (
           <PanelWrapper key="comments">
-            <CommentsPanel questionId={question.id} />
+            <CommentsPanel
+              questionId={question.id}
+              comments={comments}
+              setComments={setComments}
+              loading={commentsLoading}
+            />
           </PanelWrapper>
         )}
         {panel === "lists" && (
@@ -379,9 +393,17 @@ function CommentAvatar({ name, picture }: { name: string; picture: string }) {
   );
 }
 
-function CommentsPanel({ questionId }: { questionId: string }) {
-  const [comments, setComments] = useState<QuestionComment[]>([]);
-  const [loading, setLoading] = useState(true);
+function CommentsPanel({
+  questionId,
+  comments,
+  setComments,
+  loading,
+}: {
+  questionId: string;
+  comments: QuestionComment[];
+  setComments: React.Dispatch<React.SetStateAction<QuestionComment[]>>;
+  loading: boolean;
+}) {
   const [profile, setProfile] = useState({ name: "Usuário F3Exatas", email: "", picture: "" });
   const [text, setText] = useState("");
   const [submitting, setSubmitting] = useState(false);
@@ -389,10 +411,7 @@ function CommentsPanel({ questionId }: { questionId: string }) {
   useEffect(() => {
     const p = getCurrentProfile();
     setProfile({ name: p.name || "Usuário F3Exatas", email: p.email, picture: p.picture });
-    getComments(questionId)
-      .then(setComments)
-      .finally(() => setLoading(false));
-  }, [questionId]);
+  }, []);
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
