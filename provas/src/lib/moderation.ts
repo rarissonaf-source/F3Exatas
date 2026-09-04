@@ -1,6 +1,7 @@
-// Lista simples de termos ofensivos (racismo, homofobia, machismo e afins).
-// É uma primeira barreira, não perfeita — dá pra editar essa lista livremente
-// pra adicionar/remover termos conforme necessário.
+// Lista simples de termos ofensivos: discurso de ódio (racismo, homofobia,
+// machismo e afins), palavrões e xingamentos genéricos. É uma primeira
+// barreira, não perfeita — dá pra editar livremente pra adicionar/remover
+// termos conforme necessário.
 const BLOCKED_TERMS = [
   // racismo
   "crioulo",
@@ -39,6 +40,48 @@ const BLOCKED_TERMS = [
   "merecem morrer",
   "deveria ser exterminado",
   "deveriam ser exterminados",
+  // palavrões / vulgaridade
+  "merda",
+  "bosta",
+  "porra",
+  "caralho",
+  "cacete",
+  "puta que pariu",
+  "foda-se",
+  "fodase",
+  "vai se foder",
+  "vai tomar no cu",
+  "tomar no cu",
+  "arrombado",
+  "arrombada",
+  "cuzao",
+  "cuzona",
+  "desgraca",
+  "maldito",
+  "maldita",
+  "praga",
+  // xingamentos / insultos genéricos
+  "idiota",
+  "imbecil",
+  "otario",
+  "otaria",
+  "babaca",
+  "escroto",
+  "escrota",
+  "corno",
+  "corna",
+  "safado",
+  "safada",
+  "vagabundo",
+  "canalha",
+  "verme",
+  "lixo humano",
+  "seu lixo",
+  "sua lixa",
+  "seu burro",
+  "sua burra",
+  "desgracado",
+  "desgracada",
 ];
 
 function normalize(text: string): string {
