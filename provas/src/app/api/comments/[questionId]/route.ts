@@ -82,10 +82,15 @@ export async function DELETE(
     return NextResponse.json({ error: "Sem permissão para apagar este comentário." }, { status: 403 });
   }
 
-  const { rowCount } = await sql`
-    delete from comments
-    where id = ${commentId} and question_id = ${questionId} and author_email = ${authorEmail}
-  `;
+  // O login compartilhado (sem e-mail) age como moderador e pode apagar
+  // qualquer comentário; contas do Google só apagam as próprias.
+  const { rowCount } =
+    authorEmail === ""
+      ? await sql`delete from comments where id = ${commentId} and question_id = ${questionId}`
+      : await sql`
+          delete from comments
+          where id = ${commentId} and question_id = ${questionId} and author_email = ${authorEmail}
+        `;
 
   if (rowCount === 0) {
     return NextResponse.json({ error: "Comentário não encontrado ou sem permissão." }, { status: 403 });
