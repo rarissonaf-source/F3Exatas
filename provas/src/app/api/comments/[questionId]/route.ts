@@ -27,10 +27,29 @@ async function isFlaggedByModeration(text: string): Promise<boolean> {
 }
 
 export async function GET(
-  _req: NextRequest,
+  req: NextRequest,
   { params }: { params: Promise<{ questionId: string }> }
 ) {
   const { questionId } = await params;
+
+  // Diagnóstico temporário — remover depois de confirmar a moderação.
+  if (new URL(req.url).searchParams.get("debugModeration") === "1") {
+    const apiKey = process.env.OPENAI_API_KEY;
+    if (!apiKey) {
+      return NextResponse.json({ hasKey: false });
+    }
+    try {
+      const res = await fetch("https://api.openai.com/v1/moderations", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${apiKey}` },
+        body: JSON.stringify({ model: "omni-moderation-latest", input: "teste de diagnostico" }),
+      });
+      const bodyText = await res.text();
+      return NextResponse.json({ hasKey: true, status: res.status, body: bodyText.slice(0, 500) });
+    } catch (e) {
+      return NextResponse.json({ hasKey: true, fetchError: String(e) });
+    }
+  }
 
   const { rows } = await sql`
     select id, author_email, author_name, author_picture, text, created_at
