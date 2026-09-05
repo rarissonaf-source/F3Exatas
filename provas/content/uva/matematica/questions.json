@@ -12158,5 +12158,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2011-2011.2-q29",
+    "examId": "cg-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 29,
+    "statement": "No campeonato de futebol de Nárnia, cada equipe soma 4 pontos em caso de vitória. Já o empate vale 2 pontos se os times marcam gols e vale um ponto em caso de 0x0. Em caso de derrota, a equipe não soma pontos. O Arquelândia Futebol Clube disputou 6 jogos na primeira fase da competição, somando 18 pontos. O que se pode dizer sobre a campanha do time?",
+    "options": [
+      {
+        "label": "a",
+        "text": "O time conseguiu no máximo 3 vitórias.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Se o time venceu 4 partidas, com certeza não perdeu jogos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Se o time venceu exatamente 3 partidas, então com certeza empatou três jogos e marcando gols.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O time empatou todos os jogos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2011-2011.2-q30",
+    "examId": "cg-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 30,
+    "statement": "O conjunto $\\{\\{\\},\\{1\\}\\}$ possui quantos subconjuntos?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2011-2011.2-q31",
+    "examId": "cg-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 31,
+    "statement": "Uma casa possui uma caixa d'água com capacidade para 1000 litros. Esta caixa possui um sistema automático de armazenamento de água que funciona perfeitamente, sempre. Se o nível estiver em 75% da sua capacidade, a caixa para de receber água, só voltando a encher se o nível se encontrar em 25% ou menos da capacidade. Por outro lado, a empresa que fornece água tem falhas constantes no abastecimento dos bairros. Sabendo que uma família gasta 250 litros de água por dia e que o dia 25 foi o primeiro dia do mês sem água nas torneiras internas da casa, podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Faltou água antes do dia 20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Faltou água entre os dias 22 e 24.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Há mais de um mês faltava água.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Dentro de 24 horas haverá água novamente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2011-2011.2-q32",
+    "examId": "cg-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "O conjunto de retas representado na figura (oito semirretas formando um padrão simétrico em X duplicado, passando pelos pontos (-a,0), (a,0), (0,b) e (0,-b)) é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$y=\\dfrac{a}{b}x+b,\\ y=\\dfrac{a}{b}x-b,\\ y=-\\dfrac{a}{b}x+b,\\ y=-\\dfrac{a}{b}x-b$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$y=ax+b,\\ y=ax-b,\\ y=-ax+b,\\ y=-ax-b$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$y=x+b,\\ y=x-b,\\ y=-x+b,\\ y=-x-b$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$y=\\dfrac{b}{a}x+b,\\ y=\\dfrac{b}{a}x-b,\\ y=-\\dfrac{b}{a}x+b,\\ y=-\\dfrac{b}{a}x-b$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2011-2011.2-q33",
+    "examId": "cg-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 33,
+    "statement": "O Instituto Brasileiro de Geografia e Estatística – IBGE já está divulgando resultados do Censo 2010. A tabela abaixo traz alguns dados deste último censo, mais especificamente informações sobre as cinco cidades mais populosas do Ceará (Fortaleza, Caucaia, Juazeiro do Norte, Maracanaú, Sobral, com total da população, % de homens, % de mulheres, % urbana e % rural). Com base na tabela acima, podemos considerar como verdade:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A quantidade absoluta de mulheres em Sobral é maior do que em Caucaia.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A maior quantidade absoluta de homens é em Caucaia.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Maracanaú apresenta a menor quantidade de pessoas dentre os municípios com população rural.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Fortaleza tem a maior população feminina rural.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2011-2011.2-q34",
+    "examId": "cg-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 34,
+    "statement": "Uma matriz quadrada de ordem 2 tem determinante igual a 3. Se somarmos uma unidade a cada elemento da diagonal principal, o determinante aumenta a 1 unidade. Então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Os elementos da diagonal principal de A são iguais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Os elementos da diagonal principal de A são iguais apenas em módulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A matriz A com certeza é uma matriz simétrica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Todas as opções acima são falsas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2011-2011.2-q35",
+    "examId": "cg-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 35,
+    "statement": "Considere o polinômio $p(x)=ax$, com a diferente de zero. O que se pode afirmar sobre o valor da soma $p(1/2)+p(1/4)+p(1/8)+p(1/16)+\\ldots$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Não é possível determinar, caso 0<a<1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Não é possível determinar, caso a>1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Vale a.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Vale $\\dfrac{2a}{2-a}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2011-2011.2-q36",
+    "examId": "cg-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 36,
+    "statement": "Seja $x\\in(0,2\\pi)$. A soma das raízes de $\\sin x=\\cos(2x)$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$11\\pi/6$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5\\pi/6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$11\\pi/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\pi/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
