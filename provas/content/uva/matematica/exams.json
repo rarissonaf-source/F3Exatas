@@ -414,5 +414,13 @@
     "edition": "2024.1",
     "examType": "geral",
     "sourceFile": "cg 2024.1.pdf"
+  },
+  {
+    "id": "cg-2024-2025.1",
+    "institution": "UVA",
+    "year": 2024,
+    "edition": "2025.1",
+    "examType": "geral",
+    "sourceFile": "cg 2025.1.pdf"
   }
 ]
