@@ -15202,5 +15202,1221 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q1",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Logo após a revolução francesa, e, com a implantação do sistema métrico decimal, sugeriu-se um relógio onde o dia teria $10$ horas e cada hora $100$ minutos. Este relógio não vingou. Se esse relógio existisse e marcasse $5$ horas e $70$ minutos, qual a hora correspondente em nosso relógio usual de $24$ horas por dia?",
+    "options": [
+      {
+        "label": "a",
+        "text": "08 h 25 min",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 h 42 min",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 h 05 min",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18 h 15 min",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.1-q2",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Na conta de água de uma residência, consta que o consumo em um mês de trinta dias foi de $45\\ m^3$. Em litros, qual o consumo médio de água, em um dia nesta residência? Considere $1\\ L = 1\\ dm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1500 L",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3000 L",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4500 L",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6000 L",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q3",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 3,
+    "statement": "Um velocista é capaz de correr à velocidade média de $36\\ km/h$ ao participar, isoladamente, de duas competições, uma de $100$ metros e outra de $100$ jardas. Podemos afirmar que, considerando uma jarda igual a $90\\ cm$:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O velocista percorre os 100 m em um tempo 1 segundo menor que o tempo que ele percorre as 100 jardas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O velocista percorre os 100 m em um tempo 1 segundo maior que o tempo que ele percorre as 100 jardas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O velocista percorre os 100 m em um tempo 0,1 segundo maior que o tempo que ele percorre as 100 jardas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O velocista percorre os 100 m em um tempo 0,1 segundo menor que o tempo que ele percorre as 100 jardas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.1-q4",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 4,
+    "statement": "Uma chuva cai de uma nuvem localizada $2000\\ m$ acima do solo. Se não houvesse a resistência do ar com que velocidade as gotas atingiriam o solo? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "30 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "130 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "250 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "720 km/h",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q5",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 5,
+    "statement": "Uma bola é atirada na horizontal de uma altura de $80\\ cm$. Ela chega ao solo com uma velocidade de $5\\ m/s$. Qual o valor de sua velocidade inicial? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q6",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 6,
+    "statement": "Um ventilador gasta $4\\ s$ para atingir a sua velocidade máxima de rotação igual a $120$ rotações por minuto. Qual a aceleração angular deste ventilador?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi\\ rad/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\pi\\ rad/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\pi\\ rad/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\pi\\ rad/s^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q7",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 7,
+    "statement": "Um elevador de massa $3500\\ kg$ e transportando $500\\ kg$ de carga sobe com velocidade constante de $4\\ m/s$. Qual a potência fornecida ao elevador pelo maquinário? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,6 kw",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16 kw",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "160 kw",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1600 kw",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q8",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 8,
+    "statement": "A velocidade de escape da superfície da Terra é $11,2\\ km/s$. Qual será a velocidade de escape da superfície de um planeta esférico, que tenha o dobro do raio, e mesma densidade que a Terra?",
+    "options": [
+      {
+        "label": "a",
+        "text": "11,2 km/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "22,4 km/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "33,6 km/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "44,8 km/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2007-2007.1-q9",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 9,
+    "statement": "Um fio condutor possui resistência de $6\\ \\Omega$. Ele é esticado de modo que seu novo comprimento é três vezes seu comprimento inicial. Considerando que a densidade e a resistividade do fio não variem durante o processo de esticamento qual a nova resistência do fio?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6 $\\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18 $\\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "36 $\\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "54 $\\Omega$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q10",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 10,
+    "statement": "Em suas experiências com gotas de óleo carregadas eletricamente, Millikan pôde determinar o valor da carga elementar. Se os seguintes valores de carga foram observados por Millikan, para uma mesma gota, em instantes diferentes, qual o valor da carga elementar que pode ser deduzido destes dados? Valores observados: $6,56\\times10^{-19}\\ C$; $9,84\\times10^{-19}\\ C$; $13,12\\times10^{-19}\\ C$; $18,04\\times10^{-19}\\ C$; $19,68\\times10^{-19}\\ C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,61\\times10^{-19}\\ C$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1,62\\times10^{-19}\\ C$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1,63\\times10^{-19}\\ C$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1,64\\times10^{-19}\\ C$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q11",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 11,
+    "statement": "Um capacitor de $100\\ pF$ é carregado sob uma diferença de potencial de $50V$. Em seguida é ligado em paralelo a um segundo capacitor que está descarregado. A diferença de potencial cai então para $40V$. Qual a capacitância do segundo capacitor? $1\\ pF = 10^{-12}\\ F$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "25 pF",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50 pF",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75 pF",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 pF",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q12",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 12,
+    "statement": "Uma gota esférica de água com $6\\ \\mu m$ de diâmetro, está suspensa no ar calmo por ação de um campo elétrico de módulo igual a $108\\ N/C$. Qual o valor da carga elétrica desta gota? Considere: densidade da água igual a $10^3\\ kg/m^3$, aceleração da gravidade igual a $10\\ m/s^2$ e $\\pi=3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^{-10}\\ C$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{-12}\\ C$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^{-14}\\ C$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^{-16}\\ C$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q13",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 13,
+    "statement": "Qual é a frequência mais baixa para ondas estacionárias em um fio de $10\\ m$ de comprimento e massa de $100\\ g$, submetido a uma tensão de $25\\ N$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,0 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,5 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,0 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,5 Hz",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q14",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 14,
+    "statement": "O limiar de dor do ouvido humano é $120\\ dB$. A que intensidade de som corresponde este nível sonoro? Considere a menor intensidade de som percebida pelo ouvido humano igual a $10^{-12}\\ W/m^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 W/m²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 W/m²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100 W/m²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120 W/m²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q15",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 15,
+    "statement": "Você está parado na esquina e ouve a aproximação de uma ambulância tocando sua sirene. A frequência da sirene é de $1600\\ Hz$. Se a frequência que você escuta é de $1700\\ Hz$, qual a velocidade da ambulância?",
+    "options": [
+      {
+        "label": "a",
+        "text": "50 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "65 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "84 km/h",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q16",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 16,
+    "statement": "Um atleta decide perder peso praticando halterofilismo. Quantas vezes um peso de $80\\ kg$ precisa ser levantado a uma distância de $1\\ m$ do solo para queimar $0,5\\ kg$ de gordura? A queima da gordura consumirá $3200\\ Cal$. Considere $1\\ J = 4\\ cal$ e $1\\ Cal = 1\\ kcal$. Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4000",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8000",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12000",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16000",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q17",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 17,
+    "statement": "Um inventor afirma ter inventado quatro máquinas térmicas, todas operando entre as temperaturas de 400 e 300 K. As características de cada máquina por ciclo são:\n\nMáquina I: calor retirado 200 J, calor cedido 150 J, trabalho realizado 25 J\nMáquina II: calor retirado 500 J, calor cedido 200 J, trabalho realizado 300 J\nMáquina III: calor retirado 600 J, calor cedido 500 J, trabalho realizado 100 J\nMáquina IV: calor retirado 100 J, calor cedido 90 J, trabalho realizado 10 J\n\nBaseado na eficiência destas máquinas e em princípios de termodinâmica, qual destas máquinas não pode funcionar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "I",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "III",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "IV",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.1-q18",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 18,
+    "statement": "Qual o intervalo, no espectro eletromagnético, que representa o comprimento de onda da luz visível?",
+    "options": [
+      {
+        "label": "a",
+        "text": "400 m - 700 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "400 mm - 700 mm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "400 $\\mu$m - 700 $\\mu$m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "400 nm - 700 nm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q19",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 19,
+    "statement": "O ser humano vê um objeto de determinada cor porque:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Este objeto reflete a luz desta cor, absorvendo a luz de todas as outras cores.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Este objeto refrata a luz desta cor, absorvendo a luz de todas as outras cores.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Este objeto absorve a luz desta cor, refletindo a luz de todas as outras cores.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Este objeto absorve a luz desta cor, refratando a luz de todas as outras cores.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q20",
+    "examId": "cg-2007-2007.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 20,
+    "statement": "Um objeto extenso colocado entre o centro de curvatura e o foco de um espelho esférico côncavo, terá sua imagem:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Real, direta e ampliada.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Real, inversa e ampliada.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Real, direta e reduzida.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Real, inversa e reduzida.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.2-q37",
+    "examId": "cg-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "Um trem de cargas atravessa a cidade de Sobral a uma velocidade de $10,8\\ km/h$. O trecho da ferrovia, dentro da cidade, é de $3,0\\ km$. O trem leva vinte minutos para atravessar este trecho. Qual o comprimento do trem?",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "333 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "600 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3300 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.2-q38",
+    "examId": "cg-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 38,
+    "statement": "Em um trecho retilíneo de um rio de $30\\ m$ de largura, um barco atravessa de uma margem à outra. Sua velocidade é de $3\\ m/s$, em relação à água, perpendicular às margens. Se a correnteza do rio tem velocidade $4\\ m/s$, qual a velocidade média do barco entre o ponto de partida e o ponto de chegada na outra margem?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,5 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.2-q39",
+    "examId": "cg-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 39,
+    "statement": "A companhia de energia do Ceará oferece um desconto para consumidores de baixo consumo (até $100\\ kWh$ em um mês). Este valor corresponde ao consumo de uma lâmpada incandescente de $100\\ W$ funcionando ininterruptamente, durante quantas horas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 hora",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100 horas",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1000 horas",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100000 horas",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.2-q40",
+    "examId": "cg-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 40,
+    "statement": "Você possui um ferro elétrico com as seguintes especificações: $220\\ V$, $1100\\ W$. Em uma viagem a São Paulo, você leva este ferro, mas descobre que a tensão no hotel é $110\\ V$. Você decide usar o ferro assim mesmo. Qual será a potência dissipada pelo ferro elétrico?",
+    "options": [
+      {
+        "label": "a",
+        "text": "275 W",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "550 W",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1100 W",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2200 W",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.2-q41",
+    "examId": "cg-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 41,
+    "statement": "Qual a temperatura normal do corpo humano ($36,5°C$) medida por um termômetro graduado na escala Fahrenheit?",
+    "options": [
+      {
+        "label": "a",
+        "text": "36,5°F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "73,0°F",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "97,7°F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100,0°F",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.2-q42",
+    "examId": "cg-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 42,
+    "statement": "A banda A de telefonia celular usa para transmissão a partir das estações rádio base, uma frequência de $891\\ Mhz$, dentre outras. Supondo que a velocidade da luz no ar seja igual à velocidade da luz no vácuo, $3\\times10^8\\ m/s$, qual o comprimento desta onda eletromagnética?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,337 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,37 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "33,7 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "337 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.2-q43",
+    "examId": "cg-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 43,
+    "statement": "Uma pessoa de $80\\ kg$, totalmente mergulhada em uma piscina, possui peso aparente igual a zero. Qual o volume desta pessoa? Considere a aceleração da gravidade igual a $10\\ m/s^2$ e a densidade da água $1\\ g/cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,008 m³",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,08 m³",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,8 m³",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8 m³",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.2-q44",
+    "examId": "cg-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 44,
+    "statement": "Um objeto extenso, de altura $5\\ cm$, é colocado a $7,5\\ cm$ de uma lente convergente de distância focal $f=10\\ cm$. Qual o tamanho de sua imagem?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2007-2007.2-q1",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 1,
+    "statement": "Um projétil de massa $m=10\\ kg$, é lançado com velocidade $v=30\\ m/s$ fazendo um ângulo de $60°$ com a horizontal. Qual a energia cinética deste projétil no ponto mais alto de sua trajetória?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0 J",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1125 J",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3375 J",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4500 J",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2007-2007.2-q2",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "A figura abaixo representa três massas suspensas em uma barra, de comprimento L e massa desprezível, apoiada sobre um suporte. Qual o valor da massa 1 para que o sistema esteja em equilíbrio? Dados: massa 2 e massa 3 igual a 2 kg.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,5 kg",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,0 kg",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6,5 kg",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7,0 kg",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "mf-2007-2007.2/q02.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2007-2007.2-q3",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 3,
+    "statement": "Na figura abaixo, a inclinação do plano em relação à horizontal é $30°$ e o coeficiente de atrito entre a massa M e o plano inclinado é $0,4$. Se o sistema está em repouso, qual o valor da força de atrito entre M e o plano inclinado? Considere: aceleração da gravidade $g=10\\ m/s^2$, $sen(30°)=0,5$, $cos(30°)=0,87$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "mf-2007-2007.2/q03.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2007-2007.2-q4",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 4,
+    "statement": "Duas cargas fixas de $+1,0\\ \\mu C$ e $-4,0\\ \\mu C$ estão separadas por uma distância de $10\\ cm$. Onde podemos localizar uma terceira carga, livre, de modo que ela permaneça em repouso?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Um centímetro à esquerda de 1μC",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Dois centímetros à direita de 4μC",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Três centímetros à direita de 1μC",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Quatro centímetros à esquerda de 4μC",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "mf-2007-2007.2-q5",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 5,
+    "statement": "Um transformador reduz a tensão usual de $220\\ V$, da rede que temos em casa, para $110\\ V$, usados em equipamentos de informática. Se o enrolamento primário tem $200$ espiras, quantas espiras terá o enrolamento secundário?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "400",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2007-2007.2-q6",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 6,
+    "statement": "Um elétron, em um tubo de TV, está se movendo com velocidade $5\\times10^6\\ m/s$ em uma direção perpendicular a um campo magnético de intensidade $80\\ mT$. Qual o valor da força magnética a que este elétron está submetido? Dado: carga elementar, $e=1,6\\times10^{-19}\\ C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,6\\times10^{-14}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3,2\\times10^{-14}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4,8\\times10^{-14}\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6,4\\times10^{-14}\\ N$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2007-2007.2-q7",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 7,
+    "statement": "Qual o valor do coeficiente de dilatação linear do alumínio, $\\alpha=23,0\\times10^{-6}/°C$, expresso em graus Fahrenheit?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$12,7\\times10^{-6}$/°F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$23,0\\times10^{-6}$/°F",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$39,1\\times10^{-6}$/°F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$73,4\\times10^{-6}$/°F",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2007-2007.2-q8",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "Uma quantidade de calor de $5600\\ cal$ são fornecidos a $200\\ g$ de gelo no seu ponto de fusão. Se o calor de fusão do gelo é $80\\ cal/g$, quantos gramas permanecem como gelo, depois que todo calor é absorvido?",
+    "options": [
+      {
+        "label": "a",
+        "text": "200 g",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "130 g",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "80 g",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "70 g",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2007-2007.2-q9",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 9,
+    "statement": "Um corpo possui um peso de $50\\ N$ quando é pesado no ar. Seu peso passa a ser $25\\ N$ quando está totalmente imerso em água, cuja densidade é $1\\ g/cm^3$. Mergulhando em um líquido de densidade desconhecida, o objeto possui peso igual a zero. Qual a densidade deste líquido?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,0 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,0 g/cm³",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2007-2007.2-q10",
+    "examId": "mf-2007-2007.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 10,
+    "statement": "A imagem de um objeto extenso, colocado em frente a um espelho côncavo e distância focal $f=10\\ cm$, é duas vezes maior que o objeto, e está invertida. A que distância do espelho encontra-se o objeto?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
