@@ -12482,5 +12482,485 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2010-2010.1-q37",
+    "examId": "cg-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 37,
+    "statement": "A unidade de energia do Sistema Internacional de Unidades é o Joule (J). Para o consumo de energia de uma residência, o Joule é muito pequeno e usa-se o kW.h, que representa o consumo de um aparelho de potência 1 kW durante uma hora. Para os valores de energia medidos em ligações químicas, o Joule é muito grande e usa-se o eletronvolt, que é a energia adquirida por um elétron ao ser acelerado por uma diferença de potencial de um volt. Baseado nestas definições, qual a razão kW.h/eletronvolt? Dado: carga do elétron $e = -1,6 \\times 10^{-19}\\ C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,60 \\times 10^{25}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,25 \\times 10^{25}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3,60 \\times 10^{25}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4,44 \\times 10^{25}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2010-2010.1-q38",
+    "examId": "cg-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 38,
+    "statement": "Planetas que orbitam estrelas que não o Sol são chamados de exoplanetas. Até hoje cerca de 400 destes exoplanetas já foram descobertos e o seu número aumenta a cada ano. Suponha que um exoplaneta tenha raio duas vezes maior que o raio da Terra, mas que sua densidade média seja a mesma de nosso planeta. Que peso teria um astronauta de massa $70\\ kg$ na superfície deste planeta? Considere a aceleração da gravidade da Terra $g = 10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "350 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "700 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1400 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2800 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2010-2010.1-q39",
+    "examId": "cg-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 39,
+    "statement": "Durante os treinos para o Grande Prêmio da Hungria de Fórmula 1 de 2009, a mola do carro de Rubens Barrichello soltou-se e atingiu o piloto Felipe Massa. Para estimar a força do impacto vamos supor a seguinte situação: imediatamente antes do choque, a velocidade do carro de Massa e da mola (de $800\\ g$), em relação à pista, eram respectivamente $288\\ km/h$ e $0\\ km/h$. O choque durou $10\\ ms$, foi frontal e elástico. Imediatamente após o choque, a velocidade do carro de Massa e da mola, em relação à pista, eram ambas $288\\ km/h$. Todas as velocidades, diferentes de zero, têm o mesmo sentido. Qual a força do impacto da mola sobre o capacete de Massa?",
+    "options": [
+      {
+        "label": "a",
+        "text": "320 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "640 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1800 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6400 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.1-q40",
+    "examId": "cg-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 40,
+    "statement": "Um pêndulo simples de comprimento L tem período T. Um obstáculo é colocado de tal forma que, quando o pêndulo é solto da posição à direita (linha contínua), ele adquire na extremidade esquerda a configuração mostrada pela linha pontilhada da figura. Qual o período de oscilação deste novo sistema?",
+    "options": [
+      {
+        "label": "a",
+        "text": "T/4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "T/2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3T/4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "T",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "cg-2010-2010.1/q40.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2010-2010.1-q41",
+    "examId": "cg-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 41,
+    "statement": "Qual, das classificações abaixo, não pertence aos tipos de classificação dos materiais quanto à sua condutividade?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Isolantes",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Semicondutores",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Condutores",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Supercondutores",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.1-q42",
+    "examId": "cg-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 42,
+    "statement": "Um elétron penetra uma região onde coexistem um campo magnético, B, e um campo elétrico, E. O sentido do movimento do elétron é perpendicular e penetrando o plano da página desta prova. Se a força resultante sobre o elétron é zero, qual das configurações abaixo (A, B, C ou D) representa os sentidos dos campos elétrico e magnético?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Configuração A",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Configuração B",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Configuração C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Configuração D",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "cg-2010-2010.1/q42.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2010-2010.1-q44",
+    "examId": "cg-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 44,
+    "statement": "Uma lente convergente delgada forma imagem do Sol a uma distância de $10\\ cm$. Se um objeto for colocado a $30\\ cm$ desta lente, a que distância sua imagem será formada?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2010-2010.2-q37",
+    "examId": "cg-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "Qual das grandezas, listadas abaixo, não pertence ao grupo das sete grandezas fundamentais do Sistema Internacional de Unidades?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Comprimento",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Quantidade de Substância",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Carga Elétrica",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Intensidade Luminosa",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2010-2010.2-q38",
+    "examId": "cg-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 38,
+    "statement": "Qual das grandezas físicas abaixo é uma grandeza escalar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Deslocamento",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Força",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Pressão",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Aceleração",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2010-2010.2-q39",
+    "examId": "cg-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 39,
+    "statement": "Na natureza existem quatro forças fundamentais. A mais fraca delas é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Força Gravitacional",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Força Nuclear Fraca",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Força Eletromagnética",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Força Nuclear Forte",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2010-2010.2-q40",
+    "examId": "cg-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 40,
+    "statement": "Um helicóptero eleva, verticalmente, uma carga de $1000\\ kg$ até uma altura de $500\\ m$. Qual o módulo do trabalho realizado pelo helicóptero? Considere a aceleração da gravidade $g=10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$5\\times10^2\\ J$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5\\times10^3\\ J$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$5\\times10^5\\ J$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\times10^6\\ J$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.2-q41",
+    "examId": "cg-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 41,
+    "statement": "Por um fio condutor passa um fluxo de $10^{13}$ elétrons por segundo. Que corrente elétrica está passando pelo fio? Carga do elétron: $1,6\\times10^{-19}\\ C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,6 nA",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,6 $\\mu A$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,6 mA",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,6 A",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2010-2010.2-q42",
+    "examId": "cg-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "Qual o calor necessário para levar $0,50$ litro de água, inicialmente na temperatura de $30°C$, à temperatura de seu ponto de ebulição? Sejam: calor específico da água $c=1,0\\ cal/g.°C$, densidade da água $1,0\\ g/cm^3$, $1$ litro $= 1000\\ cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "35 cal",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "350 cal",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3500 cal",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "35000 cal",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.2-q43",
+    "examId": "cg-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 43,
+    "statement": "Sejam as seguintes correspondências entre as escalas Kelvin e Fahrenheit: $273\\ K = 32°F$ e $373\\ K = 212°F$. A que valor corresponde a temperatura de $323\\ K$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "82°F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "112°F",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "122°F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "172°F",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2010-2010.2-q44",
+    "examId": "cg-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 44,
+    "statement": "As cores que enxergamos estão relacionadas com que propriedade da luz?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Frequência",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Velocidade",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Amplitude",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Intensidade",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
