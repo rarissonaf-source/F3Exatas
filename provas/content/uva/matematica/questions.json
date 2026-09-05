@@ -11838,5 +11838,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2023-2024.1-q1",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 1,
+    "statement": "O senhor Darth é um empresário que vende peças de reposição para espaçonaves. Para um determinado item vendido na sua loja, ele observa que a função que descreve o número de peças vendidas (em milhares) em função do tempo (em meses) é dada por $q(t)=2t^2-3t+3$. Assinale a alternativa correta em relação às vendas deste produto.",
+    "options": [
+      {
+        "label": "a",
+        "text": "O número de unidades vendidas desta peça está aumentando constantemente desde os primeiros dias do primeiro mês.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Dentro do primeiro mês, a peça teve o menor volume de vendas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O número de unidades vendidas desta peça está diminuindo constantemente ao longo dos meses.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Esta peça tem uma demanda tão alta que, ao se completar o sexto mês, foram vendidas 60 mil peças.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2023-2024.1-q2",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 2,
+    "statement": "Em um quarteirão residencial, há 12 casas no total, sendo 6 casas de cada lado da rua. As casas de um lado são numeradas de 8 em 8, iniciando do número 1, ou seja, 1, 9, 17, ..., e as casas do outro lado são numeradas também de 8 em 8, mas iniciando no número 2, ou seja, 2, 10, 18, .... Um comitê deseja escolher três casas diferentes desse quarteirão para realizar visitas domiciliares. No entanto, eles querem garantir que não sejam visitadas casas com números consecutivos. Quantas maneiras diferentes o comitê pode escolher conjuntos de três casas que atendem a essa condição?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.360",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.912",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.688",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "960",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2023-2024.1-q3",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 3,
+    "statement": "Han está planejando uma viagem entre os planetas X e Y. Para fugir dos piratas do espaço, ele pretende parar em dois planetas intermediários: Alpha-2023 e Beta-2024, que distam entre si 1/3 da distância total a ser percorrida por Han. O planeta Alpha-2023 dista do planeta X, 1/5 da distância total da viagem. Sabendo-se que ao final da viagem Han terá percorrido um total de 7.800.000 km, qual a distância entre os planetas Beta-2023 e Y?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.600.000 km.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.640.000 km.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.220.000 km.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.520.000 km.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2023-2024.1-q4",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 4,
+    "statement": "Um número é dito racional quando pode ser escrito como uma razão entre dois números inteiros. Do contrário, o número é dito irracional. Sabendo que x e y são, respectivamente, racional e irracional, assinale a frase com incorreção.",
+    "options": [
+      {
+        "label": "a",
+        "text": "A soma x+y é um número irracional.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O produto x.y é um número racional.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A divisão x/y é um número irracional.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A soma $x^2+y^2$ pode ser um número racional.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2023-2024.1-q5",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 5,
+    "statement": "Uma fábrica tem 20 funcionários e 10 computadores. O gerente definiu que a partir de 1º de janeiro de 2024, cada funcionário irá desenvolver parte de suas atividades na fábrica em um, e somente um, dos 10 computadores disponíveis. Considerando essas informações, assinale a alternativa correta.",
+    "options": [
+      {
+        "label": "a",
+        "text": "A situação é inviável, pois 10 funcionários ficarão sem computadores disponíveis.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Cada computador será utilizado por 2 funcionários.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Dependendo da demanda de trabalho, seria possível a utilização de menos computadores.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Cada funcionário poderá utilizar 2 computadores.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2023-2024.1-q6",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 6,
+    "statement": "Roberto deseja alugar a sua casa de praia para turistas. Para definir uma forma padrão de cobrança, ele cobrará uma taxa de locação fixa (L) mais uma taxa (D) proporcional ao número de dias em que os turistas ficarão em sua casa. Qual a função que representa o valor do aluguel cobrado em função do número de dias?",
+    "options": [
+      {
+        "label": "a",
+        "text": "f(x) = Dx+L.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f(x) = (L+D)x.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "f(x) = Lx+D.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f(x) = DLx.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2023-2024.1-q7",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 7,
+    "statement": "O nível de ruído N medido em decibéis é relacionado ao nível de referência $N_0$ por meio da seguinte fórmula: $N=10\\cdot\\log_{10}(I/I_0)$, onde N é o nível de ruído medido em decibéis (dB), I é a intensidade do ruído atual e $I_0$ é a intensidade do nível de referência (a menor intensidade audível, que é cerca de $1\\times10^{-12}$ watts por metro quadrado). Perto de uma turbina de avião, a intensidade do ruído medida é de $10^{-1}$ watts por metro quadrado. Qual é o nível de ruído em dB?",
+    "options": [
+      {
+        "label": "a",
+        "text": "130 dB.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "120 dB.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "110 dB.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 dB.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2023-2024.1-q8",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "Um agricultor deseja implementar um sistema de irrigação em seu terreno retangular de dimensões 72m x 54m. Ele deseja instalar canos subterrâneos em linhas retas que vão de um lado ao lado oposto do terreno retangular, e que se cruzam no centro do terreno, de modo a garantir uma distribuição uniforme de água. Qual deve ser a maior distância entre o ponto de partida de duas linhas de irrigação vizinhas, de modo que tais distâncias sejam iguais para quaisquer duas linhas vizinhas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "36.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2023-2024.1-q9",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 9,
+    "statement": "Para manter o sigilo de uma mensagem, Ana usa uma forma básica de criptografia. Ela deseja enviar mensagens que são apenas números, compreendidos entre 100 e 199. Para tanto, em vez de enviar o número secreto, Ana envia um número primo p e o receptor da mensagem faz o produto p.q onde q é o número primo seguinte a p. Sabendo que Ana enviou um número primo p de dois dígitos, a mensagem decodificada pelo receptor é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "132.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "143.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "187.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "195.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2023-2024.1-q10",
+    "examId": "mf-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 10,
+    "statement": "Para preparar um bolo, dentre outros ingredientes, são necessários x gramas de chocolate e y gramas de manteiga. Percebe-se que ao dobrar a quantidade de chocolate é necessário reduzir a 1/3 a quantidade de manteiga. Dessa forma, ao quadruplicar a quantidade de chocolate, a quantidade de manteiga é reduzida a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "y/5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "y/6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "y/9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "y/12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
