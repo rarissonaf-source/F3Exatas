@@ -10558,5 +10558,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2020.1-q1",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 1,
+    "statement": "Uma empresa fabrica camisas, calções e meias. Os itens produzidos são vendidos em suas próprias lojas, localizadas em diferentes estados do Brasil (com uma tabela de preços por loja). A empresa realizará um dia de descontos diferenciados, com 10% no valor da camisa, 15% no valor do calção e 20% no valor da meia. O funcionário que cuida das finanças da empresa usará produto de matrizes para obter os valores de venda que serão praticados neste dia. Considerando que ele simplesmente transforma o quadro de preços em uma matriz A de ordem 3x3, o quadro que representa a matriz B tal que o produto A.B retorna os valores atualizados (já com os descontos) é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "matriz diagonal 3x3 com 0,10; 0,15 e 0,20 na diagonal principal e zeros nas demais posições.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "matriz 3x3 onde cada linha é (0,10; 0,15; 0,2).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "matriz coluna 3x1 com 0,10; 0,15 e 0,20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "matriz linha 1x3 com 0,10; 0,15 e 0,20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2020.1-q2",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 2,
+    "statement": "Os automóveis possuem um sistema de arrefecimento formado por um recipiente com 2 litros de capacidade e uma espécie de mangueira que leva a diferentes partes do motor um líquido formado por água desmineralizada e um fluido próprio para esta finalidade. Um mecânico costuma abastecer este recipiente com 3/5 de água desmineralizada e o restante com o tal fluido. O litro da água desmineralizada custa 4 reais, enquanto o litro do fluido custa 15 reais. Para este e outros serviços realizados em sua oficina, o mecânico cobra pela sua mão de obra 50\\% do valor gasto com material. Para um carro que está com o recipiente do líquido de refrigeração totalmente vazio, quanto o seu dono terá que desembolsar para que este mecânico abasteça o recipiente com sua capacidade máxima?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 8,40.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 12,60.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 16,80.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 25,20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2019-2020.1-q3",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 3,
+    "statement": "Ao saber de sua aprovação no vestibular, os amigos de Eleotério \\\"rasparam\\\" sua cabeça, deixando-a totalmente lisa. Eleotério decidiu não cortar mais o cabelo até concluir o seu curso superior. Ele soube que um fio de cabelo cresce 12cm por ano e que a cada centímetro quadrado nascem 600 fios. Além disso, a área do couro cabeludo é estimada em 240 cm². Depois de 4 anos, Eleotério concluiu o seu curso e foi, finalmente, cortar seu cabelo. Enquanto estava sentado na cadeira da barbearia, pensou: \\\"se eu quisesse cortar todos os fios de modo a ficar novamente 'careca' e esticasse cada fio cortado, um após o outro, formando uma única grande linha com meus cabelos, isso daria um comprimento de aproximadamente..\\\":",
+    "options": [
+      {
+        "label": "a",
+        "text": "17,2km.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "28,8km.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "57,6km.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "69,1km.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2019-2020.1-q4",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "Uma montadora de veículos estuda adotar uma logomarca em forma de leque com quatro \\\"lâminas\\\" triangulares dispostas em um retângulo de 18m de largura por 10m de altura, sendo que a parte mais escura ficará em alto relevo. As linhas tracejadas apenas indicam o limite da logomarca. O material usado para reproduzir a parte em alto relevo tem um custo de aplicação de R\\$300,00 por metro quadrado. Qual o custo total para produção das partes em alto relevo da logomarca na fachada?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 12.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 15.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 27.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 54.000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2020.1-q5",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 5,
+    "statement": "Um jovem propôs um modelo para planificação do globo terrestre. Ele propõe adotar o polo Norte como centro de um disco de raio igual à distância geodésica (isto é, a distância mínima por sobre o globo) entre os polos Norte e Sul. Tudo que estiver na borda deste disco representaria o polo Sul. Sendo R o raio do globo (esfera), então no modelo plano a linha do Equador teria que comprimento?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi^2 R$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\pi R$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi R$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi R^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2020.1-q6",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 6,
+    "statement": "Em uma pequena cidade foi lançada uma loteria que sorteia semanalmente 4 números entre 01 e 40. A curiosidade fica pelo fato de que o sorteio é feito por etapas: primeiro é sorteado um número entre 01 e 10, depois um número entre 11 e 20, depois um número entre 21 e 30 e, por fim, um número entre 31 e 40. Qual a probabilidade de que dentre os números sorteados apareçam os algarismos 5, 6, 7 e 8?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,00015%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,00094%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,04%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,24%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2019-2020.1-q7",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 7,
+    "statement": "Depois de receber uma indenização, Samilene quer aplicar seu dinheiro. Ela tem três opções: (i) Aplicação A, que rende 0,5% ao mês, livre de impostos. (ii) Aplicação B, que rende 2% ao mês, mas com imposto de 20% sobre os rendimentos ao final do período de aplicação. (iii) Aplicação C, que rende 3% ao mês, mas com imposto de 5% sobre o montante ao final do período de aplicação. O rendimento é calculado com base no montante do mês anterior. Se o dinheiro for aplicado por 3 meses, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Samilene terá melhor retorno financeiro pela aplicação A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Samilene terá melhor retorno financeiro pela aplicação B.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Samilene terá melhor retorno financeiro pela aplicação C.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Só conhecendo o valor da indenização é possível escolher a melhor aplicação.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2020.1-q8",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 8,
+    "statement": "Na preparação da refeição de cavalos, um criador usa as rações A e B. Para cada cavalo, a porção deve ser de 3,2kg. O quilograma da ração A custa 15 reais, enquanto o quilograma da ração B custa 22 reais. Nos primeiros 3 dias o criador usou sempre a mesma proporção de cada ração para preparar a mistura. No entanto, devido ao elevado custo, ele resolveu diminuir 0,5kg da ração B e acrescentar 0,5kg da ração A, mantendo a porção da refeição com 3,2kg e agora com um custo de R\\$52,90. Antes da mudança, as quantidades das rações A e B eram, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,5kg e 0,7kg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,0kg e 1,2kg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5kg e 1,7kg.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,2kg e 2,0kg.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2020.1-q9",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 9,
+    "statement": "A venda de ingressos para um show de rock se inicia às 8h do dia 13 de janeiro de 2020. A organização espera que a venda siga o ritmo ditado pela função $V(t)=g(e^{t/2000}-1)$, onde g representa a quantidade de ingressos gratuitos distribuídos aos convidados especiais e t é dado em minutos. A capacidade do estádio que abriga o show é de 30 mil pessoas e antes do início da venda foram distribuídas 500 cortesias. Quando será atingido o limite de ingressos para este show? Use ln 60 = 4,1.",
+    "options": [
+      {
+        "label": "a",
+        "text": "18 de janeiro de 2020.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "19 de janeiro de 2020.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22 de maio de 2020.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18 de novembro de 2020.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2020.1-q10",
+    "examId": "mf-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "Na figura, os ângulos ABD e DBC são iguais a 30°. Deseja-se dividir o triângulo BCD em dois triângulos menores, fazendo-se um corte em linha reta ligando os pontos D e E. Qual deve ser o ângulo CDE para que o triângulo BDE seja isósceles?",
+    "options": [
+      {
+        "label": "a",
+        "text": "30°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2020-2020.2-q1",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 1,
+    "statement": "Para uma viagem de Fortaleza a Canindé, um grupo de devotos de São Francisco alugará um ônibus do sr. Valdir. Cada passageiro deve pagar 33 reais. Caso não seja completada a capacidade de 45 assentos do ônibus, cada um dos passageiros (que efetivamente viajarão) pagará 3 reais por cada lugar não ocupado. Qual o valor máximo que o sr. Valdir pode receber por esta viagem?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 2.352,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1.485,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 975,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 924,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2020-2020.2-q2",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 2,
+    "statement": "Em uma cidade muito distante de nós, 10 candidatos concorrem a 5 vagas na câmara de vereadores. Sendo 8.184 eleitores, observou-se na apuração dos votos que o primeiro colocado obteve o dobro de votos do segundo. O segundo colocado obteve o dobro de votos do terceiro. O terceiro obteve o dobro de votos do quarto e assim por diante. O vereador menos votado obteve quantos votos?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "818.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2020-2020.2-q3",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 3,
+    "statement": "Epaminondas, Marliete e Deoclécio têm perfis no Facebook. Com relação à quantidade de amigos nesta rede social, eles têm 1835, 1121 e 830 amigos, respectivamente. Considerando a quantidade de amigos em comum, Epaminondas e Marliete têm 123, Marliete e Deoclécio têm 87, enquanto Epaminondas e Deoclécio têm 35. São 19 os amigos comuns aos três jovens. Quantos amigos de Marliete não são amigos dos outros dois jovens nesta rede social?",
+    "options": [
+      {
+        "label": "a",
+        "text": "892.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "911.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "930.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1102.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2020-2020.2-q4",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 4,
+    "statement": "Iglus são casas típicas de esquimós, povos indígenas que vivem no extremo norte do Planeta Terra. A moradia é uma semiesfera à qual foi adicionada uma pequena estrutura que serve de entrada. Joel, que mora em uma cidade da região Norte do Ceará, resolveu construir uma moradia nos moldes de um Iglu, para atrair o turismo. Dentro da estrutura, Joel deseja instalar uma lâmpada no ponto mais alto do teto – que está a 5 metros do chão – e mais uma lâmpada fixada à estrutura do iglu, a 3m de altura em relação ao solo. Desta segunda lâmpada é necessário ligar um fio (que ficará fixado na parede esférica do Iglu) até a lâmpada do ponto mais alto. Considerando-se a medida de arcos em radianos, qual o comprimento mínimo deste fio?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.arcsen(0,8).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.arcsen(0,6).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,087.arcsen(0,8).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,087.arcsen(0,6).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2020-2020.2-q5",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 5,
+    "statement": "Ismael, Ronaldo e Elias são vizinhos e estudam na mesma turma da escola. Na sala deles, as 10 cadeiras estão dispostas em círculo. Se os três colegas querem sentar-se em cadeiras contíguas, de quantas formas eles poderão ocupar os assentos da sala com Ronaldo no lugar do meio?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2020-2020.2-q6",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 6,
+    "statement": "Suzete associa matrizes a números reais da seguinte forma: para uma matriz quadrada ela escolhe um elemento em cada linha, de modo que todos os elementos escolhidos estejam em colunas diferentes. Para cada uma das possibilidades de escolha, ela faz o produto dos elementos. Ao final, Suzete soma todos os produtos realizados, encontrando um número real, que ela gosta de chamar de NumZete. Qual o NumZete da matriz $\\begin{pmatrix}3&2&-1\\\\1&-3&2\\\\2&3&1\\end{pmatrix}$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "-30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "26.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2020-2020.2-q7",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 7,
+    "statement": "Uma lâmpada fluorescente (A) é responsável por R$1,40 no valor da conta mensal de energia elétrica quando ligada, em média, 4 horas por dia. Já uma lâmpada LED (B) ligada por igual tempo, custa R$0,80 na conta mensal. Para que cada uma delas represente um custo de R$4,20 na conta mensal de energia, as lâmpadas A e B devem ficar ligadas a cada dia (em média), respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3h e 5h15min.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4h e 4h.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12h e 12h.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12h e 21h.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2020-2020.2-q8",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Para a estimativa da idade de partes de alguns organismos que já morreram (fósseis), é possível usar a seguinte fórmula para aproximar a quantidade de anos (T): $T=-7220\\cdot\\log(Nf/N0)$, onde Nf/N0 é o percentual de carbono-14 presente no fóssil. Um cientista que encontrou um fóssil e observou que havia 11\\% de carbono-14 cometeu um erro ao representar esse percentual por 0,011 em vez de 0,11. Por conta de tal equívoco, o que aconteceu?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A idade atribuída ao fóssil foi 10 vezes menor do que a real.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A idade atribuída ao fóssil foi 10 vezes maior do que a real.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A idade atribuída ao fóssil foi 7220 anos a mais do que a idade real.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A idade atribuída ao fóssil foi 7220 anos a menos do que a idade real.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2020-2020.2-q9",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "Segundo a Federação Internacional de Futebol (FIFA), a bola de futebol de campo deve ter circunferência máxima entre 68,5 cm e 69,5cm. Assim, a variação do raio é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Inferior a 2mm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Entre 2mm e 3mm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Entre 3mm e 4mm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Superior a 4mm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2020-2020.2-q10",
+    "examId": "mf-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "Em um caixote em forma de paralelepípedo, as dimensões internas são 48cm de comprimento, 16cm de altura e 24cm de largura. Nele são armazenadas 36 latas de azeitona, cujas dimensões são 4 cm de raio da base e 8cm de altura. As latas são dispostas em duas camadas, cada uma delas com 6 filas de 3 unidades. Com relação ao espaço vazio nessa disposição das embalagens, é correto afirmar (considere $\\pi=3,14$):",
+    "options": [
+      {
+        "label": "a",
+        "text": "Não há espaço vazio entre as latas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Há espaço vazio entre latas, inferior ao volume de uma das latas de azeitona.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Há espaço vazio entre latas, correspondente ao volume de quase 10 latas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Há espaço vazio entre latas, correspondente ao volume de quase 28 latas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
