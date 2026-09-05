@@ -19618,5 +19618,1285 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q1",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Dois automóveis partem de Fortaleza com destino a Recife distante $800\\ km$, no mesmo instante. Um deles, um carro nacional, viaja com a velocidade escalar média de $100\\ km/h$, e o outro, um carro importado, viaja com a velocidade escalar média de $50\\ mi/h$. Considerando $1\\ mi = 1600\\ m$ escolha a opção verdadeira.",
+    "options": [
+      {
+        "label": "a",
+        "text": "o automóvel nacional chega em Recife duas horas antes que o importado.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o automóvel importado chega em Recife duas horas antes que o nacional.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o automóvel nacional chega em Recife oito horas antes que o importado.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o automóvel importado chega em Recife oito horas antes que o nacional.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q2",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Um ônibus parte de Sobral com destino a Fortaleza, seguindo pela BR 222, com velocidade constante de $70\\ km/h$. No mesmo instante um automóvel parte de Fortaleza com destino a Sobral pela mesma rodovia com velocidade constante de $80\\ km/h$. Considerando a saída de Fortaleza como o km 0 e Sobral como o km 225, em que ponto da estrada (em km) eles cruzarão?",
+    "options": [
+      {
+        "label": "a",
+        "text": "No km 70",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "No km 80",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "No km 105",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "No km 120",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.1-q3",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 3,
+    "statement": "Um objeto é solto do alto de uma ponte de $45\\ m$ de altura. Um barco, que navega no sentido da correnteza, está a $12\\ m$ da ponte no instante em que o objeto foi solto. Supondo que a correnteza tem velocidade constante igual a $2\\ m/s$, qual deve ser a velocidade do barco, em relação ao rio, para que o objeto caia dentro dele? Considere a aceleração da gravidade como sendo $10\\ m/s^2$ e despreze a resistência do ar.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q4",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 4,
+    "statement": "Um estudante empurra um livro de massa $0,3\\ kg$ contra uma parede exercendo sobre ele uma força de $20\\ N$, conforme indicado na figura. Se o coeficiente de atrito estático entre o livro e a parede é $0,4$, qual será o valor da força de atrito entre o livro e a parede? Considere a aceleração da gravidade como sendo $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "20 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q5",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 5,
+    "statement": "Um satélite de massa $200\\ kg$ encontra-se em uma órbita geo-estacionária circular ao redor da terra. Qual o valor aproximado da força da gravidade atuando sobre ele? Nesta órbita leva $24\\ h$ para completar uma volta ao redor da terra e assim ele fica sempre sobre o mesmo ponto da superfície do planeta. Considere a altitude da órbita como sendo $36.000\\ km$ e o raio da Terra $6.400\\ km$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "500 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2000 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1000 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q6",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 6,
+    "statement": "Uma baladeira (estilingue) é feita com uma tira de borracha cuja constante elástica tem valor $100\\ N/m$. Se um garoto estica a borracha $20\\ cm$ e lança uma pedra de massa $20\\ g$ diretamente na vertical, qual a altura máxima, em relação à mão do garoto, atingida por esta pedra? Considere a altura medida a partir da mão que segurava a pedra, a aceleração da gravidade como sendo $10\\ m/s^2$ e despreze o atrito com o ar.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q7",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 7,
+    "statement": "Descobriu-se que uma estrela próxima a terra possui planetas girando ao seu redor. Dos dados astronômicos foi possível determinar que um dos planetas gira em uma órbita localizada a $200$ milhões de quilômetros desta estrela e que seu período em torno da mesma é de $\\sqrt{3}$ vezes o de um ano terrestre. Se um outro planeta gira em torno desta estrela com um período de $9$ anos terrestres, qual é o raio da órbita deste planeta ao redor da estrela?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$6\\times10^9$ km",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$6\\times10^8$ km",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6\\times10^7$ km",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6\\times10^6$ km",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q8",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "Qual a temperatura, na escala Fahrenheit em que esta escala e a escala Kelvin possuem o mesmo valor numérico? Considere $0°C = 32°F = 273K$ e $100°C = 212°F = 373K$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "-40,00°F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "225,50°F",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2297,35°F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "574,25°F",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.1-q9",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 9,
+    "statement": "O melhor vácuo obtido em laboratório é da ordem de $10^{-13}\\ Pa$. Na temperatura de $27°C$, qual o número médio de moléculas por centímetro cúbico em tal vácuo? Considere o número de avogadro igual a $6\\times10^{23}\\ mol^{-1}$ e a constante universal dos gases igual a $8,3\\ J/mol.K$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "24",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.1-q10",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "Qual o valor aproximado da quantidade de calor necessária para derreter completamente $3\\ kg$ de cobre puro inicialmente na temperatura de $30°C$. Sejam dados: Ponto de fusão do cobre $1356\\ K$, calor específico do cobre $386\\ J/kg.K$, calor latente de fusão do cobre $207\\ kJ/kg$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "598 kJ",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1219 kJ",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1840 kJ",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "621 kJ",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q11",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "Que massa de vapor d'água a $100°C$ deve ser misturado a $150\\ g$ de gelo a $0°C$ em uma garrafa térmica de modo a produzir água a $50°C$? Considere: Calor específico da água igual a $1\\ cal/g.°C$, calor latente de fusão da água igual a $80\\ cal/g$ e calor latente de vaporização da água igual a $539\\ cal/g$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "33,1 g",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "150 g",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22,3 g",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 g",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q12",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 12,
+    "statement": "Uma carga elétrica pontual de valor $+4\\ \\mu C$ está fixa em uma determinada posição sobre uma superfície horizontal. Um corpo B de massa $20\\ g$ e a carga elétrica $+3\\ \\mu C$ é colocado a uma distância de $30\\ cm$ de A e em seguida é solto. Qual a velocidade final obtida pelo corpo B? Considere que não há forças de resistência ao movimento do corpo B e seja $K_0 = 9\\times10^9\\ Nm^2/C^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "600 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6000 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q13",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 13,
+    "statement": "Um elétron com velocidade v penetra numa região onde existe um campo magnético B perpendicular ao plano da página, conforme a figura. Qual das opções representa o caminho percorrido pelo elétron?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Circular no sentido horário.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Circular no sentido anti-horário.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Na mesma direção e sentido da velocidade.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Na mesma direção e sentido do campo magnético.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q14",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 14,
+    "statement": "Uma árvore está localizada às margens de um lago e suas folhas se debruçam sobre o mesmo. De uma das folhas, dez pingos d'água caem sobre a superfície do lago em um minuto em intervalos de tempo iguais. As ondulações produzidas pelos pingos de água chegam a margem oposta, distante $30\\ m$, dez segundos depois. Qual a distância entre duas ondulações consecutivas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.1-q15",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 15,
+    "statement": "Um submarino sofreu um acidente e encontra-se $100\\ m$ abaixo da superfície do mar. Que força os marinheiros terão que fazer sobre uma escotilha de $50\\ cm\\ x\\ 50\\ cm$ para poder empurrá-la para fora, em uma tentativa de sair do submarino? Considere a densidade da água do mar como sendo $1\\ g/cm^3$, a pressão atmosférica igual a $10^5\\ Pa$ e a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,75\\times10^3$ N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,75\\times10^4$ N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,75\\times10^5$ N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2,75\\times10^6$ N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q16",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 16,
+    "statement": "Qual a densidade da água do mar morto se uma pessoa boiando no mesmo permanece com $1/3$ do volume de seu corpo fora da água? Considere a densidade do corpo humano igual a $1\\ g/cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,5 g/cm³",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q17",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 17,
+    "statement": "Quantas vezes um som de $40\\ dB$ é mais intenso que um som de $20\\ dB$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.1-q18",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 18,
+    "statement": "Uma pessoa aproxima-se de um espelho plano com a velocidade de $1\\ m/s$. Qual a razão entre a velocidade da imagem da pessoa em relação ao espelho e a velocidade da imagem em relação a própria pessoa?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q19",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 19,
+    "statement": "A reflexão total explica como um feixe de luz pode ser conduzido no interior de uma fibra ótica, hoje largamente em uso nas comunicações. A figura mostra uma seção transversal de uma fibra ótica apresentando dois meios cujos índices de refração são $n_1$ e $n_2$. Para que o feixe de luz seja conduzido através desta fibra, podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$n_2$ é maior que $n_1$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$n_1$ é maior que $n_2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$n_2$ é igual a $n_1$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não importa qual índice de refração é maior",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q20",
+    "examId": "cg-2003-2003.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 20,
+    "statement": "A figura representa uma barra colocada dentro de um copo com água. A mesma parece quebrada. Qual o fenômeno ótico que explica este fenômeno?",
+    "options": [
+      {
+        "label": "a",
+        "text": "reflexão",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "refração",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "difração",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "interferência",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.2-q1",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Os fabricantes de uma certa marca de tintas norte americana garantem, em seu rótulo, que ela é capaz de pintar $462\\ ft^2/gal$ (pés quadrados por galão). Se essa marca fosse vendida no Brasil, qual o valor aproximado, em $m^2/L$ (metros quadrados por litro), que deveria ser expresso no rótulo? Considere: $1\\ ft^2 = 9,3\\times10^{-2}\\ m^2$, $1\\ gal = 3,8\\ L$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "13,3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "13,1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11,3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11,1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.2-q2",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Dois trens, do metrô de São Paulo, trafegam em trilhos paralelos e em sentidos contrários. Cada um tem velocidade constante de $72\\ km/h$. Se eles levam $10\\ s$ para passar um pelo outro, qual o comprimento dos trens? Suponha que eles sejam de mesmo tamanho.",
+    "options": [
+      {
+        "label": "a",
+        "text": "200 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "400 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "600 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "800 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q3",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 3,
+    "statement": "Para testar a qualidade de uma bola de tênis, você a solta de uma altura de $1,80\\ m$. Ela quica e volta até uma altura de $1,25\\ m$. Qual o módulo da aceleração média, durante o contato com o chão, se o tempo de contato foi de $11\\ ms$ (milissegundos)? Considere a aceleração da gravidade, g, igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$0,1\\times10^3\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1\\times10^3\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10\\times10^3\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$100\\times10^3\\ m/s^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.2-q4",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 4,
+    "statement": "Uma roda-gigante tem $12\\ m$ de raio e, em cada minuto, completa cinco voltas em torno de seu eixo horizontal. Qual o valor da aceleração centrípeta a que está submetido um passageiro desta roda-gigante?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi^2/1\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi^2/2\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi^2/3\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi^2/4\\ m/s^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.2-q5",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 5,
+    "statement": "Uma pessoa de $80\\ kg$ salta de pára-quedas e, quando este está aberto, experimenta uma aceleração de $2,5\\ m/s^2$ dirigida para baixo. Qual a força, para cima, exercida pelo ar sobre o pára-quedas? Considere a aceleração da gravidade, g, igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "250 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "800 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "600 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.2-q6",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 6,
+    "statement": "Uma bala de massa $12\\ g$ é disparada de uma arma com velocidade de $200\\ m/s$, atingindo e ficando incrustada em um bloco de massa $138\\ g$. Este bloco está preso a uma mola de constante elástica $1,5\\times10^3\\ N/m$. Supondo que não há atrito entre o bloco e a superfície sobre a qual ele está em repouso, qual será a deformação máxima da mola?",
+    "options": [
+      {
+        "label": "a",
+        "text": "40 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "80 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2003-2003.2-q7",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 7,
+    "statement": "A que altura, medida a partir da superfície da terra, o valor da aceleração da gravidade será igual à um quarto de seu valor na superfície? Considere o raio da terra, $R_T$, como sendo $6,4\\times10^3\\ km$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$6,4\\times10^3$ km",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$12,8\\times10^3$ km",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3,2\\times10^3$ km",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$9,6\\times10^3$ km",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q8",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 8,
+    "statement": "Uma bola de sinuca branca de massa m e velocidade v, choca-se frontalmente e, de forma perfeitamente elástica com uma bola de sinuca vermelha de massa 2m e que estava inicialmente parada. O valor da energia cinética da bola vermelha após a colisão será dada por:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/2 mv²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mv²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2 mv²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/4 mv²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2003-2003.2-q9",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 9,
+    "statement": "Um objeto pendurado em uma balança de molas tem peso $30\\ N$ no ar, $20\\ N$ quando totalmente imerso na água e $24\\ N$ quando totalmente imerso em um líquido de densidade desconhecida. Qual a densidade do líquido desconhecido? Considere a aceleração da gravidade, g, igual $10\\ m/s^2$ e a densidade da água, $d_a$, igual a $1\\ g/cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,6 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,4 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,2 g/cm³",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.2-q10",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 10,
+    "statement": "Uma janela de um escritório de um edifício tem dimensões $3\\ m\\ x\\ 2\\ m$. Como resultado de uma ventania, a pressão do ar do lado de fora cai para $0,95\\ atm$, mas a pressão do lado de dentro permanece em $1,00\\ atm$. Qual o valor da força dirigida de dentro para fora, sobre a janela? Considere $1\\ atm = 10^5\\ N/m^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10000 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20000 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30000 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40000 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.2-q11",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 11,
+    "statement": "Ultra-som à frequência de $1,5\\ MHz$ é usado para examinar tumores no organismo. Se a velocidade do som no tecido é de $1500\\ m/s$ qual o comprimento de onda deste ultra-som?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 mm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,1 mm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,1 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q12",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 12,
+    "statement": "Uma caneca de alumínio de $100\\ cm^3$ está cheia de glicerina a $30°C$. Qual o volume de glicerina que será derramado se a temperatura do sistema caneca/glicerina subir para $100°C$? Considere o coeficiente de dilatação volumétrica do alumínio igual a $70\\times10^{-6}/°C$ e o da glicerina $5\\times10^{-4}/°C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,01 cm³",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,50 cm³",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,99 cm³",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,49 cm³",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q13",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 13,
+    "statement": "Na descarga de um relâmpago típico, uma corrente de $2,4\\times10^4\\ A$ flui durante $20\\ \\mu s$. Quantos elétrons são transferidos neste evento? Seja a carga elementar igual a $1,6\\times10^{-19}\\ C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3,0\\times10^{18}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1,6\\times10^{18}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,4\\times10^{18}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2,0\\times10^{18}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q14",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 14,
+    "statement": "Duas partículas, igualmente carregadas, mantidas a uma distância de $30\\ cm$ uma da outra são largadas a partir do repouso. O módulo da aceleração inicial da primeira é $9\\ m/s^2$ e sua massa é $9\\times10^{-7}\\ kg$. Considerando que não há atrito durante o movimento, calcule o valor da carga que cada partícula contém. Seja $K_0 = 9\\times10^9\\ Nm^2/C^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3,0\\times10^{-9}$ C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3,0\\times10^{-18}$ C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9,0\\times10^{-18}$ C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$9,0\\times10^{-9}$ C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.2-q15",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "Em um chuveiro elétrico estão escritas as seguintes especificações: $2200\\ W$, $220\\ V$. Funcionando segundo as especificações, qual será a corrente que passa pelo resistor do chuveiro elétrico?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 A",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10 A",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 A",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "22 A",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.2-q16",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 16,
+    "statement": "Um objeto extenso de altura $4\\ cm$ está localizado sobre o centro de curvatura de um espelho côncavo. Qual o valor da ampliação da imagem deste objeto?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.2-q17",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 17,
+    "statement": "A velocidade da luz vermelha no vidro é $2\\times10^8\\ m/s$ e a velocidade da luz violeta no vidro é $1,5\\times10^8\\ m/s$. Qual o valor da razão entre o índice de refração da luz vermelha e o índice de refração da luz violeta no vidro?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4/3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.2-q18",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 18,
+    "statement": "Uma pessoa se afasta de um espelho plano em uma direção perpendicular ao plano do mesmo. A distância entre essa pessoa e sua imagem, em função do tempo, é dada no gráfico da figura. Qual a velocidade de afastamento da pessoa em relação ao espelho?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q19",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 19,
+    "statement": "O gráfico mostrado na figura abaixo, mostra a posição de uma partícula que partiu do repouso no tempo t=0. Qual o valor da aceleração desta partícula? A linha sólida que liga os pontos é mostrada apenas para efeito de visualização da curva.",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 m/s²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.2-q20",
+    "examId": "cg-2003-2003.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 20,
+    "statement": "O gráfico mostrado na figura abaixo representa a corrente medida nos terminais de um resistor em função da tensão aplicada ao mesmo. Qual seria o valor da corrente medida se a tensão aplicada fosse de 220 V? A linha sólida que liga os pontos é mostrada apenas para efeito de visualização da curva.",
+    "options": [
+      {
+        "label": "a",
+        "text": "220 A",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "110 mA",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "110 A",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "220 mA",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

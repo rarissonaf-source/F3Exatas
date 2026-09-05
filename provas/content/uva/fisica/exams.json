@@ -526,5 +526,21 @@
     "edition": "2004.2",
     "examType": "geral",
     "sourceFile": "Vestibular Comentado UVA 2004.2.pdf"
+  },
+  {
+    "id": "cg-2003-2003.1",
+    "institution": "UVA",
+    "year": 2003,
+    "edition": "2003.1",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2003.1.pdf"
+  },
+  {
+    "id": "cg-2003-2003.2",
+    "institution": "UVA",
+    "year": 2003,
+    "edition": "2003.2",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2003.2.pdf"
   }
 ]
