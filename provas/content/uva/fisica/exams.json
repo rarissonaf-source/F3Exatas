@@ -486,5 +486,21 @@
     "edition": "2007.2",
     "examType": "especifico",
     "sourceFile": "Vestibular Comentado UVA 2007.2.pdf"
+  },
+  {
+    "id": "cg-2006-2006.1",
+    "institution": "UVA",
+    "year": 2006,
+    "edition": "2006.1",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2006.1.pdf"
+  },
+  {
+    "id": "cg-2006-2006.2",
+    "institution": "UVA",
+    "year": 2006,
+    "edition": "2006.2",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2006.2.pdf"
   }
 ]

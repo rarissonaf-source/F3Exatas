@@ -16418,5 +16418,1285 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.1-q1",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Um automóvel partiu de Sobral às 10:00 h com destino a Camocim. O motorista conseguiu manter uma velocidade escalar média de $90\\ km/h$ durante o percurso. Um ônibus, que também partiu de Sobral às 10:00 h chegou em Camocim às 12:05 h. Se a distância entre as duas cidades é de $120\\ km$, qual a diferença de tempo entre a chegada do automóvel e a chegada do ônibus em Camocim?",
+    "options": [
+      {
+        "label": "a",
+        "text": "45 min",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "55 min",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "65 min",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "75 min",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q2",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Que força deve ser aplicada a uma massa de $0,001\\ kg$ para que ela adquira uma aceleração de $0,01\\ m/s^2$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 dina",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 Newton",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 kgf",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 libra-força",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q3",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 3,
+    "statement": "Qual o período do ponteiro dos segundos de um relógio analógico?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 segundo",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 minuto",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 hora",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 dia",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q4",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 4,
+    "statement": "Um pêndulo, de comprimento igual a $1m$, tem um período T quando colocado sobre a superfície da terra, onde a aceleração da gravidade é aproximadamente $10\\ m/s^2$. Qual deve ser o comprimento de um pêndulo, colocado sobre a superfície da Lua, onde a aceleração da gravidade é aproximadamente $2\\ m/s^2$, para que o seu período também seja igual a T?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,2 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q5",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 5,
+    "statement": "Uma bomba é usada para retirar água de um poço que está a $15\\ m$ de profundidade e encher uma caixa d'água de $1800$ litros localizada a $5\\ m$ de altitude. Se a bomba realiza o trabalho em uma hora qual a sua potência? Seja a densidade da água igual a $1\\ g/cm^3$, $1$ litro igual a $10^3\\ cm^3$ e considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "50 W",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100 W",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200 W",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "500 W",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q6",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 6,
+    "statement": "Um painel fotovoltaico de células solares (dispositivo que converte a energia da luz do Sol em energia elétrica) possui área útil de $0,4\\ m^2$ e eficiência de conversão de $15\\%$. Se a densidade média da luz do Sol for de $100\\ W/m^2$, quanta energia o painel pode fornecer em um tempo de $9$ horas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "60 Wh",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "150 Wh",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "400 Wh",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "540 Wh",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q7",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 7,
+    "statement": "Em um exercício de tiro, o artilheiro deve acertar um alvo localizado a $2km$ de distância. Se a velocidade do projétil é $200\\ m/s$, qual o ângulo que o canhão deve ser levantado em relação à horizontal? Considere que o terreno é plano entre o artilheiro e o alvo, que a aceleração da gravidade é igual a $10\\ m/s^2$ e despreze a resistência do ar.",
+    "options": [
+      {
+        "label": "a",
+        "text": "15°",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30°",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45°",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60°",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q8",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 8,
+    "statement": "Em um passeio pelo Parque Nacional da Ibiapaba, você pára no alto de uma cachoeira. Curioso sobre a altura da mesma, você solta uma pedra e observa que ela atinge o solo, quatro segundos depois. Qual a altura da cachoeira? Considere a aceleração da gravidade igual a $10\\ m/s^2$ e despreze a resistência do ar.",
+    "options": [
+      {
+        "label": "a",
+        "text": "40 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "64 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "80 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "160 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.1-q9",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 9,
+    "statement": "Ao colocar cervejas no congelador devemos ficar atentos para que as mesmas não congelem. Se o congelamento ocorrer, as garrafas podem se quebrar. Isto ocorre porque:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a densidade da cerveja aumenta",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a densidade da cerveja diminui",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a massa da cerveja aumenta",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a massa da cerveja diminui",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q10",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "Em uma transformação de um gás ideal, sua pressão inicial é duplicada e seu volume inicial é reduzido à metade. Podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A temperatura do gás duplicará",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A temperatura do gás permanecerá constante",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A temperatura do gás será reduzida à metade",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A temperatura do gás irá variar de um valor desconhecido",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q11",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "A transferência de calor do Sol para a Terra é feita por meio de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Condução",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Radiação",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Convecção",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Absorção",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q12",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "Algumas vezes, é possível ouvir o som emitido por uma emissora de TV através de um rádio FM. Isto ocorre porque:",
+    "options": [
+      {
+        "label": "a",
+        "text": "As amplitudes das ondas de TV são próximas das amplitudes das ondas de rádio FM.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "As velocidades das ondas de TV são próximas das velocidades das ondas de rádio FM.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "As intensidades das ondas de TV são próximas das intensidades das ondas de rádio FM.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "As frequências das ondas de TV são próximas das frequências das ondas de rádio FM.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q13",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 13,
+    "statement": "As ondas sonoras são chamadas de longitudinais porque:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Se propagam em um meio material (Gases, Líquidos ou Sólidos)",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "As moléculas do meio material vibram na mesma direção de propagação da onda.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Podem sofrer reflexão",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "As moléculas do meio material vibram em uma direção perpendicular à direção de propagação da onda.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q14",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 14,
+    "statement": "Quando friccionamos uma barra de vidro com um pano de seda, o vidro adquire uma carga elétrica líquida positiva. Isto ocorre porque:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O vidro adquire prótons do pano de seda.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O vidro adquire elétrons do pano de seda.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O vidro perde prótons para o pano de seda.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O vidro perde elétrons para o pano de seda.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q15",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 15,
+    "statement": "Na figura abaixo dois corpos de massa m e cargas elétricas de valores q e 5q são colocados sobre uma superfície sem atrito, a uma distância r um do outro. Se soltarmos os corpos, qual a razão entre a aceleração inicial do corpo de carga q, e a aceleração inicial do corpo de carga 5q?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.1-q16",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 16,
+    "statement": "Os semicondutores promoveram uma verdadeira revolução na eletrônica. Os chips de computadores são feitos deste tipo de material. O que são semicondutores?",
+    "options": [
+      {
+        "label": "a",
+        "text": "São materiais que não oferecem resistência à passagem de corrente elétrica.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "São os materiais de mais alta condutividade.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "São os materiais de mais alta resistividade.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "São materiais cujo valor da resistividade é intermediário entre os valores das resistividades dos isolantes e dos condutores.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q17",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 17,
+    "statement": "Um elétron penetra em uma região onde existe um campo magnético uniforme. Se a direção da velocidade do elétron é paralela à direção do campo, qual será a trajetória do elétron?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Perpendicular à direção do campo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Paralela à direção do campo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Circular.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Em forma helicoidal em torno das linhas de campo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q18",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 18,
+    "statement": "Medindo-se a corrente elétrica que passa por um resistor em função do potencial aplicado aos terminais do mesmo, obtivemos os seguintes valores: Potencial (V): 0, 1, 2, 3, 4; Corrente (mA): 0, 1, 4, 9, 16. Qual o valor da potência dissipada neste resistor quando o valor de sua resistência for de $500\\ \\Omega$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 mW",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 mW",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "27 mW",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "64 mW",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q19",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 19,
+    "statement": "Um objeto extenso é colocado em frente a um espelho côncavo sobre o centro de curvatura do mesmo. Sua imagem será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Direita e real.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Direta e virtual.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Inversa e real.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Inversa e virtual.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.1-q20",
+    "examId": "cg-2006-2006.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 20,
+    "statement": "Um objeto extenso é colocado em frente a uma lente convergente, sobre o centro de curvatura da mesma. Sua imagem será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Direta e real.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Direta e virtual.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Inversa e real.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Inversa e virtual.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.2-q1",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Nanociência e nanotecnologia são áreas de ponta na pesquisa científica e tecnológica hoje em dia. No sistema internacional de unidades, o prefixo nano equivale ao fator:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^{-6}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{-9}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^{-12}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^{-15}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.2-q2",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Em uma corrida da Fórmula Mundial (ou Indy), em um circuito oval, os carros podem fazer uma das curvas, de raio $250\\ m$, a uma velocidade média de $360\\ km/h$. Em função de g, onde g é a aceleração da gravidade, qual a aceleração radial a que estará submetido o piloto, ao fazer esta curva? Considere $g = 10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,40 g",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,25 g",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,50 g",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,00 g",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q3",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 3,
+    "statement": "A distância média da Terra ao Sol é de $1,5\\times10^8\\ km$. A este valor é dado o nome de unidade astronômica (u.a.), que é uma das unidades de medida de comprimento usadas em astronomia. A Terra percorre sua órbita em torno do Sol em um ano. Se Netuno está localizado a uma distância de $30$ u.a. do Sol, em quantos anos ele percorrerá a sua órbita? Considere $\\sqrt{30} = 5,5$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,5 anos",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30 anos",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "150 anos",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "165 anos",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q4",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 4,
+    "statement": "Numa corrida de Fórmula 1, na reta principal de um circuito, Fernando Alonso ultrapassa Michael Schumacher gastando na ultrapassagem $2s$. Se o comprimento dos carros é de $5\\ m$, e, supondo que as velocidades são constantes, qual a diferença entre a velocidade de Alonso e a de Schumacher?",
+    "options": [
+      {
+        "label": "a",
+        "text": "9 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "24 km/h",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.2-q5",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 5,
+    "statement": "Um avião de caça vai decolar de um porta-aviões cuja pista tem $125\\ m$ de comprimento. Se a velocidade mínima de vôo é $180\\ km/h$, qual a aceleração mínima que o avião deve ter para decolar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25 m/s²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.2-q6",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 6,
+    "statement": "Em um dia de tempestade, a pressão do lado de fora de uma casa cai a $0,95\\ atm$. Se a pressão interna continua em $1\\ atm$ qual a força que atuará, de dentro para fora, em uma janela de casa que possui área de $2\\ m^2$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$5\\times10^3\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1\\times10^4\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9,5\\times10^4\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1,9\\times10^5\\ N$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.2-q7",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 7,
+    "statement": "Em uma colisão frontal, a velocidade relativa de afastamento entre os corpos é metade da velocidade relativa de aproximação dos mesmos. O coeficiente de restituição será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.2-q8",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 8,
+    "statement": "Um balão sobe na atmosfera porque:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O peso do volume de ar deslocado pelo balão é maior que o peso total do balão.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O peso do volume de ar deslocado pelo balão é igual ao peso total do balão.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O peso do volume de ar deslocado pelo balão é menor que o peso total do balão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O peso do volume de ar deslocado pelo balão não influi na subida do balão.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q9",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 9,
+    "statement": "Um mol de gás ideal, inicialmente nas condições normais de temperatura e pressão, CNTP ($T=0°C$, $p=1\\ atm$), é aquecido até que os valores da sua temperatura e da sua pressão sejam dobrados. Qual o valor do volume final do gás?",
+    "options": [
+      {
+        "label": "a",
+        "text": "22,4 L",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "44,8 L",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "67,2 L",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "69,6 L",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q10",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "Um forno de microondas funciona em uma potência de $750\\ W$. Se você quer ferver, neste forno e ao nível do mar, um litro de água, inicialmente a $25°C$, quanto tempo levará para que isto ocorra?",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "200 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "300 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "400 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q11",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "Numa panela de pressão, os alimentos cozinham mais rápido porque:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A pressão dentro da panela eleva o ponto de ebulição da água fazendo ela ferver em uma temperatura mais alta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A pressão dentro da panela diminui o ponto de ebulição da água fazendo ela ferver em uma temperatura mais baixa.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A pressão dentro da panela reduz o ponto de ebulição da água fazendo ela ferver em uma temperatura mais alta.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A pressão dentro da panela reduz o ponto de ebulição da água fazendo ela ferver em uma temperatura mais baixa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q12",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 12,
+    "statement": "A temperatura pela manhã em certo dia do ano é de $24°C$. À tarde, a temperatura atingiu $34°C$. Em um termômetro graduado em °F, a variação de temperatura será de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "5/9 °F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9/5 °F",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9 °F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18 °F",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q13",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 13,
+    "statement": "As especificações da fonte de um computador pessoal indicam os seguintes valores: $110\\ V$ - $1A$. Esta fonte também pode funcionar em $220\\ V$. Qual será o valor da resistência do computador se a fonte estiver funcionando em $220\\ V$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "110 $\\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "220 $\\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "330 $\\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "440 $\\Omega$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q14",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 14,
+    "statement": "Você carrega um aparelho eletrônico com quatro pilhas alcalinas, de $1,5\\ V$ cada, ligadas em paralelo. Qual a tensão final fornecida pelas pilhas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5 V",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,0 V",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4,5 V",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,0 V",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q15",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "Qual o valor da corrente que passa por cada uma das resistências ligadas em paralelo no circuito representado pela figura abaixo? Uma fonte de $15\\ V$ alimenta um resistor de $100\\ \\Omega$ em série com dois resistores de $100\\ \\Omega$ em paralelo.",
+    "options": [
+      {
+        "label": "a",
+        "text": "25 mA",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30 mA",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50 mA",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 mA",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.2-q16",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 16,
+    "statement": "A figura abaixo representa uma onda longitudinal formada por regiões de compressão (escuras) e rarefação (claras) se propagando em um tubo, com comprimento de onda de $20\\ cm$. Cada pulso de compressão foi formado $2\\ s$ após o anterior. Qual a velocidade da onda?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,2 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,4 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,6 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,8 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2006-2006.2-q17",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 17,
+    "statement": "Um raio caiu de depois de $5$ segundos foi ouvido o trovão. Se a velocidade do som no ar é $340\\ m/s$, qual a distância entre o local da queda do raio e o observador?",
+    "options": [
+      {
+        "label": "a",
+        "text": "68 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "340 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,2 km",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,7 km",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q18",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 18,
+    "statement": "A luz branca, ao atravessar um prisma, divide-se em várias cores. Chamamos este fenômeno de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "dispersão",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "refração",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "absorção",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "reflexão",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q19",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 19,
+    "statement": "Chamamos ângulo crítico, o menor ângulo em que ocorre a reflexão total. Qual o valor do seno do ângulo crítico para um raio de luz que passa da água para o ar? Dados: índice de refração da água igual a $4/3$ e do ar igual a $1$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,25",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,50",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,75",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.2-q20",
+    "examId": "cg-2006-2006.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Ondas estacionárias podem se formar em cordas fixas por suas extremidades, tais como as cordas de um violão. Qual o maior comprimento de onda possível, que pode ser obtido com uma corda de $25\\ cm$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,25 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,50 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,75 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,00 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
