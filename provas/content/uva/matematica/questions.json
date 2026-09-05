@@ -7998,5 +7998,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2015-2016.1-q1",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 1,
+    "statement": "Na construção de uma estrada, chegou-se a um ponto em que será necessário explodir uma rocha para ligar os pontos A e B. Do ponto C, fora da rocha, é possível visualizar os pontos A e B de modo que o ângulo em C, no triângulo ABC, mede 37°. Admitindo que sen37°=0,6 e que AC=BC=800 metros, a distância entre AB é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$160\\sqrt{10}$ metros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "400 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$160\\sqrt{20}$ metros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "480 metros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2015-2016.1-q2",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 2,
+    "statement": "Em uma determinada cidade, deseja-se construir um Planetário – local onde se realizam projeções, simulando o céu – em forma esférica. Há espaço para se construir uma esfera com diâmetro máximo de 14 metros, mas a altura máxima da construção não pode ser maior do que 12 metros. O engenheiro responsável decide, então, construir o planetário em forma de cúpula (esfera menos uma calota). Qual o volume máximo para o planetário?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$864\\pi/3\\ m^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1296\\pi/3\\ m^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1372\\pi/3\\ m^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1448\\pi/3\\ m^3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2015-2016.1-q3",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "No triângulo equilátero da figura, D é ponto médio do lado AC e DE é perpendicular ao lado BC. Já F é o ponto médio do lado BC, que mede 2x metros. A área do quadrilátero ADEF é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3x^2\\sqrt{3}/16$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3x^2\\sqrt{3}/8$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3x^2\\sqrt{3}/4$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3x^2\\sqrt{3}/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2015-2016.1-q4",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 4,
+    "statement": "Através de observações, viu-se que a população p(t) de uma determinada espécie varia em função do tempo t de acordo com a função $p(t)=200t-t^2-5775$, sendo que a população inicial era de 625 indivíduos no ano de 1210 d.C. Sabendo-se que esta função mostrou-se eficaz para os 100 anos seguintes, assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A população desta espécie chegou ao seu valor máximo no ano de 1270 d.C.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A população desta espécie cresceu constantemente no período em que a função se mostra eficaz.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A população desta espécie no ano de 1310 d.C. era menor que em 1210 d.C.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A espécie foi extinta no ano 1340 d.C.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2015-2016.1-q5",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 5,
+    "statement": "Nos aparelhos smartphones atuais, uma nova forma de definir a senha de desbloqueio de tela é através de uma tabela de 16 posições dispostas em 4 linhas e 4 colunas. A pessoa deve escolher quatro posições e em cada uma delas digitar um algarismo entre 0 e 9. Considerando que não se pode escolher mais do que um quadrado na mesma linha, nem na mesma coluna e que também não pode haver repetição de algarismos, a quantidade de senhas que o usuário pode definir é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "9!.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10!.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9!/5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10!/30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2015-2016.1-q6",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Representando graficamente as curvas $x^2+y^2-4x-6y+9=0$ e $9x^2+4y^2-36x-24y+36=0$, acerca dos pontos de intersecção entre essas duas curvas é correto dizer:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Compõem um conjunto vazio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Compõem um conjunto unitário.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Compõem um conjunto com exatamente dois elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Compõem um conjunto com exatamente três elementos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2015-2016.1-q7",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Um polinômio p(x) é tal que cada coeficiente é igual ao grau do termo correspondente. Supondo que p(x) tem grau n, qual o valor de p(1)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "n.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "n(n+1)/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "n!.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2015-2016.1-q8",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 8,
+    "statement": "Considerando o plano cartesiano, isto é, o conjunto de todos os pares ordenados de números reais, assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{(x,y);x=0\\}\\cap\\{(x,y);y=0\\}=\\emptyset$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{(x,y);x>y\\}\\cap\\{(x,y);y>0\\}=\\{(x,y);x>0\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{(x,y);x<y\\}\\cap\\{(x,y);x>y\\}=\\{(x,y);x=y\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{(x,y);x=y\\}\\cap\\{(x,y);x=-y\\}=\\{(0,0)\\}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2015-2016.1-q9",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 9,
+    "statement": "Uma determinada marca de refrigerantes lançou uma embalagem em forma de tronco de cone, na qual a base maior tem raio 4 cm e a base menor (parte de cima, por onde o líquido sai da garrafa) tem raio 1 cm. Quando apoiada sobre uma mesa, a garrafa tem 15 cm de altura. Supondo que o frasco do refrigerante é vendido completamente cheio, a que altura estará o líquido quando a metade do refrigerante for consumida?",
+    "options": [
+      {
+        "label": "a",
+        "text": "7,5 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt[3]{65/2}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$5\\sqrt[3]{65/2}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$20-5\\sqrt[3]{65/2}$ cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2015-2016.1-q10",
+    "examId": "mf-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 10,
+    "statement": "O conjunto solução da inequação $\\dfrac{4x^2-1}{2x-4}<0$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(-\\infty,-1/2)\\cup(1/2,2)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(-1/2,1/2)\\cup(2,+\\infty)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(-\\infty,(1-\\sqrt{13})/4)\\cup((1+\\sqrt{13})/4,+\\infty)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$((1-\\sqrt{13})/4,(1+\\sqrt{13})/4)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
