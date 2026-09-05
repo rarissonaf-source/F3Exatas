@@ -13474,5 +13474,517 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.1-q37",
+    "examId": "cg-2008-2008.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "Um ano luz é a distância que a luz percorre no período de um ano. De forma análoga podemos definir outras distâncias em função do tempo que a luz leva para percorrê-las. Se a distância média da Terra ao Sol é $1,5\\times10^8\\ km$ e a velocidade da luz é $3\\times10^5\\ km/s$, qual é a distância da Terra ao Sol em minutos e segundos luz?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 min e 10 s luz",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 min e 20 s luz",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5 min e 30 s luz",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 min e 45 s luz",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.1-q38",
+    "examId": "cg-2008-2008.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 38,
+    "statement": "Um avião sai de Fortaleza, às $10:00h$, com destino a São Paulo e escala em Recife. Às $10:45$ ele chega em Recife onde a escala dura $30$ minutos. A chegada em São Paulo se dá às $13:45$. Qual a velocidade média do avião de Fortaleza a São Paulo? As distâncias aéreas são: Fortaleza-Recife, $600\\ km$; Recife-São Paulo, $2000\\ km$ e Fortaleza-São Paulo, $2250\\ km$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "600 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "693 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "720 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "800 km/h",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2008-2008.1-q39",
+    "examId": "cg-2008-2008.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 39,
+    "statement": "O Salto Angel, na Venezuela, é considerado a mais alta cachoeira do mundo com $979\\ m$ de altitude. Se desconsiderarmos a resistência do ar, qual a energia cinética adquirida, por quilograma de água ao chegar ao solo, depois de uma queda do topo da cachoeira? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "97,9 J/kg",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "979 J/kg",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9790 J/kg",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "97900 J/kg",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2008-2008.1-q40",
+    "examId": "cg-2008-2008.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 40,
+    "statement": "A figura abaixo representa um circuito elétrico. Qual o valor da corrente que passa pela resistência externa?",
+    "options": [
+      {
+        "label": "a",
+        "text": "60 mA",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "120 mA",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "240 mA",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "360 mA",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "cg-2008-2008.1/q40.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.1-q41",
+    "examId": "cg-2008-2008.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 41,
+    "statement": "A figura abaixo representa uma associação de capacitores. Qual a capacitância equivalente desta associação?",
+    "options": [
+      {
+        "label": "a",
+        "text": "50 pF",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100 pF",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "150 pF",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200 pF",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "cg-2008-2008.1/q41.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2008-2008.1-q42",
+    "examId": "cg-2008-2008.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "No segundo semestre do ano a temperatura no sertão do Ceará pode variar de $15°C$ durante a madrugada até $45°C$ durante o dia. Qual a distância que dois trilhos de $100\\ m$ (medidos na temperatura de $15°C$) de ferrovia devem ter entre si, para que eles apenas se toquem quando seus comprimentos forem máximos? Os trilhos são feitos de aço cujo coeficiente de dilatação linear é $11\\times10^{-6}/°C$. Suponha que os trilhos estão fixos nas extremidades que não irão se tocar.",
+    "options": [
+      {
+        "label": "a",
+        "text": "11 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,6 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,3 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,1 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.1-q43",
+    "examId": "cg-2008-2008.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 43,
+    "statement": "Um pulso se propaga em uma corda de densidade linear de massa $1\\ g/cm$ com velocidade $50\\ m/s$. Esta corda está ligada a outra corda de densidade linear de massa $100\\ g/cm$, e ambas estão submetidas a uma mesma tensão. Qual a velocidade do pulso nesta segunda corda?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5000 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.1-q44",
+    "examId": "cg-2008-2008.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 44,
+    "statement": "O fenômeno de interação dos raios da luz do Sol com gotículas de água presentes na atmosfera e que resulta na criação do arco íris é a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "interferência",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "difração",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "absorção",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Refração",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2008-2008.2-q37",
+    "examId": "cg-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 37,
+    "statement": "No primeiro semestre de 2008, tremores de terra foram observados nas proximidades de Sobral. Estes tremores foram registrados por sismógrafos localizados em Natal-RN e Brasília-DF, onde estão localizados importantes grupos de pesquisa em sismologia. Se o sismógrafo de Natal registrou um tremor $90\\ s$ após o mesmo ter sido observado em seu epicentro, quanto tempo depois do registro em Natal ocorreu o registro no sismógrafo de Brasília? Considere a distância entre Natal e o epicentro do tremor igual a $630\\ km$ e entre Brasília e o epicentro $1575\\ km$. Suponha que a onda sísmica registrada se propague com velocidade constante em todas as direções.",
+    "options": [
+      {
+        "label": "a",
+        "text": "90 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "135 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "225 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "315 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.2-q38",
+    "examId": "cg-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 38,
+    "statement": "Um carro a $72\\ km/h$ colide frontalmente com uma parede sólida. Este choque equivale a uma queda de que altura? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.2-q39",
+    "examId": "cg-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 39,
+    "statement": "Um macaco hidráulico tem dois pistões de $1\\ cm$ e $5\\ cm$ de diâmetro. Qual a força que deve ser aplicada ao pistão pequeno para que o pistão grande eleve um objeto de massa $10\\ kg$? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2008-2008.2-q40",
+    "examId": "cg-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 40,
+    "statement": "Um objeto pesado no ar tem peso de $300\\ N$. Se pesado na água, totalmente imerso, seu peso será de $200\\ N$. Qual a densidade deste objeto? Considere a aceleração da gravidade igual a $10\\ m/s^2$ e a densidade da água igual a $1\\ g/cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4 g/cm³",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2008-2008.2-q41",
+    "examId": "cg-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 41,
+    "statement": "Uma torradeira elétrica produz quatro vezes mais calor que uma lâmpada incandescente, quando as duas estão ligadas em paralelo. Se a resistência elétrica da lâmpada é de $1,00\\ \\Omega$ a resistência da torradeira será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,25 $\\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,50 $\\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,00 $\\Omega$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,00 $\\Omega$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2008-2008.2-q42",
+    "examId": "cg-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 42,
+    "statement": "A figura abaixo representa esquematicamente a órbita elíptica da Terra em torno do Sol. A figura não está em escala. Em que ponto a energia cinética da Terra é maior?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "B",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "D",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2008-2008.2-q43",
+    "examId": "cg-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 43,
+    "statement": "Um raio de luz incide sobre uma lâmina plana de vidro fazendo um ângulo de $60°$ com a normal. Ao emergir do outro lado da lâmina qual o ângulo que o raio fez com a superfície do vidro? O índice de refração do vidro é igual a $1,5$ e o do ar igual a $1$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "30°",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45°",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60°",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "75°",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2008-2008.2-q44",
+    "examId": "cg-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 44,
+    "statement": "Duas notas musicais estarão separadas de uma oitava quando suas frequências estiverem na razão $2:1$. O dó médio corresponde à frequência $262\\ Hz$. O dó alto encontra-se duas oitavas acima. Qual a frequência do dó alto?",
+    "options": [
+      {
+        "label": "a",
+        "text": "262 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "524 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "786 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1048 Hz",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
