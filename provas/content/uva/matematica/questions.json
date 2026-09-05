@@ -11198,5 +11198,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2022-2022.1-q1",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 1,
+    "statement": "O show da banda Quetzal acontece daqui a 50 dias. Se a venda de ingressos for iniciada hoje (dia zero, n=0) e for até o dia do show, a estimativa da organização é de que a quantidade de ingressos vendidos diariamente ocorra conforme a função $v(n)=-3n^2+180n+500$. Considerando n o dia de venda de ingressos (dia 0, n=0; dia 1, n=1; dia 2, n=2; etc), o dia em que mais se venderá ingressos será o:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Quinquagésimo primeiro dia.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Quinquagésimo dia.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Trigésimo primeiro dia.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Trigésimo dia.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2022-2022.1-q2",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 2,
+    "statement": "No futebol de salão – hoje chamado futsal – os times entram em quadra com 5 jogadores: 1 goleiro, 1 fixo, 1 ala-direito, 1 ala-esquerdo e 1 pivô. O treinador do Caiçara Futebol Clube tem à sua disposição 3 goleiros, 2 fixos, 3 alas-direito, 2 alas-esquerdo e 4 pivôs. Usando a formação padrão, de quantas maneiras ele pode escalar seu time para iniciar uma partida?",
+    "options": [
+      {
+        "label": "a",
+        "text": "240.240.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "23.760.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "144.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2022-2022.1-q3",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 3,
+    "statement": "Sandra produz perfumes artesanais e cuida de todo o processo de produção. Os frascos utilizados têm o formato de um cilindro elíptico reto cuja altura é de 15cm. A base é tal que os diâmetros mínimo e máximo são, respectivamente, 3cm e 5cm. Sandra quer embalar os frascos em caixas de papelão no formato de um paralelepípedo. Para que a embalagem ocupe o menor espaço possível, o seu volume deve ser igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "135cm³.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "225cm³.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "375cm³.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "225cm³.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2022-2022.1-q4",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 4,
+    "statement": "Uma oitava de um teclado musical é apresentada na figura abaixo. São doze notas (7 teclas brancas e 5 teclas pretas) e a distância entre duas notas seguidas é chamada de 1 semitom. O acorde de DÓ MAIOR é obtido tocando-se simultaneamente as teclas DÓ, MI e SOL que são chamadas, respectivamente, de tônica, terça e quinta do acorde. Se qualquer outro acorde maior é construído desta mesma forma, isto é, a distância entre tônica, terça e quinta são as mesmas que no acorde de DÓ MAIOR, então que notas compõem o acorde de MI MAIOR?",
+    "options": [
+      {
+        "label": "a",
+        "text": "MI, SOL#, SI.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "MI, SOL, SI.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "MI, FÁ#, LÁ.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "MI, SOL, LÁ#.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2022-2022.1-q5",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 5,
+    "statement": "A Lotérica Aives lançou a LotoGauss. O cartão de apostas tem números entre 1 e 24 dispostos em um quadro de 4 linhas por 6 colunas (L1: 1-6, L2: 7-12, L3: 13-18, L4: 19-24). O apostador deve indicar quatro posições no quadro, sendo um único número escolhido em cada linha. Além disso, o apostador deve fazer as suas escolhas de modo que dois números não ocupem uma mesma coluna. O resultado da loteria é dado pelo produto dos números escolhidos. Se o número sorteado não corresponder a nenhuma aposta feita, o prêmio fica acumulado para o sorteio seguinte. Qual o menor resultado possível para que uma aposta possa ser contemplada com o prêmio?",
+    "options": [
+      {
+        "label": "a",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.729.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.640.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "158.400.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2022-2022.1-q6",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 6,
+    "statement": "Algumas pessoas acreditam que nosso comportamento é determinado pela \"média dos comportamentos das cinco pessoas mais próximas\". Wellington resolveu fazer este cálculo considerando um único aspecto: a quantidade (em copos) de água que ele bebe ao longo de 1 dia. Em sua própria avaliação, as cinco pessoas mais próximas são as que com ele moram na mesma casa, a saber, seus pais (Jeremias e Janice) e seus irmãos (John, James e Josh). Pelas suas observações, Jeremias e Janice bebem, cada um, 4 copos de água por dia. John, James e Josh bebem, respectivamente, 3, 5 e 5 copos de água por dia. Por passar mais tempo com os irmãos, ele fez uma média ponderada, dando peso dois a cada um dos irmãos. A que conclusão Wellington chegou?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Que deveria beber 4,25 copos de água por dia.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Que deveria beber 4,20 copos de água por dia.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Que deveria beber 3,4 copos de água por dia.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Que deveria beber 2,625 copos de água por dia.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2022-2022.1-q7",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "Um prédio de 5 pavimentos (térreo e mais quatro andares) está em chamas e o caminhão do corpo de bombeiros para a 5 metros de distância de sua fachada para resgatar as pessoas que lá estão. As vítimas sairão pelas janelas e descerão pela escada fixada (no caminhão) a 2 metros de altura em relação ao solo. Os quatro andares são idênticos (posição das janelas em relação ao piso, quantidade e dimensões de janelas, etc) e cada um deles tem altura (pé direito mais a espessura do teto/piso) de 4 metros. Se a base da janela do primeiro andar está a 6 metros do chão, qual deve ser o comprimento mínimo da escada para que se consiga retirar com segurança as pessoas que estão no terceiro andar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "12 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "13 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 metros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2022-2022.1-q8",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 8,
+    "statement": "Em um jogo para smartphones, uma formiga se movimenta em um plano. O jogador determina o deslocamento da formiga para o próximo ponto usando a notação algébrica dos números complexos. Tal deslocamento será feito a partir da posição atual. Se o ponto inicial é dado por $0+0i$ e depois das jogadas $a+3i$ e $-2+bi$ a formiga está no ponto correspondente à $-1+i$, quais os valores de a e b respectivamente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1, -2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2, -3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-2, 1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1, 1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2022-2022.1-q9",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 9,
+    "statement": "Um professor de Matemática modelou através de uma função a estimativa para a quantidade de pessoas contaminadas com o Coronavírus em sua cidade. A função proposta é a seguinte: $C(t)=C_0\\cdot e^{kt}$ onde $C_0$ é a quantidade de contaminados no primeiro dia de observação e t é o tempo dado em dias. Após 20 dias o professor observou que a quantidade de infectados dobrou em comparação com a primeira observação (dia zero). Mais quantos dias passarão para que, segundo o seu modelo, a quantidade de infectados seja o quádruplo de $C_0$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Mais 10 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Mais 20 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Mais 40 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Mais 60 dias.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2022-2022.1-q10",
+    "examId": "mf-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 10,
+    "statement": "O casal Leandro e Luzia iniciou ainda em 2020 a fabricação e a venda de máscaras para proteção contra a Covid-19. Os preços em Reais brasileiros praticados em 2020 (máscara infantil: lisa R$5,00, estampada R$7,00, personalizada R$12,00) estão no QUADRO 1. Para o ano de 2021 o casal aplica um reajuste no preço de cada tipo de máscara: lisa 10%, estampada 5%, personalizada 15% (QUADRO 2). Os valores das máscaras infantis lisa, estampada e personalizada passam a ser, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 5,10; R$ 7,05; R$ 12,15.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 5,50; R$ 7,35; R$ 13,80.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 5,50; R$ 7,70; R$ 13,20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 5,10; R$ 7,50; R$ 12,15.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]

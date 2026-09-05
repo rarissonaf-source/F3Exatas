@@ -222,5 +222,13 @@
     "edition": "2020.2",
     "examType": "especifico",
     "sourceFile": "e 2020.2.pdf"
+  },
+  {
+    "id": "mf-2022-2022.1",
+    "institution": "UVA",
+    "year": 2022,
+    "edition": "2022.1",
+    "examType": "especifico",
+    "sourceFile": "e 2022.1.pdf"
   }
 ]
