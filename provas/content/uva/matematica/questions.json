@@ -15230,5 +15230,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2018-2018.1-q29",
+    "examId": "cg-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "O Imposto sobre Propriedade de Veículos Automotores – IPVA – é um tributo estadual pago anualmente pelo dono do veículo. Para automóveis movidos a gasolina, o imposto é de 2,5\\% do valor de venda do veículo naquele ano. Além disso, o proprietário que optar pelo pagamento à vista tem direito a desconto de 5\\% no valor do tributo. Se em 2018, o automóvel X, movido a gasolina, está cotado a R\\$26.000,00 e seu proprietário decidir pagar o tributo à vista, ele economizará:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 32,50.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 617,50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 650,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.300,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2018-2018.1-q30",
+    "examId": "cg-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 30,
+    "statement": "Em times de futebol, é comum a aplicação de multas para os casos de indisciplina. No Pereba Futebol Clube, o melhor jogador é também o mais problemático. Seu salário mensal é de R$5.000,00 e a diretoria resolveu aplicar o seguinte método para multas: a cada mês, se houver um ou mais atos de indisciplina, o salário pago terá decréscimo de 20% com relação ao último salário pago. Quantas multas devem ser aplicadas até que o salário seja inferior a R$2.000,00?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Três multas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Quatro multas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Cinco multas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Seis multas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.1-q31",
+    "examId": "cg-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 31,
+    "statement": "Um gavião viu um grupo de andorinhas e falou: \\\"Bom dia, 100 andorinhas\\\". Uma das andorinhas respondeu: \\\"Bom dia, Gavião. Não somos mais 100, mas um sétimo de nós, mais dois treze avos de nós e você, somos 28\\\". Quantas andorinhas estão no grupo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "27.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "91.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "101.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2018-2018.1-q32",
+    "examId": "cg-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 32,
+    "statement": "O gráfico abaixo mostra a variação do preço médio (em reais) do botijão de 13kg do gás de cozinha entre 2001 e 2017: 51,3; 68,7; 63,5; 62,5; 59,1; 62,1; 59,1; 56,6; 61,9; 58,8; 56,3; 59,9; 54,9; 54,3; 59,5; 57,2; 66,5. A diferença (em valor absoluto) entre a moda e a mediana do preço médio do botijão de gás é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 0,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 0,20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 2,40.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 2,80.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.1-q33",
+    "examId": "cg-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 33,
+    "statement": "Em um país fictício, onde não existem leis a respeito de férias de trabalhadores, os funcionários da Fábrica de doces Sonho Feliz trabalham divididos em três setores: Azul, Verde e Rosa. O setor Azul tem 13 funcionários enquanto os setores Verde e Rosa têm, respectivamente, 15 e 19 funcionários. O gerente da fábrica está organizando o calendário de férias de seus funcionários e estas serão concedidas a partir de julho de 2018 a exatamente três funcionários por mês, sendo um de cada setor. O período de férias inicia-se sempre no primeiro dia do mês e termina no último dia do mesmo mês. Supondo que o gerente estabeleceu em cada setor uma ordem cíclica para a saída dos funcionários para as férias, em que mês e ano, finalmente, sairá de férias o último funcionário?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Outubro de 2019.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Novembro de 2019.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Dezembro de 2019.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Janeiro de 2020.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2018-2018.1-q34",
+    "examId": "cg-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 34,
+    "statement": "Na cidade de Sleepland, existem 5 partidos registrados: Partido do Amanhecer (PA), Partido do Entardecer (PE), Partido da Integração (PI), Partido da Organização (PO) e Partido da União (PU). A câmara de vereadores municipal tem 08 (oito) vagas. No sistema eleitoral em vigor, as vagas da câmara são preenchidas utilizando-se do Quociente Partidário. O quadro mostra os dados da última eleição de Sleepland (2017): PA: 5 candidatos, 3000 votos; PE: 6 candidatos, 2500 votos; PI: 6 candidatos, 2200 votos; PO: 7 candidatos, 300 votos; PU: 5 candidatos, 1000 votos; votos em branco: 500; votos nulos: 700; ausentes: 100; total: 29 candidatos, 10.300 eleitores. O Quociente Partidário é determinado pela parte inteira da razão entre a quantidade de votos recebidos pelo partido e o Quociente Eleitoral – que é a parte inteira da razão entre a quantidade de votos válidos e número de vagas na câmara municipal. Desta forma, pelo Quociente Partidário, a quantidade de vagas destinada aos partidos PA, PE, PI, PO e PU, respectivamente, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3, 2, 2, 0, 1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2, 2, 1, 0, 0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2, 1, 1, 0, 0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2, 2, 2, 0, 1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2018-2018.1-q35",
+    "examId": "cg-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 35,
+    "statement": "Uma das luas do planeta Zebes pode ser encoberta por uma moeda de 2cm de diâmetro, quando uma pessoa que está na superfície do planeta a segura a 1m – ou menos – dos olhos. Se R é o raio dessa lua, então, desconsiderando a altura do observador, a distância entre as superfícies de Zebes e de sua lua, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "99R/100.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "99R.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100R.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.1-q36",
+    "examId": "cg-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 36,
+    "statement": "Deseja-se pintar de preto algumas casas do tabuleiro formado por hexágonos regulares de lado L mostrado na figura. Não se pode pintar dois hexágonos que tenham um lado em comum, no entanto, se um hexágono for pintado, os hexágonos que estiverem conectados a este por meio de um segmento (ou seja, os hexágonos não têm um lado em comum, mas existe um segmento de comprimento L que liga as duas casas), também devem ser pintados. Qual o número máximo de hexágonos que podem ser pintados seguindo estas regras?",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
