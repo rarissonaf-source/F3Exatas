@@ -7,6 +7,10 @@
   var LEGACY_USER_KEY = "f3_user";
   var SHARED_ACCOUNT = "_shared";
   var PHOTO_MAX_SIZE = 256;
+  // API do F3Provas: o rewrite em vercel.json expõe /provas/api/* no mesmo
+  // domínio, então este caminho absoluto funciona a partir de qualquer página
+  // do hub, sem CORS.
+  var PROFILE_API_URL = "/provas/api/profile";
 
   // Cole aqui o Client ID criado no Google Cloud Console (Credentials > OAuth client ID > Web application).
   var GOOGLE_CLIENT_ID = "940839767965-tipond9snpkqeubb55rahh8p21c5bqko.apps.googleusercontent.com";
@@ -139,6 +143,44 @@
     var profiles = loadProfiles();
     profiles[key] = updated;
     saveProfiles(profiles);
+  }
+
+  // Servidor (Postgres, via F3Provas) é a fonte de verdade compartilhada entre
+  // dispositivos; o localStorage acima fica só como cache pra pintar a tela na hora.
+  function fetchServerProfile(key, callback) {
+    fetch(PROFILE_API_URL + "?accountKey=" + encodeURIComponent(key))
+      .then(function (res) {
+        return res.json();
+      })
+      .then(function (data) {
+        callback(data || null);
+      })
+      .catch(function () {
+        callback(null);
+      });
+  }
+
+  function pushServerProfile(key, profile) {
+    fetch(PROFILE_API_URL, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        accountKey: key,
+        name: profile.name || "",
+        email: profile.email || "",
+        phone: profile.phone || "",
+        picture: profile.picture || "",
+      }),
+    }).catch(function () {
+      /* sem conexão: fica só no cache local por enquanto */
+    });
+  }
+
+  function removeAccountWidgetEls() {
+    ["f3acc-toggle", "f3acc-backdrop", "f3acc-drawer"].forEach(function (id) {
+      var el = document.getElementById(id);
+      if (el) el.remove();
+    });
   }
 
   function resizeImageToDataUrl(file, maxSize, callback) {
@@ -280,17 +322,28 @@
         picture: pendingPicture,
       };
       updateCurrentProfile(updated);
+      pushServerProfile(getCurrentAccountKey(), updated);
       overlay.remove();
-      ["f3acc-toggle", "f3acc-backdrop", "f3acc-drawer"].forEach(function (id) {
-        var el = document.getElementById(id);
-        if (el) el.remove();
-      });
+      removeAccountWidgetEls();
       renderAccountWidget();
+    });
+  }
+
+  function syncProfileFromServer(key) {
+    fetchServerProfile(key, function (serverProfile) {
+      if (!serverProfile) return;
+      var hasData = serverProfile.name || serverProfile.email || serverProfile.phone || serverProfile.picture;
+      if (hasData) {
+        updateCurrentProfile(serverProfile);
+        removeAccountWidgetEls();
+        renderAccountWidget();
+      }
     });
   }
 
   if (localStorage.getItem(AUTH_KEY) === "1") {
     renderAccountWidget();
+    syncProfileFromServer(getCurrentAccountKey());
     return;
   }
 
@@ -334,6 +387,20 @@
     document.documentElement.style.overflow = "";
     overlay.remove();
     renderAccountWidget();
+
+    fetchServerProfile(accountKey, function (serverProfile) {
+      if (!serverProfile) return;
+      var hasData = serverProfile.name || serverProfile.email || serverProfile.phone || serverProfile.picture;
+      if (hasData) {
+        updateCurrentProfile(serverProfile);
+        removeAccountWidgetEls();
+        renderAccountWidget();
+      } else {
+        // Primeira vez nessa conta: semeia o servidor com os dados iniciais
+        // (nome/foto do Google, por exemplo) pra já ficar disponível em outros aparelhos.
+        pushServerProfile(accountKey, seedProfile);
+      }
+    });
   }
 
   function handleGoogleCredential(response) {

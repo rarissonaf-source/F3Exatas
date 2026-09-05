@@ -25,16 +25,17 @@ export default function ListPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const found = getListById(listId);
-    setList(found);
-    if (!found || found.questionIds.length === 0) {
-      setLoading(false);
-      return;
-    }
-    fetch(`${BASE_PATH}/api/lists/questions?ids=${found.questionIds.map(encodeURIComponent).join(",")}`)
-      .then((res) => res.json())
-      .then(setItems)
-      .finally(() => setLoading(false));
+    getListById(listId).then((found) => {
+      setList(found);
+      if (!found || found.questionIds.length === 0) {
+        setLoading(false);
+        return;
+      }
+      fetch(`${BASE_PATH}/api/lists/questions?ids=${found.questionIds.map(encodeURIComponent).join(",")}`)
+        .then((res) => res.json())
+        .then(setItems)
+        .finally(() => setLoading(false));
+    });
   }, [listId]);
 
   if (list === undefined || loading) return null;

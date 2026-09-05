@@ -2,18 +2,20 @@
 
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import { Trash2 } from "lucide-react";
 import { BASE_PATH } from "@/lib/base-path";
 import {
   SHARED_ACCOUNT,
   EMPTY_PROFILE,
   type F3Profile,
-  getCurrentProfile,
+  getCachedProfile,
+  fetchCurrentProfile,
   updateCurrentProfile,
   isAuthed,
   unlockAccount,
   logoutAccount,
 } from "@/lib/account";
-import { getLists, type QuestionList } from "@/lib/question-lists";
+import { getLists, deleteList, type QuestionList } from "@/lib/question-lists";
 
 const GATE_USER = "f3exatas";
 const GATE_PASS = "exatas2026";
@@ -95,7 +97,10 @@ export function AuthGate() {
   useEffect(() => {
     const authed = isAuthed();
     setUnlocked(authed);
-    if (authed) setProfile(getCurrentProfile());
+    if (authed) {
+      setProfile(getCachedProfile());
+      fetchCurrentProfile().then(setProfile);
+    }
     setChecked(true);
   }, []);
 
@@ -140,10 +145,10 @@ export function AuthGate() {
     };
   }, [checked, unlocked]);
 
-  function unlock(accountKey: string, seedProfile: F3Profile) {
-    const resolved = unlockAccount(accountKey, seedProfile);
-    setProfile(resolved);
+  async function unlock(accountKey: string, seedProfile: F3Profile) {
     setUnlocked(true);
+    const resolved = await unlockAccount(accountKey, seedProfile);
+    setProfile(resolved);
   }
 
   function handleSubmit(e: React.FormEvent) {
@@ -168,7 +173,7 @@ export function AuthGate() {
         <button
           type="button"
           onClick={() => {
-            setLists(getLists());
+            getLists().then(setLists);
             setDrawerOpen(true);
           }}
           aria-label="Abrir menu"
@@ -217,15 +222,32 @@ export function AuthGate() {
               </div>
               <nav className="flex flex-col gap-1">
                 {lists.map((list) => (
-                  <Link
+                  <div
                     key={list.id}
-                    href={`/listas/${list.id}`}
-                    onClick={() => setDrawerOpen(false)}
-                    className="flex items-center justify-between rounded-lg px-3 py-2.5 text-sm font-semibold text-white hover:bg-white/5"
+                    className="group flex items-center justify-between rounded-lg px-3 py-2.5 hover:bg-white/5"
                   >
-                    <span className="truncate">{list.name}</span>
+                    <Link
+                      href={`/listas/${list.id}`}
+                      onClick={() => setDrawerOpen(false)}
+                      className="min-w-0 flex-1 truncate text-sm font-semibold text-white"
+                    >
+                      {list.name}
+                    </Link>
                     <span className="ml-2 shrink-0 text-xs font-bold text-white/40">{list.questionIds.length}</span>
-                  </Link>
+                    <button
+                      type="button"
+                      aria-label={`Excluir lista ${list.name}`}
+                      onClick={() => {
+                        if (!confirm(`Excluir a lista "${list.name}"?`)) return;
+                        deleteList(list.id).then((ok) => {
+                          if (ok) setLists((prev) => prev.filter((l) => l.id !== list.id));
+                        });
+                      }}
+                      className="ml-2 shrink-0 text-white/30 transition-colors hover:text-brand-orange"
+                    >
+                      <Trash2 className="size-3.5" />
+                    </button>
+                  </div>
                 ))}
               </nav>
             </div>
@@ -257,9 +279,9 @@ export function AuthGate() {
             profile={profile}
             onCancel={() => setEditOpen(false)}
             onSave={(updated) => {
-              updateCurrentProfile(updated);
               setProfile(updated);
               setEditOpen(false);
+              updateCurrentProfile(updated).then(setProfile);
             }}
           />
         )}

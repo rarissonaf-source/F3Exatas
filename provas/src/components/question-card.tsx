@@ -18,9 +18,9 @@ import {
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { LatexText } from "@/components/latex-text";
-import { createList, getLists, toggleQuestionInList, type QuestionList } from "@/lib/question-lists";
+import { createList, getLists, toggleQuestionInList, deleteList, type QuestionList } from "@/lib/question-lists";
 import { getComments, addComment, deleteComment, type QuestionComment } from "@/lib/comments";
-import { getCurrentProfile } from "@/lib/account";
+import { fetchCurrentProfile } from "@/lib/account";
 import { BASE_PATH } from "@/lib/base-path";
 import type { ExamSource, OptionLabel, Question } from "@/lib/types";
 
@@ -410,8 +410,9 @@ function CommentsPanel({
   const [error, setError] = useState("");
 
   useEffect(() => {
-    const p = getCurrentProfile();
-    setProfile({ name: p.name || "Usuário F3Exatas", email: p.email, picture: p.picture });
+    fetchCurrentProfile().then((p) => {
+      setProfile({ name: p.name || "Usuário F3Exatas", email: p.email, picture: p.picture });
+    });
   }, []);
 
   async function handleSubmit(e: React.FormEvent) {
@@ -501,21 +502,31 @@ function CommentsPanel({
 }
 
 function ListsPanel({ questionId }: { questionId: string }) {
-  const [lists, setLists] = useState<QuestionList[]>(() => getLists());
+  const [lists, setLists] = useState<QuestionList[]>([]);
   const [newListName, setNewListName] = useState("");
 
-  function handleToggle(listId: string) {
-    const updated = toggleQuestionInList(listId, questionId);
-    if (updated) setLists((prev) => prev.map((l) => (l.id === listId ? updated : l)));
+  useEffect(() => {
+    getLists().then(setLists);
+  }, []);
+
+  async function handleToggle(listId: string) {
+    const updated = await toggleQuestionInList(listId, questionId);
+    if (updated) setLists((prev) => prev.map((l) => (l.id === listId ? { ...l, questionIds: updated.questionIds } : l)));
   }
 
-  function handleCreate() {
+  async function handleCreate() {
     const name = newListName.trim();
     if (!name) return;
-    const list = createList(name);
-    toggleQuestionInList(list.id, questionId);
+    const list = await createList(name);
+    await toggleQuestionInList(list.id, questionId);
     setLists((prev) => [...prev, { ...list, questionIds: [questionId] }]);
     setNewListName("");
+  }
+
+  async function handleDeleteList(listId: string, name: string) {
+    if (!confirm(`Excluir a lista "${name}"?`)) return;
+    const ok = await deleteList(listId);
+    if (ok) setLists((prev) => prev.filter((l) => l.id !== listId));
   }
 
   return (
@@ -526,16 +537,26 @@ function ListsPanel({ questionId }: { questionId: string }) {
       )}
       <div className="flex flex-col gap-2">
         {lists.map((list) => (
-          <label key={list.id} className="flex items-center gap-2 text-sm text-foreground">
-            <input
-              type="checkbox"
-              checked={list.questionIds.includes(questionId)}
-              onChange={() => handleToggle(list.id)}
-              className="size-4 accent-brand-orange"
-            />
-            {list.name}
-            <span className="text-muted-foreground">({list.questionIds.length})</span>
-          </label>
+          <div key={list.id} className="flex items-center gap-2">
+            <label className="flex min-w-0 flex-1 items-center gap-2 text-sm text-foreground">
+              <input
+                type="checkbox"
+                checked={list.questionIds.includes(questionId)}
+                onChange={() => handleToggle(list.id)}
+                className="size-4 shrink-0 accent-brand-orange"
+              />
+              <span className="truncate">{list.name}</span>
+              <span className="shrink-0 text-muted-foreground">({list.questionIds.length})</span>
+            </label>
+            <button
+              type="button"
+              aria-label={`Excluir lista ${list.name}`}
+              onClick={() => handleDeleteList(list.id, list.name)}
+              className="shrink-0 text-muted-foreground/60 transition-colors hover:text-destructive"
+            >
+              <Trash2 className="size-3.5" />
+            </button>
+          </div>
         ))}
       </div>
       <div className="mt-3 flex gap-2">

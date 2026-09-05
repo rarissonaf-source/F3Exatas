@@ -1,4 +1,5 @@
-const STORAGE_KEY = "f3provas_lists";
+import { BASE_PATH } from "./base-path";
+import { getCurrentAccountKey } from "./account";
 
 export interface QuestionList {
   id: string;
@@ -6,45 +7,59 @@ export interface QuestionList {
   questionIds: string[];
 }
 
-type ListMap = Record<string, QuestionList>;
-
-function readLists(): ListMap {
-  if (typeof window === "undefined") return {};
+export async function getLists(): Promise<QuestionList[]> {
+  const accountKey = getCurrentAccountKey();
   try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) ?? "{}");
+    const res = await fetch(`${BASE_PATH}/api/lists?accountKey=${encodeURIComponent(accountKey)}`);
+    const data = await res.json();
+    return Array.isArray(data) ? data : [];
   } catch {
-    return {};
+    return [];
   }
 }
 
-function writeLists(lists: ListMap) {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(lists));
+export async function getListById(id: string): Promise<QuestionList | null> {
+  const lists = await getLists();
+  return lists.find((l) => l.id === id) ?? null;
 }
 
-export function getLists(): QuestionList[] {
-  return Object.values(readLists()).sort((a, b) => a.name.localeCompare(b.name));
+export async function createList(name: string): Promise<QuestionList> {
+  const accountKey = getCurrentAccountKey();
+  const res = await fetch(`${BASE_PATH}/api/lists`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ accountKey, name }),
+  });
+  return res.json();
 }
 
-export function getListById(id: string): QuestionList | null {
-  return readLists()[id] ?? null;
+export async function toggleQuestionInList(
+  listId: string,
+  questionId: string
+): Promise<QuestionList | null> {
+  const accountKey = getCurrentAccountKey();
+  try {
+    const res = await fetch(`${BASE_PATH}/api/lists/${encodeURIComponent(listId)}`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ accountKey, questionId }),
+    });
+    if (!res.ok) return null;
+    return res.json();
+  } catch {
+    return null;
+  }
 }
 
-export function createList(name: string): QuestionList {
-  const lists = readLists();
-  const id = `list-${Date.now()}-${Math.random().toString(36).slice(2, 7)}`;
-  const list: QuestionList = { id, name, questionIds: [] };
-  lists[id] = list;
-  writeLists(lists);
-  return list;
-}
-
-export function toggleQuestionInList(listId: string, questionId: string): QuestionList | null {
-  const lists = readLists();
-  const list = lists[listId];
-  if (!list) return null;
-  list.questionIds = list.questionIds.includes(questionId)
-    ? list.questionIds.filter((id) => id !== questionId)
-    : [...list.questionIds, questionId];
-  writeLists(lists);
-  return list;
+export async function deleteList(listId: string): Promise<boolean> {
+  const accountKey = getCurrentAccountKey();
+  try {
+    const res = await fetch(
+      `${BASE_PATH}/api/lists/${encodeURIComponent(listId)}?accountKey=${encodeURIComponent(accountKey)}`,
+      { method: "DELETE" }
+    );
+    return res.ok;
+  } catch {
+    return false;
+  }
 }
