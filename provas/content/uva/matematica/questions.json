@@ -14462,5 +14462,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2016-2016.2-q29",
+    "examId": "cg-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Um fotógrafo registra uma foto em sua câmera usando a resolução 1920 x 1080, isto é, a imagem capturada é dividida em pequenos quadrados justapostos em 1920 colunas e 1080 linhas. Cada pequeno quadrado é chamado pixel. Se no próximo registro ele mudar a resolução da câmera para 960 x 540, estará reduzindo a quantidade de pixels em:",
+    "options": [
+      {
+        "label": "a",
+        "text": "25%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2016-2016.2-q30",
+    "examId": "cg-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 30,
+    "statement": "A mensuração das chuvas que caem diariamente e são divulgadas pelas agências que monitoram o clima são feitas da seguinte forma: uma caixa em formato de paralelepípedo retângulo com base quadrada (esta com aresta de 1 metro) capta a água da chuva em um determinado ponto da cidade. A altura da água dentro da caixa – que é medida em milímetros – é o índice pluviométrico. Se em Sobral choveu 104,1 milímetros em fevereiro de 2016, então o volume de água no reservatório mencionado acima é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1041 litros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "104,1 litros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10,41 litros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,041 litros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2016-2016.2-q31",
+    "examId": "cg-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 31,
+    "statement": "O gráfico abaixo mostra o valor médio do Dólar americano em Reais brasileiros no mês de janeiro de cada um dos anos de 1995 a 2015 (vinte e uma observações), com valores subindo gradualmente de cerca de 0,90 em 1995 até um pico acentuado próximo de 3,75 por volta de 2003, depois oscilando entre 2,00 e 3,00 até 2015. Com base nessas informações, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "De 1995 a 2000, a variação acumulada do Dólar foi superior a 0,50 Reais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "De 2000 a 2005, a maior cotação do Dólar não ultrapassou os 3,00 Reais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "De 2005 a 2010, a variação do Dólar ano a ano foi sempre superior a 0,50 Reais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "De 2010 a 2015, houve aumento na cotação do Dólar ano após ano.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2016-2016.2-q32",
+    "examId": "cg-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 32,
+    "statement": "Considere as circunferências $C_1$, $C_2$, $C_3$ e $C_4$ concêntricas e de raios x, 3x, 5x e 7x respectivamente. As circunferências $C_1$ e $C_3$ são brancas e as demais vermelhas, formando assim uma tábua de tiro ao alvo. Uma pessoa lança um dardo atingindo a tábua. Qual a probabilidade de ter acertado na área vermelha?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Entre 30% e 35%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Entre 45% e 50%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Entre 65% e 70%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Entre 75% e 85%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2016-2016.2-q33",
+    "examId": "cg-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 33,
+    "statement": "Em algum lugar do universo existe uma estrela S que mantém em sua órbita os planetas $P_1$, $P_2$ e $P_3$. O ano em $P_1$ tem 153 dias (dias de $P_1$). Em $P_2$ o ano tem 246 dias de $P_1$. Já $P_3$ completa uma volta em torno de S em 459 dias de $P_1$. Qual o período de tempo em que ocorre o alinhamento $S,P_1,P_2,P_3$ (isto é, S ilumina $P_1$, que faz sombra em $P_2$, que faz sombra em $P_3$)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 ano de $P_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 anos de $P_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6 anos de $P_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 anos de $P_1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2016-2016.2-q34",
+    "examId": "cg-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 34,
+    "statement": "Um hotel tem n quartos, todos vazios, cada um deles com capacidade para até duas pessoas. Um grupo de x turistas chega ao hotel e cada uma das pessoas é alojada sozinha em um quarto. Um segundo grupo, com y turistas, também se hospeda neste hotel, sendo que 5 dessas pessoas conseguem ficar, cada uma delas, sozinha em um quarto e as demais ocupam a segunda vaga dos quartos já ocupados pelo primeiro grupo. Sabendo-se que neste momento o hotel ainda pode abrigar mais 12 pessoas, assinale a alternativa correta.",
+    "options": [
+      {
+        "label": "a",
+        "text": "O primeiro grupo de turistas é o mais numeroso.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O segundo grupo de turistas é o mais numeroso.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Os dois grupos de turistas têm a mesma quantidade de pessoas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Se os turistas forem realocados em duplas, o hotel ficará com 17 vagas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2016-2016.2-q35",
+    "examId": "cg-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 35,
+    "statement": "A e B são dois pontos distintos sobre o gráfico da função $f(x)=\\log x$. Eles são tais que a distância da origem ao ponto A é igual à distância da origem ao ponto B. Nestas condições, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "As abscissas de ambos os pontos são números negativos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A abscissa de um dos pontos é menor do que 1, enquanto a abscissa do outro ponto é necessariamente maior do que 1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "As ordenadas de ambos os pontos são números positivos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Se a ordenada de um dos pontos é y, então a ordenada do outro ponto é necessariamente igual a -y.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2016-2016.2-q36",
+    "examId": "cg-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 36,
+    "statement": "Considere os polinômios p e q definidos no intervalo $(0,+\\infty)$ e tais que $p(x)=x^5+x^4+q(x)$. Dividindo-se p(x) por q(x) obtém-se $x^3+1$. Assinale a alternativa correta.",
+    "options": [
+      {
+        "label": "a",
+        "text": "q(2)=6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "q(2)=9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "q(2)=15.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "q(2)=48.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
