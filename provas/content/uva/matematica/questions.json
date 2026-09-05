@@ -9918,5 +9918,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2019.1-q1",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 1,
+    "statement": "Seja K o conjunto solução do sistema de inequações $\\{x-y>-1;\\ 2x+y<3;\\ x+2y>-1\\}$. A região do plano cartesiano delimitada por K é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "vazia.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "um triângulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "um quadrilátero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "um círculo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2019.1-q2",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Na figura, A, B e C são os centros das circunferências, sendo a circunferência de centro C interna e tangente às outras duas, que por sua vez são tangentes entre si. Qual o menor ângulo formado pelas tangentes aos círculos no ponto A?",
+    "options": [
+      {
+        "label": "a",
+        "text": "60°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "90°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "120°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "180°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2019.1-q3",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 3,
+    "statement": "Uma operadora de celular deseja instalar uma antena na cobertura de um prédio localizado em uma rua plana. Para melhor funcionamento, o topo da antena deve ficar a uma altura mínima de 240m em relação ao solo. Os técnicos calculam a altura do prédio depois de duas observações: em um ponto A da rua mede-se o ângulo de elevação do topo do prédio. Seguindo-se 100m em linha reta do ponto A em direção ao prédio, marca-se o ponto B e mede-se o novo ângulo de elevação. Sabendo que os ângulos observados em A e B têm tangentes 0,9 e 1,6, respectivamente, e que a antena deve ser construída com uma altura de medida inteira, assinale a alternativa que apresenta a altura mínima da antena a ser instalada:",
+    "options": [
+      {
+        "label": "a",
+        "text": "35 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "205 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "240 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "275 metros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2019.1-q4",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 4,
+    "statement": "Sobre uma bola branca de isopor, Joãozinho desenha o equador e dois meridianos, determinando seis pontos (distintos) de intersecção. Destes, considere dois pontos consecutivos no equador, digamos A e B. Em A considere a reta r1 – tangente ao equador em A – e t1 – tangente ao meridiano. Chame de a o menor ângulo formado por tais retas. Faça o mesmo em B, chamando o ângulo formado entre as duas retas tangentes de b. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a+b = 180°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a+b < 180°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a+b > 180°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a+b depende da posição relativa entre A e B.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2019.1-q5",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 5,
+    "statement": "Um pentágono está inscrito em uma circunferência de raio 1. O ponto (1,0) é vértice do pentágono. Sendo i a unidade imaginária do conjunto dos números complexos, assinale a alternativa que indica os demais vértices do pentágono.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\cos(2k\\pi/5)+i\\sin(2k\\pi/5),\\ k\\in\\{1,2,3,4\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sin(2k\\pi/5)+i\\cos(2k\\pi/5),\\ k\\in\\{1,2,3,4\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sin(k\\pi/5)+i\\cos(k\\pi/5),\\ k\\in\\{1,2,3,4\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\cos(k\\pi/5)+i\\sin(k\\pi/5),\\ k\\in\\{1,2,3,4\\}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2019.1-q6",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 6,
+    "statement": "Em um shopping existem 5 terminais de autoatendimento bancário (A, B, C, D, E) que podem ser acessados pelos clientes exclusivamente para saques. Existe uma única fila para acesso ao conjunto de terminais e ao chegar a sua vez, o cliente escolhe aleatoriamente qualquer caixa disponível. Quando não há problemas no funcionamento, cada pessoa gasta exatamente 40 segundos para fazer um saque. Todos os terminais funcionam perfeitamente, exceto o caixa D, no qual os usuários gastam 50 segundos para fazer a mesma operação (saque). Na abertura do shopping, às 10h, quando é liberado o acesso a esses terminais, Letícia é a 22ª pessoa da fila. Ao chegar a sua vez, quantos terminais estarão livres neste momento?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2019-2019.1-q7",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 7,
+    "statement": "Em um país fictício chamado Numerlândia, as pessoas possuem um número de cadastro de pessoa física semelhante ao nosso CPF. Este número é composto por 8 dígitos, digamos, abc.def-gh sendo que os dígitos \\\"g\\\" e \\\"h\\\" são de verificação. Para determinar \\\"g\\\", os números a,b,c,d,e,f são multiplicados por 9, 7, 5, 3, 1, 2, respectivamente, os resultados são somados e em seguida calcula-se o resto de sua divisão por 9. Este resto é o dígito \\\"g\\\". Para determinar \\\"h\\\" multiplica-se a,b,c,d,e,f por 8, 6, 4, 2, 3, 5, respectivamente, soma-se os resultados e calcula-se o resto de sua divisão por 9. Quais os dígitos de verificação quando os seis primeiros números são 960.241?",
+    "options": [
+      {
+        "label": "a",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "03.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "33.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2019.1-q8",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 8,
+    "statement": "De acordo com a Agência Nacional de Energia Elétrica (Aneel), o sistema de bandeiras tarifárias foi criado para sinalizar aos consumidores os custos reais da geração de energia elétrica. Na amarela há o acréscimo de R\\$1,00 a cada 100 kWh. Na vermelha no patamar 1, o adicional nas contas de luz é de R\\$3,00 a cada 100 kWh; no patamar 2, o valor extra sobe para R\\$5,00. Se o consumo mensal sob bandeira vermelha no patamar 1 de uma residência foi de 273 kWh e a companhia de energia cobra R\\$0,80 por cada kWh consumido, qual o valor descrito na conta de energia elétrica desta residência, desconsiderando outras cobranças?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 210,21.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 218,40.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 226,59.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.037,40.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2019-2019.1-q9",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 9,
+    "statement": "Uma fábrica produz meias, calções e camisas. Meias e calções têm custo de produção de uma unidade igual a R$3,00, enquanto as camisas têm um custo de produção igual a R$5,00 por cada unidade. A fábrica possui sua própria rede de lojas para venda dos itens, com preços diferenciados de acordo com a localização da loja (Loja A: meia R$7, calção R$10, camisa R$20; Loja B: meia R$10, calção R$12, camisa R$25; Loja C: meia R$12, calção R$17, camisa R$28). A quantidade de meias produzidas foi dividida igualmente para as três lojas. O mesmo aconteceu com os calções e as camisas. Com toda a produção vendida, o lucro obtido nas Lojas A, B e C, respectivamente, foi de R$8.670,00, R$10.950,00 e R$13.500,00. Quantas unidades de cada peça foram produzidas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "70 meias, 100 calções e 70 camisas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "210 meias, 300 calções e 210 camisas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "630 meias, 900 calções e 630 camisas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1006 meias, 156 calções e 981 camisas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "mf-2019-2019.1-q10",
+    "examId": "mf-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 10,
+    "statement": "Em uma eleição para a prefeitura de uma cidade com 20 mil eleitores, considerando-se apenas os votos válidos (isto é, descartadas as abstenções, votos brancos e nulos), o candidato A obteve 45\\% dos votos enquanto o candidato B obteve 55\\%. Se o total de votos válidos foi de 17 mil, qual a quantidade mínima de votos dentre os outros 3 mil eleitores que o candidato A necessitaria para vencer a eleição sem depender de possíveis novos votos para o candidato B?",
+    "options": [
+      {
+        "label": "a",
+        "text": "301.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1701.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2351.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2019-2019.2-q1",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Os cientistas estimam que a massa do planeta Terra equivale a $5,972\\times10^{24}$ quilogramas. Seja $1\\ M_{Terra}$ a unidade correspondente à massa do planeta Terra. Se a massa do planeta Mercúrio é de $0,055\\ M_{Terra}$, então, em quilogramas, a massa do planeta Mercúrio é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3,2846\\times10^{12}$ kg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3,2846\\times10^{23}$ kg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3,2846\\times10^{24}$ kg.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3,2846\\times10^{25}$ kg.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2019.2-q2",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 2,
+    "statement": "Uma pequena fábrica de bolos tem um lucro mensal dado pela função $L(x)=-4x^2+78x+26$, onde x é o número de bolos vendidos no período de um mês e L é dado em reais. A partir de que quantidade de bolos vendidos mensalmente a empresa passa a ter prejuízo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "09.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "19.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2019-2019.2-q3",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 3,
+    "statement": "Tshuapa, na República do Congo, e Rorainópolis, no estado de Roraima, Brasil, são locais conhecidos como de Latitude Zero, ou seja, são cortados pela linha do equador terrestre. As longitudes desses locais são, respectivamente, 21° leste e 61° oeste. Qual a distância geodésica (isto é, a menor distância por sobre a superfície terrestre, considerada uma esfera) entre Tshuapa e Rorainópolis? Considere o raio da terra igual a 6370 km e $\\pi=3,14$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Aproximadamente 444 km.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Aproximadamente 8.300 km.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Aproximadamente 9.100 km.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Aproximadamente 58.000 km.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2019-2019.2-q4",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 4,
+    "statement": "Na cidade Lucrolândia, as pessoas podem fazer aplicações financeiras que rendem a cada segundo do dia. O valor atual da aplicação é dado pela seguinte função: $V(t)=C\\cdot e^{t/1000}$, onde t é o tempo (em segundos) em que o dinheiro encontra-se aplicado. O instante t=0 representa o momento em que o cliente aplicou C reais. Se Silvana aplicou 400 reais às 10h, quando esse valor terá dobrado? Considere ln2=0,69.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10h11min30s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10h11min50s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11h30min.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11h50min.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2019-2019.2-q5",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 5,
+    "statement": "As novas placas no padrão Mercosul para veículos trazem uma mudança significativa: em vez do padrão LLL-NNNN, agora será adotado o formato LLL-NLNN, onde o L significa uma letra do nosso alfabeto e N um número inteiro da sequência 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9. Em termos de quantidade de veículos que podem ser identificados pelo novo padrão de placas, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Não houve alteração. É possível identificar exatamente a mesma quantidade de veículos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É possível identificar 2,6 vezes mais veículos que no padrão atual.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É possível identificar 16 vezes mais veículos que no padrão atual.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "É possível identificar 26 vezes mais veículos que no padrão atual.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2019.2-q6",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 6,
+    "statement": "O triângulo equilátero e o quadrado da figura têm os lados com medidas iguais e estão a uma mesma distância da reta indicada. Ao girarmos cada figura em torno da reta, obtemos sólidos. Sobre a razão T/Q entre o volume do sólido T gerado pelo triângulo e do sólido Q gerado pelo quadrado é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "será igual a 1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "será menor do que 1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "será maior do que 1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "depende da velocidade de rotação de cada polígono em torno da reta.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2019.2-q7",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 7,
+    "statement": "Uma definição mais geral do cilindro é a seguinte: sólido obtido pela translação de um segmento de reta (geratriz), paralelamente a si mesmo, ao longo de uma curva plana C (diretriz). Por exemplo, quando a diretriz é uma circunferência e a geratriz é um segmento perpendicular à diretriz, temos um cilindro circular reto. Considerando esta definição, observe as sentenças: (i) Um plano é um cilindro. (ii) Um cone circular reto é um cilindro. (iii) A face de um paralelepípedo é um cilindro. Os valores lógicos destas sentenças são respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "V, F, V.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "V, V, V.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "F, F, V.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "V, V, V.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2019-2019.2-q8",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 8,
+    "statement": "Um novo bairro na cidade de Complexilândia adota números complexos na forma polar (módulo em metros e argumento em graus) para endereçamento das casas. A praça central da cidade é considerada a origem do sistema e ela é cortada perpendicularmente por duas avenidas: a avenida Horizontal (que representa o eixo real) e a avenida Vertical (que representa o eixo imaginário). A casa do prefeito está localizada no ponto $350(\\cos65°+i\\sin65°)$ e a prefeitura no ponto $240(\\cos125°+i\\sin125°)$. A distância em linha reta entre a casa do prefeito e a prefeitura é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "590m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "310m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "295m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2019-2019.2-q9",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "Um artista constrói, ele mesmo, quadros em forma de círculo para produzir suas obras. Para que as peças não fiquem todas do mesmo tamanho ele faz uso de homotetia, isto é, varia o tamanho da peça sem variar a sua forma. Se uma peça tem raio 50cm e a partir desta ele reproduz outra peça, menor, com razão de homotetia de 90\\% (isto é, o círculo foi \\\"encolhido\\\" e a distância d de um ponto qualquer do círculo ao seu centro agora é de 0,9d), qual a razão entre as áreas dessas duas peças?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A peça menor tem 90% da área da peça maior.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A peça maior tem 110% da área da peça menor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A peça menor tem 81% da área da peça maior.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A peça maior tem 119% da área da peça menor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2019-2019.2-q10",
+    "examId": "mf-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "Uma pedra qualquer é um sólido irregular, não sendo possível calcular o seu volume através de fórmulas preestabelecidas. Reginaldo teve a seguinte ideia: colocou água até a metade em uma jarra de vidro com formato de cilindro circular reto (com raio da base igual a 10cm). Em seguida, colocou uma pedra dentro da jarra, ficando totalmente submersa. Ele observou que a altura da água na jarra subiu 4cm. Nestas condições, qual o volume (aproximado) da pedra?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,26 litros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,40 litros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,25 litros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,10 litros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
