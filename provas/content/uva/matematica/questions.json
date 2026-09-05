@@ -6558,5 +6558,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2013-2013.2-q1",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 1,
+    "statement": "Uma parábola sobre o plano XY contém os pontos (-1,16), (2,-2) e (4,6). Podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "o ponto (5,16) também pertence à parábola.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o ponto (0,0) também pertence à parábola.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o ponto (-2,-30) também pertence à parábola.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não existe parábola que contenha tais pontos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2013-2013.2-q2",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Sabendo que os diâmetros das circunferências abaixo são (u+1) e (1+v) e que elas se tangenciam, a área do trapézio ABCD na figura é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2(\\sqrt{u}+\\sqrt{v})$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt{u}+\\sqrt{v}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{u}+\\sqrt{v}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\sqrt{u}+\\sqrt{v}}{4}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2013-2013.2-q3",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 3,
+    "statement": "Na divisão do polinômio $(\\cos\\alpha)x+(\\cos\\beta)x^2+(\\cos\\gamma)x^3$ por $x-1$, o resultado foi $x^2+x$. Supondo $\\alpha,\\beta,\\gamma$ no intervalo $[0,\\pi]$, então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\alpha=0,\\ \\beta=\\pi/2,\\ \\gamma=\\pi$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\alpha=\\pi,\\ \\beta=\\pi/2,\\ \\gamma=0$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\alpha=\\pi/2,\\ \\beta=0,\\ \\gamma=\\pi$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\alpha=\\pi/2,\\ \\beta=\\pi,\\ \\gamma=0$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2013-2013.2-q4",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 4,
+    "statement": "Um cone X foi cortado paralelamente a sua base em três novos sólidos: um cone A e mais dois troncos de cone, B e C, onde C é o que corresponde à base do cone X. As três peças têm a mesma altura. É correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "o tronco B tem volume 7/3 maior que o cone A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o tronco C tem volume 19 vezes maior que o cone A.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "as três peças têm o mesmo volume.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "os troncos B e C somam 8/9 do volume de X.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2013-2013.2-q5",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "Uma função contínua $f:[0,a]\\to R$ é tal que $f(x)>0$ para todo $x\\in[0,a]$. Seja A a área sob o gráfico de f. Se $g:[0,a]\\to R$ é definida por $g(x)=f(x)+b$ onde $b>0$, então a área sob o gráfico de g é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A+a.b",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A+b",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a.(A+b)",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(A+a).b",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2013-2013.2-q6",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 6,
+    "statement": "Na datação de fósseis, os cientistas usam a fórmula $T=(-8225)\\ln(N_f/N_0)$ para aproximar a quantidade T de anos, onde $N_f/N_0$ é o percentual (entre 0 e 1) de carbono-14 presente no fóssil em relação à quantidade presente se o organismo ainda estivesse vivo. Um cientista encontrou um fóssil com $N_f/N_0=0,13$, mas cometeu um erro no cálculo do logaritmo natural, considerando $\\ln(0,013)$ em vez de $\\ln(0,13)$. Tal equívoco representa:",
+    "options": [
+      {
+        "label": "a",
+        "text": "um acréscimo inferior a 8225 anos na idade do fóssil.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "um acréscimo de mais de 8225 anos na idade do fóssil.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "um decréscimo superior a 8225 anos na idade do fóssil.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "um decréscimo de menos de 8225 anos na idade do fóssil.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2013-2013.2-q7",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Um estudante realizou o produto A.B, onde A e B são matrizes quadradas e de mesma ordem, e obteve a matriz identidade. Supondo que todos os cálculos são feitos corretamente, quando o estudante realizou o produto B.A, então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "ele obteve uma matriz cujo determinante é diferente de 1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ele obteve uma matriz quadrada onde cada elemento da diagonal secundária é igual a 1 e os demais elementos são todos nulos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ele obteve novamente a matriz identidade.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ele obteve uma matriz onde cada elemento na diagonal principal é igual a -1 e os demais elementos são todos nulos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2013-2013.2-q8",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 8,
+    "statement": "As retas u e v são paralelas. Sobre a reta u estão os pontos $a_1,a_2,\\ldots,a_{12}$. Sobre a reta v estão os pontos $b_1,b_2,\\ldots,b_{13}$. O número de triângulos que podem ser formados com vértices em tais pontos é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "35",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "858",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "936",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1794",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2013-2013.2-q9",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 9,
+    "statement": "Considere o conjunto dos números inteiros Z e a operação # definida por $x\\#y=x+y-2$. Assinale a opção correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "nem sempre ocorre $x\\#y=y\\#x$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x\\#(2)=x$ para todo inteiro x.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x\\#(-x)=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(-1)\\#x=-x$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2013-2013.2-q10",
+    "examId": "mf-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "Um hexágono regular $H_1$ está inscrito em uma circunferência de raio 1. Em cada lado de $H_1$ marca-se o ponto médio e esses seis novos pontos são vértices do hexágono $H_2$. O mesmo procedimento é feito com o hexágono $H_2$, donde obtém-se o hexágono $H_3$. Considere um vértice A de $H_1$ e um vértice B de $H_3$, de modo que tais pontos sejam colineares com o centro da circunferência. A distância entre os pontos A e B é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2013-2014.1-q1",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 1,
+    "statement": "Considere a função $f:[-1,3]\\to[\\pi/2,3\\pi/2]$, $f(x)=\\arcsin(x)$ se $x\\in[-1,1]$ e $f(x)=-\\arcsin(2-x)$ se $x\\in(1,3]$, onde arcsen(x) é a função inversa da função seno. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f(x)=0 possui duas raízes reais",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f é uma função crescente no intervalo [-1,3]",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O valor máximo de f é 3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O valor mínimo de f é $\\pi/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2013-2014.1-q2",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Calculando-se a área do interior de uma figura em forma de estrela de quatro pontas, inscrita entre os pontos (-2,0), (2,0), (0,1) e (0,-2) no plano cartesiano (com os vértices internos em (-1,0), (1,0), (0,-1)), o valor obtido é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2013-2014.1-q3",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 3,
+    "statement": "Um paralelepípedo de base quadrada está inscrito em uma esfera de raio R. O ângulo que a diagonal do paralelepípedo faz com a sua base é igual a $\\theta$. O volume do paralelepípedo é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4R^3\\cos\\theta\\sin^2\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4R^3\\cos^2\\theta\\sin\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4R^3\\cos^3\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4R^3\\sin^3\\theta$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2013-2014.1-q4",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 4,
+    "statement": "N números complexos distintos $z_1,z_2,z_3,\\ldots,z_n$ são representados (nesta ordem e no sentido anti-horário) no plano e estão todos à uma mesma distância da origem, determinando N setores circulares. O número $z_1$ é um real puro e positivo. Uma pessoa com os olhos vendados e de posse de uma caneta, marca um ponto que atinge o interior de um dos setores. Sendo o primeiro setor, aquele determinado por $z_1$ e $z_2$, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a chance da pessoa ter acertado o primeiro setor é igual a chance de ter acertado qualquer um dos outros setores.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a chance da pessoa ter acertado o primeiro setor depende de N.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a chance da pessoa ter acertado o primeiro setor é diretamente proporcional ao argumento do complexo $z_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a chance da pessoa ter acertado o primeiro setor é diretamente proporcional ao argumento do complexo $z_2-z_1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2013-2014.1-q5",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 5,
+    "statement": "Considere A e B matrizes quadradas de ordem 2 tais que A+A=B e A.A=B. Sendo B uma matriz inversível, o produto A.B é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\begin{pmatrix}1/2&0\\\\0&1/2\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\begin{pmatrix}1&0\\\\0&1\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\begin{pmatrix}2&0\\\\0&2\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\begin{pmatrix}8&0\\\\0&8\\end{pmatrix}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2013-2014.1-q6",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "As elipses $x^2+4y^2-6x-16y+9=0$ e $9x^2+4y^2-18x-16y-11=0$ se tangenciam no ponto:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$X=-1,\\ Y=2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$X=5/2,\\ Y=(3\\sqrt{21}-8)/4$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$X=5/2,\\ Y=-(3\\sqrt{21}+8)/4$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$X=2,\\ Y=-1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2013-2014.1-q7",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 7,
+    "statement": "A soma dos coeficientes do polinômio $(2x^{10}-4)^{12}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1024.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2048.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4096.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8192.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2013-2014.1-q8",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "As retas y=2x+1, y=-3x+1 e y=-2x+3 determinam um triângulo. A equação da reta que é suporte para a mediana do triângulo relativa ao lado que está totalmente no 1º quadrante é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "y=-22x+19.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$y=-\\dfrac{22}{9}x+\\dfrac{19}{9}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$y=\\dfrac{22}{9}x-\\dfrac{19}{9}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "y=22x-19.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2013-2014.1-q9",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 9,
+    "statement": "Uma caneta do tipo A custa R\\$3,00. Uma caneta do tipo B custa R\\$2,00. A empresa X deve fazer uma compra de forma que os dois tipos de caneta sejam adquiridos e o valor total da compra seja de, no mínimo, R\\$400,00. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Se a empresa X comprar exatamente 100 canetas do tipo A, então são necessárias pelo menos 100 canetas do tipo B.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Para que a empresa X compre as canetas do tipo A e B em igual quantidade, então um total de 150 canetas é suficiente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Se a empresa X comprar mais canetas do tipo B, então 250 canetas do tipo A forçam uma compra no valor total de pelo menos R$1.250,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Se a empresa X comprar mais canetas do tipo A, então 100 canetas do tipo B forçam uma compra dentro das condições pré-estabelecidas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2013-2014.1-q10",
+    "examId": "mf-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 10,
+    "statement": "Sejam x e y tais que $\\log_{10}^x=0,8\\overline{8}$ (dízima) e $\\log_{10}^y=1,\\overline{285714}$ (dízima), onde o traço indica dízima periódica. Então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x.y=10^{137/63}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x.y=10^{8/7}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x.y=10^{17/16}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x.y=10^{18/17}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
