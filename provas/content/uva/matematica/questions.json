@@ -17022,5 +17022,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2022-2023.1-q29",
+    "examId": "cg-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Para preparar um cuscuz para quatro pessoas, João utiliza 3 xícaras de flocão e 1 xícara de aveia (além de água e sal). O cuscuz recebe tantos elogios que ele resolveu fazer para vender. Ele pretende fazer a receita para vender 30 unidades por dia, de segunda a sábado. Sabendo que um pacote de 500g de flocão equivale a sete xícaras, quantos pacotes de flocão João deve comprar semanalmente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "19.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "23.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2022-2023.1-q30",
+    "examId": "cg-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 30,
+    "statement": "Uma campanha visa arrecadar fundos para a construção de uma escola na zona rural. O orçamento total foi estimado em 2,3 milhões de Reais. Segundo a equipe responsável, a obra pode ser iniciada quando a campanha tiver arrecadado pelo menos 35\\% deste valor. Assinale a alternativa que apresenta o valor mínimo (em Reais) que deve ser arrecadado para que se inicie as obras:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 80.500,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 149.500,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 805.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.495.000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2022-2023.1-q31",
+    "examId": "cg-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 31,
+    "statement": "Ramirez tem uma empresa (devidamente registrada) que presta serviços domiciliares. Por ser empreendedor, Ramirez tem direito a um desconto de 15\\% na compra de um automóvel novo. Na concessionária Ramirez foi informado de que os clientes que compram no dia do seu próprio aniversário recebem um desconto adicional de 3\\%, mas, infelizmente, não era o caso de Ramirez. Para um modelo que custa R\\$75.000,00, quanto Ramirez deixou de economizar por não poder esperar até o dia do seu aniversário?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 13.500,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 11.250,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 2.250,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.912,50.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2022-2023.1-q32",
+    "examId": "cg-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 32,
+    "statement": "Jorgito foi demitido recentemente da empresa na qual trabalha há anos. Parte do dinheiro que recebeu como indenização foi aplicado a juros simples de 12\\% a.a, durante 6 meses. Ao final deste tempo, ele fez nova aplicação, agora com o valor atualizado, a juros simples de 6\\% a.a por 18 meses. O total atualizado depois das duas aplicações é de R\\$9.243,20. Quanto Jorgito aplicou inicialmente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 8.720,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 8.480,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 8.037,57.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 8.000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2022-2023.1-q33",
+    "examId": "cg-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 33,
+    "statement": "O gráfico abaixo representa o número de inscrições a cada ano em cursos de graduação de universidades públicas brasileiras que adotam o Sistema de Seleção Unificada (SiSU): 2011: 2.869.515; 2012: 4.656.548; 2013: 5.329.340; 2014: 7.334.611; 2015: 7.734.626; 2016: 6.959.642; 2017: 6.677.433; 2018: 5.101.310; 2019: 4.706.430; 2020: 4.272.834; 2021: 3.111.450. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "No ano de 2015 registrou-se o maior aumento de inscrições em relação ao ano anterior.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "De 2011 a 2015 observa-se um aumento de mais de 170% no número de inscrições.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "De 2015 a 2021 observa-se uma queda de quase 60% no número de inscrições.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "No ano de 2021 registrou-se o maior decréscimo de inscrições em relação ao ano anterior.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2022-2023.1-q34",
+    "examId": "cg-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 34,
+    "statement": "Os preços observados do quilograma do tomate nos meses de julho, agosto e setembro de 2022 foram, respectivamente, R\\$7,00, R\\$6,50 e R\\$7,30. Para calcular o preço médio do quilograma do tomate neste trimestre, Natália fez uso de produto de matrizes. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Natália fez o produto $P_{1\\times3}\\cdot[\\frac{1}{3}]_{3\\times1}$ onde P é a matriz com os preços observados e $[\\frac{1}{3}]_{3\\times1}$ é a matriz cujos elementos são todos iguais a 1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Natália fez o produto $P_{3\\times1}\\cdot[\\frac{1}{3}]_{1\\times3}$ onde P é a matriz com os preços observados e $[\\frac{1}{3}]_{1\\times3}$ é a matriz cujos elementos são todos iguais a 1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Natália fez o produto $P_{3\\times3}\\cdot[\\frac{1}{3}]_{1\\times1}$ onde P é a matriz com os preços observados e $[\\frac{1}{3}]_{1\\times1}$ é a matriz cujos elementos são todos iguais a 1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Natália fez o produto $P_{3\\times3}\\cdot[\\frac{1}{3}]_{3\\times3}$ onde P é a matriz com os preços observados e $[\\frac{1}{3}]_{3\\times3}$ é a matriz cujos elementos são todos iguais a 1/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2022-2023.1-q35",
+    "examId": "cg-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 35,
+    "statement": "Antigamente, os vestibulares de ingresso em várias universidades brasileiras tinham questões do tipo somatório, isto é, a questão trazia uma lista de sentenças enumeradas da seguinte forma: 01. Sentença A; 02. Sentença B; 04. Sentença C; 08. Sentença D; 16. Sentença E. O candidato deveria colocar no campo de resposta, o somatório dos valores correspondentes às sentenças verdadeiras. A questão era avaliada como correta apenas quando o candidato obtivesse o somatório exato. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Esse sistema dava ao candidato a possibilidade de chegar ao mesmo somatório escolhendo conjuntos de sentenças diferentes.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Esse sistema dava ao candidato a certeza de que o somatório de cada questão seria um número inteiro entre 0 e 31.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Esse sistema dava ao candidato a possibilidade de chegar a um somatório negativo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Esse sistema dava ao candidato a certeza de que o somatório seria uma potência de 2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2022-2023.1-q36",
+    "examId": "cg-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 36,
+    "statement": "Um fabricante de condicionadores de ar indica o uso de seus aparelhos de acordo com a área do piso do cômodo. Os aparelhos vêm de fábrica com potências a partir de 9.000 BTUs, variando de 3.000 em 3.000. Para um cômodo de 15m² de área, o fabricante recomenda usar um aparelho com potência de 9.000 BTUs. Sendo a potência diretamente proporcional à área de resfriamento, qual a potência mínima indicada para resfriar um cômodo de dimensões 8m x 12m?",
+    "options": [
+      {
+        "label": "a",
+        "text": "57.000 BTUs.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "57.600 BTUs.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "58.000 BTUs.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60.000 BTUs.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
