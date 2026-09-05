@@ -14718,5 +14718,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2017-2017.1-q29",
+    "examId": "cg-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Uma imagem em um aparelho de TV Full HD é subdividida em 1920 colunas e 1080 linhas. Cada quadrado de tal subdivisão é chamado pixel. A partir de 2003 surgiram os aparelhos de TV Ultra HD, nos quais a imagem é subdividida no dobro de linhas e no dobro de colunas, se comparada às TVs Full HD. Com isso, na TV Ultra HD, a quantidade de pixels:",
+    "options": [
+      {
+        "label": "a",
+        "text": "permanece a mesma.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é duplicada.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é quadruplicada.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é octuplicada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2017-2017.1-q30",
+    "examId": "cg-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 30,
+    "statement": "Dadas as inequações $2x-7>0$ e $5x-8<0$, que valores de x satisfazem ambas simultaneamente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "x < 1,6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,6 < x < 3,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x > 3,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Nenhum valor para x satisfaz as duas equações simultaneamente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2017-2017.1-q31",
+    "examId": "cg-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 31,
+    "statement": "Um professor aplicou três provas, a saber, P1, P2 e P3. Cada prova vale de 0 a 10. Para calcular a nota final (NF), ele multiplica a nota da prova Pk por k, soma os três produtos e depois divide o total por 6. Um aluno que obteve 3,0 na prova P1 e 3,0 na prova P2 deve obter que nota na prova P3 para que sua NF seja igual a 6,0?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não há como o aluno atingir 6,0 na NF.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2017-2017.1-q32",
+    "examId": "cg-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 32,
+    "statement": "Francisco financiou a compra de sua casa própria em 240 parcelas. A cada ano o valor é 5\\% menor em relação ao ano anterior. No primeiro ano a parcela é de R\\$640,00. Qual o valor da parcela no 4º ano?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 577,60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 548,72.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 521,28.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 495,22.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2017-2017.1-q33",
+    "examId": "cg-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "A negação de \"Rita é brasileira ou Rita foi ao museu\" é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Rita é brasileira e Rita foi ao museu.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Rita não é brasileira e Rita foi ao museu.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Rita é brasileira e Rita não foi ao museu.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Rita não é brasileira e Rita não foi ao museu.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2017-2017.1-q34",
+    "examId": "cg-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 34,
+    "statement": "Em cada face de um cubo de aresta a, colam-se pirâmides de base quadrada (estas bases também de aresta a). O novo sólido tem quantas arestas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "48.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "36.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2017-2017.1-q35",
+    "examId": "cg-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 35,
+    "statement": "Sabe-se que a, b são números reais tais que $\\log a=0,8$ e $\\log b=0,62$. Assinale o valor de $\\log_b a^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "8/29791.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "80/93.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40/31.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "240/31.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2017-2017.1-q36",
+    "examId": "cg-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 36,
+    "statement": "Dois dados, cada um com seis faces, e numerados de 1 a 6, são lançados simultaneamente sobre uma superfície plana. Somam-se os valores das faces que ficam para cima (paralelas à superfície). Assinale a soma com maior probabilidade de ocorrer.",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
