@@ -17698,5 +17698,1285 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.1-q1",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Um corpo viaja com velocidade de $15\\ m/s$ em uma trajetória retilínea. Cinco segundos depois sua velocidade é de $10\\ m/s$ no sentido oposto. Qual o módulo da aceleração média que agiu sobre o corpo nestes cinco segundos?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15 m/s²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.1-q2",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Um elevador, de massa total $1000\\ kg$, desce com velocidade constante de $12\\ m/s$. A partir de determinado instante uma tensão, T, faz o elevador parar após percorrer $36\\ m$. Qual o valor da tensão T? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.000 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.000 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.000 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.000 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q3",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 3,
+    "statement": "Qual o módulo do impulso necessário para fazer um corpo de massa $m = 5\\ kg$ e velocidade de $V = 4\\ m/s$ inverter o sentido de seu movimento, e atingir a velocidade de final de $4\\ m/s$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 kgm/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20 kgm/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30 kgm/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40 kgm/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q4",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 4,
+    "statement": "Considerando ainda a questão anterior, qual o módulo da força média que foi aplicada ao corpo, se todo o processo durou $4\\ s$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.1-q5",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 5,
+    "statement": "Considerando um móvel em movimento circular uniforme, podemos afirmar verdadeiramente que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O móvel manterá sua trajetória circular até que uma força externa atue sobre ele.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É necessário uma força para manter a trajetória circular.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Há aceleração, e ela é proporcional ao raio da trajetória circular.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O módulo da velocidade não varia e por isso não há aceleração.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.1-q6",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 6,
+    "statement": "Dois terços de um corpo de volume V é feito de um material de densidade $0,5\\ g/cm^3$, e o terço restante por um material de densidade $5,0\\ g/cm^3$. A densidade média deste corpo é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5 g/cm³",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6 g/cm³",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.1-q7",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 7,
+    "statement": "Uma bailarina de massa $40\\ kg$ está se apoiando nas pontas dos pés sobre uma superfície de contato com o solo de $4\\ cm^2$. A pressão exercida pela bailarina sobre o solo é igual a: Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 N/m²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^2$ N/m²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^4$ N/m²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^6$ N/m²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q8",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 8,
+    "statement": "Quatro recipientes cilíndricos, usados no armazenamento de água estão cheios. Eles têm mesma altura, mas áreas das bases diferentes e de valores iguais a $1\\ m^2$, $2\\ m^2$, $5\\ m^2$ e $10\\ m^2$. Podemos afirmar verdadeiramente que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A pressão da água é igual no fundo de todos os recipientes.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A pressão da água é maior no fundo do recipiente de área da base a 10 m².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A pressão da água é maior no fundo do recipiente de área da base igual a 1 m².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não é possível se determinar em qual dos recipientes a pressão no fundo é maior.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.1-q9",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 9,
+    "statement": "O calor específico do cobre é $0,0921$, o do chumbo $0,0306$ e o do mercúrio $0,0332$; valores dados em cal/g°C. Para aquecer $1\\ kg$ de cada um deles elementos de $30°C$ até $100°C$, a quantidade de calor necessária será maior na seguinte ordem:",
+    "options": [
+      {
+        "label": "a",
+        "text": "cobre, mercúrio, chumbo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mercúrio, cobre, chumbo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "chumbo, mercúrio, cobre.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "cobre, chumbo, mercúrio.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q10",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "Em termodinâmica, o que é um corpo negro?",
+    "options": [
+      {
+        "label": "a",
+        "text": "É um corpo de cor preta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É um corpo que não emite radiação.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É um corpo que não absorve radiação.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "É um radiador e absorvedor ideal.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q11",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "Se no fundo de uma piscina você soltar uma bolha de ar de volume V, à medida que ela subir para a superfície o volume irá:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Aumentar",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Diminuir",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Permanecer o mesmo",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não podemos concluir sem saber valores numéricos",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.1-q12",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 12,
+    "statement": "Um gás ideal sofre uma transformação isotérmica. A variação da energia interna deste gás será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Positiva",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Negativa",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Zero",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não se pode determinar",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q13",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 13,
+    "statement": "Em um capacitor de placas paralelas se dobrarmos a área das placas e reduzirmos a distância entre elas à metade da distância original, a nova capacitância será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Duplicada",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Reduzida à metade",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Quadruplicada",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não irá se alterar",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q14",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 14,
+    "statement": "Na figura abaixo I é a corrente que chega ao circuito, formado por dois resistores em paralelo de $100\\ \\Omega$ e $200\\ \\Omega$. A corrente que passa pelo resistor de $200\\ \\Omega$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "I",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2I",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I/3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q15",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 15,
+    "statement": "Uma corda de $1$ metro de comprimento, presa por suas extremidades oscila formando uma onda estacionária. O maior comprimento de onda possível será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,0 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,0 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,0 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q16",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 16,
+    "statement": "Uma coluna de ar vibra em um tubo sonoro de $1\\ m$ de comprimento, fechado em uma de suas extremidades. Se uma onda estacionária é formada, o maior comprimento de onda possível no interior do tubo será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q17",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 17,
+    "statement": "Ultra-violeta, visível e infra-vermelho, são regiões do espectro eletromagnético da luz. Pode-se afirmar verdadeiramente que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a região ultra-violeta possui comprimentos de onda maiores que os da região da luz visível.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a região infra-vermelho possui comprimentos de onda maiores que os da região da luz visível.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a região visível possui frequências maiores que as da região ultra-violeta.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a região visível possui frequências menores que as da região infra-vermelho.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.1-q18",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 18,
+    "statement": "Sejam os seguintes índices de refração: Água $1,33$; vidro $1,50$; diamante $2,42$. Considerando as velocidades da luz nestes meios, a ordem correta do meio de menor velocidade para o meio de maior velocidade será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Água, vidro e diamante",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Vidro, água, e diamante",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Diamante, água e vidro",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Diamante, vidro e água",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q19",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 19,
+    "statement": "Quais das equivalências de unidades de medidas abaixo não é correta?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Newton = quilograma.metro/(segundo)²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Joule = Newton.metro",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Newton/(metro)² = Pascal",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Ampère = Coulomb.segundo",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q20",
+    "examId": "cg-2005-2005.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 20,
+    "statement": "Qual das unidades de medida listadas abaixo não pertence a uma grandeza fundamental do sistema internacional de unidades?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Metro",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Candela",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Coulomb",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Kelvin",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.2-q1",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 1,
+    "statement": "Qual a energia, em elétron-volts, adquirida por uma partícula $\\alpha$ (o núcleo do átomo de hélio, $_4He^{2+}$), quando é acelerado por um potencial de $10\\ V$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q2",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 2,
+    "statement": "Qual das unidades de medida listadas abaixo não é uma unidade de medida de pressão?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Bar",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "libras",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "torr",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "atm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q3",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 3,
+    "statement": "Um motorista viaja em seu automóvel, de massa $1200\\ kg$, com a velocidade de $108\\ km/h$. A $230\\ m$ do posto da polícia rodoviária ele vê a placa de velocidade máxima igual a $36\\ km/h$. Se o tempo de reação do motorista é de um segundo, qual o módulo de sua aceleração para que ele passe em frente ao posto rodoviário com a velocidade permitida?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 m/s²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q4",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 4,
+    "statement": "Considerando ainda a questão anterior, que força média foi aplicada ao carro, para reduzir sua velocidade?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1200 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2400 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4800 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6000 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q5",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 5,
+    "statement": "Considerando as questões 3 e 4 qual o tempo de atuação da força que fez o automóvel reduzir sua velocidade?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.2-q6",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 6,
+    "statement": "Um carro pipa foi abastecido em um açude. Ao sair pela estrada, verifica-se que devido a uma torneira mau fechada, um pingo de água cai no solo a cada dois segundos. Se a distância entre o quarto e o quinto pingo é de $14\\ m$ qual a aceleração do carro pipa? Considere que o primeiro pingo cai no chão no momento da partida do caminhão.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4 m/s²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.2-q7",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 7,
+    "statement": "Em um plano de vôo, o piloto traça, a partir da origem, uma rota de $300\\ km$ no sentido norte para ser percorrida em $2\\ h$. Em seguida $400\\ km$ para ser percorrido no sentido leste em $3\\ h$. Seguindo o plano de vôo, qual será a velocidade média do avião entre a origem e o ponto de chegada?",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "140 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "150 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "170 km/h",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.2-q8",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 8,
+    "statement": "A densidade do gelo é de $0,9\\ g/cm^3$. Em um copo com água de densidade $1\\ g/cm^3$, que percentagem do volume de um cubo de gelo ficará fora da água?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "90%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.2-q9",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 9,
+    "statement": "Em uma transformação isotérmica de um gás ideal, sua pressão inicial é duplicada. Podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O volume do gás duplicará.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O volume do gás permanecerá constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O volume do gás será reduzido à metade.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O volume do gás irá variar de um valor desconhecido.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.2-q10",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "O que é convecção?",
+    "options": [
+      {
+        "label": "a",
+        "text": "É a transmissão de calor através das moléculas que compõem um meio material.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É a transmissão de calor através de emissão ou absorção de ondas eletromagnéticas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É a transmissão de calor através do deslocamento de camadas do meio material, devido à diferença de densidade entre elas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "É a transmissão de calor através do contato entre um corpo e outro de temperatura mais alta.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.2-q11",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 11,
+    "statement": "Das grandezas abaixo, qual será igual nas microondas e na luz visível?",
+    "options": [
+      {
+        "label": "a",
+        "text": "O comprimento de onda.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A frequência.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A amplitude.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A velocidade no vácuo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q12",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "Qual a característica incorreta das ondas sonoras?",
+    "options": [
+      {
+        "label": "a",
+        "text": "São ondas mecânicas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "São ondas transversais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Podem sofrer reflexão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Transportam energia.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q13",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 13,
+    "statement": "Considerando o átomo de hidrogênio como sendo composto de um próton, e, um elétron girando uma órbita circular em torno do próton, a uma distância $r_0$. Podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A força elétrica entre o próton e o elétron é maior que a força gravitacional entre os dois.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A força gravitacional entre o próton e o elétron é maior que a força elétrica entre os dois.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A força elétrica e a força gravitacional entre o próton e o elétron são iguais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não haverá força elétrica, nem força gravitacional, entre o próton e o elétron.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.2-q14",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 14,
+    "statement": "Na figura abaixo uma carga elétrica puntiforme de valor $5q$ está localizada à direita e a uma distância r de outra carga elétrica puntiforme de valor $-q$. Qual o sentido do campo elétrico a uma distância r, à esquerda de $-q$, ao longo da linha reta que passa pelas duas cargas? Considere que as cargas se encontram no vácuo.",
+    "options": [
+      {
+        "label": "a",
+        "text": "para a direita.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "para a esquerda.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "para cima.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "para baixo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q15",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 15,
+    "statement": "Considerando, a questão anterior, qual o módulo da força elétrica resultante, sobre uma carga teste $+q$ localizada no ponto médio da distância entre as duas cargas? $K_0$ é a constante eletrostática do vácuo.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$K_0q^2/r^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$6K_0q^2/r^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$16K_0q^2/r^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$24K_0q^2/r^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q16",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 16,
+    "statement": "Considerando ainda, as questões 14 e 15, qual o valor do potencial elétrico a uma distância r à direita de $5q$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$K_0q/r$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4,5K_0q/r$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$5K_0q/r$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6K_0q/r$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q17",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 17,
+    "statement": "Medindo-se a corrente elétrica que passa por um resistor em função do potencial aplicado aos terminais do mesmo obtivemos os seguintes valores: Potencial (V): 0,1,2,3,4,5; Corrente (mA): 0,1,4,9,16,25. A partir destes dados, qual a razão entre o valor da resistência quando o potencial é igual a $1\\ V$ e o valor da resistência quando o potencial for igual a $5V$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.2-q18",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 18,
+    "statement": "O elevador hidráulico está baseado:",
+    "options": [
+      {
+        "label": "a",
+        "text": "No princípio de Arquimedes",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "No teorema do empuxo",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Na lei de Boyle",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "No princípio de Pascal",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q19",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Uma conversa normal, a $1m$ de distância, possui um nível sonoro de $60\\ dB$. Sabendo que o nível sonoro do limiar da dor no ouvido humano é $120\\ dB$, podemos dizer que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A intensidade sonora do limiar da dor é duas vezes maior que a intensidade sonora da conversa normal.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A intensidade sonora do limiar da dor é sessenta vezes maior que a intensidade sonora da conversa normal.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A intensidade sonora do limiar da dor é $10^2$ vezes maior que a intensidade sonora da conversa normal.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A intensidade sonora do limiar da dor é $10^6$ vezes maior que a intensidade sonora da conversa normal.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q20",
+    "examId": "cg-2005-2005.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Para aumentar a intensidade de uma onda sonora, devemos aumentar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sua frequência",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Sua amplitude",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Seu comprimento de onda",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Sua velocidade",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
