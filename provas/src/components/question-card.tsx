@@ -212,7 +212,7 @@ export function QuestionCard({
         <div className="mt-4 flex items-start gap-2 rounded-xl bg-amber-50 p-4 text-base font-semibold text-amber-800 dark:bg-amber-950/40 dark:text-amber-400">
           <AlertTriangle className="mt-0.5 size-5 shrink-0" />
           <span>
-            Questão anulada pelo gabarito oficial do IFMA. Não há alternativa correta — a questão é exibida
+            Questão anulada pelo gabarito oficial ({institutionName}). Não há alternativa correta — a questão é exibida
             apenas para referência.
           </span>
         </div>
