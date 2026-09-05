@@ -13986,5 +13986,1221 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2008-2008.2-q1",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 1,
+    "statement": "Uma massa de $10\\ g$ está presa a uma mola de constante elástica, $k=100\\ N/m$. Ela executa um movimento harmônico simples, de amplitude $10\\ cm$, sobre uma superfície horizontal sem atrito. Qual a maior velocidade que a massa atinge?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,1 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,0 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2008-2008.2-q2",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Um homem entra em um elevador com uma balança. Com o elevador parado ele verifica que seu peso corresponde a uma massa de $70\\ kg$. O elevador começa a subir e o homem observa que seu peso aparente (leitura da balança) corresponde ao de uma massa de $84\\ kg$ durante $5s$; em seguida ao de uma massa de $70\\ kg$ durante $5s$, e finalmente, ao de uma massa de $56\\ kg$ durante outros $5s$, quando, finalmente, o elevador pára. Qual a distância percorrida pelo elevador? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "25 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2008-2008.2-q3",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 3,
+    "statement": "Se a Terra tivesse metade de seu diâmetro atual, sua massa seria $1/8$ da sua massa atual. Qual seria o valor da gravidade nesta fictícia? Considere a aceleração da gravidade atual igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,5\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5,0\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10\\ m/s^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$40\\ m/s^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2008-2008.2-q4",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 4,
+    "statement": "Qual, dos gráficos abaixo, representa o resultado de uma medida de capacitância em função da distância entre as placas, para um capacitor de placas paralelas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Gráfico A",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Gráfico B",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Gráfico C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Gráfico D",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "mf-2008-2008.2/q04.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2008-2008.2-q5",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 5,
+    "statement": "No modelo clássico do átomo de hidrogênio, o elétron encontra-se girando em uma órbita localizada a $5,1\\times10^{-11}\\ m$ do próton. Qual a velocidade mínima que este elétron deve ter para escapar desta órbita? Despreze a força gravitacional entre os dois. Dados: carga elétrica elementar igual a $1,6\\times10^{-19}\\ C$, massa do elétron igual a $9,0\\times10^{-31}\\ kg$, $k_0=9,0\\times10^9\\ Nm^2/C^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^6\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{2}\\times10^6\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{3}\\times10^6\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{10}\\times10^6\\ m/s$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2008-2008.2-q6",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 6,
+    "statement": "Uma amostra de um gás ideal ocupa um volume V a uma pressão P e temperatura absoluta T. Se k é a constante de Boltzman, qual das seguintes expressões dá o número de moléculas da amostra? A constante de Boltzman é dada por k=R/Na, onde R é a constante universal dos gases e Na o número de Avogadro.",
+    "options": [
+      {
+        "label": "a",
+        "text": "PV/T",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "k/PVT",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "PV/kT",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "kT/V",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2008-2008.2-q7",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 7,
+    "statement": "A densidade de um cubo de gelo de volume $1\\ cm^3$ é $0,90\\ g/cm^3$. A que altura o topo do cubo flutua acima da superfície da água? A densidade da água é igual a $1\\ g/cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,9 mm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 mm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9 mm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 mm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2008-2008.2-q8",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "Um cubo de latão tem lado $50,0\\ cm$. Qual o aumento de sua área superficial se a temperatura subir de $20,0°C$ para $70,0°C$? O coeficiente de dilatação linear do latão é $20,0\\times10^{-6}/°C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10,0 cm²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15,0 cm²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20,0 cm²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30,0 cm²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2008-2008.2-q9",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 9,
+    "statement": "A velocidade de uma onda em uma corda fixa nas suas duas extremidades é de $1,8\\ m/s$. A corda contém ondas estacionárias cujas distâncias entre dois nodos consecutivos é $3\\ cm$. Qual a frequência da vibração da corda?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,6 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,4 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "45 Hz",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2008-2008.2-q10",
+    "examId": "mf-2008-2008.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 10,
+    "statement": "Um raio de luz atravessa uma interface óleo-vidro, incidindo do óleo no vidro. A velocidade da luz no óleo é $v_1$ e a velocidade da luz no vidro é $v_2$. Qual a razão $sen(\\theta_1)/sen(\\theta_2)$? $\\theta_1$ é o ângulo de incidência e $\\theta_2$, o ângulo de refração.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$v_1/v_2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$v_2/v_1$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$v_1v_2/(v_1+v_2)$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(v_1+v_2)/v_1v_2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2009-2009.1-q1",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 1,
+    "statement": "Uma bombinha de São João, de massa $40\\ g$, desloca-se com velocidade $3,0\\ m/s$. Ela explode em duas massas exatamente iguais. Imediatamente após a explosão, uma das massas tem velocidade zero. Qual a energia cinética da outra massa neste mesmo instante?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,09 J",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,18 J",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,36 J",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,72 J",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2009-2009.1-q2",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Um garoto deixa cair uma pedra de uma janela a $30\\ m$ de altura. No instante em que a pedra passa por um garoto que se encontra em outra janela a $20\\ m$ de altura, este último deixa cair outra pedra. Quanto tempo transcorre entre as quedas das duas pedras no chão? Considere a aceleração da gravidade $g=10\\ m/s^2$. Considere $\\sqrt{2}=1,4$ e $\\sqrt{6}=2,4$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,8 s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,0 s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,4 s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,4 s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2009-2009.1-q3",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 3,
+    "statement": "Se a Lua tivesse o dobro de sua atual massa, mas se movesse na sua órbita atual (suposta circular), qual seria o seu período de translação em torno da Terra? Considere o período de translação atual $28$ dias.",
+    "options": [
+      {
+        "label": "a",
+        "text": "14 dias",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20 dias",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "28 dias",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "56 dias",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2009-2009.1-q4",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 4,
+    "statement": "Um feixe de elétrons de velocidade $10^6\\ m/s$ se move, penetrando no plano da página, em uma região onde existem um campo magnético e um campo elétrico no sentido mostrado na figura. Qual o valor da razão E/B para que a força resultante sobre o feixe seja zero?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^8\\ V/T$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^4\\ V/T$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^2\\ V/T$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 V/T",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "mf-2009-2009.1/q04.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2009-2009.1-q5",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 5,
+    "statement": "Uma corrente de $9,6\\ A$ é mantida em um fio condutor. Quantos moles de elétrons passam por segundo em uma seção transversal reta deste fio? Dados: Número de Avogadro: $6,0\\times10^{23}$, carga elementar: $1,6\\times10^{-19}\\ C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^{-2}$ moles",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{-4}$ moles",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^6$ moles",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^8$ moles",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2009-2009.1-q6",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 6,
+    "statement": "O avião supersônico Concorde (que já saiu de linha) possui comprimento $62,1\\ m$ em um dia de temperatura $15°C$. Quando viajava a duas vezes a velocidade do som, o atrito com o ar fazia com que seu comprimento aumentasse $25\\ cm$. O Concorde era feito de alumínio cujo coeficiente de dilatação linear é $\\alpha=23\\times10^{-6}/°C$. Qual a temperatura externa do Concorde durante o voo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "160°C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "170°C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "190°C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "210°C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2009-2009.1-q7",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 7,
+    "statement": "Um macaco hidráulico possui dois pistões. O maior possui diâmetro de $5\\ cm$ e o menor de $1\\ cm$. Se o menor desloca-se de $25\\ cm$, qual o deslocamento do pistão maior?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2009-2009.1-q8",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 8,
+    "statement": "Um balão usado em estudos atmosféricos tem massa total (incluindo o gás no seu interior) $50\\ kg$ e um volume de $110\\ m^3$. Ele está preso à Terra por meio de uma corda. Se uma rajada de vento mantém o balão inclinado $60°$ em relação à vertical, qual a tensão na corda? Seja a densidade do ar $1,3\\ kg/m^3$ e considere a aceleração da gravidade $g=10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "500 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "930 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1430 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1860 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2009-2009.1-q9",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 9,
+    "statement": "Em uma corda, de $1,50\\ m$ de comprimento, fixa entre duas paredes, forma-se uma onda estacionária que possui seis nodos, incluindo os dois contatos com as paredes. Se a onda se propaga com velocidade $18\\ m/s$ qual a frequência da oscilação desta onda?",
+    "options": [
+      {
+        "label": "a",
+        "text": "9 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "27 Hz",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30 Hz",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2009-2009.1-q10",
+    "examId": "mf-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 10,
+    "statement": "Um feixe de luz cujo comprimento de onda no vácuo é $660\\ nm$ ($1\\ nm = 10^{-9}\\ m$) passa a se propagar num meio cujo índice de refração é $1,5$. Qual o comprimento de onda do feixe de luz neste meio? Considere a velocidade da luz no vácuo igual a $3\\times10^8\\ m/s$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "330 nm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "440 nm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "550 nm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "660 nm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.1-q1",
+    "examId": "mf-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Qual das unidades de medidas abaixo não faz parte do Sistema Internacional de Unidades?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Erg",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Joule",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Libra",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Pascal",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "mf-2010-2010.1-q2",
+    "examId": "mf-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Devido às chuvas do primeiro semestre de 2009, a rodovia Federal BR 222 ficou bastante danificada de modo que a velocidade média de um motorista de viagem Sobral-Fortaleza ($220\\ km$) é de $55\\ km/h$. Um caminho alternativo para este motorista faz uso de rodovias estaduais passando pelo distrito sobralense de Taperuaba e indo até a cidade de Canindé. Daí, toma-se a BR 020 até Fortaleza. O trecho é mais longo, $270\\ km$, mas permite uma velocidade média de $90\\ km/h$. Quanto tempo este motorista economiza ao escolher este segundo trecho pela BR 222 em comparação com a viagem pela BR 222?",
+    "options": [
+      {
+        "label": "a",
+        "text": "15 min",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30 min",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45 min",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60 min",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.1-q3",
+    "examId": "mf-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 3,
+    "statement": "A grandeza física trabalho é definida por um produto entre:",
+    "options": [
+      {
+        "label": "a",
+        "text": "deslocamento e tempo",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "força e tempo",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "força e deslocamento",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "energia e tempo",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2010-2010.1-q4",
+    "examId": "mf-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 4,
+    "statement": "Um cubo de gelo de massa $10\\ g$ é posto em um copo com água, ficando, no equilíbrio, com $90\\%$ de seu volume submerso. Qual o valor da força de empuxo exercida pela água sobre o gelo? Considere a aceleração da gravidade $g=10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,09 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,1 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,9 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.1-q5",
+    "examId": "mf-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 5,
+    "statement": "No circuito representado pela figura abaixo $R_1=100\\ \\Omega$, $R_2=300\\ \\Omega$ e $E=15\\ V$. Qual o valor da corrente que passa por $R_1$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "50 mA",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100 mA",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "150 mA",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200 mA",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2010-2010.1-q6",
+    "examId": "mf-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 6,
+    "statement": "Um fio retilíneo de $50\\ cm$ de comprimento encontra-se em uma região onde existe um campo magnético de $0,5\\ T$. Por este fio passa uma corrente de $2\\ A$ e ele é paralelo às linhas do campo magnético. Que força, devido ao campo magnético, atua sobre este fio?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,0 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,5 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,0 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2010-2010.1-q7",
+    "examId": "mf-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 7,
+    "statement": "Se a alimentação de uma pessoa for de $2376\\ Kcal$ por dia e se toda essa energia for liberada em forma de calor, qual a taxa média de energia liberada? Considere $1\\ cal = 4\\ J$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "55 J/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "110 J/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "155 J/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200 J/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.1-q9",
+    "examId": "mf-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 9,
+    "statement": "Você se encontra de um lado de um muro de 2,50 m de altura e um amigo se encontra do outro lado. Você grita convidando-o para sair. Seu amigo consegue ouvi-lo, muito embora não possa vê-lo. Qual dos fenômenos ondulatórios abaixo explica o que acontece com a sua voz ao contornar o muro?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Refração",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Reflexão",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Reflexão Total",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Difração",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.1-q10",
+    "examId": "mf-2010-2010.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 10,
+    "statement": "A rádio Caiçara AM, na cidade de Sobral, opera em uma frequência de $910\\ KHz$. Qual o comprimento aproximado da onda eletromagnética emitida pela estação? Considere a velocidade da luz no ar igual à velocidade da luz no vácuo e de valor $3,00\\times10^5\\ km/s$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "110 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "220 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "330 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "440 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2010-2010.2-q11",
+    "examId": "mf-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 11,
+    "statement": "Qual das relações entre unidades de medidas está errada?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Watt = quilograma.(metro)³/(segundo)³",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Pascal = quilograma/metro.(segundo)²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Newton = quilograma.metro/(segundo)²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Joule = quilograma.(metro)²/(segundo)²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2010-2010.2-q12",
+    "examId": "mf-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 12,
+    "statement": "Um ônibus urbano faz uma curva plana de raio $9,0\\ m$ a uma velocidade de $36\\ km/h$. Em seu teto existem alças para que os passageiros que viajam em pé possam se segurar. Durante a curva, qual o valor da cotangente do ângulo que uma alça desocupada faz com a vertical? Considere a aceleração da gravidade $g=10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,25",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,50",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,60",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,90",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.2-q13",
+    "examId": "mf-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 13,
+    "statement": "Um sistema massa-mola oscila em uma superfície horizontal sem atrito com amplitude A. Quando o deslocamento da massa, em relação à posição de equilíbrio da mola, for igual a A/2, qual o valor da energia cinética do Sistema? Seja a massa igual a m e a constante elástica da mola (suposta sem massa) igual a k.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1/8\\ (kA^2)$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3/8\\ (kA^2)$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1/2\\ (kA^2)$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(kA^2)$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.2-q14",
+    "examId": "mf-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 14,
+    "statement": "No modelo atômico de Rutherford-Bohr para o átomo de hidrogênio, somente algumas órbitas específicas são permitidas para o elétron que gira em torno do próton. A menor destas órbitas tem raio $r_0=5,3\\times10^{-11}\\ m$ chamado de raio de Bohr. A segunda menor órbita tem valor $4r_0$. Se $v_0$ é a velocidade do elétron quando seu raio é $r_0$ e V é a velocidade do elétron quando seu raio é $4r_0$, qual o valor da razão $V/V_0$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.2-q15",
+    "examId": "mf-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 15,
+    "statement": "Por um fio condutor longo passa uma corrente elétrica no sentido perpendicular e saindo do plano da página desta prova. Nas figuras abaixo, o círculo com um ponto no centro representa o fio, e as setas as agulhas de duas bússolas colocadas na proximidade do mesmo. Qual das configurações fio/bússolas indica a correta disposição das agulhas? (A) as agulhas apontam para lados opostos na horizontal; (B) uma agulha aponta para cima e a outra para baixo; (C) as agulhas apontam uma para cima e outra para baixo, em sentido invertido ao de B; (D) as agulhas apontam uma para a outra na horizontal.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Configuração A",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Configuração B",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Configuração C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Configuração D",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2010-2010.2-q16",
+    "examId": "mf-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 16,
+    "statement": "Um motor elétrico de uma bomba de água funciona na tensão de $220\\ V$ e por ele passa uma corrente de $2\\ A$. Ele eleva a água de um poço a uma profundidade de $6\\ m$ até um reservatório localizado $4\\ m$ acima do solo. Suponha que o motor tenha eficiência de $75\\%$. Em quanto tempo o motor elevará $990$ litros de água do poço ao reservatório? Considere: densidade da água $1,0\\ g/cm^3$ e $1$ litro $=1000\\ cm^3$ e a aceleração da gravidade $g=10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 min",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 min",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9 min",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15 min",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.2-q18",
+    "examId": "mf-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "Um sistema termodinâmico recebe $600\\ J$ de calor e sobre o mesmo é também realizado um trabalho de $400\\ J$. Qual a variação de sua energia interna?",
+    "options": [
+      {
+        "label": "a",
+        "text": "200 J",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "400 J",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "600 J",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1000 J",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.2-q19",
+    "examId": "mf-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Uma corda de comprimento $1\\ m$ e fixa em suas extremidades tem frequência fundamental de vibração igual a $100\\ Hz$. Uma outra corda, feita do mesmo material que a primeira, possui mesmo diâmetro, mas seu comprimento é L. Ela é fixa em suas extremidades com a mesma tensão da primeira corda. Ela tem a mesma frequência de seu segundo harmônico igual a $100\\ Hz$. Qual o valor de L?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.2-q20",
+    "examId": "mf-2010-2010.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 20,
+    "statement": "Os faróis dos automóveis são formados por lâmpadas colocadas em frente a um espelho côncavo. Para produzir um feixe de luz paralelo, a lâmpada que consideramos como uma fonte pontual, deve ser colocada sobre:",
+    "options": [
+      {
+        "label": "a",
+        "text": "o foco do espelho",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o centro de curvatura do espelho",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o vértice do espelho",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "entre o foco e o centro de curvatura do espelho",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
