@@ -12926,5 +12926,261 @@
     ],
     "imagePath": null,
     "annulled": true
+  },
+  {
+    "id": "cg-2012-2013.1-q29",
+    "examId": "cg-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Misturando-se as cores branca e vermelha (mesma porção de cada uma delas), obtém-se a cor rosa. A cor obtida da mistura de rosa e vermelha (mesma porção de cada cor) tem:",
+    "options": [
+      {
+        "label": "a",
+        "text": "75% de vermelha.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50% de vermelha.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "33% de vermelha.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25% de vermelha.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2012-2013.1-q30",
+    "examId": "cg-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 30,
+    "statement": "Dado o polinômio $p(x-a)=x^2+ax+1$, então o polinômio p(x) é dado por:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(x-a)^2+a(x-a)+1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x^2+3ax+2a^2+1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x^2+1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x^2-ax+1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2012-2013.1-q31",
+    "examId": "cg-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 31,
+    "statement": "Dadas as funções reais $f(x)=\\sqrt{x}$ e $g(x)=(x-1)^2$, o valor de $(f\\circ g)(-2)$:",
+    "options": [
+      {
+        "label": "a",
+        "text": "é igual a -3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é igual a 3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "não está definido.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é igual a 1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2012-2013.1-q32",
+    "examId": "cg-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 32,
+    "statement": "Uma matriz quadrada X de ordem 4 é dada por $X=\\begin{pmatrix}A&N\\\\N&A\\end{pmatrix}$ onde $A=\\begin{pmatrix}a&b\\\\c&d\\end{pmatrix}$, $N=\\begin{pmatrix}0&0\\\\0&0\\end{pmatrix}$ e a,b,c,d são números reais não nulos. Sobre o determinante de X é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "vale $(ad)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "vale $(ad)^2-(bc)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "vale $(ad-bc)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "vale $2(ad-bc)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2012-2013.1-q33",
+    "examId": "cg-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "Considere os conjuntos não vazios A, B, C e x um elemento tal que $x\\in A\\cup B$ e $x\\in B\\cap C$. Nestas condições, podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "x não pertence a A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "x pertence a $A\\cap B\\cap C$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x pertence ao conjunto $A^C\\cap B^C$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "x pertence ao conjunto $A\\cup C$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2012-2013.1-q34",
+    "examId": "cg-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 34,
+    "statement": "O sólido da figura abaixo é composto por duas faces octogonais e regulares (isto é, as arestas dos octógonos são iguais) e as demais faces quadradas. A figura que representa sua planificação é a que mostra os dois octógonos nas extremidades de uma faixa central de quadrados, com quadrados adicionais alternados corretamente encaixados nas laterais dessa faixa, sem sobras.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Opção (a).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Opção (b).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Opção (c).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Opção (d).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2012-2013.1-q35",
+    "examId": "cg-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 35,
+    "statement": "O quadro abaixo mostra a evolução demográfica da cidade de Sobral, Ceará: 1991: 127.489 habitantes; 1996: 138.020; 2000: 155.276; 2007: 176.895. Desta forma, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a população cresceu mais de 40% entre 1991 e 2007.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o crescimento proporcional da população foi menor no período de 2000/2007 do que no período 1996/2000.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "em média, a população de Sobral cresceu menos de 3% ao ano no período 1991/2007.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "no ano de 1998 a população de Sobral era de 146.648 habitantes.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2012-2013.1-q36",
+    "examId": "cg-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 36,
+    "statement": "Duas pessoas estão praticando o famoso \"jogo da velha\". Após a quarta jogada, a configuração do jogo é a que se apresenta na figura abaixo: um X no centro, e na linha de baixo, da esquerda para a direita, X, O, O. Considerando que os jogadores são indiferentes em marcar um espaço em branco e, sendo a vez do jogador que assinala (x), a probabilidade de vitória deste jogador no próximo lance é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "100%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]

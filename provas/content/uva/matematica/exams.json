@@ -270,5 +270,13 @@
     "edition": "2012.2",
     "examType": "geral",
     "sourceFile": "cg 2012.2.pdf"
+  },
+  {
+    "id": "cg-2012-2013.1",
+    "institution": "UVA",
+    "year": 2012,
+    "edition": "2013.1",
+    "examType": "geral",
+    "sourceFile": "cg 2013.1.pdf"
   }
 ]
