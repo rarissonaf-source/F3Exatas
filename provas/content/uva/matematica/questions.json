@@ -13182,5 +13182,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2013-2014.1-q29",
+    "examId": "cg-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Uma lâmpada incandescente (A) ligada 5 horas por dia, durante trinta dias, representa um custo de R\\$17,50 na conta de energia elétrica. Já uma lâmpada fluorescente (B) ligada por igual período tem um custo de R\\$10,00. Para que cada uma delas represente um custo de R\\$14,00 na conta de energia, as lâmpadas A e B devem, respectivamente a cada dia, ficar ligadas:",
+    "options": [
+      {
+        "label": "a",
+        "text": "4h e 7h.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7h e 4h.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2h e 3,5h.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0h e 14h.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2013-2014.1-q30",
+    "examId": "cg-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 30,
+    "statement": "Segundo o Programa das Nações Unidas para o desenvolvimento do Brasil (PNUD/Brasil), a esperança de vida ao nascer é o \"número médio de anos que as pessoas deverão viver a partir do nascimento, se permanecerem constantes ao longo da vida o nível e o padrão de mortalidade por idade prevalecentes no ano de realização do Censo\". Tabela: Esperança de vida ao nascer (anos); 1991: Ceará 61,76, Brasil 63,68; 2000: Ceará 67,77, Brasil 68,41; 2010: Ceará 72,60, Brasil 68,15. De acordo com os dados acima, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Entre 2000 e 2010 a esperança de vida ao nascer no Ceará aumentou na mesma proporção que a média nacional.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Entre 1991 e 2000 a esperança de vida ao nascer no Brasil aumentou mais de 10%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Entre 1991 e 2010 a esperança de vida ao nascer no Ceará aumentou quase 11 anos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Em 2020 a esperança de vida ao nascer no Ceará deverá ser maior que 74 anos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2013-2014.1-q31",
+    "examId": "cg-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 31,
+    "statement": "Considere os conjuntos distintos e não vazios A, B, C de modo que $A\\subset B\\subset C\\subset N$, onde N é o conjunto dos números naturais. Definindo $D=(A\\cup B)\\cap(A\\cup C)$, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "D é vazio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "D = A.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "D = B.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "D = C.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2013-2014.1-q32",
+    "examId": "cg-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "Sobre a curva da figura abaixo (curva em espiral/onda que vai do ponto (1,6) ao ponto (6,1), oscilando horizontalmente dentro da faixa x entre 1 e 6) podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "(1,6) e (6,1) são pontos da curva.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A reta x=4 encontra a curva em exatamente 3 pontos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Se a curva representa o gráfico de uma função f(y)=x, então o valor máximo de f no intervalo (1,6) é igual a 5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O comprimento da curva é no máximo 7.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2013-2014.1-q33",
+    "examId": "cg-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 33,
+    "statement": "Uma TV tem preço anunciado de R\\$1.000,00. O consumidor que optar pela compra em dinheiro e à vista tem desconto de 15\\%, mas se optar por levar a prazo, em 10 parcelas iguais, o preço total tem um acréscimo de 35\\% em relação ao preço à vista. Dois amigos querem comprar uma TV cada um. Um pagará à vista. O outro, em 10 parcelas. Em média, cada TV custará:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 998,75.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 977,50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.100,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2013-2014.1-q34",
+    "examId": "cg-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 34,
+    "statement": "A parábola $y=ax^2+bc+c$ com $a\\neq0$ tem vértice no primeiro quadrante e discriminante positivo. É correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O produto das raízes de $ax^2+bx+c=0$ jamais é nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A soma das raízes de $ax^2+bx+c=0$ é positiva.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A parábola $y=ax^2+bx+c$ tem concavidade para cima.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Se $c\\neq0$, então $b^2/(ac)<4$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2013-2014.1-q35",
+    "examId": "cg-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 35,
+    "statement": "Até hoje, já aconteceu uma determinada quantidade de sorteios de uma loteria semanal cujas opções variam entre 1 e 1000. Tomando-se o menor número de cada um desses sorteios, obtém-se uma Progressão Aritmética de razão 7. Sabendo-se que são sorteados exatamente 7 números por vez, a quantidade máxima de termos na sequência observada é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "140.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "141.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "142.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "143.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2013-2014.1-q36",
+    "examId": "cg-2013-2014.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 36,
+    "statement": "Tem-se $(((e^{x_1})^{x_2})\\cdots)^{x_n}=1$. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x_1,x_2,\\ldots,x_n$ são todos positivos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Dentre $x_1,x_2,\\ldots,x_n$, um é nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x_1,x_2,\\ldots,x_n$ são todos maiores do que 1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Dentre $x_1,x_2,\\ldots,x_n$, pelo menos um é negativo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
