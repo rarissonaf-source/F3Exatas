@@ -11518,5 +11518,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2022-2023.1-q1",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 1,
+    "statement": "Dado o recorte do gráfico abaixo de uma função real (curva com máximo local próximo de x=-1, um mínimo local próximo de x=1, cruzando o eixo x por volta de x=-1,5, x=0,5 e x=2), considere as sentenças a seguir: (i) A imagem da função é um intervalo fechado. (ii) A função possui três raízes reais. (iii) O valor mínimo acontece para x=3/2. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Apenas a sentença (ii) é verdadeira.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Apenas as sentenças (ii) e (iii) são verdadeiras.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Apenas as sentenças (i) e (ii) são verdadeiras.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "As sentenças (i), (ii) e (iii) são verdadeiras.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2022-2023.1-q2",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 2,
+    "statement": "As placas de identificação dos veículos na Romênia seguem o padrão RO-BN-18-CTL, com cinco letras e dois números. O padrão usado atualmente no Brasil tem placas com 4 letras e 3 números. Em ambos os países, podem ser usadas 26 letras (A, B, C, ..., Z) e 10 números (0,1,2,3,...,9). Sobre a quantidade de veículos que podem ser emplacados na Romênia e no Brasil é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Na Romênia podem ser emplacados 16 veículos a mais que no Brasil.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A mesma quantidade de veículos podem ser emplacados nos dois países.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Na Romênia podem ser emplacados mais do que o dobro de veículos que no Brasil.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "No Brasil podem ser emplacados meio bilhão de veículos a mais que na Romênia.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2022-2023.1-q3",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "Valquírio vai começar uma reforma em sua casa. Ele pretende revestir a sala de estar, que é retangular, com peças hexagonais regulares (todos os lados com mesma medida L) dispondo-as em forma de colmeia. Além das peças hexagonais, que outra forma Valquírio precisará usar na reforma?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Apenas algumas peças triangulares, para os cantos da sala.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Peças triangulares e trapezoidais para as regiões do piso que fazem contato com as paredes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Peças pentagonais, assim como nas bolas de futebol.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Somente usando hexágonos é possível cobrir toda a superfície da sala retangular.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2022-2023.1-q4",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "Na cidade Sonho Feliz, a prefeitura determina que as casas sejam construídas em uma área correspondente a, no máximo, 1/3 da área total do terreno. Kauã tem um terreno retangular com comprimento igual ao quádruplo da largura. Ao iniciar as obras, ele deseja que a área construída também seja em formato retangular, com largura igual a 1/2 da largura do terreno. Qual deve ser o comprimento máximo da área construída?",
+    "options": [
+      {
+        "label": "a",
+        "text": "8/3 da largura do terreno.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Igual à largura total do terreno.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3/4 da largura do terreno.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2/3 da largura do terreno.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2022-2023.1-q5",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "Franciquely tem quatro moedas iguais, de raio R. Ela dispõe as moedas dentro de um quadrado, tangentes entre si duas a duas conforme a figura. Qual a distância entre os centros das circunferências que não estão em contato entre si?",
+    "options": [
+      {
+        "label": "a",
+        "text": "4R.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2R√3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2R.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R√3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "mf-2022-2023.1/q05.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2022-2023.1-q6",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 6,
+    "statement": "A NASA pretende enviar nova missão tripulada à Lua (da Terra) nos próximos anos. Pretende-se pousar num local diferente daquele onde foi fincada a bandeira dos Estados Unidos. O novo ponto de pouso, o centro da Lua e o ponto onde se encontra a bandeira americana, formam um triângulo isósceles cujo ângulo entre os lados de tamanho igual é de 30°. Sendo o raio da Lua aproximadamente 1.740 km, qual a menor distância entre os dois pontos (bandeira e novo ponto de pouso) que pode ser percorrida sobre a superfície lunar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Aproximadamente 290 km.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Aproximadamente 911 km.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Aproximadamente 2.900 km.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Aproximadamente 52.200 km.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2022-2023.1-q7",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 7,
+    "statement": "Bartolomeu tem bilas (bolas de gude) grandes, de 1cm de raio. Ele as guarda em uma caixa de vidro, de formato cúbico, com 30cm de aresta. Ele dispõe as bilas em camadas, de modo que cada uma destas tenha a mesma quantidade de esferas. Além disso, Bartolomeu tem tantas bilas, que consegue encher a caixa acomodando o número máximo possível destas esferas. Após acomodar as bilas, ele resolve, então, colocar água dentro da caixa de vidro. Quanto de água ele consegue colocar na caixa sem transbordar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Aproximadamente 13,5 litros de água.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Aproximadamente 12,8 litros de água.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Aproximadamente 1,3 litros de água.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não há mais espaço para água.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2022-2023.1-q8",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 8,
+    "statement": "Para determinar a altura do Arco de Nossa Senhora em Sobral, Madalena dispõe de um aparelho para medir ângulos e uma fita métrica de 30 metros de comprimento. Ela está exatamente embaixo do Arco e caminha alguns passos se afastando do monumento. Ela pára e marca o ponto A. Continua a caminhada no mesmo sentido por mais 20 metros e marca o ponto B. Do ponto A, ela observa que o ângulo de elevação (a partir do solo) em relação ao ponto mais alto do Arco é de 60°. Do ponto B o novo ângulo de elevação é de 30°. Segundo os dados fornecidos por Madalena, qual a altura aproximada do Arco?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "17 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "23 metros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2022-2023.1-q9",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 9,
+    "statement": "Luziana faz desenhos em camisetas. Em um de seus modelos, ela desenha na altura do peito 5 circunferências concêntricas com os raios em progressão geométrica. As duas circunferências mais internas ao desenho têm raios, respectivamente, iguais a 5 cm e 6 cm. Qual o raio da maior circunferência?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,89 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8,64 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10,368 cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2022-2023.1-q10",
+    "examId": "mf-2022-2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "A última taça de suco de frutas foi servida e dois amigos resolvem dividir igualmente a bebida. Sabendo-se que a taça tem formato de cone circular reto de altura H e estava completamente cheia, a que altura h ficará o suco quando metade do líquido for despejado em outro copo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "h = H/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "h = H/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$h=\\sqrt[3]{H^2/2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$h=H/\\sqrt[3]{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
