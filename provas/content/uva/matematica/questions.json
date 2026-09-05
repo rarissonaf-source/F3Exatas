@@ -8318,5 +8318,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2016-2016.2-q1",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 1,
+    "statement": "Seja M o conjunto das matrizes de ordem 3x3. A função $f:M\\to M$ é definida por $f(A)=A^T$, onde $A^T$ é a matriz transposta de A. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f é uma função bijetiva cuja inversa é $f^{-1}(B)=B^{-1}$ qualquer que seja B pertencente a M.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f é uma função bijetiva cuja inversa é $f^{-1}(B)=B^T$ qualquer que seja B pertencente a M.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "f é uma função bijetiva que não possui inversa.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f não é uma função bijetiva.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2016-2016.2-q2",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Uma circunferência tem raio R=2,1cm. Uma elipse tem diâmetro mínimo de d=4cm. A quantidade máxima de pontos em comum é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2016-2016.2-q3",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 3,
+    "statement": "A quantidade de raízes da equação $\\sin 2x = \\sin x$ no intervalo $[0,2\\pi)$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2016-2016.2-q4",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "Uma caixa d'água tem um formato de paralelepípedo com altura H, comprimento C e largura L. A sua boia é uma haste de metal presa a uma esfera oca que pode flutuar sobre a água. O conjunto esfera-haste tem comprimento igual a H, como mostra a figura, uma secção do recipiente. Qual o ângulo $\\theta$ formado entre a haste e a parede da caixa d'água quando o recipiente estiver com a metade de sua capacidade total?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi/6$ radianos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi/4$ radianos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi/3$ radianos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi/2$ radianos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2016-2016.2-q5",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 5,
+    "statement": "A e B são dois pontos sobre a superfície de um planeta perfeitamente esférico. Para ir por terra de A até B, percorre-se 1520km. Supondo que o caminho de menor distância foi o escolhido, sendo O o centro do planeta e $\\pi/5$ radianos o ângulo AOB, então a distância AO é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "7600/$\\pi$ km.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3800/$\\pi$ km.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "304$\\pi$ km.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "152$\\pi$ km.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2016-2016.2-q6",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Uma fonte de luz está a 70 metros de altura, apontando perpendicularmente para um ponto A de uma superfície perfeitamente plana. O feixe ilumina uma área circular de exatamente 2 centímetros de raio. Houve um desvio de 2 graus da linha imaginária que liga a fonte de luz ao ponto A. Sabendo que 2 graus é um ângulo cuja tangente vale 0,035, assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A área iluminada pela fonte de luz será exatamente a mesma.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A área iluminada pela fonte de luz será menor e interna à área inicialmente iluminada.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A área iluminada será uma outra região circular, mas que tem intersecção com a área inicialmente iluminada.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A área iluminada será uma outra região sem intersecção com a área inicialmente iluminada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2016-2016.2-q7",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Seja z um número complexo de módulo $\\rho$ e argumento $\\theta\\in(0,\\pi/2)$. Sabendo-se que $z^2$ se encontra no segundo quadrante do plano de Argand-Gauss, então, dentre as possibilidades para as raízes quadradas de z, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Há uma raiz no terceiro quadrante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Há uma raiz no primeiro quadrante e outra no segundo quadrante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Há uma raiz no segundo quadrante e outra no quarto quadrante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Todas elas estão no primeiro quadrante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2016-2016.2-q8",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "Considere os pontos P(3,0) e Q(0,4) do plano cartesiano. R(r,0) e S(0,s) são pontos tais que o segmento RS contém o ponto médio do segmento PQ. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5<r<3 e 2<s<4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "r>3 e s>4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(r>3 e 2<s<4) ou (1,5<r<3 e s>4).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(r>3 e s<2) ou (r<1,5 e s>4).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2016-2016.2-q9",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 9,
+    "statement": "Seja g uma função sobrejetiva cujo domínio é o conjunto dos números reais e cuja imagem é o conjunto dos números reais não negativos. Se f é uma função bijetiva onde o domínio de f é igual a imagem de g e a imagem de f é o conjunto dos números reais não positivos, assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A composta $f\\circ g$ é injetiva.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A composta $f\\circ g$ é sobrejetiva.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A composta $f\\circ g$ é uma função crescente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A composta $f\\circ g$ é uma função decrescente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2016-2016.2-q10",
+    "examId": "mf-2016-2016.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 10,
+    "statement": "Seja $A=[a_{ij}]$ uma matriz triangular superior, isto é, matriz quadrada de ordem n x n (n um natural positivo qualquer) na qual os elementos $a_{ij}$ com $i>j$ são todos nulos. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O determinante de A é dado pelo produto dos elementos da diagonal principal, isto é, o produto dos elementos da forma $a_{ij}$ com i=j.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O determinante de A é dado pela soma dos elementos da diagonal principal, isto é, o produto dos elementos da forma $a_{ij}$ com i=j.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O determinante de A é dado pela diferença p-s, onde p é o produto dos elementos da diagonal principal de A e s é o produto dos elementos da diagonal secundária de A.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O determinante de A é nulo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
