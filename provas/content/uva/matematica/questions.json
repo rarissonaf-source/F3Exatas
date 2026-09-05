@@ -7838,5 +7838,165 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2015-2015.2-q6",
+    "examId": "mf-2015-2015.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 6,
+    "statement": "Uma função $f:Z_+\\to R$ (onde $Z_+$ representa o conjunto dos números inteiros não-negativos e R o conjunto dos números reais) é tal que $f(0)=0$, $f(1)=1/2$, $f(2)=f(1)+1/4$, $f(3)=f(2)+1/8$ e assim por diante. O valor de n para o qual $f(n)=127/128$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2015-2015.2-q7",
+    "examId": "mf-2015-2015.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 7,
+    "statement": "Seja $f(x)=ax^2+bx+c$ com $a\\cdot c>0$. Sabe-se que o valor mínimo de f no intervalo $[-3,0]$ é igual a 4. Já no intervalo $[0,3]$, o valor mínimo de f é 2. Sejam $(X_v,Y_v)$ as coordenadas do vértice da parábola (gráfico de f). Nessas condições, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$X_v<0,\\ Y_v<0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$X_v<0,\\ Y_v>0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$X_v>0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$X_v=0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2015-2015.2-q8",
+    "examId": "mf-2015-2015.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 8,
+    "statement": "O polinômio p do terceiro grau é tal que $p(0)=2$, $p(1)=3$, $p(2)=27$ e $p(3)=83$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$p(x)=x^3-3x+2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$p(x)=\\dfrac{3}{2}x^3+7x^2-\\dfrac{15}{2}x+2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$p(x)=x^3+x^2-6x+2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$p(x)=\\dfrac{3}{2}x^3-7x^2+\\dfrac{15}{2}x+2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2015-2015.2-q9",
+    "examId": "mf-2015-2015.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 9,
+    "statement": "Dada a equação $\\cos\\left(2x-\\dfrac{\\pi}{2}\\right)+\\sin\\left(2x+\\dfrac{\\pi}{2}\\right)=0$, com $x\\in[0,2\\pi[$, o conjunto solução é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{3\\pi/4,\\ 7\\pi/4\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{\\pi/4,\\ 3\\pi/4,\\ 5\\pi/4,\\ 7\\pi/4\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{3\\pi/8,\\ 7\\pi/8,\\ 11\\pi/8,\\ 15\\pi/8\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{\\pi/8,\\ 3\\pi/8,\\ 5\\pi/8,\\ 7\\pi/8,\\ 9\\pi/8,\\ 11\\pi/8,\\ 13\\pi/8,\\ 15\\pi/8\\}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2015-2015.2-q10",
+    "examId": "mf-2015-2015.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "A face de um octaedro regular é um triângulo equilátero de altura 4cm. Calculando-se a distância entre os vértices mais distantes entre si no poliedro, obtém-se:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$8\\sqrt{6}/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$8\\sqrt{3}/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$8\\sqrt{2}/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\sqrt{6}/3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
