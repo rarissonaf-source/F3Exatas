@@ -15486,5 +15486,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2018-2018.2-q29",
+    "examId": "cg-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 29,
+    "statement": "Em uma outra galáxia, cientistas descobriram o sistema solar PentaSol, formado por 5 planetas girando ao redor de um sol. Quando todos estão alinhados, a distância entre dois planetas vizinhos é igual a D. A distância do primeiro planeta – o mais próximo do sol – ao sol é igual a 2D. Se um ano neste primeiro planeta dura o equivalente a 300 dias do planeta Terra e todos os planetas do sistema PentaSol têm a mesma velocidade de translação, quantos dias dura um ano no quarto planeta deste sistema?",
+    "options": [
+      {
+        "label": "a",
+        "text": "300 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "450 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "600 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "750 dias.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2018-2018.2-q30",
+    "examId": "cg-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 30,
+    "statement": "Em uma escola, os alunos votam para escolher o aluno e a aluna mais gentis. Concorrem 03 (três) meninos – João, Simão e Damião – e 04 (quatro) meninas – Clara, Sara, Mara e Jussara. No dia da votação cada estudante recebe uma cédula com os nomes dos 3 meninos e das 4 meninas, sendo validadas as cédulas nas quais esteja indicada uma, e somente uma, opção em cada gênero. Ao final, a contagem será feita de acordo com a dupla escolhida em cada cédula. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A dupla eleita obteve pelo menos 50% dos votos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Sara pode vencer a disputa mesmo não sendo a menina com mais votos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Se Damião é o menino que foi indicado na maioria das cédulas e Jussara é a menina que mais obteve votos, então a dupla eleita é Damião e Jussara.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Nesse formato, tem-se o equivalente a 07 duplas concorrendo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2018-2018.2-q31",
+    "examId": "cg-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 31,
+    "statement": "O quadro abaixo apresenta informações sobre o primeiro turno das eleições presidenciais de 1989: Fernando Collor: 20.611.011; Luís Inácio Lula da Silva: 11.822.673; Leonel Brizola: 11.168.228; Mário Covas: 7.790.392; Paulo Maluf: 5.986.575; Demais candidatos: 10.452.133; Total de votos válidos: 67.631.012; Eleitores inscritos: 82.074.718. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O candidato mais votado obteve mais que o dobro de votos do segundo candidato mais votado.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O candidato mais votado obteve mais do que 40% dos votos válidos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O somatório de abstenções, votos brancos e votos nulos foi superior a 15% do total do eleitorado.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Se os votos dos outros 17 candidatos (indicados no quadro por \"Demais candidatos\") fossem desconsiderados, então o candidato mais votado teria mais do que 50% dos votos válidos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.2-q32",
+    "examId": "cg-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 32,
+    "statement": "Sandra cria um grupo em um aplicativo de mensagens. Ela adiciona Mateus e Lara informando o seguinte: \"Se você é mulher, adicione um casal de amigos e nada mais. Se você é homem, adicione um par de amigos homens e nada mais. Em ambos os casos, repasse este informe\". Sabendo que o ciclo de amizades de Mateus é totalmente diferente do ciclo de amizades de Lara, e que o grupo comporta até 255 membros, qual o número máximo de mulheres que o grupo pode ter?",
+    "options": [
+      {
+        "label": "a",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "127.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "128.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2018-2018.2-q33",
+    "examId": "cg-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 33,
+    "statement": "Na numeração de um livro, não é possível imprimir o numeral 8. Para que as páginas cujos números envolvem o dígito 8 não fiquem em branco, decidiu-se pular tais números. Assim, por exemplo, depois da página 17 aparece a página 19. Depois da página 27 aparece a página 29, e assim por diante. Se o livro tem exatamente 51 folhas, todas numeradas na frente e no verso, qual a numeração indicada no verso da última folha?",
+    "options": [
+      {
+        "label": "a",
+        "text": "102.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "112.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "121.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "123.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2018-2018.2-q34",
+    "examId": "cg-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 34,
+    "statement": "Qual a área do quadrilátero formado pelos centros e pontos de interseção das circunferências $(x-2)^2+(y-2)^2=16$ e $(x+2)^2+(y+2)^2=16$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "256.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.2-q35",
+    "examId": "cg-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 35,
+    "statement": "Aristone tem um relógio em que o ponteiro menor dá apenas uma volta ao longo do dia. O ponteiro maior dá uma volta a cada hora. Desta forma, às 14h30min, qual o ângulo entre os ponteiros?",
+    "options": [
+      {
+        "label": "a",
+        "text": "120°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "37,5°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2018-2018.2-q36",
+    "examId": "cg-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "A cidade de CircleVille foi planejada de modo que as ruas ou são radiais, isto é, partem de um mesmo ponto A, ou são círculos com centro neste mesmo ponto A. As oito ruas radiais estão igualmente distribuídas e cada uma delas tem início no ponto A. As ruas circulares também estão igualmente espaçadas, sendo que qualquer ponto da primeira delas está a 100 metros do ponto A. Para endereçar as residências, a prefeitura adotou o sistema de coordenadas de acordo com o plano de Argand-Gauss, isto é, cada ponto é dado pela distância até a origem (módulo) e o ângulo que este segmento faz com a rua que representa o semi eixo positivo das abscissas no sentido anti-horário. Qual a distância mínima percorrida entre a casa de Douglas – coordenadas $(200,\\pi/4)$ – e a de Karen – coordenadas $(400,3\\pi/4)$ – seguindo pelas ruas de CircleVille?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$100(\\pi+2)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$50(\\pi+8)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$50(3\\pi+4)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$200\\sqrt{5}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
