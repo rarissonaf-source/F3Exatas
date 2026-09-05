@@ -12414,5 +12414,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2011-2012.1-q29",
+    "examId": "cg-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 29,
+    "statement": "O gráfico abaixo representa o número de pessoas gripadas ao longo de três semanas em uma determinada cidade (curva com valor inicial a, oscilando para baixo e depois subindo até um pico b próximo da semana 2, decrescendo em seguida até a semana 3). Podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Houve um aumento do número de pessoas gripadas na primeira semana.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A maior variação na quantidade de pessoas gripadas ocorreu na segunda semana.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O número de pessoas gripadas chegou ao número máximo no início da segunda semana.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A maior variação na quantidade de pessoas gripadas ocorreu na terceira semana.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2011-2012.1-q30",
+    "examId": "cg-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 30,
+    "statement": "Uma imagem digital tem sua qualidade medida através de sua resolução, isto é, subdivide-se a imagem em linhas e colunas igualmente espaçadas e cada elemento parte dessa subdivisão é chamada pixel. Desta forma, quanto mais pixels, melhor a qualidade da imagem. Hoje em dia, as câmeras fotográficas digitais são anunciadas de acordo com a resolução das fotos tiradas. Considere uma câmera fotográfica da marca Fotoboa cujas fotos tiradas têm uma proporção de 4:3, isto é, a relação entre largura (horizontal) e altura (vertical) da foto é de 4/3. Supondo que cada foto tirada é subdividida de forma que se tenha 1080 pixels na vertical, podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A imagem terá 1920 pixels na horizontal.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A imagem terá 1440 pixels na horizontal.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A imagem terá 1280 pixels na horizontal.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A imagem terá 1080 pixels na horizontal.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2011-2012.1-q31",
+    "examId": "cg-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 31,
+    "statement": "O gráfico abaixo mostra a evolução do analfabetismo no Brasil, comparando os anos de 2004 e 2009, com o número de pessoas de 15 anos ou mais analfabetas por regiões (Norte, Nordeste, Sudeste, Sul, Centro-Oeste). De acordo com o gráfico, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a região com menor proporção de analfabetos de 15 anos ou mais é a Centro-Oeste.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "logo no início do período entre 2004 e 2009 houve um grande aumento do número de analfabetos de 15 anos ou mais e logo em seguida um decréscimo acentuado.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "em 2009, aproximadamente metade dos analfabetos de 15 anos ou mais era da região Nordeste.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "em todos os estados houve um decréscimo no número de analfabetos de 15 anos ou mais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2011-2012.1-q32",
+    "examId": "cg-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "Um aluno imagina a seguinte situação: um triângulo com lados medindo a, 2a e 3a. A que conclusão ele chegaria com respeito ao ângulo oposto ao lado que mede 3a?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Seria um ângulo reto.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Seria um ângulo agudo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Seria um ângulo raso.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Seria um ângulo obtuso.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2011-2012.1-q33",
+    "examId": "cg-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 33,
+    "statement": "Dois pontos A e B são marcados sobre a linha do equador de uma esfera determinando um ângulo central $\\alpha=A\\hat{O}B$ onde O é o centro da esfera de raio R. A menor distância percorrida sobre a esfera para se chegar até B partindo de A é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$R\\sqrt{2(1-\\cos\\alpha)}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$R\\sqrt{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\alpha}{2}\\left(\\dfrac{\\pi-\\alpha}{2}\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\alpha R$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2011-2012.1-q34",
+    "examId": "cg-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 34,
+    "statement": "O que se pode dizer sobre o valor numérico de $p(x)=\\dfrac{x^3+x-2}{x-1}$ para x=1?",
+    "options": [
+      {
+        "label": "a",
+        "text": "É igual a zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Não está definido.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É infinito.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "É igual a 4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2011-2012.1-q35",
+    "examId": "cg-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 35,
+    "statement": "Em um evento religioso realizado em um lugar distante, onde não havia transporte público, foi registrado um público de 540 pessoas. Sabe-se que 220 carros (cada um com cinco lugares) estavam no estacionamento do evento. Supondo que todas as 540 pessoas voltaram para casa e todos os 220 carros saíram do estacionamento sem levar mais pessoas que a capacidade ideal, pode-se concluir que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "certamente, pelo menos um carro transportou exatamente 5 pessoas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "certamente, pelo menos um carro transportou exatamente 4 pessoas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "certamente, pelo menos 100 carros transportaram 3 ou mais pessoas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "certamente, pelo menos 113 carros saíram do estacionamento apenas com o motorista.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2011-2012.1-q36",
+    "examId": "cg-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 36,
+    "statement": "Um garoto arremessa uma pedra em uma peça de madeira representada na figura abaixo (retângulo dividido em uma faixa superior de largura x e altura total, e uma faixa inferior subdividida em quatro colunas de larguras x, x+a, x, x-a, sendo o \"quadrado\" a segunda coluna inferior). Supondo que a pedra atinge a peça, a chance do garoto acertar no quadrado é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
