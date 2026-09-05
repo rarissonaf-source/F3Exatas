@@ -13694,5 +13694,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2014-2015.1-q29",
+    "examId": "cg-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 29,
+    "statement": "Em um campeonato de voleibol, onde não existe empate, seis equipes jogaram entre si apenas uma vez. O quadro a seguir mostra a classificação final após todos os jogos: 1º Espetos (5 vitórias), 2º Bromélias (4), 3º Felizes (3), 4º Solteiros (2), 5º Invasores (1), 6º Engenheiros (0). Com base nessas informações, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A equipe Bromélias venceu a equipe Espetos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A equipe Invasores venceu a equipe Bromélias.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A equipe Solteiros venceu a equipe Felizes.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A equipe Felizes venceu a equipe Solteiros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2014-2015.1-q30",
+    "examId": "cg-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 30,
+    "statement": "Seis jovens entram em uma sala de cinema para assistir a um filme. Há lugares apenas nas duas primeiras filas, com 3 lugares em cada uma delas. Dos seis jovens, dois são muito altos e o grupo decide que estes devem sentar na segunda fila. De quantas formas diferentes o grupo de seis amigos pode ocupar esses seis lugares?",
+    "options": [
+      {
+        "label": "a",
+        "text": "144.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "288.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "720.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1728.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2014-2015.1-q31",
+    "examId": "cg-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "Quatro triângulos retângulos são colocados sobre o plano cartesiano de modo a formar um quadrilátero. Os vértices referentes aos ângulos retos foram colocados na origem, ficando um triângulo em cada quadrante. O primeiro deles tem um dos vértices no ponto (0,3). O segundo tem um vértice no ponto (4,0). O terceiro triângulo tem um vértice no ponto (0,-1) e o quarto triângulo tem o ponto (-2,0) como um de seus vértices. Sendo A o perímetro do quadrilátero formado, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "8<A<11.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11<A<14.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14<A<17.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "17<A<20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2014-2015.1-q32",
+    "examId": "cg-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 32,
+    "statement": "Uma placa está fixada em um poste em uma rodovia estadual de modo suspenso, exatamente acima da pista, sendo que o ponto mais alto da placa está a 15 metros de altura com relação ao solo. Um veículo trafegando à noite tem faróis que conseguem iluminar objetos sob um ângulo de elevação de 35°. Considerando que $tg35°=0,47$, para que o motorista veja a placa totalmente iluminada pelos faróis de seu carro, ele precisa estar a uma distância mínima de aproximadamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "16 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "32 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40 metros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2014-2015.1-q33",
+    "examId": "cg-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "Seja $A=\\begin{pmatrix}3&2\\\\1&4\\end{pmatrix}$. Sobre as raízes do polinômio $p(x)=\\det(A-xI)$, onde I é a matriz identidade de ordem 2x2, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "São números primos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "São números ímpares.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "São números irracionais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "São números complexos puros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2014-2015.1-q34",
+    "examId": "cg-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 34,
+    "statement": "Em uma loja de doces, Clotilde comprou 4 barras de chocolate, 3 pirulitos e pagou R\\$30,10. No dia seguinte, na mesma loja, quando os preços estavam em promoção com 10\\% de desconto, Epaminondas comprou 5 barras de chocolate e 2 pirulitos pagando um total de R\\$28,98. Qual o valor pago por Clotilde por cada produto?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 4,68 por cada barra de chocolate e R$ 3,79 por cada pirulito.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 4,90 por cada barra de chocolate e R$ 3,50 por cada pirulito.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 5,20 por cada barra de chocolate e R$ 3,10 por cada pirulito.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 6,10 por cada barra de chocolate e R$ 1,90 por cada pirulito.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2014-2015.1-q35",
+    "examId": "cg-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "As diagonais de um quadrilátero se cruzam formando ângulos de 30° e 150°. Podemos garantir que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "o quadrilátero não é um paralelogramo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o quadrilátero é um losango.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o quadrilátero não é um quadrado.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o quadrilátero é um trapézio.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2014-2015.1-q36",
+    "examId": "cg-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Um quadrado de lado 2 está com centro na origem do plano cartesiano de modo que seus vértices estão sobre os eixos coordenados. É feita uma rotação de 45° no sentido horário e, em seguida, uma translação de duas unidades na direção do semieixo positivo horizontal. A nova posição do quadrado é (dentre as quatro figuras apresentadas, a que mostra um quadrado alinhado aos eixos, deslocado para a direita, encostando na origem):",
+    "options": [
+      {
+        "label": "a",
+        "text": "Opção (a).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Opção (b).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Opção (c).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Opção (d).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
