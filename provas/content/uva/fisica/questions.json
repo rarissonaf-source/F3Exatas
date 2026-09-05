@@ -12962,5 +12962,517 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.1-q37",
+    "examId": "cg-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "Sejam: L uma unidade de medida de comprimento, T uma unidade de medida de tempo e M uma unidade de medida de massa. A unidade de medida de energia será dada por:",
+    "options": [
+      {
+        "label": "a",
+        "text": "ML/T",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$ML/T^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$ML^2/T^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$M^2L^2/T^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2009-2009.1-q38",
+    "examId": "cg-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 38,
+    "statement": "Um carro move-se a $60\\ km/h$. Que velocidade precisa atingir para dobrar sua energia cinética? Considere $\\sqrt{2} = 1,4$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "72 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "84 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "108 km/h",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120 km/h",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2009-2009.1-q39",
+    "examId": "cg-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 39,
+    "statement": "Qual a velocidade final de um dêuteron que é acelerado, partindo do repouso, por uma diferença de potencial de $1\\ V$? Dados: massa do dêuteron: $3,2\\times10^{-27}\\ kg$ e carga elementar: $1,6\\times10^{-19}\\ C$. Obs.: O dêuteron é o núcleo do isótopo do hidrogênio chamado deutério e é composto por um próton e um nêutron.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^2\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^4\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^6\\ m/s$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^8\\ m/s$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2009-2009.1-q40",
+    "examId": "cg-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "Seja C a capacitância de um capacitor de placas paralelas. Se dobrarmos a área de suas placas e reduzirmos à metade a distância entre elas, qual o novo valor da capacitância deste capacitor?",
+    "options": [
+      {
+        "label": "a",
+        "text": "C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2009-2009.1-q41",
+    "examId": "cg-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 41,
+    "statement": "A temperatura de um gás, inicialmente à pressão de $1\\ atm$, cai de $87°C$ para $-3°C$. Qual a pressão final do gás, se o volume permanecer constante? Considere $0°C = 273\\ K$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,50 atm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,75 atm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,00 atm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,25 atm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2009-2009.1-q42",
+    "examId": "cg-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "Com o calor necessário para fazer $1\\ kg$ de água a $100°C$ virar vapor, quantos quilogramas de gelo a $0°C$ seriam derretidos? Sejam: calor de fusão do gelo $80\\ cal/g$ e calor de vaporização da água $540\\ cal/g$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,00 kg",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,53 kg",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6,75 kg",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8,04 kg",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2009-2009.1-q43",
+    "examId": "cg-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 43,
+    "statement": "Um balão atmosférico de massa total (incluindo o gás no seu interior) $35\\ kg$ é solto e se eleva com uma aceleração de $2\\ m/s^2$. Se a densidade do ar no local é de $1,4\\ kg/m^3$, qual o volume do balão? Considere a aceleração da gravidade $g = 10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$30\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$45\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$60\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$75\\ m^3$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.1-q44",
+    "examId": "cg-2009-2009.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 44,
+    "statement": "O som se propaga no ar com velocidade $340\\ m/s$. O limite inferior de frequência para o ouvido humano é $20\\ Hz$. Qual o comprimento de onda do som na frequência de $20\\ Hz$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "17 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2009-2009.2-q37",
+    "examId": "cg-2009-2009.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "A velocidade de um automóvel que se desloca em movimento retilíneo é dada pelo gráfico abaixo. Qual a distância percorrida por este automóvel entre os tempos t=1s e t=2s?",
+    "options": [
+      {
+        "label": "a",
+        "text": "15 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "cg-2009-2009.2/q37.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.2-q38",
+    "examId": "cg-2009-2009.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 38,
+    "statement": "Um foguete possui, em um certo instante, massa $1,5\\times10^4\\ kg$ e aceleração vertical para cima de $12\\ m/s^2$. Neste instante qual a força que os gases expelidos pelos motores do foguete comunicam ao mesmo? Considere a aceleração da gravidade $g = 10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,5\\times10^4\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$15\\times10^4\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$18\\times10^4\\ N$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$33\\times10^4\\ N$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "cg-2009-2009.2/q38.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2009-2009.2-q39",
+    "examId": "cg-2009-2009.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 39,
+    "statement": "Um bastão de borracha é atritado com um pano de lã e adquire uma carga negativa. Podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O bastão perdeu elétrons para o pano de lã.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O bastão recebeu elétrons do pano de lã.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O bastão perdeu prótons para o pano de lã.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O bastão recebeu prótons do pano de lã.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2009-2009.2-q40",
+    "examId": "cg-2009-2009.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 40,
+    "statement": "A figura representa uma associação de três pilhas, de $1,5\\ V$ cada, que serão usadas para alimentar um brinquedo. Qual voltagem será fornecida ao brinquedo por essa associação de pilhas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5 V",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,0 V",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,0 V",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,5 V",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "cg-2009-2009.2/q40.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.2-q41",
+    "examId": "cg-2009-2009.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 41,
+    "statement": "Um gás ideal está confinado em um recipiente onde sua pressão P, seu volume V e sua temperatura T, podem variar. A razão PV/T irá:",
+    "options": [
+      {
+        "label": "a",
+        "text": "aumentar, se aumentarmos sua pressão.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "aumentar, se aumentarmos seu volume.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "aumentar, se diminuirmos sua temperatura.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "permanecer constante",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2009-2009.2-q42",
+    "examId": "cg-2009-2009.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "A torre Eiffel, em Paris, foi construída em aço, cujo coeficiente linear de dilatação térmica é $11\\times10^{-6}/°C$. Em um certo dia de inverno, a temperatura em Paris foi $-5,0°C$ e a altura da Torre Eiffel foi medida em $300\\ m$. Em um certo dia do verão seguinte a temperatura em Paris atingiu $35°C$. Qual a diferença do tamanho da torre Eiffel entre esses dois dias?",
+    "options": [
+      {
+        "label": "a",
+        "text": "11 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "13 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "17 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2009-2009.2-q43",
+    "examId": "cg-2009-2009.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 43,
+    "statement": "A velocidade do som no ar é de $340\\ m/s$. Uma onda sonora de comprimento de onda $1,7\\ m$ é emitida no ar, mas é refratada, passando a se propagar nas águas de um lago onde a velocidade de propagação do som é $1400\\ m/s$. Qual o comprimento da onda desta onda sonora no lago?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,7 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,1 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7,0 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2009-2009.2-q44",
+    "examId": "cg-2009-2009.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 44,
+    "statement": "Um objeto extenso AB é colocado a uma distância $d_0 = 30\\ cm$ de lente convergente, cuja distância focal é $f = 10\\ cm$. Qual a ampliação fornecida pela lente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
