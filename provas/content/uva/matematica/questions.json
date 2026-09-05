@@ -17758,5 +17758,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2011.2-q1",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 1,
+    "statement": "Sejam f, g, h funções tais que g e $(h\\circ f)$ são ambas a função identidade. Sendo $u(x)=f(g(h(x)))$, o que se pode dizer sobre $u(u(u(x)))$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "É a função identidade.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É a função f(x).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É a função $(f\\circ h)(x)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Nenhuma das anteriores.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2011.2-q2",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 2,
+    "statement": "Uma equipe de aventureiros deseja montar uma tirolesa em um trecho no rio Acaraú, em Sobral. Na margem direita, fixou-se um ponto A. Na margem esquerda, um dos aventureiros marca dois pontos, B e C, mede a distância d entre eles e os ângulos internos do triângulo ABC. Ele observa que o ângulo BAC é o dobro do ângulo $\\alpha$ formado no vértice C. Sabendo que o cabo de aço para montar a tirolesa será suspenso entre os pontos A e B, qual o comprimento mínimo para o cabo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{d}{2\\cos\\alpha}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "d.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{d\\cdot tg\\alpha}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2d.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2011.2-q3",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 3,
+    "statement": "Um atleta faz um treinamento em um campo de futebol. Ele marca um ponto em cada lado do campo e os chama de A e B. Depois, ele traça uma linha reta entre os dois pontos e seu treino consiste em correr sobre essa linha fazendo o seguinte trajeto: partindo de A ele corre 2/3 da distância d entre A e B e volta d/3, ficando num ponto C entre A e B. Depois, partindo de C em direção a B, ele faz a mesma coisa; corre 2/3 da distância d' entre C e B, voltando d'/3 e parando no ponto D entre C e B. Partindo de D, corre 2/3 da distância d'' entre D e B e volta d''/3. Prosseguindo o treinamento dessa forma, podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ele deve parar exatamente no ponto médio entre A e B, visto que seu pé não é apenas um ponto.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Ele deve acabar voltando ao ponto A, uma vez que seu pé não é apenas um ponto.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Ele deve chegar ao ponto B, uma vez que seu pé não é apenas um ponto.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Supondo que ele tenha fôlego infinito, seu treinamento nunca termina.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2011.2-q4",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 4,
+    "statement": "Sejam f(x) e g(x) funções definidas de $\\mathbb{R}^+$ em $\\mathbb{R}^+$ e bijetoras. Sabe-se que $\\log_2 f(x) = g(x)$ e que $\\log_2 f(f(x)) = g(x)+1$. Qual o valor de f(1)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2011.2-q5",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "Considerando o gráfico da função f (uma sequência de segmentos crescentes, descontínuos, entre os intervalos [0,a], [a,2a] e [2a,3a], começando respectivamente em 2b, b e 0, subindo até valores próximos de 3b, 2b e b), o valor de $f(a/2)+f(3a/2)+f(5a/2)$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "9b/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11b/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "13b/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15b/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2011.2-q6",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 6,
+    "statement": "Considere o polinômio $p(x)=x^4-5x^2+4$. Sejam $r_1<r_2<r_3<r_4$ as raízes de p. Se $x_1,x_2$ são os pontos médios de $r_1,r_2$ e $r_3,r_4$ respectivamente, então a área do triângulo de vértices $(x_1,p(x_1)),(x_2,p(x_2)),(0,p(0))$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "297/32.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "87/32.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "300/32.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2011.2-q7",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "Sabendo que o segmento AB tangencia o círculo de raio R, que as áreas hachuradas são iguais e que o ângulo central indicado está medido em radianos, podemos afirmar que a área em branco, interna ao círculo, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Igual a $\\pi R^2-4\\alpha R+R^2 sen2\\alpha$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Igual a $\\pi R^2+4\\alpha R+R^2 sen2\\alpha$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Menor do que $\\pi R^2-4\\alpha R+R^2 sen2\\alpha$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Maior do que $\\pi R^2-4\\alpha R+R^2 sen2\\alpha$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2011-2011.2-q8",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 8,
+    "statement": "Considere uma matriz $A=[a_{ij}]_{(n+1)\\times(n+1)}$ onde $a_{1j}=a_{i1}=1$ para todo i e para todo j entre 1 e n+1. Além disso, se $i\\neq1$ e $j\\neq1$, então $a_{ij}=a_{(i-1)j}+a_{i(j-1)}$. O que se pode dizer sobre o termo $a_{n-1,n+1}$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "É igual a $\\binom{2n}{n+1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É igual a $\\binom{2n}{n-1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É igual a $\\binom{2n}{n}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "É igual a $\\binom{n+1}{n}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2011.2-q9",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 9,
+    "statement": "Todas as faces de uma pirâmide regular de base quadrada tangenciam uma esfera de raio R, que se encontra no interior da pirâmide. Sabendo que todas as arestas da pirâmide têm a mesma medida a, então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$a=R\\sqrt{3}(\\sqrt{2}+1)$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$a=R\\sqrt{3}(\\sqrt{2}-1)$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$a=R\\sqrt{2}(\\sqrt{3}-1)$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$a=R\\sqrt{2}(\\sqrt{3}+1)$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2011-2011.2-q10",
+    "examId": "mf-2011-2011.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 10,
+    "statement": "Para o campeonato mundial de fórmula 1 de 2012, teremos um total de 12 equipes, cada uma com duas vagas para pilotos. Segundo rumores, 4 dessas equipes ainda não têm pilotos contratados para 2012 e 3 equipes têm, ainda, uma vaga disponível. As demais equipes já têm os dois pilotos contratados. Sabendo que os pilotos Bruno Senna, Nelson Ângelo Piquet, Lucas Di Grassi, Rubens Barrichello e Felipe Massa ainda não têm contrato, de quantas maneiras diferentes poderemos ter os 5 brasileiros disputando o próximo campeonato por 5 equipes distintas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$21\\times120$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$12\\times120$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$12\\times5$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$7\\times5$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2012.2-q1",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 1,
+    "statement": "A figura mostra circunferências tangentes entre si no ponto P e de diâmetros na razão de 1:2, se considerarmos duas delas consecutivas. A área da circunferência $C_n$ vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi\\left(\\dfrac{R}{2}\\right)^{2(n-1)}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi\\left(\\dfrac{R}{2^{n+1}}\\right)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi\\left(\\dfrac{R}{2^{n-1}}\\right)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi\\left(\\dfrac{R}{2^n}\\right)^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2012.2-q2",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 2,
+    "statement": "Seja f uma função não constante, definida no conjunto dos números reais e tal que $f(x+y)=f(x)+f(y)$ e $f(x.y)=f(x).f(y)$ para quaisquer x,y reais. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f(0)=0 e f(1)=0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f(0)=0 e f(1)=1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "f(x)=x para todo x real.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não há informações suficientes sobre f para determinar a imagem de qualquer número real.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "mf-2011-2012.2-q3",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "Considere as funções $f(x)=e^x$, $g(x)=e^{-x}$ e $h(x)=e$. A área do triângulo cujos vértices são determinados pela intersecção entre os gráficos das funções dadas é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1-e.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "e.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$e^2/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "e-1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2011-2012.2-q4",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 4,
+    "statement": "Considerando $x\\in[0,2\\pi]$, os valores de x que satisfazem $\\cos(x)=\\cos(2x)-1$ estão no intervalo:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$[\\pi/4,3\\pi/4]$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$[3\\pi/4,5\\pi/4]$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$[5\\pi/4,7\\pi/4]$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$[7\\pi/4,2\\pi]$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2012.2-q5",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 5,
+    "statement": "Considere a matriz $A=[a_{ij}]_{n\\times n}$ onde $a_{ij}=(i+j)^2$. Se $A^{-1}$ representa a matriz inversa de A e $X=\\left(\\left(\\left(A^{-1}\\right)^{-1}\\right)^{-1}\\cdots\\right)^{-1}$ (n vezes), então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$X=[b_{ij}]_{n\\times n}$ com $b_{ij}=(a_{ij})^n$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$X=[b_{ij}]_{n\\times n}$ com $b_{ij}=(a_{ij})^{-n}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "X=[b_ij] com b_ij=a_ij, se n for par.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "X=[b_ij] com b_ij=-a_ij, se n for ímpar.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2012.2-q6",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 6,
+    "statement": "Você tem R\\$2000,00 e vai aplicar este dinheiro, a juros simples, por um mês. Suas opções são: 1- Aplicar em Poupança, que rende à taxa real de 1,0\\% ao mês sem qualquer dedução sobre o rendimento; 2- Aplicar em CDX, que rende à taxa real de 1,2\\% ao mês, contudo você deve pagar um imposto de 20\\% sobre o rendimento; 3- Aplicar em CDY, que rende à taxa real de 2,0\\% ao mês, porém você deve pagar uma taxa de 50\\% do rendimento obtido. Assim, em relação ao lucro (rendimento menos investimento) obtido após a aplicação, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "é indiferente aplicar em Poupança ou CDX.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é indiferente aplicar em Poupança ou CDY.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é indiferente aplicar em CDX ou CDY.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é indiferente aplicar em Poupança, CDX ou CDY.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2012.2-q7",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "A área da região mais escura (um segmento circular de raio R, delimitado por uma corda e o ângulo central α) é dada por:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{R^2}{2}\\left(\\alpha-\\dfrac{sen(\\alpha)}{2}\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{R^2}{2}\\left(\\alpha-\\dfrac{\\cos(\\alpha)}{2}\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{R^2}{2}(\\alpha-sen(\\alpha))$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{R^2}{2}(\\alpha-\\cos(\\alpha))$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2012.2-q8",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 8,
+    "statement": "Considerando dois polinômios p(x) e q(x), sabe-se que (p+q)(x) possui 5 raízes distintas e que (p-q)(x) possui 3 raízes distintas. Pode-se afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Os polinômios p e q têm mesmo grau.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Cada um dos polinômios p e q tem grau no máximo 3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O grau de p é maior ou igual a 5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Pelo menos um dos polinômios p e q tem grau pelo menos 5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2011-2012.2-q9",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 9,
+    "statement": "Considere os inteiros positivos m e n (com m<n). A distância entre o primeiro pico de $f(x)=sen(nx)$ e o primeiro pico de $f(x)=sen(mx)$, com x>0 é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\pi}{2}\\left(\\dfrac{m+n}{mn}\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\pi}{2}\\left(\\dfrac{n-m}{mn}\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\pi}{2}\\left(\\dfrac{1}{n-m}\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\pi}{2}\\left(\\dfrac{mn}{n-m}\\right)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2012.2-q10",
+    "examId": "mf-2011-2012.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 10,
+    "statement": "Considere o conjunto $A=\\{a,b,\\{c\\},\\{d,e\\}\\}$. Sendo P(A) o conjunto das partes de A, pode-se afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{\\{c\\}\\}$ é subconjunto de P(A).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{d,e\\}$ é elemento de P(A).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{\\{a\\},\\{b\\}\\}$ é subconjunto de P(A).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{c,d,e\\}$ é elemento de P(A).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
