@@ -2142,5 +2142,2565 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q1",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 1,
+    "statement": "Das X pessoas que participavam inicialmente de uma festa, sabe-se que, numa dada hora, retiraram-se 15 garotas, restando dois rapazes para cada garota. Em seguida, retiraram-se 60 rapazes, restando duas garotas para cada rapaz. Nessas condições, o número X é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "112",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "98",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "115",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "135",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q2",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 2,
+    "statement": "O número de soluções da equação $4\\cdot[\\sin^3(x)-\\cos^3(x)] = 5\\cdot[\\sin(x)-\\cos(x)]$, no intervalo $0 < x < 2\\pi$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q3",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 3,
+    "statement": "Um engenheiro estudando a resistência de uma viga de certo material, obteve os seguintes dados: peso 0N com deformação 0mm; peso 6N com deformação 9mm; peso 18N com deformação 45mm. O engenheiro suspeita que a deformação D pode ser dada em função do peso x por uma expressão do tipo $D(x)=ax^2+bx+c$. Usando os dados da tabela, ele escreve um sistema de equações lineares e determina os valores dos coeficientes a, b e c. O valor de a é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/12",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q4",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 4,
+    "statement": "Se $|A|$ denota o determinante da matriz A, e se $A = \\begin{pmatrix}|A| & 1 \\\\ 2 & |A|\\end{pmatrix}$, então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$A=\\begin{pmatrix}2&1\\\\2&2\\end{pmatrix}$ ou $A=\\begin{pmatrix}-1&1\\\\2&-1\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$A=\\begin{pmatrix}-2&-1\\\\2&2\\end{pmatrix}$ ou $A=\\begin{pmatrix}-1&1\\\\2&1\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$A=\\begin{pmatrix}-1&1\\\\2&-1\\end{pmatrix}$ se $|A|>0$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$A=\\begin{pmatrix}0&-1\\\\2&2\\end{pmatrix}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.1-q5",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 5,
+    "statement": "Dois viajantes partem juntos, a pé, de uma cidade A para uma cidade B, por uma mesma estrada. O primeiro anda 12 quilômetros por dia. O segundo anda 10 quilômetros no primeiro dia e daí acelera o passo, em meio quilômetro a cada dia que segue. Nessas condições, é verdade que o segundo:",
+    "options": [
+      {
+        "label": "a",
+        "text": "alcançará o primeiro no 9º dia.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "alcançará o primeiro no 6º dia.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "alcançará o primeiro antes de 8 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "alcançará o primeiro no 15º dia.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.1-q6",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 6,
+    "statement": "O sistema linear de três equações nas variáveis x, y e z: $\\{x-y=k;\\ 12x-ky+z=1;\\ 36x+kz=2\\}$ é possível e determinado se, e somente se:",
+    "options": [
+      {
+        "label": "a",
+        "text": "k ≠ 4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "k ≠ 3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "k ≠ 5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "k ≠ 6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.1-q7",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "O segmento cujas extremidades são os pontos de intersecção da reta $y=x-2$ e da parábola $y^2=x$ tem comprimento igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\sqrt{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.1-q8",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 8,
+    "statement": "Numa determinada livraria, a soma dos preços de aquisição de dois lápis e um estojo é R\\$ 10,00. O preço do estojo é de R\\$ 5,00 mais barato que o preço de três lápis. A soma dos preços de aquisição de um estojo e de um lápis é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 6,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 4,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 15,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 7,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q9",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 9,
+    "statement": "Um tanque, com a forma de um cilindro circular reto, tem 4 m de altura. Ao esboçar um projeto para a reforma desse tanque, um engenheiro percebeu que, independentemente de aumentar o raio de sua base ou a sua altura em 5 m, o volume nos dois casos, sofreria o mesmo acréscimo de $xm^3$. Assim, o volume do tanque original, em metros cúbicos, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "350$\\pi$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "435$\\pi$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "400$\\pi$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "382$\\pi$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q10",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 10,
+    "statement": "Quantos são os triângulos que possuem medidas dos seus lados expressas por números inteiros e tais que a medida do maior lado seja igual a 11?",
+    "options": [
+      {
+        "label": "a",
+        "text": "11",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "36",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q11",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 11,
+    "statement": "Aos vértices de um cubo são atribuídos os números de 1 a 8 de modo que os conjuntos dos números correspondentes aos vértices das seis faces são $\\{1,2,6,7\\}$, $\\{1,4,6,8\\}$, $\\{1,2,5,8\\}$, $\\{2,3,5,7\\}$, $\\{3,4,6,7\\}$, $\\{3,4,5,8\\}$. O vértice atribuído ao número 6 está mais longe do vértice de número:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q12",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "Na figura, estão representados, no plano cartesiano XoY, a reta de equação $Y=2KX$, $0 \\le K \\le 3/2$, a parábola de equação $Y=-X^2+3X$ e os pontos O, P e Q de intersecções da parábola com o eixo OX e da reta com a parábola. Nestas condições, o valor de K para que a área do triângulo OPQ seja a maior possível é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11/8",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.1-q13",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 13,
+    "statement": "Na sequência de termo geral $a_n = 5n + \\sin(n\\cdot\\pi/2)$, com $n \\in \\mathbb{N}^*$, a soma dos 20 primeiros termos de ordem ímpar é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2000",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2012",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2010",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2005",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.1-q14",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "Considere a região limitada pela reta $x-1=0$ e pelos pontos (x, y) do plano, tais que $(x+2y)^2=(3x-y)^2$. A área dessa região é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "7/3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5/2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.1-q15",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 15,
+    "statement": "Uma loja oferece pisos de cerâmica para cozinha, com peças em 4 tamanhos diferentes. Em qualquer um dos tamanhos, as peças são oferecidas nas mesmas 10 cores distintas. Se um cliente escolhe peças de 2 tamanhos, com uma cor diferente para cada tamanho, o total de opções que ele tem é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "520",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "540",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "530",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "535",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.1-q16",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Na figura, a circunferência tem raio de medida r e $\\overline{AB}$ é um diâmetro. Considere todos os triângulos AXB, nos quais o vértice X pertence à circunferência. O maior valor possível para a área desses triângulos é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3r^2/5$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$r^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$r\\sqrt{3}/2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$r^2/2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.1-q17",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Num determinado local, o litro de combustível, composto de 75\\% de gasolina e 25\\% de álcool, é comercializado ao preço de R\\$ 2,05, sendo o litro de álcool comercializado ao preço de R\\$ 1,00. Se os preços são mantidos proporcionais, o preço do litro de gasolina é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 2,50",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 2,35",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 2,60",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 2,40",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.1-q18",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 18,
+    "statement": "Quantos números inteiros e estritamente positivos satisfazem a sentença $\\dfrac{1}{x-20} \\le \\dfrac{1}{12-x}$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "oito",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "dezesseis",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "quinze",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "quatorze",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q19",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 19,
+    "statement": "O número $N = \\underbrace{11111\\ldots1}_{1999}$ possui 1999 dígitos, todos iguais a 1. O resto da divisão de N por 7 é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.1-q20",
+    "examId": "cg-2005-2005.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 20,
+    "statement": "O valor de $\\log_2\\left(\\dfrac{2\\cdot4\\cdot6\\cdots2n}{n!}\\right)$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2n^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3n^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2n",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "n",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q1",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Uma senhora possui três filhas em idade escolar. O produto da sua idade com as idades de suas 3 filhas é 16555. A soma das idades das três filhas é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "22",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "23",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q2",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 2,
+    "statement": "Em um triângulo ABC, $\\cos(A/2)\\cdot\\cos(B/2)\\cdot\\cos(C/2)$ é igual a: (p = semiperímetro, R = raio do círculo circunscrito)",
+    "options": [
+      {
+        "label": "a",
+        "text": "P/R",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2P/R",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "P/2R",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "P/4R",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q3",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 3,
+    "statement": "Que número devemos somar ao numerador e denominador da fração 2/3 para que a mesma tenha um aumento de 20\\%?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.2-q4",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 4,
+    "statement": "Em um paralelogramo ABCD, os lados $\\overline{AB}$ e $\\overline{AD}$ medem, respectivamente, $x\\sqrt{2}\\ cm$ e $x\\ cm$, e $\\theta$ é o ângulo agudo formado por esses lados. Se a diagonal maior mede $2x\\ cm$, então o ângulo $\\theta$ é tal que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$tg\\,\\theta=\\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$tg\\,\\theta=\\sqrt{7}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$tg\\,\\theta=\\sqrt{5}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$tg\\,\\theta=2\\sqrt{7}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q5",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "Se os pontos $(1,4)$, $(3,2)$ e $(7,Y)$ são vértices consecutivos de um retângulo, então a sua área, em unidades de superfície, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "9",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "26",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "32",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q6",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 6,
+    "statement": "Em uma progressão aritmética, em que o primeiro termo é 23 e a razão é $-6$, a posição ocupada pelo elemento $-13$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "oitava",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "sétima",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "nona",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "décima",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q7",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "Se um retângulo tem diagonal medindo 10 e lados cujas medidas somam 14, qual sua área?",
+    "options": [
+      {
+        "label": "a",
+        "text": "48",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "31",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "73",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "23",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2005-2005.2-q8",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 8,
+    "statement": "Assinale a afirmação correta. O polinômio $x^2-kx+1$:",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem sempre duas raízes reais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem sempre uma raiz real.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem exatamente uma dupla de raízes reais e iguais para $k=\\pm2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem exatamente uma raiz real para infinitos valores de k.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.2-q9",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 9,
+    "statement": "Um senhor tem a anos de idade, seu filho tem f anos de idade e seu neto, n. Sobre estes valores, podemos afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "É impossível que a, f e n estejam em progressão aritmética.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É impossível que a, f e n estejam em progressão geométrica.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É impossível que a, f e n estejam simultaneamente em progressão aritmética e geométrica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "É possível que a, f e n estejam simultaneamente em progressão aritmética e geométrica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.2-q10",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 10,
+    "statement": "O campeonato brasileiro tem, em sua primeira fase, 28 times que jogam todos entre si. Nesta primeira etapa, o número de jogos é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "376",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "378",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "380",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "396",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q11",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 11,
+    "statement": "Assinale a afirmativa correta. O sistema $\\{x+y+z=1;\\ x+y-z=1\\}$:",
+    "options": [
+      {
+        "label": "a",
+        "text": "não tem solução.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem uma única solução x=1, y=0, z=0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem exatamente duas soluções.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem uma infinidade de soluções.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q12",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 12,
+    "statement": "Sejam a, b, c reais não-nulos e distintos, $c>0$. Sendo par a função dada por $f(x)=\\dfrac{ax+b}{x+c}$, $-c<x<c$, então $f(x)$, para $-c<x<c$, é constante e igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a+c",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "b",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a-b",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q13",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 13,
+    "statement": "Seja a matriz $\\begin{pmatrix}\\cos25° & \\sin65° \\\\ \\sin120° & \\cos390°\\end{pmatrix}$. O valor de seu determinante é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{3}/2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\sqrt{3}/2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q14",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "Na figura, M é o ponto médio da corda $\\overline{PQ}$ da circunferência e $\\overline{PQ}=8$. O segmento $\\overline{RM}$ é perpendicular a $\\overline{PQ}$ e $\\overline{RM}=4\\sqrt{3}/3$. Qual o valor do raio da circunferência?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$8\\sqrt{3}/3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$5\\sqrt{3}/2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\sqrt{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q15",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "Dispõe-se de um pedaço de tecido com a forma de um triângulo retângulo de lados 1,5 m, 2 m e 2,5 m. Pretende-se recortar desse tecido um pedaço retangular. Para que seja desperdiçada a menor quantidade possível do pedaço original, o perímetro do pano retangular deverá ser, em metros:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,75",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q16",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 16,
+    "statement": "Rafael tem 2/3 da idade de Roberto e é 2 anos mais jovem que Reinaldo. A idade de Roberto representa 4/3 da idade de Reinaldo. Em anos, a soma das idades dos três é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "48",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "72",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "58",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "34",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2005-2005.2-q17",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "Quantos números inteiros entre 10 e 1000 possuem seus dígitos em ordem estritamente crescente? (por exemplo: 47 e 126 são números deste tipo; 52 e 566 não).",
+    "options": [
+      {
+        "label": "a",
+        "text": "98",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "120",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "111",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q18",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 18,
+    "statement": "A é uma matriz quadrada de ordem 2, inversível, e $\\det(A)$ o seu determinante. Se $\\det(2A)=\\det(A^2)$, então $\\det(A)$ será igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2005-2005.2-q19",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 19,
+    "statement": "Se $A = \\begin{pmatrix}1 & 1 & 1\\\\ \\log_2100 & \\log_250 & \\log_25 \\\\ (\\log_2100)^2 & (\\log_250)^2 & (\\log_25)^2\\end{pmatrix}$ então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\det A = 2 + 3\\log_25 + (\\log_25)^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\det A = -2 - 3\\log_25 - (\\log_25)^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\det A = -2 + 3\\log_25 - (\\log_25)^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\det A = 2 - 3\\log_25 + (\\log_25)^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2005-2005.2-q20",
+    "examId": "cg-2005-2005.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 20,
+    "statement": "Sejam a, b e c as dimensões de um paralelepípedo retângulo, p a soma das dimensões, d a diagonal, k a área total e V o volume. Temos:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$p^2=d^2+k^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "p²=dk",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$d^2=p^2+k^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "V=pdk",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q1",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 1,
+    "statement": "A prefeitura de uma certa cidade fez uma campanha que permite trocar 4 garrafas de 1 litro vazias por uma garrafa de 1 litro cheia de leite. Até quantos litros de leite pode obter uma pessoa que possua 43 dessas garrafas vazias?",
+    "options": [
+      {
+        "label": "a",
+        "text": "14 litros de leite ao todo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 litros de leite ao todo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16 litros de leite ao todo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "17 litros de leite ao todo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q2",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Num triângulo ABC cujos ângulos são designados por A, B e C estão, respectivamente, na razão 4:2:1, e os lados opostos a esses ângulos são, respectivamente, a, b e c, então os lados do triângulo estão relacionados pela expressão:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{a}-\\dfrac{1}{c}=\\dfrac{1}{b}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{a}-\\dfrac{1}{b}=\\dfrac{1}{c}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{a}+\\dfrac{1}{c}=\\dfrac{1}{b}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{a}+\\dfrac{1}{b}=\\dfrac{1}{c}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q3",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 3,
+    "statement": "Um pastor interrogado sobre o número de ovelhas, responde: somai a metade, com um terço e com um quinto do meu rebanho e achareis 3 ovelhas a mais do que tenho. Quantas ovelhas tem o pastor?",
+    "options": [
+      {
+        "label": "a",
+        "text": "90",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "70",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q4",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 4,
+    "statement": "Se os números a, b e c formam, nesta ordem, uma progressão geométrica e $\\log_a^A = \\log_b^B = \\log_c^C$ então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A, B e C formam progressão aritmética.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A, B e C formam progressão harmônica.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A, B e C formam progressão geométrica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nada se pode concluir.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.1-q5",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "f e g são duas funções de $\\mathbb{R}$ em $\\mathbb{R}$ tais que: I) $f(x)=g(x)+2$ e II) $g(x)=2x-f(x)$. Seja P um ponto do gráfico de f e Q um ponto do gráfico de g. Qual é a distância mínima entre P e Q?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\sqrt{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q6",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 6,
+    "statement": "A e B venderam um terreno com um lucro de R\\$ 1.560,00. O lucro de A foi de 40\\% e o lucro de B corresponde a 30\\% do lucro de A. Qual o valor inicial do terreno?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 3.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 3.100,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 3.200,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 3.300,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q7",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 7,
+    "statement": "O 5º termo do desenvolvimento do binômio $\\left(2x^2+\\dfrac{1}{x}\\right)^n$, segundo as potências decrescentes de x, é $1120x^4$. O número natural n é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "primo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "múltiplo de 5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "quadrado perfeito.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "cubo perfeito.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q8",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 8,
+    "statement": "Se a soma $1+2+3+\\ldots+k$ é um quadrado perfeito $N^2$ e se N é menor que 100, então os possíveis valores de k são:",
+    "options": [
+      {
+        "label": "a",
+        "text": "apenas 1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "apenas 8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 e 8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1, 8 e 49.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q9",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 9,
+    "statement": "A indústria papelão S.A. vai confeccionar caixas cúbicas iguais que deverão ser acondicionadas num galpão com forma de paralelepípedo cujas dimensões são 30m, 20m e 6m. Qual o menor número de caixas que deverá ser confeccionado para ocupar totalmente o galpão?",
+    "options": [
+      {
+        "label": "a",
+        "text": "900",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "700",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "450",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "550",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.1-q10",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 10,
+    "statement": "Se k é uma raiz da equação $x^2-x-1=0$, determine o valor de $k^5-5k$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q11",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 11,
+    "statement": "Sejam a, b e c reais não nulos tais que $a+b+c=0$. Calcule o valor de: $\\dfrac{(b+c)^2}{a^2}+\\dfrac{(a+c)^2}{b^2}+\\dfrac{(a+b)^2}{c^2}$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.1-q12",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "A hipotenusa de um triângulo retângulo mede 10 cm. Determine os comprimentos dos catetos de modo que o triângulo tenha o menor perímetro possível.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$5\\sqrt{2}$ e $5\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt{2}$ e $3\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$7\\sqrt{2}$ e $7\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\sqrt{2}$ e $2\\sqrt{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q13",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "Calcule o valor exato de: $\\sin\\left[2\\,\\text{arccotg}\\left(\\dfrac{4}{3}\\right)\\right] + \\cos\\left[2\\,\\text{arccossec}\\left(\\dfrac{5}{4}\\right)\\right]$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "17/25",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "25/17",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11/5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "19/17",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.1-q14",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 14,
+    "statement": "Qual é a razão de uma progressão geométrica da qual são conhecidos os termos $a_{2n-3}$ e $a_{2n+1}$, iguais a $a^3/b$ e $b^3/a$, respectivamente.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pm 2b/a$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pm b/a$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pm a/b$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a/b",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q15",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 15,
+    "statement": "O sistema com as incógnitas x, y e z, $\\{x+z=p;\\ y+z=100;\\ z-mx=80\\}$ tem uma infinidade de soluções. Sobre os valores dos parâmetros m e p, concluímos:",
+    "options": [
+      {
+        "label": "a",
+        "text": "m=-1 e p é arbitrário",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "m=1 e p é arbitrário",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "m=-1 e p=80",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "m=80 e p=100",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.1-q16",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "No plano cartesiano ortogonal, a equação $y=\\dfrac{x^2}{6}-\\dfrac{2x}{3}+\\dfrac{5}{3}$ representa:",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma circunferência.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma elipse",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "um par de retas",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma parábola",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q17",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 17,
+    "statement": "Uma esfera de raio r está inscrita em um cubo. A diagonal do cubo, em função do raio da esfera, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3r\\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{r\\sqrt{3}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{r\\sqrt{3}}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2r\\sqrt{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.1-q18",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 18,
+    "statement": "Duas pessoas reúnem R\\$ 8.500,00 para efetuar um negócio. A primeira coloca R\\$ 6.000,00 por 2 meses e a outra, o restante durante 3 meses. Tendo havido um lucro de R\\$ 1.365,00 o lucro da primeira pessoa é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 835,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 840,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 940,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 935,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q19",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 19,
+    "statement": "Seja A o conjunto de números naturais $\\{0;1;\\ldots;99;100\\}$. Vamos formar grupos de 3 números, sorteados, um a um, sem reposição, entre os elementos de A. Quantos desses grupos conterão só números pares?",
+    "options": [
+      {
+        "label": "a",
+        "text": "117.600",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "124.950",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "970.200",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "110.400",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.1-q20",
+    "examId": "cg-2006-2006.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 20,
+    "statement": "A soma de todos os números da forma 2k+1 onde k toma valores inteiros de 1 a n é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(n+1)^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "n(n+1)",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(n+1)(n+2)",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "n(n+2)",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q1",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 1,
+    "statement": "Uma pessoa possui um certo número de laranjas. Cada vez que se dobrar esse número ela dará 80 laranjas aos amigos. Dobraram-no três vezes, e, depois da terceira vez a pessoa ficou sem nenhuma laranja. Calcule quantas laranjas essa pessoa tinha no princípio.",
+    "options": [
+      {
+        "label": "a",
+        "text": "50",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "70",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.2-q2",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 2,
+    "statement": "Um homem bebe 1/3 de um copo de vinho. Enche de água e bebe a metade do copo cheio; enche-o a segunda vez de água e bebe a metade do copo cheio. Calcule que fração de vinho fica no copo.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/7",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q3",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 3,
+    "statement": "Os conjuntos A e B possuem, respectivamente, 3 e 4 elementos. Quantas funções de A em B têm o conjunto imagem igual a B?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3^4$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3!",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nenhuma",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q4",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 4,
+    "statement": "Para que valores de x existe $A^{-1}$, sendo $A=\\begin{pmatrix}2x & 1 \\\\ x & x\\end{pmatrix}$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x\\neq0$ ou $x\\neq1/2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x\\neq1$ ou $x\\neq2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x\\neq3$ ou $x\\neq4$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x\\neq2$ ou $x\\neq5$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2006-2006.2-q5",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 5,
+    "statement": "Considere a matriz A, quadrada de ordem 2, cujos elementos são tais que $A_{ij}=f(i)+f(j)$, sendo $f(x)=x-2$. Encontre a matriz X tal que $A\\cdot X=\\begin{pmatrix}1&0\\\\0&1\\end{pmatrix}$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\begin{pmatrix}0&1\\\\1&2\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\begin{pmatrix}0&-1\\\\1&2\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\begin{pmatrix}0&-1\\\\-1&2\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\begin{pmatrix}0&1\\\\2&1\\end{pmatrix}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.2-q6",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Na figura, ABC é um triângulo retângulo em A. Calcular o ângulo formado pela altura e a mediana relativas à hipotenusa, sabendo-se que $\\hat{C}=20°$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "40°",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30°",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45°",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50°",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q7",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Se $\\begin{vmatrix}a&b&0\\\\0&d&1\\\\c&0&2\\end{vmatrix}$, então o valor de $2\\begin{vmatrix}a&b&0\\\\0&d&1\\\\c&0&2\\end{vmatrix}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "bc",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2bc",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$b^2c^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3bc",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q8",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "A equação da circunferência circunscrita ao triângulo de vértices A(2;7), B(-8;-3) e C(8;-11) é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(x+2)^2+(y+3)^2=100$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(x-3)^2+(y-2)^2=100$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(x-2)^2+(y+3)^2=100$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(x-5)^2+(y-4)^2=16$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.2-q9",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 9,
+    "statement": "Se o sistema $\\{y=kx+3;\\ y=(2k-1)x+4\\}$ tem apenas uma solução (x,y), então o parâmetro k satisfaz a condição:",
+    "options": [
+      {
+        "label": "a",
+        "text": "k ≠ 1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "k ≠ -1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "k ≠ 0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "k ≠ 3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q10",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "São dadas a parábola de equação $y=x^2$ e a reta de equação $y=4x-5$. Considere os segmentos paralelos ao eixo Oy que tenham extremidades na parábola e na reta dada. Determine o comprimento do menor desses segmentos.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2006-2006.2-q11",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 11,
+    "statement": "Uma torneira goteja 7 vezes a cada 20 segundos. Admitindo que as gotas tenham sempre volume igual a 0,2 mL, o volume de água que vaza por hora é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "225 mL",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "251 mL",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "122 mL",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "252 mL",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2006-2006.2-q12",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 12,
+    "statement": "O polinômio $P(x)=ax^3+bx^2+cx+d$ é idêntico a $Q(x)=5x^2-3x+4$. Então, temos que $a+b+c+d$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "6",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q13",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 13,
+    "statement": "Se $\\log_3 2=0,63$ e $\\log_3 11=2,18$, calcule $\\log_3\\left(\\dfrac{1}{1936}\\right)$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "6,88",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-6,88",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,88",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-5,88",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.2-q14",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 14,
+    "statement": "A equação $x^3-4x^2-4x+16=0$ tem raízes reais a, b, c tais que $a=b+c$. O valor de $\\dfrac{1}{a}+\\dfrac{1}{b}+\\dfrac{b}{ac}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "-1/4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q15",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 15,
+    "statement": "Sendo $\\alpha$ e $\\beta$ ângulos agudos tais que $\\cot g\\,\\alpha=3/4$ e $\\cot g\\,\\beta=1/7$, calcule $\\alpha+\\beta$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\pi/4$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\pi/2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\pi/3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\pi/6$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q16",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 16,
+    "statement": "Na sequência: (2, 4, 7, 11, ...) as diferenças entre termos consecutivos estão em progressão aritmética. Determine o termo geral da sequência.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(n^2+n+2)/2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(n^2+2n+2)/3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(n^2+n)/2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(n^2+n)/2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q17",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Por qual fração se deve multiplicar um número, para aumentá-lo de 30%?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/10",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2006-2006.2-q18",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "No desenvolvimento de $(x+2y)^n$, segundo potências decrescentes de x, os coeficientes binomiais do 14º e do 28º termos são iguais. Calcular a soma dos coeficientes numéricos dessa expansão.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3^{50}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3^{40}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3^{30}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3^{10}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2006-2006.2-q19",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "O triângulo ABC, desenhado no referencial cartesiano abaixo, é equilátero, e seus lados têm 4 unidades de comprimento. Descubra a equação da reta que contém o lado BC do triângulo.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$y=-\\sqrt{3}x+4\\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$y=\\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$y=\\sqrt{3}x-4\\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$y=\\sqrt{3}x$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2006-2006.2-q20",
+    "examId": "cg-2006-2006.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 20,
+    "statement": "Retiram-se x litros de um barril de 100 litros de vinho e adicionam-se, ao mesmo barril, x litros de água. Da mistura resultante no barril, retiram-se outros x litros e adicionam-se x litros de água. Agora o barril contém 64 litros de vinho e 36 litros de água. Calcule o valor de X.",
+    "options": [
+      {
+        "label": "a",
+        "text": "x é igual a 25 litros",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "x é igual a 30 litros",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x é igual a 28 litros",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "x é igual a 20 litros",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

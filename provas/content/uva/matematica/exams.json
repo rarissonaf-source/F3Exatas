@@ -30,5 +30,37 @@
     "edition": "2003.2",
     "examType": "geral",
     "sourceFile": "Vestibular Comentado UVA 2003.2.pdf"
+  },
+  {
+    "id": "cg-2005-2005.1",
+    "institution": "UVA",
+    "year": 2005,
+    "edition": "2005.1",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2005.1.pdf"
+  },
+  {
+    "id": "cg-2005-2005.2",
+    "institution": "UVA",
+    "year": 2005,
+    "edition": "2005.2",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2005.2.pdf"
+  },
+  {
+    "id": "cg-2006-2006.1",
+    "institution": "UVA",
+    "year": 2006,
+    "edition": "2006.1",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2006.1.pdf"
+  },
+  {
+    "id": "cg-2006-2006.2",
+    "institution": "UVA",
+    "year": 2006,
+    "edition": "2006.2",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2006.2.pdf"
   }
 ]
