@@ -11906,5 +11906,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2013-2013.2-q37",
+    "examId": "cg-2013-2013.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 37,
+    "statement": "Em fevereiro de 2013, um meteoro penetrou na atmosfera da terra desintegrando-se e provocando uma grande explosão próximo aos montes Urais, na Rússia. Pessoas nas proximidades alegaram que ouviram o estrondo da explosão $30\\ s$ após verem o céu ser iluminado pelo seu clarão. A que distância do ponto de explosão do meteoro estavam estas pessoas? Considere a velocidade do som no ar igual a $340\\ m/s$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10,2 km",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20,4 km",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30,6 km",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40,8 km",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2013-2013.2-q38",
+    "examId": "cg-2013-2013.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 38,
+    "statement": "Uma moeda é largada do alto de um edifício. Se no primeiro segundo ela cai $4,9\\ m$, em três segundos ela terá caído:",
+    "options": [
+      {
+        "label": "a",
+        "text": "9,8 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14,7 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "19,6 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "44,1 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2013-2013.2-q39",
+    "examId": "cg-2013-2013.2",
+    "discipline": "fisica",
+    "topic": "vetores",
+    "number": 39,
+    "statement": "Sejam os vetores: a, b e c, de diferentes direções e de módulos: $|a| = 10$, $|b| = 7$ e $|c| = 5$. Podemos afirmar que a opção que não está correta é a opção:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a + b = b + a",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a + (b + c) = (a + b) + c",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "|a + b| = 17",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "|a| - |b| = 3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2013-2013.2-q40",
+    "examId": "cg-2013-2013.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "A força elétrica sobre uma carga elétrica puntiforme de $2\\ mC$ é $5\\ N$. O campo elétrico no local onde está localizada esta carga é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,5 mN",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,5 kN",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 mN",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 kN",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2013-2013.2-q41",
+    "examId": "cg-2013-2013.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 41,
+    "statement": "Qual a capacitância equivalente da associação de capacitores da figura abaixo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6/11 C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6 C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11 C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "cg-2013-2013.2/q41.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2013-2013.2-q42",
+    "examId": "cg-2013-2013.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "Qual a variação na temperatura de $10\\ g$ de água, se ela receber uma quantidade de calor igual a $420\\ J$? Sejam $1\\ cal = 4,2\\ J$ e o calor específico da água igual a $1\\ cal/g.°C$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1°C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,2°C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10°C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "42°C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2013-2013.2-q43",
+    "examId": "cg-2013-2013.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 43,
+    "statement": "Um metro de um trilho de aço se dilata $0,12\\ mm$ ao ter sua temperatura aquecida de $20°C$ a $30°C$. De quanto se dilatará um trilho de $100\\ m$ feito deste mesmo aço e que sofra a mesma variação de temperatura?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,012 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,12 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,2 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2013-2013.2-q44",
+    "examId": "cg-2013-2013.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 44,
+    "statement": "Em qual dos meios abaixo uma onda mecânica não se propaga?",
+    "options": [
+      {
+        "label": "a",
+        "text": "no vácuo",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "em gases",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "em líquidos",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "em sólidos",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
