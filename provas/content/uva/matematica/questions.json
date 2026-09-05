@@ -16766,5 +16766,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2022-2022.1-q29",
+    "examId": "cg-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "No combate à proliferação de um vírus, 70\\% da população de uma cidade foi imunizada através de uma vacina aplicada ao longo do mês de novembro de 2021. Em dezembro de 2021, 80\\% dos ainda não vacinados serão imunizados. Supondo que em dezembro de 2021 todas as vacinas previstas serão aplicadas, que percentual da população desta cidade ainda ficará à espera da imunização?",
+    "options": [
+      {
+        "label": "a",
+        "text": "30%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2022-2022.1-q30",
+    "examId": "cg-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 30,
+    "statement": "Lâmpadas fluorescentes têm vida útil estimada em 12 mil horas. Já as lâmpadas de LED têm vida útil estimada em 50 mil horas. Dona Rosa comprou uma lâmpada de LED e a colocou na sua sala de estar, mantendo-a ligada todos os dias por quatro horas. Já na cozinha, ela prefere usar lâmpada fluorescente, que fica ligada também todos os dias por duas horas. Supondo que as lâmpadas têm, de fato, a vida útil anunciada, até que a lâmpada de LED da sala de estar seja trocada pela primeira vez, quantas lâmpadas fluorescentes serão usadas, no mínimo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2022-2022.1-q31",
+    "examId": "cg-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 31,
+    "statement": "Praxedes foi a uma concessionária comprar seu carro novo. O vendedor ofereceu o seguinte plano: 72 parcelas de R\\$900,00 (com a primeira parcela sendo paga a partir de janeiro de 2022), e a cada mês de julho, uma parcela extra – além dos R\\$900,00 previstos – de R\\$2.000,00 enquanto durar o financiamento. Praxedes fez uma contraproposta: somou todo o valor que seria pago nesta modalidade de financiamento e dividiu em 80 parcelas iguais, iniciando em julho de 2021. Qual o valor da parcela na proposta feita por Praxedes?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 810,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 900,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 960,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.066,67.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2022-2022.1-q32",
+    "examId": "cg-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 32,
+    "statement": "Seu Rosalvo visita a rua dos Nins a cada 50 dias. Ele poda as árvores plantadas em frente às casas e os moradores retribuem com dinheiro ou mantimentos. A sua primeira visita a esta rua em 2021 foi no dia 15 de janeiro. Qual será o total de visitas feitas por seu Rosalvo a esta rua ao final de 2021?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2022-2022.1-q33",
+    "examId": "cg-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 33,
+    "statement": "Robson e Ronaldo estão treinando em uma pista de atletismo cujo comprimento é de 400 metros. Eles largam juntos, de um mesmo ponto da pista, mas em sentidos opostos. Os atletas se cruzam várias vezes durante o treino, mas Robson observa que percorre 120 metros a cada dois encontros consecutivos com Ronaldo. Eles terminam o treino quando se encontram novamente no ponto onde largaram. Neste instante, Ronaldo terá percorrido:",
+    "options": [
+      {
+        "label": "a",
+        "text": "8400m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2800m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1200m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "840m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2022-2022.1-q34",
+    "examId": "cg-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 34,
+    "statement": "No Brasil, o combustível vendido como gasolina é, na verdade, uma mistura de gasolina e etanol. Para saber o percentual de etanol presente no combustível, realiza-se o chamado teste de proveta que consiste em colocar em um recipiente (proveta) de 100ml dois componentes: 50ml do combustível e 50ml de uma mistura de água com sal. Após misturar estes dois líquidos na proveta e passados 15 minutos, o etanol presente no combustível se une à água com sal (líquido transparente) e a gasolina ficará isolada (líquido mais escuro). Se ao final de um teste de proveta observar-se que a gasolina ocupa 44 ml, qual o percentual de etanol presente no combustível?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "28%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "56%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2022-2022.1-q35",
+    "examId": "cg-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 35,
+    "statement": "No último dia 30 de maio, um portal de notícias na internet publicou uma matéria sobre as mortes por Covid-19. O texto traz o seguinte trecho: \"O Brasil registrou 950 mortes por Covid-19 nas últimas 24 horas, totalizando neste domingo (30) 462.092 óbitos desde o início da pandemia. Com isso, a média de mortes nos últimos 7 dias chegou a 1.844\". Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Somando-se as mortes por Covid-19 registradas entre os dias 24 e 30 de maio, tem-se um total de mais de 12.900 óbitos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Em cada um dos dias entre 24 e 30 de maio houve mais do que 1844 mortes por Covid-19 registradas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Em cada um dos dias entre 24 e 30 de maio houve menos do que 1844 mortes por Covid-19 registradas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Entre os dias 24 e 30 de maio houve um dia em que a quantidade de mortes por Covid-19 foi de 2738.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2022-2022.1-q36",
+    "examId": "cg-2022-2022.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 36,
+    "statement": "Segundo dados do Instituto Nacional de Pesquisas Espaciais (INPE), entre agosto de 2019 e julho de 2020 foram desmatados 11.088 km² da Floresta Amazônica. Esta área é obtida pelo somatório das áreas de todos os casos de desmatamento registrados na região. Se, em média, cada caso de desmatamento tem 24 hectares de área, então a quantidade de registros nesse período foi de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "46.200 casos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.620 casos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "462 casos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4 casos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
