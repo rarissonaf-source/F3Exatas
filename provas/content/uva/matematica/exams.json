@@ -334,5 +334,13 @@
     "edition": "2017.1",
     "examType": "geral",
     "sourceFile": "cg 2017.1.pdf"
+  },
+  {
+    "id": "cg-2017-2017.2",
+    "institution": "UVA",
+    "year": 2017,
+    "edition": "2017.2",
+    "examType": "geral",
+    "sourceFile": "cg 2017.2.pdf"
   }
 ]
