@@ -15742,5 +15742,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2019-2019.1-q29",
+    "examId": "cg-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 29,
+    "statement": "O quadro abaixo mostra dados de reservatórios que atendem à Região Metropolitana de Fortaleza no dia 3 de fevereiro de 2019, segundo a FUNCEME: Acarape do Meio (Redenção): capacidade 29,6 hm³, volume 31,48%; Pacajus (Pacajus): 232 hm³, 25,46%; Pacoti (Horizonte): 380 hm³, 18,66%; Gavião (Pacatuba): 33,3 hm³, 81,69%; Aracoiaba (Aracoiaba): 162 hm³, 29,93%; Riachão (Itaitinga): 47,92 hm³, 30,61%; Sítios Novos (Caucaia): 126 hm³, 3,58%. Neste dia, o reservatório com o maior volume armazenado em hm³ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Gavião.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Pacajus.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Acarape do Meio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Pacoti.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2019-2019.1-q30",
+    "examId": "cg-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 30,
+    "statement": "Jânio compra e vende carros. No último mês, ele comprou e revendeu dois carros: um branco, pelo qual pagou R\\$15.000,00 e o vendeu com um lucro de 15\\%, e um preto, pelo qual pagou R\\$21.000,00, mas o vendeu com um prejuízo de 10\\%. Com relação à transação envolvendo os dois veículos, qual a situação de Jânio?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ficou com prejuízo de R$ 1.800,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Recuperou o que investiu, sem lucro e sem prejuízo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Ficou com lucro de R$ 150,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Ficou com lucro de R$ 1.800,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2019.1-q31",
+    "examId": "cg-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 31,
+    "statement": "Matias viaja semanalmente de sua casa (Sobral) até a casa de sua mãe (Fortaleza) em seu carro e para este trajeto, seu veículo consome exatos 18 litros de gasolina. Em Sobral, o litro deste combustível está sendo vendido por R\\$4,55. Em Fortaleza, por R\\$4,10. Já em Itapajé, existe um posto de gasolina localizado rigorosamente na metade do percurso entre as duas casas e no qual o litro da gasolina custa R\\$4,30. Supondo que em seu carro Matias sairá de sua casa, irá à casa de sua mãe e retornará a sua casa em Sobral, sem percorrer nenhum outro trecho, qual o plano de abastecimento mais econômico para Matias?",
+    "options": [
+      {
+        "label": "a",
+        "text": "9 litros em Sobral, 27 litros em Itapajé.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18 litros em Sobral, 18 litros em Fortaleza.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18 litros em Sobral, 9 litros em Itapajé, 18 litros em Fortaleza.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9 litros em Sobral, 9 litros em Itapajé, 18 litros em Fortaleza.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2019-2019.1-q32",
+    "examId": "cg-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 32,
+    "statement": "Na cidade de Comunicópolis, 83\\% da população possui smartphone enquanto 45\\% das pessoas têm notebook. Sobre a quantidade de pessoas que não têm smartphone nem notebook, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Representa, no máximo, 55% da população.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Representa, no máximo, 38% da população.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Representa, no máximo, 17% da população.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não existe cidadão de Comunicópolis sem pelo menos um destes aparelhos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2019.1-q33",
+    "examId": "cg-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 33,
+    "statement": "Um certo tipo de bactéria se divide em duas a cada 17 minutos. Se no início do experimento há 10 bactérias, em quanto tempo a população supera 60.000 bactérias? São dados: log6=0,78 e log2=0,3.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Aproximadamente 204 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Aproximadamente 214 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Aproximadamente 217 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Aproximadamente 221 minutos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2019-2019.1-q34",
+    "examId": "cg-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 34,
+    "statement": "Alguns treinamentos de corrida são baseados na frequência cardíaca do atleta. Considera-se que a frequência cardíaca máxima de um atleta saudável seja FM=220-i batimentos por minuto (bpm), onde i é a idade do indivíduo. Já a Frequência Basal Fb, é a frequência cardíaca mínima atingida pelo atleta (em repouso). Assim, considera-se o intervalo [Fb,FM] para o cálculo do percentual de frequência cardíaca que o atleta deve atingir no treinamento, sendo Fb=0% e FM=100%. Se um atleta de 42 anos, cuja Frequência basal é de 58bpm, deve fazer o treino atingindo 90% de sua capacidade, então, em bpm, sua frequência cardíaca deve ser de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "108.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "160.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "166.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "198.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2019.1-q35",
+    "examId": "cg-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "Cinco irmãos recebem de herança um terreno em forma de paralelogramo. Para repartir o terreno entre eles, um dos irmãos sugere o seguinte: marcar os pontos E, F, G, no lado AB de modo que estes 5 pontos (A, E, F, G, B) fiquem igualmente espaçados e, em seguida, projetar perpendicularmente os pontos A, E, F, G no lado CD. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Este processo divide o terreno em cinco partes de iguais áreas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Este processo divide o terreno em cinco partes, mas não terão a mesma área.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Este processo divide o terreno em quatro partes de iguais áreas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Este processo divide o terreno em quatro partes, mas não terão a mesma área.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2019-2019.1-q36",
+    "examId": "cg-2019-2019.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 36,
+    "statement": "O gráfico abaixo mostra ganhos e perdas (em %) no poder de compra do Salário Mínimo no Brasil de 2010 a 2018: 2010: 6,02; 2011: 0,37; 2012: 7,59; 2013: 2,64; 2014: 1,16; 2015: 2,46; 2016: 0,36; 2017: -0,1; 2018: -0,25. Quando aconteceu o maior percentual de perda do poder de compra do Salário Mínimo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "De 2010 para 2011.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "De 2012 para 2013.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "De 2016 para 2017.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "De 2017 para 2018.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
