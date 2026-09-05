@@ -518,5 +518,13 @@
     "edition": "2005.2",
     "examType": "geral",
     "sourceFile": "Vestibular Comentado UVA 2005.2.pdf"
+  },
+  {
+    "id": "cg-2004-2004.2",
+    "institution": "UVA",
+    "year": 2004,
+    "edition": "2004.2",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2004.2.pdf"
   }
 ]

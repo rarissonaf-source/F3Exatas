@@ -18978,5 +18978,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q1",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Um caminhão tanque, usado no transporte de combustíveis, tem seu recipiente de carga na forma de um cilindro de raio igual a um metro de comprimento igual a oito metros. Se um litro do combustível ocupa um recipiente cúbico de lado dez centímetros, qual o volume, em litros, do recipiente de carga do caminhão? Considere $\\pi = 3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,4\\times10^4$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,4\\times10^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6,0\\times10^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$8,0\\times10^3$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q2",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Uma bola de borracha é largada de uma altura de $1,8\\ m$. Ela sofre um choque perfeitamente elástico com o solo, de duração $100\\ ms$. Qual o módulo da aceleração da bola durante o choque? Considere a aceleração da gravidade igual a $10\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12 m/s²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120 m/s²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.2-q3",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 3,
+    "statement": "Uma partícula descreve uma trajetória retilínea segundo a seguinte equação horária: $x(t) = 5t^2 - 20t + 20$, onde x é dado em metros e t em segundos. Qual a velocidade escalar média da partícula durante os quatro primeiros segundos do movimento.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q4",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 4,
+    "statement": "Considerando, ainda, a equação horária da partícula dada na questão 3, podemos afirmar que, em um segundo, a velocidade da partícula irá variar de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q5",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 5,
+    "statement": "Um asteróide possui uma órbita elíptica em torno do sol de raio médio R e, a executa, em um período de tempo T. Um outro asteróide possui um período igual a $\\sqrt{8}\\ T$. Qual o raio médio de sua órbita?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2R",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8R",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{8}$ R",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q6",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 6,
+    "statement": "Um corpo de massa m desliza sem atrito, em uma trajetória retilínea, sobre uma superfície horizontal, com aceleração constante a. Se ele percorre uma distância d, qual o trabalho realizado pelo peso deste corpo? Seja g a aceleração da gravidade.",
+    "options": [
+      {
+        "label": "a",
+        "text": "m.g.d",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "m.a.d",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "m.(a+g).d",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "zero",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.2-q7",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 7,
+    "statement": "Seja a lista de substâncias abaixo: 1-Ferro, 2-Ouro, 3-Madeira, 4-Cobre, 5-Vidro, 6-Papel, 7-Zinco, 8-Plástico. São dielétricos as seguintes substâncias:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1, 2, 4 e 7",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1, 2, 5 e 6",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3, 5, 6 e 8",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3, 5, 7 e 8",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q8",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 8,
+    "statement": "Duas cargas elétricas de módulo $3\\ mC$ estão imersas em um recipiente com água e uma distância de $1\\ m$ uma da outra. Seja $K_0 = 9\\times10^9\\ N.m^2/C^2$ e a constante dielétrica da água, k, igual a $81$. Qual o valor da força elétrica entre essas cargas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^3$ N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$9\\times10^3$ N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$81\\times10^3$ N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6,6\\times10^6$ N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q9",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 9,
+    "statement": "Duas placas condutoras e paralelas estão separadas por uma distância de $10\\ cm$. A região entre elas está preenchida com ar, cuja rigidez dielétrica é igual a $3\\times10^6\\ N/C$. Qual o valor da diferença de potencial elétrico que deve ser aplicada às placas para que o ar entre elas se torne condutor?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\times10^3$ V",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\times10^4$ V",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\times10^5$ V",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\times10^6$ V",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q10",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 10,
+    "statement": "Um estudante mediu a corrente que passa por um condutor em função do potencial aos terminais do mesmo. Ele obteve os dados listados na tabela abaixo: Potencial (V): 5,10,20,30; Corrente (mA): 0,20; 0,25; 0,35; 0,50. Podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A corrente quando o potencial for igual a 35 V será 0,70 mA.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O condutor não obedece a lei de Ohm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O gráfico corrente versus potencial é uma reta.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O condutor não tem resistência.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q11",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 11,
+    "statement": "As turbinas geradoras da energia elétrica que consumimos funcionam baseadas no fenômeno da indução eletromagnética. Este fenômeno consiste no aparecimento de uma força eletromotriz entre os extremos de um fio condutor submetido a um:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Campo magnético",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Campo elétrico",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Fluxo elétrico variável",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Fluxo magnético variável",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.2-q12",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "Um pêndulo consiste de uma massa, m, suspensa por um fio de comprimento l. O seu período de oscilação é de $0,5\\ s$. Para aumentar o período do pêndulo para $1$ devemos:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Quadruplicar o valor da massa.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Dobrar o valor da massa.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Dobrar o valor da massa e dobrar o valor do comprimento do fio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Quadruplicar o valor do comprimento do fio.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.2-q13",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 13,
+    "statement": "A figura abaixo representa um recipiente cheio de água que recebe um acréscimo de pressão $\\Delta P$ através de uma força F aplicada ao êmbolo. Sendo, d, a densidade da água; h, a altura do recipiente e g a aceleração da gravidade, o acréscimo de pressão nos pontos a, b e c, mostrados na figura, será respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(\\Delta P + dgh/2), (\\Delta P + dgh), \\Delta P$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(\\Delta P + dgh), (\\Delta P + dgh), (\\Delta P + dgh)$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\Delta P, (\\Delta P + dgh/2), (\\Delta P + dgh)$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\Delta P, \\Delta P, \\Delta P$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.2-q14",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 14,
+    "statement": "A figura abaixo representa um corpo de massa m parcialmente submerso em um líquido de densidade d. O corpo se encontra em equilíbrio. Podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A densidade do corpo é igual a densidade do líquido.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O peso do corpo é igual ao peso do líquido contido em um volume igual ao do corpo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A massa do corpo é igual a massa do líquido contida em um volume igual ao do corpo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A massa do corpo é igual a massa do líquido contida no volume de líquido deslocado pelo corpo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.2-q15",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 15,
+    "statement": "A temperatura normal do corpo humano é de $36,5°C$. Se você possui um termômetro graduado em Fahrenheit, qual seria o valor da leitura equivalente? Considere $0°C = 32°F$ e $100°C = 212°F$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "100°F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "97,7°F",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "95,0°F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "91,0°F",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q16",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 16,
+    "statement": "O manual do seu carro recomenda uma pressão dos pneus de $26,0\\ lb/in^2$ (libras por polegadas ao quadrado) na temperatura de $20,0°C$. Em um dia em que a temperatura ambiente é $35°C$, qual será a leitura do medidor de pressão se a calibração do pneu estiver na especificação do manual? Considere o ar como um gás ideal e que o volume do pneu permaneça constante.",
+    "options": [
+      {
+        "label": "a",
+        "text": "26,0 lb/in²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "27,3 lb/in²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30,6 lb/in²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "32,7 lb/in²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q17",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 17,
+    "statement": "Três cubos de gelo de massa total $20\\ g$ e temperatura inicial $0°C$, são colocadas dentro de um copo que contém $180\\ mL$ de refrigerante na temperatura de $30°C$. Qual a temperatura final da bebida? Considere o caso ideal onde a transferência de calor se dá apenas entre o gelo e o refrigerante. Dados: Calor específico do refrigerante igual ao calor específico da água: $1,0\\ cal/g°C$, calor latente de fusão do gelo $80\\ cal/g$ densidade do refrigerante: $1\\ g/cm^3$, $1\\ mL = 1\\ cm^3$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "19°C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "17°C",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15°C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "13°C",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q18",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 18,
+    "statement": "Luz monocromática incide a partir do vácuo em uma superfície de separação com um meio de índice de refração n, fazendo com a normal um ângulo de $60°$. Se o ângulo de refração é igual a $45°$, qual é aproximadamente a velocidade da luz no meio de índice de refração n? Sejam dados: $sen60°=\\sqrt{3}/2$, $sen45°=\\sqrt{2}/2$, $\\sqrt{1,5}=1,22$ e a velocidade da luz no vácuo igual a $3,00\\times10^5\\ km/s$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3,00\\times10^5$ km/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,80\\times10^5$ km/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,46\\times10^5$ km/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2,34\\times10^5$ km/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q19",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "O som é uma onda mecânica longitudinal. Em qual dos meios listados abaixo ele não se propaga?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Vácuo",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Ar",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Água",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Uma barra de ferro",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q20",
+    "examId": "cg-2004-2004.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "A luz visível, os raios-x, microondas e ondas de rádio e tv são exemplos de ondas eletromagnéticas. A grandeza que diferencia um tipo das outras é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O comprimento de onda",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A velocidade de propagação no vácuo",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A amplitude",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A intensidade",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
