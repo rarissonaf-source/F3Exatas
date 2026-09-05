@@ -1,0 +1,2146 @@
+[
+  {
+    "id": "cg-2025-2026.1-q29",
+    "examId": "cg-2025-2026.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 29,
+    "statement": "Em uma loja de eletrodomésticos, um cliente decide comprar de forma parcelada uma televisão que custa R\\$ 1.800,00. Ele pagará em 5 prestações iguais, com juros simples de 2\\% ao mês. Qual será o valor total pago ao final das 5 parcelas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1.980,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1.890,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1.800,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 2.160,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2025-2026.1-q30",
+    "examId": "cg-2025-2026.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 30,
+    "statement": "Em uma caixa há 3 bolas vermelhas, 2 verdes e 5 azuis. Uma bola é retirada aleatoriamente. Qual a probabilidade de sair uma bola verde?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2/5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2025-2026.1-q31",
+    "examId": "cg-2025-2026.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 31,
+    "statement": "Uma senha de 3 dígitos é formada apenas por algarismos ímpares distintos. Quantas senhas diferentes podem ser formadas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "125",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2025-2026.1-q32",
+    "examId": "cg-2025-2026.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 32,
+    "statement": "Um casal resolve juntar dinheiro por alguns meses para realizar uma viagem de férias. No primeiro mês eles destinam R\\$ 300,00 para esta finalidade. A partir daí, a cada mês eles destinam o valor do mês anterior acrescido de R\\$ 100,00. Qual será o valor total após 10 meses?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1.200,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1.300,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 6.600,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 7.500,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2025-2026.1-q33",
+    "examId": "cg-2025-2026.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 33,
+    "statement": "Uma escola vende ingressos para uma peça teatral, cobrando R\\$ 10,00 para estudantes e R\\$ 20,00 para o público geral. Foram vendidos 100 ingressos, totalizando R\\$ 1.400,00. Quantos ingressos foram vendidos para estudantes?",
+    "options": [
+      {
+        "label": "a",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2025-2026.1-q34",
+    "examId": "cg-2025-2026.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 34,
+    "statement": "Um bombeiro usa uma escada de 10 metros encostada em um prédio, formando um ângulo de 60° com o chão. A que altura o bombeiro alcança no prédio? (Use cos 60° = 1/2 e despreze a altura do bombeiro.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4√3 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5√3 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10√3 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2025-2026.1-q35",
+    "examId": "cg-2025-2026.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 35,
+    "statement": "Uma substância radioativa tem sua massa reduzida com o passar do tempo segundo a função M(t) = 100·2^{-t}, com t em horas e M(t) em microgramas. Após quanto tempo de observação a massa da substância será igual a 25 microgramas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2h",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3h",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4h",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5h",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.1-q1",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 1,
+    "statement": "Numa carpintaria, empilham-se cinquenta tábuas, umas de 2 cm e outras de 5 cm de espessura. A altura da pilha é de 154 cm. O produto do número de tábuas de cada espessura é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "576",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "561",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "525",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "585",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.1-q2",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 2,
+    "statement": "Seja $t \\in \\mathbb{R}$. A matriz quadrada X, de ordem 2, tal que para todo n inteiro positivo $X^n = \\sum_{k=0}^{n}\\binom{n}{k}\\begin{pmatrix}\\cos kt & \\sin kt \\\\ -\\sin kt & \\cos kt\\end{pmatrix}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\begin{pmatrix}1+\\cos t & \\sin t \\\\ -\\sin t & 1+\\cos t\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\begin{pmatrix}-1-\\cos t & \\sin t \\\\ -\\sin t & 1+\\cos t\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\begin{pmatrix}1+\\cos t & -\\sin t \\\\ -\\sin t & -1+\\cos t\\end{pmatrix}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\begin{pmatrix}1-\\cos t & \\sin t \\\\ \\sin t & 1-\\cos t\\end{pmatrix}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.1-q3",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 3,
+    "statement": "Uma barra de ferro foi aquecida até uma temperatura de $20°C$ e a seguir foi resfriada até a temperatura de $-4°C$. O gráfico mostra a temperatura da barra em função do tempo. Depois de quanto tempo, após o início do resfriamento, a temperatura da barra atingiu $0°C$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 min",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4 min",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 min",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2 min",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.1-q4",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 4,
+    "statement": "Qual, dos quatro números relacionados abaixo, é um divisor de $(1996)^8 - (1995)^8$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "309",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "319",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "311",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "307",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.1-q5",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 5,
+    "statement": "Seja a equação $x^2 - kx + 1000 = 0$ tem duas raízes reais m e n, $m > 0$ e $n > 0$. Então podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\log(m\\cdot n)^m + \\log(m\\cdot n)^n = k$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\log(m\\cdot n)^m + \\log(m\\cdot n)^n = 2k$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\log(m\\cdot n)^m + \\log(m\\cdot n)^n = 3k$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\log(m\\cdot n)^m + \\log(m\\cdot n)^n = 4k$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.1-q6",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 6,
+    "statement": "Com os algarismos 1, 2, 3, 4, 5, 6, 7, 8 e 9, quantos números ímpares de quatro algarismos podemos formar de modo que dois algarismos consecutivos não sejam pares?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2526",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2525",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2524",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2529",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.1-q7",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 7,
+    "statement": "Qual o termo em $x^{10}$ no desenvolvimento do produto $(x^2+1)^6 \\cdot (x^4+4)$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$44x^{10}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$45x^{10}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$55x^{10}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$105x^{10}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.1-q8",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Seja $g: \\mathbb{R} \\to \\mathbb{R}$, definido por $g(x) = 3x+3$ se $x \\le 0$ e $g(x) = x^2+4x+3$ se $x>0$. Então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "g é bijetora e $(g \\circ g)(-2/3) = g^{-1}(99)$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "g é bijetora e $(g \\circ g)(-2/3) = g^{-1}(3)$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "g é sobrejetora mas não é injetora.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "g é bijetora e $(g \\circ g)(-2/3) = g^{-1}(25)$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.1-q9",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 9,
+    "statement": "Num triângulo ABC cujos ângulos são designados por A, B e C, supõe-se que $2\\cdot tgA = tgB + tgC$ e $0 < A < \\pi/2$. Nesse triângulo vale a relação:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$tgB\\cdot tgC = \\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$tgB\\cdot tgC = 3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$tgB\\cdot tgC = 2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$tgB\\cdot tgC = 1$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.1-q10",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 10,
+    "statement": "O número 55/7 está compreendido entre k décimos e k+1 décimos, sendo k um número inteiro. O valor de k é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "78",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "76",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "77",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "79",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.1-q11",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 11,
+    "statement": "Dada a equação $2x^2 + (2k-30)x + 2k = 0$. Qual é a soma de todos os valores que k deve assumir para que as duas raízes da equação sejam números inteiros?",
+    "options": [
+      {
+        "label": "a",
+        "text": "68",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "102",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "77",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.1-q12",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "As coordenadas do centro da elipse de equação $2x^2 + 3y^2 - 4x + 12y + 8 = 0$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "(1 ; 2)",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(2 ; 1)",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(1 ; -2)",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(-1 ; -2)",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.1-q13",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 13,
+    "statement": "A equação da reta t, tangente à circunferência de raio r no ponto A, conforme a figura abaixo, é dado por:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x\\cos\\theta + y\\sin\\theta = r$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x\\cos\\theta + y\\sin\\theta = -r$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x\\cos\\theta - y\\sin\\theta = r$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x\\cos\\theta - y\\sin\\theta = -r$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.1-q14",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 14,
+    "statement": "Seja $P(x) = x^4 + k_1x^3 + k_2x^2 + k_3x + k_4$ um polinômio com coeficientes inteiros. Sabe-se que as quatro raízes de P(x) são inteiras e que três delas são pares e uma é ímpar. Então podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "P(x) tem três coeficientes ímpares e dois pares.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "P(x) tem todos coeficientes ímpares.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "P(x) tem três coeficientes pares e dois ímpares.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "P(x) tem quatro coeficientes ímpares e um par.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.1-q15",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 15,
+    "statement": "A que taxa semestral esteve aplicado o capital que em 4 anos triplicou de valor?",
+    "options": [
+      {
+        "label": "a",
+        "text": "26% ao semestre",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24% ao semestre",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "27% ao semestre",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25% ao semestre",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.1-q16",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 16,
+    "statement": "Uma pessoa X fundou uma empresa com um certo capital e, após 4 meses de atividades, admitiu um sócio Y, com o mesmo capital. Se após um ano de sua formação, a empresa teve um lucro de R\\$ 2.500.000,00, a parte desse lucro que coube a Y foi de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1.000.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1.250.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1.500.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 750.000,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.1-q17",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 17,
+    "statement": "Multiplicando-se todas as linhas de um determinante de ordem n por um número $k \\in \\mathbb{R}$, podemos afirmar sempre que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "o valor do determinante fica multiplicado por $k^n$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o valor do determinante fica multiplicado por $n^k$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o valor do determinante não se altera",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o valor do determinante fica multiplicado por $k\\cdot n$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.1-q18",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 18,
+    "statement": "Considere o sistema $\\{x - ky = 1-k;\\ (1+k)x + y = 1\\}$. Qual é o valor de k para que x seja o maior possível?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-1/4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1/2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.1-q19",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 19,
+    "statement": "Se $B = \\{1, 2, ..., n\\}$, então o número de elementos do conjunto $\\{x-y \\in \\mathbb{Z} \\mid x \\in B, y \\in B\\}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2n-3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2n-2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2n-1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2n+1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.1-q20",
+    "examId": "cg-2004-2004.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 20,
+    "statement": "Seja $B = \\{\\frac{(-1)^n}{n!} + \\sin(\\frac{n!\\pi}{6}); n \\in \\mathbb{N}\\}$. Qual conjunto abaixo é tal que sua intersecção com B dá o próprio B?",
+    "options": [
+      {
+        "label": "a",
+        "text": "[0, 2]",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "[-2, 2]",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(-\\infty, 2)$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "[-2, 0]",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q1",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 1,
+    "statement": "Um agricultor, para vender sua produção de maçãs, colocou-as em caixas de 5 dúzias cada. Se as tivesse colocado em caixas de 4 dúzias cada, teria que usar 56 caixas a mais. Quantas eram as maçãs?",
+    "options": [
+      {
+        "label": "a",
+        "text": "13.440",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.440",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.670",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.090",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q2",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 2,
+    "statement": "A expressão $\\dfrac{17\\sin\\phi}{\\sqrt[4]{4913} + 17\\cos\\phi}$, para $0 < \\phi < \\pi$, é idêntica a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$tg\\,\\phi$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2tg\\,\\phi$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3tg\\,\\dfrac{\\phi}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$tg\\,\\dfrac{\\phi}{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.1-q3",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 3,
+    "statement": "Considere o conjunto S dos triângulos cujos lados têm como medidas números naturais. Quantos elementos de S têm medida de cada um dos lados menor do que 5?",
+    "options": [
+      {
+        "label": "a",
+        "text": "11",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "13",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q4",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "Considere o triângulo ABC, onde $A=(0,5)$, $B=(3,4)$ e C é um ponto qualquer da circunferência $x^2+y^2=5$. A ordenada do ponto C que torna a área do triângulo ABC a menor possível é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{5\\sqrt{2}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{7\\sqrt{2}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3\\sqrt{2}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{11\\sqrt{2}}{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q5",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "$\\overline{AD}$ é um diâmetro de uma circunferência de centro O e B e C dois pontos desta, de modo que $\\overline{AB} = \\overline{BC} = 2$. Qual é o valor da medida de $\\overline{CD}$ sabendo-se que $\\overline{AD} = 6$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\sqrt{3}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt{11}}{4}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{7}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{14}{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.1-q6",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 6,
+    "statement": "Seja $b_1, b_2, b_3, ...$ uma sequência de quadrados, tal que a área de $b_k$, $k \\ge 2$, é igual a 3 vezes a área de $b_{k-1}$. Se a área de $b_5$ é $27\\ cm^2$, então a área de $b_1$, em $cm^2$, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/9",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/7",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q7",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 7,
+    "statement": "O lucro L de uma determinada empresa é dado pela relação $L = R - C$, onde R e C representam respectivamente, receita e custo. Sabendo-se que R e C dependem da produção p, segundo as leis $R(p) = 800p - p^2$ e $C(p) = p^2 + 20p + 200$, qual é o valor do lucro máximo da empresa?",
+    "options": [
+      {
+        "label": "a",
+        "text": "75.950",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "85.950",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75.850",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "95.720",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q8",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Marque a afirmação falsa a respeito das funções $f: \\mathbb{R} \\to \\mathbb{R}$ e $g: \\mathbb{R} \\to \\mathbb{R}$. (Nota: $fog = f(g(x))$)",
+    "options": [
+      {
+        "label": "a",
+        "text": "se f e g são ímpares, então fog é ímpar",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se f e g são pares, então f + g é par",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se f e g são ímpares, então $f \\cdot g$ é ímpar",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se f e g são pares, então fog é par",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q9",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 9,
+    "statement": "Multiplicando $\\begin{pmatrix}1 & x \\\\ y & 2\\end{pmatrix} \\cdot \\begin{pmatrix}2 & 3 \\\\ 1 & 0\\end{pmatrix}$ obtemos $\\begin{pmatrix}4 & 3 \\\\ 2 & 0\\end{pmatrix}$. A soma dos elementos x e y da primeira matriz é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q10",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 10,
+    "statement": "Resolvendo-se a equação $\\dfrac{1}{x^2-5x+6} - \\dfrac{1}{x-2} = 0$, $x \\neq 2$, $x \\neq 3$, pode-se afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "sua única raiz é par",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "sua única raiz é ímpar",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o produto de suas raízes é 25",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o produto de suas raízes é 49",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q11",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 11,
+    "statement": "$\\sqrt[3]{\\dfrac{3^{28}+3^{10}}{30}}$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3^{10}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3^9$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3^7$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "81",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q12",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 12,
+    "statement": "Dada a equação $13x^2 - 52x + 13\\log k = 0$, esta equação só terá solução se e somente se:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$0 < k \\le 10^4$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$0 < k \\le 10$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$0 < k \\le 10^5$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$k \\le 10^4$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q13",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 13,
+    "statement": "Seja $(1, 2, 3)$ uma solução particular do sistema $\\{x + ay = 3;\\ 2x + by - az = 1\\}$, nas incógnitas x, y e z. Nessas condições, o conjunto solução do sistema é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{(x, 2-x, 3x-2) \\mid x \\in \\mathbb{R}\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{(x, 3-x, x+2) \\mid x \\in \\mathbb{R}\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{(z, z, z) \\mid z \\in \\mathbb{R}\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{(2-y, y, 4y-4) \\mid y \\in \\mathbb{R}\\}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q14",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 14,
+    "statement": "Qual o valor do termo médio do desenvolvimento de $(2x+3y)^8$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$90.720x^4y^4$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$90.720x^7y^5$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$80x^4y^4$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$90.720x^5y^4$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.1-q15",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "No plano cartesiano, a equação $x^2 - 4y^2 + 2x + 24y - 39 = 0$ representa:",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma elipse",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma circunferência",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma hipérbole",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma parábola",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q16",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 16,
+    "statement": "O conjunto solução de $|x+3| \\le |1-x|$ é o conjunto dos números x tais que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{x \\in \\mathbb{R} \\mid x \\in (-\\infty, -2)\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{x \\in \\mathbb{R} \\mid x \\in (-\\infty, -3)\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{x \\in \\mathbb{R} \\mid x \\in (-\\infty, -1]\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{x \\in \\mathbb{R} \\mid x \\in (-\\infty, 0)\\}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.1-q17",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Qual a taxa de desconto que está sendo oferecida na venda de um objeto, remarcado de R\\$ 15.000,00 para R\\$ 13.200,00?",
+    "options": [
+      {
+        "label": "a",
+        "text": "13%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.1-q18",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 18,
+    "statement": "Qual o determinante da matriz $\\begin{pmatrix}1 & 2 & 3 & 4 \\\\ 5 & 6 & 7 & 8 \\\\ 9 & 10 & 11 & 12 \\\\ 13 & 14 & 15 & 16\\end{pmatrix}$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "105",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "128",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q19",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 19,
+    "statement": "Seja A o conjunto formado pelos números naturais de algarismos distintos e pertencentes ao conjunto $\\{2, 4, 6, 8\\}$. Quantos elementos tem o conjunto A?",
+    "options": [
+      {
+        "label": "a",
+        "text": "61",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "64",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "59",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.1-q20",
+    "examId": "cg-2003-2003.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 20,
+    "statement": "Quantos pares de arestas reversas há em um prisma de base pentagonal?",
+    "options": [
+      {
+        "label": "a",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.2-q1",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 1,
+    "statement": "Um vendedor de cereais foi ao mercado atacadista e trocou um carregamento de 500 kg de milho por um carregamento de 510 kg de feijão, após verificar que os dois carregamentos custavam o mesmo preço. Vendeu o feijão na feira por R\\$ 1,50 cada meio quilo e nesta transação lucrou R\\$ 730,00. Qual era o preço do quilograma de milho no mercado atacadista?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1,70",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1,80",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1,60",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 2,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.2-q2",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 2,
+    "statement": "Seja $B=\\{3,4,5,6,7,8\\}$ e seja g uma função de B em B. Determine o número de funções g tais que $(g \\circ g)(x) = x$, para todo x em B.",
+    "options": [
+      {
+        "label": "a",
+        "text": "75",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "76",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "77",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "78",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2003-2003.2-q3",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 3,
+    "statement": "Qual o valor da razão da progressão aritmética de que se conhece $A_{3n-6}=60$ e $A_{5n+10}=140$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{40}{n+10}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{40}{n+8}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{40}{n+9}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{40}{n+7}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.2-q4",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 4,
+    "statement": "Certo município cobra imposto territorial da seguinte maneira: se a área A do terreno em $m^2$ é menor que 110, o valor K do imposto em R\\$ é 0; se $110 \\le A < 400$, $K = 4A+1200$; se $400 \\le A < 1100$, $K = 6A+2500$; se $A \\ge 1100$, $K = 8A+6200$. Qual é a área de um terreno cujo imposto é R\\$ 7.000,00?",
+    "options": [
+      {
+        "label": "a",
+        "text": "740",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "780",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "750",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "790",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.2-q5",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "Estima-se que o número necessário de homens-hora para distribuir catálogos de telefones novos entre x por cento de moradores numa certa comunidade rural seja dado pela função $f(x) = \\dfrac{600x}{300-x}$. Qual a porcentagem de moradores da comunidade que recebeu catálogo novo, quando o número de homens-hora foi de 120?",
+    "options": [
+      {
+        "label": "a",
+        "text": "50",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q6",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 6,
+    "statement": "Qual o termo do desenvolvimento de $\\left(x^2\\cdot y^4 - \\dfrac{z^3}{2}\\right)^{11}$ em que os expoentes de x, y e z formam uma progressão geométrica?",
+    "options": [
+      {
+        "label": "a",
+        "text": "oitavo",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "quinto",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "nono",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "quarto",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.2-q7",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 7,
+    "statement": "Gastei 3/7 do meu dinheiro. Depois gastei a metade do resto e fiquei com R\\$ 300,00. Quanto tinha inicialmente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1.028,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1.030,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1.035,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.050,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.2-q8",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "Quais são os comprimentos dos lados do retângulo de área máxima, com lados paralelos aos eixos coordenados, inscritos na elipse de equação $2x^2+y^2=1$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 e $\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 e $\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 e $\\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2 e $\\sqrt{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q9",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 9,
+    "statement": "O número de raízes reais do polinômio $P(x) = (x^2-1)(x-2)(x+3)$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.2-q10",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 10,
+    "statement": "Em um teste da loteria esportiva (13 jogos), houve $K_1$ resultados na coluna 1, $K_2$ resultados na coluna do meio e $K_3$ resultados na coluna 2. Se $K_1, K_2, K_3$, nesta ordem estão em progressão geométrica crescente, sua razão é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q11",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 11,
+    "statement": "Considere as seguintes matrizes: $A=\\begin{pmatrix}a_1&b_1&c_1\\\\a_2&b_2&c_2\\\\a_3&b_3&c_3\\end{pmatrix}$, $B=\\begin{pmatrix}a_1&b_1&c_1\\\\a_3&b_3&c_3\\\\a_2&b_2&c_2\\end{pmatrix}$, $C=\\begin{pmatrix}a_1&c_1&b_1\\\\a_3&c_3&b_3\\\\a_2&c_2&b_2\\end{pmatrix}$, onde $a_i,b_i,c_i$ ($i=1,2,3$) são números reais. Assinale a alternativa falsa.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\det(B)=-\\det(C)$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\det(A)=\\det(C)$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\det(A)=-\\det(B)$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(\\det(A))^2=\\det(B)\\cdot\\det(C)$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.2-q12",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 12,
+    "statement": "Se o par ordenado $(x_0, y_0)$ é a solução do sistema $\\{\\sqrt{2^{x+y}} = 2^y;\\ \\log_{10}(3x+4) = 1+\\log_{10}(y-1)\\}$, então $x_0+y_0$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.2-q13",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "No triângulo ABC, $AC=5\\ cm$, $BC=12\\ cm$ e $\\cos\\beta = 3/5$. O maior valor possível, em $cm^2$, para a área do retângulo EFGH, construído conforme mostra a figura, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "10",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.2-q14",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 14,
+    "statement": "Determine os valores de $k \\in \\mathbb{R}$ para os quais a equação $\\sqrt{2}\\cdot \\sin x - \\sqrt{2}\\cdot \\cos x = k^2-2$ admite soluções.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$-2 \\le k \\le 1$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$-2 \\le k \\le 2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-2 \\le k \\le 3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-2 \\le k \\le 5$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2003-2003.2-q15",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 15,
+    "statement": "Que taxa mensal de juro simples faz com que um capital triplique de valor em 1 ano e 4 meses?",
+    "options": [
+      {
+        "label": "a",
+        "text": "12,5% ao mês",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8% ao mês",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12,8% ao mês",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8,25% ao mês",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q16",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Considere o triângulo ABC da figura. Se a bissetriz interna do ângulo B, forma com a bissetriz externa do ângulo C um ângulo de 65°. Determine a medida do ângulo interno A.",
+    "options": [
+      {
+        "label": "a",
+        "text": "100°",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "120°",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "130°",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "115°",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2003-2003.2-q17",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 17,
+    "statement": "Um dia a temperatura em uma certa cidade atingiu o seu valor máximo às 14 horas. Supondo que neste dia a temperatura $f(t)$ em graus era função do tempo t medido em horas, dado por $f(t) = -t^2+28t-156$ quando $8 < t < 20$; pede-se: a temperatura máxima atingida neste dia.",
+    "options": [
+      {
+        "label": "a",
+        "text": "32°",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "35°",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "42°",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40°",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2003-2003.2-q18",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 18,
+    "statement": "A equação $\\dfrac{kx}{4} - \\dfrac{x-2}{k} = 1$, admite infinitas soluções para que valor de k?",
+    "options": [
+      {
+        "label": "a",
+        "text": "k = 2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "k = -2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "k = 3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "k = 4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q19",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 19,
+    "statement": "O conjunto solução da equação $\\dfrac{\\sqrt{2}}{tg^2(3x)} + \\dfrac{4\\sqrt{2}}{\\sec^2(3x)} = 3\\sqrt{2}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{x = \\pi/12 + k\\pi/6 \\mid k \\in \\mathbb{Z}\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{x = \\pi/12 + k\\pi/3 \\mid k \\in \\mathbb{Z}\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{x = \\pi/4 + k\\pi/3 \\mid k \\in \\mathbb{Z}\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{x = \\pi/2 + k\\pi/7 \\mid k \\in \\mathbb{Z}\\}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2003-2003.2-q20",
+    "examId": "cg-2003-2003.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 20,
+    "statement": "De quantas maneiras um técnico de futebol pode formar um time de 11 jogadores escolhidos de 25, dos quais 2 goleiros e onde só o goleiro tem posição fixa?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\cdot A_{23,10}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\cdot A_{23,11}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\cdot A_{23,10}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\cdot C_{23,10}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  }
+]

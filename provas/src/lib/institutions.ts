@@ -17,7 +17,10 @@ export const INSTITUTIONS: Institution[] = [
     state: "CE",
     stateName: "Ceará",
     logo: "/brand/institutions/uva.webp",
-    disciplines: [{ slug: "fisica", name: "Física" }],
+    disciplines: [
+      { slug: "fisica", name: "Física" },
+      { slug: "matematica", name: "Matemática" },
+    ],
   },
   {
     slug: "ifma",
