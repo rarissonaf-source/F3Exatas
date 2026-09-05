@@ -12162,5 +12162,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2014-2014.2-q11",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 11,
+    "statement": "PSI é a abreviatura para a unidade de medida libra por polegada ao quadrado. Ela é formada pelas iniciais das palavras que a formam, em inglês. É bastante usada em postos de gasolina e borracharias quando calibramos os pneus de veículos. Nela, libra é uma unidade de medida de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Pressão",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Massa",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Força",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Área",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2014-2014.2-q12",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 12,
+    "statement": "Um objeto de $200\\ g$ cai verticalmente, a partir do repouso, de um ponto A acima do solo. Após certo tempo em queda, ele passa pelo ponto B com velocidade v. Se $90\\ J$ de energia potencial gravitacional foram perdidos neste trajeto, qual o valor da velocidade v? Despreze a resistência do ar.",
+    "options": [
+      {
+        "label": "a",
+        "text": "15 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2014-2014.2-q13",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 13,
+    "statement": "Um carro percorre, com velocidade $108\\ km/h$, uma curva plana de raio $150\\ m$. Qual o menor valor do coeficiente de atrito entre os pneus e o asfalto para que o carro não derrape? Considere $g = 10,0\\ m/s^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,20",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,40",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,60",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,80",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2014-2014.2-q14",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 14,
+    "statement": "A quantidade de movimento de uma partícula de $400\\ g$ em determinado instante é $1200\\ g.cm/s$. Neste mesmo instante, qual a energia cinética desta partícula, em unidade do SI?",
+    "options": [
+      {
+        "label": "a",
+        "text": "120 $\\mu J$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "180 $\\mu J$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200 $\\mu J$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "240 $\\mu J$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2014-2014.2-q15",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "A condutividade é uma grandeza definida como sendo o inverso da resistividade. Qual a condutividade de um fio de $10\\ m$, área de seção transversal de $10\\ mm^2$, submetido a uma tensão de $220\\ V$ e pelo qual passa uma corrente de $2,2\\ A$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10/\\Omega.m$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^2/\\Omega.m$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^3/\\Omega.m$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^4/\\Omega.m$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2014-2014.2-q16",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 16,
+    "statement": "Na figura, V = 12 V e cada capacitor tem valor C = 2 μF. Qual a carga no capacitor C3?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 $\\mu C$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4 $\\mu C$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8 $\\mu C$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16 $\\mu C$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "mf-2014-2014.2/q16.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2014-2014.2-q17",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 17,
+    "statement": "A distribuição de energia elétrica na rede das cidades normalmente é feita na tensão de $13\\ kV$. Faz-se necessário um transformador para reduzir essa tensão àquela que usamos em nossa casa. Qual a razão entre o número de espiras do primário do transformador, $N_p$, e o número de espiras em seu secundário, $N_s$, se a tensão em nossas casas for considerada como $200\\ V$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "65",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "130",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2014-2014.2-q18",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "Um gás, de densidade $\\rho$, está confinado em um recipiente cujo volume pode variar. Se a temperatura do gás varia de $25,4°C$ a $100°C$ em uma transformação isobárica, qual a nova densidade do gás?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,80 $\\rho$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,00 $\\rho$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,25 $\\rho$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,94 $\\rho$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2014-2014.2-q19",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "A temperatura de um corpo de massa $m = 100\\ g$ e calor específico $c = 0,8\\ cal/g.°C$ passou de $20°C$ para $50°C$ em $5\\ min$. Qual a quantidade de calor que este corpo recebe por minuto?",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 cal",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "480 cal",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "560 cal",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "820 cal",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2014-2014.2-q20",
+    "examId": "mf-2014-2014.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 20,
+    "statement": "Um objeto de $3\\ cm$ de altura é posicionado a $4\\ cm$ de um espelho côncavo, cuja distância focal é $8\\ cm$. Qual a altura da imagem?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 cm",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4 cm",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6 cm",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8 cm",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
