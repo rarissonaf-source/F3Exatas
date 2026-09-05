@@ -17278,5 +17278,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2023-2024.1-q29",
+    "examId": "cg-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 29,
+    "statement": "Você está planejando comprar um ótimo computador, mas está sem dinheiro. Um grande amigo seu decide emprestar R\\$5.000,00 desde que você o devolva, após 10 meses, o valor de R\\$5.500,00. Qual é a taxa de juros (simples) mensal que está sendo aplicada no empréstimo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2023-2024.1-q30",
+    "examId": "cg-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 30,
+    "statement": "O diretor José quer decorar a sua escola com fotos dos ex-alunos que se tornaram professores. Na escola há um corredor de 27 metros de comprimento e é nele que se quer dispor parte das fotos, de modo que a distância (em metros) entre duas molduras consecutivas seja um número inteiro. Além disso, o corredor deve iniciar e terminar com uma foto. Das 13 fotos que José tem, quantas, no máximo, ele deve fixar neste corredor?",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "13.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2023-2024.1-q31",
+    "examId": "cg-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 31,
+    "statement": "Um determinado tipo de bactéria tem reprodução muito rápida, triplicando a cada 40 minutos. Se a população inicial é de 640 bactérias, qual é o número de bactérias após 6h?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.760.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "466.560.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.199.040.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.597.120.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2023-2024.1-q32",
+    "examId": "cg-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 32,
+    "statement": "Três atacantes de um time de futebol foram analisados segundo o número de gols marcados, partidas jogadas e cartões amarelos recebidos na temporada 2023. Esses dados foram alocados em uma matriz quadrada A, onde a linha representa o jogador e a coluna os dados mencionados anteriormente. A comissão técnica deseja que na temporada seguinte o número de gols marcados aumente em 12%, o número de partidas jogadas aumente em 8% e o número de cartões amarelos diminua em 25%. Esses percentuais foram alocados em uma matriz coluna B. Deste modo, os índices projetados para cada um destes três atacantes para a temporada seguinte são obtidos da seguinte forma:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Somando-se as matrizes A e B.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Multiplicando-se as matrizes A e B, nesta ordem.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Multiplicando-se as matrizes B e A, nesta ordem.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Subtraindo a matriz B da matriz A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2023-2024.1-q33",
+    "examId": "cg-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 33,
+    "statement": "Um triângulo isósceles tem base x e lados congruentes medindo y, cada um deles. A tangente do ângulo a formado pelos lados x e y é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "x/y.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2y.(sen a)/x.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "y.(sen a)/x.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2x/y.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2023-2024.1-q34",
+    "examId": "cg-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 34,
+    "statement": "Em um ponto A localizado na praia, Suzana avista um barco ancorado. Ela caminha 250m em linha reta pela praia saindo do ponto A e indo ao ponto B, de onde consegue avistar o mesmo barco. Considerando o triângulo formado pelos pontos de observação e o barco, Suzana mediu os ângulos em A (75°), em B (60°) e determinou o ângulo no terceiro vértice (o do barco). Qual a distância do ponto A ao barco?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$250\\sqrt{6}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$250\\sqrt{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$125\\sqrt{6}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$125\\sqrt{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2023-2024.1-q35",
+    "examId": "cg-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 35,
+    "statement": "Ângelo está reformando o seu escritório e precisa planejar a instalação de rodapés, que são vendidos em metros lineares. O custo total dos rodapés depende do comprimento da parede em que serão instalados e pode ser modelado pelo polinômio $C(x)=0,1x^3-0,3x^2+0,2x+0,5$. Considerando essas informações, assinale a alternativa correta.",
+    "options": [
+      {
+        "label": "a",
+        "text": "O custo de 10 metros de rodapé será igual a 10.C(1).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O custo de 10 metros de rodapé equivale a C(5)+C(5).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Adquirir uma maior quantidade de metros torna o custo relativamente menor.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Adquirir uma maior quantidade de metros não torna o custo relativamente menor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2023-2024.1-q36",
+    "examId": "cg-2023-2024.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Um arquiteto olha a parede retangular da sua sala e imagina o canto inferior esquerdo como sendo o centro do plano cartesiano. Há depois pregos nessa parede, correspondendo aos pontos A(3,4) e B(5,7) do plano cartesiano. Ele deseja inserir um terceiro prego, no ponto médio entre os pontos A e B. Quais seriam as coordenadas do terceiro ponto?",
+    "options": [
+      {
+        "label": "a",
+        "text": "(4,6).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(4,11/2).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(7,10).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(1,1).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
