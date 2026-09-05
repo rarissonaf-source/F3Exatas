@@ -5918,5 +5918,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2012.1-q1",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 1,
+    "statement": "Dado um número racional a/b, podemos representá-lo por um par ordenado (a,b). Considerando apenas os racionais a/b com a, b inteiros positivos, a soma de todos os racionais que podem ser representados no interior do retângulo definido por $1<a<6$ e $1<b<5$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "91/6",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "231/20",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "147/4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "959/20",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2012.1-q2",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 2,
+    "statement": "Uma casca esférica e um cubo maciço de aresta medindo a estão dispostos de modo que os 8 vértices do cubo tocam a casca. Preenche-se totalmente o espaço vazio entre a casca e o cubo com água. Sobre a quantidade de água usada, é verdade que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem menor volume do que o cubo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem volume igual ao do cubo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem volume igual ao da esfera.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem volume maior do que o do cubo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2011-2012.1-q3",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 3,
+    "statement": "Tomando-se o intervalo [0,1] da reta real, divide-se tal conjunto em três novos intervalos de comprimentos iguais a $C_1$. Tomamos uma das partes e fazemos o mesmo procedimento, obtendo mais três intervalos iguais, cada um de comprimento $C_2$. Repetindo o processo, qual o valor da soma $C_1+C_2+C_3+C_4+\\ldots$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2012.1-q4",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 4,
+    "statement": "A figura mostra um cilindro colado em outro cilindro, ambos maciços, de forma que seus eixos coincidem. A área da superfície lateral do sólido formado é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\pi[(a+b)^2+a(x+y)+by]$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\pi[b^2+ax+by]+\\pi a^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\pi[b^2+ax+by]^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\pi[ax+(a+b)y]+\\pi(a+b)^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2012.1-q5",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "Um dos modelos utilizados para medir a magnitude de terremotos é determinar $M=\\log_{10}A-\\log_{10}A_0$, onde A é a amplitude máxima medida pelo aparelho sismógrafo e $A_0$ é uma amplitude de referência. As grandezas A e $A_0$ são medidas em micrometros, isto é, $10^{-6}$ metros. Depois de um terremoto num país X, uma equipe divulgou a magnitude $M=8,9$ correspondente à amplitude A observada. Logo em seguida, um novo terremoto foi registrado, desta vez de magnitude $M'=9,0$ correspondente a uma amplitude A'. Sendo $A_0$ micrometros a amplitude de referência, podemos dizer que (em valor absoluto) a diferença (em micrometros) entre as duas amplitudes (A' e A) observadas foi de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(\\sqrt[10]{10})A_0$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^8(10-\\sqrt[10]{10^9})A_0$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$0,1A_0$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(\\sqrt[10]{10}-1)A_0$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2012.1-q6",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 6,
+    "statement": "A tabela abaixo mostra a quantidade em gramas de três tipos de suplemento alimentar fornecidos a um grupo de homens, mulheres e crianças, como parte de uma pesquisa alimentar. Suplemento A: 1g/homem, 2g/mulher, 1g/criança, total 16g; Suplemento B: 4g/homem, 2g/mulher, 1g/criança, total 31g; Suplemento C: 5g/homem, 3g/mulher, 2g/criança, total 44g. Supondo que os pesquisadores tinham disponíveis para teste essas quantidades e que tudo foi usado de acordo com a tabela, o número de homens, mulheres e crianças que participaram da pesquisa foi de, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "5, 3 e 5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5, 5 e 3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3, 5 e 5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3, 5 e 3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2011-2012.1-q7",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 7,
+    "statement": "Uma garotinha guardou durante um ano parte do dinheiro que recebeu do seu pai como mesada, totalizando \\$1. Ela procurou três bancos, A, B e C, para fazer uma simulação de aplicação do dinheiro que ela tinha e assim aumentar sua quantia. A proposta de cada banco está descrita em gráficos (Banco A: reta crescente de \\$1 a \\$5; Banco B: crescimento em degraus até \\$5; Banco C: crescimento convexo/acelerado até \\$5, todos ao longo de 5 meses). Dessa forma, se esta garota aplicar \\$1 no início do mês 1, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "o banco C é o que garante mais dinheiro a ela para uma retirada no início do mês 4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "para uma retirada no início do mês 5, é indiferente escolher entre os bancos A e B",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "para uma retirada de dinheiro no final do mês 4, para ela, o banco B é mais vantajoso que o banco C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ao longo do quarto mês, o banco A garante um maior rendimento para o dinheiro aplicado.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2011-2012.1-q8",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 8,
+    "statement": "O treinador de um time de futebol tem à sua disposição 7 atacantes e deseja utilizar 2 deles a cada jogo de um torneio disputado em 6 jogos. Além disso, não haverá repetição na dupla de atacantes ao longo da competição. Supondo que todos os 7 atletas estão aptos a participar de todos os 6 jogos, quantas opções o treinador terá para escalar a dupla de ataque no quarto jogo do torneio?",
+    "options": [
+      {
+        "label": "a",
+        "text": "42",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "39",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "36",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2011-2012.1-q9",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 9,
+    "statement": "Uma determinada função f(x) apresenta o número -2 como único zero (raiz). É possível dizer que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f(x) = x+2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f(x) é um polinômio divisível por x+2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x/f(x) não está definida para x=-2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f(-2)+2=0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2011-2012.1-q10",
+    "examId": "mf-2011-2012.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "Na figura, temos um losango inscrito num triângulo. A relação x/y é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sin\\beta/\\sin\\alpha$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sin\\alpha/\\sin\\beta$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\cos\\alpha/\\cos\\beta$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\cos\\beta/\\cos\\alpha$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2012-2013.1-q1",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 1,
+    "statement": "Uma sequência de 20 (vinte) números reais é tal que: o primeiro elemento é igual a zero; os 10 (dez) primeiros elementos formam uma progressão aritmética de razão R; os 11 (onze) últimos elementos formam uma progressão geométrica também de razão R. Sendo R um número positivo, o quociente entre o 15º termo e o 7º termo é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{3}{2}R^5$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{2}{3R^5}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3}{2}R^8$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2}{3R^8}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2012-2013.1-q2",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 2,
+    "statement": "Um byte (1B) corresponde a 8 bits. Um kilobyte (1KB) corresponde a 1024B. Um megabyte (1MB) corresponde a 1024KB. Um gigabyte (1GB) corresponde a 1024MB. Um terabyte (1TB) corresponde a 1024GB. Desta forma, 2,3TB correspondem a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,30\\times10^{15}$ bits.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,30\\times2^{50}$ bits.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9,2\\times2^{41}$ bits.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1,84\\times10^{13}$ bits.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2012-2013.1-q3",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 3,
+    "statement": "Considere uma função $f:R\\to R$ (onde R é o conjunto dos números reais) tal que f(m)=m sempre que m for um número inteiro. É correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f é uma função crescente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f é uma função constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "f(x)=x para todo número real x.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A intersecção entre o gráfico de f e a reta y=x tem infinitos pontos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2012-2013.1-q4",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "No sistema de coordenadas cartesianas, o ponto P tem coordenadas (a,b). Se o eixo vertical for girado de um ângulo $\\theta$ no sentido horário, as coordenadas (x,y) de P no novo sistema de coordenadas serão:",
+    "options": [
+      {
+        "label": "a",
+        "text": "(a,b).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(a-b\\cdot tg\\theta,\\ b\\cdot\\sec\\theta)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(a-b\\sin\\theta,\\ b)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(a-b\\sin\\theta,\\ b\\cdot\\sec\\theta)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2012-2013.1-q5",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "Com relação à função $f(x)=|x^2-7x+8|$ é correto dizer:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Seu valor máximo é 4,25.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Seu valor mínimo é -4,25.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Seu valor máximo no intervalo [3,4] é 4,25.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Seu valor mínimo no intervalo [4,6] é -4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2012-2013.1-q6",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 6,
+    "statement": "Considere um cubo cuja aresta mede a. Fazendo-se um corte transversal passando pelos pontos A, B, C, obtemos dois novos sólidos. Sobre o volume do sólido que contém o vértice D, podemos dizer que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "É igual ao volume do outro sólido originado pelo corte.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Tem 1/6 do volume do cubo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Tem 1/3 do volume do cubo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Tem a metade do volume do outro sólido originado pelo corte.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2012-2013.1-q7",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 7,
+    "statement": "No planeta XZ-52, o ano (isto é, o tempo decorrido para uma translação completa em volta do astro correspondente ao nosso Sol) foi dividido em 477 períodos iguais chamados dias. Cada dia, por sua vez, foi subdividido em 36 partes iguais chamadas horas. Sabendo que 1 (uma) hora no planeta XZ-52 corresponde a 2 (duas) horas no planeta Terra, então, quando na Terra se passam 3 anos não bissextos, temos:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,76 ano do planeta XZ-52.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 ano do planeta XZ-52.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,3 anos do planeta XZ-52.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3 anos do planeta XZ-52.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2012-2013.1-q8",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Com relação a uma curva fechada, oval, no plano cartesiano (semelhante a um contorno assimétrico entre os pontos (1,1) e (9,9), com um pico pontiagudo em (5,9)), assinale a opção correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Existe uma função real cujo gráfico é exatamente igual à curva.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O ponto (3,4) pertence à curva.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Para x pertencente ao intervalo [4,6] a curva poderia ser representada por uma função real.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Para cada x pertencente ao intervalo [0,3] existem exatamente dois pontos da curva cujas abscissas são iguais a x.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2012-2013.1-q9",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 9,
+    "statement": "No quadrilátero abaixo tem-se um quadrado inscrito, o que determina dois triângulos. A razão entre a maior área e a menor área de tais triângulos, em função do ângulo $\\theta$ formado num dos vértices, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sin^2\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\text{cossec}^2\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\cos^2\\theta$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2012-2013.1-q10",
+    "examId": "mf-2012-2013.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 10,
+    "statement": "Quando a polícia encontra um cadáver em um determinado local, o tempo $t_m$ (em horas) decorrido desde o instante da morte até o instante em que o corpo foi encontrado pode ser estimado pela equação $t_m=\\dfrac{1}{k}\\ln\\left(\\dfrac{37-T}{\\theta_0-T}\\right)$, onde T é a temperatura ambiente, $\\theta_0$ a temperatura medida no momento em que o corpo foi encontrado e k é uma constante positiva. Para um corpo encontrado ao meio dia com uma temperatura de 29 graus, sob uma temperatura ambiente de 27 graus, e admitindo $k=0,6h^{-1}$, a morte aconteceu por volta das x horas, onde x é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$12-\\ln\\sqrt[5]{125}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$12-\\ln\\sqrt[3]{3125}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$12-\\ln\\sqrt[4]{64}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$12-\\ln\\sqrt[3]{1024}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
