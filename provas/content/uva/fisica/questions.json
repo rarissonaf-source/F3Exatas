@@ -20898,5 +20898,229 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2024-2025.1-q36",
+    "examId": "cg-2024-2025.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 36,
+    "statement": "Imagine-se em uma sala de aula, onde um estudante apresenta dificuldades para enxergar claramente a lousa e o material didático. Vamos abordar o caso desse estudante e a utilização de lentes delgadas para melhorar sua visão. O que determina a necessidade de uma lente convergente para corrigir a hipermetropia?",
+    "options": [
+      {
+        "label": "a",
+        "text": "O formato da íris.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O comprimento do braço.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A curvatura da córnea.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O comprimento do globo ocular e a posição da retina.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2024-2025.1-q37",
+    "examId": "cg-2024-2025.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 37,
+    "statement": "Imagine um laboratório de física quântica onde cientistas estudam as interações eletrostáticas entre átomos e moléculas. Considere dois átomos A e B, separados por uma distância de 1nm. Os átomos possuem cargas de $-2e$ e $+3e$, respectivamente, onde 'e' é a carga elementar. Se a distância entre os átomos for triplicada, como isso influenciaria a força elétrica entre eles, mantendo as cargas constantes?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A força elétrica seria reduzida para um nono.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A força elétrica aumentaria nove vezes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A força elétrica permaneceria a mesma.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A força elétrica seria anulada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2024-2025.1-q38",
+    "examId": "cg-2024-2025.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 38,
+    "statement": "Em um laboratório de ciências, os alunos estão explorando as propriedades de condutores e isolantes em diversos materiais. Considere as seguintes situações: I. O cobre é frequentemente utilizado como condutor em fios elétricos devido à sua alta condutividade elétrica, facilitando a transmissão eficiente de eletricidade. II. O vidro, conhecido por sua propriedade isolante, é um material eficaz para separar circuitos elétricos e prevenir o fluxo de corrente. III. A madeira, apesar de ser um isolante térmico eficaz, é frequentemente utilizada como isolante elétrico em sistemas para evitar curtos-circuitos. IV. O papel é frequentemente utilizado como um condutor elétrico em cabos de alimentação devido à sua alta condutividade. Julgue as afirmações como verdadeiras (V) ou falsas (F) e, em seguida, assinale a alternativa correta.",
+    "options": [
+      {
+        "label": "a",
+        "text": "V F F V",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "V V F V",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "F F V F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "V V V F",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2024-2025.1-q39",
+    "examId": "cg-2024-2025.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 39,
+    "statement": "Você está projetando um circuito elétrico simples para alimentar duas lâmpadas LED em sua sala. Cada lâmpada é classificada com uma tensão nominal de 3,5 volts e uma corrente de 0,02 amperes. Considerando que há uma fonte de energia com uma tensão constante de 9 volts e que as lâmpadas estão conectadas em série, assinale a alternativa que expressa corretamente a resistência total do circuito.",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 ohms",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "225 ohms",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "350 ohms",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "675 ohms",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2024-2025.1-q40",
+    "examId": "cg-2024-2025.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 40,
+    "statement": "Imagine que você está em casa, organizando uma variedade de objetos que possuem diferentes comportamentos magnéticos. Durante a organização, surge uma curiosidade sobre como esses materiais se comportam na presença de um ímã. Ao testar diversos materiais, você observa que alguns são fortemente atraídos pelo ímã, mantendo a magnetização mesmo após a remoção do ímã. Qual termo caracteriza esse comportamento magnético?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Diamagnetismo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Ferromagnetismo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Paramagnetismo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Antiferromagnetismo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2024-2025.1-q41",
+    "examId": "cg-2024-2025.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 41,
+    "statement": "Em uma sala de aula de Física de uma Escola de Ensino Médio de Sobral, um experimento está sendo conduzido para estudar a conservação de carga. Uma esfera condutora inicialmente neutra é eletrizada positivamente por meio de um bastão de vidro, ficando com uma carga $Q_0=5\\mu C$. Posteriormente, se a esfera for tocada por um bastão eletrizado negativamente, transferindo uma carga de $-2\\mu C$, qual será a carga final da esfera?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 μC",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 μC",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7 μC",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 μC",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2024-2025.1-q42",
+    "examId": "cg-2024-2025.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 42,
+    "statement": "Com uma área de 68 mil metros quadrados, inaugurado em 2018 e orçado em R\\$1,8 bilhão, o acelerador de partículas Sirius é uma infraestrutura de pesquisa de última geração. Diferentemente de outros aceleradores, como o Grande Colisor de Hádrons (LHC), na Suíça, o Sirius utiliza elétrons acelerados próximo à velocidade da luz, gerando luz síncrotron de altíssimo brilho. Considere que um elétron é acelerado perpendicularmente a um campo magnético de intensidade B=0.5T dentro do acelerador Sirius. Qual é a força magnética que atua sobre o elétron, sendo que sua velocidade centrípeta v=1/1000 da velocidade da luz c? Dados: e=1,6x10⁻¹⁹ C e c=3.10⁸ m/s.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.8x10⁻¹⁰ N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.8x10⁻¹¹ N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.4x10⁻¹¹ N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.4x10⁻¹⁰ N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
   }
 ]
