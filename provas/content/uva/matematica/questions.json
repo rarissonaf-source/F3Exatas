@@ -13438,5 +13438,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2014-2014.2-q29",
+    "examId": "cg-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 29,
+    "statement": "Os lados de um retângulo medem 8 e 3. O lado maior é dividido em quatro partes iguais, enquanto o lado menor é dividido em duas partes iguais, como mostra a figura abaixo (padrão de triângulos formando \"borboletas\" alternadas, algumas preenchidas de preto). A área da região preta é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2014-2014.2-q30",
+    "examId": "cg-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 30,
+    "statement": "Dada uma matriz quadrada A, com r linhas, considere a matriz $B=-A$. Sobre o determinante de B é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "É igual ao determinante de A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Somado ao determinante de A, obtém-se zero como resultado.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É igual a r vezes o determinante de A.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "É igual a $(-1)^r$ vezes o determinante de A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2014-2014.2-q31",
+    "examId": "cg-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 31,
+    "statement": "Uma forma comum de estimar a Frequência Cardíaca Máxima (FCM), isto é, a quantidade máxima de vezes que o coração bate em um minuto, é através da diferença $(220-idade)$ para homens e $(226-idade)$ para mulheres. Por exemplo, o coração de um homem de 40 anos suporta bater (aproximadamente) um máximo de 180 vezes por minuto, ou 180bpm. Suponha que um atleta de 28 anos deseja realizar treinamentos de modo a manter a frequência cardíaca entre 75\\% e 85\\% de sua FCM. Desta forma, sua frequência cardíaca deve estar, aproximadamente, entre:",
+    "options": [
+      {
+        "label": "a",
+        "text": "144bpm e 163bpm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "134bpm e 153bpm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "153bpm e 172bpm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "165bpm e 187bpm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2014-2014.2-q32",
+    "examId": "cg-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 32,
+    "statement": "O máximo divisor comum aos inteiros A e B é 8. Na divisão A/B, após simplificações, obtém-se 2/3. É correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O mínimo múltiplo comum entre A e B é 48.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "B é múltiplo de A.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A e B são números primos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A e B são primos entre si.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2014-2014.2-q33",
+    "examId": "cg-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "Considere os números complexos $z_1,z_2,z_3$ e $z_4$ cujos afixos são, respectivamente, (2,0), (0,1), (-2,0) e (0,-1). O afixo de $z_1-z_2-z_3+z_4$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "(0,0).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(2,2).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(4,-2).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(-2,4).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2014-2014.2-q34",
+    "examId": "cg-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 34,
+    "statement": "O Campeonato Brasileiro de Futebol é disputado já há alguns anos entre 20 equipes, sendo que todas jogam entre si em turno e returno, isto é, cada confronto é realizado duas vezes. Uma das possibilidades ventiladas para o Campeonato Brasileiro de 2014 foi a disputa entre 21 equipes em vez de 20. Mantendo-se a fórmula de disputa, mas com 21 times, haveria um acréscimo de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "20 jogos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "21 jogos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40 jogos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "42 jogos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2014-2014.2-q35",
+    "examId": "cg-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "Dados os pontos A(0,0), B(4,0) e C(0,2), então o ponto D(x,y) sobre a reta $y=-\\dfrac{1}{2}x+2$ que determina os triângulos ABD e ACD de mesma área:",
+    "options": [
+      {
+        "label": "a",
+        "text": "não existe.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é o ponto (2,1).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é o ponto (3, 1/2).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é o ponto (1, 3/2).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2014-2014.2-q36",
+    "examId": "cg-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Fortaleza, Sobral e Iguatu são cidades localizadas no Ceará. Admita que, em linha reta, Fortaleza e Sobral distam 192 km, enquanto Sobral e Iguatu, também em linha reta, distam 318 km. Com base nesses dados, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A distância entre Fortaleza e Iguatu em linha reta é menor que 511 km.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Em um carro de passeio, pode-se percorrer uma distância menor do que 192 km indo de Sobral a Fortaleza.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Se uma cidade X está, em linha reta, a 100 km de Iguatu, então a distância entre Sobral e a cidade X, em linha reta, é 418 km.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A distância entre Fortaleza e Iguatu é de 126 km.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
