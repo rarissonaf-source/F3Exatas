@@ -14206,5 +14206,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2015-2016.1-q29",
+    "examId": "cg-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 29,
+    "statement": "Cinco formigas estão sobre pontos diferentes de uma mesa plana. Exatamente num mesmo instante, elas começam a caminhar em linha reta com velocidades iguais e constantes, na direção de um pequeno grão de açúcar que também se encontra sobre essa mesa. Sabendo que todas elas atingem o grão exatamente cinco segundos depois, pode-se afirmar que inicialmente as formigas:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Encontram-se sobre os vértices de um pentágono regular.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Encontram-se sobre os vértices consecutivos de um polígono regular com n lados, onde n>5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Encontram-se sobre um círculo cujo centro é o grão de açúcar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Encontram-se sobre uma elipse para a qual o grão de açúcar é um dos focos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2015-2016.1-q30",
+    "examId": "cg-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 30,
+    "statement": "Considere uma circunferência. Definindo a unidade de medida de ângulo fictícia \\\"flemba\\\", determinada pelo ângulo central correspondente a um arco cujo comprimento é a nona parte da circunferência, a quantas flembas correspondem 2 radianos?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$9\\pi$ flembas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$9/\\pi$ flembas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi/9$ flembas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2/9$ flembas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2015-2016.1-q31",
+    "examId": "cg-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 31,
+    "statement": "No quadro abaixo, informações da Companhia de Gestão de Recursos Hídricos (COGERH), com dados de 19 de agosto de 2015, sobre alguns reservatórios da Região Norte do Estado do Ceará: Açude Araras: 75,09 hm³ / 8,43%; Jatobá II: 0,18 hm³ / 2,92%; Jenipapo: 1,53 hm³ / 43,64%; Sobral: 1,60 hm³ / 37,39%. A segunda coluna informa o volume de água no açude em hectômetros cúbicos e a terceira coluna corresponde ao percentual deste volume com relação à capacidade máxima. É correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A capacidade máxima do açude Jatobá II é menor do que a capacidade máxima do açude Sobral.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A capacidade máxima do açude Araras é menor que as capacidades máximas dos outros três somadas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A capacidade máxima do açude Jenipapo é maior do que a capacidade máxima do açude Sobral.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O açude de menor capacidade máxima é Jenipapo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2015-2016.1-q32",
+    "examId": "cg-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 32,
+    "statement": "Os números complexos $z_1=a+ib$ e $z_2=c+id$ podem ser representados geometricamente no plano de Argand-Gauss por pontos no primeiro e no quarto quadrantes, respectivamente. Considerando a, b, c, d todos não nulos, com respeito à representação geométrica do produto $z_1\\cdot z_2$ é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "É um ponto do segundo quadrante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É um ponto do terceiro quadrante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Se $bc>|ad|$, então tem-se um ponto do primeiro quadrante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Se $bc>|ad|$, então tem-se um ponto do quarto quadrante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2015-2016.1-q33",
+    "examId": "cg-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 33,
+    "statement": "Um corretor vende terrenos, todos com as mesmas medidas e mesmo preço p. Na compra à vista de 01 (um) terreno ele oferece um desconto de 10%. Na compra de 02 (dois) terrenos, o vendedor oferece um desconto de 20% no valor total 2p. Um cliente entende que é realizado um desconto de 10% sobre o valor total dos dois terrenos (2p) e, depois, sobre este novo valor, mais um desconto de 10% é dado. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A maneira entendida pelo cliente não altera o preço final da compra.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O corretor lucraria mais na forma entendida pelo cliente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O corretor lucraria menos na forma entendida pelo cliente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A maneira entendida pelo cliente representaria apenas metade do desconto oferecido pelo corretor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2015-2016.1-q34",
+    "examId": "cg-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 34,
+    "statement": "Considerando as matrizes X e Y com entradas reais, um estudante efetua os produtos X.Y e Y.X. É correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "X.Y = Y.X.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "X é a inversa de Y.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A transposta de Y tem a mesma ordem que a matriz X.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "X.Y tem a mesma ordem que Y.X.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2015-2016.1-q35",
+    "examId": "cg-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 35,
+    "statement": "Em uma rodovia há postes posicionados a cada 100 metros e placas indicativas de velocidade máxima a cada 80 metros. No quilômetro 2 (dois) desta rodovia, o motorista vê uma dessas placas fixada ao poste (isto é, poste e placa estão no mesmo local). Exatos vinte e cinco quilômetros depois ele lembra desse fato e espera pelo próximo poste com uma placa indicativa de velocidade fixada a este. Isso ocorre:",
+    "options": [
+      {
+        "label": "a",
+        "text": "200 metros à frente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "300 metros à frente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "400 metros à frente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "500 metros à frente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2015-2016.1-q36",
+    "examId": "cg-2015-2016.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 36,
+    "statement": "Um caixa de som recebe o sinal de áudio vindo de um microfone e o amplifica segundo a equação $A=10\\cdot\\log(S/E)$ onde A é a quantidade de vezes (em decibéis – dB) que o sinal foi amplificado, S é a potência de saída (em Watts) e E a potência de entrada (também em Watts). Se o sinal de voz entra na caixa com potência de 0,5 Watts e sai com potência de 500 Watts, a amplificação foi de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "30 dB.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100 dB.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "300 dB.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1000 dB.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
