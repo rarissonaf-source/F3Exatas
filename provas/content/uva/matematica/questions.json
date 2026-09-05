@@ -7198,5 +7198,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2014-2014.2-q1",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 1,
+    "statement": "O quadro a seguir mostra a previsão de custos (em milhões de reais), em 2010 e 2013, com quatro dos estádios da copa do mundo de futebol que acontece este ano no Brasil. Arena da Baixada: 184,5 (2010) e 265 (2013); Beira-Rio: 130 e 330; Mané Garrincha: 745,3 e 1430; Maracanã: 600 e 1190. Com base nessas informações, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O estádio Mané Garrincha teve o maior percentual de aumento de previsão de custos de 2010 para 2013.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O estádio Maracanã teve o maior aumento (em reais) na previsão de custos de 2010 para 2013.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A previsão de custo total com estes estádios em 2013 dobrou com relação a 2010.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A previsão de aumento de custos do estádio Arena da Baixada representa menos de 6% do aumento de custo total de 2010 para 2013.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2014-2014.2-q2",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "As parábolas $y_1=ax^2+bx+c$ e $y_2=px^2+qx+r$ determinam 04 (quatro) pontos distintos no eixo das abscissas e possuem exatamente dois pontos em comum. Nessas condições, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O produto dos discriminantes destas parábolas é negativo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O produto a.p é positivo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "c+r é nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A região entre as parábolas e delimitada pelos pontos de intersecção é não vazia.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2014-2014.2-q3",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "Uma coroa circular $C_1$ tem raio menor igual a 2 cm e raio maior igual a 6 cm. A coroa circular $C_2$, de raio menor também igual a 2 cm, tem a metade da área da coroa $C_1$. O raio maior de $C_2$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt{5}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\sqrt{5}$ cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2014-2014.2-q4",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 4,
+    "statement": "Dado que $x\\cdot(\\sqrt{37}+6)^{2014}=1$, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$0<x<1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x>(\\sqrt{37}+6)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x é um número inteiro.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6<x<7.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2014-2014.2-q5",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "Duas circunferências de raios distintos r e R (com r<R) estão dispostas uma ao lado da outra e com um ponto de tangência. Um triângulo isósceles circunscrito ao conjunto (de modo que os centros das circunferências estejam alinhados com o vértice oposto ao lado não congruente) tem altura:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2(R+r).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{2r^2}{R-r}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{2R^2}{r-R}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2R^2}{R-r}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2014-2014.2-q6",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 6,
+    "statement": "Sendo $y=\\cos x$, então $\\cos 6x$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$16y^9-24y^2+18y-1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$16y^6-24y^4+9y-1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$32y^6-48y^2+18y-1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$32y^6-48y^4+18y^2-1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2014-2014.2-q7",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Dado que $\\log 5=0,699$, o número de algarismos de $5^{1234}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "861.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "862.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "863.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "864.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2014-2014.2-q8",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 8,
+    "statement": "Uma empresa precisa transportar caixas, todas elas com volumes diferentes, em um navio que pode transportar, no máximo, $7.000\\ m^3$. Os volumes das caixas estão em progressão geométrica: $2\\ m^3$, $6\\ m^3$, $18\\ m^3$, $54\\ m^3$, $162\\ m^3$ e assim por diante. O navio poderá transportar no máximo:",
+    "options": [
+      {
+        "label": "a",
+        "text": "7 caixas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 caixas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9 caixas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 caixas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2014-2014.2-q9",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 9,
+    "statement": "Considere as funções f e g, ambas definidas no intervalo [0,2], injetoras, mas com conjuntos imagens diferentes. É correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f(x)=g(x) para algum x∈[0,2].",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(f+g) é injetora no intervalo [0,2].",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Existe x∈[0,2] tal que f(x)-g(x) é não nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f(x)≠g(x) para todo x∈[0,2].",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2014-2014.2-q10",
+    "examId": "mf-2014-2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "Um jovem ocioso resolveu encher uma bola de basquete com água. Com uma linha, marcou a circunferência máxima da bola, isto é, circundou o equador desta. Depois, ao esticar o que mediu com a linha, viu que era 3,5 vezes o tamanho de seu pé. Supondo que seu pé mede 22 cm e usando $\\pi=3,14$, a bola tem capacidade para:",
+    "options": [
+      {
+        "label": "a",
+        "text": "exatamente 2 litros de água.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "entre 5 e 6 litros de água.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "entre 7 e 8 litros de água.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "mais de 9 litros de água.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2014-2015.1-q1",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "A respeito do inteiro $2^{27}-1$, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Possui divisores pares.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Possui o inteiro 7 como único divisor primo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Possui apenas um divisor positivo menor do que 10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Possui um divisor primo entre 70 e 79.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2014-2015.1-q2",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 2,
+    "statement": "Dois corredores participam de uma prova de rua com 10km de percurso. O ritmo médio ou pace é o tempo médio gasto para correr 1km. O pace do corredor A é constante e igual a 4min30seg. O corredor B tem velocidade constante de 13km/h. É correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O corredor A chega à frente do corredor B com uma vantagem superior a 1 minuto.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O corredor A chega à frente do corredor B com uma vantagem inferior a 15 segundos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O corredor A chega mais de 2 minutos depois do corredor B.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O corredor A chega menos de 30 segundos depois do corredor B.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2014-2015.1-q3",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 3,
+    "statement": "A diferença simétrica entre dois conjuntos A e B é definida como $A\\cup B-A\\cap B$. Dados $X=\\{1,2,3\\}$ e $Y=\\{3,5\\}$, subconjuntos do conjunto dos números naturais, podemos dizer que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a diferença simétrica entre $X\\cup Y$ e $X\\cap Y$ é o conjunto {1,2,3}.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a diferença simétrica entre $X-Y$ e $X\\cap Y$ é o conjunto {1,2}.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a diferença simétrica entre $X\\cup Y$ e $X-Y$ é {1,2,3,5}.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a diferença simétrica entre $X^C$ e $Y^C$ é vazia.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2014-2015.1-q4",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 4,
+    "statement": "Uma esfera de raio R é seccionada por dois planos paralelos de modo que uma das secções coincide com o equador da esfera. Se as áreas das secções estão na proporção de 1:2, então o raio da menor secção é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{R\\sqrt{2}}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{R}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{R\\sqrt{3}}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{R}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2014-2015.1-q5",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "O gráfico da função $f:A\\to R$, onde R é o conjunto dos números reais e A um subconjunto de R, é simétrico com relação ao eixo y. Assim, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$f(x)>0$ para todo $x\\in A$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$f(x)=f(-x)$ para todo $x\\in A$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$|f(x)|$, definida também no conjunto A, teria exatamente o mesmo gráfico.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\alpha=0$ é uma raiz para a função.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2014-2015.1-q6",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Três circunferências de mesmo raio R são tangentes entre si. Uma quarta circunferência, de raio r, é tangente às três circunferências simultaneamente. Assinale a opção correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$r=\\dfrac{(2\\sqrt{3}-3)}{3}R$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$r=\\dfrac{(2\\sqrt{3}-1)}{3}R$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$r=\\dfrac{(2\\sqrt{3}+3)}{3}R$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$r=\\dfrac{(2\\sqrt{3}+1)}{3}R$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2014-2015.1-q7",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "A solução para a equação $(1-3i)+(2+2i)x=0$, onde i é a unidade imaginária do conjunto dos números complexos, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$-\\dfrac{1}{2}+\\dfrac{3}{2}i$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$-\\dfrac{1}{2}-\\dfrac{3}{2}i$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{2}+i$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{2}-i$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2014-2015.1-q8",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "O crescimento da população de uma determinada bactéria em função do tempo (dado em meses) se dá pela função $P(t)=k\\cdot a^t$, onde a é uma constante positiva e maior do que 1, determinada experimentalmente. A população inicial era de $4,2\\times10^{12}$ bactérias e dobra após 30 dias. Considerando $\\ln3=1,099$ e $\\ln2=0,693$, o tempo para que essa população triplique é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "de menos de 45 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "entre 45 e 60 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "entre 60 e 75 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "entre 75 e 90 dias.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2014-2015.1-q9",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 9,
+    "statement": "Um ativista deseja medir a altura de uma árvore que está do outro lado da margem de um rio de forte correnteza. Na margem em que ele se encontra, são marcados os pontos A e B que distam 25 metros um do outro. Considerando o triângulo formado por estes pontos e a base da árvore, o ativista consegue (através de observação) determinar ângulos em A e B sendo 75° e 60° respectivamente. Além disso, do ponto A ele consegue ver o topo da árvore com um ângulo de 45°. Dados: $\\sin45°=\\sqrt{2}/2$, $\\sin60°=\\sqrt{3}/2$, qual a altura da árvore?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{25\\sqrt{6}}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{25\\sqrt{3}}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{25\\sqrt{2}}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{25\\sqrt{3}}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2014-2015.1-q10",
+    "examId": "mf-2014-2015.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 10,
+    "statement": "Em um treinamento de pênaltis, um jogador de futebol consegue uma sequência de n acertos até que erra o primeiro. Depois, consegue acertar as próximas n+1 cobranças e erra a seguinte. Continuando, ele acerta n+2 cobranças errando a próxima. O treinamento prossegue sempre com a série de acertos aumentando de uma unidade e ocorrendo apenas um erro entre duas sequências de acertos. Supondo que o atleta errou a cobrança de número 30 e só voltou a errar a cobrança de número 42, quantas cobranças ele acertou na primeira sequência?",
+    "options": [
+      {
+        "label": "a",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
