@@ -4702,5 +4702,1221 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q1",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 1,
+    "statement": "Três restaurantes \\\"por quilo\\\", A, B e C, apresentam seus preços de acordo com a tabela: A: 250g por R\\$4,00; B: 350g por R\\$5,00; C: 600g por R\\$7,00. Se uma pessoa consumir 400g de alimentos, então ela pagará:",
+    "options": [
+      {
+        "label": "a",
+        "text": "mais em B do que em A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mais em C do que em B.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "mais em A do que em C.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "valores iguais em A e em C.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q2",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 2,
+    "statement": "Uma pessoa tem 32 moedas, sendo x de 5 centavos, y de 10 centavos e z de 25 centavos, totalizando a quantia de R\\$ 4,95. Considerando os possíveis valores de x, y e z que satisfazem as condições dadas, qual das sentenças seguintes NUNCA poderia ser verdadeira?",
+    "options": [
+      {
+        "label": "a",
+        "text": "y+z=20",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "x+z=25",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x+z=17",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "y+z=25",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q3",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 3,
+    "statement": "Uma pessoa vai retirar dinheiro num caixa eletrônico de um banco, mas, na hora de digitar a senha, esquece-se do número. Ela lembra que o número tem 5 algarismos, começa com 6, não tem algarismos repetidos e tem o algarismo 7 em alguma posição. O número máximo de tentativas para acertar a senha é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1680",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1344",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "720",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "820",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.1-q4",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 4,
+    "statement": "Analise as opções sobre prismas e pirâmides: I. Uma pirâmide com 8 arestas tem 5 faces. II. Existe prisma com 15 arestas. III. Existe pirâmide com 15 arestas. Pode-se afirmar que está correto o contido em:",
+    "options": [
+      {
+        "label": "a",
+        "text": "I, II e III",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II e III",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I e III",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I e II",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q5",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 5,
+    "statement": "Uma bola de futebol é feita com 32 peças de couro. 12 delas são pentágonos regulares e as outras 20 são hexágonos também regulares. Os lados dos pentágonos são iguais aos hexágonos de forma que possam ser costurados. Cada costura une dois lados de duas peças. Quantas são as costuras feitas na fabricação de uma bola de futebol com estas características?",
+    "options": [
+      {
+        "label": "a",
+        "text": "60",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "64",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "90",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "180",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q6",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 6,
+    "statement": "Um fazendeiro comprou vacas de duas raças diferentes, a um custo total de R\\$10.000,00. Se cada vaca de uma das raças custou R\\$250,00 e cada uma da outra raça custou R\\$260,00, o total de vacas compradas pelo fazendeiro foi:",
+    "options": [
+      {
+        "label": "a",
+        "text": "25",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "41",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "39",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q7",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 7,
+    "statement": "Carlos aplicou parte de seus R\\$10.000,00 a 1,6\\% ao mês, e o restante a 2\\% ao mês. No final de um mês, recebeu um total de R\\$194,00 de juros das duas aplicações. O valor absoluto da diferença entre os valores aplicados a 1,6\\% e 2\\% é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$4.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$5.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$6.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$7.000,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q8",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Se A é o conjunto dos números reais diferentes de 1. Seja $f:A \\to A$ dada por $f(x)=\\dfrac{x+1}{x-1}$. Para um inteiro positivo n, $f^n(x)$ é definida por $f^n(x) = f(x)$, se n=1, e $f^n(x)=f(f^{n-1}(x))$, se n>1. Então $f^5(x)$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{x+1}{x-1}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{x}{x+1}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x^5$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q9",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 9,
+    "statement": "A partir da zero hora de cada dia, a pressão p, em bares, de uma caldeira é controlada automaticamente, variando com o tempo t, em horas, de acordo com a função: $p(t) = 300+200\\cdot\\sin\\dfrac{(t-1)\\pi}{2}$. Qual é o primeiro horário, após a zero hora, em que a caldeira atinge a pressão máxima?",
+    "options": [
+      {
+        "label": "a",
+        "text": "acontece às 3 horas",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "acontece às 4 horas",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "acontece às 2 horas",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "acontece às 5 horas",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q10",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 10,
+    "statement": "A implicação verdadeira, quaisquer que sejam os números reais e distintos x e y, tais que $x^2+x=y^2+y$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x\\le1 \\Rightarrow y\\ge0$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x<0 \\Rightarrow y<0$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x\\le-1 \\Rightarrow y\\ge0$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x>1 \\Rightarrow y>0$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q11",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 11,
+    "statement": "A quantidade de pontos, pertencentes à curva $y=x^2$, que distam $\\sqrt{5}$ do ponto (1,2), é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q12",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 12,
+    "statement": "Considere o sistema $\\{a_1x+a_2y=a_3;\\ a_4x+a_5y=a_6\\}$ com $(a_1,a_2,a_3,a_4,a_5,a_6)$ formando uma P.A. de razão r. Pode-se afirmar que o sistema:",
+    "options": [
+      {
+        "label": "a",
+        "text": "não tem solução, se r>0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem infinitas soluções, qualquer que seja r.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem solução única, se r≠0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não tem solução, se r=0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q13",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "Se $(1-\\sin x, 1-\\cos x, 1+\\sin x)$, $0<x<\\pi/2$, é uma progressão geométrica, $\\cos 2x$ vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{3}/2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-1/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-$\\sqrt{2}/2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q14",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "A figura representa as peças do Tangram, quebra-cabeça chinês formado por 5 triângulos, 1 paralelogramo e 1 quadrado. Sendo a área do quadrado ABCD igual a $4\\ cm^2$, a área do triângulo sombreado, em $cm^2$, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/9",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/8",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q15",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 15,
+    "statement": "Sabendo-se que 1 é uma raiz dupla do polinômio $p(x)=x^3-3x+2$, então o conjunto de todos os números reais para os quais a expressão $\\dfrac{1}{\\sqrt{p(x)}}$ está definida é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{x\\in\\mathbb{R}\\mid x\\neq1\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{x\\in\\mathbb{R}\\mid -2<x<1\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{x\\in\\mathbb{R}\\mid x>-2\\}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{x\\in\\mathbb{R}\\mid -2<x<1$ ou $x>1\\}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.1-q16",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 16,
+    "statement": "O sistema de equações $\\{\\dfrac{2^{x+\\beta y}}{2^{\\alpha x}}=32;\\ \\dfrac{3^{\\beta x-y}}{3^{\\alpha y}}=81\\}$ tem solução única (x,y) se e somente se:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\alpha=\\beta$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\alpha\\neq\\beta$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\alpha^2-\\beta^2\\neq1$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\alpha^2+\\beta^2\\neq1$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.1-q17",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "Uma parede, medindo 2,80m por 1,80m, deve ser revestida por ladrilhos, de lados 10cm, que são vendidos em caixas com 36 unidades. Considerando que há uma perda, por quebra durante a colocação, de 10% dos ladrilhos, o número mínimo de caixas que devem ser compradas é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "22",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.1-q18",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 18,
+    "statement": "Se $\\dfrac{1}{x^3+x+1}=\\dfrac{27}{37}$, então $\\dfrac{1}{x^3+x+2}$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "27/84",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "27/64",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "27/38",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "28/37",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.1-q19",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 19,
+    "statement": "Um triângulo ABC, retângulo em A, possui área S. Se $x=\\hat{ABC}$ e r é o raio da circunferência circunscrita a este triângulo, então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$S=r^2\\cos(2x)$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$S=r^2\\sin(2x)$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$S=\\dfrac{1}{2}r^2\\sin(2x)$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$S=\\dfrac{1}{2}r^2\\cos^2 x$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.1-q20",
+    "examId": "cg-2007-2007.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "O conjunto de todos os pontos (x,y) do plano, com $y\\neq0$, para os quais x e y satisfazem a equação $\\sin\\left(\\dfrac{y}{x^2+1}\\right)=0$ é uma:",
+    "options": [
+      {
+        "label": "a",
+        "text": "família de parábolas",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "família de circunferências centradas na origem",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "família de retas",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "circunferência centrada na origem.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.2-q29",
+    "examId": "cg-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 29,
+    "statement": "Em uma sala de aula há 25 alunos, quatro deles considerados gênios. O número de grupos, com três alunos, que podem ser formados incluindo pelo menos um dos gênios, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "580",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "970",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1050",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "780",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.2-q30",
+    "examId": "cg-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 30,
+    "statement": "Se (x,y) é a solução do sistema $\\{3/x-6/y=1/6;\\ 2/x+3/y=1/2\\}$ e $x\\cdot y\\neq0$, o valor de $3x-y$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2007-2007.2-q31",
+    "examId": "cg-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 31,
+    "statement": "Uma loja colocou o seguinte anúncio na vitrine: \\\"O preço de qualquer camisa colorida é o dobro do preço de qualquer camisa branca.\\\" Zico foi a essa loja e comprou 4 camisas coloridas e algumas brancas. Quando foi efetuar o pagamento, notou um acréscimo de 50\\% no valor da compra e, então, viu que, na nota fiscal, as camisas estavam com suas quantidades trocadas. Nessas condições, quantas camisas brancas foram compradas por Zico?",
+    "options": [
+      {
+        "label": "a",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2007-2007.2-q32",
+    "examId": "cg-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 32,
+    "statement": "Um polinômio p(x) tem resto A, quando dividido por (X-A), e resto B, quando dividido por (X-B), sendo A e B números reais. Se o polinômio p(x) é divisível por (X-A)(X-B), então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A = B = 0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A = B = 1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A = 0 e B = 1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A = 1 e B = -1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2007-2007.2-q33",
+    "examId": "cg-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 33,
+    "statement": "O número N de bactérias de uma cultura é dado, em função do tempo t, em horas, por $N(t)=10^5\\cdot2^{4t}$. Supondo $\\log2=0,3$, o tempo necessário para que o número inicial de bactérias fique multiplicado por 100 é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 horas e 2 minutos",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 horas e 15 minutos",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 hora e 15 minutos",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 hora e 40 minutos",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.2-q34",
+    "examId": "cg-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 34,
+    "statement": "Seja $f:\\mathbb{R}\\to\\mathbb{R}$, onde $\\mathbb{R}$ é o conjunto dos números reais, tal que: $f(4)=5$ e $f(x+4)=f(x)\\cdot f(4)$. O valor de f(-4) é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "-4/5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-1/5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.2-q35",
+    "examId": "cg-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "Na figura, ABCD é um paralelogramo cujo lado BC é tangente, no ponto B, à circunferência de diâmetro $\\overline{AD}=6$. A área da região hachureada é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "13",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2007-2007.2-q36",
+    "examId": "cg-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 36,
+    "statement": "Seja a matriz D dada por $D=\\begin{pmatrix}2&2&2\\\\a&b&c\\\\\\sin\\hat{A}&\\sin\\hat{B}&\\sin\\hat{C}\\end{pmatrix}$ na qual a, b e c são lados de um triângulo cujos ângulos opostos são, respectivamente, $\\hat{A}$, $\\hat{B}$ e $\\hat{C}$. O valor do determinante D é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a+b+c",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2007-2007.2-q1",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 1,
+    "statement": "Uma certa padaria vendia pães por unidade, a um preço de R\\$0,20 por pãozinho de 50g. Atualmente, a mesma padaria vende o pão por peso, cobrando R\\$4,50 por quilograma do produto. A variação percentual do preço do pãozinho provocada pela mudança de critério para o cálculo do preço, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "8,5%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10,5%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9,5%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12,5%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2007-2007.2-q2",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 2,
+    "statement": "Considere os conjuntos $C=\\{(1,2),(1,3),(2,3)\\}$ e $D=\\{1,2,3,4,5\\}$, e seja a função $f:C\\to D$ tal que: $f(x,y)=x+y$. É possível afirmar que f é uma função:",
+    "options": [
+      {
+        "label": "a",
+        "text": "par",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ímpar",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "injetora",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sobrejetora",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2007-2007.2-q3",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 3,
+    "statement": "Em uma promoção de final de semana, uma montadora de veículos colocou à venda x unidades, ao preço unitário de R\\$20.000,00. No sábado foram vendidas 2/9 dos veículos, no domingo 1/7 do que restou e sobraram 300 veículos. Nesse final de semana, se os x veículos tivessem sido vendidos, a receita da montadora, em milhões de reais, seria:",
+    "options": [
+      {
+        "label": "a",
+        "text": "6,7",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2007-2007.2-q4",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 4,
+    "statement": "O resto da divisão, por x-b, do polinômio $P(x)=\\begin{vmatrix}1&x&x^2&x^3\\\\1&a&a^2&a^3\\\\1&b&b^2&b^3\\\\1&c&c^2&c^3\\end{vmatrix}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "(x-a)(x-c)(x-d)",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "em geral, um polinômio não-nulo de grau 3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "sempre o polinômio nulo",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o polinômio nulo se, e somente se, a=b=c=d",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2007-2007.2-q5",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 5,
+    "statement": "Entre os primeiros mil números inteiros e positivos, quantos são divisíveis pelos números 2, 3, 4 e 5?",
+    "options": [
+      {
+        "label": "a",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "22",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2007-2007.2-q6",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 6,
+    "statement": "Remove-se, do cubo da figura, a pirâmide triangular ABCD. Obtém-se, dessa forma, um sólido de volume:",
+    "options": [
+      {
+        "label": "a",
+        "text": "14/3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20/3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16/5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18/5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2007-2007.2-q7",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "Em um plano cartesiano, seja K o triângulo que delimita a região definida pelas inequações $y\\le2$, $x\\ge0$ e $x-y\\le2$. As retas que são eqüidistantes dos três vértices do triângulo K, são:",
+    "options": [
+      {
+        "label": "a",
+        "text": "x=-2, y=0 e y=-x",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "x=0, y=0 e y=x",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x-y-1=0, y=x e y=0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "x-y+2=0, y=x e y=0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "mf-2007-2007.2-q8",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 8,
+    "statement": "Uma faixa retangular de tecido deverá ser totalmente recortada em quadrados, todos do mesmo tamanho e sem deixar sobras. Esses quadrados deverão ter o maior tamanho (área) possível. Se as dimensões da faixa são 105 cm de largura por 700 cm de comprimento, o perímetro de cada quadrado, em centímetros, será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "28",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "140",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2007-2007.2-q9",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "O gráfico cartesiano dos pontos P(x,y) tais que $\\{x=1+5\\sin t;\\ y=-2+3\\cos t\\}$, $t\\in\\mathbb{R}$, representa:",
+    "options": [
+      {
+        "label": "a",
+        "text": "um único ponto",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma parábola",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma hipérbole",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma elipse",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2007-2007.2-q10",
+    "examId": "mf-2007-2007.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 10,
+    "statement": "Em uma cidade existem 1.000 carroças, cada uma com um número de licença, de 1 a 1.000. Duas carroças nunca têm o mesmo número de licença. Entre as licenças de três algarismos, de 100 a 999, em quantas delas o valor absoluto da diferença entre o primeiro algarismo e o último é igual a 2?",
+    "options": [
+      {
+        "label": "a",
+        "text": "180",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "170",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "150",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "160",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
