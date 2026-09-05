@@ -9278,5 +9278,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2018-2018.1-q1",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 1,
+    "statement": "A fábrica Superlata produz latas de alumínio em forma de cilindro circular reto para vender a empresas de bebida. A fábrica produz uma lata padrão com 6 cm de altura e raio da base igual a 1 cm. No entanto, com o objetivo de atender às necessidades das empresas, haverá uma alteração das dimensões que passarão a 4 cm de altura e 3 cm de raio da base. Desta forma, podemos afirmar que o volume da nova lata:",
+    "options": [
+      {
+        "label": "a",
+        "text": "diminuirá em $2\\pi\\ cm^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "permanecerá o mesmo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "aumentará em $10\\pi\\ cm^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "aumentará em $30\\pi\\ cm^3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2018-2018.1-q2",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 2,
+    "statement": "As empresas de bebidas armazenam as latas (já com as bebidas) nas mesmas caixas em que foram entregues pela fábrica Superlata. Assim, com a mudança no padrão das latas, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a capacidade máxima de armazenamento da bebida (em litros) por caixa será menor.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a capacidade máxima de armazenamento da bebida (em litros) por caixa será a mesma.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a capacidade máxima de armazenamento da bebida (em litros) por caixa será maior, porém com menos latas em cada caixa.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a capacidade máxima de armazenamento da bebida (em litros) por caixa será maior e com mais latas em cada caixa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2018-2018.1-q3",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 3,
+    "statement": "O Índice de Adiposidade Corporal (IAC) considera a circunferência do quadril e a altura para determinar o percentual de gordura de um indivíduo, dado por $g=\\dfrac{Q}{a\\times\\sqrt{a}}-18$, onde Q é a circunferência do quadril (cm) e a é a altura (m). Faixas de adiposidade normal para mulheres: 21 a 32. Uma mulher, cuja altura é 1,64m, obteve IAC (g) igual a 35. Quantos centímetros (no mínimo) ela deve perder na circunferência do quadril para que fique na faixa de adiposidade normal?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Não é necessário, ela já se encontra na faixa de adiposidade normal.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Entre 6 e 7 centímetros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Entre 18 e 19 centímetros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Entre 29 e 30 centímetros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2018-2018.1-q4",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "Três amigos resolvem comprar um terreno retangular cujas dimensões são 100 metros de frente e 200 metros de comprimento. O terreno corresponde a uma quadra inteira de um bairro e a divisão será feita como mostra a figura (com trechos de 60m e 40m marcados). Quais as medidas de x e y, respectivamente, de modo que os três terrenos tenham a mesma área?",
+    "options": [
+      {
+        "label": "a",
+        "text": "88,888... e 166,666...",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "166,666... e 88,888...",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "111,111... e 166,666...",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "166,666... e 111,111...",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2018-2018.1-q5",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 5,
+    "statement": "As cidades de Macapá, capital do Amapá, e Quito, capital do Equador, são cortadas pela Linha do Equador terrestre. Uma pessoa nestas cidades, quando \\\"parada\\\", na verdade está a uma velocidade de 1675 km/h, que é a velocidade de rotação da Terra. Suponha que um metahumano tenha o poder de \\\"fugir\\\" da força da gravidade ao perder o contato com o solo, vendo o planeta girar sob os seus pés. Sabendo que Quito está 3 mil quilômetros a oeste de Macapá, e desprezando qualquer obstáculo entre as duas cidades, em quanto tempo o metahumano poderia viajar de Macapá a Quito usando apenas este poder?",
+    "options": [
+      {
+        "label": "a",
+        "text": "33min.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "55min.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1h07min.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1h47min.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2018-2018.1-q6",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 6,
+    "statement": "Em uma confraternização de final de ano, 70 funcionários participam do sorteio de brindes. Ao todo serão sorteados 30 camisetas, 10 mochilas e 2 smartphones. Em uma caixa estão os nomes dos funcionários e, em outra caixa, números de 1 a 42 correspondentes aos brindes (1 a 30 para camisetas, 31 a 40 para mochilas e 41 e 42 para os smartphones). Retira-se aleatoriamente um nome e em seguida um número, de suas respectivas caixas. Quem for sorteado com camiseta, ainda pode concorrer às mochilas e aos smartphones, mas não pode ganhar outra camiseta. Quem for sorteado com uma mochila, não pode mais ganhar camiseta, mas pode continuar no sorteio para concorrer a um smartphone. Aquele que ganha um smartphone está fora do restante do sorteio. Quais as chances do funcionário Francisco Ramon ganhar os três prêmios nas três primeiras chamadas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 em 562.520.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 em 605.052.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 em 39.376.400.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 em 42.353.640.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2018-2018.1-q7",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "Em países com tradição em esportes no gelo, é bastante conhecida a Patinação de Velocidade em Pista Curta. Os patinadores percorrem um circuito montado numa quadra olímpica de gelo (60,0m x 30,0m). Na figura está indicada a marcação interna do traçado (retas de 28,85m e raio 8,0m nas curvas). Os organizadores planejam fazer um novo traçado, onde uma volta terá, no mínimo, 140 metros de extensão. Para isso, o raio mínimo da parte tracejada, em cada semicírculo da pista, deve ter:",
+    "options": [
+      {
+        "label": "a",
+        "text": "entre 10 e 11 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "entre 11 e 12 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "entre 12 e 13 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "entre 13 e 14 metros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2018-2018.1-q8",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Em 2002, uma propriedade foi comprada por um empresário que pagou R\\$820.000,00. À época, o terreno fora avaliado em R\\$230.000,00 e os prédios ali construídos foram avaliados em R\\$590.000,00. Nesta região, os terrenos têm valorização ao longo do tempo determinada pela função $t(x)=12x^3+200x^2+4200x$, onde x é o tempo medido em anos. Já os prédios, que não receberam reforma ao longo dos anos, têm depreciação dada pela função $p(x)=130x+230x^2$, com x também representando o tempo em anos. Em ambos os casos, x=0 corresponde ao ano de 2002. Em 2022, qual o valor de mercado da propriedade?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 354.600,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 985.400,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1.174.600,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.805.400,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2018-2018.1-q9",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 9,
+    "statement": "Um riacho separa os sítios dos irmãos Anastácia e Venâncio. Venâncio decidiu construir uma ponte de corda de modo a poder visitar a irmã mesmo no período de cheia. Ele pediu a Anastácia que procurasse o ponto mais alto da margem (no lado em que fica o seu sítio) e fez o mesmo do outro lado. Marcaram os pontos A e V, como mostra a figura: a ponte ligaria esses dois pontos. Depois, Venâncio, em sua margem, andou 50 metros para a direita, marcando o ponto V'. Com a ajuda de um teodolito, viu que o ângulo AVV' é $\\alpha$ e que o ângulo AV'V é $\\beta$. Venâncio concluiu que a largura da ponte deveria ser de, pelo menos:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$50\\sin\\beta/\\sin(\\alpha+\\beta)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$50\\sin(\\alpha+\\beta)/\\sin\\beta$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$50\\sin\\beta/\\sin(\\alpha-\\beta)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$50\\sin(\\alpha-\\beta)/\\sin\\beta$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2018-2018.1-q10",
+    "examId": "mf-2018-2018.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 10,
+    "statement": "Um garoto está criando um jogo para computador semelhante ao famoso Paranoid. A barra tem 3 cm. No retângulo, cada parede lateral tem 20 cm de altura, enquanto o \\\"piso\\\" e o \\\"teto\\\" medem 60 cm. Se a bolinha toca a barra na extremidade esquerda, a trajetória forma um ângulo de 170 graus com a horizontal no sentido anti-horário. Se toca na extremidade direita, o ângulo é de 10 graus. O ângulo varia linearmente com o ponto da barra no qual a bolinha toca. Se a bola tocou a barra a 0,6 cm da extremidade esquerda, e esta estava a 5 cm da parede lateral esquerda, qual a distância máxima entre a barra e a parede lateral direita, quando o jogador movimentar a barra para a direita, de modo que o jogo continue? Considere tg 42°=0,9.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,1555...",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "21,1555...",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "38,8444...",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2018-2018.2-q1",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 1,
+    "statement": "Um líquido de cor azulada está armazenado em um frasco de vidro transparente que tem o formato de um prisma cuja base é um triângulo equilátero de lado 6cm. A altura do prisma mede 12cm. Quando apoiado sobre uma face lateral, o líquido atinge uma altura de 4cm. Admitindo a raiz quadrada de 3 sendo igual a 1,7, qual o volume aproximado do líquido armazenado no prisma?",
+    "options": [
+      {
+        "label": "a",
+        "text": "600ml.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "180ml.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60ml.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18ml.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2018-2018.2-q2",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 2,
+    "statement": "Se o frasco (do enunciado anterior) for apoiado sobre uma das bases, qual a altura (aproximada) observada do líquido?",
+    "options": [
+      {
+        "label": "a",
+        "text": "11,3 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7,3 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,5 cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2018-2018.2-q3",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "Um polígono regular de 8 lados está inscrito em uma circunferência. Outro polígono também regular, mas com 16 lados, está inscrito na mesma circunferência. Os vértices do octógono coincidem com vértices do polígono com maior quantidade de lados. Um segmento de reta parte de um dos vértices que é apenas do polígono de 16 lados, e atinge o centro da circunferência. Prolongando este segmento, ele toca o octógono em:",
+    "options": [
+      {
+        "label": "a",
+        "text": "um de seus lados, exatamente no ponto médio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "um de seus vértices.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "um de seus lados, mas nunca no seu ponto médio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nenhum ponto.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2018-2018.2-q4",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "Considerando as parábolas $y=x^2+2x$, $y=x^2-2x$ e $y=-x^2$, quantos pontos estão na interseção das três curvas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Infinitos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2018-2018.2-q5",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 5,
+    "statement": "Uma escolinha de futsal tem turmas de acordo com a faixa etária das crianças. A turma de 6 a 8 anos tem 15 crianças, a turma de 9 a 11 anos tem 20 crianças e a turma de 12 a 14 anos tem 30 crianças. Para uma competição interna, serão formadas equipes de modo que em todas estas estejam presentes crianças de cada turma. Para que haja equilíbrio entre as equipes – tanto com relação à quantidade de atletas, quanto à faixa etária – cada time a participar da gincana terá quantos jogadores?",
+    "options": [
+      {
+        "label": "a",
+        "text": "09.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "13.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2018-2018.2-q6",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 6,
+    "statement": "Três luzes, L1, L2 e L3, piscam em frequências diferentes ao longo do tempo t, de acordo com as funções $y=|\\sin(t)|$, $y=|\\sin(3t)|$ e $y=|\\sin(t+\\pi)|$ respectivamente, isto é, brilham na intensidade máxima quando sua respectiva função atinge o valor máximo e estão totalmente apagadas quando sua respectiva função atinge o valor mínimo. Nestas condições, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "As três luzes jamais ficam totalmente apagadas simultaneamente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Num intervalo de tempo no qual L1 atinge sua intensidade máxima por, pelo menos, duas vezes, L3 terá atingido seu brilho máximo mais do que duas vezes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "As três luzes jamais brilham na intensidade máxima simultaneamente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Num intervalo de tempo no qual L1 atinge sua intensidade máxima por, pelo menos, duas vezes, L2 terá atingido seu brilho máximo mais do que duas vezes.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2018-2018.2-q7",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 7,
+    "statement": "Para produzir seus pastéis aos finais de semana, a lanchonete Azul de Fome utiliza goma, aveia e ovo. Sexta: 20kg goma, 50kg aveia, 60 ovos, custo R$605. Sábado: 40kg goma, 120kg aveia, 120 ovos, custo R$1390. Domingo: 50kg goma, 150kg aveia, 160 ovos, custo R$1740. Os valores do quilograma da goma, do quilograma da aveia e da unidade do ovo são, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1,00, R$ 9,00, R$ 2,25.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 4,00, R$ 9,00, R$ 1,25.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 5,50, R$ 9,00, R$ 0,75.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 7,00, R$ 9,00, R$ 0,25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2018-2018.2-q8",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Um aplicativo para smartphone informa a altura com relação ao nível do mar em qualquer ponto do globo terrestre. A jovem Milena caminha num trecho de pista plana e começa a registrar o percurso no exato momento em que a inclinação passa a ser de 2°, parando o aplicativo após caminhar 4 quilômetros. Ela observa que o ângulo de inclinação se manteve constante em cada intervalo correspondente a 1 quilômetro, aumentando 2° na passagem de um quilômetro para outro. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ao final de cada quilômetro, Milena se encontra em um ponto cuja altura em relação ao nível do mar aumenta de um mesmo valor h.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Se Milena pudesse ir em linha reta, subindo com ângulo de inclinação constante pelos 4 quilômetros caminhados, então tal ângulo seria igual a 20°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Ao final de cada quilômetro, a altura de Milena em relação ao nível do mar aumenta de $tg2°$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Ao final do quarto quilômetro, Milena está em um ponto cuja altura em relação ao nível do mar é igual a $(\\sin2°+\\sin4°+\\sin6°+\\sin8°)$ quilômetros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2018-2018.2-q9",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 9,
+    "statement": "Dona Mariazinha vai ao mercado comprar carne de sol. A carne da marca \\\"Só o Filé\\\" vem em pacotes de 600g que custam R\\$12,60. Já a carne da marca \\\"Boi do Sertão\\\" é vendida em pacotes de 800g ao custo de R\\$16,00. Dona Mariazinha precisa de 9,6kg de carne. Para ter máxima economia, ela deve comprar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "16 pacotes de carne \"Só o Filé\".",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 pacotes de carne \"Boi do Sertão\".",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "08 pacotes de carne \"Só o Filé\" e 06 pacotes de carne \"Boi do Sertão\".",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 pacotes de carne \"Só o Filé\" e 03 pacotes de carne \"Boi do Sertão\".",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2018-2018.2-q10",
+    "examId": "mf-2018-2018.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 10,
+    "statement": "Em uma enquete entre estudantes de uma escola de ensino médio, buscava-se saber o que os estudantes fariam ao terminar o terceiro ano: (i) cursar faculdade, (ii) trabalhar, (iii) fazer cursos de capacitação. Dos 500 alunos desta escola, 30 querem fazer as três atividades, 140 querem fazer exatamente duas das três atividades e 28 não marcaram opção alguma. Quantos alunos desejam fazer apenas uma das três atividades?",
+    "options": [
+      {
+        "label": "a",
+        "text": "122.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "302.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "330.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "472.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
