@@ -16254,5 +16254,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2020.1-q29",
+    "examId": "cg-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 29,
+    "statement": "Os moradores de uma determinada cidade foram consultados a respeito dos seus hábitos alimentares. O resultado mostrou que 65\\% da população come legumes e 55\\% come carne. Sabendo que todos os moradores ingerem pelo menos 1 tipo de alimento citado na consulta, qual a parcela da população que não come carne?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "35%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "65%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2020.1-q30",
+    "examId": "cg-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 30,
+    "statement": "Hoje é domingo. Então, daqui a 123 dias será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Domingo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Terça-Feira.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Quinta-Feira.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Sábado.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2020.1-q31",
+    "examId": "cg-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 31,
+    "statement": "O iogurte Naturebis vem em copos em forma de tronco de cone com altura 7cm e diâmetros da base e da tampa iguais a 4cm e 6cm, respectivamente. Para alocar seis copos do iogurte Naturebis em uma caixa, com cada copo apoiado na caixa pela sua própria base e formando duas filas paralelas com 3 copos cada uma, esta caixa precisa ter, no mínimo, que volume?",
+    "options": [
+      {
+        "label": "a",
+        "text": "672cm³.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1260cm³.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1512cm³.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3024cm³.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2020.1-q32",
+    "examId": "cg-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 32,
+    "statement": "Na faculdade, um professor decide implantar um sistema ponderado de avaliação para a sua disciplina. O estudante fará 3 provas, cada uma delas com pontuação de 0 a 10. A primeira delas tem peso 1, a segunda tem peso 3 e a terceira, peso 5. Para ser aprovado, o aluno precisa obter média final igual ou superior a 8. Se Iraneide obteve nota 9,0 em cada uma das duas primeiras provas, qual a nota mínima que a terceira prova precisa ter para que ela obtenha aprovação nesta disciplina?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7,2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2020.1-q33",
+    "examId": "cg-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 33,
+    "statement": "Roberto acaba de comprar sua casa. O terreno tem dimensões 8m x 25m e tem um muro construído por todo o perímetro do terreno. Ele contrata uma empresa de segurança que instala cercas elétricas e que cobra 15 reais por cada metro (linear) instalado. No pagamento do serviço, a empresa oferece desconto de 10\\% no caso de pagamento à vista ou parcelamento em cartão de crédito em 12 prestações iguais. Roberto optou pelo pagamento parcelado, achando que seria sem juros, isto é, o valor total dividido em 12 parcelas iguais. Porém, ao chegar a fatura do cartão de crédito, percebeu que o valor da prestação era 2\\% maior que o esperado e se arrependeu por não ter pago à vista, com desconto. Ao final das 12 prestações, quanto Roberto deixou de economizar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 18,80.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 19,80.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 99,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 118,80.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2019-2020.1-q34",
+    "examId": "cg-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 34,
+    "statement": "O gráfico abaixo representa a área (em hectares) utilizada para plantação de arroz em Sobral, entre os anos de 2004 e 2018, segundo o IBGE (mostrando uma curva estável em torno de 65-70ha até 2012, seguida de uma forte queda até cerca de 10ha entre 2012 e 2014, permanecendo baixa até 2018). Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Entre 2012 e 2014 houve uma diminuição de cerca de 60ha de área de plantação.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Entre 2005 e 2007 houve um aumento de mais de 30ha de área de plantação.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2005, 2010 e 2018 foram os anos nos quais se registraram as menores áreas de plantio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O maior volume de produção de arroz em Sobral se deu entre 2007 e 2009.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2019-2020.1-q35",
+    "examId": "cg-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 35,
+    "statement": "A próxima Copa do Mundo de Futebol, organizada pela Federação Internacional de Futebol (FIFA), será disputada no Catar, em 2022, por 32 seleções divididas em 8 grupos com quatro equipes. Na primeira fase, as equipes de um mesmo grupo jogam todas contra todas, uma única vez. A entidade organizadora estuda mudanças para as edições posteriores do torneio. Uma das propostas seria aumentar para 40 seleções e dividi-las também em 8 grupos (mas de 5 participantes), mantendo-se a fórmula da disputa na primeira fase. Essa alteração acarretaria quantos jogos a mais nesta fase da competição?",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2020.1-q36",
+    "examId": "cg-2019-2020.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "Uma bicicleta aro 26 tem pneus iguais e o conjunto roda/pneu tem diâmetro de 26 polegadas. Quando um ciclista pedala a uma velocidade constante de 5m/s, cada pneu da bicicleta terá dado quantas voltas (por segundo)? [1 polegada = 2,54cm]",
+    "options": [
+      {
+        "label": "a",
+        "text": "Exatamente 1 volta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Entre 2 e 3 voltas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Exatamente 5 voltas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Entre 6 e 7 voltas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
