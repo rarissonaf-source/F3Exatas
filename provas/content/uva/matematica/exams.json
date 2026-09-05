@@ -382,5 +382,13 @@
     "edition": "2020.1",
     "examType": "geral",
     "sourceFile": "cg 2020.1.pdf"
+  },
+  {
+    "id": "cg-2020-2020.2",
+    "institution": "UVA",
+    "year": 2020,
+    "edition": "2020.2",
+    "examType": "geral",
+    "sourceFile": "cg 2020.2.pdf"
   }
 ]

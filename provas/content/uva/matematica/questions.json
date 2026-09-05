@@ -16510,5 +16510,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2020-2020.2-q29",
+    "examId": "cg-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 29,
+    "statement": "Na próxima terça-feira, o time de futebol da cidade de Bolândia completará mil dias sem derrota. A última vez em que esta equipe perdeu foi numa:",
+    "options": [
+      {
+        "label": "a",
+        "text": "segunda-feira.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "terça-feira.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "quarta-feira.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "quinta-feira.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2020-2020.2-q30",
+    "examId": "cg-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 30,
+    "statement": "Jonas e Joaquim partirão de Sobral para dois locais distintos. Para simular a aventura, eles recorrem a um mapa, que é uma aproximação planificada do globo terrestre. Jonas irá para um lugar que, de acordo com o mapa e partindo de Sobral, fica a Nordeste, numa direção que faz 35° com a direção norte. Para onde Joaquim irá, a Sudeste de Sobral, a direção é de 55° com a direção sul. Ao final das viagens, Jonas estaria a 30km de Sobral, enquanto Joaquim estaria a 40km de Sobral, considerando os trajetos em linha reta. Nessa simulação, qual a distância (em linha reta) entre os destinos de Jonas e Joaquim?",
+    "options": [
+      {
+        "label": "a",
+        "text": "50km.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45km.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40km.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30km.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2020-2020.2-q31",
+    "examId": "cg-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 31,
+    "statement": "Duas empresas alugam cama elástica, o famoso pula-pula, para eventos infantis. O valor cobrado leva em conta o custo de montagem e o tempo de uso do equipamento. Para disponibilizar um pula-pula por t horas de evento, a empresa A cobra 60+5t reais e a empresa B cobra 50+7t reais. Os equipamentos têm exatamente as mesmas especificações e medidas. Para cinco horas de evento, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A empresa A tem menor preço.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A empresa B tem menor preço.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A escolha entre estas empresas não faz diferença em termos de custo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não é possível saber qual a melhor escolha até que se saiba quantas crianças estarão presentes no evento.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2020-2020.2-q32",
+    "examId": "cg-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 32,
+    "statement": "No ano de 2080, a presidente do Brasil aprovará nova forma de cobrança de imposto de renda das pessoas. Aqueles que receberem menos de 10 mil reais mensais estarão isentos do imposto. A partir daí, os salários são divididos em faixas: na Faixa 1 estão os salários a partir de 10 mil reais, mas inferiores a 20 mil reais. Na Faixa 2, os salários a partir de 20 mil reais e inferiores a 30 mil reais. Com raciocínio análogo se constituem as demais faixas. Para os salários da Faixa 1, serão cobrados impostos mensais de 2\\%. Na Faixa 2 o imposto pago será de 4\\%. Na Faixa 3 de 6\\% e assim por diante. Porém, o teto de cobrança de imposto será de 32\\%. Nesse formato, um professor que recebe mensalmente 105 mil reais pagará quanto de imposto de renda mensalmente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10,5 mil reais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11,55 mil reais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "21 mil reais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "23,1 mil reais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2020-2020.2-q33",
+    "examId": "cg-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 33,
+    "statement": "No filme Inferno, baseado no livro de Dan Brown, o personagem Bertrand Zobrist defende uma diminuição forçada da população do planeta para que não haja um colapso. Ele usa o exemplo da bactéria que se divide em duas a cada minuto, gerando uma população que, ao final de uma hora, ocupa totalmente uma proveta (recipiente de vidro). Se esse experimento se iniciou com apenas 1 bactéria, após quantos minutos a população de bactérias ocupava a metade da proveta?",
+    "options": [
+      {
+        "label": "a",
+        "text": "15 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "59 minutos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2020-2020.2-q34",
+    "examId": "cg-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 34,
+    "statement": "Em 365 dias, 5 horas, 48 minutos e 46 segundos o planeta Terra dá uma volta completa em torno do Sol. Assim, para ser preciso, um ano tem 365 dias e:",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,4846 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,812777... horas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,846 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6 horas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2020-2020.2-q35",
+    "examId": "cg-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 35,
+    "statement": "Uma pequena fábrica produz um único modelo de guarda-chuva. Cada funcionário é responsável pela fabricação diária de 24 peças. Joelma faltou na terça-feira e na quarta-feira. Cíntia faltou na quarta-feira. Sempre que um funcionário falta, a produção que deveria ser deste funcionário naquele dia é dividida igualmente entre os funcionários presentes. Suelem e Matias, os outros dois funcionários da fábrica, produziram juntos nos dois dias em que Joelma faltou:",
+    "options": [
+      {
+        "label": "a",
+        "text": "48 guarda-chuvas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "80 guarda-chuvas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "160 guarda-chuvas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "192 guarda-chuvas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2020-2020.2-q36",
+    "examId": "cg-2020-2020.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 36,
+    "statement": "Em um site que compara preços de produtos em diversas lojas virtuais, Elisalene procurava informações sobre uma TV. Ela se deparou com um gráfico que mostrava de agosto de 2019 a janeiro de 2020, mês a mês, o menor valor para a TV (independentemente da loja que praticava tal preço): AGO≈1970, SET≈1710, OUT≈1790, NOV≈1710, DEZ≈1600, JAN≈1620. Pelo que se vê acima, qual o menor valor praticado (aproximadamente) de agosto de 2019 a janeiro de 2020?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1.600,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1.700,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1.820,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.960,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
