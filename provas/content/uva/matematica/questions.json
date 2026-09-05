@@ -8638,5 +8638,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2017-2017.1-q1",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 1,
+    "statement": "Uma circunferência de raio R tem centro na origem O do plano cartesiano. Tangenciando a circunferência no ponto T, no primeiro quadrante, tem-se a reta s, que encontra também os eixos coordenados X e Y nos pontos A e B, respectivamente. Sendo x o ângulo $A\\hat{O}T$, a medida do segmento AB é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$R/(\\sin x\\cdot\\cos x)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\cdot R\\cdot tg\\,x$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$R^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$R\\cdot\\sin x\\cdot\\cos x$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2017-2017.1-q2",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 2,
+    "statement": "Sabe-se que a=3 é uma das raízes do polinômio $p(x)=2x^4-18x^3+58x^2-78x+36$. Ao todo, este polinômio possui quantas raízes distintas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2017-2017.1-q3",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "Dois círculos, de raios R e r com R>r, são concêntricos. A coroa circular obtida ao se retirar do círculo maior, o círculo de menor raio, tem área que equivale à metade da área do círculo maior. A relação entre R e r é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "r=2R.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "r=0,5R.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$r=\\sqrt{2}R$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$r=\\dfrac{\\sqrt{2}}{2}R$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2017-2017.1-q4",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 4,
+    "statement": "Um artista plástico usa suas técnicas de entalhe em madeira para, de um cubo de aresta x, retirar um paralelepípedo de altura x/2, largura x/3 e comprimento x/5. Qual o volume da peça resultante?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Um trinta avos do volume do cubo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Sete trinta avos do volume do cubo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Onze trinta avos do volume do cubo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Vinte e nove trinta avos do volume do cubo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2017-2017.1-q5",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 5,
+    "statement": "Assinale a alternativa que não contém uma raiz da equação $z^6=1$ com z pertencente ao conjunto dos números complexos.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(1+i\\sqrt{3})/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(-1-i\\sqrt{3})/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(\\sqrt{3}+i)/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2017-2017.1-q6",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 6,
+    "statement": "A intersecção entre a reta y=3 e o gráfico da função $f(x)=\\begin{cases}-x,&x<-1\\\\1,&-1\\le x\\le1\\\\x^2,&x>1\\end{cases}$ é o conjunto:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{(-3,3),(\\sqrt{3},3)\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{(3,-3),(\\sqrt{3},3)\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{(1,3),(3,9)\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{(-3,3),(0,3),(\\sqrt{3},3)\\}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2017-2017.1-q7",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Sendo $A=[a_{ij}]_{2\\times2}$, onde $a_{ij}=2i-j$, e I a matriz identidade de ordem 2x2, então as raízes do polinômio $p(x)=\\det(A-xI)$ são:",
+    "options": [
+      {
+        "label": "a",
+        "text": "{0,1,2,3}.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "{1,2}.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "{0,3}.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "{2,3}.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2017-2017.1-q8",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 8,
+    "statement": "Um trabalhador fez um investimento de R\\$200,00. O rendimento depois de três meses foi de 1,5%. Na retirada do dinheiro, para sua surpresa, o banco cobrou uma taxa de 1,5% sobre o valor a ser retirado. Quanto o trabalhador pode retirar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 202,96.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 200,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 199,96.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 197,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2017-2017.1-q9",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 9,
+    "statement": "Considerando os conjuntos não vazios A, B, C, sabe-se que $A\\cap B\\cap C$ é não vazio, que $x\\in A\\cup B$, $x\\in A\\cap C$ e que $x\\notin B\\cap C$. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x\\in B$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x\\in B-A$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x\\in C-A$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x\\in C-B$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2017-2017.1-q10",
+    "examId": "mf-2017-2017.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 10,
+    "statement": "Considerando as funções $f(x)=x^2$ e $g(x)=e^x$, a imagem da função composta $g\\circ f$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$[1,+\\infty)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(0,+\\infty)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(-\\infty,+\\infty)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$[-1,+\\infty)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2017-2017.2-q1",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Os números x e y são tais que $x^2-y^2=335$. Quantas são as possibilidades para o par (x,y)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2017-2017.2-q2",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Considere um retângulo PQRS de área A. Sejam U e V os pontos médios dos lados que não contêm P. Qual a área do triângulo PUV?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2A/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3A/8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2A/5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2017-2017.2-q3",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 3,
+    "statement": "Seja C uma circunferência de raio 2, centro no ponto (4,0,0) do espaço tridimensional e contida no plano XY. Fazendo a rotação em torno do eixo Z, obtém-se um sólido de revolução chamado toro. Qual o volume deste objeto?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$16\\pi^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$24\\pi^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$32\\pi^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$48\\pi^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2017-2017.2-q4",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 4,
+    "statement": "Qual o número de intersecções entre os gráficos de $f(x)=\\sin(x)$ e $g(x)=\\sin(3x)$ no intervalo $[0,2\\pi]$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2017-2017.2-q5",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 5,
+    "statement": "Seja $f:N\\to R$ definida por $f(n)=\\sin(n\\pi/2)$, onde N é o conjunto dos números naturais e R o conjunto dos números reais. Qual o valor de f(2017)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2017-2017.2-q6",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Duas circunferências, de raios R e r são tangentes externamente. Considere a reta t tangente a ambas as circunferências nos pontos distintos A e B. Qual a distância entre os pontos A e B?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt{Rr}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{2(R^2+r^2)}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{2(R^2-r^2)}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{2Rr}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2017-2017.2-q7",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Seja z um número complexo de módulo |z| e argumento $\\theta$. Sendo $w=|z|(\\sin\\theta+i\\cos\\theta)$, assinale a alternativa que representa o produto z.w:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2|z|^2\\sin\\theta\\cos\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$i|z|^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$i|z|^2\\cos(2\\theta)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-|z|^2\\cos(2\\theta)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2017-2017.2-q8",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 8,
+    "statement": "A circunferência da figura tem raio 1 e centro na origem do plano cartesiano. O ponto B está sobre o eixo das abscissas. Nessas condições, a medida do segmento OA vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sec(x)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sin(x)+\\cos(x)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1-tg(x)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1+tg(x)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2017-2017.2-q9",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 9,
+    "statement": "Considere a função polinomial $f(x)=x^3+2x^2-5x$. Assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f é positiva no conjunto $(-\\infty;-1-\\sqrt{6})\\cup(0;1+\\sqrt{6})$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f é negativa no conjunto $(-1-\\sqrt{6};0)\\cup(-1+\\sqrt{6};+\\infty)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "f é negativa no conjunto $(-\\infty;-1-\\sqrt{6})\\cup(0;-1+\\sqrt{6})$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f é negativa para todo x<0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2017-2017.2-q10",
+    "examId": "mf-2017-2017.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "Dada a elipse E cuja equação é $12x^2+19y^2=21$. Seja C a circunferência de centro na origem do plano cartesiano e que tangencia E em exatamente dois pontos. Assinale a alternativa que representa o menor valor possível para o raio de C:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{21/12}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{21/19}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "21/12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "21/19.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
