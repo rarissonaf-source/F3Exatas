@@ -12670,5 +12670,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2012-2012.2-q29",
+    "examId": "cg-2012-2012.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 29,
+    "statement": "No calendário de um ano não bissexto, quantas vezes aparece o algarismo 2?",
+    "options": [
+      {
+        "label": "a",
+        "text": "143",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "144",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "155",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "156",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2012-2012.2-q30",
+    "examId": "cg-2012-2012.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 30,
+    "statement": "Ao entrar na Universidade, o aluno terá acesso ao Portal de Informações do Aluno, ambiente no qual poderá acompanhar sua vida acadêmica. Para usar os serviços deste portal, o estudante terá que cadastrar uma senha alfanumérica (formada de números e letras) de exatamente 4 posições, onde são permitidos dígitos de \\\"1\\\" a \\\"9\\\" e letras minúsculas de \\\"a\\\" a \\\"z\\\" (inclusive \\\"k\\\", \\\"w\\\" e \\\"y\\\"). A senha só será válida se as 4 posições forem preenchidas, contiver pelo menos uma letra, não possuir elementos repetidos e o dígito da primeira posição não for igual a primeira letra do primeiro nome do estudante. Quantas senhas válidas são possíveis para cada usuário?",
+    "options": [
+      {
+        "label": "a",
+        "text": "200.256",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "209.496",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.217.712",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.253.616",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2012-2012.2-q31",
+    "examId": "cg-2012-2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "Na cidade de Ouro Rosa, a prefeitura determinou que a área coberta de um imóvel deve ser de no máximo 40\\% da área total do terreno a ser utilizado. Supondo que se queira construir um imóvel com 5 cômodos com áreas iguais num terreno quadrado de lado x metros, a área máxima de cada cômodo será de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x^2/5\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x^2/25\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2x^2/25\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4x^2/25\\ m^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2012-2012.2-q32",
+    "examId": "cg-2012-2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 32,
+    "statement": "Sobre cada face de um tetraedro regular T, é colada uma face de um outro tetraedro regular de aresta com igual comprimento da de T. O novo sólido possui:",
+    "options": [
+      {
+        "label": "a",
+        "text": "9 faces.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 faces.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 faces.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30 faces.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2012-2012.2-q33",
+    "examId": "cg-2012-2012.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "Sabendo que $\\log 254=2,404$, então $\\log(254/10)+\\log(254/100)$ vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,808.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,606.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,808.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2012-2012.2-q34",
+    "examId": "cg-2012-2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 34,
+    "statement": "Que conjunto melhor representa a região descrita na figura a seguir (duas retas paralelas descendentes, uma de (0,2) a (2,0) e outra de (0,0) a (2,-2), delimitando uma faixa diagonal)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$0\\le x+y\\le2$ com $x\\in[0,2]$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$0\\le|x+y|\\le2$ com $x\\in[-2,2]$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$0\\le x-y\\le2$ com $x\\in[0,2]$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$0\\le|x-y|\\le2$ com $x\\in[-2,2]$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2012-2012.2-q35",
+    "examId": "cg-2012-2012.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 35,
+    "statement": "A figura a seguir representa o gráfico de uma função F contínua no intervalo [0,d] (decrescente de s a r em [0,a], crescente de r a t em [a,b], constante em t em [b,c], crescente de t a u em [c,d]). É correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "F é crescente no intervalo [b,c].",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "F é decrescente no intervalo [a,b].",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "F é crescente no intervalo [a,d].",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "F é não crescente no intervalo [b,c].",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2012-2012.2-q36",
+    "examId": "cg-2012-2012.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 36,
+    "statement": "Seja $f:[a,b]\\to[c,d]$ uma função decrescente, isto é, se $x_1,x_2\\in[a,b]$ e $x_1<x_2$, então $f(x_1)>f(x_2)$. Nessas condições, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f(a) = c e f(b) = d.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{f(a)+f(b)}{2}=\\dfrac{c+d}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$f\\left(\\dfrac{ab}{2}\\right)=\\dfrac{cd}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$f\\left(\\dfrac{a-b}{2}\\right)=\\dfrac{c-d}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
   }
 ]
