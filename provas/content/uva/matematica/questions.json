@@ -15998,5 +15998,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2019-2019.2-q29",
+    "examId": "cg-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 29,
+    "statement": "Uma fazenda é deixada como herança e sua área é dividida igualmente entre 5 irmãos. Porém, após alguns anos, outros dois filhos do falecido dono da fazenda foram reconhecidos, de modo que a fazenda teve que passar por nova divisão, de maneira igualitária entre todos os irmãos ora reconhecidos. Desta forma, depois da segunda partilha, sobre a área destinada a cada um dos cinco primeiros filhos, é correto afirmar:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Aumentou 2/35.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Diminuiu 2/35.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Aumentou 1/5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Diminuiu 1/5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2019-2019.2-q30",
+    "examId": "cg-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 30,
+    "statement": "A temporada 2018-2019 do campeonato belga de futebol terminou no último dia 19 de maio, com a equipe do Genk sendo campeã após obter 63 pontos. Como na maioria dos demais campeonatos, cada equipe joga contra cada uma das outras equipes duas vezes; uma no seu estádio e a outra no estádio do adversário. Quem vence marca 3 pontos, em caso de empate cada equipe marca 1 ponto, e a equipe que perde não marca pontos. Sabendo que o campeonato contou com 16 equipes, assinale a alternativa correta sobre a campanha do Genk nesta temporada:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Em média, a cada dois jogos, a equipe venceu uma partida e empatou outra.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A equipe venceu 21 jogos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Em média, a cada 10 jogos, a equipe venceu 7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A equipe perdeu 9 jogos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2019.2-q31",
+    "examId": "cg-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 31,
+    "statement": "Para investigar a obesidade infantil, uma escola aferiu a massa corporal de 20 crianças com 4 anos (que, segundo a Organização Mundial de Saúde, deve ser entre 14,4kg e 18,8kg), obtendo-se os seguintes dados (em quilogramas): 15,16,16,13,12,20,15,22,15,20,16,15,15,19,14,24,20,14,12,16. A mediana observada nessa coleta de dados é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16,45.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2019-2019.2-q32",
+    "examId": "cg-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 32,
+    "statement": "De um grupo de cinco pessoas, a saber, as meninas Maria e Raimunda, e os meninos João, José e Joaquim, serão sorteadas duas pessoas. Dentre todas as possibilidades, em quantas ocorre de uma menina e um menino serem os sorteados?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Em 30% delas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Em 50% delas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Em 60% delas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Em 90% delas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2019-2019.2-q33",
+    "examId": "cg-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 33,
+    "statement": "Uma empresa pagou pela exibição de um comercial em uma grande rede de televisão. Pelo contrato, o comercial deve ser exibido a cada 50min em um período de 24h. Se a primeira exibição ocorreu às 13h da quarta-feira, quando será a última exibição prevista em contrato?",
+    "options": [
+      {
+        "label": "a",
+        "text": "12h50min da quinta-feira.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12h40min da quinta-feira.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12h30min da quinta-feira.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12h20min da quinta-feira.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2019.2-q34",
+    "examId": "cg-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 34,
+    "statement": "Num supermercado que dá descontos para compras no atacado, Mariana comprou 5 quilos de arroz e 6 quilos de açúcar, pagando R\\$27,30. Se tivesse comprado 10 quilogramas de cada, teria um desconto de 0,20 centavos no preço de cada item e pagaria R\\$46,00 no total. Quais os valores cobrados no arroz e no açúcar, respectivamente, para compras em grande quantidade?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 0,30 e R$ 4,30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 2,50 e R$ 2,10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 2,70 e R$ 2,30.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 2,90 e R$ 2,50.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2019-2019.2-q35",
+    "examId": "cg-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 35,
+    "statement": "Seja M o conjunto dos meses do ano (janeiro, fevereiro, ..., dezembro) e D o conjunto dos dias da semana (segunda, terça, ..., domingo). Considere o conjunto $A=\\{(janeiro,segunda),(janeiro,terça),(dezembro,terça),(novembro,quarta)\\}$ e assinale a alternativa correta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A é uma relação de M em D.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A é uma função de M em D.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A é um subconjunto de M.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A possui 6 elementos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2019-2019.2-q36",
+    "examId": "cg-2019-2019.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 36,
+    "statement": "Qual o menor ângulo formado pelos ponteiros das horas e dos minutos às 6h25min?",
+    "options": [
+      {
+        "label": "a",
+        "text": "12,5°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "42,5°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
