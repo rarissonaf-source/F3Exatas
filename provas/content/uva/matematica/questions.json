@@ -19806,5 +19806,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.2-q29",
+    "examId": "cg-2009-2009.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Se na expressão $xy^2$, os valores de x e y são ambos diminuídos em 25\\%, então o valor da expressão fica:",
+    "options": [
+      {
+        "label": "a",
+        "text": "diminuído 50%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diminuído 75%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "diminuído $\\dfrac{37}{64}$ do seu valor.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "diminuído $\\dfrac{27}{64}$ do seu valor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2009-2009.2-q30",
+    "examId": "cg-2009-2009.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 30,
+    "statement": "O número $1+2\\sqrt{2}$ é igual à raiz quadrada de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$9+4\\sqrt{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3+3\\sqrt{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9+3\\sqrt{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$9+5\\sqrt{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.2-q31",
+    "examId": "cg-2009-2009.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 31,
+    "statement": "A soma dos quadrados dos primeiros n inteiros positivos é dada pela expressão $\\dfrac{n(n+c)\\cdot(2n+k)}{6}$, se c e k são, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 e 2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 e 5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 e 1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2 e 2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2009-2009.2-q32",
+    "examId": "cg-2009-2009.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "A área hachurada é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{(k^2+k_1^2)}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$k-k_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$k^2-k_1^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(k+k_1)^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.2-q33",
+    "examId": "cg-2009-2009.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "Sendo $P(x)=Q(x)+x^2+x+1$ e sabendo-se que 2 é raiz de P(x) e que 1 é raiz de Q(x) então P(1)-Q(2) vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2009-2009.2-q34",
+    "examId": "cg-2009-2009.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 34,
+    "statement": "Os números x, y e z são proporcionais a 2, 3 e 5. A soma de x, y e z é 100. O número y é dado pela equação y=kx-10. Então k é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.2-q35",
+    "examId": "cg-2009-2009.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 35,
+    "statement": "Se x+y=1, então o maior valor de xy é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,25.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "um número irracional aproximado igual a 0,4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2009-2009.2-q36",
+    "examId": "cg-2009-2009.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 36,
+    "statement": "O determinante associado à matriz $\\begin{pmatrix}y&2&1\\\\0&2y&-1\\\\4&3&2\\end{pmatrix}$ é igual à maior das raízes da equação $|10+x|=2$. O menor valor de y é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5/4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
