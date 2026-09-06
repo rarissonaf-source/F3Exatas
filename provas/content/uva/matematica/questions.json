@@ -19230,5 +19230,581 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2009-2009.1-q29",
+    "examId": "cg-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 29,
+    "statement": "Uma sala possui 40 alunos, dos quais 30 estudam Álgebra, 13 estudam Biologia e 10 estudam simultaneamente Álgebra e Biologia. Quantos, dentre os alunos da sala, não estudam pelo menos uma das duas matérias?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2009-2009.1-q30",
+    "examId": "cg-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 30,
+    "statement": "Três pessoas têm, atualmente, idades que estão em uma progressão aritmética de razão 4. Daqui a cinco anos, suas idades:",
+    "options": [
+      {
+        "label": "a",
+        "text": "estarão em uma progressão aritmética de razão 3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "estarão em uma progressão aritmética de razão 5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "não estarão em uma progressão aritmética.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "estarão em uma progressão aritmética de razão 4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2009-2009.1-q31",
+    "examId": "cg-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 31,
+    "statement": "A soma das raízes da equação $|x-2|-x|x+1|=2$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2009-2009.1-q32",
+    "examId": "cg-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 32,
+    "statement": "Sendo $\\alpha+\\beta+\\gamma=\\pi$, então $tg(\\alpha+\\beta)$ vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$tg\\,\\gamma$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-tg\\,\\gamma$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2009-2009.1-q33",
+    "examId": "cg-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "O valor do determinante $\\begin{vmatrix}a&a&a&a\\\\a&b&b&b\\\\a&b&c&c\\\\a&b&c&d\\end{vmatrix}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a(b-a)(c-b)(d-c).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a(b-a)(c-b).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a(b-a)(d-c).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a(b-a).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.1-q34",
+    "examId": "cg-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 34,
+    "statement": "Assinale a alternativa incorreta:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Se f é inversível, então f é injetiva.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Se f é bijetiva, então f é inversível.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Se f é estritamente crescente, então f é injetiva.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Se f é par, então f não é ímpar.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2009-2009.1-q35",
+    "examId": "cg-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 35,
+    "statement": "Considerando as retas que passam pelas arestas de um cubo, determine quantas são as retas reversas a uma determinada aresta.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2009-2009.1-q36",
+    "examId": "cg-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 36,
+    "statement": "Sendo $P(x)=(x^2+x-1)^{50}$, a diferença entre o termo independente de P(x) e a soma dos coeficientes de P(x) vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "126.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "64.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2009-2009.1-q1",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 1,
+    "statement": "A expressão $\\cos\\left(\\text{arc sen}\\,\\dfrac{3}{5}+\\text{arc sen}\\,\\dfrac{5}{13}\\right)$ pode ser idêntica a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "33/67.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "33/55.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "33/65.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "33/37.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2009-2009.1-q2",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 2,
+    "statement": "Seja o polinômio $P(x)=a_0+a_1x+a_2x^2+\\ldots+a_nx^n$ divisível por $H(x)=x-1$. Se os coeficientes $a_0,a_1,a_2,\\ldots,a_n$ estão em progressão aritmética, então podemos garantir que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$a_0=a_n$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$a_0=-a_n$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$a_0=2a_n$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$a_0=-2a_n$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2009-2009.1-q3",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "Dois vértices de um triângulo são (2,-4) e (-2,-3). A ordenada do terceiro vértice é 10. Qual a sua abscissa, se o triângulo tem área 8?",
+    "options": [
+      {
+        "label": "a",
+        "text": "x=-38 ou x=-70.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "x=38 ou x=70.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x=-38 ou x=70.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "x=38 ou x=-70.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2009-2009.1-q4",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 4,
+    "statement": "Uma pirâmide quadrangular regular tem de volume $64\\,m^3$ e o lado da base é igual a 8m. A distância do centro da base a uma das faces laterais é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,4 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,4 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4,4 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5,4 metros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2009-2009.1-q5",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 5,
+    "statement": "O terceiro termo de uma progressão aritmética é 4x+y e o oitavo termo é 9x+6y. Podemos concluir que a razão é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "x+y.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2x+3y.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x+2y.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2x+4y.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2009-2009.1-q6",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 6,
+    "statement": "A soma das três dimensões de um paralelepípedo retângulo é 15m e a área total $200m^2$. Qual a medida da diagonal desse paralelepípedo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 metros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7 metros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2009-2009.1-q7",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 7,
+    "statement": "O produto de 2 termos consecutivos do desenvolvimento de $\\left(x+\\dfrac{1}{2x}\\right)^{10}$ é $\\dfrac{225x^{14}}{4}$. Quais os termos?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$T_4$ e $T_5$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$T_3$ e $T_4$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$T_2$ e $T_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$T_5$ e $T_6$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2009-2009.1-q8",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Seja $f:\\mathbb{N}^+\\to\\mathbb{R}$ dada pela recorrência abaixo: $f(1)=1$; $f(2)=1+3$; $f(3)=1+3+5$; $f(4)=1+3+5+7$; ... Concluímos que $\\dfrac{f(1000)-f(100)}{f(10)}$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "990.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9900.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2800.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8900.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2009-2009.1-q9",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 9,
+    "statement": "Aproveitando uma parte de um muro já existente e 100 metros de tela de arame, deseja-se construir uma cerca retangular para guarnecer uma quadra de tênis. Nessas condições, a área máxima cercada é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1275 m².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1250 m².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1225 m².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1245 m².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2009-2009.1-q10",
+    "examId": "mf-2009-2009.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 10,
+    "statement": "Empregando fatorial, o produto dos múltiplos de 6 compreendidos entre 11 e 55 é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "9!.6⁸.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8!.6⁹.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8!.6⁶.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9!.6¹⁰.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
