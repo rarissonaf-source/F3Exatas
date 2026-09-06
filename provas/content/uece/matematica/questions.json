@@ -318,5 +318,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-q39",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 39,
+    "statement": "A média aritmética das notas obtidas pelos 100 candidatos que realizaram a primeira prova de um Concurso foi 62,75. A média aritmética das notas dos candidatos do sexo masculino foi 65 e a dos candidatos do sexo feminino foi 60. Os números de candidatos, por sexo, foram",
+    "options": [
+      {
+        "label": "a",
+        "text": "45 homens e 55 mulheres.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50 homens e 50 mulheres.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "55 homens e 45 mulheres.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60 homens e 40 mulheres.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-q40",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 40,
+    "statement": "Na figura, as duas circunferências são tangentes, o centro da circunferência maior é um ponto da circunferência menor e o diâmetro da circunferência maior mede 4cm. A área da região hachurada é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi^2\\ cm^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\pi^2\\ cm^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\pi\\ cm^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi\\ cm^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2/q40.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-q41",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 41,
+    "statement": "Se a interseção de um plano com uma esfera cujo raio mede 8m é uma circunferência com raio medindo 6m, então a distância entre o centro da circunferência e o centro da esfera é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt{7}\\ m$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt{3}\\ m$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\sqrt{2}\\ m$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\sqrt{3}\\ m$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-q42",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 42,
+    "statement": "Uma empresa, na qual todos os empregados têm salários iguais, dispensou 20% de seus funcionários e concedeu, aos que permaneceram, um aumento que elevou em 10% o valor da folha de pagamento. Mantida a política de salários iguais, cada funcionário desta empresa teve um aumento salarial de",
+    "options": [
+      {
+        "label": "a",
+        "text": "40,5%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "39,5%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "38,5%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "37,5%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-q43",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 43,
+    "statement": "Se $tg\\dfrac{x}{2}+\\cot g\\dfrac{x}{2}=8$, então $\\text{sen}\\,x$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{4}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt{2}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\sqrt{3}}{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-q44",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 44,
+    "statement": "O gráfico da função quadrática $f(x)=ax^2+bx$ é uma parábola cujo vértice é o ponto (1,-2). O número de elementos do conjunto $X=\\{(-2,12),(-1,6),(3,8),(4,16)\\}$ que pertencem ao gráfico desta função é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-q45",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 45,
+    "statement": "Se o polinômio $p(x)=x^3+3x^2+4x+12$ pode ser fatorado como $p(x)=(x+a)(x^2+b)$, o valor de p(a - b) é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-q46",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 46,
+    "statement": "A medida do raio da circunferência inscrita no triângulo retângulo cujos catetos medem, respectivamente, 3m e 4m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,0m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,8m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,2m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,0m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-q47",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 47,
+    "statement": "O número de divisores pares e positivos do número 2520 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "36",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "144",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-q48",
+    "examId": "2006.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 48,
+    "statement": "O custo C de operação de uma empresa é a soma dos custos $C_1=R\\$\\,20.000,00$, $C_2=R\\$\\,12.000,00$ e $C_3=R\\$\\,15.000,00$. Com uma redução de 15% no custo $C_1$, 20% em $C_2$ e 18% em $C_3$, obtém-se uma redução percentual do custo total C que se situa entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "22% e 23%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "21% e 22%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20% e 21%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "17% e 20%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

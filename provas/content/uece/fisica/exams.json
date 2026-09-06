@@ -6,5 +6,13 @@
     "edition": "2006.1",
     "examType": "geral",
     "sourceFile": "UECE 2006.1 - PROVA - INGLES.doc"
+  },
+  {
+    "id": "2006.2",
+    "institution": "UECE",
+    "year": 2006,
+    "edition": "2006.2",
+    "examType": "geral",
+    "sourceFile": "UECE 2006.2 - PROVA - INGLES.pdf"
   }
 ]

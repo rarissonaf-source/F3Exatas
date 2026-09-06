@@ -190,5 +190,197 @@
     ],
     "imagePath": "2006.1/q54.png",
     "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-q49",
+    "examId": "2006.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 49,
+    "statement": "A figura é um gráfico aproximado da força exercida durante um choque de uma bola de tênis com uma parede. A massa da bola é 40g, sua velocidade inicial é igual a 32 m/s e sua direção é perpendicular à parede. Ela recua sem perder velocidade e também perpendicularmente à parede. Determine, em N, a força máxima exercida pela parede sobre a bola.",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,64",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,40",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,32",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,20",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2/q49.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-q50",
+    "examId": "2006.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 50,
+    "statement": "Uma bola é largada, a partir do repouso, de uma altura de h (m). O vento está soprando horizontalmente em uma direção constante e imprime à bola uma aceleração horizontal constante a (m/s²). Supondo que a aceleração da gravidade é constante e igual a g (m/s²), o módulo da velocidade com que a bola atinge o solo, em m/s, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{2h\\dfrac{(g^2+a^2)}{g}}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{2h(g+a)}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{2h(g^2+a^2)}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{2\\dfrac{(g^2+a^2)}{h}}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-q51",
+    "examId": "2006.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 51,
+    "statement": "Em uma sala de 3m de pé direito, o condicionador de ar é montado a, mais ou menos, 2m do chão (Posição P). É claro que é possível montá-lo a 1m do chão (Posição Q). Montado na posição P, o aparelho tem melhor desempenho em virtude, principalmente, da:",
+    "options": [
+      {
+        "label": "a",
+        "text": "radiação",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "convecção",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "condução",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "radiação e da condução",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-q52",
+    "examId": "2006.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 52,
+    "statement": "Considere duas radiações visíveis, uma azul e uma vermelha. Sejam $\\lambda_a$ e $f_a$, respectivamente, o comprimento de onda e a frequência da radiação azul e $\\lambda_v$ e $f_v$, nesta ordem, o comprimento de onda e a frequência da radiação vermelha. É correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$f_a<f_v$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\lambda_a>\\lambda_v$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\lambda_a}{\\lambda_v}=\\dfrac{f_v}{f_a}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\lambda_a}{\\lambda_v}=\\dfrac{f_a}{f_v}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-q53",
+    "examId": "2006.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 53,
+    "statement": "Um ohmímetro é ligado aos pontos P e Q do circuito visto na figura. A resistência R, entre os pontos P e Q, é lida no visor do instrumento. O valor de R, em ohms, é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2/q53.png",
+    "annulled": true
+  },
+  {
+    "id": "2006.2-q54",
+    "examId": "2006.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 54,
+    "statement": "O raio da Terra é aproximadamente igual a $6\\times10^6m$ e a distância da Terra ao Sol é igual a $1,5\\times10^8\\ km$. Da radiação emitida pelo Sol, a fração que é interceptada pela Terra é, aproximadamente, igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4\\times10^{-12}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4\\times10^{-10}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4\\times10^{-8}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\times10^{-6}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
