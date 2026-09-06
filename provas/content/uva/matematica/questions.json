@@ -21214,5 +21214,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q1",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Em uma agência bancária, cinco caixas atendem os clientes em fila única. Suponha que o atendimento de cada cliente demore exatamente três minutos e que o caixa um atenda o primeiro da fila ao mesmo tempo em que o caixa dois atenda o segundo, o caixa três atenda o terceiro e assim sucessivamente. Quantos minutos, depois da abertura dos caixas, será iniciado o atendimento do sexagésimo oitavo cliente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "49.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "39.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "59.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "19.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q2",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 2,
+    "statement": "A sequência (log 20, log 200, log 2000, ...) é uma:",
+    "options": [
+      {
+        "label": "a",
+        "text": "progressão geométrica de razão log 10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "progressão aritmética de razão 1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "progressão aritmética de razão 1 + log 2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "progressão geométrica de razão 10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q3",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 3,
+    "statement": "Quantos são os possíveis valores inteiros de k para que $\\dfrac{k+99}{k+19}$ seja um número inteiro?",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q4",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "O coeficiente angular da reta tangente à elipse $\\dfrac{x^2}{16}+\\dfrac{y^2}{9}=1$ no primeiro quadrante e que corta o eixo das abscissas no ponto P=(8,0) é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\sqrt{2}}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt{2}}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-\\dfrac{\\sqrt{3}}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-\\dfrac{1}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q5",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "De dois polígonos convexos, um tem a mais que o outro 6 lados e 39 diagonais. Então, a soma total dos números de vértices e de diagonais dos dois polígonos é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "62.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "64.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "65.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "67.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q6",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 6,
+    "statement": "A condição que devem satisfazer os parâmetros k e $k_1$ para que o sistema $\\begin{cases}z+2x=1\\\\kx+3y+ukz=4\\\\3x+kz=k_1\\end{cases}$ não tenha solução é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$k=\\dfrac{3}{2}$ e $k_1\\ne\\dfrac{3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$k\\ne\\dfrac{3}{2}$ e $k_1=\\dfrac{3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$k+k_1=\\dfrac{6}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$k=k_1=\\dfrac{3}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q7",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 7,
+    "statement": "Uma pessoa x chega às 14 horas para um encontro que havia marcado com uma pessoa y. Como y não chegara ainda, x resolveu esperar um tempo $t_1$ igual a meia hora e, após isso, um tempo $t_2=\\dfrac{1}{2}t_1$ e, após, um tempo $t_3=\\dfrac{1}{2}t_2$ e assim por diante. Se y não veio ao encontro, quanto tempo x esperou até ir embora?",
+    "options": [
+      {
+        "label": "a",
+        "text": "cerca de um ano.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o resto da vida.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 hora.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25 horas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q8",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Sejam f e g funções definidas por $f(x)=5x-3$ e $g(x)=2x+c$. Determine c para que $(f\\circ g)(x)=(g\\circ f)(x)$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-3/4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q9",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 9,
+    "statement": "Diego comprou 2 balas para cada aluno de uma 8ª série. Mas como os meninos andavam meio barulhentos, ele resolveu redistribuir essas balas, dando 5 para cada menina e apenas 1 para cada menino. Podemos concluir que na 8ª série:",
+    "options": [
+      {
+        "label": "a",
+        "text": "20% são meninos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30% são meninas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75% são meninos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50% são meninas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q10",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "Um cone circular reto de altura h=3 m tem área lateral igual a $6\\pi\\,m^2$. Determinar o ângulo que a geratriz g faz com a reta suporte de altura h.",
+    "options": [
+      {
+        "label": "a",
+        "text": "30°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q11",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 11,
+    "statement": "Considere a matriz $B=\\begin{pmatrix}1&1&1&1\\\\1&2&3&4\\\\1&4&9&16\\\\1&8&27&64\\end{pmatrix}$. A soma dos elementos da primeira coluna da matriz inversa de B é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q12",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 12,
+    "statement": "Um triedro trirretângulo é cortado por um plano que intercepta as três arestas formando um triângulo de lados 8 cm, 10 cm e 12 cm, respectivamente. Calcule o volume do sólido formado.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$18\\sqrt{6}\\,cm^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$17\\sqrt{6}\\,cm^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$16\\sqrt{6}\\,cm^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$15\\sqrt{6}\\,cm^3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.2-q13",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "Assinale a igualdade verdadeira:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\text{arc sen}\\,\\dfrac{3}{5}+\\text{arc tg}\\,\\dfrac{5}{7}=\\text{arc cos}\\,\\dfrac{56}{65}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\text{arc tg}\\,\\dfrac{1}{6}+\\text{arc tg}\\,\\dfrac{5}{7}=\\dfrac{\\pi}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\text{arc sen}\\,\\dfrac{3}{5}+\\text{arc sen}\\,\\dfrac{12}{13}=\\text{arc sen}\\,\\dfrac{63}{65}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\text{arc tg}\\,\\dfrac{1}{6}+\\text{arc tg}\\,\\dfrac{5}{7}=\\dfrac{\\pi}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2004-2004.2-q14",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 14,
+    "statement": "Escreva o desenvolvimento do binômio $(\\text{tg}^3x-\\text{cossec}^6x)^m$, onde m é um número inteiro maior que zero, em termos de potências inteiras de sen x e cos x. Para determinados valores do expoente, este desenvolvimento possuirá uma parcela P, que não conterá a função sen x. Seja m o menor valor para o qual isto ocorre. Então $P=\\dfrac{-64}{9}$ quando x for igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x=\\pm\\dfrac{\\pi}{6}+2k\\pi$, k inteiro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x=\\dfrac{\\pi}{4}+k\\pi$, k inteiro.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x=\\dfrac{\\pi}{3}+2k\\pi$, k inteiro.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não existe x satisfazendo a igualdade desejada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q15",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 15,
+    "statement": "O valor do determinante $\\begin{vmatrix}1&1&1&1&1&1&1\\\\1&3&1&1&1&1&1\\\\1&1&5&1&1&1&1\\\\1&1&1&7&1&1&1\\\\1&1&1&1&9&1&1\\\\1&1&1&1&1&11&1\\\\1&1&1&1&1&1&13\\end{vmatrix}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "46.070.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "47.080.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "48.080.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "46.080.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2004-2004.2-q16",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 16,
+    "statement": "A maior raiz da equação $3x^3-13x^2+13x-3=0$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q17",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 17,
+    "statement": "Os valores de k, $k_1$ e $k_2$ que tornam o polinômio $P(x)=4x^5+2x^4-2x^3+kx^2+k_1x+k_2$ divisível por $Q(x)=2x^3+x^2-2x+1$ satisfazem as desigualdades:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$k>k_2>k_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$k_1>k>k_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$k_2>k_1>k$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$k_2>k>k_1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q18",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "Se $g:]0,1[\\to\\mathbb{R}$ é tal que, para todo $x\\in]0,1[$, $|g(x)|<\\dfrac{1}{2}$ e $g(x)=\\dfrac{1}{4}\\left(g\\left(\\dfrac{x}{2}\\right)+g\\left(\\dfrac{x+1}{2}\\right)\\right)$, então a desigualdade válida para qualquer n=1,2,3,... e 0<x<1 é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$|g(x)|+\\dfrac{1}{2^n}<\\dfrac{1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{2^n}\\le|g(x)|\\le\\dfrac{1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$|g(x)|<\\dfrac{1}{2^n}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{2^{n+1}}<|g(x)|<\\dfrac{1}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2004-2004.2-q19",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "Um retângulo ABCD está dividido em quatro retângulos menores. As áreas de três deles estão na figura: 16, 12 e 27. Qual é a área do retângulo ABCD?",
+    "options": [
+      {
+        "label": "a",
+        "text": "91.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "88.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "80.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "84.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2004-2004.2-q20",
+    "examId": "cg-2004-2004.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "A circunferência abaixo tem raio 1, o arco AB mede 70° e o arco BC mede 40°. A área da região limitada pelas cordas AB e AC e pelo arco BC mede:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi/9$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi/8$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi/10$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi/14$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
