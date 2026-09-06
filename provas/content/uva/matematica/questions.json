@@ -20638,5 +20638,581 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.2-q29",
+    "examId": "cg-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 29,
+    "statement": "Em uma progressão geométrica cujos termos são positivos, qualquer termo é igual à soma dos dois termos seguintes. Nesse caso, a razão é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt{5}-1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{2}{\\sqrt{5}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{5}-1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2010-2010.2-q30",
+    "examId": "cg-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 30,
+    "statement": "ABC é um triângulo retângulo isósceles. AB=AC=2cm. PQRS é um quadrado, com P e Q sobre BC, R sobre AC e S sobre AB. O lado do quadrado mede:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{2\\sqrt{3}}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{2\\sqrt{2}}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{2\\sqrt{2}}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\sqrt{2}}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2010-2010.2-q31",
+    "examId": "cg-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 31,
+    "statement": "O coeficiente de $x^7$ na expressão de $\\left(\\dfrac{x^2}{2}-\\dfrac{2}{x}\\right)^8$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "56.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-56.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.2-q32",
+    "examId": "cg-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 32,
+    "statement": "Na fórmula $C=\\dfrac{e\\cdot n}{R+nr}$, e, R e r são constantes positivas e n é um inteiro positivo. À medida que n cresce, C:",
+    "options": [
+      {
+        "label": "a",
+        "text": "decresce.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "cresce.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "permanece constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "cresce e depois decresce.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2010-2010.2-q33",
+    "examId": "cg-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 33,
+    "statement": "O maior número pelo qual a expressão $n^3-n$ é divisível, tornando-se n no conjunto dos números inteiros, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.2-q34",
+    "examId": "cg-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 34,
+    "statement": "Se $\\dfrac{x}{y}=\\dfrac{3}{4}$, então a expressão incorreta é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{x+y}{y}=\\dfrac{7}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{y}{y-x}=\\dfrac{4}{1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{x+2y}{x}=\\dfrac{11}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{x-y}{y}=\\dfrac{1}{4}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.2-q35",
+    "examId": "cg-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 35,
+    "statement": "Os pontos (6,12) e (0,-6) são ligados por uma linha reta. Um terceiro ponto nessa reta pode ser:",
+    "options": [
+      {
+        "label": "a",
+        "text": "(3,3).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(2,1).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(7,16).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(-1,-4).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2010-2010.2-q36",
+    "examId": "cg-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 36,
+    "statement": "Se $\\sqrt[3]{x}+\\sqrt[3]{y}+\\sqrt[3]{z}=0$, então $(x+y+z)^3$ vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9xyz.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "27xyz.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2010-2010.2-q1",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 1,
+    "statement": "Um engenheiro diz que pode terminar um certo trabalho em 3 dias, se dispuser de um certo número de uma determinada máquina. Entretanto, com mais 3 destas máquinas, o trabalho pode ser feito em dois dias. Se as máquinas trabalham todas no mesmo ritmo, quantos dias seriam necessários para se fazer o trabalho com uma única máquina somente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.2-q2",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 2,
+    "statement": "A diagonal menor do paralelogramo, cujos lados medem 6 cm e $2\\sqrt{3}$ cm com ângulo de 30° entre eles, mede em cm:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4\\sqrt{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2010-2010.2-q3",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 3,
+    "statement": "O terceiro termo do desenvolvimento de $\\left(x-\\dfrac{1}{\\sqrt{x}}\\right)^m$ é $28x^5$. Então m é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.2-q4",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 4,
+    "statement": "Quantos segmentos orientados se originam de 8 pontos pertencentes a um plano?",
+    "options": [
+      {
+        "label": "a",
+        "text": "52.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "56.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.2-q5",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 5,
+    "statement": "O número de soluções da equação $|x|+2|x-2|=1+4x$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.2-q6",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 6,
+    "statement": "Dado $f(2x)=4x^2+8x+1$, $\\forall x\\in\\mathbb{R}$, o valor de f(x) é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x^2-4x+1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x^2+4x+1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x^2-4x-1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-x^2-4x-1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.2-q7",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Dadas as matrizes $C=\\begin{pmatrix}1&2\\\\2&0\\end{pmatrix}$ e $D=\\begin{pmatrix}4&-4\\\\1&4\\end{pmatrix}$, o valor do determinante da matriz $(CD)^{-1}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/80.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-1/50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1/80.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.2-q8",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 8,
+    "statement": "O valor de $\\text{tg}\\,\\beta$, sendo $\\beta$ uma das raízes da equação $\\text{sen}^2x-\\text{sen}\\,x\\cdot\\cos x-\\cos^2x=\\dfrac{1}{2}$, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 ou 1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-3 ou -1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 ou -1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-3 ou 1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2010-2010.2-q9",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 9,
+    "statement": "O polinômio P é tal que $P(x)+xP(2-x)=x^2+3$ para todo x real. P(2) é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2010-2010.2-q10",
+    "examId": "mf-2010-2010.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "Uma pirâmide cuja base é um quadrado de lado 2a tem o mesmo volume que um prisma cuja base é um quadrado de lado a. Sendo H a altura da pirâmide e h a altura do prisma, a razão H/h vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
