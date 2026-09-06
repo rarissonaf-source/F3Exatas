@@ -486,5 +486,21 @@
     "edition": "2009.2",
     "examType": "geral",
     "sourceFile": "Vestibular Comentado UVA 2009.2.pdf"
+  },
+  {
+    "id": "cg-2010-2010.1",
+    "institution": "UVA",
+    "year": 2010,
+    "edition": "2010.1",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UVA 2010.1.pdf"
+  },
+  {
+    "id": "mf-2010-2010.1",
+    "institution": "UVA",
+    "year": 2010,
+    "edition": "2010.1",
+    "examType": "especifico",
+    "sourceFile": "Vestibular Comentado UVA 2010.1.pdf"
   }
 ]

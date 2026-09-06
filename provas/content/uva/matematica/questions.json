@@ -20062,5 +20062,581 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2010-2010.1-q29",
+    "examId": "cg-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Jonas vendeu 2 cachimbos a R$ 1,20 cada. Um deles deu 20% de lucro em relação ao custo. O outro, 20% de prejuízo em relação ao custo. Na venda de ambos ele:",
+    "options": [
+      {
+        "label": "a",
+        "text": "não perdeu nem ganhou.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "perdeu 4 centavos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ganhou 4 centavos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "perdeu 10 centavos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.1-q30",
+    "examId": "cg-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 30,
+    "statement": "A expressão $K=\\left(1+\\dfrac{3}{1}\\right)\\left(1+\\dfrac{5}{4}\\right)\\left(1+\\dfrac{7}{9}\\right)\\left(1+\\dfrac{9}{16}\\right)\\left(1+\\dfrac{11}{25}\\right)\\ldots\\left(1+\\dfrac{41}{400}\\right)$ é o produto de 20 números. O valor de K é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "443.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "445.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "441.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "439.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2010-2010.1-q31",
+    "examId": "cg-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "Na figura, os pontos A e B estão no mesmo plano que contêm as retas paralelas r e s, com ângulo de 30° em r, ângulo de 40° em B, ângulo $\\alpha$ em A e ângulo de 80° em s. O valor de $\\alpha$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "90°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "70°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2010-2010.1-q32",
+    "examId": "cg-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 32,
+    "statement": "O conjunto solução da inequação $\\cos^2x-\\text{sen}^2x-\\text{sen}\\,x>0$, no intervalo $\\left[\\dfrac{\\pi}{2},\\dfrac{3\\pi}{2}\\right]$, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\left\\{x\\in\\mathbb{R}\\ /\\ \\dfrac{5\\pi}{3}<x<\\pi\\right\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\left\\{x\\in\\mathbb{R}\\ /\\ \\dfrac{5\\pi}{6}<x<\\dfrac{3\\pi}{2}\\right\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\left\\{x\\in\\mathbb{R}\\ /\\ \\dfrac{2\\pi}{3}<x<\\dfrac{3\\pi}{2}\\right\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\left\\{x\\in\\mathbb{R}\\ /\\ \\dfrac{5\\pi}{6}<x<\\pi\\right\\}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2010-2010.1-q33",
+    "examId": "cg-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "Com relação à matriz $A=\\begin{pmatrix}0&1\\\\-1&-1\\end{pmatrix}$, a opção correta é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$A^{24}=I_2$, sendo $I_2$ a matriz identidade de ordem 2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$A^{22}=I_2$, sendo $I_2$ a matriz identidade de ordem 2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$A^{21}=A$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$A^{21}=A^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2010-2010.1-q34",
+    "examId": "cg-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 34,
+    "statement": "Sendo $k_1,k_2$ e $k_3$ as raízes da equação $2x^3-3x^2+5x+1=0$, o valor da expressão $k_1^2k_2^2+k_2^2k_3^2+k_3^2k_1^2$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "21.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12/5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "31/4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2010-2010.1-q35",
+    "examId": "cg-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 35,
+    "statement": "$|x|+|y|<1$ representa:",
+    "options": [
+      {
+        "label": "a",
+        "text": "interior de um círculo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "interior de um triângulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "um quadrante de círculo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "interior de um quadrado.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2010-2010.1-q36",
+    "examId": "cg-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 36,
+    "statement": "O vigésimo quinto termo da sequência (cos 30°, cos 60°, cos 90°, ...) é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{3}/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{2}/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.1-q1",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 1,
+    "statement": "Na rua onde eu moro, existem 25 casas. Nelas vive um total de 33 animais de estimação, sendo 10 cães, 12 gatos e 11 canários. Nenhuma das casas tem mais do que um animal do mesmo tipo. Em nenhuma delas vive um gato e um canário. Qual é o maior número possível de casas nas quais existe exatamente um destes três tipos de animais de estimação?",
+    "options": [
+      {
+        "label": "a",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "17.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2010-2010.1-q2",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 2,
+    "statement": "Seja f uma função do domínio $\\left\\{y\\in\\mathbb{R}\\ /\\ 2\\le y\\le 5\\right\\}$ dada por $f(x)=\\dfrac{x^2-x+1}{x^2+x+1}$. O conjunto imagem da função é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\left\\{y\\in\\mathbb{R}\\ /\\ \\dfrac{1}{3}\\le y\\le 3\\right\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\left\\{y\\in\\mathbb{R}\\ /\\ \\dfrac{1}{3}\\le y\\le 2\\right\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\left\\{y\\in\\mathbb{R}\\ /\\ 2\\le y\\le 5\\right\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\left\\{y\\in\\mathbb{R}\\ /\\ 1\\le y\\le 3\\right\\}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2010-2010.1-q3",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 3,
+    "statement": "O valor de x tal que o 2°, 3° e 5° termos do desenvolvimento de $(2+x)^5$ estejam em progressão geométrica, nesta ordem, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.1-q4",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "Os lados e a área de um triângulo retângulo formam, nessa ordem, uma progressão aritmética. A soma de todos os lados desse triângulo é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "45.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2010-2010.1-q5",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "Na figura abaixo, as retas r e s são definidas por y=4+2x e y=4-2x, respectivamente. Considere todos os retângulos que têm um dos lados contido em AB, um vértice em AC e outro em BC. Sobre as áreas desses retângulos, a maior delas é, em unidades de área, igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.1-q6",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 6,
+    "statement": "Calculando k, de modo que as raízes da equação $x^2-kx+k+k^2=0$ sejam o seno e o cosseno do mesmo ângulo $\\theta$, os possíveis valores desse ângulo no 1° ciclo trigonométrico são:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\pi}{2}$ ou $\\dfrac{3\\pi}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi$ ou $2\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi$ ou $\\dfrac{3\\pi}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0 ou $\\dfrac{3\\pi}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2010-2010.1-q7",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 7,
+    "statement": "Seja x o maior número inteiro de 4 algarismos que é divisível por 13 e y o menor número inteiro positivo de 4 algarismos que é divisível por 17. A diferença x-y é um número:",
+    "options": [
+      {
+        "label": "a",
+        "text": "primo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "múltiplo de 6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "quadrado perfeito.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "divisível por 5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.1-q8",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 8,
+    "statement": "Deseja-se construir uma caixa-d'água em forma de cilindro reto, de 1,6m de raio e cuja capacidade seja de 20.000 litros. A altura do cilindro deve ser, aproximadamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,50m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,80m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,10m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,50m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2010-2010.1-q9",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "Os lados de um triângulo medem 5cm, 6cm e 7cm. Em quanto é preciso prolongar o lado menor para que ele encontre a bissetriz do ângulo externo oposto?",
+    "options": [
+      {
+        "label": "a",
+        "text": "40cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2010-2010.1-q10",
+    "examId": "mf-2010-2010.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 10,
+    "statement": "$P(x)=x^3+Ax+6750$ é um polinômio do 3° grau com uma raiz dupla e uma simples. Qual o valor absoluto da raiz simples?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
