@@ -958,5 +958,197 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-q37",
+    "examId": "2008.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "Um passageiro está caminhando para o oeste, dentro de um trem que se move, em alta velocidade, para o leste. Para uma pessoa que está parada na estação, enquanto o trem passa, esse passageiro",
+    "options": [
+      {
+        "label": "a",
+        "text": "está parado.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se move para o oeste.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se move para o leste, na mesma velocidade que o trem.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se move para o leste, um pouco mais lentamente que o trem.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-q38",
+    "examId": "2008.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 38,
+    "statement": "Quando aumentamos a temperatura de um gás contido em um cilindro rígido e fechado, de volume constante, podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "as moléculas do gás vão se mover mais lentamente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as moléculas do gás vão se chocar com as paredes do cilindro, mais frequentemente e com mais força.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a quantidade de espaço vazio dentro do cilindro vai aumentar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "as moléculas do gás vão perder energia cinética.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-q39",
+    "examId": "2008.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 39,
+    "statement": "Um mergulhador está submerso no mar, nadando para frente, com velocidade constante. A direção da força resultante, exercida pela água sobre ele é",
+    "options": [
+      {
+        "label": "a",
+        "text": "nenhuma (isto é, a força resultante é nula).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "para frente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "para cima.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "para baixo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-q40",
+    "examId": "2008.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "Duas cargas iguais são mantidas em repouso, próximas, uma da outra. Quando soltas, elas irão",
+    "options": [
+      {
+        "label": "a",
+        "text": "aproximar-se uma da outra, com aceleração variável.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "afastar-se uma da outra, com aceleração variável.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "aproximar-se uma da outra, com aceleração constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "afastar-se uma da outra, com aceleração constante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-q41",
+    "examId": "2008.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 41,
+    "statement": "O pólo norte de um magneto é inserido, de cima para baixo, em uma espira de cobre, como mostrado no diagrama. Devido a isto, a espira vai experimentar",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma força para baixo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma força para cima.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "força nenhuma.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "um torque no sentido dos ponteiros de um relógio, visto de cima.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.2/q41.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-q42",
+    "examId": "2008.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 42,
+    "statement": "Mesmo com uma fonte de luz intensa e pontual e um objeto perfeitamente opaco, é impossível produzir uma sombra nítida, com as bordas perfeitamente definidas, em um anteparo próximo ao objeto, como mostra a figura. Esse fenômeno dá-se devido ao fato de que, nas bordas do objeto, ocorre",
+    "options": [
+      {
+        "label": "a",
+        "text": "refração da luz.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "reflexão da luz.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "difração da luz.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "aberração cromática da luz.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.2/q42.png",
+    "correctAnswer": "c"
   }
 ]

@@ -38,5 +38,13 @@
     "edition": "2008.1",
     "examType": "geral",
     "sourceFile": "UECE 2008.1 - PROVA - INGLES.pdf"
+  },
+  {
+    "id": "2008.2",
+    "institution": "UECE",
+    "year": 2008,
+    "edition": "2008.2",
+    "examType": "geral",
+    "sourceFile": "Vestibular Comentado UECE 2008.2.pdf"
   }
 ]

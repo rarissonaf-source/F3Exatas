@@ -1598,5 +1598,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-q15",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 15,
+    "statement": "Considere os conjuntos $X=\\{2,4,6,8,\\ldots\\}$, $Y=\\{3,6,9,12,\\ldots\\}$ e $I=X\\cap Y$. Se m é o maior elemento de I que é menor do que 1000, a soma dos algarismos de m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "21",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "27",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-q16",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 16,
+    "statement": "A soma de todos os números inteiros positivos a e b que satisfazem a igualdade $a^2-b^2=15$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "22",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-q17",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "Utilizando os algarismos 1, 2, 3 e 4, podemos formar números com 4 dígitos, todos estes dígitos distintos. A média aritmética entre o maior e o menor destes números é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2777,5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2767,5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2757,5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2747,5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-q18",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "O valor de n para o qual os gráficos das funções f, g: $\\mathbb{R}\\to\\mathbb{R}$, definidas por $f(x)=nx$ e $g(x)=x^3+6x^2+7x$, possuem exatamente dois pontos de interseção, pertence ao intervalo",
+    "options": [
+      {
+        "label": "a",
+        "text": "[3, 5]",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "[1, 3]",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "[-1, 1]",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "[-3,-1]",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-q19",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 19,
+    "statement": "Sobre uma circunferência marcam-se 10 pontos distintos. O número máximo de triângulos que podemos construir, com vértices nestes pontos, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "140",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "130",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "120",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "110",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-q20",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 20,
+    "statement": "Um plano paralelo a duas arestas de um cubo, cujo volume mede 27 m³, o intercepta segundo um paralelogramo. A medida da maior área possível deste paralelogramo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt{2}\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$9\\sqrt{2}\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3\\sqrt{2}}{2}\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{9\\sqrt{2}}{2}\\ m^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-q21",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "Se o quociente da divisão do polinômio p(x) = 6x³ + 25x² + 27x + 20 pelo polinômio d(x) é q(x) = 2x² + 3x +1 e o resto é r(x) = 12, então o produto dos coeficientes de d(x) é",
+    "options": [
+      {
+        "label": "a",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-q22",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "O perímetro de um triângulo retângulo mede 24 m e sua hipotenusa mede 10 m. A medida da área deste triângulo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "8 $m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 $m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14 $m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "24 $m^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-q23",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Desejamos construir uma calçada em volta de dois lados consecutivos de um terreno retangular. A calçada é exterior ao terreno e tem largura constante. Se duas das dimensões do terreno são 20 m e 30 m, respectivamente, e a área da calçada mede 77,25 m², então sua largura mede",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,00 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,75 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,50 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,25 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-q24",
+    "examId": "2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 24,
+    "statement": "Sobre três circunferências localizadas em um mesmo plano, com centros não colineares, podemos afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a interseção das três circunferências é o conjunto vazio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a interseção das três circunferências é um conjunto com, no máximo, um elemento.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a interseção das três circunferências é um conjunto com, exatamente, dois elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a interseção das três circunferências é um conjunto com, exatamente, três elementos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
