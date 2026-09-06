@@ -382,5 +382,389 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-q49",
+    "examId": "2007.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 49,
+    "statement": "Uma pessoa arremessa um objeto verticalmente para cima. Após ter sido lançado, ele sobe e atinge o ponto mais alto de sua trajetória. Neste momento, desprezando a resistência do ar, a força que está atuando no objeto é",
+    "options": [
+      {
+        "label": "a",
+        "text": "para baixo e crescente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "para baixo e constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "para cima e decrescente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "zero.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-q50",
+    "examId": "2007.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 50,
+    "statement": "Dois corpos em movimento circular uniforme estão alinhados como mostra a figura. Sabendo-se que o raio da trajetória maior é o dobro do raio da trajetória menor, qual deve ser a razão de suas velocidades (V_M/V_m) para que eles ocupem a mesma posição mostrada na figura, quando o corpo M completar uma volta e o m completar quatro voltas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1/q50.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-q51",
+    "examId": "2007.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 51,
+    "statement": "Na figura abaixo, considere que as cordas são inextensíveis e de massas desprezíveis e a polia é ideal. Além disso, considere os coeficientes de atrito estático entre cada um dos blocos (B e C) e a superfície horizontal iguais a 0,25 e a 0,50, respectivamente. Se os blocos A e B pesam 10N cada um, o peso do terceiro bloco C, ligado a B, para que o conjunto esteja na iminência de deslizar é",
+    "options": [
+      {
+        "label": "a",
+        "text": "15 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1/q51.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-q52",
+    "examId": "2007.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 52,
+    "statement": "Uma máquina térmica recebe determinada quantidade de calor e realiza um trabalho útil de 400 J. Considerando que o trabalho da máquina é obtido isobaricamente a uma pressão de 2,0 atm, num pistão que contém gás, determine a variação de volume sofrida pelo gás dentro do pistão. Considere 1,0 atm = 1,0 x 10^5 N/m².",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^{-3}\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\times10^{-3}\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$8\\times10^{-3}\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\times10^{-4}\\ m^3$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-q53",
+    "examId": "2007.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 53,
+    "statement": "Para uma lente biconvexa, é correto afirmar.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Todos os raios que passam pela lente são desviados de sua trajetória original.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É utilizada na correção da miopia.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Os raios paralelos ao eixo da lente são desviados de sua trajetória original, aproximando-se da normal ao penetrarem na lente. Ao emergirem da lente, os raios são novamente desviados, se afastando da normal, produzindo sempre uma imagem menor que o objeto.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A distância focal da lente depende do meio na qual ela está imersa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-q54",
+    "examId": "2007.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 54,
+    "statement": "Considere o circuito mostrado na figura. Nele, $E_1=12\\ kV$, $E_2=13\\ kV$, $C_1=3\\mu F$ e $C_2=7\\mu F$. As diferenças de potencial, em kV, entre as placas dos capacitores $C_1$ e $C_2$ são, respectivamente, iguais a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "17,5 e 7,5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "13,0 e 12,0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12,0 e 13,0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10,0 e 25,0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1/q54.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.2-q49",
+    "examId": "2007.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 49,
+    "statement": "Duas partículas, A e B, ambas em movimento retilíneo uniforme, na mesma direção e sentido, no instante t = 0, encontram-se nas posições 25 m e 75 m, respectivamente, conforme indicado no gráfico abaixo. As partículas possuem velocidades relacionadas de tal maneira que v_A = (3/2)v_B. A partícula A deverá alcançar a partícula B em x igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "125 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "150 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "175 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2/q49.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-q50",
+    "examId": "2007.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 50,
+    "statement": "Um menino, à beira de uma estrada, observa um caminhão, a velocidade constante, rebocando um fusca por um suporte metálico. Em um trecho onde a estrada é retilínea e horizontal, podemos afirmar, corretamente, que a força que o caminhão exerce sobre o fusca é",
+    "options": [
+      {
+        "label": "a",
+        "text": "igual à força que o fusca exerce sobre o caminhão.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "menor que a força que o fusca exerce sobre o caminhão.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "maior que a força que o fusca exerce sobre o caminhão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2007.2-q51",
+    "examId": "2007.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 51,
+    "statement": "Um volume V, à temperatura T, contém 5 moles de um gás, de número atômico 2, e 15 moles de outro gás, de número atômico 18. Sabendo-se que as pressões de 120 Pa e 360 Pa são as pressões que os gases exerceriam, respectivamente, se ocupassem sozinhos o volume V, à mesma temperatura T, a pressão total do sistema, em Pa, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "240",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "350",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "400",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "480",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-q52",
+    "examId": "2007.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 52,
+    "statement": "Duas cordas, M e m, de um violão, estão vibrando em suas respectivas frequências fundamentais. Sabendo-se que a frequência maior f_M está uma oitava acima da frequência menor f_m, e que a tensão aplicada às cordas é a mesma, a razão μ_m/μ_M entre as densidades lineares das cordas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-q53",
+    "examId": "2007.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 53,
+    "statement": "Uma pessoa afirma que não enxerga bem, de longe, e que usa óculos com 2 graus para corrigir essa deficiência. Sabendo-se que, tecnicamente, essa pessoa usa uma lente com uma convergência C = -2 di, podemos afirmar, corretamente, que se trata de uma lente",
+    "options": [
+      {
+        "label": "a",
+        "text": "divergente, de distância focal 50 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "convergente, de distância focal -50 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "divergente, de distância focal -50 cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "biconvexa, de distância focal 50 cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-q54",
+    "examId": "2007.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 54,
+    "statement": "Num recipiente cilíndrico de 90 cm de raio, contendo água, flutua uma bolinha de cortiça localizada a 10 cm do centro da superfície da água. Uma pequena pedra cai no centro do espelho d'água e gera ondas circulares transversais, distantes 5 cm uma da outra. O número de frentes de ondas que atingirão a bolinha de cortiça até que a primeira frente de onda atinja a borda do cilindro é",
+    "options": [
+      {
+        "label": "a",
+        "text": "15",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "17",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "22",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]

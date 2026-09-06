@@ -638,5 +638,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-q39",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 39,
+    "statement": "A solução da equação $\\dfrac{3^{-1}}{2}-\\sqrt[3]{\\dfrac{8}{27}}=-\\dfrac{5}{x}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "10",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-q40",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 40,
+    "statement": "Considere os seguintes subconjuntos dos números naturais: X={2,4,6,8,10,...}, Y={3,6,9,12,15,...}, Z={7,14,21,28,...}, V={11,22,33,44,...}. O menor elemento de X∩Y∩Z∩V que é múltiplo de 10 situa-se entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "2001 e 2099",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2101 e 2199",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2201 e 2299",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2301 e 2399",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-q41",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 41,
+    "statement": "Se x e y são dois números reais tais que $6^{x+y}=36$ e $6^{x+5y}=216$, então $\\dfrac{x}{y}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-q42",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 42,
+    "statement": "O valor de x na equação $\\sqrt{2}=1+\\dfrac{1}{2+\\dfrac{1}{2+x}}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{2}-2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{2}+2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{2}-1$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-\\sqrt{2}-1$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-q43",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 43,
+    "statement": "Duas lojas A e B vendem um mesmo produto. Na loja B o produto é vendido por uma quantia que ultrapassa em R$ 200,00 o preço praticado na loja A. Se a loja B concedesse um desconto de 20%, o preço nas duas lojas seria o mesmo. Então o preço do produto na loja A situa-se entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 720,00 e R$ 780,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 780,00 e R$ 840,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 840,00 e R$ 900,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 900,00 e R$ 960,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-q44",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 44,
+    "statement": "O ponto (2,1) é o centro de um quadrado no qual um dos vértices é o ponto (5,5). A soma das coordenadas dos outros 3 vértices deste quadrado é",
+    "options": [
+      {
+        "label": "a",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-q45",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 45,
+    "statement": "Com 42 cubos de 1cm de aresta formamos um paralelepípedo cujo perímetro da base é 18cm. A altura deste paralelepípedo, em cm, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-q46",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 46,
+    "statement": "Em um quadrado PQRS, seja M o ponto médio do lado PQ e N o ponto médio do lado PS. Se os segmentos RM e QN se cortam no ponto E, a medida do ângulo RÊN é",
+    "options": [
+      {
+        "label": "a",
+        "text": "120°",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "110°",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "90°",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60°",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-q47",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 47,
+    "statement": "O ponto P, que é o centro da circunferência $x^2+y^2-6x-8y=0$, pertence à reta cuja equação é $x-2y+c=0$. O valor de c é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-q48",
+    "examId": "2007.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 48,
+    "statement": "As funções reais de variável real f e g são definidas pelas expressões f(x) = px + q e g(x) = mx + n. A relação entre os coeficientes p, q, m e n que garantem a igualdade (f∘g)(x) = (g∘f)(x), para todo número real x, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "pn + qm = 0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "pn - qm = 0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(p-1)n + (1-m)q = 0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "p(n-1) + m(q-1) = 0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-q15",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 15,
+    "statement": "Se, no \\\"quadrado\\\" ao lado, a soma dos números nas 3 linhas é igual à soma dos números nas 3 colunas e é igual à soma dos números nas 2 diagonais, então a soma x + y + z + v, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "52",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "48",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "44",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2/q15.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-q16",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 16,
+    "statement": "A média aritmética simples das notas das provas de um estudante, até a penúltima prova, era 23. Ao fazer a última prova, a média ficou em 22,25. Se a nota da última prova foi um número inteiro maior do que 17, esta nota foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "19",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "21",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-q17",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "Dois dados, cada um com seis faces numeradas de 1 a 6, são lançados, simultaneamente, sobre uma mesa. Podemos ler, nas faces viradas para cima, os números x e y. O número de possíveis valores para a soma x + y é",
+    "options": [
+      {
+        "label": "a",
+        "text": "13",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-q18",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 18,
+    "statement": "O perímetro do triângulo PQR é 24 cm e a medida de seu menor lado é 5,5 cm. Se as medidas dos lados deste triângulo, em centímetros, formam uma progressão aritmética de razão r, podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,4 < r < 1,8",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,8 < r < 2,2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,2 < r < 2,6",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,6 < r < 3,0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-q19",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 19,
+    "statement": "As ações da Empresa MCF valiam, em janeiro, R$ 1.400,00. Durante o mês de fevereiro, houve uma valorização de 10% e, no mês de março, uma baixa de 10%. Após esta baixa, o preço das ações ficou em",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1.352,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1.386,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1.400,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.426,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-q20",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 20,
+    "statement": "Se x e y são arcos no primeiro quadrante tais que $\\text{sen}(x)=\\dfrac{\\sqrt{3}}{2}=\\cos(y)$, então o valor de $\\text{sen}(x+y)+\\text{sen}(x-y)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\sqrt{6}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt{6}}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2}{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-q21",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "A equação da circunferência cujo centro é o ponto (5,1) e que é tangente à reta 4x - 3y - 2 = 0, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x^2+y^2+10x+2y+26=0$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x^2+y^2-10x-2y+17=0$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x^2+y^2+2x+10y-26=0$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x^2+y^2-2x-10y-17=0$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-q22",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "Uma esfera, com raio medindo 5 cm, está circunscrita a um cilindro circular reto cuja altura mede 8 cm. Chamou-se de X a razão entre o volume da esfera e o volume do cilindro. Dentre as opções abaixo, assinale a que apresenta o valor mais próximo de X.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,71",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,91",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,31",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,14",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-q23",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 23,
+    "statement": "Um sólido S é tal que sua base é a região plana limitada por uma circunferência com raio que mede $\\sqrt{3}$ m. Existe um diâmetro D, da base do sólido, tal que a interseção de S com qualquer plano perpendicular a D é um triângulo equilátero. Dentre estes triângulos, chamemos de T o de maior área. A medida da área de T é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{3\\sqrt{3}}{2}\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3\\sqrt{3}}{4}\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{3}\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\sqrt{3}\\ m^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-q24",
+    "examId": "2007.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 24,
+    "statement": "Se u e v são as soluções da equação $6x+x^{-1}-5=0$, então a expressão $u+v-uv$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2/3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5/6",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6/5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
