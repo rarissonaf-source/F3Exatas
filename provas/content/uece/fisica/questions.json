@@ -1790,5 +1790,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-2fase-q1",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 1,
+    "statement": "Pesquisas mostram que mais de 90% dos raios que atingem o solo são cargas negativas que partem de nuvens. Considere a diferença de potencial elétrico entre a distribuição de cargas negativas na base da nuvem e o solo como sendo da ordem de $10^6$ V. De modo simplificado, considere uma altura de 2 km entre a base da nuvem e a terra. A melhor aproximação para o módulo do vetor campo elétrico entre a nuvem e o solo, em V/m, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$5\\times10^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5\\times10^6$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$0,5\\times10^6$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$0,5\\times10^7$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-2fase-q2",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 2,
+    "statement": "Alguns resistores de resistência R são associados segundo as configurações I, II, III e IV, conforme as figuras. Sejam RI, RII, RIII e RIV, respectivamente, as resistências equivalentes, entre os pontos a e b, relativas às configurações I, II, III e IV. Pode-se afirmar, corretamente, que RI + RII + RIII + RIV é aproximadamente igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "17R",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "13R",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6R",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3R",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1-2fase/qf2.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q3",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 3,
+    "statement": "Um professor faz uma força pressionando o apagador contra o quadro negro, enquanto realiza um movimento circular de raio 0,1 m com velocidade angular constante. A componente dessa força normal ao quadro tem módulo 2 N. Suponha que o coeficiente de atrito entre o apagador e o quadro seja $\\mu=0,2$ e que o apagador tenha massa igual a 100 gramas. Assim, o torque total em relação ao ponto P no centro do círculo é, em N×m:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,04",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,20",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.1-2fase-q4",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 4,
+    "statement": "No recipiente paralelepipédico visto na figura existe um cilindro em repouso, que pode girar, sem atrito, em torno de seu eixo longitudinal de simetria, suposto fixo e horizontal, perpendicular ao plano da figura, passando pelo ponto O. A câmara I contém um líquido ideal I de densidade ρI e a II, um líquido ideal II de densidade ρII, com ρII > ρI. As paredes a e b dividem o recipiente e impedem que os líquidos se misturem. É óbvio que o cilindro sofre empuxos diferentes, causados pelos líquidos I e II. Supondo-se que não haja perda de energia mecânica, o cilindro:",
+    "options": [
+      {
+        "label": "a",
+        "text": "não gira",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "gira com velocidade angular constante no sentido anti-horário",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "gira com velocidade angular crescente no sentido anti-horário",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "gira com velocidade angular constante no sentido horário",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1-2fase/qf4.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-2fase-q5",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 5,
+    "statement": "A figura ilustra um desenho esquemático de um CD, com uma ampliação, mostrando parte da trilha em espiral, cuja largura é menor que 10 microns. O equipamento que faz a leitura do disco consiste essencialmente de uma fonte de luz e uma lente. Como o feixe de luz deve ter seu diâmetro reduzido à largura de uma trilha no disco, pode-se dizer que a lente utilizada pode ser do tipo:",
+    "options": [
+      {
+        "label": "a",
+        "text": "bicôncava ou biconvexa",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "plano-côncava",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "biconvexa",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "bicôncava",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q6",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 6,
+    "statement": "Suponha que um ferro de passar roupa, que consiste essencialmente de um resistor e uma base metálica, é ligado à rede elétrica de 220 V. Considere o calor específico para o metal em questão como sendo c = 4,6 J/g°C e que o único efeito da passagem da corrente elétrica seja o aquecimento da sua base metálica. Após 100 s, a base metálica de 0,5 kg sai da temperatura ambiente (30°C) para 50°C. A corrente elétrica (em Ampère) que passa através do eletrodoméstico é, aproximadamente, igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "9,2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,6",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-2fase-q7",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 7,
+    "statement": "Em uma célula, considere a diferença de potencial elétrico entre a face interior e exterior da membrana como sendo 70 mV, com o interior negativo em relação ao exterior. Suponha que a espessura da membrana celular é de 4 nm, a massa do íon Na+, $3,8\\times10^{-23}$ g e sua carga, $1,6\\times10^{-19}$ C. Se um íon Na+ atravessa a membrana sem sofrer resistência e unicamente sob a ação do campo elétrico, suposto constante, gerado por essa diferença de potencial, a aceleração, em m/s², desse cátion, durante a passagem é aproximadamente igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$7\\times10^{13}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5\\times10^{13}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9\\times10^{13}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\times10^{-13}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-2fase-q8",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "Um fio metálico de diâmetro desprezível é usado como termômetro e tem a forma de um arco de círculo de 2 rad. A peça é presa por uma das extremidades a um cilindro de boa isolação térmica. Após uma variação de temperatura de 100°C, o metal aumenta de tamanho, correspondendo a um acréscimo de um ângulo de 0,04 rad. Com base nessas informações, mostra-se que o coeficiente de dilatação linear do metal é, em °C⁻¹",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\times10^{-4}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4\\times10^{-4}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$8\\times10^{-4}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$12\\times10^{-4}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-2fase-q9",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 9,
+    "statement": "Três esferas com massas $m_1=1$ kg, $m_2=5$ kg e $m_3=3$ kg estão localizadas, no sistema de referência, nas coordenadas (3, 0), (0, 4) e (0, 0), respectivamente. Seja G a constante de gravitação universal. Considerando as coordenadas em metro, a componente y da força gravitacional, em Newton, sobre a esfera m3 devida às outras esferas é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{3}{16}G$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3}{2}G$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{15}{16}G$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3}{4}G$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q10",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 10,
+    "statement": "Para alimentar um rádio de pilhas, necessita-se de uma corrente elétrica I. Um modo de se medir essa corrente é através de um resistor auxiliar, R, inserido no circuito em série com o rádio. Se o valor dessa resistência é muito baixo, digamos 0,001 Ω, o valor da tensão que alimenta o rádio praticamente não se altera com a introdução desse resistor. Se a tensão nos terminais do resistor é de 10⁻⁶ V, qual a corrente elétrica fornecida pela bateria, em Ampère?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^{-6}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{-3}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^{-1}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^{-2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q11",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 11,
+    "statement": "Um balão de 21 kg e volume constante consegue subir com uma aceleração de módulo 1 m/s² se uma pedra de massa m é presa a ele. Por outro lado, o mesmo balão cai com a mesma aceleração, em módulo, se mais uma pedra de mesma massa é ligada a ele. Qual a massa da pedra em kg? Considere o módulo da aceleração da gravidade como 10 m/s².",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "21",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q12",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 12,
+    "statement": "Uma caixa de 1,4 kg é presa verticalmente ao teto por uma corda (I) inextensível e de tamanho $(2+\\sqrt{3})$ metros e está inicialmente parada. A seguir, uma segunda corda (II) é ligada à caixa e é puxada por uma força até que a corda I faça um ângulo de 30° com a vertical, conforme a figura. Após isso, o sistema é mantido em equilíbrio estático. Considere o módulo da aceleração da gravidade como 10 m/s² e despreze todos os atritos e as massas da polia e das cordas. O trabalho realizado pela força F durante essa manobra, em Joule, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "14",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$7(2+\\sqrt{3})$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10(2+\\sqrt{3})$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q13",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 13,
+    "statement": "Em uma loja, um cliente sobe em uma escada rolante, que se eleva a um ângulo de 30° acima da horizontal, a uma velocidade de 60 cm/s. Ele passa por seu filho, que desce pela escada ao lado, de mesma inclinação e com velocidade igual em módulo, conforme a figura. O módulo da velocidade dele em relação ao filho é, em cm/s:",
+    "options": [
+      {
+        "label": "a",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$30\\sqrt{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q14",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 14,
+    "statement": "Uma mola de massa desprezível e constante elástica 360 N/m é partida em dois pedaços iguais. As duas partes, agora suspensas separadamente, suportam um bloco de massa m, conforme a figura. O sistema é posto a oscilar verticalmente e o faz com pequena amplitude e frequência de 1 Hz. Logo, a massa do bloco é, em kg:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$180/\\pi^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$720/\\pi$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$90/\\pi^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$360/\\pi$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2006.1-2fase-q15",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 15,
+    "statement": "Considerando g = 10m/s² e sabendo que a pressão atmosférica ao nível do mar é aproximadamente $10^5$ Pa, a estimativa do comprimento, em metros e ao nível do mar, da coluna de um barômetro que, em vez de mercúrio, contém água do mar cuja densidade é $\\rho=1,024\\times10^3\\ kg/m^3$, é cerca de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "13,6",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16,3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9,8",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7,6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q16",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 16,
+    "statement": "A figura mostra as trajetórias de três partículas lançadas do solo. Supondo-se inexistência de perda de energia, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A componente horizontal do vetor velocidade inicial é igual em todos os lançamentos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A componente vertical do vetor velocidade inicial é igual em todos os lançamentos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A componente vertical do vetor velocidade inicial é diferente em todos os lançamentos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O módulo do vetor velocidade inicial é igual em todos os lançamentos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1-2fase/qf16.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q17",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 17,
+    "statement": "Dois carros viajando na mesma direção e mesmo sentido se encontram no início da subida de uma ladeira de inclinação constante e igual a 30°. Nesse instante, o carro I tem velocidade de 20 m/s e o II, 5 m/s. Neste ponto, o carro I desliga o motor, enquanto o II continua com a mesma velocidade. Despreze todas as forças de atrito e considere g = 10 m/s². Após quantos metros os carros se encontrarão novamente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.1-2fase-q18",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 18,
+    "statement": "A figura mostra uma esfera de massa m colocada em uma calha horizontal construída com duas paredes planas que formam um ângulo θ entre si e verticalmente simétricas. Considerando g a aceleração da gravidade, o módulo da força de reação exercida por qualquer uma das paredes sobre a esfera é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{mg}{\\text{sen}(\\theta)}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{mg}{2\\,\\text{sen}(\\theta/2)}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{mg}{2\\cos(\\theta/2)}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2mg}{\\cos(\\theta/2)}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1-2fase/qf18.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q19",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Emissoras de rádio AM codificam fala, música e outras informações através de variações na amplitude da onda eletromagnética emitida por suas antenas. Já emissoras de FM fazem isso através de variações na frequência das ondas transmitidas. Da análise da figura pode-se dizer que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a primeira e a terceira onda melhor representam sinais de FM",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a segunda e a terceira onda melhor representam sinais de FM e AM, respectivamente",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a primeira e a segunda onda melhor representam sinais de FM e AM, respectivamente",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a segunda e a terceira onda melhor representam sinais de AM e FM, respectivamente",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1-2fase/qf19.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q20",
+    "examId": "2006.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "A figura mostra uma foto de duas ondas senoidais I e II, de pequena amplitude, que partem simultaneamente do mesmo ponto e se propagam em um lago. Nessa situação, a interferência entre elas gera uma terceira onda. Sobre a terceira onda produzida, podemos afirmar corretamente que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a frequência é o dobro da frequência de I e terá a mesma velocidade de II",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a amplitude será igual à amplitude de II e terá o dobro da velocidade de I",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a amplitude será igual à diferença entre as amplitudes de I e II",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a amplitude será igual à soma das amplitudes de I e II e terá mesma velocidade das ondas que a originam",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1-2fase/qf20.png",
+    "correctAnswer": "d"
   }
 ]

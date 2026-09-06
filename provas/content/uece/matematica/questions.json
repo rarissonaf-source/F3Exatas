@@ -2558,5 +2558,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q1",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Os subconjuntos X, Y e Z do conjunto dos números inteiros positivos são constituídos pelos múltiplos de 6, 10 e 15, respectivamente. O conjunto $X\\cap Y\\cap Z$ é constituído pelos múltiplos inteiros positivos de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "31",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "62",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-2fase-q2",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Em um relógio, se ligássemos as extremidades finais dos ponteiros, teríamos triângulos cujas áreas estariam variando a cada instante. Entre 12h e 18h esta área será máxima em, exatamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 momentos",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 momentos",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12 momentos",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "24 momentos",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2006.1-2fase-q3",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 3,
+    "statement": "José trocou $\\dfrac{3}{5}$ da coleção de selos que tinha por um selo raro. Como $\\dfrac{3}{5}$ dos selos que ele passou a ter eram repetidos, ele resolveu oferecê-los a seu amigo Miguel. Se, depois disso, José ficou com 30 selos, o número de selos que ele tinha inicialmente era:",
+    "options": [
+      {
+        "label": "a",
+        "text": "150",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "175",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "185",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "195",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q4",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 4,
+    "statement": "O número 5131 é formado por quatro algarismos cujo produto é 15. A quantidade de números inteiros, entre 2002 e 9009, cujo produto de seus algarismos é 15, é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "6",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-2fase-q5",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "Se 5, 12 e 13 são as medidas em metros dos lados de um triângulo, então o triângulo é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Isósceles",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Eqüilátero",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Retângulo",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Obtusângulo",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q6",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 6,
+    "statement": "Sejam $f(x)=\\dfrac{x+1}{x-1}$ uma função real de variável real e $f^{-1}$ a função inversa de f. Então o valor de $f(2)\\cdot f^{-1}(2)$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.1-2fase-q7",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 7,
+    "statement": "O conjunto imagem da função $f:\\mathbb{R}\\to\\mathbb{R}$ dada por $f(x)=3\\text{sen}^2x-5\\cos^2x$, isto é, o conjunto $\\{y\\in\\mathbb{R};\\ y=f(x)\\ \\text{para algum}\\ x\\in\\mathbb{R}\\}$, é o intervalo:",
+    "options": [
+      {
+        "label": "a",
+        "text": "[−6,2]",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "[−5,3]",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "[−5,5]",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "[−2,4]",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q8",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 8,
+    "statement": "Se $z_1$ e $z_2$ são as raízes (complexas conjugadas) da equação $x^2-2ax+a^2+b^2=0$, então $|z_1|+|z_2|$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2ab",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(a+b)^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\sqrt{a^2+b^2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "|a|+|b|",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q9",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 9,
+    "statement": "A soma dos quadrados de todas as raízes da equação $x^6-14x^4+49x^2-36=0$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "28",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "36",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q10",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 10,
+    "statement": "O número de raízes reais da equação $4^x-2^x-2=0$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q11",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 11,
+    "statement": "A soma das soluções da equação $2\\cos^2x-2\\text{sen}^2x-1=0$ no intervalo $[0,2\\pi]$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{11\\pi}{6}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\pi$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4\\pi$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{23\\pi}{6}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q12",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 12,
+    "statement": "Se m e n são, respectivamente, o 2005º e o 2006º termos da seqüência 2, -5, 8, -11, 14, -17, 20, ... e se p=m/n então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "p < -1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-2 < 2p < -1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-2 < 4p < -1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1 < 4p < 0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q13",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 13,
+    "statement": "Bruno fez 1 (um) jogo na SENA, apostando nos 6 (seis) números 8, 18, 28, 30, 40 e 50. Automaticamente, Bruno também estará concorrendo à quina (grupo de 5 números), à quadra (grupo de 4 números) e ao terno (grupo de 3 números), a partir do grupo inicialmente apostado. Se n é o número de quinas, q o número de quadras e p o número de ternos incluídos na aposta de Bruno, então n+q+p é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "41",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "81",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q14",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 14,
+    "statement": "O determinante da matriz $\\begin{pmatrix}2x&3&1\\\\1&0&4\\\\0&1&x-1\\end{pmatrix}$ é nulo para um valor de x situado no intervalo:",
+    "options": [
+      {
+        "label": "a",
+        "text": "[−1,0]",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "[0,1]",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "[1,2]",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "[2,3]",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q15",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 15,
+    "statement": "Na figura, vista em corte, a esfera de raio r está colocada no interior do cilindro circular reto de altura h e cujo raio da base é também igual a r. O volume interior ao cilindro e exterior à esfera é igual ao volume da esfera quando:",
+    "options": [
+      {
+        "label": "a",
+        "text": "h = 2r",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "h = $\\dfrac{7}{3}$r",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "h = 3r",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "h = $\\dfrac{8}{3}$r",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1-2fase/q15.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.1-2fase-q16",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Se r é a reta cuja equação é 2x – y + 1 = 0 e s é uma reta perpendicular a r e que contém o ponto (1,2), então a equação de s é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "x + 2y – 5 = 0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "x + y – 3 = 0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2x + y – 4 = 0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "x + 3y – 7 = 0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-2fase-q17",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "Se $f:\\mathbb{R}\\to\\mathbb{R}$ é a função definida por f(x) = |x| se $-1\\le x\\le 1$, e f(x)=1 se $x<-1$ ou $x>1$, a área da região limitada pelo gráfico de f, pelo eixo x e pelas retas x = 2 e x = -2, em unidades de área, é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-2fase-q18",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "No quadriculado retangular abaixo estão representados quatro canteiros. Se os perímetros dos canteiros I, II e III são, respectivamente, 60m, 64m e 56m, então o perímetro do canteiro IV é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "58m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "62m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "68m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1-2fase/q18.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.1-2fase-q19",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "O menor lado de um paralelogramo, cujas diagonais medem respectivamente $8\\sqrt{2}$ m e 10m e formam entre si um ângulo de 45°, mede:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{13}$ m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{17}$ m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{13\\sqrt{2}}{4}$ m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{17\\sqrt{2}}{5}$ m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-2fase-q20",
+    "examId": "2006.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Na figura, o retângulo ABCD foi dividido nas 4 partes X, Y, Z e W. Se X e Y são quadrados de áreas 81m² e 144m², respectivamente, e Z é um triângulo com 102m² de área, então a área da região W é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "327m²",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "316m²",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "309m²",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "282m²",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1-2fase/q20.png",
+    "correctAnswer": "d"
   }
 ]
