@@ -1278,5 +1278,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-q15",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 15,
+    "statement": "A média aritmética de 50 números é 40. Dentre estes números estão os números 75, 125 e 155, os quais são suprimidos. A média aritmética dos 47 números restantes é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "39",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "37",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "35",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "33",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-q16",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 16,
+    "statement": "Em uma venda existem seis depósitos com capacidade de 15, 16, 18, 19, 20 e 31 litros, respectivamente. Um dos depósitos está cheio de nata e os outros estão cheios de leite ou de chocolate líquido. Se o volume de leite é o dobro do de chocolate líquido, a soma dos volumes de chocolate líquido e de nata existentes na venda é",
+    "options": [
+      {
+        "label": "a",
+        "text": "49 litros",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "51 litros",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "53 litros",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "65 litros",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-q17",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "Participei de um sorteio de oito livros e quatro DVD's, todos distintos, e ganhei o direito de escolher dentre estes, três dos livros e dois dos DVD's. O número de maneiras distintas que eu posso fazer esta escolha é",
+    "options": [
+      {
+        "label": "a",
+        "text": "32",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "192",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "242",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "336",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-q18",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "A corda PQ de uma circunferência S, cuja medida do diâmetro é 10m, é o diâmetro de uma outra circunferência menor, que passa pelo centro de S. A medida da área da região limitada pela circunferência menor é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{25\\pi}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{15\\pi}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{10\\pi}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{20\\pi}{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-q19",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "Sobre as funções f(x) = tgx, g(x) = 2^x, p(x) = x² e q(x) = x + 2, todas elas definidas no intervalo [-1, 1], podemos afirmar corretamente que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Assumem somente valores não negativos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Exatamente três delas são crescentes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Todas as funções, como definidas, possuem inversas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Apenas uma delas é periódica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-q20",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 20,
+    "statement": "O polinômio P(x) = x³ + ax² + bx + c, é tal que o polinômio Q(x)=P(x)+P(-x) se anula em x = 2 e Q(1) = 2. Podemos afirmar corretamente que o produto das raízes de P(x) é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{4}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3}{4}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-\\dfrac{4}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-\\dfrac{3}{4}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-q21",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 21,
+    "statement": "Um cone circular reto, cuja medida da altura é h, é seccionado, por um plano paralelo à base, em duas partes: um cone cuja medida da altura é $\\dfrac{h}{5}$ e um tronco de cone, conforme a figura. A razão entre as medidas dos volumes do cone maior e do cone menor é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "15",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "90",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "125",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1/q21.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-q22",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 22,
+    "statement": "Na última eleição para diretor de um clube, na qual 11% dos sócios votaram em branco e 13% anularam o voto, o vencedor obteve 52% dos votos válidos. Não são considerados válidos os votos em brancos e os votos nulos. Todos os sócios votaram. Nestas condições o vencedor, de fato, obteve de todos os sócios um percentual de votos da ordem de",
+    "options": [
+      {
+        "label": "a",
+        "text": "38,02%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "39,52%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40,50%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "41,05%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-q23",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "A soma das coordenadas do centro da circunferência que tem raio medindo 1 u.c., que está situada no primeiro quadrante e que tangencia o eixo dos y e a reta 4x - 3y = 0, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6 u.c.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-q24",
+    "examId": "2008.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 24,
+    "statement": "O número de soluções da equação $|\\text{sen}2x|=|\\cos x|$, no intervalo $[0,2\\pi]$, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

@@ -766,5 +766,197 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-q37",
+    "examId": "2008.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 37,
+    "statement": "Na figura abaixo, C é um anteparo e $S_0$, $S_1$ e $S_2$ são fendas nos obstáculos A e B. Assinale a alternativa que contém os fenômenos ópticos esquematizados na figura.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Reflexão e difração",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Difração e interferência",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Polarização e interferência",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Reflexão e interferência",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1/q37.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-q38",
+    "examId": "2008.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 38,
+    "statement": "Um capacitor tem uma capacitância de $8,0\\times10^{-11}$ F. Se o potencial elétrico entre suas placas for 12 V, o número de elétrons em excesso na sua placa negativa é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$9,6\\times10^{14}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$8,0\\times10^{20}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6,0\\times10^{9}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5,0\\times10^{8}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-q39",
+    "examId": "2008.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 39,
+    "statement": "Uma corda de 90 cm é presa por suas extremidades, em suportes fixos, como mostra a figura. Assinale a alternativa que contém os três comprimentos de onda mais longos possíveis para as ondas estacionárias nesta corda, em centímetros.",
+    "options": [
+      {
+        "label": "a",
+        "text": "90, 60 e 30",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "180, 90 e 60",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "120, 90 e 60",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120, 60 e 30",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-q40",
+    "examId": "2008.1",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 40,
+    "statement": "Suponha que a Terra se mova em torno do Sol em uma órbita circular de raio $r=1,5\\times10^{11}m$. Considerando a constante da gravitação universal $G=6,8\\times10^{-11}\\ Nm^2/kg^2$ e um ano (período de revolução da Terra em torno do Sol) $T=3,0\\times10^7 s$, assinale a alternativa que contém a ordem de grandeza da massa do Sol (em kg).",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^{44}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{33}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^{36}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^{30}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-q41",
+    "examId": "2008.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 41,
+    "statement": "Assinale a alternativa que, de acordo com a física newtoniana, contém apenas grandezas (físicas) que não dependem do referencial inercial adotado.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trabalho e energia cinética",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Força, massa e aceleração",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Massa, energia cinética e aceleração",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Temperatura e velocidade",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-q42",
+    "examId": "2008.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 42,
+    "statement": "Um sistema massa-mola é preso ao teto. A partir do ponto de equilíbrio faz-se a massa oscilar com pequena amplitude. Quadruplicando-se o valor da massa, repete-se o mesmo procedimento. Neste caso, podemos afirmar corretamente que a frequência de oscilação",
+    "options": [
+      {
+        "label": "a",
+        "text": "é reduzida à metade.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "dobra.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "permanece a mesma.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "quadruplica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
