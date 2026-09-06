@@ -18398,5 +18398,837 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2008-2008.1-q29",
+    "examId": "cg-2008-2008.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 29,
+    "statement": "O casal Roberta tem sete filhos de idades distintas e deseja distribuir entre eles 707 moedas de ouro iguais, começando pelo filho mais moço e, por ordem crescente das idades, o casal distribuirá as moedas, de modo que cada filho receberá uma moeda a mais do que o irmão imediatamente mais novo. Quantas moedas receberá o filho mais velho?",
+    "options": [
+      {
+        "label": "a",
+        "text": "105.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "103.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "104.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "102.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2008-2008.1-q30",
+    "examId": "cg-2008-2008.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 30,
+    "statement": "Se D é o determinante da matriz $\\begin{pmatrix}3^x+3^{-x} & 3^x-3^{-x} \\\\ 3^x-3^{-x} & 3^x+3^{-x}\\end{pmatrix}$. O valor de $\\log_4 D$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2008-2008.1-q31",
+    "examId": "cg-2008-2008.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 31,
+    "statement": "Um disco de metal, ao ser colocado em um forno, sofre uma dilatação de 1,5\\% da área. Das opções abaixo, o valor mais próximo do aumento percentual da área do disco é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "cg-2008-2008.1-q32",
+    "examId": "cg-2008-2008.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 32,
+    "statement": "Considere a equação $4x+12y=1705$. Diz-se que ela admite uma solução inteira se existir um par ordenado (x,y) com x e y $\\in\\mathbb{Z}$, que satisfaça identicamente. A quantidade de soluções inteiras dessa equação é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2008-2008.1-q33",
+    "examId": "cg-2008-2008.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 33,
+    "statement": "P(x) é um polinômio do 2° grau e K um número real não nulo. Se P(0)=0, $P(-k)=2k^2$ e $P(x)=P(k-x)$ para todo x real, então o resto da divisão de P(x) por x-1 é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1-k.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-k.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2008-2008.1-q34",
+    "examId": "cg-2008-2008.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 34,
+    "statement": "Na figura, temos o esboço do gráfico da função definida por $y=\\log_{(a+b)}^{(x-b)}$, passando pelos pontos (a,0) e (3a,2). O valor de a+b é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.1-q35",
+    "examId": "cg-2008-2008.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 35,
+    "statement": "Os números reais x e y são tais que $y=\\dfrac{2x^2+5x-3}{1-5x}$. Nessas condições, tem-se y<0 se, e somente se, x satisfizer a condição:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$-3<x<-1/2$ ou $x>-1/5$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$-3<x<1/2$ ou $x>1/5$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-3<x<1/5$ ou $x>1/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x<-3$ ou $1/5<x<1/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2008-2008.1-q36",
+    "examId": "cg-2008-2008.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 36,
+    "statement": "A área do quadrilátero determinado pelos pontos de intersecção da circunferência da equação $(x+3)^2+(y-3)^2=10$ com os eixos coordenados, em unidades de área, é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2008-2008.2-q29",
+    "examId": "cg-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 29,
+    "statement": "Três sócios formaram uma sociedade com capitais iguais, permanecendo o primeiro durante 12 meses; o segundo 8 meses e o terceiro por 10 meses. Calcule quanto ganhou o segundo sócio, se a sociedade apresentou um lucro de R\\$9.000,00.",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 6.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 2.400,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 3.400,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 7.000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.2-q30",
+    "examId": "cg-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 30,
+    "statement": "O conjunto solução da equação $x\\sqrt{x\\sqrt{x\\sqrt{x}}}\\ldots=144$ em $\\mathbb{N}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "{12}.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "{3,4}.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "{5,6}.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "{6}.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2008-2008.2-q31",
+    "examId": "cg-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "As intersecções das retas y=x, y=-x e y=4 em IR são vértices de um triângulo cujas unidades de área são:",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.2-q32",
+    "examId": "cg-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 32,
+    "statement": "Sendo k um número real, então o sistema de equações $\\{kx+y=2;\\ ky+z=2;\\ x+kz=2\\}$ não possui solução se, e somente se, k for igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2008-2008.2-q33",
+    "examId": "cg-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 33,
+    "statement": "No triângulo ADE da figura, em que B e C são pontos dos lados $\\overline{AD}$ e $\\overline{AE}$, respectivamente, $\\overline{AB}=\\overline{AC}=\\overline{BC}=\\overline{BD}$ e $\\overline{CD}=\\overline{CE}$, então o ângulo $\\beta$ vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "52°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "32°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "48°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "68°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2008-2008.2-q34",
+    "examId": "cg-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 34,
+    "statement": "Seja B uma matriz. Se $B^3=\\begin{pmatrix}1&0&0\\\\0&9&9\\\\0&6&9\\end{pmatrix}$, o determinante B é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2008-2008.2-q35",
+    "examId": "cg-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 35,
+    "statement": "Sabendo que duas raízes da equação $x^3+7x^2-kx-7=0$ são iguais e de sinais contrários, qual é o valor de k?",
+    "options": [
+      {
+        "label": "a",
+        "text": "-3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2008-2008.2-q36",
+    "examId": "cg-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 36,
+    "statement": "Mediu-se a frente de um terreno e achou-se 2.965 m. Verificou-se que a trena que serviu para a medição estava errada tendo 3 milímetros a mais que o metro padrão. Então a verdadeira medida, da frente do terreno é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.964,997 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.956,105 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.973,895 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.975,795 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2008-2008.2-q1",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 1,
+    "statement": "Um recipiente tem 1/3 de sua capacidade cheio de água. Após se retirarem 5 litros, ele ficou com apenas 1/4 de sua capacidade. Deseja-se deixar o recipiente completamente cheio. Quantos litros de água devem ser acrescentados?",
+    "options": [
+      {
+        "label": "a",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "35.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2008-2008.2-q2",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 2,
+    "statement": "Seja $f(x)=x^2-2x+5$. O conjunto de valores de x tais que $f(x^2)=f(x)$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "{-2,0,1}.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "{-2,3}.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "{0,1,$\\sqrt{3}$}.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "{-2,1}.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2008-2008.2-q3",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "Dada a equação $x^2+y^2=4x+8y-19$. Se $k_1$ é o maior valor possível de x, $k_2$ é o maior valor possível de y, então $2k_1+5k_2$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "31.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2008-2008.2-q4",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 4,
+    "statement": "O quociente da divisão $p(x)=(x^2+3)^4\\cdot(x^3+2)^2$ por um polinômio de grau 2 é um polinômio de grau:",
+    "options": [
+      {
+        "label": "a",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "13.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "19.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2008-2008.2-q5",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 5,
+    "statement": "A soma dos coeficientes de todos os termos do desenvolvimento de $(3x-2y)^{2001}$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "121.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "mf-2008-2008.2-q6",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 6,
+    "statement": "Se 2a+3b=10, então $\\begin{vmatrix}a&b&a^2+b^2\\\\a&0&a^2\\\\-2&-3&-10\\end{vmatrix}$ vale:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2008-2008.2-q7",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 7,
+    "statement": "Sabendo que as soluções da equação $|x|^2-6|x|-16=0$ são raízes da equação $x^2-mx+n=0$, podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "m=0 e n=64.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "m=0 e n=-64.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "m=64 e n=-64.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "m=-64 e n=-64.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "mf-2008-2008.2-q8",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "Quatro círculos iguais, de raio k, estão inscritos em um quadrado. Sabendo que os círculos se tangenciam entre si e com os lados do quadrado, quanto vale a área do quadrado em função de k?",
+    "options": [
+      {
+        "label": "a",
+        "text": "12k².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "13k².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16k².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "17k².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "mf-2008-2008.2-q9",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "A equação $x^2+y^2+6x+6y+9=0$ representa:",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma elipse.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o conjunto vazio.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma hipérbole.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma circunferência.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "mf-2008-2008.2-q10",
+    "examId": "mf-2008-2008.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "Um paralelepípedo retângulo tem área total de $702\\ dm^2$. Sabendo que suas dimensões estão em progressão geométrica de razão 3, calcule a soma de suas dimensões.",
+    "options": [
+      {
+        "label": "a",
+        "text": "38 dm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "37 dm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "39 dm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40 dm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
