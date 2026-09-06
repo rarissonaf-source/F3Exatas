@@ -37,7 +37,7 @@ export const INSTITUTIONS: Institution[] = [
     fullName: "Fundação Universitária para o Vestibular",
     state: "SP",
     stateName: "São Paulo",
-    logo: "/brand/institutions/fuvest.png",
+    logo: "/brand/institutions/fuvest.webp",
     disciplines: [
       { slug: "fisica", name: "Física" },
       { slug: "matematica", name: "Matemática" },
