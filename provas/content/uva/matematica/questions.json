@@ -21854,5 +21854,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2013-2013.2-q29",
+    "examId": "cg-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 29,
+    "statement": "Em um certo campeonato de basquete, a classificação de cada equipe é feita de acordo com o aproveitamento (razão entre o número de vitórias e o de partidas jogadas). Se a equipe X jogou 20 partidas e venceu 11, a equipe Y jogou 19 partidas e venceu 10 e a equipe Z jogou 24 partidas e venceu 13, então:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a equipe Z tem melhor aproveitamento que a equipe X.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as equipes X e Y têm o mesmo aproveitamento.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "das três equipes, o pior aproveitamento é o da equipe Y.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "das três equipes, o melhor aproveitamento é o da equipe Z.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2013-2013.2-q30",
+    "examId": "cg-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 30,
+    "statement": "O gráfico a seguir mostra os números do desemprego na Venezuela entre 1994 e 2012 (Taxa de desocupação, em porcentagem da população economicamente ativa). Sobre este período, é correto afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "entre 1994 e 2003 o desemprego aumentou ano após ano.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "em 1998 ocorre a menor taxa de desemprego.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "entre 2003 e 2008 houve redução na taxa de desemprego.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a taxa de desemprego se manteve sempre acima de 10%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "cg-2013-2013.2-q31",
+    "examId": "cg-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 31,
+    "statement": "Na figura, os segmentos AB e BC têm o mesmo comprimento. Sendo M o ponto médio do segmento BC, o ângulo $\\alpha$ indicado é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "105°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "115°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "125°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "135°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2013-2013.2-q32",
+    "examId": "cg-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 32,
+    "statement": "Uma bicicleta tem rodas de tamanhos diferentes. A roda maior tem raio R metros e a roda menor tem raio r metros. Sabendo que a bicicleta se movimentou por 2 km em linha reta, a diferença entre o número de voltas dadas pelas duas rodas é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1000(r-R)/\\pi(r\\cdot R)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1000(R-r)/\\pi(r\\cdot R)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi(r-R)/1000$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi(R-r)/1000$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2013-2013.2-q33",
+    "examId": "cg-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 33,
+    "statement": "No Brasil, as caixas acopladas para descarga em sanitários devem ter capacidade de 6 litros. Em uma determinada cidade, a companhia de água cobra R$1,20 por metro cúbico de água consumida. Supondo que, em uma residência, a descarga seja acionada duas vezes por dia num mês de 30 dias, o uso da água com descargas:",
+    "options": [
+      {
+        "label": "a",
+        "text": "custa mais de R$4,00 por mês.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "custa menos de R$0,50 por mês.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "custa R$21,60 por mês.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "custa R$43,20 por mês.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "cg-2013-2013.2-q34",
+    "examId": "cg-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 34,
+    "statement": "Na cidade de Rosa Verde, dois bairros novos estão sendo construídos. O ritmo das obras se dá de tal forma que a quantidade de casas no Bairro Amarelo duplica a cada três anos. Já no Bairro Bege, a quantidade de casas triplica a cada dois anos. Supondo que os dois bairros foram inaugurados no mesmo dia, com 2.500 casas no Bairro Amarelo e 800 casas no Bairro Bege, e que o ritmo das construções permanecerão na mesma proporção, após a inauguração podemos afirmar que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "em 6 anos, o Bairro Bege terá mais que o dobro de casas do Bairro Amarelo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "em 4 anos, o Bairro Amarelo terá mais casas que o Bairro Bege.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "os Bairros Amarelo e Bege terão o mesmo número de casas após 2 anos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a quantidade de casas no Bairro Bege aumenta 6 vezes a cada 4 anos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "cg-2013-2013.2-q35",
+    "examId": "cg-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 35,
+    "statement": "O domínio da função $f(x)=\\dfrac{\\sqrt[3]{1-x^5}}{\\log_4(x^2-1)}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "o conjunto dos números reais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o conjunto dos números reais, exceto x=1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o conjunto dos números reais, exceto os que estão no intervalo [-1,1].",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o conjunto dos números reais menores do que -1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "cg-2013-2013.2-q36",
+    "examId": "cg-2013-2013.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 36,
+    "statement": "Sobre a função $f(x)=|ax^2+c|$, com $a\\ne0$ e x variando nos reais, é verdade que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f não atinge valor mínimo, se $a\\cdot c>0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f atinge o valor mínimo em exatamente um ponto, se $a\\cdot c<0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "f não atinge um valor máximo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f atinge o valor máximo quando $a\\cdot c=0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]

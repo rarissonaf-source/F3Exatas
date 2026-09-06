@@ -526,5 +526,13 @@
     "edition": "2004.2",
     "examType": "geral",
     "sourceFile": "Vestibular Comentado UVA 2004.2.pdf"
+  },
+  {
+    "id": "cg-2013-2013.2",
+    "institution": "UVA",
+    "year": 2013,
+    "edition": "2013.2",
+    "examType": "geral",
+    "sourceFile": "CG - ESPANHOL.pdf"
   }
 ]
