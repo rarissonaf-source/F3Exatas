@@ -1,6 +1,7 @@
 const COURSES = {
   "ifma-matematica": "Matemática para o Técnico Integrado do IFMA",
   "halliday-fisica": "Física com Halliday — Resolução e Revisão",
+  "uva-fisica": "Física para o Vestibular da UVA",
 };
 
 const SESSION_KEY = "f3cursos_sim_session";

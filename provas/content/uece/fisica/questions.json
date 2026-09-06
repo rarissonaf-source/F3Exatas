@@ -1,0 +1,194 @@
+[
+  {
+    "id": "2006.1-q49",
+    "examId": "2006.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 49,
+    "statement": "Considere uma cadeira de roda gigante de raio R, girando em movimento circular uniforme com velocidade tangencial de módulo v. A diferença entre a força de reação, nos pontos mais baixo e mais alto, que a cadeira exerce sobre uma pessoa, de massa m, nela sentada, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{mv^2}{2R}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{mv^2}{R}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3mv^2}{2R}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2mv^2}{R}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.1-q50",
+    "examId": "2006.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 50,
+    "statement": "Um décimo de um mol de um gás ideal experimenta o processo descrito pela reta AB do gráfico mostrado na figura. A quantidade de calor absorvido pelo gás neste processo, em Joules, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "50",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "400",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1/q50.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-q51",
+    "examId": "2006.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 51,
+    "statement": "A figura mostra uma foto, em um dado instante, de uma onda senoidal transversal se propagando ao longo de uma corda de densidade linear 25 g/m. Sendo 3,6 N a tensão na corda, a frequência dessa onda, em Hertz, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1/q51.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-q52",
+    "examId": "2006.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 52,
+    "statement": "Um carro derrapando com as rodas travadas (sem rotação nos pneus) tem aderência à estrada:",
+    "options": [
+      {
+        "label": "a",
+        "text": "maior em um plano horizontal",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "maior em uma subida",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "maior em uma descida",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "igualmente em um plano horizontal, subida ou descida",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-q53",
+    "examId": "2006.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 53,
+    "statement": "Quatro resistores e duas baterias estão conectados de acordo com a figura. O interruptor 1 está inicialmente ligado e o 2, desligado. Num segundo momento, o interruptor 1 é desligado e o 2, ligado. Qual deve ser a voltagem V na bateria B para que a corrente nela seja o dobro da corrente na bateria A?",
+    "options": [
+      {
+        "label": "a",
+        "text": "8 Volts",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4 Volts",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2 Volts",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 Volt",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1/q53.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-q54",
+    "examId": "2006.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 54,
+    "statement": "Um espelho plano é atingido por um raio de luz, conforme a figura. O espelho é girado de um ângulo $\\theta/2$ no sentido horário, em torno de um eixo perpendicular ao plano da figura, passando por P. O ângulo entre o raio incidente e o refletido, após o giro, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$180-\\theta$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$180-2\\theta$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\theta$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\theta$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1/q54.png",
+    "correctAnswer": "a"
+  }
+]

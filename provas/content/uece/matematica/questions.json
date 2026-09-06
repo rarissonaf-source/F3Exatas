@@ -1,0 +1,322 @@
+[
+  {
+    "id": "2006.1-q39",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 39,
+    "statement": "O valor da expressão numérica $1^{-2}-2^{-1}+8^{1/3}-0,2+2^0$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.1-q40",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 40,
+    "statement": "A equação do segundo grau cujas raízes são $-\\dfrac{1}{2}$ e $\\dfrac{1}{3}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x^2-\\dfrac{1}{2}x+\\dfrac{1}{3}=0$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x^2+\\dfrac{1}{2}x+\\dfrac{1}{3}=0$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6x^2+x-1=0$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6x^2-x+1=0$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-q41",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 41,
+    "statement": "A equação da reta que contém o ponto (1,2) e é perpendicular à reta 2x - y + 1 = 0 é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "x + 2y - 5 = 0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "x + y - 3 = 0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2x + y - 4 = 0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "x + 3y - 7 = 0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-q42",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 42,
+    "statement": "Se $\\log_2 10=t$, então $\\log_{10}2$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2t",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^t$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{2t}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{t}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.1-q43",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 43,
+    "statement": "Sobre a função real dada por $f(x)=2^x$, $x\\in\\mathbb{R}$, é possível afirmar, corretamente, que para quaisquer $p,q\\in\\mathbb{R}$:",
+    "options": [
+      {
+        "label": "a",
+        "text": "f(p + q) = f(p) + f(q)",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f(p + q) = f(p) . f(q)",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "f(p + q) = f(p . q)",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f(p + q) = p.f(q) + q.f(p)",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-q44",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 44,
+    "statement": "Quantos números inteiros, positivos e menores que 2006 são pares e múltiplos de 7?",
+    "options": [
+      {
+        "label": "a",
+        "text": "143",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "189",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "201",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "286",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.1-q45",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 45,
+    "statement": "Em um ano não bissexto (365 dias), com 53 domingos o dia 8 de março será:",
+    "options": [
+      {
+        "label": "a",
+        "text": "um domingo",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma terça-feira",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma quarta-feira",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "um sábado",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-q46",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 46,
+    "statement": "Se o triângulo equilátero CDE é exterior ao quadrado ABCD, a medida do ângulo ACE é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "60 graus",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "105 graus",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "135 graus",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "150 graus",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.1-q47",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 47,
+    "statement": "Na figura, a área da região sombreada é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,85 $m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,15 $m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,50 $m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,75 $m^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.1/q47.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.1-q48",
+    "examId": "2006.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 48,
+    "statement": "Se f é o número de faces, v o número de vértices e a o número de arestas de um paralelepípedo retângulo, então a soma f + v + a é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "22",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "26",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  }
+]

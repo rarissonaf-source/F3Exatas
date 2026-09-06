@@ -31,6 +31,31 @@ export const INSTITUTIONS: Institution[] = [
     logo: "/brand/institutions/ifma.png",
     disciplines: [{ slug: "matematica", name: "Matemática" }],
   },
+  {
+    slug: "fuvest",
+    name: "FUVEST",
+    fullName: "Fundação Universitária para o Vestibular",
+    state: "SP",
+    stateName: "São Paulo",
+    logo: "/brand/institutions/fuvest.png",
+    disciplines: [
+      { slug: "fisica", name: "Física" },
+      { slug: "matematica", name: "Matemática" },
+    ],
+    comingSoon: true,
+  },
+  {
+    slug: "uece",
+    name: "UECE",
+    fullName: "Universidade Estadual do Ceará",
+    state: "CE",
+    stateName: "Ceará",
+    logo: "/brand/institutions/uece.png",
+    disciplines: [
+      { slug: "fisica", name: "Física" },
+      { slug: "matematica", name: "Matemática" },
+    ],
+  },
 ];
 
 export const STATES = Array.from(
