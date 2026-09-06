@@ -1150,5 +1150,645 @@
     ],
     "imagePath": "2008.2/q42.png",
     "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-2fase-q1",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 1,
+    "statement": "Um facho planar de luz (largo e de espessura desprezível) incide simultaneamente sobre dois espelhos planos paralelos e separados por uma distância d, gerando dois fachos refletidos conforme a figura. Se o ângulo de incidência é θ, pode-se afirmar, corretamente, que a distância entre os planos dos dois fachos refletidos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{d}{\\cos\\theta}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{d}{\\text{sen}\\,\\theta}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$d\\cos\\theta$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2d\\,\\text{sen}\\,\\theta$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf1.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q2",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 2,
+    "statement": "Considere um prisma, cuja base é um triângulo retângulo e isósceles, composto de um material de índice de refração n. Um raio de luz, incidindo em uma das faces, sai perpendicularmente a uma face vizinha, conforme a figura. Considerando que o índice de refração do ar é igual a 1, o seno do ângulo de incidência do feixe é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$n\\dfrac{\\sqrt{2}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$n\\dfrac{2}{\\sqrt{2}}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{n}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$n\\sqrt{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf2.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q3",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 3,
+    "statement": "No circuito da figura, as baterias são ideais. A respeito das correntes I1 e I2 nos resistores R1 e R2, respectivamente, pode-se afirmar, corretamente, que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$I_1=2I_2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$I_1=\\dfrac{1}{2}I_2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$I_1=I_2\\ne0$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$I_1=I_2=0$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf3.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q4",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 4,
+    "statement": "Considere duas esferas de raios desprezíveis com cargas elétricas iguais e de sinais opostos ligadas por uma haste rígida, isolante, eletricamente neutra e de espessura também desprezível. Suponha que a haste seja paralela ao plano da figura e no instante inicial todo o conjunto esteja com velocidade v perpendicular à haste e sem rotação, conforme a figura abaixo. Se o sistema esferas-haste estiver na presença de um campo magnético constante e de direção perpendicular ao plano da figura, pode-se afirmar corretamente que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "O sistema não sofre alteração de velocidade.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O sistema tende a girar em sentido horário em torno do centro.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O sistema tende a girar em sentido anti-horário em torno do centro.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O sistema sofre aceleração vertical até parar.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf4.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q5",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 5,
+    "statement": "Dois cilindros verticais idênticos, I e II, contêm o mesmo número de mols de um gás ideal à temperatura T. Os cilindros estão fechados por êmbolos de pesos WI e WII (WI > WII) que podem deslizar sem atrito. No gráfico, as curvas que melhor representam a variação de volume do gás com a temperatura nos cilindros I e II, respectivamente, são:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 e 4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 e 2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2 e 1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4 e 3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q6",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 6,
+    "statement": "Uma partícula desliza sem atrito desde o instante t0 sobre uma superfície horizontal. No instante t1 uma força de módulo constante atua, sempre perpendicularmente à trajetória da partícula, somente até o tempo t2. A curva que melhor representa a trajetória da partícula desde t0 até um tempo posterior a t2 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "A",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "B",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "C",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "D",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf6.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q7",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 7,
+    "statement": "Um objeto de densidade $\\rho$ e volume V flutua com 50% de seu volume submerso em um líquido de densidade $\\rho_L$. O recipiente que contém o líquido está sobre uma balança. Um agente externo imprime uma força vertical sobre o objeto de modo a mantê-lo completamente imerso e imóvel. Nessa situação, pode-se dizer que a leitura da balança fica acrescida de",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\rho V}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\rho_L V}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\rho V$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\rho_L V$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q8",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 8,
+    "statement": "Dois trens, T1 e T2, trafegam em linhas vizinhas, 1 e 2. O trecho 1 é um arco AB de circunferência de raio R = 160m e o trecho 2, uma reta CD, sendo o sentido de movimento de cada trem definido pela seta sobre cada linha. A velocidade do trem T1 é constante em módulo e a aceleração de um passageiro, sentado junto à janela desse trem, tem módulo igual a 2,5m/s². A velocidade do trem T2 é V2, constante em módulo, direção e sentido. A velocidade V2 para que um passageiro, do trem T1, situado no ponto P (ponto mais próximo da reta CD) veja o trem T2 com velocidade relativa nula, é, em m/s:",
+    "options": [
+      {
+        "label": "a",
+        "text": "10",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf8.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-2fase-q9",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 9,
+    "statement": "Dois blocos de massa m são ligados por um fio inextensível e de massa desprezível, que passa por uma roldana que pode girar sem qualquer atrito. Um dos blocos repousa sobre um plano com inclinação θ em relação à horizontal, conforme a figura. Supondo que o ângulo θ é tal que o bloco está na iminência do deslizamento, o coeficiente de atrito estático entre o bloco e o plano é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\text{sen}\\,\\theta}{1+\\cos\\theta}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1+\\text{sen}\\,\\theta}{\\cos\\theta}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\text{sen}\\,\\theta}{1-\\cos\\theta}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\text{sen}\\,\\theta}{\\cos\\theta}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf9.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q10",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 10,
+    "statement": "Uma alavanca rígida, com massa desprezível e comprimento l é utilizada para equilibrar um bloco de massa m. Para saber a força necessária para isto, foi conectado um dinamômetro à haste conforme a figura. Tomando a gravidade como sendo de módulo g e sabendo que a leitura do dinamômetro é b, pode-se afirmar, corretamente, que a força F tem módulo, em Newton, igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "mg(l−a)",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{mgl}{a}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "b−mg",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(b−mg)(l−a)",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf10.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-2fase-q11",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 11,
+    "statement": "Suponha que a intensidade sonora mínima perceptível pelo ouvido humano é de x J/m². Se o som for produzido por uma fonte puntiforme, essa densidade de energia decresce proporcionalmente à área da superfície esférica com centro na fonte. Assim, a máxima distância para que uma fonte sonora de 4 J/m² seja audível é, em metro,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{\\dfrac{1}{\\pi x}}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4\\pi x$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{x}{4\\pi}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{\\pi x}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q12",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 12,
+    "statement": "Uma esfera metálica maciça é carregada eletricamente com carga positiva. Considerando que o potencial no infinito é zero, podemos afirmar que os potenciais VA, VB e VC referentes, respectivamente, aos pontos A, B e C são, conforme sua intensidade,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$V_A<V_B<V_C$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$V_A>V_B=V_C$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$V_A=V_B>V_C$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$V_A>V_B>V_C$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf12.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-2fase-q13",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 13,
+    "statement": "No circuito, a leitura de corrente no galvanômetro G é igual a zero. O valor de Rx, em Ω, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf13.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q14",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 14,
+    "statement": "Uma partícula é lançada da origem de um sistema tri-ortogonal de referência num plano vertical. Desprezando-se os atritos e considerando g = 10 m/s², a componente vertical da velocidade inicial da partícula, para que ela atinja a posição 50 m na horizontal, com velocidade horizontal de 10 m/s é, em m/s",
+    "options": [
+      {
+        "label": "a",
+        "text": "25",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "35",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q15",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 15,
+    "statement": "A posição de um objeto que se move em linha reta é dada por $x=3t-4t^2+t^3$, sendo x em metros e t em segundos. A velocidade média no intervalo de tempo de t = 2 a t = 4 é, em m/s igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14/6",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10/6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q16",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 16,
+    "statement": "O peso de uma âncora de ferro ($\\rho_{Fe}=7.870\\ kg/m^3$), quando totalmente imersa em água, parece 200 N mais leve que no ar. Considerando a densidade da água como 1.000 kg/m³ e g = 10 m/s², o peso da âncora no ar, em Newton, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.574",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7.870",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.000",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.000",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q17",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 17,
+    "statement": "A figura mostra as trajetórias de três partículas carregadas que passam num plano através de uma região com campo magnético $\\vec{B}$ constante, uniforme e perpendicular a esse plano. Podemos garantir que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a partícula 2 é a que tem a maior carga.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as partículas 1 e 3 têm as mesmas velocidades.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a partícula 1 tem a maior massa.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "as partículas 1 e 3 têm cargas diferentes.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/qf17.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q18",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 18,
+    "statement": "Os pneus de um automóvel, que trafega a 80 km/h, têm 75 cm de diâmetro. O automóvel chega ao repouso após 30 voltas dos pneus (sem derrapar). Considerando constante a aceleração angular dos pneus neste percurso, seu módulo, em rad/s², é, aproximadamente, igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "29,30",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "19,36",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9,32",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,46",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-2fase-q19",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "A primeira lei da Termodinâmica trata do princípio de conservação da energia. Nela, uma dada quantidade de calor, ΔQ, cedida a um sistema termodinâmico será usada para aumentar a energia interna, ΔU, do sistema e realizar trabalho, ΔW. Dessas três grandezas da primeira lei:",
+    "options": [
+      {
+        "label": "a",
+        "text": "ΔQ é independente do processo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ΔU é independente do processo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ΔW é independente do processo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Todas dependem do processo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q20",
+    "examId": "2006.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Um homem bate em uma das extremidades de uma haste de alumínio, de 43,5 m de comprimento. No outro extremo, seu colega, com o ouvido encostado na haste, ouve o som duas vezes (um pelo ar e outro pela haste) com intervalos de 0,12 s entre eles. Considerando que a velocidade do som no ar é 343 m/s, a velocidade do som no alumínio, em m/s, é, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "6376",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3625",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2858",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "343",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]

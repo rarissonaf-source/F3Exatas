@@ -114,7 +114,13 @@ export function QuestionCard({
             {institutionName} {exam?.edition}
           </span>
           <span className="text-border">|</span>
-          <span>{exam?.examType === "geral" ? "Conh. Gerais" : "Conh. Específicos"}</span>
+          <span>
+            {exam?.examType === "geral"
+              ? "Conh. Gerais"
+              : institution === "uece"
+                ? "2ª Fase"
+                : "Conh. Específicos"}
+          </span>
         </div>
         <button
           type="button"

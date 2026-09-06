@@ -1918,5 +1918,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q1",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Se x e y são as médias aritmética e geométrica, respectivamente, dos números $\\dfrac{1}{2},\\dfrac{1}{4}$ e $\\dfrac{1}{8}$, então a razão y/x é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "6/7",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7/6",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7/8",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8/7",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q2",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 2,
+    "statement": "Uma companhia de aviação alugou uma aeronave de 100 lugares para uma excursão dos alunos da Faculdade MCF. Cada aluno deve pagar R$ 800,00 por sua passagem. Além disso, cada um dos passageiros deve pagar uma taxa de R$ 16,00 por cada lugar não ocupado do avião. Nesta transação a quantia máxima que a companhia pode receber é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 80.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 90.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 116.000,00",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 128.000,00",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q3",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 3,
+    "statement": "Tomando $p=32+16+8+4+\\ldots$, o número $q=\\sqrt[3]{p}-\\sqrt[6]{p}$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q4",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 4,
+    "statement": "Durante as férias escolares, o estudante João trabalhou na Sapataria FINOCOURO, na qual havia em estoque um total de 238 pares de sapato, não havendo reposição ou incremento no estoque ao longo do período trabalhado. João elaborou o gráfico abaixo que representa a quantidade de pares de sapatos que ele vendeu no período trabalhado, identificando os pares de sapatos pelos seus tamanhos (numeração de 37 até 44): tamanho 37: 21, 38: 24, 39: 26, 40: 36, 41: 43, 42: 28, 43: 18, 44: 11 pares vendidos. Sabendo-se que João foi o único vendedor no período, a porcentagem de pares de sapatos que restaram no estoque é, aproximadamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "12%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "13%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-2fase-q5",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "Num plano munido de um Sistema Cartesiano usual, a medida, em unidade de área, da área da região do plano determinada por $2|x|+3|y|\\le 6$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "12",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q6",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 6,
+    "statement": "O ponto V(1,−2) é o vértice da parábola que configura o gráfico da função quadrática $f(x)=ax^2+bx$. Se os pontos $(-2,y_1)$ e $(-1,y_2)$ pertencem ao gráfico de f, então o valor de $y_1+y_2$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "19",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "21",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "22",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q7",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "O valor de k para o qual a equação matricial $X^2-kX^2-Y=0$, é igual a matriz identidade, sendo $X=\\begin{pmatrix}1&0\\\\0&k\\end{pmatrix}$ e $Y=\\begin{pmatrix}1&0\\\\0&-k\\end{pmatrix}$, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "–2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "–1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q8",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 8,
+    "statement": "O número n = abc está escrito no sistema decimal utilizando três algarismos a, b e c, diferentes entre si e nenhum nulo. Os algarismos podem variar, mantendo a soma constante a + b + c = 8. A soma S de todos os números de três algarismos, que podem ser escritos atendendo as condições acima, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2336",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2886",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3442",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3552",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q9",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 9,
+    "statement": "Sejam $A=\\{1,2,3,4,5\\}$ e f a função definida por: f(1)=4; f(2)=1; f(3)=3; f(4)=5 e f(5)=2. Se, para n>1, $f^n(x)=f(f^{n-1}(x))$ então o valor de $f^{2006}(4)$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-2fase-q10",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 10,
+    "statement": "Sejam f a função real de variável real definida por $f(x)=10-\\log_2x^4-\\log_x16$, x>0 e $x\\ne1$, e $x_1,x_2\\in\\mathbb{R}$ tais que $f(x_1)=f(x_2)=0$. O valor de $x_1\\cdot x_2$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\sqrt{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q11",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 11,
+    "statement": "A função g é a composta $g=f\\circ f$, em que a expressão de f é $f(x)=\\dfrac{x-1}{x+1}$, para os valores admissíveis de x em $\\mathbb{R}$. O número de elementos do conjunto $\\{x\\in\\mathbb{R}\\mid g(x)=1\\}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q12",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "No desenho abaixo há uma representação gráfica parcial da função $f(x)=\\dfrac{\\cos x}{1+\\cos x}$, definida no intervalo $[0,\\pi[$, e um trapézio retangular OPQR sombreado, no qual os vértices P e Q pertencem ao gráfico de f(x). Sabendo que o vértice R tem ordenada $\\dfrac{1}{3}$, a área do trapézio, em unidades de área, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{7\\pi}{18}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{5\\pi}{18}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{7\\pi}{36}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{5\\pi}{36}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/q12.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q13",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 13,
+    "statement": "Se o polinômio $p(x)=x^3+ax^2+bx+c$ é divisível por $q(x)=x^2-x+1$, então $a^2+b^2+c^2$ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3a^2+2a+1$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$a^2+2a+3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2a^2+3a+1$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$a^2+3a+2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q14",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 14,
+    "statement": "Seja w = 6 + 3i um número complexo, que é representado no plano cartesiano pelo ponto P(6, 3). O conjunto solução da equação $wz+\\overline{w}\\overline{z}-5=0$, $z\\in\\mathbb{C}$, é representado no plano cartesiano por:",
+    "options": [
+      {
+        "label": "a",
+        "text": "um conjunto finito de pontos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma reta.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "duas retas paralelas e distintas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "duas retas perpendiculares.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q15",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "Num sistema cartesiano utilizado no plano, o ponto P é a interseção das retas 2x – y – 7 = 0 e x – 2y + 7 = 0, o ponto Q é o centro da circunferência $x^2+y^2+2x-2y-2=0$ e r é o raio dessa circunferência. A distância entre os pontos P e Q é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2r",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3r",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4r",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5r",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q16",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 16,
+    "statement": "As medidas dos ângulos internos $\\alpha,\\beta,\\varphi,\\psi$ de um quadrilátero convexo estão em progressão aritmética, sendo 45° a menor medida. O valor da soma $\\text{sen}\\,\\alpha+\\text{sen}\\,\\beta+\\text{sen}\\,\\varphi+\\text{sen}\\,\\psi$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{2\\sqrt{3}+\\sqrt{6}}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{2\\sqrt{3}+\\sqrt{6}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3\\sqrt{2}+\\sqrt{6}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3\\sqrt{2}+\\sqrt{6}}{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2006.2-2fase-q17",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 17,
+    "statement": "Os gráficos das funções f, g:$\\mathbb{R}\\to\\mathbb{R}$ definidos por f(x) = cosx e g(x) = $\\dfrac{1}{x}$, se $x\\ne0$, e g(0) = 0, se interceptam",
+    "options": [
+      {
+        "label": "a",
+        "text": "duas vezes.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "quatro vezes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "oito vezes.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "infinitas vezes.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2006.2-2fase-q18",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "Se na figura XY é um diâmetro da circunferência e $\\alpha$ é a medida do ângulo $X\\hat{R}Z$, podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\text{sen}\\,\\alpha=\\dfrac{\\sqrt{3}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\text{sen}\\,\\alpha<\\dfrac{\\sqrt{3}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\text{sen}\\,\\alpha>\\dfrac{\\sqrt{3}}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\,\\text{sen}\\,\\alpha\\cos\\alpha=1$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/q18.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2006.2-2fase-q19",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 19,
+    "statement": "Um pedaço de cartolina na forma de um quadrado ABCD é dobrado ao longo da diagonal AC de modo que os lados AB e AD formem um ângulo de 60º. A seguir, ele é colocado sobre uma mesa, apoiado sobre estes lados. Nestas condições, o cosseno do ângulo (agudo) α que o segmento AC forma com o plano horizontal é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\sqrt{6}}{4}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt{2}}{4}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt{3}}{4}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2006.2-2fase/q19.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2006.2-2fase-q20",
+    "examId": "2006.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 20,
+    "statement": "O conjunto X possui seis elementos pertencentes ao intervalo [−2, −1] e o conjunto Y possui oito elementos pertencentes ao intervalo [5, 7]. De quantos modos é possível escolher quatro elementos em X∪Y cujo produto seja positivo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "495",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "500",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "505",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "510",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]

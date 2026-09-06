@@ -46,5 +46,13 @@
     "edition": "2008.2",
     "examType": "geral",
     "sourceFile": "Vestibular Comentado UECE 2008.2.pdf"
+  },
+  {
+    "id": "2006.2-2fase",
+    "institution": "UECE",
+    "year": 2006,
+    "edition": "2006.2",
+    "examType": "especifico",
+    "sourceFile": "mat esp 2006.2.pdf"
   }
 ]
