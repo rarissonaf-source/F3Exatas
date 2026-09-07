@@ -70,5 +70,13 @@
     "edition": "2007.1",
     "examType": "especifico",
     "sourceFile": "v712_gab1-mat.pdf"
+  },
+  {
+    "id": "2007.2-2fase",
+    "institution": "UECE",
+    "year": 2007,
+    "edition": "2007.2",
+    "examType": "especifico",
+    "sourceFile": "v072_f2-matgab1.pdf"
   }
 ]

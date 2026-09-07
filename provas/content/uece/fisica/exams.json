@@ -70,5 +70,13 @@
     "edition": "2007.1",
     "examType": "especifico",
     "sourceFile": "v7122_gab1_fisquim.pdf"
+  },
+  {
+    "id": "2007.2-2fase",
+    "institution": "UECE",
+    "year": 2007,
+    "edition": "2007.2",
+    "examType": "especifico",
+    "sourceFile": "v072_f2-fisquimgab1.pdf"
   }
 ]

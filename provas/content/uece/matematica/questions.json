@@ -3838,5 +3838,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q1",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 1,
+    "statement": "O quadro numérico, ao lado, é construído, linha a linha, respeitando uma lógica construtiva, desde a primeira linha. A soma de todos os números que compõem a 91ª linha é um número que está entre:",
+    "options": [
+      {
+        "label": "a",
+        "text": "8000 e 8300",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8300 e 8600",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8600 e 8900",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8900 e 9200",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/q1.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.2-2fase-q2",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Se, na figura, os triângulos VWS e URT são eqüiláteros, a medida, em graus, do ângulo α é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "30°",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40°",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50°",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60°",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/q2.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-2fase-q3",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 3,
+    "statement": "Pedro recebeu a quantia de R$ 2.700,00, em cédulas de R$ 10,00, de R$ 20,00 e de R$ 50,00. Sabendo que a quantidade de cédulas de R$ 20,00 é 20 vezes a de cédulas de R$ 10,00, então o número de cédulas de R$ 50,00 que Pedro recebeu foi:",
+    "options": [
+      {
+        "label": "a",
+        "text": "15",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "13",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q4",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 4,
+    "statement": "Utilizando apenas os algarismos 2 e 3, a quantidade de números inteiros positivos e menores que 1.000.000 (incluindo-se aqueles com algarismos repetidos) que podem ser escritos no sistema decimal é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "125",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "126",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "127",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "128",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q5",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 5,
+    "statement": "Seja $X=M+M^2+M^3+\\cdots+M^k$, em que M é a matriz $\\begin{pmatrix}1&1\\\\0&1\\end{pmatrix}$ e k é um número natural. Se o determinante da matriz X é igual a 324, então o valor de $k^2+3k-1$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "207",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "237",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "269",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "377",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-2fase-q6",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Em um retângulo XYWZ, seja M, o ponto médio do lado XY, e seja N, o ponto de interseção da diagonal XW com o segmento ZM. Se a medida da área do triângulo XMN é 1m², então a medida da área do retângulo XYWZ é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$16\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$14\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$12\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10\\ m^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q7",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 7,
+    "statement": "Seja $f:\\mathbb{R}-\\{1\\}\\to\\mathbb{R}$, a função definida por $f(x)=\\dfrac{x+2}{x-1}$ e seja $g(x)=f(f(x))$. A figura que melhor representa o gráfico da função g é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "",
+        "imagePath": "2007.2-2fase/q7_a.png"
+      },
+      {
+        "label": "b",
+        "text": "",
+        "imagePath": "2007.2-2fase/q7_b.png"
+      },
+      {
+        "label": "c",
+        "text": "",
+        "imagePath": "2007.2-2fase/q7_c.png"
+      },
+      {
+        "label": "d",
+        "text": "",
+        "imagePath": "2007.2-2fase/q7_d.png"
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q8",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "A reta y = x + 2 intercepta o gráfico da função f: R → R, definida por f(x) = x², nos pontos X = (x1, y1) e W = (x2, y2). Se Y = (x2, 0) e Z = (x1, 0), então a medida da área do quadrilátero XWYZ, em unidades de área (u.a.), é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{11}{2}\\ u.a.$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{13}{2}\\ u.a.$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{15}{2}\\ u.a.$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{17}{2}\\ u.a.$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q9",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "No triângulo MNO, as medidas dos lados MO e NO são, respectivamente, 1m e √2 m. Se a medida do ângulo oposto ao lado NO é o dobro da medida do ângulo oposto ao lado MO, então a medida da área do triângulo MNO é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{2}\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt{2}}{2}\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{2}\\ m^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-2fase-q10",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 10,
+    "statement": "Gilberto é agricultor e deseja aumentar a área de sua roça, que tem a forma de um quadrado, em 69%. Se a roça, depois de ampliada, continua tendo a forma de um quadrado, então a medida do lado do quadrado da roça inicial deve ser aumentada em:",
+    "options": [
+      {
+        "label": "a",
+        "text": "18%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "22%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "26%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-2fase-q11",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 11,
+    "statement": "Seja n um número natural, que possui exatamente três divisores positivos, e seja X o conjunto de todos os divisores positivos de n³. O número de elementos do conjunto das partes de X é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "64",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "128",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "256",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "512",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q12",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "As circunferências C1 e C2 são as duas circunferências no primeiro quadrante que são tangentes aos eixos coordenados e à reta x + y - 3 = 0. A distância entre os centros de C1 e C2, em unidades de comprimento (u.c.), é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6 u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9 u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 u.c.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q13",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "O conjunto-imagem da função $f:\\mathbb{R}\\to\\mathbb{R}$, definida por $f(x)=2\\cos 2x+\\cos 2x$, é o intervalo:",
+    "options": [
+      {
+        "label": "a",
+        "text": "[-2,1]",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "[-2,3]",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "[-2,2]",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "[-2,0]",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q14",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "Sejam C1 e C2 duas circunferências com centro na origem de um sistema de coordenadas e cujos raios medem, respectivamente, 1m e 2m. A soma das medidas dos raios das circunferências simultaneamente tangentes a C1 e a C2, cujos centros têm coordenadas iguais, no mesmo sistema de coordenadas, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "3m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q15",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 15,
+    "statement": "O número de soluções da equação $\\dfrac{x}{5-x^2}=\\dfrac{x}{x^2+3}$ é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-2fase-q16",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 16,
+    "statement": "Um cubo é seccionado por um plano que passa pelos pontos M e N, pontos médios de duas arestas paralelas de uma das faces do cubo, e por um dos vértices da face oposta à face que contém o segmento MN. O cubo é, então, dividido em duas partes (sólidas), cuja razão entre o volume da menor destas partes e o volume da maior é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3}{4}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2}{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q17",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 17,
+    "statement": "Os números 1.458 e 39.366 são termos de uma progressão geométrica (a1, a2, a3, ..., an, ...), cujo primeiro termo é 2 e cuja razão é um número natural primo. Assim, a soma a1 + a3 + a5 + a7 é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1460",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1640",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1680",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1860",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q18",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 18,
+    "statement": "Se os números p e q são as soluções da equação $(2+\\log_2 x)^2-\\log_2 x^9=0$, então o produto p.q é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "32",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "36",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q19",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 19,
+    "statement": "Os números complexos z1, z2, z3 e z4 são representados, no plano complexo, por quatro pontos, os quais são vértices de um quadrado com lados paralelos aos eixos e inscrito em uma circunferência de centro na origem e raio r. O produto z1.z2.z3.z4 é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "um número real positivo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "um número real negativo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "um número complexo cujo módulo é igual a $r/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "um número complexo, não real.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.2-2fase-q20",
+    "examId": "2007.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "As diagonais de um losango medem 12m e 16m. A medida da área do quadrilátero, cujos vértices são os pontos médios dos lados do losango, é igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$32\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$36\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$42\\ m^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$48\\ m^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

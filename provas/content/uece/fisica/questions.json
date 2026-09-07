@@ -3070,5 +3070,645 @@
     ],
     "imagePath": "2007.1-2fase/qf20.png",
     "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q1",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 1,
+    "statement": "Três cargas iguais a Q estão infinitamente distantes umas das outras. Considerando zero, no infinito, o potencial de referência, o trabalho necessário para um agente externo trazê-las, cada uma, para cada um dos vértices de um triângulo eqüilátero de lado d, é: (OBS.: Considere, nas alternativas, k uma constante.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "kQ/d",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$kQ/d^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$kQ^2/d^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$kQ^2/d$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-2fase-q2",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 2,
+    "statement": "Sabendo-se que o ar se torna condutor quando o campo elétrico ultrapassa o valor de 30.000 Volts/cm, a carga elétrica máxima em Coulomb de um capacitor de placas paralelas, de área 100 cm² e tendo o ar como dielétrico, é igual a (considere $\\varepsilon_0$, a permissividade do ar, igual a $8,85\\times10^{-12}\\ C^2/Nm^2$):",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,70\\times10^{-7}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$6,00\\times10^{-7}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$30,0\\times10^{-7}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$67,0\\times10^{-7}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.2-2fase-q3",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 3,
+    "statement": "Duas ondas, A e B, de mesma amplitude e freqüência, se propagam no mesmo sentido em uma região. Estas ondas se combinam e sofrem interferência totalmente construtiva, gerando uma onda resultante R. A razão entre a intensidade da onda resultante R e a intensidade de qualquer uma das ondas, A ou B, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q4",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 4,
+    "statement": "Um corpo oscila com movimento harmônico simples, de acordo com a equação geral $x=A\\cos(\\omega t+\\varphi)$. Sabendo-se que o seu período de oscilação é de uma hora e que, em t=0, x=A, o corpo atingirá o ponto igual a A/2, em:",
+    "options": [
+      {
+        "label": "a",
+        "text": "30 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6 minutos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q5",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 5,
+    "statement": "Uma bala de massa m é disparada, verticalmente para cima, com velocidade v0, a partir da superfície da Terra. Desprezando forças dissipativas, considerando que, em toda a trajetória da bala, a aceleração da gravidade é constante e que o nível zero da energia potencial é a superfície, o gráfico que descreve corretamente a energia potencial EP versus a altura H da bala é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "",
+        "imagePath": "2007.2-2fase/qf5_a.png"
+      },
+      {
+        "label": "b",
+        "text": "",
+        "imagePath": "2007.2-2fase/qf5_b.png"
+      },
+      {
+        "label": "c",
+        "text": "",
+        "imagePath": "2007.2-2fase/qf5_c.png"
+      },
+      {
+        "label": "d",
+        "text": "",
+        "imagePath": "2007.2-2fase/qf5_d.png"
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q6",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 6,
+    "statement": "Um determinado sistema triplo de estrelas consiste em duas estrelas, cada uma de massa m, que giram, na mesma órbita circular, em torno de uma estrela central de massa 2m. As duas estrelas menores ocupam posições diametralmente opostas, conforme figura abaixo. Considerando que o raio da órbita é r, o período de revolução das estrelas menores é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{8\\pi^2}{3}\\dfrac{r^3}{(Gm)^{1/2}}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{4\\pi}{3}\\dfrac{r^{3/2}}{(Gm)^{1/2}}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{16\\pi}{3}\\dfrac{r^3}{(Gm)^{3/2}}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3\\pi}{8}\\dfrac{r^{3/2}}{(Gm)^{3/2}}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/qf6.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q7",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 7,
+    "statement": "Uma força $\\vec{F}=-8N\\hat{i}+6N\\hat{j}$ atua sobre uma partícula cujo vetor posição é $\\vec{r}=3m\\hat{i}+4m\\hat{j}$. O módulo do torque, em N·m, gerado por essa força, em relação à origem, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "24",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "48",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q8",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 8,
+    "statement": "Considere um espelho côncavo. A distância do objeto ao foco é de 50,0 cm e da imagem real ao foco é de 12,5 cm. A distância focal desse espelho, em centímetros, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "75,0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60,0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "37,5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25,0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.2-2fase-q9",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 9,
+    "statement": "Em um balde com água, que está sobre uma balança, é colocado um quilograma de ferro, de densidade $\\rho=7,8\\times10^3\\ kg/m^3$, suspenso por um fio de massa desprezível, que está preso a uma plataforma, conforme a figura abaixo. Estando o ferro totalmente submerso e parado, a variação no peso medido pela balança, quando da imersão do ferro, é aproximadamente (considere a aceleração da gravidade g = 10 m/s²):",
+    "options": [
+      {
+        "label": "a",
+        "text": "ZERO",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,3 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7,8 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10,0 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/qf9.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q10",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "Considerando que os coeficientes de dilatação do aço, do alumínio e do latão são, respectivamente, $11\\times10^{-6}\\ ^\\circ C^{-1}$, $23\\times10^{-6}\\ ^\\circ C^{-1}$ e $19\\times10^{-6}\\ ^\\circ C^{-1}$, o coeficiente de dilatação linear de uma haste de 10m, constituída por uma barra de aço de 3m, uma barra de alumínio de 5m e por uma barra de latão de 2m, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$5,3\\times10^{-6}\\ ^\\circ C^{-1}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$18,6\\times10^{-6}\\ ^\\circ C^{-1}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$23,0\\times10^{-6}\\ ^\\circ C^{-1}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$87,0\\times10^{-6}\\ ^\\circ C^{-1}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q11",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 11,
+    "statement": "Uma pessoa está empurrando um bloco com velocidade constante sobre uma superfície horizontal. Considerando que haja atrito entre o bloco e a superfície horizontal, pode-se afirmar, corretamente, que o bloco se move desta maneira porque:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a força de atrito cinético é ligeiramente superior à força aplicada pela pessoa.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o somatório das forças que atuam no bloco é zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a força atuando no bloco é maior que a força de atrito.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a massa do homem é superior à massa do bloco.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q12",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 12,
+    "statement": "A figura abaixo representa o movimento de uma partícula que, a partir do repouso, move-se ao longo do eixo x, com aceleração constante. Os valores da posição e da velocidade da partícula, para t = 5 s são, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "52 m e 10 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "48 m e 20 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22 m e 8 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15 m e 10 m/s",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/qf12.png",
+    "annulled": true
+  },
+  {
+    "id": "2007.2-2fase-q13",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 13,
+    "statement": "Faz-se uma separação de cargas em um condutor originalmente descarregado, pela aproximação de um bastão carregado positivamente, como mostra a figura abaixo. Suponha que as cargas separadas no condutor (não mostradas na figura) sejam iguais, em módulo, ao excesso de carga positiva existente no bastão. A partir da Lei de Gauss, a respeito da carga no interior das superfícies gaussianas mostradas na figura, podemos dizer corretamente que:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Em 1 e 2, as cargas têm o mesmo sinal.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Em 2, a carga induzida tem sinal positivo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Em 3, a carga total é nula.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Em 4, a carga total é maior que a carga do bastão.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/qf13.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q14",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 14,
+    "statement": "Em t = 0, um objeto é largado a partir do repouso e em queda livre do topo de um prédio. Em um tempo t0, posterior, um segundo objeto é largado, nas mesmas condições, do mesmo ponto do primeiro. Ignorando todos os efeitos da resistência do ar e considerando g a aceleração da gravidade, o tempo necessário (a partir de t = 0) para que os objetos tenham uma separação vertical h é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$t=\\dfrac{h}{gt_0}+t_0$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$t=\\dfrac{h}{gt_0}+\\dfrac{t_0}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$t=\\dfrac{h}{gt_0}-\\dfrac{t_0}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$t=\\dfrac{h}{gt_0}-t_0$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q15",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 15,
+    "statement": "Um peso W está suspenso por cordas de massas desprezíveis, como mostra a figura abaixo. Em módulo, as tensões T2 e T3 valem, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$W\\text{cotg}\\theta,\\ W\\text{cosec}\\theta$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$W/\\text{sen}\\theta,\\ W/\\text{sen}\\varphi$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{W}{\\text{tg}\\varphi\\cos\\theta+\\text{sen}\\theta},\\ \\dfrac{W}{\\text{sen}\\varphi+\\text{tg}\\theta\\cos\\varphi}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$W/\\cos(\\theta+\\varphi),\\ W/\\text{sen}(\\theta+\\varphi)$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/qf15.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q16",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 16,
+    "statement": "Uma bolha de ar (considerado um gás ideal), com volume de 5 cm³, forma-se no fundo de um lago, a 20 m de profundidade. A bolha sobe com velocidade constante, até atingir a superfície do lago. A pressão atmosférica na superfície do lago é 1,0 atm e a temperatura do lago é considerada a mesma em qualquer profundidade. O processo termodinâmico sofrido pela bolha de ar, ao se deslocar desde o fundo até à superfície do lago, o valor da pressão (em atm) sobre a bolha no fundo do lago e o volume da bolha (em cm³) ao atingir a superfície são, respectivamente (considere g = 10m/s²):",
+    "options": [
+      {
+        "label": "a",
+        "text": "Isotérmico, 1, 5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Isotérmico, 2, 10",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Isotérmico, 3, 15",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Isovolumétrico, 2, 5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.2-2fase-q17",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 17,
+    "statement": "O arranjo da figura abaixo é feito de n esferas suspensas, com seus centros alinhados e que não estão, inicialmente, em contato entre si. A primeira esfera tem massa fm (em que f é uma constante), a segunda, $f^2m$, e assim por diante, até a n-ésima esfera de massa $f^nm$. A primeira massa é atingida por uma esfera de massa m que se desloca à velocidade $v_0$. Considerando que todas as colisões são perfeitamente elásticas e que não há atrito, após o choque, a última esfera sai com velocidade igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\left(\\dfrac{2}{1+f}\\right)^n v_0$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\left(\\dfrac{1}{1+f}\\right)^n v_0^{1/n}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2^nf^{1/n}v_0$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$f^nv_0$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/qf17.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.2-2fase-q18",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "O gráfico abaixo mostra como varia, em função da temperatura absoluta, a energia interna (U) de 1 mol de um gás ideal, de massa molar 4g/mol, mantido a volume constante. No intervalo mostrado, os valores do trabalho realizado pelo gás nesta transformação, da quantidade de calor que o gás absorveu e do calor específico (a volume constante, em cal/g°C) do gás são, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0, 400, 4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0, 400, 1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "400, 0, 4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-400, 400, 1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/qf18.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.2-2fase-q19",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "Uma amostra de cobre com massa $m_{Cu}=150\\ g$, é aquecida em um forno de laboratório até a temperatura T, de 342°C. Coloca-se, então, o cobre dentro de um frasco de vidro contendo água, na quantidade $m_A=300g$. A temperatura inicial $T_i$ da água e do frasco é de 6°C. Considerando o calor específico do cobre ($c_{Cu}$) igual a 0,1 cal/g°C, a capacidade calorífica efetiva do frasco vazio ($C_{ef}$) igual a 45 cal/°C e calor específico da água ($c_A$) 1,0 cal/g°C e, considerando, ainda, que o sistema está isolado, a temperatura final, $T_f$ (em °C), de equilíbrio térmico comum ao cobre, ao frasco e à água é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.2-2fase-q20",
+    "examId": "2007.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 20,
+    "statement": "Considere os arranjos de resistores abaixo, todos submetidos a uma diferença de potencial V e todos os resistores iguais. Sobre a potência dissipada em cada arranjo, podemos afirmar, corretamente, que ela:",
+    "options": [
+      {
+        "label": "a",
+        "text": "É igual nos três casos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É a menor, no arranjo II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É a maior, no arranjo III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "É a maior, no arranjo II.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.2-2fase/qf20.png",
+    "correctAnswer": "d"
   }
 ]
