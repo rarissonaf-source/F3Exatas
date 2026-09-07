@@ -3198,5 +3198,645 @@
     ],
     "imagePath": "2006.1-2fase/q20.png",
     "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q1",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Seja X o conjunto dos números da forma 31754xy (x é o dígito das dezenas e y o dígito das unidades), que são divisíveis por 15. O número de elementos de X é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-2fase-q2",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Os vértices do triângulo ΔXYZ são os pontos médios dos lados do triângulo equilátero ΔMPQ, cujos lados medem 2m, como mostra a figura. Se h1 e h2, respectivamente, são as alturas dos triângulos ΔXYZ e ΔMPQ, então o produto h1.h2 é, em m², igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2/3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/4",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4/3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/q2.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q3",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 3,
+    "statement": "O valor de h para que o sistema $\\begin{cases}2x-y+3z=0\\\\x+2y-z=0\\\\x+hy-6z=0\\end{cases}$ tenha a solução não nula é",
+    "options": [
+      {
+        "label": "a",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q4",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 4,
+    "statement": "Se f: {1, 2, 3, ..., n} → R é a função definida por f(x) = 4(2x − 1), então a soma de todos os números que estão na imagem de f é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4(2n-1)^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4(2n)^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4(2n+1)^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4n^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q5",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 5,
+    "statement": "Num concurso para professores classe A e classe B compareceram 500 candidatos para a categoria A e 100 para a categoria B. Na prova de Matemática a média aritmética de todas as notas foi 4. Considerando, apenas, a categoria A a média caiu para 3,8. Nestas condições, a média das notas para a categoria B foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "6,2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,8",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5,0",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q6",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "A medida, em cm², da maior área possível de um retângulo inscrito em uma circunferência cuja medida do raio é 1cm é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\sqrt{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\sqrt{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-2fase-q7",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Se n é um número inteiro positivo, o produto de todos os números positivos da forma $\\sqrt[2^n]{5}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "25",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/25",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-2fase-q8",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 8,
+    "statement": "Se o polinômio $P(x)=x^4+\\alpha x^3-5x^2+2x+\\beta$ é divisível por $x^2+1$, então $\\beta/\\alpha$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−5/2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q9",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "As retas r e s são paralelas, a distância entre elas é 7m e o segmento AB, com A∈r e B∈s, é perpendicular a r. Se P é um ponto em AB tal que o segmento AP mede 3m e X e Y são pontos em r e s, respectivamente, de modo que o ângulo XP̂Y mede 90°, a menor área possível do triângulo XPY, em m², é",
+    "options": [
+      {
+        "label": "a",
+        "text": "21",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q10",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "Como mostra a figura, o cilindro reto está inscrito na esfera de raio 4cm. Sabe-se que o diâmetro da base e a altura do cilindro possuem a mesma medida. O volume do cilindro é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$18\\pi\\sqrt{2}\\ cm^3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$24\\pi\\sqrt{2}\\ cm^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$32\\pi\\sqrt{2}\\ cm^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$36\\pi\\sqrt{2}\\ cm^3$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/q10.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q11",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 11,
+    "statement": "Se a reta r, tangente à circunferência $x^2+y^2=1$ no ponto $\\left(\\dfrac{\\sqrt{2}}{2},\\dfrac{\\sqrt{2}}{2}\\right)$, intercepta a parábola $y=x^2+1$ nos pontos $(x_1,y_1)$ e $(x_2,y_2)$, então $x_1+x_2$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "−2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-1-\\sqrt{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1-\\sqrt{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q12",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "No retângulo XYZW, os lados XY e YZ medem, respectivamente, 8m e 6m. Se M é o ponto médio do lado XY, então a medida, em m², da área da região sombreada é",
+    "options": [
+      {
+        "label": "a",
+        "text": "22",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/q12.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q13",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 13,
+    "statement": "O retângulo LMNP está dividido em três quadrados (q1, q2 e q3) e um retângulo (r). A razão entre as medidas do lado menor e do lado maior de r é 1/2. A razão entre as áreas de r e de LMNP é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/16",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/20",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/24",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/q13.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q14",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 14,
+    "statement": "Sobre o conjunto M dos pontos de interseção dos gráficos das funções definidas por $f(x)=|2^x-1|$ e $g(x)=x+1$ é possível afirmar, corretamente, que M",
+    "options": [
+      {
+        "label": "a",
+        "text": "é o único conjunto vazio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é um conjunto unitário.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "possui dois elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "possui três elementos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q15",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 15,
+    "statement": "Se x = p é a solução em R da equação $2-\\log_x2-\\log_2x=0$, então",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{2}<p<\\dfrac{3}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3}{2}<p<\\dfrac{5}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{5}{2}<p<\\dfrac{7}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{7}{2}<p<\\dfrac{9}{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q16",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 16,
+    "statement": "Considere a matriz $M=\\begin{pmatrix}1&2&3\\\\2&3&2\\\\3&2&x\\end{pmatrix}$. A soma das raízes da equação $\\det(M^2)=25$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "14",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−14",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "17",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−17",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q17",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "A prestação da casa própria de João consome 30% do seu salário. Se o salário é corrigido com um aumento de 25% e a prestação da casa com um aumento de 20%, a nova percentagem que a prestação passou a consumir do salário de João é",
+    "options": [
+      {
+        "label": "a",
+        "text": "22,5%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24,5%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "26,8%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "28,8%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q18",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "Se um conjunto X possui 8 elementos, então o número de subconjuntos de X que possuem 3 ou 5 elementos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2^3+2^5$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2^7-2^4$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2^3\\cdot2^5$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2^7\\div2^4$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q19",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 19,
+    "statement": "Os números complexos z e w, escritos na forma z = x + yi e w = u + vi em que x≠0 e u≠0, são tais que z.w = 1. A soma dos quadrados u² + v² é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/x",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1/u^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/(x.u)",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "u/x",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q20",
+    "examId": "2007.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 20,
+    "statement": "Para valores de a diferentes de −1, 0 e 1, a expressão $\\left(\\dfrac{1}{a^2}-1\\right)\\cdot\\left(\\dfrac{1-a}{a+1}-\\dfrac{1+a}{1-a}\\right)\\cdot\\left(1-\\dfrac{a}{4}\\right)$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 − 4a",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1-4a^{-1}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a − 1",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$a^{-1}-1$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
