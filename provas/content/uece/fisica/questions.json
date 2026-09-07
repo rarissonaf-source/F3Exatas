@@ -4350,5 +4350,645 @@
     ],
     "imagePath": "2008.1-2fase/qf20.png",
     "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q1",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Seu professor pede para fazer um experimento para determinar a aceleração da gravidade g. Você monta um aparelho que solta uma esfera metálica com 5 mm de diâmetro, a partir do repouso, de uma altura de 2,0 m (medida com precisão de 5 mm). Usando um relógio de precisão, você mede o tempo médio de queda de 0,644 s, com precisão de 1 ms. Você pode concluir, corretamente, que a magnitude da aceleração da gravidade medida é",
+    "options": [
+      {
+        "label": "a",
+        "text": "9,6 m/s²; menor, em magnitude, que o valor aceito de g, devido ao efeito desconsiderado da resistência do ar.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9,8 m/s²; igual, em magnitude, ao valor aceito de g, qualquer diferença sendo apenas devida às imprecisões nas medidas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10,0 m/s²; maior, em magnitude, que o valor aceito de g, devido ao efeito desconsiderado da resistência do ar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10,0 m/s²; maior, em magnitude, que o valor aceito de g, devido ao peso da esfera metálica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q2",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Um nadador olímpico, que mantém uma velocidade de módulo igual a 2,0 m/s em águas paradas, precisa cruzar um rio de 50 m de largura, cuja correnteza é de 1,0 m/s. Usando $\\sqrt5=2,24$ e $\\sqrt3=1,73$, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "se ele levar em conta a correnteza e cruzar perpendicularmente à margem, chegando diretamente na margem oposta, o tempo que ele gasta para cruzar o rio é 22,32 s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se ele levar em conta a correnteza e cruzar perpendicularmente à margem, chegando diretamente na margem oposta, o tempo que ele gasta para cruzar o rio é 28,90 s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se ele ignorar a correnteza e nadar deixando o rio carregá-lo, o tempo que ele gasta para cruzar o rio é 22,32 s, chegando à outra margem a 22,32 m, rio abaixo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se ele ignorar a correnteza e nadar deixando o rio carregá-lo, o tempo que ele gasta para cruzar é 28,90 s, chegando à outra margem a 28,90 m, rio abaixo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q3",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 3,
+    "statement": "Um atleta olímpico atinge a marca de 9,0 m na prova de salto em distância. Supondo que o ângulo inicial do seu salto foi de 30°, e assumindo que seu movimento comporta-se como o movimento de um projétil sem resistência do ar, a magnitude de sua velocidade inicial foi de (Use g = 10 m/s²)",
+    "options": [
+      {
+        "label": "a",
+        "text": "6,7 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10,2 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11,6 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "13,4 m/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q4",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 4,
+    "statement": "O período orbital T, no sistema solar, está relacionado com a distância média D dos planetas ao Sol. As variáveis que devem ser plotadas em um gráfico linear para que se obtenha uma linha reta são",
+    "options": [
+      {
+        "label": "a",
+        "text": "T² versus D³.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "T² versus D.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "T versus D³.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "T versus D.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q5",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 5,
+    "statement": "Um chuveiro elétrico fornece 12 litros de água por minuto, a uma temperatura de 40°C. Supondo que a temperatura inicial da água é 30°C, e que a corrente elétrica que atravessa o resistor do chuveiro é de 10 A, o valor da resistência elétrica do chuveiro é (Dados: densidade da água 1 kg/L, calor específico da água = 4,2 kJ/kg°C)",
+    "options": [
+      {
+        "label": "a",
+        "text": "84 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "22 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6 Ω.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q6",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 6,
+    "statement": "Uma corda de aço, para violão, tem comprimento de 60 cm entre duas extremidades fixas, e a massa correspondente a esse comprimento de 0,3 g. A frequência correspondente ao primeiro harmônico da onda estacionária formada nesta corda, quando acionada, é de 1318,5 Hz. A força de tração a que a corda está submetida é de",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,8 N.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "751,0 N.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1251,7 N.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1582,2 N.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-2fase-q7",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 7,
+    "statement": "Dois fios condutores muito longos e paralelos, U e V, estão dispostos perpendicularmente ao plano do papel, separados por uma distância d. O condutor U é percorrido por uma corrente i1 que sai do plano do papel, e o condutor V por uma corrente i2. O ponto P está situado entre os condutores, a uma distância d/4 do condutor V, como ilustrado na figura. As condições tais que o campo magnético induzido seja nulo no ponto P são, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "i1/i2 = 4, e a corrente no condutor V entrando no plano do papel.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "i1/i2 = 4, e a corrente no condutor V saindo do plano do papel.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "i1/i2 = 3, e a corrente no condutor V entrando no plano do papel.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "i1/i2 = 3, e a corrente no condutor V saindo do plano do papel.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.2-2fase/qf7.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q8",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 8,
+    "statement": "Um recipiente com 1 L de água é colocado no foco de um espelho esférico côncavo, de raio de curvatura 50 cm e área 1,0 m², como mostrado na figura. Suponha que, localmente, a radiação solar chegue ao espelho conforme a figura e forneça uma radiância (potência por unidade de área) de 6,0 kWh/dia·m² e, suponha também, que toda a radiação que chega ao espelho é transformada em calor para aquecer a água. O tempo necessário para esquentar a água da temperatura ambiente de 30°C para 100°C, será",
+    "options": [
+      {
+        "label": "a",
+        "text": "aproximadamente, 5 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "aproximadamente, 20 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "aproximadamente, 1 hora.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "mais do que 12 horas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.2-2fase/qf8.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q9",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 9,
+    "statement": "Um objeto tem uma velocidade constante ao longo do eixo-x, orientada no sentido negativo. Podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a posição do objeto deve ser negativa.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a velocidade escalar média do objeto deve ser negativa.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a aceleração do objeto deve ser negativa.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a força resultante no objeto deve ser nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-2fase-q10",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 10,
+    "statement": "Um corpo de massa m, preso à extremidade de uma mola ideal de constante elástica k, move-se, sem atrito, em uma superfície horizontal. O corpo é solto da posição $x=x_0$ no instante t = 0, e deixado oscilar com frequência angular $\\omega=\\sqrt{k/m}$. Assinale a alternativa que contém o gráfico que mostra como a aceleração, a, do corpo e o seu deslocamento, x, estão relacionados.",
+    "options": [
+      {
+        "label": "a",
+        "text": "",
+        "imagePath": "2008.2-2fase/qf10_a.png"
+      },
+      {
+        "label": "b",
+        "text": "",
+        "imagePath": "2008.2-2fase/qf10_b.png"
+      },
+      {
+        "label": "c",
+        "text": "",
+        "imagePath": "2008.2-2fase/qf10_c.png"
+      },
+      {
+        "label": "d",
+        "text": "",
+        "imagePath": "2008.2-2fase/qf10_d.png"
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q11",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 11,
+    "statement": "Considere o gráfico a seguir. Nesse gráfico, o comprimento AB representa",
+    "options": [
+      {
+        "label": "a",
+        "text": "o comprimento de onda.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a frequência.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o período.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a amplitude.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.2-2fase/qf11.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-2fase-q12",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 12,
+    "statement": "Quando dois corpos colidem, o momento linear total é conservado. Podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "somente forças lineares estão presentes.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mais forças lineares do que não lineares estão presentes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a resultante das forças externas é maior do que a das forças internas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a resultante das forças no sistema é nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-2fase-q13",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 13,
+    "statement": "Considere um sistema termicamente isolado do meio exterior, constituído por dois recipientes, inicialmente separados; em um deles há um gás ideal e no outro vácuo. Retirando-se a separação entre os recipientes o gás se expande. Podemos afirmar, corretamente, que a entropia do",
+    "options": [
+      {
+        "label": "a",
+        "text": "universo permaneceu constante, uma vez que o sistema está isolado.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "sistema permaneceu constante, uma vez que o processo é adiabático.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "sistema aumenta pois a expansão é irreversível.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "universo aumenta pois, ao expandir, o gás realiza trabalho.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-2fase-q14",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 14,
+    "statement": "A luz do Sol inclina-se na direção da superfície da Terra à medida que penetra na atmosfera. Como consequência, ainda podemos ver o Sol, mesmo depois que esse já está abaixo da linha do horizonte, ao entardecer. Esse fenômeno dá-se devido à",
+    "options": [
+      {
+        "label": "a",
+        "text": "atração da gravidade da terra.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "variação do índice de refração do ar com a altitude.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "dispersão da luz na atmosfera.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "difração da luz ao penetrar a atmosfera.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q15",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 15,
+    "statement": "Um cubo de gelo de água pura, sem bolhas de ar, é colocado dentro de um copo de água também pura, a temperatura ambiente, fazendo com que o nível da água suba até a altura x, como mostra a figura. Quando o sistema atingir o equilíbrio térmico com o gelo totalmente derretido, o valor final de x:",
+    "options": [
+      {
+        "label": "a",
+        "text": "aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diminui.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "permanece o mesmo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "dependerá da temperatura inicial do gelo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.2-2fase/qf15.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-2fase-q16",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 16,
+    "statement": "Assinale a alternativa correspondente à resistência equivalente entre os terminais OB do circuito da figura ao lado.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{R}{5}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{R}{4}+R$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{R}{5}-R$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.2-2fase/qf16.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q17",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 17,
+    "statement": "Considerando V = 0 no infinito, e que a Terra tenha uma densidade superficial de carga igual a K (C/m²), o campo elétrico, devido somente à Terra, próximo à superfície terrestre é (considere o raio da Terra R e a constante de permissividade elétrica local ε)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{4\\pi\\varepsilon}\\dfrac{K}{R^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{4\\pi\\varepsilon}K$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{K}{\\varepsilon}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{4\\pi\\varepsilon}KR^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-2fase-q18",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 18,
+    "statement": "Um dipolo elétrico tem cargas +q e -q, separadas por uma distância d. O dipolo está em uma região onde existe um campo elétrico externo $\\vec{E}$, representado, na figura a seguir, pelas suas linhas de campo. Assinale a alternativa que contém a afirmação verdadeira.",
+    "options": [
+      {
+        "label": "a",
+        "text": "A força resultante no dipolo está na direção horizontal e sentido -x e o torque resultante é nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A força resultante no dipolo está na direção horizontal e sentido +x e o torque resultante é nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A força resultante no dipolo está na direção vertical e sentido +y e o torque resultante é nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não há força resultante no dipolo, já que sua carga total é nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.2-2fase/qf18.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q19",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 19,
+    "statement": "A Lua está orbitando a Terra com um período de, aproximadamente, 27 dias. Considerando $\\pi\\approx3$, a constante da gravitação universal G, aproximadamente, igual a $6,7\\times10^{-11}\\ N\\cdot m^2/kg^2$, a massa da Terra igual a $6,0\\times10^{24}$ kg e a massa da Lua igual a $7,0\\times10^{22}$ kg, a distância média entre a Terra e a lua é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4\\times10^8$ km.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4\\times10^5$ km.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6\\times10^3$ km.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6\\times10^8$ km.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q20",
+    "examId": "2008.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 20,
+    "statement": "Um agente externo está movendo uma carga negativa q, a uma velocidade pequena e constante, distanciando essa carga de uma esfera condutora carregada com uma carga negativa Q, muito maior do que q. O campo elétrico da esfera condutora é $\\vec{E}$. Se U é a energia total da carga q, $T_a$ é o trabalho realizado pela força $\\vec{F}_a$ que o agente exerce na carga q, e $T_E$ é o trabalho realizado pela força eletrostática $\\vec{F}_E$ na carga q, devido à presença da esfera condutora, então, à medida que a carga q se move,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$T_a=-T_E$, portanto, U permanece constante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\vec{F}_a=-\\vec{F}_E$, portanto, U permanece constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$T_a$ é negativo, portanto U diminui.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$T_E$ é positivo, portanto U aumenta.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]

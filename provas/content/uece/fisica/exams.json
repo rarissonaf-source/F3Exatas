@@ -86,5 +86,13 @@
     "edition": "2008.1",
     "examType": "especifico",
     "sourceFile": "conhec_gerais_espec_uece_2008.1.pdf"
+  },
+  {
+    "id": "2008.2-2fase",
+    "institution": "UECE",
+    "year": 2008,
+    "edition": "2008.2",
+    "examType": "especifico",
+    "sourceFile": "fis_quim.pdf"
   }
 ]

@@ -5118,5 +5118,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q1",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 1,
+    "statement": "No quadro ao lado, $\\begin{pmatrix}X&Y&Z\\\\Y&Z&X\\\\Z&X&Y\\end{pmatrix}$, X, Y e Z são números naturais positivos, satisfazendo às seguintes condições: a soma dos números de cada linha, a dos de cada coluna e a dos de uma das diagonais são todas iguais a 10; a soma de uma das diagonais é 15. Os resultados possíveis do produto X.Y.Z são",
+    "options": [
+      {
+        "label": "a",
+        "text": "15 e 20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 e 30.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20 e 25.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 e 30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q2",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 2,
+    "statement": "O número inteiro positivo n possui, exatamente, três divisores positivos e satisfaz à dupla desigualdade 165 < n < 170. O número p é um dos divisores positivos de n. A soma n + p pode ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "180.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "181.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "182.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "183.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-2fase-q3",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 3,
+    "statement": "Dois digitadores (de computador) executam o mesmo serviço de digitação em tempos diferentes. O mais experiente consegue completar o trabalho em duas horas enquanto o outro completa em três horas. O objetivo é realizar o trabalho no menor tempo possível, distribuindo partes do trabalho com cada um dos digitadores, de forma que, ambos concluam, juntos, suas tarefas, executando o trabalho completo. Esse tempo mínimo será",
+    "options": [
+      {
+        "label": "a",
+        "text": "72 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "90 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "95 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "150 minutos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q4",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 4,
+    "statement": "O valor da soma 0,3 + 0,03 + 0,003 + ... é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{2}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q5",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "Se f, g: $\\mathbb{R}\\to\\mathbb{R}$ são funções definidas por $f(x)=\\log_7(x^2+1)$ e $g(x)=7^x$. O valor de g(f(1)).g(f(0)) é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-2fase-q6",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 6,
+    "statement": "Uma fatura foi paga com acréscimo de 12% sobre o seu valor nominal, porque o pagamento foi efetuado após o vencimento. Se o valor pago foi R$ 1.209,60, então o valor nominal da fatura estava entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1.030,00 e R$ 1.045,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1.045,00 e R$ 1.060,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1.060,00 e R$ 1.075,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.075,00 e R$ 1.090,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-2fase-q7",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 7,
+    "statement": "A sequência $a_1, a_2, a_3, a_4,\\ldots$ é constituída por números reais e é definida por $a_1=1$ e, para $n>1$, $a_n=\\dfrac{a_{n-1}}{3}$. Se S é a soma dos termos da sequência, então $\\log_2 S$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3^{-1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-2fase-q8",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Os números x1, x2 e x3 são as abscissas dos três pontos de interseção do gráfico da função real de variável real, definida por f(x) = x³ - 9x, com o eixo dos x. A soma x1 + x2 + x3 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q9",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 9,
+    "statement": "No conjunto dos números reais positivos, definem-se as operações $p*q=\\sqrt{p.q}$ e $p\\#q=\\dfrac{p+q}{2}$. Se m e n são tais que $(2m)*n=m\\#(2n)$, então, necessariamente, teremos",
+    "options": [
+      {
+        "label": "a",
+        "text": "m = n.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2m = n.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "m = 2n.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "m = 4n.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q10",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 10,
+    "statement": "Seja f: $\\mathbb{R}\\to\\mathbb{R}$ a função definida por $f(x)=\\log_5\\left(\\dfrac{5}{x^2+1}\\right)$. O conjunto-imagem da função f, isto é, o conjunto $\\{y=f(x); x\\in\\mathbb{R}\\}$, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "(0, 1].",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(0, 5].",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(-\\infty, 1]$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(-\\infty, 5]$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.2-2fase-q11",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 11,
+    "statement": "Se p e q são, respectivamente, os valores máximo e mínimo da função real de variável real definida por $f(x)=2-\\dfrac{1}{2}\\cos^2x$, então o produto p.q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q12",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 12,
+    "statement": "A raiz da equação $(5^x+\\sqrt5)(5^x-\\sqrt5)=620$ é um número",
+    "options": [
+      {
+        "label": "a",
+        "text": "inteiro par.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "racional, não inteiro.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "irracional.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "inteiro negativo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q13",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 13,
+    "statement": "Se a expressão $x^2+9$ se escreve na forma $m(x+1)^2+p(x+1)+q$, então m - p + q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "13.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q14",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 14,
+    "statement": "Os números complexos $z_1$ e $z_2$ são as raízes da equação $x^2-2x+5=0$. A soma $|z_1|+|z_2|$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt5$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt5$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\sqrt2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q15",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 15,
+    "statement": "O termo independente de x, no desenvolvimento de $\\left(2x+\\dfrac{1}{2x}\\right)^{12}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "249.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "270.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "720.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "924.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-2fase-q16",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 16,
+    "statement": "A matriz M é dada por M = P.Q, em que $P=\\begin{pmatrix}1&-\\text{sen}\\,x\\\\1&\\text{sen}\\,x\\end{pmatrix}$ e $Q=\\begin{pmatrix}\\cos x&0\\\\0&1\\end{pmatrix}$. O determinante da matriz M é",
+    "options": [
+      {
+        "label": "a",
+        "text": "sen(2x).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "cos(2x).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "sen$^2$x.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "cos$^2$x.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.2-2fase-q17",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Se aumentarmos, na mesma proporção, o comprimento dos lados de um quadrado, sua área terá um aumento de 69%. Nestas condições, a porcentagem de aumento de cada lado foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "20%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "34,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "69%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q18",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "O ponto P é externo a uma circunferência e sua distância ao centro da circunferência é 13 m. A secante traçada de P intercepta a circunferência nos pontos Q e R, de modo que PQ mede 9 m e PR mede 16 m. A medida do raio da circunferência é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.2-2fase-q19",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 19,
+    "statement": "A área da superfície total de um prisma reto com 10 m de altura, cujas bases paralelas são triângulos equiláteros, cada um deles com 30 m de perímetro, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(300+\\sqrt3)\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(300+10\\sqrt3)\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(300+25\\sqrt3)\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(300+50\\sqrt3)\\ m^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.2-2fase-q20",
+    "examId": "2008.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "O comprimento da corda determinada pela reta $x+7y-50=0$ na circunferência $x^2+y^2-100=0$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt5$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5\\sqrt2$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\sqrt{10}$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10\\sqrt2$ u.c.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
