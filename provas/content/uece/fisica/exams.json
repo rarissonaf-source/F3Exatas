@@ -110,5 +110,21 @@
     "edition": "2009.1",
     "examType": "especifico",
     "sourceFile": "fis_quim (1).pdf"
+  },
+  {
+    "id": "2009.2",
+    "institution": "UECE",
+    "year": 2009,
+    "edition": "2009.2",
+    "examType": "geral",
+    "sourceFile": "v92_f1-provaing-gab1.pdf"
+  },
+  {
+    "id": "2009.2-2fase",
+    "institution": "UECE",
+    "year": 2009,
+    "edition": "2009.2",
+    "examType": "especifico",
+    "sourceFile": "v92_f2-fisquimgab1.pdf"
   }
 ]

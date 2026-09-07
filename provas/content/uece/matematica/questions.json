@@ -6718,5 +6718,965 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-q15",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 15,
+    "statement": "Todo número inteiro positivo pode ser representado, de maneira única, como uma soma na qual cada parcela é uma potência de 2. Por exemplo, o número 45 ($45=2^0+2^2+2^3+2^5$) é representado como uma soma de quatro parcelas. Nestas condições, o número de parcelas da soma que representa o número 100 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "quatro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "três.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "seis.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "cinco.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-q16",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 16,
+    "statement": "A soma dos números inteiros n, $3<n<12$, para os quais a fração $\\dfrac{1}{n}$ pode ser representada por um número decimal exato, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "27.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "29.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "33.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "41.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-q17",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "Na cidade de Ocalândia, foram abertas cinco ruas as quais estão sem nome. A denominação para estas ruas deve ser escolhida dentre os nomes de oito personalidades ilustres, todas com igual mérito. De quantas maneiras esta escolha pode ser feita?",
+    "options": [
+      {
+        "label": "a",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "56",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5040",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6720",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-q18",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 18,
+    "statement": "Se x e y são as medidas dos ângulos agudos de um triângulo retângulo, então $\\cos^2x+\\cos^2y$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "sen(x+y).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "cos(x+y).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "senx.cosy.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sen(x+y).cos(x+y).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-q19",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 19,
+    "statement": "Se S e P são, respectivamente, a soma e o produto dos seis menores números naturais primos, então o número racional $\\dfrac{P}{S}$ pertence ao intervalo fechado",
+    "options": [
+      {
+        "label": "a",
+        "text": "[700, 750].",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "[750, 800].",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "[800, 850].",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "[850, 900].",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-q20",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "A parábola que é o gráfico da função f: R → R, definida por f(x) = ax² + bx + c, com a ≠ 0, tem seu vértice no ponto (1, -16) e sua interseção com os eixos coordenados contém um ponto cuja ordenada é y = -15. Para esta função, f(-2) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-q21",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "Em relação à equação matricial M.X = 0, em que $M=\\begin{pmatrix}1&a&3\\\\a&3&a\\\\3&a&1\\end{pmatrix}$, $0=\\begin{pmatrix}0\\\\0\\\\0\\end{pmatrix}$ e $X=\\begin{pmatrix}x\\\\y\\\\z\\end{pmatrix}$, podemos afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "existirá sempre um número finito de soluções, quando $a^2=6$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "existirão infinitas soluções, quando $a^2\\ne6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "não existirá solução, quando $a^2=6$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "existirá uma única solução, quando $a^2\\ne6$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-q22",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "Um cone circular reto está inscrito em uma esfera, de tal modo que sua base é um círculo máximo da esfera e seu vértice é um ponto da casca esférica. Se a medida do raio da esfera é 3m, então a medida do volume do cone, em m³, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt3\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$6\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6\\sqrt3\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$9\\pi$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-q23",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Considere os seguintes pontos: P, o ponto de interseção das retas y = x + 2 e y = 2x; Q, a interseção da reta y = x + 2 com o eixo y; O, a origem do sistema de coordenadas; R, o ponto (1,0). Podemos afirmar, corretamente, que a área do triângulo OQP representa exatamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "53% da área do quadrilátero OQPR.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50% da área do quadrilátero OQPR.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "43% da área do quadrilátero OQPR.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "39% da área do quadrilátero OQPR.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-q24",
+    "examId": "2009.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 24,
+    "statement": "Se f, g: R → R são funções definidas por f(x) = 2^x e g(x) = senx e se G é a interseção do gráfico de f com o gráfico de g, então podemos afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "G possui apenas um número finito de pontos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "G possui infinitos pontos e para tais pontos tem-se, obrigatoriamente, x > 0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "G possui infinitos pontos e para tais pontos tem-se, obrigatoriamente, x < 0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "G possui infinitos pontos, quando x pertence ao intervalo fechado $[-2\\pi,2\\pi]$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q1",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 1,
+    "statement": "O valor do inteiro positivo n para o qual $\\dfrac{1+3+5+\\cdots+(2n-1)}{n^2(2+4+8+\\cdots+2^n)}=\\dfrac{1}{254}$, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q2",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 2,
+    "statement": "A soma dos quadrados das raízes da equação $\\dfrac{1}{1-\\frac{1}{x}}\\cdot\\dfrac{1}{1+\\frac{1}{x}}=5$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-2fase-q3",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 3,
+    "statement": "Um automóvel, com velocidade constante de 80 km/h, percorre um trecho de uma estrada em 2h 30min. Em quanto tempo o mesmo automóvel, agora com velocidade constante reduzida para $\\dfrac{3}{4}$ da velocidade inicial, percorrerá 52,5% do mesmo trecho?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1h 30 min.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1h 35 min.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1h 40 min.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1h 45 min.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-2fase-q4",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 4,
+    "statement": "O quadro numérico a seguir é conhecido como o triângulo de Pascal-Tartaglia: 1ª linha: 1; 2ª linha: 1 1; 3ª linha: 1 2 1; 4ª linha: 1 3 3 1; 5ª linha: 1 4 6 4 1; 6ª linha: 1 5 10 10 5 1; e assim sucessivamente. Observando a lógica construtiva do quadro anterior, podemos concluir que a soma do segundo elemento da 2009ª linha com o penúltimo elemento da linha imediatamente anterior é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4015.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4017.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4019.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4021.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q5",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "Suponha que em um dia, no período de 0 hora às 11 horas, a temperatura (em graus centígrados) de uma região, foi dada em função do tempo (horas) por $f(t)=t^2-10t$. Podemos, então, afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "A temperatura da região ficou abaixo de zero até às 5 horas e então começou a aumentar até atingir um máximo de 10 graus, às 11 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A temperatura da região ficou abaixo de zero em todo o período de 0 às 11 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A temperatura da região atingiu um mínimo de 25 graus negativos às 5 horas e então começou a aumentar e às 11 horas atingiu 11 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A temperatura da região ficou abaixo de zero até às 9 horas e a partir de então ficou positiva.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q6",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 6,
+    "statement": "Sejam a e b números reais, com a > 0. A interseção do gráfico da função f: R → R, definida por $f(x)=a^x+b$, com os eixos coordenados são os pontos P e Q. Se as coordenadas não nulas de P e Q são os números 2 e -3, então o valor de f(3) é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-2fase-q7",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 7,
+    "statement": "A massa de uma substância volátil está decrescendo em função do tempo, em horas, de acordo com a função $m(t)=-3^{2t}-3^{t+1}+108$. Podemos afirmar, corretamente, que o tempo necessário para que, teoricamente, a massa da substância se anule é",
+    "options": [
+      {
+        "label": "a",
+        "text": "inferior a 45 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "maior do que 45 minutos e menor do que 100 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "maior do que 100 minutos e menor do que 130 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "superior a 130 minutos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q8",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 8,
+    "statement": "No triângulo EYZ, o ângulo $\\alpha=Y\\hat{E}Z$ é tal que sen $\\alpha$ = 0,6. Se I é um ponto do lado EZ (entre E e Z), tal que o ângulo $Y\\hat{I}Z$ é igual a $2\\alpha$ e se a medida do segmento EI é 50 m, então a medida, em metros, da altura do triângulo EYZ relativa ao lado EZ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "42.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "44.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "46.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-2fase-q9",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "Cada vértice de um heptágono regular, cuja área é 80,25 m², é centro de um círculo cuja medida do raio é 1 m. A área da região interior ao heptágono e exterior a cada um dos círculos, em m², é (Observação: Na questão 9, use o valor de $\\pi$ como sendo 3,14.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "75,03.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "74,16.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "73,37.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "72,40.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-2fase-q10",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 10,
+    "statement": "Uma empresa, com três sócios, gerou um lucro anual de R$ 135.000,00. Este lucro será dividido entre os três sócios, em partes proporcionais ao investimento inicial de cada um deles, que foi, respectivamente, R$ 150.000,00; R$ 300.000,00 e R$ 450.000,00. O sócio que investiu inicialmente a menor quantia receberá",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 20.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 22.500,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 25.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 27.500,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-2fase-q11",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 11,
+    "statement": "Três das raízes da equação $x^7-x^5+x^3-x=0$ são os números -1, 0, 1. Em relação às outras raízes, podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "são raízes da equação $x^4-1=0$ e seu produto é igual a -1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "são raízes da equação $x^4+3x+1=0$ e seu produto é igual a -1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "são raízes da equação $x^4+1=0$ e seu produto é igual a 1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "são raízes da equação $x^4+3x-1=0$ e seu produto é igual a 1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q12",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "No plano cartesiano, sejam: $P_0=(0,8)$; $P_1$, a projeção ortogonal de $P_0$ sobre a reta y = x; $P_2$ a projeção ortogonal de $P_1$ sobre o eixo-x e $P_3$ a projeção ortogonal de $P_2$ sobre o prolongamento do segmento $P_0P_1$. Nestas condições, a área do triângulo $P_1P_2P_3$, em unidades de área (u.a.), é (Observação: O ponto P na reta r é a projeção ortogonal do ponto Q, não pertencente a r, sobre r, quando o segmento QP é perpendicular à reta r.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-2fase-q13",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 13,
+    "statement": "O Colégio ARRAIA organizou um torneio no qual cada participante enfrenta uma única vez todos os demais. Se houve 780 disputas, quantos são os participantes do torneio?",
+    "options": [
+      {
+        "label": "a",
+        "text": "36",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "38",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "42",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q14",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "Sejam XYZ um triângulo equilátero cuja área é $81\\sqrt3\\ m^2$. Se P é um ponto que está no interior do triângulo, então a soma das distâncias, em metros, de P aos lados do triângulo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$7\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$9\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-2fase-q15",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 15,
+    "statement": "Se o par de números reais positivos (x,y) é solução do sistema $\\begin{cases}x^2+y^2=1\\\\2x-y=0\\end{cases}$, então, em relação ao número complexo z = x + iy, podemos afirmar corretamente que $\\dfrac{z^2}{|z|^2}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$-\\dfrac{3}{5}+\\dfrac{4}{5}i$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3}{5}-\\dfrac{4}{5}i$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3}{5}+\\dfrac{4}{5}i$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-\\dfrac{3}{5}-\\dfrac{4}{5}i$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q16",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Os pontos P = (p, 0) e Q = (0, q), com 0 < q < p, são as extremidades de um diâmetro da circunferência $x^2+y^2-8x-6y=0$. A equação da mediatriz do segmento PQ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3y + 4x + 25 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3y + 4x - 25 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3y - 4x + 7 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-3y + 4x + 7 = 0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q17",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 17,
+    "statement": "Considere os parâmetros p = cosx e q = senx, com $0\\le x\\le2\\pi$, e as matrizes $U=\\begin{pmatrix}1\\\\0\\end{pmatrix}$, $V=\\begin{pmatrix}0\\\\1\\end{pmatrix}$ e $M=\\begin{pmatrix}p&-q\\\\q&p\\end{pmatrix}$. Se M.U = V, então tg$\\dfrac{x}{2}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt2}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q18",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 18,
+    "statement": "Considere os conjuntos U, V e W cujos elementos são, respectivamente, os múltiplos positivos de 6, 10 e 15. O conjunto U ∩ V ∩ W é constituído pelos múltiplos positivos de",
+    "options": [
+      {
+        "label": "a",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "90.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q19",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "Em um losango cujas diagonais medem 6 m e 8 m, a distância, em metros, entre dois lados paralelos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4,6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-2fase-q20",
+    "examId": "2009.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 20,
+    "statement": "Um plano paralelo à base de um cone circular reto o secciona de tal modo que a altura do tronco de cone resultante é $\\dfrac{2}{3}$ da altura do cone. A razão entre o volume do cone e o volume do tronco de cone é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{4}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{16}{15}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{19}{17}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{27}{26}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

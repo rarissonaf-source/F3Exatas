@@ -5822,5 +5822,837 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-q37",
+    "examId": "2009.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 37,
+    "statement": "Sobre a impossibilidade de se colocar um satélite em órbita da Terra em um plano que não passe pelo centro do planeta, é correto afirmar que essa impossibilidade",
+    "options": [
+      {
+        "label": "a",
+        "text": "se deve à ação da componente da força gravitacional perpendicular ao plano orbital, que causará o escape do satélite deste plano.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se deve à limitação imposta pela lei de Kepler, que prevê a relação de proporcionalidade entre o quadrado do período da órbita do satélite e o cubo do raio dessa órbita.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "decorre do fato de o eixo perpendicular ao plano orbital do satélite ter que coincidir com o eixo de rotação da terra para manter a órbita planar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não existe, bastando que sejam ajustados o raio e o período orbital para uma dada massa do satélite.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-q38",
+    "examId": "2009.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 38,
+    "statement": "Uma casca esférica condutora, de raio R, tem em seu centro uma carga elétrica puntiforme positiva q. Sobre E, o módulo do campo elétrico em um ponto no interior da casca condutora, situado a uma distância r do centro (r < R), é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$E=\\dfrac{kq}{r^2}$, em que k é uma constante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "E = 0, pois se trata do campo no interior de um condutor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$E=\\dfrac{kq^2}{r^2}$, em que k é uma constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$E=\\dfrac{kq}{r}$, em que k é uma constante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2009.2-q39",
+    "examId": "2009.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 39,
+    "statement": "Sobre um sistema que sofre um ciclo termodinâmico completo, conforme ilustrado na figura a seguir, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o trabalho realizado pelo sistema é nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a quantidade de calor trocado com a vizinhança no ciclo é nula.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o trabalho realizado pelo sistema é igual ao calor trocado no ciclo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o módulo do trabalho realizado pelo sistema é menor que o calor trocado no ciclo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.2/qf39.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-q40",
+    "examId": "2009.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 40,
+    "statement": "Três esferas puntiformes, colineares, cada uma de massa m, estão presas umas às outras e a um eixo de rotação por meio de três hastes rígidas, cada uma de comprimento l, inextensíveis e de massas desprezíveis em relação às massas das esferas. O conjunto (eixo, haste, esfera, haste, esfera, haste, esfera), conforme visto na figura a seguir, gira no plano da prova (plano horizontal), em torno desse eixo de rotação, com velocidade angular constante ω. A tensão T nas hastes 1, 2 e 3 é, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$6ml\\omega^2$, $5ml\\omega^2$ e $3ml\\omega^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$ml\\omega^2$, $2ml\\omega^2$ e $3ml\\omega^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3ml\\omega^2$, $2ml\\omega^2$ e $ml\\omega^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3ml\\omega^2$, $5ml\\omega^2$ e $7ml\\omega^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.2/qf40.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-q41",
+    "examId": "2009.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 41,
+    "statement": "Você está dirigindo um automóvel com velocidade constante de 20 m/s ao longo de uma estrada reta e horizontal, seguindo um caminhão com a mesma velocidade e no mesmo sentido. Em certo momento, um objeto, a 3 m de altura do solo, se desprende da parte traseira do caminhão e vem ao chão. Despreze a resistência do ar, considere g = 10 m/s² e trate o objeto como uma partícula puntiforme. A respeito da distância mínima entre a frente do automóvel e a traseira do caminhão para que o objeto em queda não atinja o automóvel, antes de bater no chão, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "deve ser de $20\\sqrt{3/5}$ metros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "qualquer distância não nula assegura que o objeto não colidirá com o automóvel.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "deve ser de $40\\sqrt{3/5}$ metros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nessas condições, o objeto sempre atingirá o automóvel.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-q42",
+    "examId": "2009.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 42,
+    "statement": "Um raio de luz, se propagando inicialmente no vácuo, incide na superfície lateral de um cilindro de material cujo índice de refração é 1,2 do valor para o vácuo. Suponha que o raio de luz se propague em um plano que contém o eixo do cilindro e incida perpendicularmente a esse eixo. Sobre o desvio, em relação à direção de incidência, que o raio sofrerá ao atravessar o cilindro, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "será nulo, porque a direção do raio incidente é normal à superfície.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "será de 1,2 graus, porque a direção do raio incidente é normal à superfície.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "será de $\\dfrac{1}{1,2}$ graus porque a direção de incidência é normal à superfície.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "será nulo, pois o raio sofrerá reflexão total.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q1",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 1,
+    "statement": "Considere duas montanhas russas vizinhas, de mesmo formato e sustentadas sobre um terreno plano, conforme a figura. Suponha que os pilares de sustentação P1 e P2 sejam de mesmo tamanho e P3 e P4 tenham 70% do tamanho de P1. Despreze quaisquer atritos. Os objetos A e B, puntiformes, partem simultaneamente do início de cada montanha sob a ação unicamente da gravidade. Sobre a diferença entre a energia potencial gravitacional, em relação ao nível do solo, dos objetos A e B, ao percorrerem as montanhas russas, assinale o correto.",
+    "options": [
+      {
+        "label": "a",
+        "text": "A diferença entre a energia potencial gravitacional do corpo A e a do corpo B é 70% da energia do corpo A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A diferença entre a energia potencial gravitacional do corpo A e a do corpo B é 30% da energia do corpo A.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A diferença entre a energia potencial gravitacional do corpo A e a do corpo B é 0% da energia do corpo A.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A diferença entre a energia potencial gravitacional do corpo A e a do corpo B é 50% da energia do corpo A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.2-2fase/qf1.png",
+    "annulled": true
+  },
+  {
+    "id": "2009.2-2fase-q2",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 2,
+    "statement": "Um objeto se move de modo que sua aceleração sempre é proporcional ao seu deslocamento, mas em sentido contrário, ou seja, deslocamento e aceleração têm sempre sinais opostos. Neste caso, pode-se afirmar corretamente que se trata de um movimento",
+    "options": [
+      {
+        "label": "a",
+        "text": "harmônico simples.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uniformemente variado.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "circular.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uniforme.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q3",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 3,
+    "statement": "A curva que melhor representa a velocidade v(t) contra o deslocamento x(t) de um oscilador harmônico é",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma reta passando pela origem.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma elipse centrada na origem.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma senoide.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma co-senoide.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-2fase-q4",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 4,
+    "statement": "Dois objetos puntiformes estão acima do nível do solo, sobre uma reta vertical e separados por uma distância de 10 m. Simultaneamente, os objetos são lançados um contra o outro com velocidades iniciais de módulo 10 m/s. Qual é, em metros, a altura de choque dos objetos supondo que um deles é lançado do solo? (Observação: Despreze qualquer tipo de atrito e considere g = 10 m/s².)",
+    "options": [
+      {
+        "label": "a",
+        "text": "7,50",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,50",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,75",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5,55",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q5",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 5,
+    "statement": "Uma lâmpada incandescente de 100 W está ligada a uma tomada cuja tensão da rede é 220 V. Considerando que a tarifa da companhia de eletricidade é 0,54 R$/kWh, quanto será o consumo mensal aproximado, em Reais, se a lâmpada passa três dias acesa por mês?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "54",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,9",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-2fase-q6",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 6,
+    "statement": "Uma caixa cúbica, sem o tampo superior, é constituída de cinco lâminas metálicas iguais, finas, uniformes e de mesmo material, conforme a figura a seguir. No sistema de referência da figura, as coordenadas x, y e z do centro de massa da caixa são",
+    "options": [
+      {
+        "label": "a",
+        "text": "(a/2, a/2, 2a/5).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(a/2, a/2, a/2).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(2a/5, 2a/5, 2a/5).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(4a/5, a/5, a/5).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.2-2fase/qf6.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q7",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 7,
+    "statement": "Qual a energia potencial, em elétron-Volt (eV), adquirida por um próton ao passar de um ponto A, cujo potencial vale 51 V, para o ponto B, com potencial de 52 V?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1840",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "52",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "51",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-2fase-q8",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 8,
+    "statement": "Duas massas puntiformes se chocam frontalmente. Uma delas tem velocidade inicial de módulo V e massa M, e a outra tem velocidade inicial nula e massa m. Considere o caso em que a massa m pode ser considerada desprezível se comparada à massa M. Nessa situação, o módulo da velocidade final da menor massa, após o choque, é (Observação: Considere o choque perfeitamente elástico.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "2V.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "V.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{V}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{V}{4}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q9",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 9,
+    "statement": "Um raio de luz passa por uma roda dentada, com N dentes, exatamente entre dois dos seus dentes, e reflete em um espelho localizado a uma distância H da roda. O raio incide em uma direção perpendicular ao plano da roda e do espelho. Sabendo que a velocidade da luz é c, calcule a velocidade angular da roda, em rad/s, para que o raio refletido atinja o centro do dente imediatamente adjacente à abertura por onde passou o raio incidente. Considere a largura dos dentes igual à abertura entre eles.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\pi c}{HN}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{c}{HN}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\pi c}{2HN}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{c}{2\\pi HN}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q10",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 10,
+    "statement": "Um planeta de raio R produz, na sua superfície, uma aceleração gravitacional g. A que distância r, sendo r > R, do centro do planeta a aceleração gravitacional é igual a $\\dfrac{g}{5}$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{15}\\ R$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt5\\ R$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5R",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10R",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-2fase-q11",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 11,
+    "statement": "Nos itens a seguir, são dadas as equações de quatro ondas progressivas com x em metros e t em segundos: I. y(x,t) = sen(2x - 4t); II. y(x,t) = 2sen(3x - 3t); III. y(x,t) = 5sen(2x - 6t); IV. y(x,t) = 10sen(4x - t). A onda de maior velocidade de propagação é a do item",
+    "options": [
+      {
+        "label": "a",
+        "text": "II.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "IV.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q12",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 12,
+    "statement": "Em uma região onde existe um campo magnético uniforme $\\vec{B}$, desloca-se uma tira de cobre retangular, com velocidade $\\vec{v}$, conforme a figura. A presença deste campo promoverá um acúmulo de cargas (Observação: Considere a espessura desprezível em relação às outras dimensões da tira.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "negativas, em ambos os lados da fita.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "positivas, no lado II da fita.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "negativas, no lado I da fita.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "negativas, no lado II da fita.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.2-2fase/qf12.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-2fase-q13",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 13,
+    "statement": "A figura a seguir mostra o estado inicial I de um gás ideal e uma isoterma à temperatura T. Considere que o sistema pode mudar de estado por quatro diferentes processos, aqui representados por quatro trajetórias, conforme a figura a seguir. O processo que resulta em aumento da energia interna é",
+    "options": [
+      {
+        "label": "a",
+        "text": "I→1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I→2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I→3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I→4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.2-2fase/qf13.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.2-2fase-q14",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 14,
+    "statement": "Uma esfera condutora isolada, em equilíbrio eletrostático e de raio 10 cm tem potencial elétrico 9.000 V, considerando o potencial elétrico no infinito como sendo zero. Suponha que no espaço não haja campo elétrico produzido por outras fontes, a densidade de carga elétrica sobre a superfície da esfera é aproximadamente (em C/m²)",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,13.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{-7}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "90.000.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "900.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2009.2-2fase-q15",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 15,
+    "statement": "A figura mostra três etapas de um processo termodinâmico isotérmico à temperatura T, no qual ΔV1 = ΔV2 = ΔV3. Considere que ΔW e ΔU são o trabalho realizado pelo sistema e a variação de energia interna em cada etapa, respectivamente. Observando as três etapas, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "ΔW1 < ΔW2 e ΔU1 > ΔU2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ΔW2 > ΔW3 e ΔU2 = ΔU3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ΔW2 < ΔW3 e ΔU2 > ΔU3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ΔW3 > ΔW2 e ΔU1 = ΔU2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.2-2fase/qf15.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.2-2fase-q16",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 16,
+    "statement": "Um foguete sobe verticalmente com aceleração constante. Logo no início de sua subida, em uma altura em que ainda se possa considerar a aceleração da gravidade constante, uma peça se desprende e vem ao solo em uma trajetória vertical. Considere os quatro gráficos (I, II, III e IV) na figura a seguir. Qual dos gráficos melhor representa a componente vertical da velocidade vy(t) da peça após se desprender do foguete e antes de tocar no solo? (Observação: Considere o uso de um sistema de referência com o eixo-y apontado verticalmente para cima.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "III",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "II",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "IV",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.2-2fase/qf16.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-2fase-q17",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 17,
+    "statement": "Um recipiente com formato de uma lente delgada, bicôncava, conforme a figura a seguir, é feito de um material com índice de refração igual ao do ar. Pode-se encher o recipiente com um dos três fluidos: ar (índice de refração 1), fluido B (índice de refração 1,2) ou fluido C (índice de refração 1,3). Um feixe de raios paralelos incide na direção indicada na figura. A lente irá convergir os raios se for preenchida com",
+    "options": [
+      {
+        "label": "a",
+        "text": "o fluido C e imersa no ar.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ar e imersa no fluido C.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ar e imersa no ar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ar e imersa no fluido B.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.2-2fase/qf17.png",
+    "annulled": true
+  },
+  {
+    "id": "2009.2-2fase-q18",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 18,
+    "statement": "Dois íons, $H^+$ e $O^{-2}$, se deslocam em direção perpendicular a um mesmo campo magnético uniforme. Se os dois íons sofrem a ação de forças com mesmo módulo, a razão $v_{H^+}/v_{O^{-2}}$ entre os módulos das velocidades é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.2-2fase-q19",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Com relação a ondas de rádio e ondas de luz na faixa do visível, um aspecto diferente entre elas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "a velocidade de propagação no vácuo, que é diferente para cada uma.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "que a onda de rádio precisa de ar para se propagar.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "que a onda de rádio não sofre reflexão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o comprimento de onda.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.2-2fase-q20",
+    "examId": "2009.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 20,
+    "statement": "Um objeto puntiforme desliza sob a ação da gravidade sobre uma semiesfera cuja seção plana é fixada ao solo. Considere que o objeto parte do ponto mais alto, mediante a aplicação de uma perturbação muito pequena, de modo que se possa considerar como nula sua velocidade inicial. Considere desprezíveis todos os atritos e suponha constante a aceleração da gravidade. No instante em que o objeto perde contato com a semiesfera, a fração da energia mecânica correspondente à energia cinética é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
