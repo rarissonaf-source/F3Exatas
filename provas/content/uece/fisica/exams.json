@@ -142,5 +142,21 @@
     "edition": "2010.1",
     "examType": "especifico",
     "sourceFile": "UECE 2010.1 - 2a fase - Fisica e Quimica.pdf"
+  },
+  {
+    "id": "2010.2",
+    "institution": "UECE",
+    "year": 2010,
+    "edition": "2010.2",
+    "examType": "geral",
+    "sourceFile": "UECE 2010.2 - PROVA - INGLES.pdf"
+  },
+  {
+    "id": "2010.2-2fase",
+    "institution": "UECE",
+    "year": 2010,
+    "edition": "2010.2",
+    "examType": "especifico",
+    "sourceFile": "UECE 2010.2 - 2a fase - Fisica e Quimica.pdf"
   }
 ]

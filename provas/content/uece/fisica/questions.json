@@ -7486,5 +7486,837 @@
     ],
     "imagePath": "2010.1-2fase/qf20.png",
     "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-q37",
+    "examId": "2010.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 37,
+    "statement": "Ao cair de uma altura próxima à superfície da Terra, uma maçã de massa igual a 100g causa no planeta uma aceleração aproximadamente igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "Zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 m/s².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 m/s².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 N.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-q38",
+    "examId": "2010.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 38,
+    "statement": "Um ferreiro deseja colocar um anel de aço ao redor de uma roda de madeira de 1,200 m de diâmetro. O diâmetro interno do anel de aço é 1,198 m. Sem o anel ambos estão inicialmente à temperatura ambiente de 28°C. A que temperatura é necessário aquecer o anel de aço para que ele encaixe exatamente na roda de madeira? (Obs.: Use $\\alpha=1,1\\times10^{-5}\\ ^\\circ C^{-1}$ para o aço.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "180°C.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "190°C.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "290°C.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "480°C.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-q39",
+    "examId": "2010.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 39,
+    "statement": "A velocidade de uma onda progressiva em uma corda esticada é",
+    "options": [
+      {
+        "label": "a",
+        "text": "diretamente proporcional à raiz quadrada do quociente entre a tensão T na corda e a densidade linear μ da corda.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diretamente proporcional à amplitude da onda.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tanto maior quanto menor for a corda.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tanto maior quanto maior for a densidade linear da corda.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-q40",
+    "examId": "2010.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "Qual é o efeito na força elétrica entre duas cargas q1 e q2 quando se coloca um meio isolante, isotrópico e homogêneo entre elas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Nenhum, porque o meio adicionado é isolante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A força aumenta, devido a cargas induzidas no material isolante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A força diminui, devido a cargas induzidas no material isolante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Nenhum, porque as cargas q1 e q2 não se alteram.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-q41",
+    "examId": "2010.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 41,
+    "statement": "Quando comparamos as forças exercidas por campos elétricos e magnéticos sobre uma partícula carregada de velocidade $\\vec v$, diferente de zero, podemos afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a força elétrica e a força magnética são sempre paralelas à velocidade.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a força elétrica e a força magnética são sempre perpendiculares à velocidade.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "para um dado campo elétrico uniforme, existe sempre uma direção da velocidade para a qual a força elétrica é nula, o que não acontece com a força magnética.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a força magnética nunca realiza trabalho sobre a carga, enquanto a força elétrica sempre realiza trabalho.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-q42",
+    "examId": "2010.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 42,
+    "statement": "Um feixe de luz verde monocromática de comprimento de onda $\\lambda=500\\times10^{-9}$ m passa do ar (assuma $n_{ar}=1$ e c = 300 000 km/s) para um cristal de quartzo ($n_q=1,5$). Em condições normais, a frequência da onda é mantida inalterada. Assumindo estar nessas condições, a velocidade da onda de luz e o seu comprimento de onda no quartzo são, respectivamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "300 000 km/s e $500\\times10^{-9}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "200 000 km/s e $500\\times10^{-9}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "300 000 km/s e $333\\times10^{-9}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200 000 km/s e $333\\times10^{-9}$ m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q1",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "O odômetro de um carro marcou 38 692,4 km no início de uma prova de corrida de automóveis em uma pista oval de 3,0 km de comprimento por volta. O carro terminou a prova em 2h38min55seg e no final da prova o odômetro marcou 38 986,4 km. A velocidade escalar média do carro nessa prova foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "Zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "110,0 km/h.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30,8 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "399,6 m/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-2fase-q2",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Uma única força agindo sobre uma massa de 2,0 kg fornece a esta uma aceleração de 3,0 m/s². A aceleração, em m/s², produzida pela mesma força agindo sobre uma massa de 1 kg é",
+    "options": [
+      {
+        "label": "a",
+        "text": "Zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q3",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 3,
+    "statement": "Em um corredor horizontal, um estudante puxa uma mochila de rodinhas de 6 kg pela haste, que faz 60° com o chão. A força aplicada pelo estudante é a mesma necessária para levantar um peso de 1,5 kg, com velocidade constante. Considerando a aceleração da gravidade igual a 10 m/s², o trabalho, em Joule, realizado para puxar a mochila por uma distância de 30 m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "Zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "225,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "389,7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "900,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-2fase-q4",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 4,
+    "statement": "Fornos de microondas usam ondas de rádio de comprimento de onda aproximadamente 12 cm para aquecer os alimentos. Considerando a velocidade da luz igual a 300 000 km/s a frequência das ondas utilizadas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "360 Hz.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "250 kHz.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,6 MHz.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,5 GHz.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q5",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 5,
+    "statement": "No diagrama P-V a seguir, quatro processos termodinâmicos cíclicos executados por um gás, com seus respectivos estados iniciais, estão representados. O processo no qual o trabalho resultante, realizado pelo gás é menor é o",
+    "options": [
+      {
+        "label": "a",
+        "text": "I.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "J.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "K.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "L.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.2-2fase/qf5.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q6",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 6,
+    "statement": "A figura abaixo mostra quatro trajetórias de uma bola de futebol lançada no espaço. Desconsiderando o atrito viscoso com o ar, assinale o correto.",
+    "options": [
+      {
+        "label": "a",
+        "text": "A trajetória que exigiu a maior energia foi a I.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A trajetória que exigiu a maior energia foi a II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A trajetória que exigiu a maior energia foi a III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A energia exigida é a mesma para todas as trajetórias.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.2-2fase/qf6.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q7",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 7,
+    "statement": "Duas massas diferentes estão penduradas por uma polia sem atrito dentro de um elevador, permanecendo equilibradas uma em relação à outra, conforme mostrado na figura a seguir. Podemos afirmar corretamente que nessa situação o elevador está",
+    "options": [
+      {
+        "label": "a",
+        "text": "descendo com velocidade constante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "subindo aceleradamente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "subindo com velocidade constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "descendo aceleradamente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.2-2fase/qf7.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q8",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "Pode-se afirmar corretamente que a energia interna de um sistema constituído por um gás ideal",
+    "options": [
+      {
+        "label": "a",
+        "text": "diminui em uma expansão isotérmica.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "aumenta em uma expansão adiabática.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "diminui em uma expansão livre.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "aumenta em uma expansão isobárica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q9",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 9,
+    "statement": "Um barco pode viajar a uma velocidade de 11 km/h em um lago em que a água está parada. Em um rio, o barco pode manter a mesma velocidade com relação à água. Se esse barco viaja no Rio São Francisco, cuja velocidade da água, em relação à margem, assume-se 0,83 m/s, qual é sua velocidade aproximada em relação a uma árvore plantada na beira do rio quando seu movimento é no sentido da correnteza e contra a correnteza, respectivamente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "14 km/h e 8 km/h.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10,2 m/s e 11,8 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8 km/h e 14 km/h.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11,8 m/s e 10,2 m/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-2fase-q10",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 10,
+    "statement": "Uma massa A de 4 kg puxa horizontalmente uma massa B de 5 kg por meio de uma mola levemente esticada, conforme ilustrado na figura abaixo. Desconsidere qualquer tipo de atrito. Em um dado instante a massa B tem uma aceleração de 1,6 m/s². Nesse instante, a força resultante na massa A e sua aceleração são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "6,4 N e 1,3 m/s².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8,0 N e 2,0 m/s².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,0 N e 1,6 m/s².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8,0 N e 1,6 m/s².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.2-2fase/qf10.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-2fase-q11",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 11,
+    "statement": "Um elevador parte do repouso com uma aceleração constante para cima com relação ao solo. Esse elevador sobe 2,0 m no primeiro segundo. Um morador que se encontra no elevador está segurando um pacote de 3 kg por meio de uma corda vertical. Considerando a aceleração da gravidade igual a 10 m/s², a tensão, em Newton, na corda é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "42.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "88.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q12",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 12,
+    "statement": "Um carrinho de montanha russa tem velocidade igual a zero na posição 1, indicada na figura abaixo, e desliza no trilho, sem atrito, completando o círculo até a posição 3. A menor altura h, em metros, para o carro iniciar o movimento sem que venha a sair do trilho na posição 2 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "36.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "48.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "72.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.2-2fase/qf12.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q13",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 13,
+    "statement": "No elevador mostrado na figura abaixo, o carro no cilindro à esquerda, na posição E, tem uma massa de 900 kg, e a área da secção transversal do cilindro é 2500 cm². Considere a massa do pistão desprezível e a aceleração da gravidade igual a 10 m/s². A área da secção transversal do cilindro, na posição D, é 25 cm², e o pistão tem massa desprezível. Se o elevador for preenchido com óleo de densidade 900 kg/m³, a força mínima F, em Newton, necessária para manter o sistema em equilíbrio será",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "800.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "900.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.2-2fase/qf13.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-2fase-q14",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 14,
+    "statement": "Considerando que o leite tem densidade 1030 g/L e calor específico 0,50 cal/g°C, e que o café tem as mesmas propriedades da água, ou seja, densidade 1000 g/L e calor específico 1 cal/g°C, se adicionarmos 60 mL de leite, a 20°C, a 200 mL de café, a 80°C, a temperatura final da mistura, em °C, será",
+    "options": [
+      {
+        "label": "a",
+        "text": "28.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "42.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "46.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "72.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q15",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "Considere a figura a seguir. Sabendo que na figura anterior a diferença de potencial sobre o resistor de 8 Ω é de 24 V, as diferenças de potencial, em V, sobre os resistores de 14 Ω, 9 Ω e entre os pontos a e b são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "45, 9 e 78.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45, 45 e 114.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "35, 45 e 104.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "35, 70 e 129.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.2-2fase/qf15.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q16",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 16,
+    "statement": "A figura abaixo mostra um prisma feito de um material, cujo índice de refração é 1,5, localizado na frente de um espelho plano vertical, em um meio onde o índice de refração é igual a 1. Um raio de luz horizontal incide no prisma. Sabendo que sen(6°) ≈ 0,104 e sen(9°) = 0,157, o ângulo de reflexão no espelho é de",
+    "options": [
+      {
+        "label": "a",
+        "text": "2°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.2-2fase/qf16.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-2fase-q17",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 17,
+    "statement": "Na figura abaixo, o peso P1 é de 500 N e a corda RS é horizontal. Os valores das tensões T1, T2 e T3 e o peso P2, em Newton, são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$500\\sqrt2$, 500, $1000/\\sqrt3$ e $500/\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$500/\\sqrt2$, 1000, $1000\\sqrt3$ e $500\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$500\\sqrt2$, 1000, $1000/\\sqrt3$ e $500/\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$500/\\sqrt2$, 500, $1000\\sqrt3$ e $500\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.2-2fase/qf17.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-2fase-q18",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "Uma bolha de ar, com o comportamento de gás ideal, foi solta do fundo do mar por um mergulhador e se expandiu 4 vezes até chegar à superfície. Assumindo a pressão atmosférica igual a 100 kPa, a densidade da água do mar constante e igual a 1000 kg/m³ e desconsiderando variações de temperatura, a profundidade, em metros, do mergulhador ao soltar a bolha é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q19",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Os termos abaixo estão relacionados às ondas sonoras. I - Volume se refere à intensidade da sensação auditiva produzida por um som e depende da intensidade e da frequência da onda. II - Altura se refere a uma qualidade da onda que depende somente da sua frequência: quanto menor a frequência maior a altura. III - Batimento se refere às flutuações na intensidade do som quando há interferência de duas ondas sonoras de mesma frequência. IV - Timbre é uma característica que depende da frequência e da intensidade dos tons harmônicos que se superpõem para formar a onda sonora. Está correto o que se afirma em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II, apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II e III, apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "III e IV, apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I e IV, apenas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q20",
+    "examId": "2010.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 20,
+    "statement": "A declinação do Campo Magnético Terrestre em Fortaleza, CE, é de aproximadamente 21° para o oeste, e a sua componente horizontal é de aproximadamente 0,25 G. Se um elétron é atirado com velocidade $10^6$ m/s, verticalmente para cima, a magnitude, a direção e o sentido da força magnética atuando sobre ele são dados por (Dados: 1 G = $10^{-4}$ T, cos(21°) = 0,93, sen(21°) = 0,36, e = $1,6\\times10^{-19}$ C)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4,05\\times10^{-18}$ N na direção a 21° para o Norte da direção Leste-Oeste, sentido Leste.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3,78\\times10^{-18}$ N na direção a 21° para o Sul da direção Leste-Oeste, sentido Leste.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1,45\\times10^{-18}$ N na direção a 21° para o Leste da direção Norte-Sul, sentido Norte.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4,05\\times10^{-18}$ N na direção a 21° para o Leste da direção Norte-Sul, sentido Sul.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]

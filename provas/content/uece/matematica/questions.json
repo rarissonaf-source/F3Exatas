@@ -8638,5 +8638,965 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-q15",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 15,
+    "statement": "A média aritmética entre os divisores primos e positivos do número 2310 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6,3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,7.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-q16",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Se as medidas, em graus, dos ângulos internos de um triângulo são respectivamente 3x, x + 15 e 75 - x, então este triângulo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "escaleno.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "retângulo e não isósceles.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "retângulo e isósceles.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "isósceles e não retângulo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-q17",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 17,
+    "statement": "No triângulo numérico abaixo, construído segundo uma estrutura lógica facilmente identificada, o número localizado na última posição da linha x é dado pela expressão x² + x - 1. (1 / 3 5 / 7 9 11 / 13 15 17 19 / 21 23 25 27 29 / ...) Podemos afirmar, corretamente, que o maior número situado na linha cuja soma dos números que a compõem é 8000, pertence ao conjunto",
+    "options": [
+      {
+        "label": "a",
+        "text": "{409, 411, 413}.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "{415, 417, 419}.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "{421, 423, 425}.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "{427, 429, 431}.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-q18",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "Se a medida, em metros, de cada um dos lados de um triângulo equilátero é x, seja S(x) a expressão da área deste triângulo em função de x. O valor, em m², de $S\\left(\\dfrac{1}{3}\\right)+S(3)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{17\\sqrt3}{18}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{35\\sqrt3}{18}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{49\\sqrt3}{18}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{41\\sqrt3}{18}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-q19",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 19,
+    "statement": "Os números x, y e z são inteiros positivos e consecutivos e quando divididos respectivamente por 2, 5 e 8 deixam resto zero e geram quocientes cuja soma é igual a 12. A média aritmética entre estes números é",
+    "options": [
+      {
+        "label": "a",
+        "text": "13.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "19.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "17.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-q20",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 20,
+    "statement": "Se x, y e z constituem a solução do sistema linear $\\begin{cases}x+y+z=1\\\\x+2y+3z=2\\\\x+4y+5z=4\\end{cases}$ então o produto x.y.z é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-q21",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 21,
+    "statement": "Renato contratou um empréstimo de R$ 1.400,00, para pagar um mês depois, com juros de 15% ao mês. Ao final do mês, não podendo pagar o total, deu por conta apenas R$ 750,00 e, para o restante, firmou um novo contrato nas mesmas bases do anterior, o qual foi pago integralmente um mês depois. O valor do último pagamento foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 889,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 939,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 989,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1.009,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-q22",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 22,
+    "statement": "O número de soluções da equação $3\\text{sen}^2x-3\\text{sen}\\,x+\\cos^2x=0$ que estão no intervalo $[0,2\\pi]$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-q23",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 23,
+    "statement": "Se n é um número inteiro positivo e X é a matriz $\\begin{pmatrix}1&0&0\\\\1&2&0\\\\1&1&3\\end{pmatrix}$, então o valor do determinante da matriz $Y=X^n$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2^n$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3^n$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6^n$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$9^n$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-q24",
+    "examId": "2010.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 24,
+    "statement": "No plano complexo, o número z = 2 - 3i é o centro de um quadrado e w = 5 - 5i é um de seus vértices. O vértice do quadrado não consecutivo a w é o número complexo",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 - 2i.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 - i.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-1 - i.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-2 - 2i.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q1",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 1,
+    "statement": "Se os números m, p e q são as soluções da equação $x^3-7x^2+14x-8=0$ então o valor da soma $\\log_2m+\\log_2p+\\log_2q$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q2",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 2,
+    "statement": "Se os dois primeiros termos de uma progressão geométrica são dados por $x_1=p^2-q^2$ e $x_2=(p-q)^2$, com p > q > 0, então a expressão do décimo primeiro termo desta progressão será",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{(p-q)^9}{(p+q)^{11}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{(p-q)^{11}}{(p+q)^9}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{(p+q)^9}{(p-q)^{11}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{(p-q)^9}{(p-q)^{11}}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-2fase-q3",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 3,
+    "statement": "Um fabricante de latas de alumínio com a forma de cilindro circular reto vai alterar as dimensões das latas fabricadas de forma que volume seja preservado. Se a medida do raio da base das novas latas é o dobro da medida do raio da base das antigas, então a medida da nova altura é",
+    "options": [
+      {
+        "label": "a",
+        "text": "a metade da medida da altura das latas antigas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "um terço da medida da altura das latas antigas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "um quarto da medida da altura das latas antigas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "dois terços da medida da altura das latas antigas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q4",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "Para valores reais de k, as equações (k - 4)x + 5y - 5k = 0 representam no plano cartesiano uma família de retas que passam pelo ponto fixo P(m, n). O valor de m + n é",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "13.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-2fase-q5",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "Se E1 e E2 são duas circunferências concêntricas cujas medidas dos raios são respectivamente 3 m e 5 m e se uma reta tangente a E1 intercepta E2 nos pontos X e Y, então a medida, em metros, do segmento de reta XY é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q6",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Uma reta paralela a um dos lados de um triângulo equilátero intercepta os outros dois lados determinando um triângulo menor e um trapézio, os quais tem o mesmo perímetro. A razão entre a área do triângulo menor e a área do trapézio é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6/4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7/5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8/6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9/7.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q7",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 7,
+    "statement": "Quatro amigos fundaram uma empresa com capital inicial K. Um deles participou com a terça parte, outro com a sexta parte, o terceiro com 20% e o último com R$ 1.029.000,00. O valor de K situa-se entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 3.000.000,00 e R$ 3.150.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 3.100.000,00 e R$ 3.250.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 3.200.000,00 e R$ 3.350.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 3.300.000,00 e R$ 3.450.000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q8",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 8,
+    "statement": "Se f e g são as funções definidas por f(x) = senx e g(x) = cosx, podemos afirmar corretamente que a expressão $\\log[(f(x)+g(x))^2-f(2x)]$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "f(x).g(x).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "log(f(x) + 2) + log(g(x) + 2).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-2fase-q9",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 9,
+    "statement": "O produto de todos os múltiplos positivos de 6 menores do que 500 é múltiplo de $10^k$. O maior valor inteiro de k é",
+    "options": [
+      {
+        "label": "a",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "21.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "19.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q10",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "No sistema usual de coordenadas ortogonais, as equações x + y = k e x - y = t representam famílias de retas perpendiculares. Existem quatro destas retas que limitam a superfície de um quadrado cujo centro é a origem do sistema e a área é 6 ua (unidades de área). O produto dos valores de k e de t, que determinam estas retas, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-2fase-q11",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 11,
+    "statement": "Os números -2, -1, 0, 1 e 2 são as soluções da equação polinomial p(x) = 0, as quais são todas simples. Se o polinômio p(x) é tal que $p(\\sqrt2)=2\\sqrt2$, então o valor de $p(\\sqrt3)$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6\\sqrt2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.2-2fase-q12",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "No sistema usual de coordenadas cartesianas, a equação da circunferência inscrita no quadrado representado pela equação |x| + |y| = 1 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2x^2+2y^2+1=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x^2+y^2-1=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2x^2+2y^2-1=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x^2+y^2-2=0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q13",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 13,
+    "statement": "No retângulo PQRS as medidas dos lados PQ e PS são, respectivamente, 15 m e 10 m. Pelo ponto médio, F, do lado PS traça-se o segmento FR dividindo o retângulo em duas partes. Se E é o ponto do lado PQ tal que a medida do segmento EQ é 5 m, traça-se por E uma perpendicular a FR determinando o ponto G em FR. Nestas condições, a medida da área, em metros quadrados, do quadrilátero PFGE é",
+    "options": [
+      {
+        "label": "a",
+        "text": "50,25.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "53,25.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "56,25.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "59,25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q14",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 14,
+    "statement": "A idade de Paulo, em anos, é um número inteiro par que satisfaz a desigualdade $x^2-32x+252<0$. O número que representa a idade de Paulo pertence ao conjunto",
+    "options": [
+      {
+        "label": "a",
+        "text": "{12, 13, 14}.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "{15, 16, 17}.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "{18, 19, 20}.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "{21, 22, 23}.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-2fase-q15",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 15,
+    "statement": "A senha de um cartão eletrônico possui sete caracteres, todos distintos, sendo quatro algarismos e três letras maiúsculas, intercalando algarismos e letras, (por exemplo, 5C7X2P8). Sabendo que são disponibilizados 26 letras e 10 algarismos, o número de senhas distintas que podem ser confeccionadas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "66 888 000.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "72 624 000.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "78 624 000.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "84 888 000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.2-2fase-q16",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "Três torneiras X, Y e Z, abertas simultaneamente, enchem um tanque em três horas. Cada uma das torneiras tem vazão constante e, sozinhas, encheriam o tanque em x horas, 8 horas e 6 horas, respectivamente. Nestas condições, o valor de x será",
+    "options": [
+      {
+        "label": "a",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "24.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q17",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "Sejam P e Q polígonos regulares. Se P é um hexágono e se o número de diagonais do Q, partindo de um vértice, é igual ao número total de diagonais de P então a medida de cada um dos ângulos internos de Q é",
+    "options": [
+      {
+        "label": "a",
+        "text": "144 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "150 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "156 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "162 graus.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-2fase-q18",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 18,
+    "statement": "O conjugado, $\\bar z$, do número complexo z = x + iy, com x e y números reais, é definido por $\\bar z=x-iy$. Identificando o número complexo z = x + iy com o ponto (x, y) no plano cartesiano, podemos afirmar corretamente que o conjunto dos números complexos z que satisfazem a relação $z\\bar z+z+\\bar z=0$ estão sobre",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma reta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma circunferência.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma parábola.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma elipse.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.2-2fase-q19",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 19,
+    "statement": "A superfície lateral de um cone circular reto, quando planificada, torna-se um setor circular de 12 cm de raio com um ângulo central de 120 graus. A medida, em centímetros quadrados, da área da base deste cone é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$144\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$72\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$36\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$16\\pi$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.2-2fase-q20",
+    "examId": "2010.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "O ponto P é interior a um segmento de reta, cuja medida é x = 2m, e o divide em dois segmentos cujas medidas são y e z e satisfazem a relação $y^2=xz$. A razão x/y (denominada de número de ouro ou razão áurea) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1+\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1+\\sqrt5}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{-1+\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{-1+\\sqrt5}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
