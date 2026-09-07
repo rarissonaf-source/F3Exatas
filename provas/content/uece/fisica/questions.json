@@ -4990,5 +4990,837 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-q37",
+    "examId": "2009.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 37,
+    "statement": "Você está em pé em uma sala, parado diante de um espelho vertical no qual pode ver, apenas, dois terços de seu corpo. Considere as ações descritas a seguir: I. Afastar-se do espelho. II. Aproximar-se do espelho. III. Usar um espelho maior, cuja altura o permita ver seu corpo inteiro quando você está na sua posição inicial. Você gostaria de ver seu corpo inteiro refletido no espelho. Para atingir seu objetivo, das ações listadas anteriormente, você pode escolher",
+    "options": [
+      {
+        "label": "a",
+        "text": "apenas a I.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "apenas a II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "apenas a III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a I ou a III, apenas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-q38",
+    "examId": "2009.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 38,
+    "statement": "Uma motocicleta de 120 kg se choca de frente com um automóvel de 800 kg, em uma rua horizontal. Sobre a força sofrida pelos veículos, devido à colisão, assinale o correto.",
+    "options": [
+      {
+        "label": "a",
+        "text": "As forças sofridas pelos dois veículos são iguais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A motocicleta sofre maior força.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O automóvel sofre maior força.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "As forças sofridas pelos dois veículos vão depender de a colisão ser ou não elástica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2009.1-q39",
+    "examId": "2009.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 39,
+    "statement": "Para uma corda de piano de comprimento L, as possíveis ondas estacionárias de menor frequência têm comprimentos de onda iguais a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2L, L e $\\dfrac{1}{2}L$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3L, 2L e L.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2L, L e $\\dfrac{2}{3}L$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "L, 2L e $\\dfrac{1}{3}L$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-q40",
+    "examId": "2009.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 40,
+    "statement": "A força resultante que age sobre um corpo de massa 2 kg, que está se movendo no sentido positivo do eixo-x, é dada, em Newtons, pela expressão F = -6x, sendo x dado em metros. Se a velocidade do corpo, para x = 3,0 m, é v = 8,0 m/s, então, para x = 4,0 m, sua velocidade será, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "6,5 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8,0 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9,0 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-6,5 m/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.1-q41",
+    "examId": "2009.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 41,
+    "statement": "Um grupo de alunos, no laboratório de física, afirma que observaram uma colisão perfeitamente elástica entre duas esferas metálicas bem polidas, em uma superfície horizontal, que resultou nas duas esferas terminarem em repouso. Nenhuma força externa horizontal estava agindo nas esferas no instante da colisão. Sobre o fato, assinale o correto.",
+    "options": [
+      {
+        "label": "a",
+        "text": "As velocidades escalares iniciais das duas esferas eram iguais e suas massas eram idênticas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "As velocidades escalares iniciais das duas esferas eram diferentes e suas massas eram, também, diferentes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "As velocidades escalares iniciais das duas esferas eram iguais, mas suas massas não necessariamente eram idênticas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A colisão não pode ter ocorrido como afirmado pelo grupo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-q42",
+    "examId": "2009.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "Um aluno, estudando física térmica, fez as seguintes afirmações: ( ) A variação da energia interna de um sistema em um processo termodinâmico é a diferença entre o trabalho realizado e o calor trocado com o meio. ( ) O rendimento máximo de uma máquina térmica é 1. ( ) A energia do universo sempre se mantém constante. ( ) O calor sempre flui espontaneamente de um corpo quente para um corpo frio. Classifique as afirmações anteriores como verdadeiras (V) ou falsas (F), baseando-se, somente, no enunciado da Segunda Lei da Termodinâmica, e assinale a opção que contem a sequência correta, de cima para baixo.",
+    "options": [
+      {
+        "label": "a",
+        "text": "V, F, V, F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "V, F, V, V",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "F, V, V, F",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "F, F, F, V",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q1",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 1,
+    "statement": "Duas lâmpadas, L1 e L2, idênticas e um resistor R estão ligados em um circuito com uma bateria e uma chave, como mostrado na figura. Quando a chave X é fechada,",
+    "options": [
+      {
+        "label": "a",
+        "text": "o brilho da lâmpada L2 aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o brilho da lâmpada L2 diminui.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o brilho da lâmpada L2 permanece o mesmo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o brilho da lâmpada L1 diminui.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.1-2fase/qf1.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q2",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Um bloco de massa m, que se move sobre uma superfície horizontal sem atrito, está preso por duas molas de constantes elásticas k1 e k2 e massas desprezíveis com relação ao bloco, entre duas paredes fixas, conforme a figura. Dada uma velocidade inicial ao bloco, na direção do eixo-x, este vibrará com frequência angular igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{\\dfrac{k_1k_2}{m(k_1+k_2)}}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{\\dfrac{k_1+k_2}{2m}}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{\\dfrac{k_1-k_2}{2m}}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{\\dfrac{k_1+k_2}{m}}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.1-2fase/qf2.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-2fase-q3",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 3,
+    "statement": "Uma corda de piano de comprimento L, presa horizontalmente por suas extremidades, está vibrando, verticalmente, com comprimento de onda igual ao seu comprimento. No instante em que ela se mostra totalmente na horizontal, a velocidade de cada ponto ao longo da corda é",
+    "options": [
+      {
+        "label": "a",
+        "text": "zero em toda extensão da corda.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diferente de zero em toda extensão da corda.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "dependente da posição na corda, sempre na direção horizontal ou nula.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "dependente da posição na corda, sempre na direção vertical ou nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-2fase-q4",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 4,
+    "statement": "Observando o diagrama de fase PT mostrado a seguir. Pode-se concluir, corretamente, que uma substância que passou pelo processo de sublimação segue a trajetória",
+    "options": [
+      {
+        "label": "a",
+        "text": "X ou Y.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Y ou U.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "U ou V.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "V ou X.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.1-2fase/qf4.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q5",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 5,
+    "statement": "Dois condutores elétricos esféricos, de raios R1 e R2, com R1 o dobro de R2, estão eletrizados com densidade de carga σ1 e σ2, de forma que são mantidos no mesmo potencial elétrico V, e se encontram bem distantes um do outro. Podemos afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "4σ1 = σ2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "σ1 = 2σ2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2σ1 = σ2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "σ1 = 4σ2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q6",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 6,
+    "statement": "Uma onda de luz monocromática se propaga ao longo de um cano retilíneo com suas extremidades fechadas por espelhos refletores perfeitos, e em cujo volume interno existe vácuo. Uma onda estacionária de frequência f e comprimento de onda λ é formada. Se um gás de índice de refração n for introduzido no cano, qual entre as seguintes mudanças ocorre?",
+    "options": [
+      {
+        "label": "a",
+        "text": "λ aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "λ diminui.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "f aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f diminui.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q7",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 7,
+    "statement": "Dois blocos A e B, de massas mA = 1,5 kg e mB = 0,5 kg, respectivamente, estão dispostos de forma que o bloco B está sobre o bloco A e este último sobre uma superfície horizontal sem atrito. O coeficiente de atrito estático entre os blocos é μ = 0,4. Considerando g = 10 m/s², qual é a maior força que pode ser aplicada horizontalmente sobre o bloco A, de tal forma que os dois blocos se movam juntos?",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 N",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 N",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16 N",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "32 N",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q8",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "Imagine um sistema termicamente isolado, composto por cilindros conectados por uma válvula, inicialmente fechada. Um dos cilindros contém um gás perfeito, mantido à pressão de 1 atm, e no outro, tem-se vácuo. Abrindo-se a válvula",
+    "options": [
+      {
+        "label": "a",
+        "text": "o gás se expande e, assim, sua temperatura diminui.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a entropia do sistema se mantém constante, pois não há troca de calor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a entropia do sistema aumenta, porque o processo é irreversível.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a energia interna do gás diminui, porque sua pressão diminui.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q9",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 9,
+    "statement": "O corpo A, de massa 2 kg, move-se com velocidade constante de 4 m/s, com direção ao longo do eixo-x, no sentido positivo desse eixo. O corpo B, de massa 6 kg, move-se com velocidade constante de 3 m/s, com direção ao longo do eixo-y, no sentido negativo desse eixo. O módulo da velocidade do centro de massa do sistema composto pelos dois corpos A e B, em m/s, é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.1-2fase-q10",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 10,
+    "statement": "O gálio é um elemento químico metálico, cujo ponto de fusão é 30°C e cuja densidade é ρ = 6,1 g/cm³. A altura, em metros, da coluna de um barômetro de gálio sob pressão atmosférica, ao nível do mar ($10^5$ Pa), num ambiente a 40°C, é, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "61,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q11",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 11,
+    "statement": "Uma partícula de massa M e velocidade de módulo v colide com uma superfície plana, fazendo um ângulo de 30° com a mesma. Após a colisão a partícula é refletida com uma trajetória cuja direção também faz um ângulo de 30° com a superfície, como ilustrado na figura. Considerando que o módulo da velocidade da partícula continua o mesmo, após a colisão, a alteração na quantidade de movimento da partícula na direção perpendicular à parede devido à colisão é, em módulo, igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Mv sen30°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2Mv sen30°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2Mv.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.1-2fase/qf11.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q12",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 12,
+    "statement": "Uma escada está apoiada entre uma parede vertical sem atrito e o chão (horizontal), conforme mostra a figura a seguir. Considerando que a escada se comporta como uma barra homogênea de 5 m e peso 100 N, e sabendo que o coeficiente de atrito estático entre a escada e o chão é 0,5, a distância máxima x que a base da escada pode estar da parede, sem deslizar, é, aproximadamente, igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,5 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,5 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,5 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.1-2fase/qf12.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q13",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 13,
+    "statement": "A velocidade areolar de um planeta que descreve uma trajetória praticamente circular de raio R em torno do Sol, com período de translação T, é, aproximadamente, igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\pi R}{T}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{2\\pi R}{T}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\pi R^2}{T}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{4\\pi R^2}{T}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q14",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 14,
+    "statement": "Considerando que o diâmetro da Lua é, aproximadamente, 4 vezes menor que o da Terra, e que a densidade da Lua é, aproximadamente, 2 vezes menor que a densidade da Terra. Considerando que ambas, a Terra e a Lua, sejam esféricas e com densidades uniformes, a aceleração da gravidade na superfície da lua é, aproximadamente, igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{8}$ da aceleração da gravidade na superfície da Terra.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{32}$ da aceleração da gravidade na superfície da Terra.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{64}$ da aceleração da gravidade na superfície da Terra.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{128}$ da aceleração da gravidade na superfície da Terra.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q15",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 15,
+    "statement": "Um raio luminoso monocromático propaga-se através de quatro meios materiais com índices de refração n0, n1, n2 e n3, conforme mostra a figura a seguir. Nestas condições, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "n0 > n1 > n2 > n3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "n0 = n1 > n2 > n3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "n0 = n1 < n2 < n3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "n0 < n1 < n2 < n3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.1-2fase/qf15.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q16",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 16,
+    "statement": "Em um acelerador de partículas, três partículas K, L, e M, de alta energia, penetram em uma região onde existe somente um campo magnético uniforme B, movendo-se perpendicularmente a esse campo. A figura a seguir mostra as trajetórias dessas partículas (sendo a direção do campo B perpendicular ao plano do papel, saindo da folha). Com relação às cargas das partículas podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "as de K, L e M são positivas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as de K e M são positivas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "somente a de M é positiva.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "somente a de K é positiva.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.1-2fase/qf16.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q17",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 17,
+    "statement": "Uma estudante constrói uma luneta usando uma lente convergente de 58,2 cm de distância focal como objetiva e uma lente convergente com 1,9 cm de distância focal como ocular. Sabendo-se que a distância entre as lentes ocular e objetiva é de 60 cm, qual é, aproximadamente, a distância, em centímetros, entre a imagem final de um astro observado e a ocular?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10,0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30,6",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "34,2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36,4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q18",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 18,
+    "statement": "Uma escada rolante foi projetada para transportar 10 pessoas por minuto do primeiro para o segundo andar de um Shopping Center. A escada tem 12 m de comprimento e uma inclinação de 30° com a horizontal. Supondo que cada pessoa pesa 800 N, o consumo de energia da escada rolante, com capacidade máxima, será",
+    "options": [
+      {
+        "label": "a",
+        "text": "80 W.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "400 W.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "800 W.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4000 W.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q19",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 19,
+    "statement": "A figura abaixo mostra o perfil de uma pista de skate, feita do mesmo material do ponto U ao ponto Y. Uma jovem skatista parte do ponto U com velocidade nula, passa pelos pontos V, X e chega ao ponto Y com velocidade nula. Com base no exposto, assinale o correto.",
+    "options": [
+      {
+        "label": "a",
+        "text": "A energia cinética em V é igual à energia potencial gravitacional em U.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A energia cinética em V é igual à energia potencial gravitacional em X.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A energia cinética em V é igual à energia potencial gravitacional em Y.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A energia cinética em V é maior que a energia potencial gravitacional em X.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2009.1-2fase/qf19.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-2fase-q20",
+    "examId": "2009.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 20,
+    "statement": "Um corpo move-se no plano XY, sendo as coordenadas de sua posição dadas pelas funções x(t) = 3t e y(t) = $t^3-12t$, em centímetros, com t em segundos. O módulo do deslocamento entre os instantes t = 0 e t = 4 segundos, em centímetros, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "38.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]

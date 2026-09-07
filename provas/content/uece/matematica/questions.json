@@ -5758,5 +5758,965 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-q15",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 15,
+    "statement": "A senha do cartão de crédito de Luiz é um número maior do que 2008, divisível por 5, formado por quatro algarismos, todos diferentes de zero. Se a soma dos algarismos da senha é igual a nove, então seu terceiro algarismo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.1-q16",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 16,
+    "statement": "Seja f a função real de variável real, definida por f(x) = x² + px + q, em que p e q são números reais constantes. Se o gráfico de f passa pelos pontos (5, 0) e (0, 5) o valor de f(1) é",
+    "options": [
+      {
+        "label": "a",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-q17",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "Duas circunferências concêntricas, cujas medidas dos raios são R e 3R, são tangenciadas, simultaneamente, por uma terceira circunferência. A medida do raio da terceira circunferência pode ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "R ou $\\dfrac{3R}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R ou 2R.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{2R}{3}$ ou 2R.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2R}{3}$ ou $\\dfrac{3R}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-q18",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 18,
+    "statement": "Os elementos dos conjuntos X, Y, V e W são polígonos em um mesmo plano, sendo X constituído por todos os paralelogramos, Y por todos os retângulos, V por todos os quadrados e W por todos os quadriláteros convexos cujos lados têm medidas iguais, mas as diagonais têm medidas diferentes. Podemos afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "W ⊂ X e Y e V são conjuntos disjuntos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(Y ∩ V) ⊂ W.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "V ⊂ Y ⊂ W e X e W são conjuntos disjuntos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Y ∩ W = { }.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-q19",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 19,
+    "statement": "Se um prisma triangular reto é tal que cada uma de suas arestas mede 2m, então a medida do seu volume é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt2\\ m^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt3\\ m^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt6\\ m^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$8\\ m^3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-q20",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 20,
+    "statement": "De quantas maneiras diferentes é possível escolher o primeiro, o segundo e o terceiro colocados, em uma competição artística da qual participam 15 pessoas, todos com a mesma chance de ganhar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "45",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "225",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "455",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2730",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-q21",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 21,
+    "statement": "Se $\\text{sen}(30°)=\\dfrac{1}{2}$, então o valor de $2\\,\\text{sen}(120°)+\\text{tg}(240°)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-q22",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "O centro da circunferência $x^2+2x+y^2=1$ pertence à reta r e esta reta é perpendicular à reta x + y = 8. Um ponto pertencente à reta r é o ponto",
+    "options": [
+      {
+        "label": "a",
+        "text": "(3, 5).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(2, 4).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(3, 4).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(5, -5).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-q23",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "O perímetro de um quadrado é P metros e sua área é Q metros quadrados. Se 3P = Q, então a medida do lado do quadrado é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-q24",
+    "examId": "2009.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 24,
+    "statement": "Se f e g são funções reais de variável real, definidas por $f(x)=\\dfrac{x-1}{2}$ e $g(x)=4x^2$, a expressão algébrica que define a composta $h(x)=f(g(x))$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2x^2-\\dfrac{1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x^2-2x+1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4x^2-1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2x^2-\\dfrac{1}{2}x$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.1-2fase-q1",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 1,
+    "statement": "Em uma Olimpíada, um país conquistou medalhas de ouro, prata e bronze, totalizando 40 medalhas. Se as quantidades de medalhas de ouro, prata e bronze são proporcionais, respectivamente, a 2, 3 e 5, o número de medalhas de ouro conquistadas foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q2",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 2,
+    "statement": "O número de elementos do conjunto formado pelos inteiros positivos x que satisfazem à desigualdade $4\\le\\sqrt{x}\\le17$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "136.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "143.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "273.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "274.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-2fase-q3",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 3,
+    "statement": "Se x, y e z são números reais não nulos, que formam, nesta ordem, uma progressão geométrica, então o resultado da divisão de x + y + z por $\\dfrac{1}{x}+\\dfrac{1}{y}+\\dfrac{1}{z}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "xy.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$y^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$z^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q4",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 4,
+    "statement": "Sejam f, g: R → R funções, definidas por f(x) = 2x² - 4x e g(x) = x² - 6x + 8. A soma das coordenadas dos pontos que estão na interseção do gráfico de f com o gráfico de g ou na interseção dos gráficos destas funções com os eixos coordenados é",
+    "options": [
+      {
+        "label": "a",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "54.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "58.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "62.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q5",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 5,
+    "statement": "Um estudante tem que selecionar 5 disciplinas, entre 12 ofertadas para o próximo semestre, e uma delas tem que ser Geografia ou História, as quais estão incluídas entre as 12 ofertadas. De quantas maneiras o estudante pode escolher estas disciplinas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "330.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "462.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "540.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "792.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q6",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "O ponto P = (x,y), cujas coordenadas x e y são números inteiros positivos, está sobre a circunferência cujo centro é a origem do sistema de coordenadas e o raio mede 10 m. O valor de $\\dfrac{x}{y}+\\dfrac{y}{x}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{25}{12}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{16}{15}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{49}{25}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{15}{12}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.1-2fase-q7",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Os números reais u e v, para os quais o polinômio $p(x)=ux^3+vx^2-73x+102$ é divisível por $q(x)=x^2-5x+6$, cumprem a condição",
+    "options": [
+      {
+        "label": "a",
+        "text": "u + v = 73.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "u + v = 102.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "u + v > 102.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "u + v < 73.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-2fase-q8",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 8,
+    "statement": "O número 8645 pode ser fatorado como o produto de dois números inteiros positivos menores do que 100. A soma destes dois números é",
+    "options": [
+      {
+        "label": "a",
+        "text": "94.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "186.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "144.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "135.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q9",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "Um retângulo X, cuja área é 60,80 m², é semelhante a um outro retângulo Y, cujo perímetro é $\\dfrac{1}{4}$ do perímetro de X. Nestas condições, a área do retângulo Y é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$30,40\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$15,20\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$7,60\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3,80\\ m^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-2fase-q10",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "No triângulo isósceles XYZ, a medida do lado XY é igual à medida do lado XZ e P é um ponto do lado XY tal que os segmentos XP e PZ têm a mesma medida. Se a bissetriz interna do ângulo Y intercepta o segmento PZ no ponto O, de modo que os segmentos PO e YO têm medidas iguais, então a medida do ângulo interno X é",
+    "options": [
+      {
+        "label": "a",
+        "text": "15°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q11",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 11,
+    "statement": "O volume de um prisma regular reto hexagonal, com 2 m de altura, é $\\sqrt3\\ m^3$. A medida da área lateral deste prisma é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt3\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt3\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\sqrt3\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\sqrt3\\ m^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-2fase-q12",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 12,
+    "statement": "Se x e y são arcos do primeiro quadrante tais que $x+y=\\dfrac{\\pi}{2}$, então a expressão $1-\\text{sen}^2x-\\cos^2y$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-sen 2x.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-cos 2y.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\text{sen}^2x-\\text{sen}^2y$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\text{sen}^2x+\\cos^2y$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q13",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 13,
+    "statement": "Pelo ponto P, exterior à circunferência com centro no ponto Q e raio $\\sqrt3$ m, passam duas retas que tangenciam a circunferência nos pontos R e S. Se o triângulo PRS é equilátero, a área do quadrilátero RPSQ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt3\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi\\sqrt3\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\pi\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\sqrt3\\ m^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2009.1-2fase-q14",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 14,
+    "statement": "Considere o número complexo $z=\\dfrac{1}{2}+\\dfrac{\\sqrt3}{2}i$. Então $(zi)^{2007}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "i.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-i.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q15",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 15,
+    "statement": "Se u é o número real positivo e diferente de 1, tal que $\\log_u7=-\\dfrac{1}{3}$, então $\\log_{1/u}117649$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.1-2fase-q16",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "Em janeiro, João gastava 40% de seu salário com aluguel. Em julho seu salário teve um aumento de 5% e seu aluguel teve um aumento de 20%. Nesta nova situação, o percentual do salário de João gasto com aluguel está entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "43,5% e 44,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "44,5% e 45,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45,5% e 46,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "46,5% e 47,5%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2009.1-2fase-q17",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 17,
+    "statement": "Se x e y são dois ângulos cuja soma é $\\dfrac{\\pi}{3}$, então o determinante da matriz $\\begin{pmatrix}\\text{sen}\\,x&\\cos x&0\\\\\\cos y&\\text{sen}\\,y&0\\\\0&0&-1\\end{pmatrix}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt3}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{4}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.1-2fase-q18",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "Em um referencial cartesiano ortogonal, no qual a unidade linear é o centímetro, a área da região limitada pelo gráfico da equação $|x|+|y|=1$, em centímetros quadrados, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt2}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2009.1-2fase-q19",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 19,
+    "statement": "Para $r\\ne2$, se x = p e y = q é a solução do sistema linear $\\begin{cases}rx+2y=1\\\\2x+ry=1\\end{cases}$, então o valor de $p^2-q^2$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2009.1-2fase-q20",
+    "examId": "2009.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 20,
+    "statement": "Em relação às raízes da equação $x^3-4x^2+3x=0$, podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma delas é um número negativo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma delas é um número irracional.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma delas é um número primo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o produto de todas elas é igual a 3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
