@@ -3710,5 +3710,645 @@
     ],
     "imagePath": "2007.2-2fase/qf20.png",
     "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q1",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 1,
+    "statement": "Um tubo em U, de seção transversal reta uniforme igual a 1 cm², contém água ($\\rho_A=10^3\\ kg/m^3$) em equilíbrio estático, conforme a figura abaixo. Assinale a alternativa que contém o volume de óleo ($\\rho_O=900\\ kg/m^3$), em centímetros cúbicos, que deve ser colocado em um dos ramos do tubo para causar uma diferença de 2 cm entre as superfícies superiores do óleo e da água, conforme mostra a figura.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/qf1.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q2",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 2,
+    "statement": "Quando diferentes tipos de instrumentos musicais, como flauta, saxofone e piano, produzem a mesma nota musical, os sons resultantes diferem uns dos outros devido",
+    "options": [
+      {
+        "label": "a",
+        "text": "às diferentes composições de harmônicos gerados por cada instrumento.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "às diferentes intensidades das ondas sonoras.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "às diferentes frequências sonoras produzidas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "aos diferentes comprimentos de ondas fundamentais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q3",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 3,
+    "statement": "Duas cascas esféricas concêntricas, de densidades uniformes, têm massas M1 (raio r1) e M2 (raio r2), como mostra a figura. Assinale a alternativa que contém o valor da força gravitacional sobre uma partícula de massa m localizada entre as cascas, a uma distância d dos seus centros.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$Gm\\left(\\dfrac{M_1+M_2}{d^2}\\right)$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$Gm\\left(\\dfrac{M_1}{r_1^2}+\\dfrac{M_2}{r_2^2}\\right)$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$Gm\\left(\\dfrac{M_1-M_2}{d^2}\\right)$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$G\\dfrac{mM_1}{d^2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/qf3.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q4",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 4,
+    "statement": "Uma gangorra de um parque de diversão tem três assentos de cada lado, igualmente espaçados um do outro, nos respectivos lados da gangorra. Cinco assentos estão ocupados por garotos cujas respectivas massas e posições estão indicadas na figura. Assinale a alternativa que contém o valor da massa, em kg, que deve ter o sexto ocupante para que a gangorra fique em equilíbrio horizontal.",
+    "options": [
+      {
+        "label": "a",
+        "text": "25",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "29",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "35",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/qf4.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q5",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 5,
+    "statement": "A figura a seguir mostra uma partícula P, em movimento circular uniforme, em um círculo de raio r, com velocidade angular constante ω, no tempo t = 0. A projeção da partícula no eixo x executa um movimento tal que a função horária vx(t), de sua velocidade, é expressa por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$v_x(t)=\\omega r$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$v_x(t)=\\omega r\\cos(\\omega t+\\varphi)$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$v_x(t)=-\\omega r\\,\\text{sen}(\\omega t+\\varphi)$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$v_x(t)=-\\omega r\\,\\text{tg}(\\omega t+\\varphi)$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/qf5.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-2fase-q6",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 6,
+    "statement": "A maior força de origem magnética (medida em newton) que pode atuar sobre um elétron (carga $e=1,6\\times10^{-19}\\ C$) em um tubo de TV, onde existe um campo magnético de módulo B = 83,0 mT, quando sua velocidade é de $7,0\\times10^6\\ m/s$, vale aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "$9,3\\times10^{-16}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4,7\\times10^{-16}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$13,3\\times10^{-10}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$8,1\\times10^{-10}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q7",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 7,
+    "statement": "Uma pilha de f.e.m. igual a 3,6 V tem uma carga inicial de 600 mA·h. Supondo que a diferença de potencial entre os pólos da pilha permaneça constante até que a pilha esteja completamente descarregada, o tempo (em horas) que ela poderá fornecer energia à taxa constante de 1,8 W é de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,6",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7,2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q8",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 8,
+    "statement": "N prótons, cada um de carga q, foram distribuídos aleatoriamente ao longo de um arco de círculo de 60° e raio r, conforme ilustra a figura. Considerando $k=\\dfrac{1}{4\\pi\\varepsilon_0}$ e o potencial de referência no infinito igual a zero, assinale a alternativa que contém o valor do potencial elétrico no ponto O devido a esses prótons.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{kq^N}{r}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{kNq}{r}\\cos60°$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{kNq}{r}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2kNq}{r}\\cos30°$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/qf8.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-2fase-q9",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 9,
+    "statement": "Uma partícula puntiforme tem, em certo instante t, a velocidade, em m/s, dada por v0 = 1,0i - 2,0j + 5,0k. Dois segundos depois, sua velocidade, em m/s, é dada por v2 = 4,0i - 2,0j + 1,0k. No intervalo de tempo considerado, o módulo da aceleração média, em m/s², é",
+    "options": [
+      {
+        "label": "a",
+        "text": "25,0",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q10",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "Dois gases ideais A e B encontram-se em recipientes separados. O gás A possui volume VA = 10 L e está submetido à pressão pA = 5 atm. O gás B possui volume VB = 5 L e está submetido à pressão pB = 3 atm. As temperaturas respectivas são tA = 27 °C e tB = 177 °C. Os gases são misturados em um mesmo recipiente de volume V = 10 L, a uma temperatura t = 127 °C. A pressão, em atm, que esta mistura exercerá nas paredes do recipiente é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-2fase-q11",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "A massa total estimada de água existente na Terra é cerca de $10^{21}$ kg. Admitindo-se que a energia total anual consumida pela humanidade no planeta seja da ordem de $10^{22}$ J, se pudéssemos aproveitar, de alguma maneira, um quarto da quantidade de calor liberado devido à diminuição da temperatura da massa de água em 1°C, poderíamos suprir o consumo energético da humanidade por, aproximadamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 mês",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 ano",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100 anos",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 anos",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-2fase-q12",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 12,
+    "statement": "Na superfície da Terra, a pressão, a temperatura e a densidade do ar (considerado um gás ideal) foram medidas por aparelhos que forneceram os seguintes valores, respectivamente, 754 mm de Hg, 17 °C e 1,30 kg/m³. A uma altitude de 10 km, a pressão do ar aferida foi 230 mm de Hg e a temperatura foi 43 °C negativos. A densidade do ar, em kg/m³, medida nesta altitude foi de:",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,75",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,30",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,15",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,50",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q13",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 13,
+    "statement": "Uma corrente elétrica de 3,0 A percorre um fio de cobre. Sabendo-se que a carga de um elétron é igual a $1,6\\times10^{-19}$ C, o número de elétrons que atravessa, por minuto, a seção reta deste fio, é aproximadamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,1\\times10^{21}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3,0\\times10^6$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,0\\times10^{10}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1,8\\times10^{11}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q14",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 14,
+    "statement": "Ao bloco da figura a seguir, é dada uma velocidade inicial v, no sentido de subida do plano inclinado, fixo ao chão. O coeficiente de atrito entre o bloco e o plano é μ e a inclinação do plano é θ. Denotando por g a aceleração da gravidade, a distância que o bloco se moverá, até parar, ao subir ao longo do plano inclinado é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{v^2}{2g}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{v^2}{2g}(\\text{sen}\\theta+\\mu\\cos\\theta)^{-1}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{v^2}{2g}(\\text{sen}2\\theta-\\mu\\cos2\\theta)^{-1/2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{v^2}{2g}\\text{sen}\\theta$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/qf14.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q15",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "Considere a figura a seguir. Ela é formada de um conjunto de resistores todos de resistência R. A resistência equivalente entre os pontos A e B é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{R}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{R}{5}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{2R}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{4R}{5}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/qf15.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q16",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 16,
+    "statement": "Uma experiência de interferência de fenda dupla é realizada com luz azul-esverdeada de comprimento de onda igual a 512 nm. As fendas estão separadas, entre si, por uma distância de 1,2 mm. Uma tela é localizada a uma distância de 5,4 m do anteparo que contém as fendas. A distância, em milímetros, que separa as franjas brilhantes consecutivas vistas sobre a tela é, aproximadamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,3",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q17",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 17,
+    "statement": "Três capacitores, de placas paralelas, estão ligados em paralelo. Cada um deles tem armaduras de área A, com espaçamento d entre elas. Assinale a alternativa que contém o valor da distância entre as armaduras, também de área A, de um único capacitor, de placas paralelas, equivalente à associação dos três.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{d}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3d",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3d}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2d}{3}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q18",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 18,
+    "statement": "Uma roda de raio R, dado em metros, tem uma aceleração angular constante de 3,0 rad/s². Supondo que a roda parta do repouso, assinale a alternativa que contém o valor aproximado do módulo da aceleração linear total, em m/s², de um ponto na sua periferia, depois de 1 segundo da partida.",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,6R",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,0R",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9,5R",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8,0R",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-2fase-q19",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "Um bloco de gelo de massa 136,5 g funde-se reversivelmente à temperatura de 0°C. Sabendo-se que o calor latente de fusão do gelo é 333 kJ/kg, a variação da entropia do bloco de gelo, em J/K, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "166,5",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "zero",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "273,0",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "122,5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q20",
+    "examId": "2008.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 20,
+    "statement": "Um raio de luz propagando-se no ar incide, com um ângulo de incidência igual a 45°, em uma das faces de uma lâmina feita com um material transparente de índice de refração n, como mostra a figura. Sabendo-se que a linha AC é o prolongamento do raio incidente, d = 4 cm e BC = 1 cm, assinale a alternativa que contém o valor de n.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{5\\sqrt2}{6}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3\\sqrt3}{2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/qf20.png",
+    "correctAnswer": "b"
   }
 ]

@@ -4478,5 +4478,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q1",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 1,
+    "statement": "A função quadrática f assume seu mínimo quando x = 2 e é tal que seu gráfico contém os pontos (-1,0) e (0,-5). O valor de f(4) é",
+    "options": [
+      {
+        "label": "a",
+        "text": "-4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-5",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q2",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 2,
+    "statement": "A quantidade de números, inteiros positivos, que são simultaneamente divisores de 48 e 64 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma potência de 4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "um número primo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "igual a seis.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "igual a oito.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q3",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 3,
+    "statement": "João, no primeiro trecho de sua caminhada, percorreu 12% de uma estrada. Ao concluir o segundo trecho, correspondente a 1.200 metros, o percentual percorrido passou a ser 16% da estrada. A extensão da estrada é",
+    "options": [
+      {
+        "label": "a",
+        "text": "30 km",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "32 km",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "34 km",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36 km",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q4",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 4,
+    "statement": "O conjunto {1995, 1996, 1997, ..., 2008} possui, exatamente, X subconjuntos com, no mínimo, 4 elementos. Assinale a alternativa na qual se encontra o valor de X.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2^{10}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2^4(2^{10}-1)$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20.020",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15.914",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q5",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 5,
+    "statement": "A sequência de triângulos equiláteros, ilustrada na figura abaixo, apresenta certo número de pontos assinalados em cada triângulo. Seguindo a lógica utilizada na construção da sequência, o número de pontos que estarão assinalados no oitavo triângulo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "65",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "54",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "56",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/q5.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-2fase-q6",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 6,
+    "statement": "Se x e y são números reais que satisfazem, respectivamente, às desigualdades $2\\le x\\le 15$ e $3\\le y\\le 18$, então todos os números da forma $x/y$, possíveis, pertencem ao intervalo",
+    "options": [
+      {
+        "label": "a",
+        "text": "[5, 9]",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$[\\frac{2}{3},\\frac{5}{6}]$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$[\\frac{3}{2},6]$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$[\\frac{1}{9},5]$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q7",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Se as matrizes $M=\\begin{pmatrix}x&y\\\\-y&x\\end{pmatrix}$ e $N=\\begin{pmatrix}1&2\\\\2&1\\end{pmatrix}$ são tais que M.N = N.M, então, sobre os números reais x e y, é possível afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "x é um número qualquer e y pode assumir somente um valor.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "y é um número qualquer e x pode assumir somente um valor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x e y podem ser quaisquer números reais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "x pode assumir somente um valor, o mesmo acontecendo com y.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q8",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 8,
+    "statement": "Foram utilizados 279 algarismos para numerar todas as páginas de uma apostila, desde a página de número 1. O número de páginas da apostila é",
+    "options": [
+      {
+        "label": "a",
+        "text": "120",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "129",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "130",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "139",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q9",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "A circunferência $x^2+y^2+px+qy+m=0$ passa pelos pontos (-1,4), (3,4) e (3,0). Se d é a distância do centro da circunferência ao ponto K(p, q), então o produto m.d é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt{5}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$-3\\sqrt{5}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9\\sqrt{5}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-9\\sqrt{5}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q10",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "A área do triângulo limitado pelos gráficos das funções f, g: $\\mathbb{R}\\to\\mathbb{R}$, cujas expressões são $f(x)=|x|$ e $g(x)=\\frac{1}{7}(x+24\\sqrt2)$, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "24 unidades de área",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20 unidades de área",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16 unidades de área",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 unidades de área",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q11",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 11,
+    "statement": "Para todo número real positivo x e todo número natural ímpar n, a fração $\\dfrac{1+x^2+x^4+\\cdots+x^{2n}}{1+x+x^2+\\cdots+x^n}$ pode ser simplificada tomando a forma",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1+x^2}{1+x}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1+x^n}{1+x}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1+x^{n+1}}{1+x}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1+x+x^2+\\cdots+x^n$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-2fase-q12",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "Em um triângulo, as medidas de seus lados, em metros, são três números inteiros consecutivos e a medida do maior ângulo é o dobro da medida do menor. A medida do menor lado deste triângulo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q13",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 13,
+    "statement": "Se os polinômios $P(x)=\\begin{vmatrix}x&n&m\\\\2&nx^2&x\\\\1&1&1\\end{vmatrix}$ e $Q(x)=x^3-4x^2+x+4$ são idênticos, então o valor de $m/n$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q14",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "Seja EOXY um trapézio. Se existe um ponto Z da base menor XY tal que ZE e ZO são respectivamente as bissetrizes dos ângulos YÊO e EÔX, podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "os triângulos EZY e OZX são semelhantes.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o trapézio é isósceles.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a área do triângulo EZO é a soma das áreas dos triângulos EZY e OZX.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a medida da base menor é a soma das medidas dos lados não paralelos do trapézio.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q15",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 15,
+    "statement": "O ponto $P(\\text{sen}\\,\\alpha,\\ \\cos\\alpha)$, com $0<\\alpha<\\dfrac{\\pi}{2}$, pertence à circunferência cujo centro é o ponto Q(1,0) e a medida do raio é 1. O valor de tg $\\alpha$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{3}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\sqrt3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\sqrt3}{2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2008.1-2fase-q16",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Na figura abaixo, os triângulos PQR e RST são equiláteros e congruentes e a medida de cada um de seus lados é x metros. O ponto M é a interseção dos segmentos PS e QR e os pontos P, R e T são colineares. Assinale a alternativa na qual se encontra a área, em metros quadrados, do triângulo PMT.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt3\\,x^2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{2}x^2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt3}{3}x^2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\sqrt3}{4}x^2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/q16.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q17",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 17,
+    "statement": "Os números reais p e -p, com p > 0, são raízes da equação $4x^3+kx^2-9x-9i=0$, na qual i é o número complexo tal que $i^2=-1$. O valor do produto p.k.i é",
+    "options": [
+      {
+        "label": "a",
+        "text": "-9",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-6",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2008.1-2fase-q18",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "Assinale a alternativa na qual se encontra a quantidade de modos distintos em que podemos dividir 15 jogadores em 3 times de basquetebol, denominados Vencedor, Vitória e Confiança, com 5 jogadores cada.",
+    "options": [
+      {
+        "label": "a",
+        "text": "3003",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9009",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "252252",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "756756",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2008.1-2fase-q19",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "Na figura abaixo estão representados seis retângulos com lados paralelos aos eixos coordenados e vértices opostos sobre o gráfico da função $f(x)=\\log_2 x$, x > 0. A soma das áreas dos seis retângulos é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 unidades de área",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 unidades de área",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 unidades de área",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 unidades de área",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2008.1-2fase/q19.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2008.1-2fase-q20",
+    "examId": "2008.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 20,
+    "statement": "Uma esfera está circunscrita a um cubo cuja medida da aresta é 2 m. A medida do volume da região exterior ao cubo e interior à esfera é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4(\\pi\\sqrt3-2)\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3(\\pi\\sqrt3+2)\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4(\\pi\\sqrt3+2)\\ m^3$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3(\\pi\\sqrt3-2)\\ m^3$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
