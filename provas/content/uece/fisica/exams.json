@@ -126,5 +126,21 @@
     "edition": "2009.2",
     "examType": "especifico",
     "sourceFile": "v92_f2-fisquimgab1.pdf"
+  },
+  {
+    "id": "2010.1",
+    "institution": "UECE",
+    "year": 2009,
+    "edition": "2010.1",
+    "examType": "geral",
+    "sourceFile": "UECE 2010.1 - PROVA - INGLES.pdf"
+  },
+  {
+    "id": "2010.1-2fase",
+    "institution": "UECE",
+    "year": 2009,
+    "edition": "2010.1",
+    "examType": "especifico",
+    "sourceFile": "UECE 2010.1 - 2a fase - Fisica e Quimica.pdf"
   }
 ]

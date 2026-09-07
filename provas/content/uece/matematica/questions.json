@@ -7678,5 +7678,965 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-q15",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "As coordenadas do ponto P(x,y), no referencial cartesiano usual, satisfazem as equações $\\dfrac{2}{x}+\\dfrac{3}{y}-1=0$ e $\\dfrac{1}{x}+\\dfrac{2}{y}=0$. A distância de P à reta x + y + 1 = 0 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt2$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt2$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt2}{3}$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\sqrt2}{4}$ u.c.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-q16",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Acopla-se, exteriormente, a cada lado de um triângulo retângulo um quadrado cujo lado é o respectivo lado do triângulo, formando assim uma figura plana composta do triângulo retângulo e dos três quadrados, de tal modo que cada quadrado tenha em comum com o triângulo exatamente o lado ao qual está acoplado. A medida dos catetos do triângulo são respectivamente 6m e 8m. A figura será pintada. Sabe-se que para pintar o quadrado menor usou-se 1,8 litros de tinta. Mantida a homogeneidade da pintura, a quantidade de tinta necessária para pintar toda a figura é",
+    "options": [
+      {
+        "label": "a",
+        "text": "12,8 litros.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12,4 litros.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11,9 litros.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11,2 litros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-q17",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 17,
+    "statement": "Se n é o número de soluções da equação $\\cos^4x-4\\cos^3x+6\\cos^2x-4\\cos x+1=0$, no intervalo $[0,2\\pi]$, então o valor de n é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-q18",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 18,
+    "statement": "Para cada par ordenado de números reais não nulos (x,y) defina o número complexo $z=\\dfrac{x+i}{y}$, onde i é a unidade imaginária ($i^2=-1$). Se z e $z^{-1}$ têm a mesma parte real, então os pontos (x,y) estão sobre",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma circunferência.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma parábola.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma elipse.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma hipérbole.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-q19",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 19,
+    "statement": "Se M é a matriz $\\begin{pmatrix}-3/5&4/5\\\\4/5&3/5\\end{pmatrix}$, então o determinante da matriz $M^2=M.M$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{17}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-\\dfrac{17}{5}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.1-q20",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 20,
+    "statement": "Sejam P e Q vértices opostos de uma das faces de um cubo cuja medida da aresta é 0,3 m. Se S, neste cubo, é o ponto que está no centro da face oposta à face onde estão P e Q então a área do triângulo PQS é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{9\\sqrt2}{200}\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3\\sqrt2}{400}\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{9\\sqrt3}{200}\\ m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3\\sqrt3}{400}\\ m^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.1-q21",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 21,
+    "statement": "Seja f: R → R a função definida por $f(x)=ax^2+bx+c$, onde a, b e c são números reais não nulos. Se a função f assume um valor máximo quando $x=-\\dfrac{1}{2}$, então podemos afirmar corretamente que,",
+    "options": [
+      {
+        "label": "a",
+        "text": "se o valor máximo de f for um número negativo, então c é um número positivo e a equação f(x) = 0 não tem raízes reais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se o valor máximo de f for um número positivo, então c é um número positivo e a equação f(x) = 0 tem duas raízes reais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se o valor máximo de f for um número positivo, então c é um número negativo e a equação f(x) = 0 tem duas raízes reais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se o valor máximo de f for um número positivo, então a equação f(x) = 0 tem duas raízes reais e uma delas será sempre um número negativo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-q22",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 22,
+    "statement": "Se os números naturais n, n² e n³ são as raízes da equação x³ + px² + qx - 64 = 0, então, a soma p + q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "36.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "42.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-q23",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 23,
+    "statement": "Se na progressão aritmética crescente a1, a2, a3, a4, a5, ..., an, ... tivermos a5 = 5x - 17y e a25 = 29x + 7y, então a razão desta progressão é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,2x + y.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,2x + 2y.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2x + 1,2y.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,2x + 1,2y.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-q24",
+    "examId": "2010.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 24,
+    "statement": "Quantos quadrados perfeitos são divisores de 800? (Um quadrado perfeito é um número inteiro da forma n², para algum número inteiro n).",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q1",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 1,
+    "statement": "O valor da expressão $\\dfrac{x+\\frac{1}{x}}{2x+\\frac{1}{x}}$, para x = 0,3333..., é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,909090...",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,707070...",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,505050...",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,303030...",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.1-2fase-q2",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Se os comprimentos de duas circunferências diferem de 3cm, então o módulo da diferença entre seus raios é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\pi}{3}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{2\\pi}{3}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3}{\\pi}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3}{2\\pi}$ cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q3",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "Se P é um ponto no interior do pentágono regular XYZEF tal que o triângulo PYZ é equilátero então a medida do ângulo ZÊP é",
+    "options": [
+      {
+        "label": "a",
+        "text": "63°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "64°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "65°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "66°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q4",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 4,
+    "statement": "Os números dos telefones de uma cidade são formados por 8 dígitos dos quais o primeiro (prefixo) é sempre igual a 3 e os dois seguintes não podem ser zero. Nestas condições a quantidade de números telefônicos desta cidade que terminam em 22 (o algarismo das unidades e o das dezenas são iguais a 2) é, no máximo",
+    "options": [
+      {
+        "label": "a",
+        "text": "99 000.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "81 000.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "49 500.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40 500.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q5",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "Sejam $N^*=\\{1,2,3,4,\\ldots\\}$, $f:N^*\\to N^*$ e $g:N^*\\to N^*$ funções definidas por $f(x)=3x$ e $g(x)=3^x$. Se I e J são respectivamente os conjuntos imagens de f e de g, podemos afirmar corretamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "$I\\cap J=\\{\\ \\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$I\\cup J=N^*$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$I\\subset J$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$J\\subset I$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q6",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 6,
+    "statement": "Sejam f e g funções reais de variável real definidas por $f(x)=\\dfrac{9x+27}{2}$ e $g(x)=x^4-10x^2+9$. Podemos afirmar corretamente que a interseção entre o gráfico de f e o gráfico de g é constituído exatamente por",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 pontos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 pontos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2 pontos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 ponto.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q7",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Se o número complexo 1 + i é uma das raízes da equação $x^4-5x^3+10x^2-10x+4=0$ então a soma das raízes reais desta equação é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q8",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 8,
+    "statement": "O número de soluções da equação $4\\text{sen}^4x-5\\text{sen}^2x+1=0$ que estão no intervalo $[0,2\\pi]$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q9",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "Os pontos X, Y e Z, nesta ordem, dividem em quatro partes iguais a diagonal PR do losango PQRS. Se a medida da área deste losango é 1200 m² então a medida da área do triângulo XYQ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "120 $m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "150 $m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "180 $m^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200 $m^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q10",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "O volume de um cone circular reto cuja medida da altura é 3m e a área de sua superfície lateral é $20\\pi\\ m^2$, será",
+    "options": [
+      {
+        "label": "a",
+        "text": "$60\\pi\\ m^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$48\\pi\\ m^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$30\\pi\\ m^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$16\\pi\\ m^3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q11",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 11,
+    "statement": "Se x + y = 2 então o menor valor numérico que a expressão $x^2+3y^2$ pode assumir é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.1-2fase-q12",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 12,
+    "statement": "Considere as matrizes $E=\\begin{pmatrix}x&y&z\\\\u&v&w\\\\m&n&p\\end{pmatrix}$, $F=\\begin{pmatrix}u&v&w\\\\2x&2y&2z\\\\m+3x&n+3y&p+3z\\end{pmatrix}$ e $G=\\begin{pmatrix}-m&-n&-p\\\\-u&-v&-w\\\\x&y&z\\end{pmatrix}$. Se o determinante da matriz E é igual a 3 então o determinante da matriz produto F.G é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-18.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q13",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 13,
+    "statement": "Deseja-se construir um muro em torno de um terreno plano, que tem a forma de um trapézio retangular e cuja área é igual a 1200 m². Se as medidas dos lados paralelos do terreno são 15m e 45m, então o comprimento total do muro será",
+    "options": [
+      {
+        "label": "a",
+        "text": "125 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "150 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "175 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q14",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 14,
+    "statement": "Num arquivo de CDs musicais observa-se a seguinte distribuição de ritmos: 25% das músicas são SAMBAS; 1/6 são ROCKs; os BAIÕES são a metade dos SAMBAS; 264 das músicas são de outros ritmos. Nestas condições, a quantidade de músicas do arquivo é um número entre:",
+    "options": [
+      {
+        "label": "a",
+        "text": "540 e 550.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "550 e 560.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "560 e 570.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "570 e 580.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q15",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 15,
+    "statement": "Um equipamento eletrônico desvaloriza-se 20% em seu primeiro ano de uso. Ao longo do segundo ano de uso o valor do equipamento sofre uma nova desvalorização, agora de 15%. Comprei um tal equipamento, com dois anos de uso por R$ 11.859,20. O valor (preço) deste equipamento, quando novo, foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 15.365,60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 17.440,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 15.397,50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 16.231,20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q16",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 16,
+    "statement": "A população de uma cidade, hoje com 36 000 habitantes, está decrescendo segundo a relação funcional $P(n)=36000(0,9)^n$, onde P(n) representa a população da cidade daqui a n anos. Supondo que o ritmo de redução populacional se mantém ao longo do tempo, determine quantas das afirmações abaixo são verdadeiras. I. Daqui a dois anos a população da cidade será maior do que 29 200 habitantes. II. Os números P(1), P(2), P(3), ... nesta ordem, formam uma progressão geométrica. III. P(10) < 12 500. IV. Em cada período de um ano a população diminui 10%. (Use: $0,9^{10}=0,34867844$)",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q17",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Carlos programou a leitura completa de um livro lendo a cada dia 10 páginas. Uma nova programação foi feita, agora lendo diariamente 12 páginas do livro, o que resultou em uma antecipação de oito dias no prazo anteriormente estabelecido para a leitura completa do livro. Podemos então afirmar corretamente que o número de páginas do livro pertence ao intervalo",
+    "options": [
+      {
+        "label": "a",
+        "text": "[420, 448].",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "[448, 476].",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "[476, 504].",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "[504, 532].",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q18",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "A circunferência F está no primeiro quadrante do sistema de eixos ortogonais com origem no ponto O. Se F tem o centro no ponto E(2,2) e tangencia as retas y = 2x e x = 2y respectivamente nos pontos X e Y. A área do quadrilátero OXEY é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,6 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,2 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,8 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,4 u.a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q19",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "Seja f: $(0,+\\infty)\\to\\mathbb{R}$, definida por $f(x)=\\log_2x$. Defina as compostas g = f∘f e h = g∘g por g(x) = f(f(x)) e h(x) = g(g(x)). Nestas condições o domínio da função h é o intervalo",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(0,+\\infty)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(2,+\\infty)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(4,+\\infty)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(8,+\\infty)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q20",
+    "examId": "2010.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 20,
+    "statement": "O conjunto X não é unitário, tem no máximo cinco elementos e seus elementos são inteiros positivos e consecutivos cuja soma é 2010. Por exemplo, X = {669, 670, 671}. Quantos de tais conjuntos X existem?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]

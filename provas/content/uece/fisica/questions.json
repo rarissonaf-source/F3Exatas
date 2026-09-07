@@ -6654,5 +6654,837 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2010.1-q37",
+    "examId": "2010.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 37,
+    "statement": "A diferença de fase entre os movimentos harmônicos simples de dois pontos que se deslocam com a mesma amplitude e frequência ao longo de linhas perpendiculares entre si e que se cruzam no centro dos seus movimentos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "60°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "90°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "270°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "360°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-q38",
+    "examId": "2010.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 38,
+    "statement": "Uma corda de violão possui comprimento L e frequência fundamental f0. Para que a frequência fundamental passe a ser igual a 6 vezes o valor da frequência fundamental original, considerando que esta corda continue com a mesma tensão, ela deve ter o comprimento igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{2}L$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{4}L$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{3}L$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{6}L$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-q39",
+    "examId": "2010.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 39,
+    "statement": "Num prato giratório plano horizontal, está localizada uma pequena moeda solta, a 10 cm do seu centro. A moeda gira com o prato com velocidade angular constante. Logo as forças que o prato exerce sobre a moeda são",
+    "options": [
+      {
+        "label": "a",
+        "text": "peso mais a força normal.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "peso mais a força de atrito.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "normal mais a força de atrito.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "força centrípeta mais a força de atrito.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-q40",
+    "examId": "2010.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 40,
+    "statement": "Um corpo de massa 2 kg parte do repouso e cai na vertical. O ar exerce no corpo uma força de resistência ao seu movimento. O módulo da força de resistência do ar é o dobro do módulo da velocidade do corpo em cada instante. Considerando que a aceleração da gravidade é 10 m/s², o trabalho da força resultante que age no corpo, da posição inicial até o ponto onde sua velocidade será metade da velocidade terminal, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "35 J.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 J.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25 J.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50 J.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-q41",
+    "examId": "2010.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 41,
+    "statement": "Considera-se que a constante eletrostática no vácuo igual a $9,0\\times10^9\\ N\\cdot m^2/C^2$, que a carga de um elétron é $1,6\\times10^{-19}$ C e que o potencial elétrico, no infinito, é igual a zero. O número de elétrons que devem ser retirados de uma esfera de cobre neutra, no vácuo, eletricamente isolada, de 1,0 cm de raio para gerar um potencial elétrico de 1,0 V, na sua superfície, é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "$14\\times10^{10}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$7\\times10^6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\times10^{19}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$9\\times10^9$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-q42",
+    "examId": "2010.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 42,
+    "statement": "Ao acionarmos o interruptor de uma lâmpada incandescente em um aposento, esta imediatamente acenderá somente quando",
+    "options": [
+      {
+        "label": "a",
+        "text": "os elétrons percorrerem o trajeto que separa o interruptor da lâmpada, através da fiação condutora.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o campo elétrico percorrer o trajeto que separa o interruptor da lâmpada, através da fiação condutora.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma corrente elétrica for gerada apenas no trajeto que separa o interruptor da lâmpada, através de um único trecho da fiação condutora.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "existir o mesmo potencial elétrico V0 nos terminais da lâmpada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q1",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 1,
+    "statement": "Nos processos termodinâmicos de sistemas com gases ideais, considerando que P, Q, Eint e W são respectivamente: Pressão do sistema, Calor trocado com o meio exterior ao sistema, Energia interna do sistema e Trabalho realizado pelo sistema, bem como sob o sistema durante os processos, marque a alternativa que apresenta as condições corretas.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Adiabático ΔQ = 0 e Isobárico ΔP = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Isotérmico ΔEint = 0 e Adiabático ΔQ ≠ 0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Isovolumétrico ΔW = 0 e Isotérmico ΔEint ≠ 0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Isovolumétrico ΔW ≠ 0 e Isotérmico ΔEint ≠ 0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.1-2fase-q2",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "A figura mostra as velocidades versus tempo de um caminhão e um automóvel. No instante t=0 segundo o caminhão ultrapassa o automóvel. No instante t=10 s, a distância que separa o caminhão do automóvel em metros é (Obs: Ambos os móveis estão em movimento retilíneo uniformemente variado.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q3",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 3,
+    "statement": "Um homem de massa \"M\" está sentado no meio de uma rede, conforme a figura esquemática. Se o homem colocar correntes de mesmo tamanho e de massas desprezíveis em relação a sua massa nos punhos da rede, verifica-se",
+    "options": [
+      {
+        "label": "a",
+        "text": "um aumento no módulo da força T que age sobre a parede no ponto P.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma redução no módulo da força T que age sobre a parede no ponto P.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma não alteração no módulo da força T que age sobre a parede no ponto P.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "um aumento do módulo da componente horizontal da força T que age sobre a parede no ponto P.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.1-2fase/qf3.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q4",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 4,
+    "statement": "No circuito da figura ao lado, as resistências são todas iguais a 3 Ω e a força eletromotriz da bateria é igual a 12 V. A corrente elétrica que percorre o resistor R2 em Ampère é (Obs: Despreze a resistência dos fios.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.1-2fase/qf4.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q5",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 5,
+    "statement": "Um raio de luz solar atravessa um prisma e se divide nas cores do arco-íris. A explicação deste fenômeno está na variação do índice de refração do material do prisma com",
+    "options": [
+      {
+        "label": "a",
+        "text": "a amplitude da radiação incidente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a frequência da radiação incidente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o ângulo de incidência da radiação incidente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o ângulo de reflexão da radiação incidente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q6",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 6,
+    "statement": "Uma pilha de força eletromotriz $\\xi=1,5$ V e resistência interna $R_{int}=0,1\\ \\Omega$ alimenta exclusivamente um receptor fornecendo uma corrente de 1 A. O receptor tem uma tolerância de forma que ele ainda funciona mesmo se a tensão elétrica que o alimenta diminuir de 10% do valor inicial. Com o uso, a pilha perde a eficiência pois sua resistência interna aumenta apesar de sua força eletromotriz permanecer constante. Desprezando-se a resistência da fiação do circuito, a resistência interna máxima da pilha, de forma que ela ainda consiga colocar em funcionamento o referido receptor, em ohms, é aproximadamente (Obs: Considere que a resistência interna do receptor é ôhmica e permanece constante durante o processo.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,49.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,18.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,27.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,36.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q7",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 7,
+    "statement": "Um cano colocado na posição vertical em um poço de grande profundidade (conforme figura abaixo) desce da superfície do solo até a água. Na sua extremidade superior foi instalada uma bomba de sucção. Despreze os vazamentos e entradas de ar no sistema (cano+bomba). Considere que a bomba tem capacidade de sugar até que a pressão, P, na parte superior do cano seja desprezível quando comparada à pressão atmosférica; que a pressão na superfície da água é de $10^5$ Pa; que a densidade da água é 1 g/cm³; e que a aceleração da gravidade é 10 m/s². A maior distância, H, (em metros) do espelho d'água à superfície do solo, para que a bomba bombeie água até a superfície do solo, é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2010.1-2fase-q8",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 8,
+    "statement": "Um bloco de massa M=2 kg desliza sobre um plano inclinado com atrito, conforme a figura abaixo. O bloco parte do repouso. Quando a variação da posição vertical do bloco for de 5 m, sua velocidade será de 5 m/s (em módulo). O módulo do trabalho da força de atrito entre o bloco e a superfície do plano em Joule é (Obs: Considere a aceleração da gravidade como sendo 10 m/s².)",
+    "options": [
+      {
+        "label": "a",
+        "text": "35 J.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 J.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25 J.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50 J.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q9",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 9,
+    "statement": "A figura abaixo mostra um corte de uma residência e sua caixa d'água (com água, veja nível da água na figura) e três encanamentos independentes entre si. As partes mais baixas dos encanamentos estão fechadas e na mesma altura. Em relação à pressão d'água, assinale a alternativa que indica comparativamente a pressão nos pontos das partes mais baixas dos encanamentos.",
+    "options": [
+      {
+        "label": "a",
+        "text": "A água terá maior pressão no ponto I.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A água terá maior pressão no ponto II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A água terá maior pressão no ponto III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A pressão da água será a mesma nos três pontos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.1-2fase/qf9.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q10",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 10,
+    "statement": "Considere duas esferas maciças, condutoras, descarregadas, isoladas e distantes uma da outra. Uma tem o dobro do raio da outra. Colocamos uma carga \"Q\" em cada uma das esferas e depois ligamos as mesmas com um fio condutor, por um instante de tempo até o equilíbrio eletrostático. Após este equilíbrio o módulo da diferença entre as novas cargas das esferas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "Q/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2Q/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Q.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3Q/5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q11",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 11,
+    "statement": "Um homem de massa Mh está em cima de uma balança colocada sobre um conjunto de dois blocos de massas Mx e My, ambos em formato de prisma reto com secção transversal triangular (triângulo retângulo), conforme figura abaixo. O bloco inferior tem massa My e está fixo no solo horizontal. Existe atrito entre os dois blocos. Considerando que todo o sistema está em equilíbrio estático, e que a leitura na balança é de 80 kg, o módulo da força de atrito estático que age no bloco de massa My em Newton, é (Obs: Despreze a massa da balança. Considere que Mh=Mx e considere ainda a aceleração da gravidade como sendo 10 m/s².)",
+    "options": [
+      {
+        "label": "a",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "500.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "800.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q12",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 12,
+    "statement": "Coloca-se uma resistência ôhmica de 0,1 Ω dentro de um recipiente isolado termicamente contendo 5 kg de água ao nível do mar, a uma temperatura inicial de 30°C. Se ligarmos a resistência a uma fonte de tensão de 12 V, o tempo, em minutos, em que a água entrará em ebulição é de aproximadamente (Obs: Desconsidere as perdas de calor do sistema para a vizinhança e considere o calor específico da água 1,0 cal/g°C (constante com a temperatura) e que 1 cal = 4,2 J aproximadamente.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "17.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "42.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q13",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 13,
+    "statement": "A figura abaixo mostra um instantâneo de uma onda senoidal estacionária em uma corda. Nela destacamos quatro pontos (I, II, III, IV). Uma diferença de fase de 180° existe entre os pontos",
+    "options": [
+      {
+        "label": "a",
+        "text": "III e IV.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I e IV.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "II e III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.1-2fase/qf13.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q14",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 14,
+    "statement": "Quatro cargas elétricas, iguais a +q, estão posicionadas no espaço, de uma forma fixa nos vértices de um quadrado, como mostra a figura. O posicionamento de uma quinta carga livre, +q, de tal forma que ela fique em equilíbrio estável, será no ponto",
+    "options": [
+      {
+        "label": "a",
+        "text": "I.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nenhum ponto satisfaz o equilíbrio estável.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.1-2fase/qf14.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q15",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 15,
+    "statement": "Um automóvel, com rodas de 80 cm de diâmetro, viaja a 100 km/h sem derrapar, logo o módulo da velocidade angular das suas rodas é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "69,5 graus/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "69,5 rev/s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "69,5 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "69,5 rad/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q16",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 16,
+    "statement": "Um elétron ($e=1,6\\times10^{-19}$ C) está se movendo com velocidade de $8,0\\times10^6$ m/s em módulo, numa região onde há um campo magnético uniforme de módulo B = 83,0 mT. Levando em consideração as possíveis direções do vetor campo magnético e do vetor velocidade do elétron, a menor força magnética (módulo) em Newton que pode atuar no elétron nesta região é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$6,24\\times10^{-12}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1,06\\times10^{-13}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3,67\\times10^{-16}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q17",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 17,
+    "statement": "Uma onda sonora esférica se propaga isotropicamente em um ambiente. Um microfone localizado a 500 m da fonte geradora desta onda capta parte da energia sonora da frente de onda que chega até ele. A área do microfone que capta esta energia é de 1,0 cm², e toda a energia que chega a esta área é captada. A fração, $E_{cap}/E_{tot}$, é aproximadamente. Desconsidere qualquer perda de energia e reflexões da onda no ambiente. Desconsidere também que $E_{cap}$ e $E_{tot}$ são respectivamente energia captada pelo microfone e energia total na frente da onda sonora.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3,14\\times10^{-6}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$16,28\\times10^{-10}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$0,25\\times10^{-8}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3,18\\times10^{-11}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2010.1-2fase-q18",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 18,
+    "statement": "Uma corrente elétrica é estabelecida num tubo de descargas a gás quando uma diferença de potencial, suficientemente alta, é aplicada entre os eletrodos do tubo. O gás se ioniza gerando elétrons livres e íons positivos. Os elétrons se movem na direção do terminal positivo e os íons positivos na direção do terminal negativo. A corrente elétrica, em Ampère, no tubo, quando $4,5\\times10^{18}$ elétrons e $3,5\\times10^{18}$ íons positivos atravessam a seção transversal do tubo, por segundo, é aproximadamente. (Obs: Considere que o módulo da carga de cada elétron bem como do íon positivo é $1,6\\times10^{-19}$ C e que o gás no tubo está rarefeito.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3,5\\times10^{18}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$12,8\\times10^{-1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1,6\\times10^{-19}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5,60\\times10^{-1}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2010.1-2fase-q19",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 19,
+    "statement": "A figura ao lado mostra dois instantâneos de dois blocos cujas massas são MI=2,0 kg e MII=3,0 kg, que deslizam, na mesma direção e sentido, sobre uma superfície horizontal sem atrito, e se chocam entre si. Um instante é antes da colisão, e outro após a colisão. Pelas informações contidas na figura (antes: VI=5,0 m/s, VII=3,0 m/s; depois: VI'=?, VII'=5,0 m/s), podemos afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a energia mecânica dos blocos se conserva.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a quantidade de movimentos dos blocos não se conserva.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a velocidade do bloco mais leve, após o choque, é de aproximadamente 2,0 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a velocidade do bloco mais leve, após o choque, é de aproximadamente 1,0 m/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2010.1-2fase-q20",
+    "examId": "2010.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 20,
+    "statement": "Um salva-vidas avista de sua torre, na margem de uma lagoa (águas paradas), um banhista se afogando. Considere que o salva-vidas se desloca na areia e na água com movimento retilíneo uniforme; que sua velocidade na areia é maior do que na água; e que a linha da margem da lagoa é uma reta. De acordo com a figura ao lado, a trajetória que o salva-vidas deve escolher para chegar ao banhista no menor intervalo de tempo será tal que",
+    "options": [
+      {
+        "label": "a",
+        "text": "0°<θ1<θ2<90°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "θ1 = θ2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0°<θ2<θ1<90°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "θ1 = 0°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2010.1-2fase/qf20.png",
+    "correctAnswer": "c"
   }
 ]
