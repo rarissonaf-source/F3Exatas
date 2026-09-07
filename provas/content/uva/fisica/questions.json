@@ -20832,7 +20832,7 @@
         "imagePath": null
       }
     ],
-    "imagePath": null,
+    "imagePath": "cg-2003-2003.2/q18.png",
     "correctAnswer": "a"
   },
   {
@@ -20864,8 +20864,8 @@
         "imagePath": null
       }
     ],
-    "imagePath": null,
-    "correctAnswer": "c"
+    "imagePath": "cg-2003-2003.2/q19.png",
+    "correctAnswer": "a"
   },
   {
     "id": "cg-2003-2003.2-q20",
@@ -20896,7 +20896,7 @@
         "imagePath": null
       }
     ],
-    "imagePath": null,
+    "imagePath": "cg-2003-2003.2/q20.png",
     "correctAnswer": "d"
   },
   {
