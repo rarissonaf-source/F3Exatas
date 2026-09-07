@@ -2430,5 +2430,645 @@
     ],
     "imagePath": "2006.1-2fase/qf20.png",
     "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q1",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Dois trechos sucessivos de uma estrada retilínea são percorridos por um automóvel da seguinte maneira: no 1° trecho ele percorre 150 km a 100 km/h e no 2° trecho, percorre 60 km a 60 km/h. No percurso total a velocidade média do automóvel, em km/h, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "96",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "90",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "84",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "80",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q2",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Uma bola é chutada da superfície de um terreno plano segundo um ângulo $\\varphi_0$ acima da horizontal. Se θ é o ângulo de elevação do ponto mais alto da trajetória, visto do ponto de lançamento, a razão $\\text{tg}\\theta/\\text{tg}\\varphi_0$, desprezando-se a resistência do ar, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/4",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/6",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/8",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf2.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q3",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 3,
+    "statement": "Na presença da atmosfera terrestre, um projétil, lançado verticalmente para cima, perde parte de sua energia devido a forças viscosas com o ar. Tal perda pode ser minimizada tornando o projétil mais aerodinâmico. Caso fosse possível eliminar uma perda de 40 kJ neste processo, devido a essas melhorias aerodinâmicas, de quanto aumentaria, aproximadamente, a altura máxima atingida por um projétil de 10 kg lançado verticalmente para cima? Admita que a aceleração da gravidade não varie e que seja igual 10 m/s².",
+    "options": [
+      {
+        "label": "a",
+        "text": "200 m",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "300 m",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "400 m",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "500 m",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q4",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 4,
+    "statement": "Por transportar uma carga extremamente pesada, um certo caminhão trafega a uma velocidade de 10 m/s. Um rapaz à beira da estrada brinca com uma bola de tênis. Quando o caminhão passa, ele resolve jogar a bola na traseira do mesmo. Sabendo-se que a bola atinge a traseira do caminhão perpendicularmente, com velocidade de 20m/s, em reação ao solo, qual a velocidade horizontal final da bola após o choque? Considere um choque perfeitamente elástico.",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30 m/s",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Zero",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q5",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 5,
+    "statement": "Considere seis capacitores de capacitância C conforme indicado na figura. A capacitância equivalente entre os pontos P e Q é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6C",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "C/6",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4C/3",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3C/4",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf5.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q6",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 6,
+    "statement": "Uma foto com tempo de exposição relativamente longo mostra o movimento de um disco rolando sem deslizar, sobre uma superfície horizontal, de tal modo que o centro do disco descreve uma linha reta e horizontal. Duas lâmpadas foram colocadas no disco, uma no centro e outra na periferia. A lâmpada da periferia descreve uma curva denominada ciclóide. Sobre o módulo da velocidade da lâmpada da periferia, em relação à superfície, podemos dizer, corretamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "É máximo nos pontos C e G.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "É máximo nos pontos A e E.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É máximo nos pontos B e D.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "É constante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf6.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-2fase-q7",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 7,
+    "statement": "Com um algarismo significativo, a distância que separa a Lua da Terra (centro a centro) é $4\\times10^8$ m, a massa da Terra é $6\\times10^{24}$ kg e a constante da gravitação universal é $7\\times10^{-11}\\ N\\cdot m^2/kg^2$. A velocidade com que a Lua realiza revoluções em torno da Terra, em km/s, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "300",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4000",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-2fase-q8",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 8,
+    "statement": "Determine, aproximadamente, a altura da atmosfera terrestre se a densidade do ar fosse constante e igual a 1,3 kg/m³. Considere g = 10,0 m/s² e a pressão atmosférica ao nível do mar igual a $1,0\\times10^5\\ N/m^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 km",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 km",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8 km",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "13 km",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q9",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 9,
+    "statement": "Considere um sistema constituído de dois volumes de água, um de 400 litros à temperatura de 20°C e o outro de 100 litros à 70°C. Sabendo-se que o sistema está isolado da vizinhança, a temperatura de equilíbrio é, em graus centígrados, igual a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "20",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q10",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "O gráfico P (atm) x V (litros) corresponde a uma isoterma de um gás ideal. Sabendo-se que a densidade do gás é $\\mu=2\\ kg/m^3$ a 4atm, a massa gasosa é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 g",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10 g",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100 g",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,5 kg",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf10.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-2fase-q11",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "Uma máquina térmica funciona de modo que n mols de um gás ideal evoluam segundo o ciclo ABCDA, representado na figura. Sabendo-se que a quantidade de calor Q, absorvida da fonte quente, em um ciclo, é 18nRT0, onde T0 é a temperatura em A, o rendimento dessa máquina é, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "55%",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "44%",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "33%",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "22%",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf11.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2007.1-2fase-q12",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 12,
+    "statement": "Uma lente convergente, de distância focal f, é colocada, como mostra a figura, entre um filamento incandescente e um anteparo, distantes d um do outro. Das opções abaixo marque a única para a qual uma imagem nítida do filamento é projetada no anteparo.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4f ≤ d ≤ 5f",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3f ≤ d ≤ 4f",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2f ≤ d ≤ 3f",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f ≤ d ≤ 2f",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf12.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-2fase-q13",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 13,
+    "statement": "A figura mostra uma disposição fixa de cargas com uma separação d entre elas. O ponto P é um ponto sobre a linha que une as cargas. Se m e n são positivos, com m > n, e tais que a razão m/n é um quadrado perfeito, isto é, m/n = p², determine os valores de x1 e x2 (x1 > x2) para os pontos nos quais o campo elétrico se anula para essa configuração. A relação x1/x2 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{p+1}{p-1}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{p^2+1}{p^2-1}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{p^2-p}{p^2+p}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf13.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q14",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 14,
+    "statement": "No circuito, as resistências elétricas são dadas em ohms. Se o potencial elétrico no ponto A é 24V, a razão entre a corrente i1 no trecho CD e a corrente i2 no trecho AB, isto é, i1/i2, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf14.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q15",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 15,
+    "statement": "Na figura as cordas A e B, de mesmo comprimento, têm densidades $\\mu_A$ e $\\mu_B$, respectivamente, ($\\mu_A<\\mu_B$) e estão presas a um bloco como mostra a figura. As duas cordas são perturbadas de tal modo que cada uma vibra em sua respectiva frequência fundamental. Em relação às velocidades e frequências nas cordas (v é a velocidade de propagação da onda e f é a frequência fundamental), podemos afirmar, corretamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$v_A>v_B$ e $f_A<f_B$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$v_A<v_B$ e $f_A<f_B$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$v_A>v_B$ e $f_A>f_B$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$v_A<v_B$ e $f_A>f_B$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf15.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q16",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 16,
+    "statement": "A figura mostra uma esfera maciça não condutora, de raio R, carregada uniformemente. Se a carga da esfera é Q, o campo elétrico em um ponto localizado a R/2 do centro da esfera é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{Q}{\\pi\\varepsilon_0R^2}$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{Q^2}{4\\pi\\varepsilon_0R}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{Q}{8\\pi\\varepsilon_0R^2}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{Q^2}{2\\pi^2\\varepsilon_0R^2}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf16.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q17",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 17,
+    "statement": "Um sistema oscilante massa-mola possui uma energia mecânica igual a 1,0 J, uma amplitude de oscilação de 0,5m e uma velocidade máxima igual a 2m/s. Portanto, a constante da mola, a massa e a frequência são, respectivamente, iguais a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "8,0 N/m, 1,0 kg e $4/\\pi$ Hz",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,0 N/m, 0,5 kg e $4/\\pi$ Hz",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8,0 N/m, 0,5 kg e $2/\\pi$ Hz",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,0 N/m, 1,0 kg e $2/\\pi$ Hz",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2007.1-2fase-q18",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 18,
+    "statement": "Um elétron realiza um movimento circular uniforme (MCU) após penetrar numa região de campo magnético uniforme com velocidade perpendicular ao mesmo. Mantendo-se fixo o valor do campo magnético, repete-se o experimento, desta vez dobrando-se o valor da velocidade de entrada do elétron. Este elétron ainda realiza um MCU. Em relação ao raio da trajetória descrita pelo segundo elétron e ao período de seu movimento, podemos afirmar, corretamente, que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o raio da trajetória dobra quando a velocidade dobra de valor, mas o período permanece inalterado.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o raio da trajetória e o período dobram quando a velocidade dobra de valor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o raio da trajetória e o período diminuem pela metade quando a velocidade dobra de valor.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o raio da trajetória permanece inalterado enquanto o período dobra de valor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2007.1-2fase-q19",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 19,
+    "statement": "A figura representa dois fios bastante longos (1 e 2) perpendiculares ao plano do papel, percorridos por correntes de sentido contrário, i1 e i2, respectivamente. A condição para que o campo magnético resultante, no ponto P, seja zero é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$i_1=i_2$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$i_1=2i_2$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$i_1=3i_2$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$i_1=4i_2$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf19.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2007.1-2fase-q20",
+    "examId": "2007.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Através de franjas de interferência é possível determinar características da radiação luminosa, como, por exemplo, o comprimento de onda. Considere uma figura de interferência devida a duas fendas separadas de d = 0,1 mm. O anteparo onde as franjas são projetadas fica a D = 50 cm das fendas. Admitindo-se que as franjas são igualmente espaçadas e que a distância entre duas franjas claras consecutivas é y = 4 mm, o comprimento de onda da luz incidente, em nm, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "200",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "400",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "800",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1600",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2007.1-2fase/qf20.png",
+    "correctAnswer": "c"
   }
 ]
