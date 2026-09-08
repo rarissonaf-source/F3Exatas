@@ -16,7 +16,6 @@
 
   // Cole aqui o Client ID criado no Google Cloud Console (Credentials > OAuth client ID > Web application).
   var GOOGLE_CLIENT_ID = "940839767965-tipond9snpkqeubb55rahh8p21c5bqko.apps.googleusercontent.com";
-  var ALLOWED_GOOGLE_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com"];
 
   var script = document.currentScript;
   var base = (script && script.getAttribute("data-base")) || "";
@@ -533,11 +532,7 @@
   function handleGoogleCredential(response) {
     var payload = decodeJwtPayload(response.credential);
     var email = (payload.email || "").toLowerCase();
-    if (ALLOWED_GOOGLE_EMAILS.indexOf(email) !== -1) {
-      unlock(email, { name: payload.name || "", email: email, phone: "", picture: payload.picture || "" });
-    } else {
-      document.getElementById("f3gate-error").textContent = "E-mail não autorizado. Fale com a F3Exatas para liberar seu acesso.";
-    }
+    unlock(email, { name: payload.name || "", email: email, phone: "", picture: payload.picture || "" });
   }
 
   if (GOOGLE_CLIENT_ID) {
