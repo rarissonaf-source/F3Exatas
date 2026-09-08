@@ -17,7 +17,7 @@
 
   --font-heading: 'Montserrat', sans-serif;
   --font-body: 'Lato', sans-serif;
-  --font-hero: 'Playfair Display', serif;
+  --font-hero: 'Montserrat', sans-serif;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
