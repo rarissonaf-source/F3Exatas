@@ -317,6 +317,17 @@ body {
   color: var(--orange-tint-1);
 }
 
+.course-cta.is-disabled {
+  color: var(--text-muted);
+  cursor: default;
+  pointer-events: none;
+}
+
+.course-cta.is-disabled:hover {
+  gap: 6px;
+  color: var(--text-muted);
+}
+
 /* ===== SEÇÃO 3: access-section / access-steps ===== */
 .access-section {
   max-width: 1000px;
