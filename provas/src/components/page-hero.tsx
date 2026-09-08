@@ -68,7 +68,7 @@ export function PageHero({
               {icon}
             </span>
           )}
-          <h1 className="font-heading text-4xl font-bold tracking-tight text-white text-balance sm:text-5xl">
+          <h1 className="font-heading text-4xl font-bold tracking-wide text-white text-balance [font-variant:small-caps] sm:text-5xl">
             {title}
           </h1>
         </motion.div>

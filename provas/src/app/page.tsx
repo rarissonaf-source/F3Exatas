@@ -39,7 +39,7 @@ export default function Home() {
             className="size-[90px] object-contain sm:size-[130px]"
             style={{ filter: "drop-shadow(0 10px 20px rgba(0, 0, 0, 0.35))" }}
           />
-          <h1 className="font-heading text-2xl font-extrabold tracking-tight text-white sm:text-3xl">
+          <h1 className="font-heading text-2xl font-extrabold tracking-wide text-white [font-variant:small-caps] sm:text-3xl">
             F3 <span className="text-brand-orange">Provas</span>
           </h1>
         </div>
@@ -47,7 +47,7 @@ export default function Home() {
         <div className="hidden self-stretch border-l border-white/30 sm:block" />
 
         <div className="flex-1 text-center sm:pl-12 sm:text-left">
-          <p className="font-heading text-xl font-bold leading-snug text-balance text-white sm:text-2xl">
+          <p className="font-heading text-xl font-bold leading-snug tracking-wide text-balance text-white [font-variant:small-caps] sm:text-2xl">
             Questões de vestibular organizadas por instituição, disciplina e assunto.
           </p>
         </div>

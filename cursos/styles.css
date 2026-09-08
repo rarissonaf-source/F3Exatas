@@ -165,6 +165,8 @@ body {
 
 .section-title {
   font-family: var(--font-heading);
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
   font-weight: 800;
   font-size: 32px;
   color: var(--text-primary);
