@@ -17,6 +17,7 @@
 
   --font-heading: 'Montserrat', sans-serif;
   --font-body: 'Lato', sans-serif;
+  --font-hero: 'Playfair Display', serif;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -109,7 +110,9 @@ body {
 }
 
 .hub-hero-title {
-  font-family: var(--font-heading);
+  font-family: var(--font-hero);
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
   font-weight: 800;
   font-size: 44px;
   line-height: 1.2;

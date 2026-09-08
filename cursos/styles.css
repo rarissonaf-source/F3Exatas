@@ -17,6 +17,7 @@
 
   --font-heading: 'Montserrat', sans-serif;
   --font-body: 'Lato', sans-serif;
+  --font-hero: 'Playfair Display', serif;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -107,7 +108,9 @@ body {
 }
 
 .hero-wordmark {
-  font-family: var(--font-heading);
+  font-family: var(--font-hero);
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
   font-weight: 800;
   font-size: 32px;
   color: var(--white);
@@ -126,7 +129,9 @@ body {
 }
 
 .hero-tagline {
-  font-family: var(--font-heading);
+  font-family: var(--font-hero);
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.4;
@@ -704,59 +709,6 @@ body {
   color: var(--text-muted);
   font-style: italic;
 }
-
-/* ===== SEÇÃO: gate-form (acesso por e-mail) ===== */
-.gate-form {
-  display: flex;
-  gap: 12px;
-  max-width: 440px;
-  margin: 0 auto;
-  flex-wrap: wrap;
-}
-
-.gate-input {
-  flex: 1;
-  min-width: 220px;
-  background: var(--bg-panel);
-  border: 1px solid var(--bg-panel-border);
-  border-radius: 10px;
-  padding: 14px 16px;
-  font-family: var(--font-body);
-  font-size: 15px;
-  color: var(--text-primary);
-}
-
-.gate-input:focus {
-  outline: none;
-  border-color: var(--orange);
-}
-
-.gate-input::placeholder {
-  color: var(--text-muted);
-}
-
-.gate-submit {
-  border: none;
-  background: var(--orange);
-  color: var(--white);
-  padding: 14px 24px;
-  border-radius: 10px;
-  cursor: pointer;
-}
-
-.gate-submit:hover {
-  gap: 10px;
-}
-
-.gate-error {
-  max-width: 440px;
-  margin: 14px auto 0;
-  text-align: center;
-  font-family: var(--font-body);
-  font-size: 14px;
-  color: var(--orange-tint-1);
-}
-
 
 /* ===== SEÇÃO: player-modal (aula tocando dentro do site) ===== */
 .player-modal {

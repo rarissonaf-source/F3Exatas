@@ -343,6 +343,8 @@
       overlay.remove();
     });
 
+    formatPhoneInput(document.getElementById("f3acc-phone"));
+
     var photoInput = document.getElementById("f3acc-photo-input");
     document.getElementById("f3acc-photo-wrap").addEventListener("click", function () {
       photoInput.click();
@@ -395,7 +397,60 @@
     return html;
   }
 
-  function openSignupModal(onSuccess) {
+  // Aplica a máscara "(00) 00000-0000" enquanto a pessoa digita, alternando
+  // pro formato de 4 dígitos no final (fixo, "(00) 0000-0000") se o número
+  // acabar tendo só 10 dígitos em vez de 11.
+  function formatPhoneInput(el) {
+    el.setAttribute("inputmode", "numeric");
+    el.addEventListener("input", function () {
+      var digits = el.value.replace(/\D/g, "").slice(0, 11);
+      var out = "";
+      if (digits.length > 0) out += "(" + digits.slice(0, 2);
+      if (digits.length >= 2) out += ") ";
+      var rest = digits.slice(2);
+      if (rest.length > 4 && digits.length <= 10) {
+        out += rest.slice(0, 4) + "-" + rest.slice(4, 8);
+      } else if (rest.length > 4) {
+        out += rest.slice(0, 5) + "-" + rest.slice(5, 9);
+      } else {
+        out += rest;
+      }
+      el.value = out;
+    });
+  }
+
+  function cityOptionsHtml(names, placeholder) {
+    var html = '<option value="" disabled selected>' + placeholder + "</option>";
+    names.forEach(function (name) {
+      html += '<option value="' + name.replace(/"/g, "&quot;") + '">' + name + "</option>";
+    });
+    return html;
+  }
+
+  // Lista oficial de municípios por estado, via API pública do IBGE (sem
+  // chave de API, mantida pelo governo) — evita erro de digitação e garante
+  // que a cidade escolhida existe de verdade.
+  function loadCitiesForState(uf, citySelect) {
+    citySelect.disabled = true;
+    citySelect.innerHTML = '<option value="" disabled selected>Carregando cidades...</option>';
+    fetch("https://servicodados.ibge.gov.br/api/v1/localidades/estados/" + uf + "/municipios")
+      .then(function (res) {
+        if (!res.ok) throw new Error("erro");
+        return res.json();
+      })
+      .then(function (data) {
+        var names = data.map(function (m) {
+          return m.nome;
+        });
+        citySelect.innerHTML = cityOptionsHtml(names, "Selecione a cidade");
+        citySelect.disabled = false;
+      })
+      .catch(function () {
+        citySelect.innerHTML = '<option value="" disabled selected>Erro ao carregar. Selecione o estado de novo.</option>';
+      });
+  }
+
+  function openSignupModal() {
     var overlay = document.createElement("div");
     overlay.className = "f3gate-overlay";
     overlay.style.zIndex = "999999";
@@ -409,7 +464,7 @@
       '<div class="f3gate-field"><label>E-mail</label><input id="f3signup-email" type="email" required></div>' +
       '<div class="f3gate-field"><label>Número</label><input id="f3signup-phone" type="tel" placeholder="(00) 00000-0000" required></div>' +
       '<div class="f3gate-field"><label>Estado</label><select id="f3signup-state" required>' + stateOptionsHtml() + "</select></div>" +
-      '<div class="f3gate-field"><label>Cidade</label><input id="f3signup-city" type="text" required></div>' +
+      '<div class="f3gate-field"><label>Cidade</label><select id="f3signup-city" required disabled><option value="" disabled selected>Selecione o estado primeiro</option></select></div>' +
       '<div class="f3gate-field"><label>Senha</label><input id="f3signup-pass" type="password" minlength="8" required></div>' +
       '<div class="f3gate-field"><label>Confirmar senha</label><input id="f3signup-pass2" type="password" minlength="8" required></div>' +
       '<div class="f3gate-error" id="f3signup-error"></div>' +
@@ -426,24 +481,41 @@
       overlay.remove();
     });
 
+    formatPhoneInput(document.getElementById("f3signup-phone"));
+
+    var stateSelect = document.getElementById("f3signup-state");
+    var citySelect = document.getElementById("f3signup-city");
+    stateSelect.addEventListener("change", function () {
+      loadCitiesForState(stateSelect.value, citySelect);
+    });
+
+    var passEl = document.getElementById("f3signup-pass");
+    var pass2El = document.getElementById("f3signup-pass2");
+    var errorEl = document.getElementById("f3signup-error");
+    function checkPasswordsMatch() {
+      if (pass2El.value && passEl.value !== pass2El.value) {
+        errorEl.textContent = "As senhas não coincidem.";
+        return false;
+      }
+      errorEl.textContent = "";
+      return true;
+    }
+    passEl.addEventListener("input", checkPasswordsMatch);
+    pass2El.addEventListener("input", checkPasswordsMatch);
+
     document.getElementById("f3signup-form").addEventListener("submit", function (e) {
       e.preventDefault();
-      var errorEl = document.getElementById("f3signup-error");
       errorEl.textContent = "";
-      var pass = document.getElementById("f3signup-pass").value;
-      var pass2 = document.getElementById("f3signup-pass2").value;
-      if (pass !== pass2) {
-        errorEl.textContent = "As senhas não coincidem.";
-        return;
-      }
+      if (!checkPasswordsMatch()) return;
+
       var payload = {
         firstName: document.getElementById("f3signup-first").value.trim(),
         lastName: document.getElementById("f3signup-last").value.trim(),
         email: document.getElementById("f3signup-email").value.trim(),
         phone: document.getElementById("f3signup-phone").value.trim(),
-        state: document.getElementById("f3signup-state").value,
-        city: document.getElementById("f3signup-city").value.trim(),
-        password: pass,
+        state: stateSelect.value,
+        city: citySelect.value,
+        password: passEl.value,
       };
       fetch(AUTH_API_BASE + "/signup", {
         method: "POST",
@@ -460,14 +532,10 @@
             errorEl.textContent = result.data.error || "Não foi possível criar a conta.";
             return;
           }
-          localStorage.setItem(SESSION_TOKEN_KEY, result.data.token);
+          // Conta criada, mas não loga automaticamente — a pessoa volta pra
+          // tela de login e entra com o e-mail/senha que acabou de criar.
           overlay.remove();
-          onSuccess(result.data.email, {
-            name: result.data.name,
-            email: result.data.email,
-            phone: payload.phone,
-            picture: "",
-          });
+          showHint("Conta criada! Entre com seu e-mail e senha pra acessar.");
         })
         .catch(function () {
           errorEl.textContent = "Não foi possível conectar. Tente novamente.";
@@ -599,7 +667,7 @@
   });
 
   document.getElementById("f3gate-create-btn").addEventListener("click", function () {
-    openSignupModal(unlock);
+    openSignupModal();
   });
 
   document.getElementById("f3gate-form").addEventListener("submit", function (e) {

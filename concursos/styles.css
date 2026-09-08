@@ -17,6 +17,7 @@
 
   --font-heading: 'Montserrat', sans-serif;
   --font-body: 'Lato', sans-serif;
+  --font-hero: 'Playfair Display', serif;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -107,7 +108,9 @@ body {
 }
 
 .hero-wordmark {
-  font-family: var(--font-heading);
+  font-family: var(--font-hero);
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
   font-weight: 800;
   font-size: 32px;
   color: var(--white);
@@ -126,7 +129,9 @@ body {
 }
 
 .hero-tagline {
-  font-family: var(--font-heading);
+  font-family: var(--font-hero);
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.4;

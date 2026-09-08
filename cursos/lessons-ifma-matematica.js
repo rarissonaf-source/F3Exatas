@@ -135,7 +135,7 @@ function openPlayer(videoId, title) {
   const modal = document.getElementById("player-modal");
   const frame = document.getElementById("player-frame");
   const caption = document.getElementById("player-caption");
-  frame.src = "https://www.youtube.com/embed/" + videoId + "?autoplay=1&rel=0";
+  frame.src = "https://www.youtube.com/embed/" + videoId + "?autoplay=1&rel=0&modestbranding=1";
   caption.textContent = title;
   modal.hidden = false;
   document.body.style.overflow = "hidden";
