@@ -2115,7 +2115,7 @@
     "id": "2006.2-2fase-q7",
     "examId": "2006.2-2fase",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 7,
     "statement": "O valor de k para o qual a equação matricial $X^2-kX^2-Y=0$, é igual a matriz identidade, sendo $X=\\begin{pmatrix}1&0\\\\0&k\\end{pmatrix}$ e $Y=\\begin{pmatrix}1&0\\\\0&-k\\end{pmatrix}$, é:",
     "options": [
@@ -2979,7 +2979,7 @@
     "id": "2006.1-2fase-q14",
     "examId": "2006.1-2fase",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 14,
     "statement": "O determinante da matriz $\\begin{pmatrix}2x&3&1\\\\1&0&4\\\\0&1&x-1\\end{pmatrix}$ é nulo para um valor de x situado no intervalo:",
     "options": [
@@ -3683,7 +3683,7 @@
     "id": "2007.1-2fase-q16",
     "examId": "2007.1-2fase",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 16,
     "statement": "Considere a matriz $M=\\begin{pmatrix}1&2&3\\\\2&3&2\\\\3&2&x\\end{pmatrix}$. A soma das raízes da equação $\\det(M^2)=25$ é igual a",
     "options": [
@@ -3971,7 +3971,7 @@
     "id": "2007.2-2fase-q5",
     "examId": "2007.2-2fase",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 5,
     "statement": "Seja $X=M+M^2+M^3+\\cdots+M^k$, em que M é a matriz $\\begin{pmatrix}1&1\\\\0&1\\end{pmatrix}$ e k é um número natural. Se o determinante da matriz X é igual a 324, então o valor de $k^2+3k-1$ é:",
     "options": [
@@ -4675,7 +4675,7 @@
     "id": "2008.1-2fase-q7",
     "examId": "2008.1-2fase",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 7,
     "statement": "Se as matrizes $M=\\begin{pmatrix}x&y\\\\-y&x\\end{pmatrix}$ e $N=\\begin{pmatrix}1&2\\\\2&1\\end{pmatrix}$ são tais que M.N = N.M, então, sobre os números reais x e y, é possível afirmar, corretamente, que",
     "options": [
@@ -5603,7 +5603,7 @@
     "id": "2008.2-2fase-q16",
     "examId": "2008.2-2fase",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 16,
     "statement": "A matriz M é dada por M = P.Q, em que $P=\\begin{pmatrix}1&-\\text{sen}\\,x\\\\1&\\text{sen}\\,x\\end{pmatrix}$ e $Q=\\begin{pmatrix}\\cos x&0\\\\0&1\\end{pmatrix}$. O determinante da matriz M é",
     "options": [
@@ -6595,7 +6595,7 @@
     "id": "2009.1-2fase-q17",
     "examId": "2009.1-2fase",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 17,
     "statement": "Se x e y são dois ângulos cuja soma é $\\dfrac{\\pi}{3}$, então o determinante da matriz $\\begin{pmatrix}\\text{sen}\\,x&\\cos x&0\\\\\\cos y&\\text{sen}\\,y&0\\\\0&0&-1\\end{pmatrix}$ é igual a",
     "options": [
@@ -7555,7 +7555,7 @@
     "id": "2009.2-2fase-q17",
     "examId": "2009.2-2fase",
     "discipline": "matematica",
-    "topic": "trigonometria",
+    "topic": "matrizes-determinantes",
     "number": 17,
     "statement": "Considere os parâmetros p = cosx e q = senx, com $0\\le x\\le2\\pi$, e as matrizes $U=\\begin{pmatrix}1\\\\0\\end{pmatrix}$, $V=\\begin{pmatrix}0\\\\1\\end{pmatrix}$ e $M=\\begin{pmatrix}p&-q\\\\q&p\\end{pmatrix}$. Se M.U = V, então tg$\\dfrac{x}{2}$ é igual a",
     "options": [
@@ -7811,7 +7811,7 @@
     "id": "2010.1-q19",
     "examId": "2010.1",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 19,
     "statement": "Se M é a matriz $\\begin{pmatrix}-3/5&4/5\\\\4/5&3/5\\end{pmatrix}$, então o determinante da matriz $M^2=M.M$ é igual a",
     "options": [
@@ -8355,7 +8355,7 @@
     "id": "2010.1-2fase-q12",
     "examId": "2010.1-2fase",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 12,
     "statement": "Considere as matrizes $E=\\begin{pmatrix}x&y&z\\\\u&v&w\\\\m&n&p\\end{pmatrix}$, $F=\\begin{pmatrix}u&v&w\\\\2x&2y&2z\\\\m+3x&n+3y&p+3z\\end{pmatrix}$ e $G=\\begin{pmatrix}-m&-n&-p\\\\-u&-v&-w\\\\x&y&z\\end{pmatrix}$. Se o determinante da matriz E é igual a 3 então o determinante da matriz produto F.G é igual a",
     "options": [
@@ -8899,7 +8899,7 @@
     "id": "2010.2-q23",
     "examId": "2010.2",
     "discipline": "matematica",
-    "topic": "algebra-expressoes",
+    "topic": "matrizes-determinantes",
     "number": 23,
     "statement": "Se n é um número inteiro positivo e X é a matriz $\\begin{pmatrix}1&0&0\\\\1&2&0\\\\1&1&3\\end{pmatrix}$, então o valor do determinante da matriz $Y=X^n$ é",
     "options": [

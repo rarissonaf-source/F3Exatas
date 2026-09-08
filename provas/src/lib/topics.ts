@@ -26,14 +26,15 @@ export const MATH_TOPICS: Topic[] = [
   { slug: "algebra-expressoes", name: "Álgebra e Expressões", order: 4, color: "#8b5cf6" },
   { slug: "equacoes-inequacoes", name: "Equações e Inequações", order: 5, color: "#f97316" },
   { slug: "sistemas-equacoes", name: "Sistemas de Equações", order: 6, color: "#10b981" },
-  { slug: "funcoes", name: "Funções", order: 7, color: "#6366f1" },
-  { slug: "geometria-plana", name: "Geometria Plana", order: 8, color: "#ec4899" },
-  { slug: "geometria-espacial", name: "Geometria Espacial", order: 9, color: "#14b8a6" },
-  { slug: "trigonometria", name: "Trigonometria", order: 10, color: "#84cc16" },
-  { slug: "estatistica-probabilidade", name: "Estatística e Probabilidade", order: 11, color: "#a855f7" },
-  { slug: "matematica-financeira", name: "Matemática Financeira", order: 12, color: "#0ea5e9" },
-  { slug: "combinatoria", name: "Análise Combinatória", order: 13, color: "#eab308" },
-  { slug: "progressoes", name: "Progressões (PA e PG)", order: 14, color: "#22c55e" },
+  { slug: "matrizes-determinantes", name: "Matrizes e Determinantes", order: 7, color: "#0891b2" },
+  { slug: "funcoes", name: "Funções", order: 8, color: "#6366f1" },
+  { slug: "geometria-plana", name: "Geometria Plana", order: 9, color: "#ec4899" },
+  { slug: "geometria-espacial", name: "Geometria Espacial", order: 10, color: "#14b8a6" },
+  { slug: "trigonometria", name: "Trigonometria", order: 11, color: "#84cc16" },
+  { slug: "estatistica-probabilidade", name: "Estatística e Probabilidade", order: 12, color: "#a855f7" },
+  { slug: "matematica-financeira", name: "Matemática Financeira", order: 13, color: "#0ea5e9" },
+  { slug: "combinatoria", name: "Análise Combinatória", order: 14, color: "#eab308" },
+  { slug: "progressoes", name: "Progressões (PA e PG)", order: 15, color: "#22c55e" },
 ];
 
 export const TOPICS_BY_DISCIPLINE: Record<Discipline, Topic[]> = {
