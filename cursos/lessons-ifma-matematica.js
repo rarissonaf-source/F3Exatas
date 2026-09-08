@@ -235,11 +235,49 @@ function initScrollReveal(scope) {
   revealEls.forEach((el) => observer.observe(el));
 }
 
+// Provas oficiais dos últimos anos, já resolvidas em PDF — os arquivos ficam
+// em provas/content/course-materials/ifma-matematica/<fileName>, fora da
+// pasta public (não são servidos direto, só via /api/course-materials, que
+// carimba o PDF com o e-mail de quem baixou antes de entregar).
+const MATERIALS = [
+  { label: "Prova 2026 — resolvida", fileName: "ifma-matematica-2026.pdf" },
+  { label: "Prova 2025 — resolvida", fileName: "ifma-matematica-2025.pdf" },
+  { label: "Prova 2024 — resolvida", fileName: "ifma-matematica-2024.pdf" },
+  { label: "Prova 2023 — resolvida", fileName: "ifma-matematica-2023.pdf" },
+  { label: "Prova 2022 — resolvida", fileName: "ifma-matematica-2022.pdf" },
+];
+
+function renderMaterials() {
+  const section = document.getElementById("materials-section");
+  const list = document.getElementById("materials-list");
+  if (!section || !list) return;
+
+  const email = (window.F3Exatas && window.F3Exatas.getCurrentEmail && window.F3Exatas.getCurrentEmail()) || "";
+
+  list.innerHTML = MATERIALS.map((m) => {
+    const url =
+      "/provas/api/course-materials/ifma-matematica/" +
+      encodeURIComponent(m.fileName) +
+      "?email=" +
+      encodeURIComponent(email);
+    return (
+      '<a class="material-item" href="' + url + '" target="_blank" rel="noopener">' +
+      '<span class="material-name">' + m.label + "</span>" +
+      '<span class="material-download">Baixar PDF <span>&#8594;</span></span>' +
+      "</a>"
+    );
+  }).join("");
+
+  section.hidden = false;
+  section.querySelectorAll(".reveal").forEach((el) => el.classList.add("is-visible"));
+}
+
 function grantAccess() {
   document.getElementById("access-gate").hidden = true;
   const lessonsSection = document.getElementById("lessons-section");
   lessonsSection.hidden = false;
   renderModules();
+  renderMaterials();
   // Conteúdo liberado após interação — mostra direto, sem esperar o scroll.
   lessonsSection.querySelectorAll(".reveal").forEach((el) => el.classList.add("is-visible"));
 }

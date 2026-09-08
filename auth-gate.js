@@ -161,6 +161,11 @@
     return ADMIN_EMAILS.indexOf(email) !== -1;
   };
 
+  window.F3Exatas.getCurrentEmail = function () {
+    var profile = getCurrentProfile();
+    return (profile.email || "").toLowerCase();
+  };
+
   window.F3Exatas.showAccessDeniedModal = function (courseName) {
     var overlay = document.createElement("div");
     overlay.className = "f3gate-overlay";
