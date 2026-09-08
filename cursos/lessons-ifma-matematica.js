@@ -235,16 +235,16 @@ function initScrollReveal(scope) {
   revealEls.forEach((el) => observer.observe(el));
 }
 
-// Provas oficiais dos últimos anos, já resolvidas em PDF — os arquivos ficam
-// em provas/content/course-materials/ifma-matematica/<fileName>, fora da
-// pasta public (não são servidos direto, só via /api/course-materials, que
-// carimba o PDF com o e-mail de quem baixou antes de entregar).
+// Provas oficiais do Integrado dos últimos anos, já comentadas em PDF — os
+// arquivos ficam em provas/content/course-materials/ifma-matematica/<fileName>,
+// fora da pasta public (não são servidos direto, só via /api/course-materials,
+// que carimba o PDF com os dados de quem baixou antes de entregar).
 const MATERIALS = [
-  { label: "Prova 2026 — resolvida", fileName: "ifma-matematica-2026.pdf" },
-  { label: "Prova 2025 — resolvida", fileName: "ifma-matematica-2025.pdf" },
-  { label: "Prova 2024 — resolvida", fileName: "ifma-matematica-2024.pdf" },
-  { label: "Prova 2023 — resolvida", fileName: "ifma-matematica-2023.pdf" },
-  { label: "Prova 2022 — resolvida", fileName: "ifma-matematica-2022.pdf" },
+  { label: "Integrado 2026", fileName: "ifma-integrado-2026.pdf" },
+  { label: "Integrado 2025", fileName: "ifma-integrado-2025.pdf" },
+  { label: "Integrado 2024", fileName: "ifma-integrado-2024.pdf" },
+  { label: "Integrado 2023", fileName: "ifma-integrado-2023.pdf" },
+  { label: "Integrado 2022", fileName: "ifma-integrado-2022.pdf" },
 ];
 
 function renderMaterials() {

@@ -54,26 +54,28 @@ export async function GET(
   const pdfDoc = await PDFDocument.load(original);
   const font = await pdfDoc.embedFont(StandardFonts.HelveticaBold);
 
+  // Carimbo único, na margem esquerda (área em branco da folha), na
+  // vertical, lendo de baixo pra cima — em vez de sobrepor o conteúdo
+  // impresso no meio da página.
   for (const page of pdfDoc.getPages()) {
-    const { width, height } = page.getSize();
+    const { height } = page.getSize();
+    const maxLength = height - 40;
+
+    let size = 9;
+    let textWidth = font.widthOfTextAtSize(stampLine, size);
+    if (textWidth > maxLength) {
+      size = Math.max(5, size * (maxLength / textWidth));
+      textWidth = font.widthOfTextAtSize(stampLine, size);
+    }
 
     page.drawText(stampLine, {
-      x: width / 2 - stampLine.length * 3.2,
-      y: height / 2,
-      size: 13,
+      x: 14,
+      y: Math.max(20, (height - textWidth) / 2),
+      size,
       font,
-      color: rgb(0.85, 0.15, 0.1),
-      opacity: 0.16,
-      rotate: degrees(35),
-    });
-
-    page.drawText(stampLine, {
-      x: 20,
-      y: 14,
-      size: 7,
-      font,
-      color: rgb(0.35, 0.35, 0.35),
-      opacity: 0.85,
+      color: rgb(0.55, 0.1, 0.08),
+      opacity: 0.55,
+      rotate: degrees(90),
     });
   }
 
