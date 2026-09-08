@@ -282,6 +282,35 @@ body {
   line-height: 1.4;
 }
 
+.topic-materials-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 4px 20px 18px 62px;
+  padding: 12px 16px;
+  border-top: 1px solid var(--bg-panel-border);
+  padding-top: 14px;
+}
+
+.topic-materials-label {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--text-primary);
+}
+
+.topic-materials-badge {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--text-muted);
+  border: 1px solid var(--bg-panel-border);
+  border-radius: 20px;
+  padding: 4px 12px;
+  white-space: nowrap;
+}
+
 /* ===== SEÇÃO: cta-final ===== */
 .cta-final {
   text-align: center;
