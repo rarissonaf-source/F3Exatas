@@ -11,6 +11,8 @@
   // domínio, então este caminho absoluto funciona a partir de qualquer página
   // do hub, sem CORS.
   var PROFILE_API_URL = "/provas/api/profile";
+  var AUTH_API_BASE = "/provas/api/auth";
+  var SESSION_TOKEN_KEY = "f3_session_token";
 
   // Cole aqui o Client ID criado no Google Cloud Console (Credentials > OAuth client ID > Web application).
   var GOOGLE_CLIENT_ID = "940839767965-tipond9snpkqeubb55rahh8p21c5bqko.apps.googleusercontent.com";
@@ -249,8 +251,19 @@
     document.getElementById("f3acc-drawer-close").addEventListener("click", closeDrawer);
 
     document.getElementById("f3acc-logout-btn").addEventListener("click", function () {
+      var token = localStorage.getItem(SESSION_TOKEN_KEY);
+      if (token) {
+        fetch(AUTH_API_BASE + "/logout", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ token: token }),
+        }).catch(function () {
+          /* melhor esforço: limpa localmente mesmo se a chamada falhar */
+        });
+      }
       localStorage.removeItem(AUTH_KEY);
       localStorage.removeItem(CURRENT_KEY);
+      localStorage.removeItem(SESSION_TOKEN_KEY);
       location.reload();
     });
 
@@ -329,6 +342,104 @@
     });
   }
 
+  var BR_STATES = [
+    ["AC", "Acre"], ["AL", "Alagoas"], ["AP", "Amapá"], ["AM", "Amazonas"], ["BA", "Bahia"],
+    ["CE", "Ceará"], ["DF", "Distrito Federal"], ["ES", "Espírito Santo"], ["GO", "Goiás"],
+    ["MA", "Maranhão"], ["MT", "Mato Grosso"], ["MS", "Mato Grosso do Sul"], ["MG", "Minas Gerais"],
+    ["PA", "Pará"], ["PB", "Paraíba"], ["PR", "Paraná"], ["PE", "Pernambuco"], ["PI", "Piauí"],
+    ["RJ", "Rio de Janeiro"], ["RN", "Rio Grande do Norte"], ["RS", "Rio Grande do Sul"],
+    ["RO", "Rondônia"], ["RR", "Roraima"], ["SC", "Santa Catarina"], ["SP", "São Paulo"],
+    ["SE", "Sergipe"], ["TO", "Tocantins"]
+  ];
+
+  function stateOptionsHtml() {
+    var html = '<option value="" disabled selected>Selecione</option>';
+    BR_STATES.forEach(function (s) {
+      html += '<option value="' + s[0] + '">' + s[1] + "</option>";
+    });
+    return html;
+  }
+
+  function openSignupModal(onSuccess) {
+    var overlay = document.createElement("div");
+    overlay.className = "f3gate-overlay";
+    overlay.style.zIndex = "999999";
+    overlay.innerHTML =
+      '<div class="f3gate-card">' +
+      '<div class="f3gate-title">Criar conta</div>' +
+      '<div class="f3gate-subtitle">Preencha seus dados para criar seu acesso ao F3Exatas.</div>' +
+      '<form id="f3signup-form">' +
+      '<div class="f3gate-field"><label>Nome</label><input id="f3signup-first" type="text" required></div>' +
+      '<div class="f3gate-field"><label>Sobrenome</label><input id="f3signup-last" type="text" required></div>' +
+      '<div class="f3gate-field"><label>E-mail</label><input id="f3signup-email" type="email" required></div>' +
+      '<div class="f3gate-field"><label>Número</label><input id="f3signup-phone" type="tel" placeholder="(00) 00000-0000" required></div>' +
+      '<div class="f3gate-field"><label>Estado</label><select id="f3signup-state" required>' + stateOptionsHtml() + "</select></div>" +
+      '<div class="f3gate-field"><label>Cidade</label><input id="f3signup-city" type="text" required></div>' +
+      '<div class="f3gate-field"><label>Senha</label><input id="f3signup-pass" type="password" minlength="8" required></div>' +
+      '<div class="f3gate-field"><label>Confirmar senha</label><input id="f3signup-pass2" type="password" minlength="8" required></div>' +
+      '<div class="f3gate-error" id="f3signup-error"></div>' +
+      '<button type="submit" class="f3gate-submit">Criar conta</button>' +
+      '<button type="button" class="f3gate-submit f3gate-submit-ghost" id="f3signup-cancel-btn">Cancelar</button>' +
+      "</form>" +
+      "</div>";
+    document.body.appendChild(overlay);
+
+    overlay.addEventListener("click", function (e) {
+      if (e.target === overlay) overlay.remove();
+    });
+    document.getElementById("f3signup-cancel-btn").addEventListener("click", function () {
+      overlay.remove();
+    });
+
+    document.getElementById("f3signup-form").addEventListener("submit", function (e) {
+      e.preventDefault();
+      var errorEl = document.getElementById("f3signup-error");
+      errorEl.textContent = "";
+      var pass = document.getElementById("f3signup-pass").value;
+      var pass2 = document.getElementById("f3signup-pass2").value;
+      if (pass !== pass2) {
+        errorEl.textContent = "As senhas não coincidem.";
+        return;
+      }
+      var payload = {
+        firstName: document.getElementById("f3signup-first").value.trim(),
+        lastName: document.getElementById("f3signup-last").value.trim(),
+        email: document.getElementById("f3signup-email").value.trim(),
+        phone: document.getElementById("f3signup-phone").value.trim(),
+        state: document.getElementById("f3signup-state").value,
+        city: document.getElementById("f3signup-city").value.trim(),
+        password: pass,
+      };
+      fetch(AUTH_API_BASE + "/signup", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      })
+        .then(function (res) {
+          return res.json().then(function (data) {
+            return { ok: res.ok, data: data };
+          });
+        })
+        .then(function (result) {
+          if (!result.ok) {
+            errorEl.textContent = result.data.error || "Não foi possível criar a conta.";
+            return;
+          }
+          localStorage.setItem(SESSION_TOKEN_KEY, result.data.token);
+          overlay.remove();
+          onSuccess(result.data.email, {
+            name: result.data.name,
+            email: result.data.email,
+            phone: payload.phone,
+            picture: "",
+          });
+        })
+        .catch(function () {
+          errorEl.textContent = "Não foi possível conectar. Tente novamente.";
+        });
+    });
+  }
+
   function syncProfileFromServer(key) {
     fetchServerProfile(key, function (serverProfile) {
       if (!serverProfile) return;
@@ -342,6 +453,22 @@
   }
 
   if (localStorage.getItem(AUTH_KEY) === "1") {
+    var existingToken = localStorage.getItem(SESSION_TOKEN_KEY);
+    if (existingToken) {
+      fetch(AUTH_API_BASE + "/me?token=" + encodeURIComponent(existingToken))
+        .then(function (res) {
+          if (!res.ok) throw new Error("expired");
+          renderAccountWidget();
+          syncProfileFromServer(getCurrentAccountKey());
+        })
+        .catch(function () {
+          localStorage.removeItem(AUTH_KEY);
+          localStorage.removeItem(SESSION_TOKEN_KEY);
+          localStorage.removeItem(CURRENT_KEY);
+          location.reload();
+        });
+      return;
+    }
     renderAccountWidget();
     syncProfileFromServer(getCurrentAccountKey());
     return;
@@ -358,7 +485,7 @@
     '<div class="f3gate-google" id="f3gate-google"></div>' +
     '<div class="f3gate-divider">ou</div>' +
     '<form id="f3gate-form">' +
-    '<div class="f3gate-field"><input id="f3gate-user" type="text" placeholder="Usuário" autocomplete="username" required></div>' +
+    '<div class="f3gate-field"><input id="f3gate-user" type="text" placeholder="E-mail ou usuário" autocomplete="username" required></div>' +
     '<div class="f3gate-field"><input id="f3gate-pass" type="password" placeholder="Senha" autocomplete="current-password" required></div>' +
     '<div class="f3gate-error" id="f3gate-error"></div>' +
     '<button type="submit" class="f3gate-submit">Entrar</button>' +
@@ -442,17 +569,46 @@
   });
 
   document.getElementById("f3gate-create-btn").addEventListener("click", function () {
-    showHint("Fale com a F3Exatas pra solicitar sua conta.");
+    openSignupModal(unlock);
   });
 
   document.getElementById("f3gate-form").addEventListener("submit", function (e) {
     e.preventDefault();
     var user = document.getElementById("f3gate-user").value.trim();
     var pass = document.getElementById("f3gate-pass").value;
+    var errorEl = document.getElementById("f3gate-error");
+    errorEl.textContent = "";
+
     if (user === GATE_USER && pass === GATE_PASS) {
       unlock(SHARED_ACCOUNT, { name: "Usuário F3Exatas", email: "", phone: "", picture: "" });
-    } else {
-      document.getElementById("f3gate-error").textContent = "Usuário ou senha incorretos.";
+      return;
     }
+
+    fetch(AUTH_API_BASE + "/login", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email: user, password: pass }),
+    })
+      .then(function (res) {
+        return res.json().then(function (data) {
+          return { ok: res.ok, data: data };
+        });
+      })
+      .then(function (result) {
+        if (!result.ok) {
+          errorEl.textContent = result.data.error || "E-mail ou senha incorretos.";
+          return;
+        }
+        localStorage.setItem(SESSION_TOKEN_KEY, result.data.token);
+        unlock(result.data.email, {
+          name: result.data.name,
+          email: result.data.email,
+          phone: result.data.phone || "",
+          picture: "",
+        });
+      })
+      .catch(function () {
+        errorEl.textContent = "Não foi possível conectar. Tente novamente.";
+      });
   });
 })();

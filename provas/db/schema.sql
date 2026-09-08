@@ -28,3 +28,25 @@ create table if not exists question_lists (
 );
 
 create index if not exists question_lists_account_key_idx on question_lists (account_key, created_at);
+
+create table if not exists users (
+  id text primary key,
+  first_name text not null,
+  last_name text not null,
+  email text not null unique,
+  phone text not null,
+  state text not null,
+  city text not null,
+  password_hash text not null,
+  password_salt text not null,
+  created_at timestamptz not null default now()
+);
+
+create table if not exists sessions (
+  token text primary key,
+  user_id text not null references users (id) on delete cascade,
+  created_at timestamptz not null default now(),
+  expires_at timestamptz not null
+);
+
+create index if not exists sessions_user_id_idx on sessions (user_id);
