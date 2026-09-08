@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Montserrat, Lato } from "next/font/google";
 import "katex/dist/katex.min.css";
 import "./globals.css";
@@ -39,6 +40,18 @@ export default function RootLayout({
       className={`${montserrat.variable} ${lato.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-KK5Q8552C9"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-KK5Q8552C9');
+          `}
+        </Script>
         <AuthGate />
         <SiteHeader />
         {children}
