@@ -64,7 +64,7 @@
           <li>Acesso exclusivo pela plataforma F3Cursos</li>
         </ul>
         <div class="course-bottom" style="justify-content: flex-end;">
-          <a href="ifma-matematica.html" class="course-cta">Acessar curso <span>&#8594;</span></a>
+          <a href="ifma-matematica.html" class="course-cta" id="ifma-access-link">Acessar curso <span>&#8594;</span></a>
         </div>
       </article>
 
@@ -236,5 +236,15 @@
   </footer>
 
 <script src="../script.js"></script>
+<script>
+  var ifmaAccessLink = document.getElementById("ifma-access-link");
+  if (ifmaAccessLink) {
+    ifmaAccessLink.addEventListener("click", function (e) {
+      if (window.F3Exatas && window.F3Exatas.hasCourseAccess && window.F3Exatas.hasCourseAccess()) return;
+      e.preventDefault();
+      window.F3Exatas.showAccessDeniedModal("Matemática para o IFMA");
+    });
+  }
+</script>
 </body>
 </html>

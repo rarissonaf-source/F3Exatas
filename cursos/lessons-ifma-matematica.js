@@ -1,8 +1,6 @@
-// Acesso restrito por e-mail, por enquanto (checagem só no navegador, sem
-// backend — não é uma trava contra alguém técnico, só um portão simples
-// pra fase de pré-lançamento com poucas pessoas liberadas).
-const ALLOWED_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com"];
-const ACCESS_STORAGE_KEY = "f3cursos_ifma_matematica_access";
+// Acesso liberado pra quem já está logado no site (auth-gate.js) com um dos
+// e-mails administrativos — ver window.F3Exatas.hasCourseAccess() em
+// ../auth-gate.js, que é a fonte única dessa lista por enquanto.
 
 // Aulas do curso "Matemática para o Técnico Integrado do IFMA", organizadas
 // pelos mesmos assuntos usados no F3Provas (src/lib/topics.ts, MATH_TOPICS).
@@ -237,8 +235,7 @@ function initScrollReveal(scope) {
   revealEls.forEach((el) => observer.observe(el));
 }
 
-function grantAccess(email) {
-  localStorage.setItem(ACCESS_STORAGE_KEY, email);
+function grantAccess() {
   document.getElementById("access-gate").hidden = true;
   const lessonsSection = document.getElementById("lessons-section");
   lessonsSection.hidden = false;
@@ -247,27 +244,24 @@ function grantAccess(email) {
   lessonsSection.querySelectorAll(".reveal").forEach((el) => el.classList.add("is-visible"));
 }
 
+function denyAccess() {
+  const gate = document.getElementById("access-gate");
+  if (!gate) return;
+  gate.querySelector(".section-subtitle").textContent =
+    "Você ainda não adquiriu este curso ou não tem acesso liberado. Fale com a F3Exatas pra saber como garantir o seu.";
+  const goBackLink = document.getElementById("gate-back-link");
+  if (goBackLink) goBackLink.hidden = false;
+}
+
 function initAccessGate() {
-  const gateForm = document.getElementById("gate-form");
-  const gateError = document.getElementById("gate-error");
-  if (!gateForm) return;
+  const gate = document.getElementById("access-gate");
+  if (!gate) return;
 
-  const savedEmail = localStorage.getItem(ACCESS_STORAGE_KEY);
-  if (savedEmail && ALLOWED_EMAILS.includes(savedEmail.trim().toLowerCase())) {
-    grantAccess(savedEmail.trim().toLowerCase());
-    return;
+  if (window.F3Exatas && window.F3Exatas.hasCourseAccess && window.F3Exatas.hasCourseAccess()) {
+    grantAccess();
+  } else {
+    denyAccess();
   }
-
-  gateForm.addEventListener("submit", (event) => {
-    event.preventDefault();
-    const email = document.getElementById("gate-email").value.trim().toLowerCase();
-    if (ALLOWED_EMAILS.includes(email)) {
-      gateError.hidden = true;
-      grantAccess(email);
-    } else {
-      gateError.hidden = false;
-    }
-  });
 }
 
 document.addEventListener("DOMContentLoaded", () => {

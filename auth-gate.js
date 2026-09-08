@@ -17,6 +17,10 @@
   // Cole aqui o Client ID criado no Google Cloud Console (Credentials > OAuth client ID > Web application).
   var GOOGLE_CLIENT_ID = "940839767965-tipond9snpkqeubb55rahh8p21c5bqko.apps.googleusercontent.com";
 
+  // E-mails com acesso liberado a todo o conteúdo pago (cursos), sem precisar
+  // ter comprado nada — uso interno/administrativo, por enquanto hardcoded.
+  var ADMIN_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com"];
+
   var script = document.currentScript;
   var base = (script && script.getAttribute("data-base")) || "";
 
@@ -145,6 +149,38 @@
     profiles[key] = updated;
     saveProfiles(profiles);
   }
+
+  // ===== API pública, usada por outras páginas (ex.: cursos/) pra saber se a
+  // pessoa logada tem acesso liberado ao conteúdo pago, sem duplicar a lógica
+  // de identidade/sessão que já vive aqui. =====
+  window.F3Exatas = window.F3Exatas || {};
+
+  window.F3Exatas.hasCourseAccess = function () {
+    var profile = getCurrentProfile();
+    var email = (profile.email || "").toLowerCase();
+    return ADMIN_EMAILS.indexOf(email) !== -1;
+  };
+
+  window.F3Exatas.showAccessDeniedModal = function (courseName) {
+    var overlay = document.createElement("div");
+    overlay.className = "f3gate-overlay";
+    overlay.style.zIndex = "999999";
+    overlay.innerHTML =
+      '<div class="f3gate-card">' +
+      '<div class="f3gate-title">Curso ainda não liberado</div>' +
+      '<div class="f3gate-subtitle">Você ainda não adquiriu' +
+      (courseName ? " o curso <strong>" + courseName + "</strong>" : " esse curso") +
+      ' ou não tem acesso liberado. Fale com a F3Exatas pra saber como garantir o seu.</div>' +
+      '<button type="button" class="f3gate-submit" id="f3-access-denied-close">Entendi</button>' +
+      "</div>";
+    document.body.appendChild(overlay);
+    overlay.addEventListener("click", function (e) {
+      if (e.target === overlay) overlay.remove();
+    });
+    document.getElementById("f3-access-denied-close").addEventListener("click", function () {
+      overlay.remove();
+    });
+  };
 
   // Servidor (Postgres, via F3Provas) é a fonte de verdade compartilhada entre
   // dispositivos; o localStorage acima fica só como cache pra pintar a tela na hora.
@@ -512,20 +548,19 @@
     localStorage.setItem(AUTH_KEY, "1");
     document.documentElement.style.overflow = "";
     overlay.remove();
-    renderAccountWidget();
 
     fetchServerProfile(accountKey, function (serverProfile) {
-      if (!serverProfile) return;
-      var hasData = serverProfile.name || serverProfile.email || serverProfile.phone || serverProfile.picture;
+      var hasData = serverProfile && (serverProfile.name || serverProfile.email || serverProfile.phone || serverProfile.picture);
       if (hasData) {
         updateCurrentProfile(serverProfile);
-        removeAccountWidgetEls();
-        renderAccountWidget();
       } else {
         // Primeira vez nessa conta: semeia o servidor com os dados iniciais
         // (nome/foto do Google, por exemplo) pra já ficar disponível em outros aparelhos.
         pushServerProfile(accountKey, seedProfile);
       }
+      // Recarrega pra garantir que qualquer parte da página que dependa da
+      // identidade logada (ex.: gate de acesso a cursos) reavalie do zero.
+      location.reload();
     });
   }
 
