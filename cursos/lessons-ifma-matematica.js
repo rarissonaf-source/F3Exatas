@@ -253,13 +253,16 @@ function renderMaterials() {
   if (!section || !list) return;
 
   const email = (window.F3Exatas && window.F3Exatas.getCurrentEmail && window.F3Exatas.getCurrentEmail()) || "";
+  const name = (window.F3Exatas && window.F3Exatas.getCurrentName && window.F3Exatas.getCurrentName()) || "";
 
   list.innerHTML = MATERIALS.map((m) => {
     const url =
       "/provas/api/course-materials/ifma-matematica/" +
       encodeURIComponent(m.fileName) +
       "?email=" +
-      encodeURIComponent(email);
+      encodeURIComponent(email) +
+      "&name=" +
+      encodeURIComponent(name);
     return (
       '<a class="material-item" href="' + url + '" target="_blank" rel="noopener">' +
       '<span class="material-name">' + m.label + "</span>" +

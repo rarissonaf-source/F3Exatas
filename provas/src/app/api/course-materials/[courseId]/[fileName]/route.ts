@@ -19,6 +19,7 @@ export async function GET(
 
   const { courseId, fileName } = await params;
   const email = (req.nextUrl.searchParams.get("email") || "").trim().toLowerCase();
+  const googleName = (req.nextUrl.searchParams.get("name") || "").trim();
 
   if (!email || !ADMIN_EMAILS.includes(email)) {
     return NextResponse.json({ error: "Você ainda não tem acesso a este material." }, { status: 403 });
@@ -34,13 +35,14 @@ export async function GET(
 
   // Dados de cadastro (nome, sobrenome, telefone, cidade, estado) vêm da
   // tabela users, preenchida no cadastro por e-mail/senha. Quem entrou só
-  // pelo Google (caso dos e-mails administrativos) pode não ter linha aqui
-  // — nesse caso o carimbo sai só com o que existir.
+  // pelo Google (caso dos e-mails administrativos) não tem linha aqui — nesse
+  // caso usa o nome que o próprio Google informou (parâmetro "name"), e
+  // telefone/cidade/estado ficam em branco, já que o Google não fornece isso.
   const { rows } = await sql`
     select first_name, last_name, phone, state, city from users where email = ${email}
   `;
   const u = rows[0];
-  const fullName = u ? `${u.first_name} ${u.last_name}` : "";
+  const fullName = u ? `${u.first_name} ${u.last_name}` : googleName;
   const phone = u?.phone || "";
   const city = u?.city || "";
   const state = u?.state || "";

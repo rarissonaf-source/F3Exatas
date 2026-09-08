@@ -166,6 +166,11 @@
     return (profile.email || "").toLowerCase();
   };
 
+  window.F3Exatas.getCurrentName = function () {
+    var profile = getCurrentProfile();
+    return profile.name || "";
+  };
+
   window.F3Exatas.showAccessDeniedModal = function (courseName) {
     var overlay = document.createElement("div");
     overlay.className = "f3gate-overlay";
