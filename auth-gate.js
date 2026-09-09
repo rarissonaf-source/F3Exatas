@@ -41,6 +41,7 @@
     ".f3gate-field input{width:100%;padding:13px 16px;border-radius:12px;border:1px solid rgba(255,255,255,0.12);background:#f4f6fb;color:#263959;font-family:'Lato',sans-serif;font-size:15px;outline:none;}" +
     ".f3gate-field input:focus{border-color:#f38d33;}" +
     ".f3gate-error{font-size:13px;color:#f38d33;margin:-4px 0 14px;min-height:16px;}" +
+    ".f3gate-error.is-hint{color:#34d399;}" +
     ".f3gate-submit{width:100%;padding:14px;border:none;border-radius:12px;background:linear-gradient(160deg,#f38d33,#d9701c);color:#fff;font-family:'Montserrat',sans-serif;font-weight:700;font-size:15px;cursor:pointer;}" +
     ".f3gate-submit:hover{opacity:0.92;}" +
     ".f3gate-submit-ghost{background:none;border:1px solid rgba(255,255,255,0.14);color:#f4f6fb;margin-top:10px;}" +
@@ -514,12 +515,8 @@
     passEl.addEventListener("input", checkPasswordsMatch);
     pass2El.addEventListener("input", checkPasswordsMatch);
 
-    document.getElementById("f3signup-form").addEventListener("submit", function (e) {
-      e.preventDefault();
-      errorEl.textContent = "";
-      if (!checkPasswordsMatch()) return;
-
-      var payload = {
+    function buildSignupPayload() {
+      return {
         firstName: document.getElementById("f3signup-first").value.trim(),
         lastName: document.getElementById("f3signup-last").value.trim(),
         email: document.getElementById("f3signup-email").value.trim(),
@@ -528,10 +525,101 @@
         city: citySelect.value,
         password: passEl.value,
       };
-      fetch(AUTH_API_BASE + "/signup", {
+    }
+
+    function requestSignupCode(payload) {
+      return fetch(AUTH_API_BASE + "/signup/request-code", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
+      }).then(function (res) {
+        return res.json().then(function (data) {
+          return { ok: res.ok, data: data };
+        });
+      });
+    }
+
+    document.getElementById("f3signup-form").addEventListener("submit", function (e) {
+      e.preventDefault();
+      errorEl.textContent = "";
+      if (!checkPasswordsMatch()) return;
+
+      var payload = buildSignupPayload();
+      requestSignupCode(payload)
+        .then(function (result) {
+          if (!result.ok) {
+            errorEl.textContent = result.data.error || "Não foi possível enviar o código de verificação.";
+            return;
+          }
+          openVerifyCodeModal(payload.email, payload);
+          overlay.remove();
+        })
+        .catch(function () {
+          errorEl.textContent = "Não foi possível conectar. Tente novamente.";
+        });
+    });
+  }
+
+  function openVerifyCodeModal(email, signupPayload) {
+    var overlay = document.createElement("div");
+    overlay.className = "f3gate-overlay";
+    overlay.style.zIndex = "999999";
+    overlay.innerHTML =
+      '<div class="f3gate-card">' +
+      '<div class="f3gate-title">Confirme seu e-mail</div>' +
+      '<div class="f3gate-subtitle">Enviamos um código de 6 dígitos para ' + email + ". Digite abaixo pra concluir seu cadastro.</div>" +
+      '<form id="f3verify-form">' +
+      '<div class="f3gate-field"><input id="f3verify-code" type="text" inputmode="numeric" maxlength="6" placeholder="000000" style="text-align:center;letter-spacing:0.5em" required></div>' +
+      '<div class="f3gate-error" id="f3verify-error"></div>' +
+      '<button type="submit" class="f3gate-submit">Confirmar código</button>' +
+      '<button type="button" class="f3gate-submit f3gate-submit-ghost" id="f3verify-resend-btn">Reenviar código</button>' +
+      '<button type="button" class="f3gate-submit f3gate-submit-ghost" id="f3verify-cancel-btn">Cancelar cadastro</button>' +
+      "</form>" +
+      "</div>";
+    document.body.appendChild(overlay);
+
+    var errorEl = document.getElementById("f3verify-error");
+    var codeEl = document.getElementById("f3verify-code");
+    codeEl.addEventListener("input", function () {
+      codeEl.value = codeEl.value.replace(/\D/g, "").slice(0, 6);
+    });
+
+    document.getElementById("f3verify-cancel-btn").addEventListener("click", function () {
+      overlay.remove();
+    });
+
+    document.getElementById("f3verify-resend-btn").addEventListener("click", function () {
+      errorEl.textContent = "";
+      fetch(AUTH_API_BASE + "/signup/request-code", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(signupPayload),
+      })
+        .then(function (res) {
+          return res.json().then(function (data) {
+            return { ok: res.ok, data: data };
+          });
+        })
+        .then(function (result) {
+          errorEl.className = result.ok ? "f3gate-error is-hint" : "f3gate-error";
+          errorEl.textContent = result.ok
+            ? "Novo código enviado."
+            : result.data.error || "Não foi possível reenviar o código.";
+        })
+        .catch(function () {
+          errorEl.textContent = "Não foi possível conectar. Tente novamente.";
+        });
+    });
+
+    document.getElementById("f3verify-form").addEventListener("submit", function (e) {
+      e.preventDefault();
+      errorEl.className = "f3gate-error";
+      errorEl.textContent = "";
+
+      fetch(AUTH_API_BASE + "/signup/verify-code", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: email, code: codeEl.value.trim() }),
       })
         .then(function (res) {
           return res.json().then(function (data) {
@@ -540,13 +628,17 @@
         })
         .then(function (result) {
           if (!result.ok) {
-            errorEl.textContent = result.data.error || "Não foi possível criar a conta.";
+            errorEl.textContent = result.data.error || "Código incorreto.";
             return;
           }
-          // Conta criada, mas não loga automaticamente — a pessoa volta pra
-          // tela de login e entra com o e-mail/senha que acabou de criar.
+          localStorage.setItem(SESSION_TOKEN_KEY, result.data.token);
           overlay.remove();
-          showHint("Conta criada! Entre com seu e-mail e senha pra acessar.");
+          unlock(result.data.email, {
+            name: result.data.name,
+            email: result.data.email,
+            phone: result.data.phone || "",
+            picture: "",
+          });
         })
         .catch(function () {
           errorEl.textContent = "Não foi possível conectar. Tente novamente.";

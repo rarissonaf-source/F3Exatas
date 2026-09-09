@@ -35,8 +35,12 @@ async function postJson(path: string, body: unknown): Promise<AuthResult> {
   }
 }
 
-export function signup(payload: SignupPayload) {
-  return postJson("/signup", payload);
+export function requestSignupCode(payload: SignupPayload) {
+  return postJson("/signup/request-code", payload);
+}
+
+export function verifySignupCode(email: string, code: string) {
+  return postJson("/signup/verify-code", { email, code });
 }
 
 export function login(email: string, password: string) {

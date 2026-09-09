@@ -1,7 +1,12 @@
 import { NextRequest, NextResponse } from "next/server";
 import { sql } from "@vercel/postgres";
-import { randomUUID } from "node:crypto";
-import { ensureAuthTables, generateSessionToken, hashPassword, SESSION_DAYS } from "@/lib/auth";
+import {
+  ensureAuthTables,
+  hashPassword,
+  generateVerificationCode,
+  SIGNUP_CODE_TTL_MINUTES,
+} from "@/lib/auth";
+import { sendSignupCodeEmail } from "@/lib/email";
 
 export async function POST(req: NextRequest) {
   await ensureAuthTables();
@@ -33,16 +38,30 @@ export async function POST(req: NextRequest) {
   }
 
   const { hash, salt } = hashPassword(password);
-  const id = randomUUID();
+  const payload = { firstName, lastName, phone, state, city, passwordHash: hash, passwordSalt: salt };
+  const code = generateVerificationCode();
+  const expiresAt = new Date(Date.now() + SIGNUP_CODE_TTL_MINUTES * 60 * 1000).toISOString();
+
+  try {
+    await sendSignupCodeEmail(email, code);
+  } catch (err) {
+    console.error("Falha ao enviar código de verificação:", err);
+    return NextResponse.json(
+      { error: "Não foi possível enviar o e-mail de verificação. Tente novamente em instantes." },
+      { status: 502 }
+    );
+  }
 
   await sql`
-    insert into users (id, first_name, last_name, email, phone, state, city, password_hash, password_salt)
-    values (${id}, ${firstName}, ${lastName}, ${email}, ${phone}, ${state}, ${city}, ${hash}, ${salt})
+    insert into signup_codes (email, code, payload, attempts, expires_at)
+    values (${email}, ${code}, ${JSON.stringify(payload)}, 0, ${expiresAt})
+    on conflict (email) do update set
+      code = excluded.code,
+      payload = excluded.payload,
+      attempts = 0,
+      expires_at = excluded.expires_at,
+      created_at = now()
   `;
 
-  const token = generateSessionToken();
-  const expiresAt = new Date(Date.now() + SESSION_DAYS * 24 * 60 * 60 * 1000).toISOString();
-  await sql`insert into sessions (token, user_id, expires_at) values (${token}, ${id}, ${expiresAt})`;
-
-  return NextResponse.json({ token, name: `${firstName} ${lastName}`, email, phone });
+  return NextResponse.json({ ok: true });
 }

@@ -28,7 +28,24 @@ export async function ensureAuthTables() {
     )
   `;
   await sql`create index if not exists sessions_user_id_idx on sessions (user_id)`;
+  await sql`
+    create table if not exists signup_codes (
+      email text primary key,
+      code text not null,
+      payload jsonb not null,
+      attempts int not null default 0,
+      expires_at timestamptz not null,
+      created_at timestamptz not null default now()
+    )
+  `;
   tablesEnsured = true;
+}
+
+export const SIGNUP_CODE_TTL_MINUTES = 10;
+export const SIGNUP_CODE_MAX_ATTEMPTS = 5;
+
+export function generateVerificationCode() {
+  return String(Math.floor(100000 + Math.random() * 900000));
 }
 
 export function hashPassword(password: string) {

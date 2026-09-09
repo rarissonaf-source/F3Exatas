@@ -19,7 +19,8 @@ import {
 } from "@/lib/account";
 import { getLists, deleteList, type QuestionList } from "@/lib/question-lists";
 import {
-  signup,
+  requestSignupCode,
+  verifySignupCode,
   login as apiLogin,
   apiLogout,
   validateSession,
@@ -348,9 +349,15 @@ export function AuthGate() {
           setMode("login");
           setError("");
         }}
-        onSuccess={() => {
-          setMode("login");
-          setHint("Conta criada! Entre com seu e-mail e senha pra acessar.");
+        onSuccess={(result) => {
+          if (result.token) setSessionToken(result.token);
+          unlock((result.email || "").toLowerCase(), {
+            name: result.name || "",
+            email: result.email || "",
+            phone: result.phone || "",
+            picture: "",
+            hasProvasPlus: false,
+          });
         }}
       />
     );
@@ -439,7 +446,21 @@ export function AuthGate() {
   );
 }
 
-function SignupView({ onCancel, onSuccess }: { onCancel: () => void; onSuccess: () => void }) {
+interface SignupSuccess {
+  token?: string;
+  name?: string;
+  email?: string;
+  phone?: string;
+}
+
+function SignupView({
+  onCancel,
+  onSuccess,
+}: {
+  onCancel: () => void;
+  onSuccess: (result: SignupSuccess) => void;
+}) {
+  const [step, setStep] = useState<"form" | "code">("form");
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
@@ -450,8 +471,10 @@ function SignupView({ onCancel, onSuccess }: { onCancel: () => void; onSuccess: 
   const [citiesLoading, setCitiesLoading] = useState(false);
   const [password, setPassword] = useState("");
   const [password2, setPassword2] = useState("");
+  const [code, setCode] = useState("");
   const [error, setError] = useState("");
   const [submitting, setSubmitting] = useState(false);
+  const [resendHint, setResendHint] = useState("");
 
   useEffect(() => {
     if (!state) {
@@ -467,15 +490,8 @@ function SignupView({ onCancel, onSuccess }: { onCancel: () => void; onSuccess: 
 
   const passwordsMismatch = password2.length > 0 && password !== password2;
 
-  async function handleSubmit(e: React.FormEvent) {
-    e.preventDefault();
-    setError("");
-    if (passwordsMismatch) {
-      setError("As senhas não coincidem.");
-      return;
-    }
-
-    const payload: SignupPayload = {
+  function buildPayload(): SignupPayload {
+    return {
       firstName: firstName.trim(),
       lastName: lastName.trim(),
       email: email.trim(),
@@ -484,16 +500,106 @@ function SignupView({ onCancel, onSuccess }: { onCancel: () => void; onSuccess: 
       city,
       password,
     };
+  }
+
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    setError("");
+    if (passwordsMismatch) {
+      setError("As senhas não coincidem.");
+      return;
+    }
 
     setSubmitting(true);
-    const result = await signup(payload);
+    const result = await requestSignupCode(buildPayload());
     setSubmitting(false);
 
     if (!result.ok) {
-      setError(result.error || "Não foi possível criar a conta.");
+      setError(result.error || "Não foi possível enviar o código de verificação.");
       return;
     }
-    onSuccess();
+    setStep("code");
+  }
+
+  async function handleVerify(e: React.FormEvent) {
+    e.preventDefault();
+    setError("");
+
+    setSubmitting(true);
+    const result = await verifySignupCode(email.trim().toLowerCase(), code.trim());
+    setSubmitting(false);
+
+    if (!result.ok) {
+      setError(result.error || "Código incorreto.");
+      return;
+    }
+    onSuccess(result);
+  }
+
+  async function handleResend() {
+    setError("");
+    setResendHint("");
+    setSubmitting(true);
+    const result = await requestSignupCode(buildPayload());
+    setSubmitting(false);
+
+    if (!result.ok) {
+      setError(result.error || "Não foi possível reenviar o código.");
+      return;
+    }
+    setResendHint("Novo código enviado.");
+  }
+
+  if (step === "code") {
+    return (
+      <div className="fixed inset-0 z-[999999] flex items-center justify-center overflow-y-auto bg-brand-navy-dark p-6">
+        <div className="my-6 w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
+          <h1 className="mb-2 font-heading text-xl font-extrabold text-white">Confirme seu e-mail</h1>
+          <p className="mb-5 text-sm leading-relaxed text-white/60">
+            Enviamos um código de 6 dígitos para <strong className="text-white">{email.trim()}</strong>. Digite abaixo
+            pra concluir seu cadastro.
+          </p>
+          <form onSubmit={handleVerify} className="text-left">
+            <Field label="Código">
+              <input
+                type="text"
+                inputMode="numeric"
+                maxLength={6}
+                autoFocus
+                required
+                value={code}
+                onChange={(e) => setCode(e.target.value.replace(/\D/g, "").slice(0, 6))}
+                className={`${inputClass} text-center tracking-[0.5em]`}
+              />
+            </Field>
+            {resendHint && !error && <div className="mb-3.5 text-xs text-emerald-400">{resendHint}</div>}
+            <div className="mb-3.5 min-h-4 text-xs text-brand-orange">{error}</div>
+            <button
+              type="submit"
+              disabled={submitting || code.length !== 6}
+              className="w-full rounded-xl bg-gradient-to-br from-brand-orange to-brand-orange-dark py-3.5 font-heading text-sm font-bold text-white hover:opacity-90 disabled:opacity-60"
+            >
+              {submitting ? "Confirmando..." : "Confirmar código"}
+            </button>
+            <button
+              type="button"
+              onClick={handleResend}
+              disabled={submitting}
+              className="mt-2.5 w-full rounded-xl border border-white/15 py-3.5 font-heading text-sm font-bold text-white disabled:opacity-60"
+            >
+              Reenviar código
+            </button>
+            <button
+              type="button"
+              onClick={onCancel}
+              className="mt-2.5 w-full font-heading text-xs font-semibold text-white/50"
+            >
+              Cancelar cadastro
+            </button>
+          </form>
+        </div>
+      </div>
+    );
   }
 
   return (
@@ -600,7 +706,7 @@ function SignupView({ onCancel, onSuccess }: { onCancel: () => void; onSuccess: 
             disabled={submitting}
             className="w-full rounded-xl bg-gradient-to-br from-brand-orange to-brand-orange-dark py-3.5 font-heading text-sm font-bold text-white hover:opacity-90 disabled:opacity-60"
           >
-            {submitting ? "Criando..." : "Criar conta"}
+            {submitting ? "Enviando código..." : "Criar conta"}
           </button>
           <button
             type="button"
