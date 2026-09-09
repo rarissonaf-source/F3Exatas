@@ -22,7 +22,30 @@ const PERIOD_OPTIONS: { value: Period; label: string; nounLabel: string }[] = [
   { value: "30d", label: "Últimos 30 dias", nounLabel: "nos últimos 30 dias" },
 ];
 
+type DisciplineFilter = "all" | "fisica" | "matematica";
+
+const DISCIPLINE_OPTIONS: { value: DisciplineFilter; label: string }[] = [
+  { value: "all", label: "Tudo" },
+  { value: "matematica", label: "Matemática" },
+  { value: "fisica", label: "Física" },
+];
+
 type Mode = "idle" | "loading" | "result";
+
+function filterSummary(summary: PerformanceSummary, filter: DisciplineFilter): PerformanceSummary {
+  if (filter === "all") return summary;
+  const byTopic = summary.byTopic.filter((t) => t.discipline === filter);
+  const totalAnswered = byTopic.reduce((acc, t) => acc + t.total, 0);
+  const totalCorrect = byTopic.reduce((acc, t) => acc + t.correct, 0);
+  return {
+    period: summary.period,
+    byTopic,
+    totalAnswered,
+    totalCorrect,
+    totalWrong: totalAnswered - totalCorrect,
+    overallAccuracy: totalAnswered ? Math.round((totalCorrect / totalAnswered) * 100) : 0,
+  };
+}
 
 function topicName(discipline: string, slug: string) {
   return getTopicsForDiscipline(discipline).find((t) => t.slug === slug)?.name ?? slug;
@@ -40,6 +63,7 @@ function accuracyBadgeClass(accuracy: number) {
 
 export function DiagnosisPanel() {
   const [period, setPeriod] = useState<Period>("7d");
+  const [disciplineFilter, setDisciplineFilter] = useState<DisciplineFilter>("all");
   const [mode, setMode] = useState<Mode>("idle");
   const [progress, setProgress] = useState(0);
   const [summary, setSummary] = useState<PerformanceSummary | null>(null);
@@ -88,16 +112,17 @@ export function DiagnosisPanel() {
   }
 
   const periodOption = PERIOD_OPTIONS.find((p) => p.value === period)!;
-  const byDiscipline = (summary?.byTopic ?? []).reduce<Record<string, TopicPerformance[]>>((acc, t) => {
+  const filtered = summary ? filterSummary(summary, disciplineFilter) : null;
+  const byDiscipline = (filtered?.byTopic ?? []).reduce<Record<string, TopicPerformance[]>>((acc, t) => {
     (acc[t.discipline] ??= []).push(t);
     return acc;
   }, {});
-  const { strongest, weakest } = summary ? pickHighlights(summary.byTopic) : { strongest: null, weakest: null };
-  const hasEnoughData = (summary?.totalAnswered ?? 0) >= DIAGNOSIS_MIN_QUESTIONS;
+  const { strongest, weakest } = filtered ? pickHighlights(filtered.byTopic) : { strongest: null, weakest: null };
+  const hasEnoughData = (filtered?.totalAnswered ?? 0) >= DIAGNOSIS_MIN_QUESTIONS;
 
   return (
     <div>
-      <div className="mb-6 flex flex-wrap gap-2">
+      <div className="mb-3 flex flex-wrap gap-2">
         {PERIOD_OPTIONS.map((opt) => (
           <Button
             key={opt.value}
@@ -109,6 +134,21 @@ export function DiagnosisPanel() {
           </Button>
         ))}
       </div>
+
+      {mode === "result" && (
+        <div className="mb-6 flex flex-wrap gap-2">
+          {DISCIPLINE_OPTIONS.map((opt) => (
+            <Button
+              key={opt.value}
+              variant={disciplineFilter === opt.value ? "default" : "outline"}
+              size="sm"
+              onClick={() => setDisciplineFilter(opt.value)}
+            >
+              {opt.label}
+            </Button>
+          ))}
+        </div>
+      )}
 
       {mode === "idle" && (
         <div className="rounded-2xl border border-border bg-card p-8 text-center">
@@ -137,7 +177,7 @@ export function DiagnosisPanel() {
         </div>
       )}
 
-      {mode === "result" && summary && summary.totalAnswered === 0 && (
+      {mode === "result" && filtered && filtered.totalAnswered === 0 && (
         <div className="rounded-2xl border border-border bg-card p-8 text-center">
           <p className="text-sm text-muted-foreground">
             Nenhuma questão respondida {periodOption.nounLabel} ainda. Responda algumas questões e gere de novo.
@@ -145,30 +185,30 @@ export function DiagnosisPanel() {
         </div>
       )}
 
-      {mode === "result" && summary && summary.totalAnswered > 0 && !hasEnoughData && (
+      {mode === "result" && filtered && filtered.totalAnswered > 0 && !hasEnoughData && (
         <div className="rounded-2xl border border-amber-200 bg-amber-50 p-6">
           <p className="font-heading text-base font-bold text-amber-800">
-            Você respondeu {summary.totalAnswered} de {DIAGNOSIS_MIN_QUESTIONS} questões {periodOption.nounLabel}.
+            Você respondeu {filtered.totalAnswered} de {DIAGNOSIS_MIN_QUESTIONS} questões {periodOption.nounLabel}.
           </p>
           <p className="mt-1.5 text-sm text-amber-700">
-            Responda mais {DIAGNOSIS_MIN_QUESTIONS - summary.totalAnswered} pra gerar um diagnóstico completo.
+            Responda mais {DIAGNOSIS_MIN_QUESTIONS - filtered.totalAnswered} pra gerar um diagnóstico completo.
           </p>
         </div>
       )}
 
-      {mode === "result" && summary && summary.totalAnswered > 0 && hasEnoughData && (
+      {mode === "result" && filtered && filtered.totalAnswered > 0 && hasEnoughData && (
         <>
           <div className="mb-6 grid grid-cols-3 gap-3">
             <div className="rounded-2xl border border-border bg-card p-5 text-center">
-              <div className="font-heading text-3xl font-extrabold text-foreground">{summary.totalAnswered}</div>
+              <div className="font-heading text-3xl font-extrabold text-foreground">{filtered.totalAnswered}</div>
               <div className="mt-1 text-xs font-medium text-muted-foreground">respondidas {periodOption.nounLabel}</div>
             </div>
             <div className="rounded-2xl border border-border bg-card p-5 text-center">
-              <div className="font-heading text-3xl font-extrabold text-emerald-600">{summary.overallAccuracy}%</div>
+              <div className="font-heading text-3xl font-extrabold text-emerald-600">{filtered.overallAccuracy}%</div>
               <div className="mt-1 text-xs font-medium text-muted-foreground">de acerto geral</div>
             </div>
             <div className="rounded-2xl border border-border bg-card p-5 text-center">
-              <div className="font-heading text-3xl font-extrabold text-red-500">{summary.totalWrong}</div>
+              <div className="font-heading text-3xl font-extrabold text-red-500">{filtered.totalWrong}</div>
               <div className="mt-1 text-xs font-medium text-muted-foreground">erradas</div>
             </div>
           </div>
