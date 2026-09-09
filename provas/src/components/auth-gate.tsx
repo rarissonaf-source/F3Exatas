@@ -364,8 +364,8 @@ export function AuthGate() {
   }
 
   return (
-    <div className="fixed inset-0 z-[999999] flex items-center justify-center bg-brand-navy-dark p-6 overflow-y-auto">
-      <div className="my-6 w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
+    <div className="fixed inset-0 z-[999999] flex items-start justify-center bg-brand-navy-dark p-6 overflow-y-auto">
+      <div className="my-auto w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={`${BASE_PATH}/brand/f3-logo.jpg`}
@@ -552,8 +552,8 @@ function SignupView({
 
   if (step === "code") {
     return (
-      <div className="fixed inset-0 z-[999999] flex items-center justify-center overflow-y-auto bg-brand-navy-dark p-6">
-        <div className="my-6 w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
+      <div className="fixed inset-0 z-[999999] flex items-start justify-center overflow-y-auto bg-brand-navy-dark p-6">
+        <div className="my-auto w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
           <h1 className="mb-2 font-heading text-xl font-extrabold text-white">Confirme seu e-mail</h1>
           <p className="mb-5 text-sm leading-relaxed text-white/60">
             Enviamos um código de 6 dígitos para <strong className="text-white">{email.trim()}</strong>. Digite abaixo
@@ -603,8 +603,8 @@ function SignupView({
   }
 
   return (
-    <div className="fixed inset-0 z-[999999] flex items-center justify-center overflow-y-auto bg-brand-navy-dark p-6">
-      <div className="my-6 w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
+    <div className="fixed inset-0 z-[999999] flex items-start justify-center overflow-y-auto bg-brand-navy-dark p-6">
+      <div className="my-auto w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
         <h1 className="mb-2 font-heading text-xl font-extrabold text-white">Criar conta</h1>
         <p className="mb-5 text-sm leading-relaxed text-white/60">
           Preencha seus dados para criar seu acesso ao F3Exatas.
@@ -756,12 +756,12 @@ function EditModal({
 
   return (
     <div
-      className="fixed inset-0 z-[999999] flex items-center justify-center bg-brand-navy-dark p-6"
+      className="fixed inset-0 z-[999999] flex items-start justify-center overflow-y-auto bg-brand-navy-dark p-6"
       onClick={(e) => {
         if (e.target === e.currentTarget) onCancel();
       }}
     >
-      <div className="w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
+      <div className="my-auto w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
         <h1 className="mb-2 font-heading text-xl font-extrabold text-white">Editar dados</h1>
         <p className="mb-5 text-sm leading-relaxed text-white/60">
           Sua foto e seus dados ficam salvos nessa conta, mesmo saindo e entrando de novo.
