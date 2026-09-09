@@ -16,6 +16,7 @@ import {
   logoutAccount,
 } from "@/lib/account";
 import { getLists, deleteList, type QuestionList } from "@/lib/question-lists";
+import { hasPerformanceAccess } from "@/lib/performance";
 
 const GATE_USER = "f3exatas";
 const GATE_PASS = "exatas2026";
@@ -254,6 +255,15 @@ export function AuthGate() {
           )}
 
           <nav className="flex flex-col gap-1">
+            {hasPerformanceAccess(profile.email) && (
+              <Link
+                href="/meu-desempenho"
+                onClick={() => setDrawerOpen(false)}
+                className="rounded-lg px-3 py-2.5 text-left font-heading text-sm font-semibold text-white hover:bg-white/5"
+              >
+                Meu desempenho
+              </Link>
+            )}
             <button
               type="button"
               onClick={() => {

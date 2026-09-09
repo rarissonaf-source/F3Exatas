@@ -21,6 +21,7 @@ import { LatexText } from "@/components/latex-text";
 import { createList, getLists, toggleQuestionInList, deleteList, type QuestionList } from "@/lib/question-lists";
 import { getComments, addComment, deleteComment, type QuestionComment } from "@/lib/comments";
 import { fetchCurrentProfile } from "@/lib/account";
+import { logAttempt } from "@/lib/performance";
 import { BASE_PATH } from "@/lib/base-path";
 import type { ExamSource, OptionLabel, Question } from "@/lib/types";
 
@@ -94,6 +95,16 @@ export function QuestionCard({
   function handleVerify() {
     setChecked(true);
     onAnswerChecked();
+
+    if (hasGabarito && !isAnnulled && selected) {
+      logAttempt({
+        institution,
+        discipline,
+        topic: question.topic,
+        questionId: question.id,
+        isCorrect: selected === question.correctAnswer,
+      });
+    }
   }
 
   const togglePanel = (next: Exclude<Panel, null>) => setPanel((p) => (p === next ? null : next));
