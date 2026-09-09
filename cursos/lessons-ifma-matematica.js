@@ -62,6 +62,7 @@ const modules = [
       { title: "Teorema de Pitágoras 2", youtubeUrl: "https://youtu.be/pTKtQk9BoOA" },
       { title: "Área do trapézio", youtubeUrl: "https://youtu.be/K87eynALmSE" },
       { title: "Área do círculo 2", youtubeUrl: "https://youtu.be/TZcyykntzz4" },
+      { title: "Área e regra de três 1", youtubeUrl: "https://youtu.be/iJSn5KBcHUc" },
     ],
   },
   {
@@ -80,6 +81,8 @@ const modules = [
       { title: "Probabilidade 1", youtubeUrl: "https://youtu.be/op12oJSVEuA" },
       { title: "Leitura e interpretação de gráficos 2", youtubeUrl: "https://youtu.be/2bICD9E-ESU" },
       { title: "Probabilidade 2", youtubeUrl: "https://youtu.be/vmOFz6DcYPU" },
+      { title: "Média Aritmética 1", youtubeUrl: "https://youtu.be/4883NeXcoS8" },
+      { title: "Aritmética 1", youtubeUrl: "https://youtu.be/1Lr8sDfiybI" },
     ],
   },
   {
