@@ -1,6 +1,6 @@
 const RESEND_API_URL = "https://api.resend.com/emails";
 const FROM_ADDRESS = "F3Exatas <verificacao@f3exatas.com.br>";
-const LOGO_URL = "https://www.f3exatas.com.br/assets/logo-f3.png";
+const LOGO_URL = "https://www.f3exatas.com.br/assets/logo-f3-badge.png";
 const SITE_URL = "https://www.f3exatas.com.br";
 
 function codeEmailHtml(code: string) {
@@ -16,7 +16,7 @@ function codeEmailHtml(code: string) {
     <div style="padding:40px 16px;">
       <div style="max-width:440px; margin:0 auto; background:#ffffff; border-radius:16px; overflow:hidden; border:1px solid #e6e8ef;">
         <div style="background:#131a2c; padding:28px 32px; text-align:center;">
-          <img src="${LOGO_URL}" alt="F3Exatas" height="36" style="height:36px; display:inline-block;">
+          <img src="${LOGO_URL}" alt="F3Exatas" height="52" style="height:52px; display:inline-block;">
         </div>
         <div style="padding:32px;">
           <h1 style="margin:0 0 12px; font-size:20px; line-height:1.3; color:#131a2c;">Confirme seu e-mail</h1>
