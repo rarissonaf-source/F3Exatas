@@ -15,3 +15,13 @@ export async function POST() {
 
   return NextResponse.json({ fixed: rows.length, rows });
 }
+
+export async function GET() {
+  const { rows } = await sql`
+    select id, question_id, length(author_picture) as len, left(author_picture, 24) as prefix
+    from comments
+    where author_picture is not null and author_picture <> ''
+    order by created_at desc
+  `;
+  return NextResponse.json({ total: rows.length, rows });
+}
