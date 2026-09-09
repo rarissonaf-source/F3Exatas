@@ -277,9 +277,7 @@
       '<div class="f3acc-profile-email">' + (profile.email || "") + "</div>" +
       "</div>" +
       "<nav>" +
-      (ADMIN_EMAILS.indexOf((profile.email || "").toLowerCase()) !== -1
-        ? '<a href="/provas/meu-desempenho" id="f3acc-desempenho-link">Meu desempenho</a>'
-        : "") +
+      '<a href="/provas/meu-desempenho" id="f3acc-desempenho-link">Meu desempenho</a>' +
       '<button type="button" id="f3acc-edit-btn">Editar dados</button>' +
       '<button type="button" class="f3acc-logout" id="f3acc-logout-btn">Sair da conta</button>' +
       "</nav>";

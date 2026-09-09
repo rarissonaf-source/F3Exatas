@@ -18,7 +18,6 @@ import {
   setSessionToken,
 } from "@/lib/account";
 import { getLists, deleteList, type QuestionList } from "@/lib/question-lists";
-import { hasPerformanceAccess } from "@/lib/performance";
 import {
   signup,
   login as apiLogin,
@@ -150,7 +149,13 @@ export function AuthGate() {
         callback: (response) => {
           const payload = decodeJwtPayload(response.credential);
           const email = (payload.email || "").toLowerCase();
-          unlock(email, { name: payload.name || "", email, phone: "", picture: payload.picture || "" });
+          unlock(email, {
+            name: payload.name || "",
+            email,
+            phone: "",
+            picture: payload.picture || "",
+            hasProvasPlus: false,
+          });
         },
       });
       window.google.accounts.id.renderButton(googleBtnRef.current, {
@@ -194,6 +199,7 @@ export function AuthGate() {
       email: result.email || "",
       phone: result.phone || "",
       picture: "",
+      hasProvasPlus: false,
     });
   }
 
@@ -293,15 +299,13 @@ export function AuthGate() {
           )}
 
           <nav className="flex flex-col gap-1">
-            {hasPerformanceAccess(profile.email) && (
-              <Link
-                href="/meu-desempenho"
-                onClick={() => setDrawerOpen(false)}
-                className="rounded-lg px-3 py-2.5 text-left font-heading text-sm font-semibold text-white hover:bg-white/5"
-              >
-                Meu desempenho
-              </Link>
-            )}
+            <Link
+              href="/meu-desempenho"
+              onClick={() => setDrawerOpen(false)}
+              className="rounded-lg px-3 py-2.5 text-left font-heading text-sm font-semibold text-white hover:bg-white/5"
+            >
+              Meu desempenho
+            </Link>
             <button
               type="button"
               onClick={() => {
@@ -685,7 +689,13 @@ function EditModal({
           className="text-left"
           onSubmit={(e) => {
             e.preventDefault();
-            onSave({ name: name.trim(), phone: phone.trim(), email: email.trim(), picture });
+            onSave({
+              name: name.trim(),
+              phone: phone.trim(),
+              email: email.trim(),
+              picture,
+              hasProvasPlus: profile.hasProvasPlus,
+            });
           }}
         >
           <div className="mb-3.5">

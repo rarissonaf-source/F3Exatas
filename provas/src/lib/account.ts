@@ -29,9 +29,16 @@ export interface F3Profile {
   email: string;
   phone: string;
   picture: string;
+  hasProvasPlus: boolean;
 }
 
-export const EMPTY_PROFILE: F3Profile = { name: "Usuário F3Exatas", email: "", phone: "", picture: "" };
+export const EMPTY_PROFILE: F3Profile = {
+  name: "Usuário F3Exatas",
+  email: "",
+  phone: "",
+  picture: "",
+  hasProvasPlus: false,
+};
 
 function loadCache(): Record<string, F3Profile> {
   if (typeof window === "undefined") return {};
@@ -87,6 +94,7 @@ export async function fetchCurrentProfile(): Promise<F3Profile> {
       email: data.email || "",
       phone: data.phone || "",
       picture: data.picture || "",
+      hasProvasPlus: data.hasProvasPlus === true,
     };
     saveCache(key, profile);
     return profile;
@@ -110,6 +118,7 @@ export async function updateCurrentProfile(updated: F3Profile): Promise<F3Profil
       email: data.email || "",
       phone: data.phone || "",
       picture: data.picture || "",
+      hasProvasPlus: data.hasProvasPlus === true,
     };
     saveCache(key, profile);
     return profile;

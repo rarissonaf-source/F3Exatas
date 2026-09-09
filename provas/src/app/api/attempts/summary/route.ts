@@ -9,7 +9,7 @@ export async function GET(req: NextRequest) {
   const period = req.nextUrl.searchParams.get("period") || "7d";
   const interval = PERIOD_TO_INTERVAL[period] || PERIOD_TO_INTERVAL["7d"];
 
-  if (!accountKey || !hasPerformanceAccess(accountKey)) {
+  if (!accountKey || !(await hasPerformanceAccess(accountKey))) {
     return NextResponse.json({ error: "Recurso disponível apenas para quem tem o plano com desempenho." }, { status: 403 });
   }
 

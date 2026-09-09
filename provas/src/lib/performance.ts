@@ -5,11 +5,12 @@ export type Period = "24h" | "7d" | "30d";
 
 // Mesma allowlist do servidor (src/lib/performance-db.ts) e do resto do site
 // (auth-gate.js/.tsx) — duplicada aqui só pra checagem client-side de exibir
-// ou não o link/página; o servidor sempre reconfirma no /api/attempts/summary.
+// ou não o botão de gerar; o servidor sempre reconfirma no /api/attempts/summary.
 const PERFORMANCE_ADMIN_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com"];
 
-export function hasPerformanceAccess(email: string) {
-  return PERFORMANCE_ADMIN_EMAILS.includes(email.trim().toLowerCase());
+/** Gerar diagnóstico é exclusivo de admins ou de quem tem o F3Provas+. A página em si fica visível pra todo mundo. */
+export function hasPerformanceAccess(email: string, hasProvasPlus: boolean) {
+  return PERFORMANCE_ADMIN_EMAILS.includes(email.trim().toLowerCase()) || hasProvasPlus;
 }
 
 export interface TopicPerformance {
@@ -73,6 +74,48 @@ export async function clearAttempts(): Promise<boolean> {
     return res.ok;
   } catch {
     return false;
+  }
+}
+
+// O último diagnóstico gerado fica salvo por conta, pra continuar visível ao
+// reabrir a página em vez de sumir e pedir pra gerar de novo — só some quando
+// o usuário gera outro ou limpa as estatísticas.
+const DIAGNOSIS_CACHE_KEY = "f3_last_diagnosis";
+
+interface CachedDiagnosis {
+  period: Period;
+  summary: PerformanceSummary;
+}
+
+export function getCachedDiagnosis(): CachedDiagnosis | null {
+  if (typeof window === "undefined") return null;
+  try {
+    const all = JSON.parse(localStorage.getItem(DIAGNOSIS_CACHE_KEY) || "{}") || {};
+    return all[getCurrentAccountKey()] ?? null;
+  } catch {
+    return null;
+  }
+}
+
+export function setCachedDiagnosis(entry: CachedDiagnosis) {
+  if (typeof window === "undefined") return;
+  try {
+    const all = JSON.parse(localStorage.getItem(DIAGNOSIS_CACHE_KEY) || "{}") || {};
+    all[getCurrentAccountKey()] = entry;
+    localStorage.setItem(DIAGNOSIS_CACHE_KEY, JSON.stringify(all));
+  } catch {
+    /* localStorage indisponível: só perde a persistência entre visitas */
+  }
+}
+
+export function clearCachedDiagnosis() {
+  if (typeof window === "undefined") return;
+  try {
+    const all = JSON.parse(localStorage.getItem(DIAGNOSIS_CACHE_KEY) || "{}") || {};
+    delete all[getCurrentAccountKey()];
+    localStorage.setItem(DIAGNOSIS_CACHE_KEY, JSON.stringify(all));
+  } catch {
+    /* ignora */
   }
 }
 

@@ -13,7 +13,7 @@ export default function MeuDesempenhoPage() {
 
   useEffect(() => {
     fetchCurrentProfile().then((profile) => {
-      setAllowed(hasPerformanceAccess(profile.email));
+      setAllowed(hasPerformanceAccess(profile.email, profile.hasProvasPlus));
       setCheckedAccess(true);
     });
   }, []);
@@ -32,18 +32,7 @@ export default function MeuDesempenhoPage() {
       />
 
       <div className="mx-auto w-full max-w-4xl px-6 py-12">
-        {!allowed ? (
-          <div className="rounded-2xl border border-border bg-card p-8 text-center">
-            <p className="font-heading text-lg font-bold text-foreground">
-              Esse recurso é exclusivo de quem tem o plano com desempenho
-            </p>
-            <p className="mt-2 text-sm text-muted-foreground">
-              Fale com a F3Exatas pra saber como liberar o acompanhamento de desempenho na sua conta.
-            </p>
-          </div>
-        ) : (
-          <DiagnosisPanel />
-        )}
+        <DiagnosisPanel allowed={allowed} />
       </div>
     </main>
   );

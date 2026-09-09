@@ -1,20 +1,28 @@
 import { NextRequest, NextResponse } from "next/server";
 import { sql } from "@vercel/postgres";
+import { ensureProfilesPlusColumn } from "@/lib/performance-db";
 
-const EMPTY = { name: "", email: "", phone: "", picture: "" };
+const EMPTY = { name: "", email: "", phone: "", picture: "", hasProvasPlus: false };
 
 export async function GET(req: NextRequest) {
   const accountKey = req.nextUrl.searchParams.get("accountKey") || "";
   if (!accountKey) return NextResponse.json(EMPTY);
 
+  await ensureProfilesPlusColumn();
   const { rows } = await sql`
-    select name, email, phone, picture from profiles where account_key = ${accountKey}
+    select name, email, phone, picture, has_provas_plus from profiles where account_key = ${accountKey}
   `;
 
   if (rows.length === 0) return NextResponse.json(EMPTY);
 
   const r = rows[0];
-  return NextResponse.json({ name: r.name, email: r.email, phone: r.phone, picture: r.picture });
+  return NextResponse.json({
+    name: r.name,
+    email: r.email,
+    phone: r.phone,
+    picture: r.picture,
+    hasProvasPlus: r.has_provas_plus === true,
+  });
 }
 
 export async function PUT(req: NextRequest) {

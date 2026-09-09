@@ -1,12 +1,15 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { Sparkles, TrendingDown, TrendingUp } from "lucide-react";
+import { Lock, Sparkles, TrendingDown, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   fetchPerformanceSummary,
   clearAttempts,
   pickHighlights,
+  getCachedDiagnosis,
+  setCachedDiagnosis,
+  clearCachedDiagnosis,
   DIAGNOSIS_MIN_QUESTIONS,
   type Period,
   type PerformanceSummary,
@@ -30,7 +33,7 @@ const DISCIPLINE_OPTIONS: { value: DisciplineFilter; label: string }[] = [
   { value: "fisica", label: "Física" },
 ];
 
-type Mode = "idle" | "loading" | "result";
+type Mode = "idle" | "loading" | "result" | "locked";
 
 function filterSummary(summary: PerformanceSummary, filter: DisciplineFilter): PerformanceSummary {
   if (filter === "all") return summary;
@@ -61,7 +64,7 @@ function accuracyBadgeClass(accuracy: number) {
   return "bg-red-100 text-red-600";
 }
 
-export function DiagnosisPanel() {
+export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
   const [period, setPeriod] = useState<Period>("7d");
   const [disciplineFilter, setDisciplineFilter] = useState<DisciplineFilter>("all");
   const [mode, setMode] = useState<Mode>("idle");
@@ -77,6 +80,17 @@ export function DiagnosisPanel() {
     };
   }, []);
 
+  // Restaura o último diagnóstico gerado por essa conta, se existir, em vez de
+  // pedir pra gerar de novo toda vez que a página é reaberta.
+  useEffect(() => {
+    const cached = getCachedDiagnosis();
+    if (cached) {
+      setPeriod(cached.period);
+      setSummary(cached.summary);
+      setMode("result");
+    }
+  }, []);
+
   function handlePeriodChange(next: Period) {
     setPeriod(next);
     setMode("idle");
@@ -85,6 +99,11 @@ export function DiagnosisPanel() {
   }
 
   async function handleGenerate() {
+    if (!allowed) {
+      setMode("locked");
+      return;
+    }
+
     setMode("loading");
     setProgress(6);
 
@@ -97,6 +116,7 @@ export function DiagnosisPanel() {
     if (progressTimer.current) clearInterval(progressTimer.current);
     setProgress(100);
     setSummary(data);
+    if (data) setCachedDiagnosis({ period, summary: data });
     setTimeout(() => setMode("result"), 350);
   }
 
@@ -106,6 +126,7 @@ export function DiagnosisPanel() {
     setClearing(false);
     setConfirmingClear(false);
     if (ok) {
+      clearCachedDiagnosis();
       setMode("idle");
       setSummary(null);
     }
@@ -174,6 +195,19 @@ export function DiagnosisPanel() {
             />
           </div>
           <p className="mt-2 text-xs text-muted-foreground">Cruzando suas respostas por assunto...</p>
+        </div>
+      )}
+
+      {mode === "locked" && (
+        <div className="rounded-2xl border border-border bg-card p-8 text-center">
+          <span className="mx-auto mb-3 flex size-12 items-center justify-center rounded-full bg-cyan-50 text-cyan-600">
+            <Lock className="size-6" />
+          </span>
+          <p className="font-heading text-lg font-bold text-foreground">Esse recurso é exclusivo do F3Provas+</p>
+          <p className="mx-auto mt-2 max-w-sm text-sm text-muted-foreground">
+            O diagnóstico de desempenho por assunto é um benefício do F3Provas+. Adquira o plano pra desbloquear o
+            acompanhamento completo das suas respostas.
+          </p>
         </div>
       )}
 

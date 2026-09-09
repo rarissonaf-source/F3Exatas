@@ -31,6 +31,8 @@ const modules = [
       { title: "Porcentagem 2", youtubeUrl: "https://youtu.be/CZHjEqK76LQ" },
       { title: "Razão 2", youtubeUrl: "https://youtu.be/gNpvUCQuQf8" },
       { title: "Divisão proporcional 2", youtubeUrl: "https://youtu.be/fhpEogRAi2w" },
+      { title: "Porcentagem 3", youtubeUrl: "https://youtu.be/r_lfdhSCThk" },
+      { title: "Regra de três 2", youtubeUrl: "https://youtu.be/bOYNL34WhOY" },
     ],
   },
   { slug: "algebra-expressoes", name: "Álgebra e Expressões", videos: [] },
