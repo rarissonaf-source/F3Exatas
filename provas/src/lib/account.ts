@@ -5,6 +5,24 @@ export const CURRENT_KEY = "f3_current_account";
 export const PROFILE_CACHE_KEY = "f3_profile_cache";
 export const LEGACY_USER_KEY = "f3_user";
 export const SHARED_ACCOUNT = "_shared";
+// Mesma chave usada em auth-gate.js (hub) — como hub e F3Provas vivem na
+// mesma origem, uma sessão criada em um já é reconhecida no outro.
+export const SESSION_TOKEN_KEY = "f3_session_token";
+
+export function getSessionToken(): string {
+  if (typeof window === "undefined") return "";
+  return localStorage.getItem(SESSION_TOKEN_KEY) || "";
+}
+
+export function setSessionToken(token: string) {
+  if (typeof window === "undefined") return;
+  localStorage.setItem(SESSION_TOKEN_KEY, token);
+}
+
+export function clearSessionToken() {
+  if (typeof window === "undefined") return;
+  localStorage.removeItem(SESSION_TOKEN_KEY);
+}
 
 export interface F3Profile {
   name: string;
@@ -122,4 +140,5 @@ export async function unlockAccount(accountKey: string, seedProfile: F3Profile):
 export function logoutAccount() {
   localStorage.removeItem(AUTH_KEY);
   localStorage.removeItem(CURRENT_KEY);
+  localStorage.removeItem(SESSION_TOKEN_KEY);
 }

@@ -14,9 +14,21 @@ import {
   isAuthed,
   unlockAccount,
   logoutAccount,
+  getSessionToken,
+  setSessionToken,
 } from "@/lib/account";
 import { getLists, deleteList, type QuestionList } from "@/lib/question-lists";
 import { hasPerformanceAccess } from "@/lib/performance";
+import {
+  signup,
+  login as apiLogin,
+  apiLogout,
+  validateSession,
+  BR_STATES,
+  formatPhone,
+  fetchCitiesForState,
+  type SignupPayload,
+} from "@/lib/auth-api";
 
 const GATE_USER = "f3exatas";
 const GATE_PASS = "exatas2026";
@@ -24,7 +36,6 @@ const PHOTO_MAX_SIZE = 256;
 
 // Cole aqui o Client ID criado no Google Cloud Console (Credentials > OAuth client ID > Web application).
 const GOOGLE_CLIENT_ID = "940839767965-tipond9snpkqeubb55rahh8p21c5bqko.apps.googleusercontent.com";
-const ALLOWED_GOOGLE_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com"];
 
 declare global {
   interface Window {
@@ -89,6 +100,7 @@ export function AuthGate() {
   const [editOpen, setEditOpen] = useState(false);
   const [lists, setLists] = useState<QuestionList[]>([]);
 
+  const [mode, setMode] = useState<"login" | "signup">("login");
   const [user, setUser] = useState("");
   const [pass, setPass] = useState("");
   const [error, setError] = useState("");
@@ -96,13 +108,27 @@ export function AuthGate() {
   const googleBtnRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const authed = isAuthed();
-    setUnlocked(authed);
-    if (authed) {
+    async function check() {
+      const authed = isAuthed();
+      if (!authed) {
+        setChecked(true);
+        return;
+      }
+      const token = getSessionToken();
+      if (token) {
+        const valid = await validateSession(token);
+        if (!valid) {
+          logoutAccount();
+          setChecked(true);
+          return;
+        }
+      }
+      setUnlocked(true);
       setProfile(getCachedProfile());
       fetchCurrentProfile().then(setProfile);
+      setChecked(true);
     }
-    setChecked(true);
+    check();
   }, []);
 
   useEffect(() => {
@@ -113,7 +139,7 @@ export function AuthGate() {
   }, [checked, unlocked]);
 
   useEffect(() => {
-    if (!checked || unlocked || !GOOGLE_CLIENT_ID) return;
+    if (!checked || unlocked || mode !== "login" || !GOOGLE_CLIENT_ID) return;
     const script = document.createElement("script");
     script.src = "https://accounts.google.com/gsi/client";
     script.async = true;
@@ -124,11 +150,7 @@ export function AuthGate() {
         callback: (response) => {
           const payload = decodeJwtPayload(response.credential);
           const email = (payload.email || "").toLowerCase();
-          if (ALLOWED_GOOGLE_EMAILS.includes(email)) {
-            unlock(email, { name: payload.name || "", email, phone: "", picture: payload.picture || "" });
-          } else {
-            setError("E-mail não autorizado. Fale com a F3Exatas para liberar seu acesso.");
-          }
+          unlock(email, { name: payload.name || "", email, phone: "", picture: payload.picture || "" });
         },
       });
       window.google.accounts.id.renderButton(googleBtnRef.current, {
@@ -144,7 +166,7 @@ export function AuthGate() {
     return () => {
       script.remove();
     };
-  }, [checked, unlocked]);
+  }, [checked, unlocked, mode]);
 
   async function unlock(accountKey: string, seedProfile: F3Profile) {
     setUnlocked(true);
@@ -152,16 +174,32 @@ export function AuthGate() {
     setProfile(resolved);
   }
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
+    setError("");
+
     if (user.trim() === GATE_USER && pass === GATE_PASS) {
       unlock(SHARED_ACCOUNT, EMPTY_PROFILE);
-    } else {
-      setError("Usuário ou senha incorretos.");
+      return;
     }
+
+    const result = await apiLogin(user.trim(), pass);
+    if (!result.ok) {
+      setError(result.error || "E-mail ou senha incorretos.");
+      return;
+    }
+    if (result.token) setSessionToken(result.token);
+    unlock((result.email || "").toLowerCase(), {
+      name: result.name || "",
+      email: result.email || "",
+      phone: result.phone || "",
+      picture: "",
+    });
   }
 
   function handleLogout() {
+    const token = getSessionToken();
+    if (token) apiLogout(token).catch(() => {});
     logoutAccount();
     location.reload();
   }
@@ -299,9 +337,24 @@ export function AuthGate() {
     );
   }
 
+  if (mode === "signup") {
+    return (
+      <SignupView
+        onCancel={() => {
+          setMode("login");
+          setError("");
+        }}
+        onSuccess={() => {
+          setMode("login");
+          setHint("Conta criada! Entre com seu e-mail e senha pra acessar.");
+        }}
+      />
+    );
+  }
+
   return (
-    <div className="fixed inset-0 z-[999999] flex items-center justify-center bg-brand-navy-dark p-6">
-      <div className="w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
+    <div className="fixed inset-0 z-[999999] flex items-center justify-center bg-brand-navy-dark p-6 overflow-y-auto">
+      <div className="my-6 w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={`${BASE_PATH}/brand/f3-logo.jpg`}
@@ -328,7 +381,7 @@ export function AuthGate() {
           <div className="mb-3.5">
             <input
               type="text"
-              placeholder="Usuário"
+              placeholder="E-mail ou usuário"
               autoComplete="username"
               required
               value={user}
@@ -366,7 +419,11 @@ export function AuthGate() {
           <span className="text-xs text-white/25">&middot;</span>
           <button
             type="button"
-            onClick={() => setHint("Fale com a F3Exatas pra solicitar sua conta.")}
+            onClick={() => {
+              setMode("signup");
+              setError("");
+              setHint("");
+            }}
             className="font-heading text-xs font-bold text-[#8a93a8] hover:text-brand-orange"
           >
             Criar conta
@@ -374,6 +431,194 @@ export function AuthGate() {
         </div>
         {hint && <p className="mt-3 text-xs text-white/50">{hint}</p>}
       </div>
+    </div>
+  );
+}
+
+function SignupView({ onCancel, onSuccess }: { onCancel: () => void; onSuccess: () => void }) {
+  const [firstName, setFirstName] = useState("");
+  const [lastName, setLastName] = useState("");
+  const [email, setEmail] = useState("");
+  const [phone, setPhone] = useState("");
+  const [state, setState] = useState("");
+  const [city, setCity] = useState("");
+  const [cities, setCities] = useState<string[]>([]);
+  const [citiesLoading, setCitiesLoading] = useState(false);
+  const [password, setPassword] = useState("");
+  const [password2, setPassword2] = useState("");
+  const [error, setError] = useState("");
+  const [submitting, setSubmitting] = useState(false);
+
+  useEffect(() => {
+    if (!state) {
+      setCities([]);
+      return;
+    }
+    setCity("");
+    setCitiesLoading(true);
+    fetchCitiesForState(state)
+      .then(setCities)
+      .finally(() => setCitiesLoading(false));
+  }, [state]);
+
+  const passwordsMismatch = password2.length > 0 && password !== password2;
+
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    setError("");
+    if (passwordsMismatch) {
+      setError("As senhas não coincidem.");
+      return;
+    }
+
+    const payload: SignupPayload = {
+      firstName: firstName.trim(),
+      lastName: lastName.trim(),
+      email: email.trim(),
+      phone: phone.trim(),
+      state,
+      city,
+      password,
+    };
+
+    setSubmitting(true);
+    const result = await signup(payload);
+    setSubmitting(false);
+
+    if (!result.ok) {
+      setError(result.error || "Não foi possível criar a conta.");
+      return;
+    }
+    onSuccess();
+  }
+
+  return (
+    <div className="fixed inset-0 z-[999999] flex items-center justify-center overflow-y-auto bg-brand-navy-dark p-6">
+      <div className="my-6 w-full max-w-sm rounded-[22px] border border-white/10 bg-[#131a2c] p-10 text-center shadow-2xl">
+        <h1 className="mb-2 font-heading text-xl font-extrabold text-white">Criar conta</h1>
+        <p className="mb-5 text-sm leading-relaxed text-white/60">
+          Preencha seus dados para criar seu acesso ao F3Exatas.
+        </p>
+        <form onSubmit={handleSubmit} className="text-left">
+          <Field label="Nome">
+            <input
+              type="text"
+              required
+              value={firstName}
+              onChange={(e) => setFirstName(e.target.value)}
+              className={inputClass}
+            />
+          </Field>
+          <Field label="Sobrenome">
+            <input
+              type="text"
+              required
+              value={lastName}
+              onChange={(e) => setLastName(e.target.value)}
+              className={inputClass}
+            />
+          </Field>
+          <Field label="E-mail">
+            <input
+              type="email"
+              required
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              className={inputClass}
+            />
+          </Field>
+          <Field label="Número">
+            <input
+              type="tel"
+              inputMode="numeric"
+              placeholder="(00) 00000-0000"
+              required
+              value={phone}
+              onChange={(e) => setPhone(formatPhone(e.target.value))}
+              className={inputClass}
+            />
+          </Field>
+          <Field label="Estado">
+            <select
+              required
+              value={state}
+              onChange={(e) => setState(e.target.value)}
+              className={inputClass}
+            >
+              <option value="" disabled>Selecione</option>
+              {BR_STATES.map(([uf, name]) => (
+                <option key={uf} value={uf}>{name}</option>
+              ))}
+            </select>
+          </Field>
+          <Field label="Cidade">
+            <select
+              required
+              disabled={!state || citiesLoading}
+              value={city}
+              onChange={(e) => setCity(e.target.value)}
+              className={inputClass}
+            >
+              <option value="" disabled>
+                {!state ? "Selecione o estado primeiro" : citiesLoading ? "Carregando cidades..." : "Selecione a cidade"}
+              </option>
+              {cities.map((name) => (
+                <option key={name} value={name}>{name}</option>
+              ))}
+            </select>
+          </Field>
+          <Field label="Senha">
+            <input
+              type="password"
+              minLength={8}
+              required
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              className={inputClass}
+            />
+          </Field>
+          <Field label="Confirmar senha">
+            <input
+              type="password"
+              minLength={8}
+              required
+              value={password2}
+              onChange={(e) => setPassword2(e.target.value)}
+              className={inputClass}
+            />
+          </Field>
+          {passwordsMismatch && !error && (
+            <div className="mb-3.5 text-xs text-brand-orange">As senhas não coincidem.</div>
+          )}
+          <div className="mb-3.5 min-h-4 text-xs text-brand-orange">{error}</div>
+          <button
+            type="submit"
+            disabled={submitting}
+            className="w-full rounded-xl bg-gradient-to-br from-brand-orange to-brand-orange-dark py-3.5 font-heading text-sm font-bold text-white hover:opacity-90 disabled:opacity-60"
+          >
+            {submitting ? "Criando..." : "Criar conta"}
+          </button>
+          <button
+            type="button"
+            onClick={onCancel}
+            className="mt-2.5 w-full rounded-xl border border-white/15 py-3.5 font-heading text-sm font-bold text-white"
+          >
+            Cancelar
+          </button>
+        </form>
+      </div>
+    </div>
+  );
+}
+
+const inputClass =
+  "w-full rounded-xl border border-white/10 bg-[#f4f6fb] px-4 py-3 text-sm text-brand-navy outline-none focus:border-brand-orange";
+
+function Field({ label, children }: { label: string; children: React.ReactNode }) {
+  return (
+    <div className="mb-3.5">
+      <label className="mb-1.5 block font-heading text-xs font-bold text-white/55">{label}</label>
+      {children}
     </div>
   );
 }
@@ -458,7 +703,7 @@ function EditModal({
               type="tel"
               placeholder="(00) 00000-0000"
               value={phone}
-              onChange={(e) => setPhone(e.target.value)}
+              onChange={(e) => setPhone(formatPhone(e.target.value))}
               className="w-full rounded-xl border border-white/10 bg-[#f4f6fb] px-4 py-3 text-sm text-brand-navy outline-none focus:border-brand-orange"
             />
           </div>
