@@ -142,33 +142,6 @@ body {
   display: block;
 }
 
-.hero-arrow-btn {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  border: 1.5px solid rgba(255, 255, 255, 0.6);
-  background: transparent;
-  color: var(--white);
-  font-size: 18px;
-  line-height: 1;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background 0.3s ease, transform 0.3s ease;
-}
-
-.hero-arrow-btn:hover {
-  background: rgba(255, 255, 255, 0.2);
-  transform: translateY(-50%) scale(1.1);
-}
-
-.hero-arrow-left { left: 24px; }
-.hero-arrow-right { right: 24px; }
-
 /* ===== SEÇÃO: content-section (conteúdo programático) ===== */
 .content-section {
   max-width: 800px;
@@ -537,8 +510,9 @@ body {
 
 /* ===== RODAPÉ ===== */
 .site-footer {
+  --footer-pad-x: 24px;
   background: var(--navy);
-  padding: 70px 24px 24px;
+  padding: 70px var(--footer-pad-x) 0;
   display: flex;
   flex-wrap: wrap;
   gap: 50px;
@@ -616,9 +590,10 @@ body {
 .footer-bottom {
   width: 100%;
   text-align: center;
-  padding-top: 30px;
-  margin-top: 20px;
+  margin: 20px calc(-1 * var(--footer-pad-x)) calc(-1 * var(--footer-pad-x));
+  padding: 30px var(--footer-pad-x) var(--footer-pad-x);
   border-top: 1px solid rgba(255, 255, 255, 0.15);
+  background: var(--bg-deep);
   font-family: var(--font-body);
   font-size: 13px;
   color: rgba(255, 255, 255, 0.5);
@@ -700,18 +675,6 @@ body {
   height: 40px;
 }
 
-.phone-badge {
-  display: inline-block;
-  background: var(--white);
-  color: var(--navy);
-  font-family: var(--font-heading);
-  font-weight: 700;
-  font-size: 13px;
-  padding: 8px 14px;
-  border-radius: 20px;
-  align-self: flex-start;
-}
-
 /* ===== RESPONSIVO (celular) ===== */
 @media (max-width: 640px) {
   .hero-banner {
@@ -736,8 +699,6 @@ body {
   .hero-banner-right { flex: none; width: 100%; padding-left: 0; text-align: center; }
   .hero-tagline { font-size: 19px; }
   .hero-tagline span { display: inline; }
-
-  .hero-arrow-btn { display: none; }
 
   .section-title { font-size: 24px; }
   .section-subtitle { font-size: 14px; }
@@ -782,7 +743,7 @@ body {
   .cta-title { font-size: 24px; }
   .cta-subtitle { font-size: 14px; }
 
-  .site-footer { padding: 50px 20px 20px; gap: 32px; }
+  .site-footer { --footer-pad-x: 20px; padding: 50px var(--footer-pad-x) 0; gap: 32px; }
   .footer-col { min-width: 100%; }
   .footer-desc { max-width: 100%; }
 }

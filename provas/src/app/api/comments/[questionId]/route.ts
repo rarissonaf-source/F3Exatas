@@ -39,7 +39,9 @@ export async function POST(
   const text = typeof body.text === "string" ? body.text.trim() : "";
   const authorName = typeof body.authorName === "string" ? body.authorName.trim().slice(0, 120) : "Usuário F3Exatas";
   const authorEmail = typeof body.authorEmail === "string" ? body.authorEmail.trim().slice(0, 200) : "";
-  const authorPicture = typeof body.authorPicture === "string" ? body.authorPicture.trim().slice(0, 500) : "";
+  // Fotos do Google são URLs curtas, mas fotos enviadas em "Editar dados" viram
+  // uma imagem em base64 — por isso o limite acompanha o mesmo usado em /api/profile.
+  const authorPicture = typeof body.authorPicture === "string" ? body.authorPicture.trim().slice(0, 2_000_000) : "";
 
   if (!text || text.length > MAX_TEXT_LENGTH) {
     return NextResponse.json({ error: "Comentário inválido." }, { status: 400 });
