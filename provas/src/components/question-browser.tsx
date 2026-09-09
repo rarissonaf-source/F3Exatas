@@ -2,13 +2,18 @@
 
 import { useState, useEffect, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ArrowUp, Filter, Printer, Search, X } from "lucide-react";
+import Link from "next/link";
+import { ArrowUp, BarChart3, Filter, Printer, Search, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { QuestionCard } from "@/components/question-card";
 import { recordAnswerCheckAndMaybePrompt, MENTORIAS_URL } from "@/lib/checkin";
 import { staggerContainer, fadeUpItem } from "@/lib/motion";
 import { BASE_PATH } from "@/lib/base-path";
+import { fetchCurrentProfile } from "@/lib/account";
+import { hasPerformanceAccess } from "@/lib/performance";
 import type { ExamSource, Question } from "@/lib/types";
+
+const DIAGNOSIS_THRESHOLD = 3;
 
 // Ignora acentos/caixa na busca — "área" deve achar "area" e vice-versa.
 function normalize(text: string): string {
@@ -44,11 +49,17 @@ export function QuestionBrowser({
   const [yearFilter, setYearFilter] = useState<number | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
   const [searchOpen, setSearchOpen] = useState(false);
+  const [answeredCount, setAnsweredCount] = useState(0);
+  const [showDiagnosis, setShowDiagnosis] = useState(false);
   const searchInputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     if (searchOpen) searchInputRef.current?.focus();
   }, [searchOpen]);
+
+  useEffect(() => {
+    fetchCurrentProfile().then((profile) => setShowDiagnosis(hasPerformanceAccess(profile.email)));
+  }, []);
 
   function closeSearch() {
     setSearchOpen(false);
@@ -56,6 +67,7 @@ export function QuestionBrowser({
   }
 
   function handleAnswerChecked() {
+    setAnsweredCount((c) => c + 1);
     if (recordAnswerCheckAndMaybePrompt()) setCheckinOpen(true);
   }
 
@@ -200,6 +212,25 @@ export function QuestionBrowser({
           ))}
         </motion.div>
       )}
+
+      <AnimatePresence>
+        {showDiagnosis && answeredCount >= DIAGNOSIS_THRESHOLD && (
+          <motion.div
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 12 }}
+            className="fixed bottom-6 left-5 z-40 sm:left-8"
+          >
+            <Link
+              href="/meu-desempenho"
+              className="flex items-center gap-2 rounded-full bg-brand-navy px-5 py-3 font-heading text-sm font-bold text-white shadow-lg transition-transform hover:scale-105"
+            >
+              <BarChart3 className="size-4" />
+              Gerar diagnóstico
+            </Link>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       <AnimatePresence>
         {showBackToTop && (

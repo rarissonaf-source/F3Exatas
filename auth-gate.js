@@ -63,8 +63,8 @@
     ".f3acc-profile-name{font-family:'Montserrat',sans-serif;font-size:15px;font-weight:700;color:#f4f6fb;}" +
     ".f3acc-profile-email{font-size:12px;color:rgba(244,246,251,0.5);margin-top:2px;}" +
     ".f3acc-drawer nav{display:flex;flex-direction:column;gap:4px;}" +
-    ".f3acc-drawer nav button{width:100%;text-align:left;background:none;border:none;padding:11px 12px;border-radius:10px;font-family:'Montserrat',sans-serif;font-size:14px;font-weight:600;color:#f4f6fb;cursor:pointer;}" +
-    ".f3acc-drawer nav button:hover{background:rgba(255,255,255,0.06);}" +
+    ".f3acc-drawer nav button,.f3acc-drawer nav a{display:block;width:100%;text-align:left;background:none;border:none;padding:11px 12px;border-radius:10px;font-family:'Montserrat',sans-serif;font-size:14px;font-weight:600;color:#f4f6fb;cursor:pointer;text-decoration:none;box-sizing:border-box;}" +
+    ".f3acc-drawer nav button:hover,.f3acc-drawer nav a:hover{background:rgba(255,255,255,0.06);}" +
     ".f3acc-drawer nav button.f3acc-logout{color:#f38d33;}" +
     ".f3acc-photo-wrap{position:relative;width:76px;height:76px;margin:0 auto 14px;cursor:pointer;}" +
     ".f3acc-photo-wrap .f3acc-avatar{width:76px;height:76px;margin-bottom:0;font-size:24px;}" +
@@ -277,6 +277,9 @@
       '<div class="f3acc-profile-email">' + (profile.email || "") + "</div>" +
       "</div>" +
       "<nav>" +
+      (ADMIN_EMAILS.indexOf((profile.email || "").toLowerCase()) !== -1
+        ? '<a href="/provas/meu-desempenho" id="f3acc-desempenho-link">Meu desempenho</a>'
+        : "") +
       '<button type="button" id="f3acc-edit-btn">Editar dados</button>' +
       '<button type="button" class="f3acc-logout" id="f3acc-logout-btn">Sair da conta</button>' +
       "</nav>";
