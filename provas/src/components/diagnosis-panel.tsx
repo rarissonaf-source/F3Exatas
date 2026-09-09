@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import { Sparkles, TrendingDown, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   fetchPerformanceSummary,
@@ -21,12 +22,14 @@ const PERIOD_OPTIONS: { value: Period; label: string; nounLabel: string }[] = [
   { value: "30d", label: "Últimos 30 dias", nounLabel: "nos últimos 30 dias" },
 ];
 
+type Mode = "idle" | "loading" | "result";
+
 function topicName(discipline: string, slug: string) {
   return getTopicsForDiscipline(discipline).find((t) => t.slug === slug)?.name ?? slug;
 }
 
 function topicLabel(t: TopicPerformance) {
-  return `${topicName(t.discipline, t.topic)} (${DISCIPLINE_NAMES[t.discipline] ?? t.discipline})`;
+  return `${topicName(t.discipline, t.topic)} · ${DISCIPLINE_NAMES[t.discipline] ?? t.discipline}`;
 }
 
 function accuracyBadgeClass(accuracy: number) {
@@ -37,17 +40,41 @@ function accuracyBadgeClass(accuracy: number) {
 
 export function DiagnosisPanel() {
   const [period, setPeriod] = useState<Period>("7d");
+  const [mode, setMode] = useState<Mode>("idle");
+  const [progress, setProgress] = useState(0);
   const [summary, setSummary] = useState<PerformanceSummary | null>(null);
-  const [loading, setLoading] = useState(false);
   const [clearing, setClearing] = useState(false);
   const [confirmingClear, setConfirmingClear] = useState(false);
+  const progressTimer = useRef<ReturnType<typeof setInterval> | null>(null);
 
   useEffect(() => {
-    setLoading(true);
-    fetchPerformanceSummary(period)
-      .then(setSummary)
-      .finally(() => setLoading(false));
-  }, [period]);
+    return () => {
+      if (progressTimer.current) clearInterval(progressTimer.current);
+    };
+  }, []);
+
+  function handlePeriodChange(next: Period) {
+    setPeriod(next);
+    setMode("idle");
+    setSummary(null);
+    setConfirmingClear(false);
+  }
+
+  async function handleGenerate() {
+    setMode("loading");
+    setProgress(6);
+
+    progressTimer.current = setInterval(() => {
+      setProgress((p) => (p < 88 ? p + Math.random() * 14 : p));
+    }, 220);
+
+    const data = await fetchPerformanceSummary(period);
+
+    if (progressTimer.current) clearInterval(progressTimer.current);
+    setProgress(100);
+    setSummary(data);
+    setTimeout(() => setMode("result"), 350);
+  }
 
   async function handleClear() {
     setClearing(true);
@@ -55,7 +82,8 @@ export function DiagnosisPanel() {
     setClearing(false);
     setConfirmingClear(false);
     if (ok) {
-      setSummary({ period, totalAnswered: 0, totalCorrect: 0, totalWrong: 0, overallAccuracy: 0, byTopic: [] });
+      setMode("idle");
+      setSummary(null);
     }
   }
 
@@ -75,55 +103,111 @@ export function DiagnosisPanel() {
             key={opt.value}
             variant={period === opt.value ? "default" : "outline"}
             size="sm"
-            onClick={() => setPeriod(opt.value)}
+            onClick={() => handlePeriodChange(opt.value)}
           >
             {opt.label}
           </Button>
         ))}
       </div>
 
-      {loading && <p className="text-sm text-muted-foreground">Carregando...</p>}
-
-      {!loading && summary && summary.totalAnswered === 0 && (
-        <p className="text-sm text-muted-foreground">
-          Nenhuma questão respondida {periodOption.nounLabel} ainda. Responda algumas questões e volte aqui.
-        </p>
+      {mode === "idle" && (
+        <div className="rounded-2xl border border-border bg-card p-8 text-center">
+          <Sparkles className="mx-auto mb-3 size-8 text-cyan-600" />
+          <p className="font-heading text-lg font-bold text-foreground">Pronto pra ver seu diagnóstico?</p>
+          <p className="mx-auto mt-1 max-w-sm text-sm text-muted-foreground">
+            Cruzamos suas respostas {periodOption.nounLabel} pra mostrar onde você está mandando bem e onde precisa
+            reforçar.
+          </p>
+          <Button className="mt-5" onClick={handleGenerate}>
+            Gerar diagnóstico
+          </Button>
+        </div>
       )}
 
-      {!loading && summary && summary.totalAnswered > 0 && !hasEnoughData && (
-        <div className="mb-6 rounded-2xl border border-amber-200 bg-amber-50 p-5">
-          <p className="font-heading text-sm font-bold text-amber-800">
+      {mode === "loading" && (
+        <div className="rounded-2xl border border-border bg-card p-8 text-center">
+          <p className="font-heading text-sm font-bold text-foreground">Processando seu diagnóstico...</p>
+          <div className="mx-auto mt-4 h-2.5 w-full max-w-sm overflow-hidden rounded-full bg-muted">
+            <div
+              className="h-full rounded-full bg-gradient-to-r from-cyan-500 to-brand-orange transition-all duration-200 ease-out"
+              style={{ width: `${progress}%` }}
+            />
+          </div>
+          <p className="mt-2 text-xs text-muted-foreground">Cruzando suas respostas por assunto...</p>
+        </div>
+      )}
+
+      {mode === "result" && summary && summary.totalAnswered === 0 && (
+        <div className="rounded-2xl border border-border bg-card p-8 text-center">
+          <p className="text-sm text-muted-foreground">
+            Nenhuma questão respondida {periodOption.nounLabel} ainda. Responda algumas questões e gere de novo.
+          </p>
+        </div>
+      )}
+
+      {mode === "result" && summary && summary.totalAnswered > 0 && !hasEnoughData && (
+        <div className="rounded-2xl border border-amber-200 bg-amber-50 p-6">
+          <p className="font-heading text-base font-bold text-amber-800">
             Você respondeu {summary.totalAnswered} de {DIAGNOSIS_MIN_QUESTIONS} questões {periodOption.nounLabel}.
           </p>
-          <p className="mt-1 text-sm text-amber-700">
+          <p className="mt-1.5 text-sm text-amber-700">
             Responda mais {DIAGNOSIS_MIN_QUESTIONS - summary.totalAnswered} pra gerar um diagnóstico completo.
           </p>
         </div>
       )}
 
-      {!loading && summary && summary.totalAnswered > 0 && hasEnoughData && (
-        <div className="mb-6 rounded-2xl border border-border bg-card p-5">
-          <p className="font-heading text-base font-bold text-foreground">
-            Você respondeu {summary.totalAnswered} questões {periodOption.nounLabel}, acertando{" "}
-            {summary.overallAccuracy}%.
-          </p>
-          {strongest && (
-            <p className="mt-2 text-sm text-foreground">
-              🟢 <span className="font-semibold">Seu ponto forte:</span> {topicLabel(strongest)} — {strongest.correct}{" "}
-              acertos em {strongest.total} ({strongest.accuracy}%)
-            </p>
-          )}
-          {weakest && (
-            <p className="mt-1 text-sm text-foreground">
-              🔴 <span className="font-semibold">Você precisa reforçar:</span> {topicLabel(weakest)} —{" "}
-              {weakest.correct} acertos em {weakest.total} ({weakest.accuracy}%)
-            </p>
-          )}
-        </div>
-      )}
-
-      {!loading && summary && summary.totalAnswered > 0 && (
+      {mode === "result" && summary && summary.totalAnswered > 0 && hasEnoughData && (
         <>
+          <div className="mb-6 grid grid-cols-3 gap-3">
+            <div className="rounded-2xl border border-border bg-card p-5 text-center">
+              <div className="font-heading text-3xl font-extrabold text-foreground">{summary.totalAnswered}</div>
+              <div className="mt-1 text-xs font-medium text-muted-foreground">respondidas {periodOption.nounLabel}</div>
+            </div>
+            <div className="rounded-2xl border border-border bg-card p-5 text-center">
+              <div className="font-heading text-3xl font-extrabold text-emerald-600">{summary.overallAccuracy}%</div>
+              <div className="mt-1 text-xs font-medium text-muted-foreground">de acerto geral</div>
+            </div>
+            <div className="rounded-2xl border border-border bg-card p-5 text-center">
+              <div className="font-heading text-3xl font-extrabold text-red-500">{summary.totalWrong}</div>
+              <div className="mt-1 text-xs font-medium text-muted-foreground">erradas</div>
+            </div>
+          </div>
+
+          <div className="mb-6 grid gap-4 sm:grid-cols-2">
+            {strongest && (
+              <div className="rounded-2xl border border-emerald-200 bg-emerald-50 p-5">
+                <div className="flex items-center gap-2">
+                  <span className="flex size-9 items-center justify-center rounded-full bg-emerald-600 text-white">
+                    <TrendingUp className="size-4" />
+                  </span>
+                  <span className="font-heading text-xs font-bold uppercase tracking-wide text-emerald-700">
+                    Ponto forte
+                  </span>
+                </div>
+                <p className="mt-3 font-heading text-base font-bold text-emerald-900">{topicLabel(strongest)}</p>
+                <p className="mt-1 text-sm text-emerald-700">
+                  {strongest.correct} acertos em {strongest.total} questões ({strongest.accuracy}%)
+                </p>
+              </div>
+            )}
+            {weakest && (
+              <div className="rounded-2xl border border-red-200 bg-red-50 p-5">
+                <div className="flex items-center gap-2">
+                  <span className="flex size-9 items-center justify-center rounded-full bg-red-500 text-white">
+                    <TrendingDown className="size-4" />
+                  </span>
+                  <span className="font-heading text-xs font-bold uppercase tracking-wide text-red-600">
+                    Ponto a melhorar
+                  </span>
+                </div>
+                <p className="mt-3 font-heading text-base font-bold text-red-900">{topicLabel(weakest)}</p>
+                <p className="mt-1 text-sm text-red-700">
+                  {weakest.correct} acertos em {weakest.total} questões ({weakest.accuracy}%)
+                </p>
+              </div>
+            )}
+          </div>
+
           {Object.entries(byDiscipline).map(([discipline, topics]) => {
             const sorted = [...topics].sort((a, b) => a.accuracy - b.accuracy);
             return (
@@ -154,33 +238,35 @@ export function DiagnosisPanel() {
               </div>
             );
           })}
-
-          <div className="mt-8 border-t border-border pt-5">
-            {!confirmingClear ? (
-              <button
-                type="button"
-                onClick={() => setConfirmingClear(true)}
-                className="text-sm font-semibold text-muted-foreground underline-offset-2 hover:text-red-600 hover:underline"
-              >
-                Limpar estatísticas
-              </button>
-            ) : (
-              <div className="rounded-xl border border-red-200 bg-red-50 p-4">
-                <p className="text-sm font-semibold text-red-700">
-                  Isso apaga todo o histórico de respostas dessa conta, sem volta. Tem certeza?
-                </p>
-                <div className="mt-3 flex gap-2">
-                  <Button variant="destructive" size="sm" onClick={handleClear} disabled={clearing}>
-                    {clearing ? "Limpando..." : "Sim, limpar tudo"}
-                  </Button>
-                  <Button variant="outline" size="sm" onClick={() => setConfirmingClear(false)}>
-                    Cancelar
-                  </Button>
-                </div>
-              </div>
-            )}
-          </div>
         </>
+      )}
+
+      {mode === "result" && summary && summary.totalAnswered > 0 && (
+        <div className="mt-2 border-t border-border pt-5">
+          {!confirmingClear ? (
+            <button
+              type="button"
+              onClick={() => setConfirmingClear(true)}
+              className="text-sm font-semibold text-muted-foreground underline-offset-2 hover:text-red-600 hover:underline"
+            >
+              Limpar estatísticas
+            </button>
+          ) : (
+            <div className="rounded-xl border border-red-200 bg-red-50 p-4">
+              <p className="text-sm font-semibold text-red-700">
+                Isso apaga todo o histórico de respostas dessa conta, sem volta. Tem certeza?
+              </p>
+              <div className="mt-3 flex gap-2">
+                <Button variant="destructive" size="sm" onClick={handleClear} disabled={clearing}>
+                  {clearing ? "Limpando..." : "Sim, limpar tudo"}
+                </Button>
+                <Button variant="outline" size="sm" onClick={() => setConfirmingClear(false)}>
+                  Cancelar
+                </Button>
+              </div>
+            </div>
+          )}
+        </div>
       )}
     </div>
   );
