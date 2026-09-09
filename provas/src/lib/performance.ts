@@ -60,3 +60,43 @@ export async function fetchPerformanceSummary(period: Period): Promise<Performan
     return null;
   }
 }
+
+/** Apaga todo o histórico de respostas dessa conta (sem volta). */
+export async function clearAttempts(): Promise<boolean> {
+  const accountKey = getCurrentAccountKey();
+  try {
+    const res = await fetch(`${BASE_PATH}/api/attempts/clear`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ accountKey }),
+    });
+    return res.ok;
+  } catch {
+    return false;
+  }
+}
+
+// Abaixo do que isso de questões respondidas no período, o diagnóstico sugere
+// responder mais em vez de tentar tirar conclusões de uma amostra pequena.
+export const DIAGNOSIS_MIN_QUESTIONS = 20;
+// Um assunto só entra como "ponto forte"/"ponto fraco" se tiver pelo menos
+// essa quantidade de respostas — evita destacar um assunto injustamente com
+// base numa ou duas questões.
+const HIGHLIGHT_MIN_SAMPLE = 3;
+
+export function pickHighlights(byTopic: TopicPerformance[]): {
+  strongest: TopicPerformance | null;
+  weakest: TopicPerformance | null;
+} {
+  const eligible = byTopic.filter((t) => t.total >= HIGHLIGHT_MIN_SAMPLE);
+  if (eligible.length === 0) return { strongest: null, weakest: null };
+
+  const sorted = [...eligible].sort((a, b) => b.accuracy - a.accuracy);
+  const strongest = sorted[0];
+  const weakest = sorted[sorted.length - 1];
+  // Só faz sentido mostrar os dois se forem assuntos diferentes.
+  return {
+    strongest,
+    weakest: weakest.topic === strongest.topic && weakest.discipline === strongest.discipline ? null : weakest,
+  };
+}
