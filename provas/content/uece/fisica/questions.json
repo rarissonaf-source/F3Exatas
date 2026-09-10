@@ -13310,5 +13310,1669 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-q37",
+    "examId": "2014.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 37,
+    "statement": "Pelo filamento do farol de um carro passa uma corrente de 4 A. A tensão fornecida ao farol pela bateria automotiva é de 12 V. Note que nem toda a energia elétrica fornecida é convertida em energia luminosa, sendo parte dela perdida na forma de calor. Nessas condições, a potência, em Watts, fornecida à lâmpada é",
+    "options": [
+      {
+        "label": "a",
+        "text": "48.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-q38",
+    "examId": "2014.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 38,
+    "statement": "Duas únicas forças, uma de 3 N e outra de 4 N, atuam sobre uma massa puntiforme. Sobre o módulo da aceleração dessa massa, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "é o menor possível se os dois vetores força forem perpendiculares entre si.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é o maior possível se os dois vetores força tiverem mesma direção e mesmo sentido.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é o maior possível se os dois vetores força tiverem mesma direção e sentidos contrários.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é o menor possível se os dois vetores força tiverem mesma direção e mesmo sentido.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-q39",
+    "examId": "2014.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 39,
+    "statement": "Seja um recipiente metálico fechado e contendo ar comprimido em seu interior. Considere desprezíveis as deformações no recipiente durante o experimento descrito a seguir: a temperatura do ar comprimido é aumentada de 24°C para 40°C. Sobre esse gás, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "sua pressão permanece constante, pois já se trata de ar comprimido.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "sua pressão aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "sua energia interna diminui, conforme prevê a lei dos gases ideais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sua energia interna permanece constante, pois o recipiente não muda de volume e não há trabalho realizado pelo sistema.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-q40",
+    "examId": "2014.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 40,
+    "statement": "Considere uma esfera metálica em queda livre sob a ação somente da força peso. Sobre o módulo do momento linear desse corpo, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "aumenta durante a queda.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diminui durante a queda.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é constante e diferente de zero durante a queda.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é zero durante a queda.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-q41",
+    "examId": "2014.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 41,
+    "statement": "Considere dois corpos A e B de massas iguais a m. Sobre A, atua somente uma força elétrica, com módulo $F_E$, e sobre B, apenas seu peso, cujo módulo é $F_P$. Os módulos das acelerações dos corpos A e B são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$m \\cdot F_E$ e $F_P/m$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$F_E/m$ e $m \\cdot F_P$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$m \\cdot F_E$ e $m \\cdot F_P$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$F_E/m$ e $F_P/m$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-q42",
+    "examId": "2014.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 42,
+    "statement": "Considere uma onda transversal que se propaga em uma corda muito extensa. Sobre a velocidade de propagação dessa onda, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "permanece constante independente da tensão na corda.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "decresce com o aumento da tensão na corda.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "cresce com o aumento da tensão na corda.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "cresce com o aumento na densidade linear da corda.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q1",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "Uma criança desliza em um tobogã muito longo, com uma aceleração constante. Em um segundo momento, um adulto, com o triplo do peso da criança, desliza por esse mesmo tobogã, com aceleração também constante. Trate os corpos do adulto e da criança como massas puntiformes e despreze todos os atritos. A razão entre a aceleração do adulto e a da criança durante o deslizamento é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q2",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Um objeto de massa m se desloca sem atrito em um plano vertical próximo à superfície da Terra. Em um sistema de referência fixo ao solo, as coordenadas x e y do centro de massa desse objeto são dadas por $x(t) = 9,8\\cos(10t)$ e $y(t) = 9,8\\,\\text{sen}(10t)$. Assim, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a energia potencial gravitacional de m é crescente todo o tempo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a energia potencial gravitacional de m é constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a energia cinética de m é constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a energia cinética de m oscila com o tempo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q3",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 3,
+    "statement": "Uma bola está inicialmente presa ao teto no interior de um vagão de trem que se move em linha reta na horizontal e com velocidade constante. Em um dado instante, a bola se solta e cai sob a ação da gravidade. Para um observador no interior do vagão, a bola descreve uma trajetória vertical durante a queda, e para um observador parado fora do vagão, a trajetória é um arco de parábola. Assim, o trabalho realizado pela força peso durante a descida da bola é",
+    "options": [
+      {
+        "label": "a",
+        "text": "maior para o observador no solo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diferente de zero e com mesmo valor para ambos os observadores.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "maior para o observador no vagão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "zero para ambos os observadores.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-2fase-q4",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 4,
+    "statement": "Considere um automóvel de passeio de massa m e um caminhão de massa M. Assuma que o caminhão tem velocidade de módulo V. Qual o módulo da velocidade do automóvel para que sua energia cinética seja a mesma do caminhão?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(M/m)^{1/2}\\,V$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{M}{m}V$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\left(\\dfrac{M}{m}V\\right)^{1/2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{M}{m}V^{1/2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q5",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 5,
+    "statement": "Em um parque de diversões, uma roda gigante gira com velocidade angular constante. De modo simplificado, pode-se descrever o brinquedo como um disco vertical e as pessoas como massas puntiformes presas na sua borda. A força peso exerce sobre uma pessoa um torque em relação ao ponto central do eixo da roda gigante. Sobre esse torque, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "é zero nos pontos mais baixo e mais alto da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é não nulo e assume um valor máximo no ponto mais alto e um mínimo no ponto mais baixo da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é não nulo e assume um valor máximo no ponto mais baixo e um mínimo no ponto mais alto da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é não nulo e tem valores iguais no ponto mais baixo e no mais alto da trajetória.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q6",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 6,
+    "statement": "Um ônibus trafega horizontalmente em linha reta e com velocidade constante, de módulo V. Durante a viagem chove, além de haver um vento soprando na mesma direção do movimento do ônibus, conforme a figura abaixo. Isso faz com que os pingos de chuva caiam com velocidade v, em módulo, seguindo trajetórias retilíneas que fazem um ângulo $0° < \\theta < 90°$ com a vertical. Considere as velocidades medidas em relação ao solo. Para que os pingos de chuva não atinjam diretamente a parte traseira vertical do ônibus, deve-se ter",
+    "options": [
+      {
+        "label": "a",
+        "text": "$v > V/\\text{sen}\\,\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$v > 2V/\\text{sen}\\,\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$v < V/\\text{sen}\\,\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$v = 2V/\\text{sen}\\,\\theta$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.1-2fase/qf6.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q7",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 7,
+    "statement": "Três sólidos, um cubo, um cilindro e uma esfera, têm massas iguais e distribuídas homogeneamente ao longo de seus volumes. Os sólidos flutuam parcialmente submersos em um mesmo líquido. A relação entre os volumes submersos de cada objeto é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\Delta V_{CUB} > \\Delta V_{CIL} > \\Delta V_{ESF}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\Delta V_{CUB} = \\Delta V_{CIL} > \\Delta V_{ESF}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\Delta V_{CUB} > \\Delta V_{CIL} = \\Delta V_{ESF}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\Delta V_{CUB} = \\Delta V_{CIL} = \\Delta V_{ESF}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-2fase-q8",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 8,
+    "statement": "Uma pessoa, do alto de um prédio de altura H, joga uma bola verticalmente para baixo, com uma certa velocidade de lançamento. A bola atinge o solo com velocidade cujo módulo é $V_I$. Em um segundo experimento, essa mesma bola é jogada do mesmo ponto no alto do prédio, verticalmente para cima e com mesmo módulo da velocidade de lançamento que no primeiro caso. A bola sobe até uma altura H acima do ponto de lançamento e chega ao solo com velocidade cujo módulo é $V_{II}$. Desprezando todos os atritos e considerando as trajetórias retilíneas, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$V_I = 2V_{II}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$V_I = V_{II}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$V_I = V_{II}/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$V_I = V_{II}/4$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-2fase-q9",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 9,
+    "statement": "Considere um avião que decola de um ponto A, sobre o equador, e viaja sempre na mesma latitude para oeste, pousando em outro ponto B. Em seguida, o avião retorna ao ponto de partida pela mesma trajetória e nas mesmas condições de voo, como: velocidade e massa total da aeronave, ausência de ventos e quaisquer outros fatores que possam determinar as características do deslocamento, do ponto de vista da mecânica newtoniana. A duração das viagens é a mesma, mesmo que em uma o avião se desloque no mesmo sentido de rotação da Terra e na outra, em sentido contrário. Tomando um sistema de referência inercial fora da Terra, essa igualdade no tempo de voo se explica porque, na viagem para oeste, o avião",
+    "options": [
+      {
+        "label": "a",
+        "text": "sofre ação de força gravitacional, devido à rotação da Terra, que causa maior aceleração no sentido leste-oeste.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "parte com velocidade de módulo menor que no retorno.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "parte com velocidade de módulo maior que no retorno.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sofre ação de força gravitacional, devido à rotação da Terra, que causa menor aceleração no sentido leste-oeste.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q10",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 10,
+    "statement": "Uma esfera de massa m é lançada do solo verticalmente para cima, com velocidade inicial V, em módulo, e atinge o solo 1 s depois. Desprezando todos os atritos, a variação no momento linear entre o instante do lançamento e o instante imediatamente antes do retorno ao solo é, em módulo,",
+    "options": [
+      {
+        "label": "a",
+        "text": "2mV.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mV.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$mV^2/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "mV/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q11",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 11,
+    "statement": "Uma bola é lançada verticalmente para cima, com energia cinética $E_c$. No ponto mais alto da trajetória, sua energia potencial é $E_p$. Considere que, do lançamento ao ponto mais alto, o atrito da bola com o ar tenha causado uma dissipação de energia mecânica de p% em relação ao valor inicial. Assim, p é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$100[(E_p/E_c) - 1]$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$100\\,E_p/E_c$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$100\\,E_c/E_p$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$100[1 - E_p/E_c]$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-2fase-q12",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 12,
+    "statement": "Três chapas retangulares rígidas repousam em um plano horizontal, e podem girar livremente em torno de eixos verticais passando por P. As dimensões das chapas são identificadas na figura a seguir, em termos do comprimento L. Nos pontos A, B e C, são aplicadas três forças horizontais iguais. A partir da segunda Lei de Newton, pode-se mostrar que a aceleração angular inicial de módulo $\\alpha \\neq 0$ de cada chapa é proporcional ao momento da respectiva força em relação ao eixo de rotação de cada corpo. Desprezando todos os atritos, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4\\alpha_A = 2\\alpha_B = \\alpha_C$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\alpha_A = 2\\alpha_B = 4\\alpha_C$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\alpha_A = \\alpha_B = \\alpha_C$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\alpha_A}{4} = \\dfrac{\\alpha_B}{2} = 2\\alpha_C$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.1-2fase/qf12.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-2fase-q13",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 13,
+    "statement": "Considere um gás ideal que passa por dois estados, através de um processo isotérmico reversível. Sobre a pressão P e o volume V desse gás, ao longo desse processo, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "PV é crescente de um estado para outro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "PV é constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "PV é decrescente de um estado para outro.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "PV é inversamente proporcional à temperatura do gás.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-2fase-q14",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 14,
+    "statement": "Uma massa m presa a uma mola de constante elástica k oscila de modo que a coordenada posição da massa seja dada por $x = X_{max}\\,\\text{sen}\\left(\\sqrt{k/m}\\,t\\right)$ e a velocidade $v = \\sqrt{k/m}\\,X_{max}\\,\\cos\\left(\\sqrt{k/m}\\,t\\right)$. Assim, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a energia cinética máxima é dada por $\\dfrac{1}{2}\\dfrac{k}{m}X_{max}^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a energia mecânica do sistema é dada por $kX_{max}^2/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a energia potencial elástica máxima é dada por $\\dfrac{1}{2}kX_{max}^2\\,\\text{sen}^2\\left(\\sqrt{k/m}\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a energia cinética mínima é dada por $\\dfrac{-1}{2}kX_{max}^2\\,\\cos^2\\left(\\sqrt{k/m}\\right)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-2fase-q15",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 15,
+    "statement": "Um corpo de massa m, em queda livre e sob ação de gravidade g constante, parte do repouso e descreve uma trajetória vertical. Durante a queda, a resistência do ar impõe uma força de atrito proporcional ao módulo V da velocidade do corpo, o que faz a massa se deslocar com aceleração variável. O módulo da força de resistência é dado por bV, onde b é uma constante de proporcionalidade e depende, dentre outros fatores, da forma do corpo. A segunda Lei de Newton, aplicada ao corpo, mostra que o módulo da força resultante é força = mg − bV = mA, onde A é o módulo da aceleração. Note que, no instante inicial, V = 0 e a aceleração fica simplesmente A = g. À medida que o tempo passa, V aumenta e A diminui até um instante de tempo em que a velocidade se manterá constante. Esta velocidade, chamada de velocidade terminal, tem módulo igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "mg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "bmg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "b/m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "mg/b.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-2fase-q16",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 16,
+    "statement": "Dois cubos de mesma densidade e tamanhos diferentes repousam sobre uma mesa horizontal e mantêm contato entre si por uma de suas faces. A aresta de um dos cubos mede o dobro da aresta do outro. Em um dado instante, uma força constante $\\vec F$, horizontal, é aplicada sobre o cubo menor que, por sua vez, empurra o maior, conforme a figura a seguir. Despreze todos os atritos. A razão entre o módulo de $\\vec F$ e o módulo da força de contato entre os cubos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9/8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.1-2fase/qf16.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-2fase-q17",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 17,
+    "statement": "Considere um cubo imerso em água, conforme a figura a seguir. No ponto destacado de uma das faces desse cubo, há uma força devido à pressão hidrostática exercida pela água. Assinale o vetor que melhor representa essa força.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\vec F_I$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\vec F_{II}$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\vec F_{III}$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\vec F_{IV}$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.1-2fase/qf17.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q18",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 18,
+    "statement": "Uma boia completamente submersa em um tanque contendo água está presa ao fundo por uma linha inextensível e de massa desprezível. Esse tanque está sobre uma mesa horizontal e se desloca sem atrito sob a ação da força peso e de uma força constante também horizontal, conforme a figura a seguir. A aceleração horizontal do tanque tem módulo ligeiramente menor do que o módulo da aceleração da gravidade. Assinale a opção que melhor representa o ângulo de inclinação da linha que prende a boia.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\beta$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\alpha$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\theta$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\phi$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.1-2fase/qf18.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q19",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 19,
+    "statement": "Um aquecedor elétrico tem potência de 12 W e, de acordo com o fabricante, deve ser ligado a uma tensão de 6 V. O equipamento consiste de uma bolsa com isolamento térmico e uma resistência ôhmica para gerar calor por efeito Joule. Para ligá-lo em uma bateria automotiva de 12 V, faz-se um arranjo conhecido como divisor de tensão, conforme a figura a seguir. As resistências $R_1$ e $R_2$ devem ser escolhidas de modo que o aquecedor funcione conforme as especificações do fabricante. Assim, a escolha dos resistores deve ser tal que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$R_2 < R_1$ e $R_1 < 3\\,\\Omega$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$R_2 < R_1$ e $R_1 > 3\\,\\Omega$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$R_2 = R_1$ e $R_1 > 3\\,\\Omega$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$R_2 > R_1$ e $R_1 < 3\\,\\Omega$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.1-2fase/qf19.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-2fase-q20",
+    "examId": "2014.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Uma onda sonora de 170 Hz se propaga no sentido norte-sul, com uma velocidade de 340 m/s. Nessa mesma região de propagação, há uma onda eletromagnética com comprimento de onda $2 \\times 10^6\\,\\mu$m viajando em sentido contrário. Assim, é correto afirmar-se que as duas ondas têm",
+    "options": [
+      {
+        "label": "a",
+        "text": "mesmo comprimento de onda, e pode haver interferência construtiva.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mesmo comprimento de onda, e pode haver interferência destrutiva.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "mesmo comprimento de onda, e não pode haver interferência.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "diferentes comprimentos de onda, e não pode haver interferência.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-q37",
+    "examId": "2014.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 37,
+    "statement": "Sobre a segunda lei de Newton, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a força entre duas massas puntiformes é proporcional à distância entre elas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a força resultante em uma massa puntiforme é proporcional a sua aceleração.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a força resultante em uma massa puntiforme é inversamente proporcional a sua aceleração.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a força entre duas massas puntiformes é proporcional ao quadrado da distância entre elas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-q38",
+    "examId": "2014.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 38,
+    "statement": "Uma lâmpada incandescente é ligada a uma bateria automotiva de 12 V por dois fios condutores ideais. Sobre esses condutores, é correto afirmar que passa por eles",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma corrente elétrica cuja intensidade depende da resistência do filamento da lâmpada.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma corrente elétrica de 12 V.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma tensão elétrica cuja intensidade depende da resistência do filamento da lâmpada.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma corrente elétrica de 12 W.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-q39",
+    "examId": "2014.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 39,
+    "statement": "Um gás ideal é mantido em um reservatório esférico de raio constante constituído de material bom condutor de calor. É correto afirmar que a pressão desse gás",
+    "options": [
+      {
+        "label": "a",
+        "text": "diminui se houver aumento de temperatura do recipiente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "aumenta com a temperatura do recipiente até que o gás mude para o estado líquido.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "mantém-se constante independente da temperatura do recipiente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "aumenta se houver aumento de temperatura do recipiente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-q40",
+    "examId": "2014.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "Duas placas metálicas idênticas estão submetidas a potenciais elétricos diferentes. As placas são sobrepostas uma à outra com um isolante elétrico entre elas. O dispositivo assim formado comporta-se como um(a)",
+    "options": [
+      {
+        "label": "a",
+        "text": "indutor.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "resistor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "capacitor.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "bateria.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-q41",
+    "examId": "2014.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 41,
+    "statement": "A densidade de um sólido incompressível é",
+    "options": [
+      {
+        "label": "a",
+        "text": "independente de sua massa.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "inversamente proporcional a sua massa.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "proporcional ao seu volume.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "proporcional à razão entre seu volume e sua massa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-q42",
+    "examId": "2014.2",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 42,
+    "statement": "Um fio condutor reto é percorrido por uma corrente elétrica constante, que gera um campo magnético nas suas proximidades. Nessa situação, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "as linhas de campo magnético são paralelas à direção do fio, e o campo elétrico no interior do condutor é diferente de zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as linhas de campo magnético são perpendiculares à direção do fio, e o campo elétrico no interior do condutor é zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "as linhas de campo magnético são paralelas à direção do fio, e o campo elétrico no interior do condutor é zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "as linhas de campo magnético são perpendiculares à direção do fio, e o campo elétrico no interior do condutor é diferente de zero.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q1",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Uma bola é lançada do solo verticalmente para cima. Durante a subida e a descida do objeto, considere desprezíveis todos os atritos, assuma que o diâmetro da bola é muito menor que o comprimento da sua trajetória e que a única força atuando no objeto após o lançamento é a força da gravidade. Sobre o vetor aceleração da bola, é correto afirmar que tem direção vertical e sentido",
+    "options": [
+      {
+        "label": "a",
+        "text": "para cima tanto na subida quanto na descida.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "para baixo tanto na subida quanto na descida.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "para cima na subida e para baixo na descida.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "para baixo na subida e para cima na descida.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q2",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Considere os sistemas massa-mola ilustrados na figura a seguir. As massas, nos dois sistemas, são iguais, as molas são idênticas, de constante elástica k e, quando livres, têm comprimento L. No sistema I, as molas estão igualmente comprimidas, e no II, estão igualmente distendidas, sendo possível movimento apenas na direção da linha que une os pontos de fixação das molas. Considere que as massas sejam deslocadas a uma distância x de suas posições de equilíbrio. Considere também que x é muito menor que a compressão inicial das molas em I e muito menor que a distensão inicial em II. Os módulos das forças resultantes nas massas no sistema I e II são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "kx e kx.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2kx e 2kx.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2kx e kx.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "kx e 2kx.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.2-2fase/qf2.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q3",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 3,
+    "statement": "Comprimidos efervescentes em um copo d'água liberam gás carbônico na forma de bolhas que sobem para a superfície do líquido. A força responsável pela subida das bolhas é denominada",
+    "options": [
+      {
+        "label": "a",
+        "text": "peso.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "atrito.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "empuxo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "hidrostática.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q4",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 4,
+    "statement": "Considere o campo elétrico gerado por duas cargas elétricas puntiformes, de valores iguais e sinais contrários, separadas por uma distância d. Sobre esse vetor campo elétrico nos pontos equidistantes das cargas, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem a direção perpendicular à linha que une as duas cargas e o mesmo sentido em todos esses pontos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem a mesma direção da linha que une as duas cargas, mas varia de sentido para cada ponto analisado.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem a direção perpendicular à linha que une as duas cargas, mas varia de sentido para cada ponto analisado.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem a mesma direção da linha que une as duas cargas e o mesmo sentido em todos esses pontos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q5",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 5,
+    "statement": "Dois carros se deslocam em linha reta e com velocidade constante ao longo de duas estradas perpendiculares entre si, conforme a figura a seguir. O módulo da velocidade do carro 1 em relação ao 2 nos tempos t e $t + \\Delta t$ é, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{|\\vec V_1(t)|^2 + |\\vec V_2(t)|^2}$ e $\\sqrt{|\\vec V_1(t+\\Delta t)|^2 + |\\vec V_2(t+\\Delta t)|^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{|\\vec V_1(t)|^2 - |\\vec V_2(t)|^2}$ e $\\sqrt{|\\vec V_1(t+\\Delta t)|^2 - |\\vec V_2(t+\\Delta t)|^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{|\\vec V_1(t)|^2 - |\\vec V_2(t)|^2}$ e $\\sqrt{|\\vec V_1(t+\\Delta t)|^2 + |\\vec V_2(t+\\Delta t)|^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{|\\vec V_1(t)|^2 + |\\vec V_2(t)|^2}$ e $\\sqrt{|\\vec V_1(t+\\Delta t)|^2 - |\\vec V_2(t+\\Delta t)|^2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.2-2fase/qf5.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q6",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 6,
+    "statement": "A potência dissipada por efeito joule em um resistor de R Ohms ligado a uma tensão de x Volts pode ser calculada como $x^2/R$. Assim, a potência pode ser medida em",
+    "options": [
+      {
+        "label": "a",
+        "text": "Volt/Ohm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Ohm/Volt.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Joule·segundo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Joule/segundo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q7",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 7,
+    "statement": "Uma haste metálica reta de comprimento $L_0$ e coeficiente de dilatação linear $\\alpha$ é acomodada entre duas paredes rígidas. Após ter sua temperatura aumentada de $\\Delta T$, a haste se dilata e adquire a forma de um arco de círculo com um ângulo correspondente de $\\theta$ radianos. Qual o raio desse arco de círculo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$L_0\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$L_0(1+\\alpha\\Delta T)/\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$L_0\\alpha\\Delta T$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$L_0\\alpha\\Delta T/\\theta$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q8",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 8,
+    "statement": "A ponta da hélice de um cata-vento descreve um movimento circular uniforme. Os vetores velocidade de um ponto localizado nessa extremidade nos tempos t e $t+\\Delta t$ são representados na figura a seguir. Nesta figura, os vetores velocidade têm suas origens posicionadas sobre a ponta da hélice nos tempos t e $t+\\Delta t$. Assim, é correto afirmar que o ponto gira no sentido",
+    "options": [
+      {
+        "label": "a",
+        "text": "horário e a trajetória tem raio 1 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "horário e a trajetória tem raio 3 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "anti-horário e a trajetória tem raio 4 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "anti-horário e a trajetória tem raio 3 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.2-2fase/qf8.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q9",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 9,
+    "statement": "Um carro trafega com velocidade constante, em módulo, em uma estrada onde um trecho pode ser aproximado por uma circunferência no plano vertical, conforme a figura a seguir. Ao longo do trecho em que essa aproximação é válida, a soma de todas as forças atuando no carro, incluindo o vetor força normal da estrada sobre o carro e o vetor força peso do carro, é um vetor que aponta na direção",
+    "options": [
+      {
+        "label": "a",
+        "text": "tangente à trajetória e tem módulo constante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "do centro da trajetória e tem módulo variável.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "do centro da trajetória e tem módulo constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tangente à trajetória e tem módulo variável.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.2-2fase/qf9.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q10",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 10,
+    "statement": "Um bloco de madeira é arrastado em linha reta sobre um piso horizontal. Considere que o bloco tem peso 10 N, o coeficiente de atrito estático entre o bloco e o piso é 0,7 e o cinético é 0,6. Inicialmente a força horizontal que move o bloco é de 8 N. Em um dado instante, esta força é reduzida instantaneamente para metade de seu valor. Transcorrido um tempo muito grande após essa redução, pode-se afirmar corretamente que a aceleração do bloco é",
+    "options": [
+      {
+        "label": "a",
+        "text": "zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "metade da aceleração antes da redução.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o dobro da aceleração antes da redução.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "igual em todos os instantes de tempo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q11",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 11,
+    "statement": "Uma onda sonora vinda de uma sirene chega a um determinado ponto próximo a um ouvinte. É correto afirmar que, em decorrência dessa onda sonora, nesse ponto há",
+    "options": [
+      {
+        "label": "a",
+        "text": "variação com o tempo na pressão e na densidade do ar.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "variação com o tempo na pressão e não na densidade do ar.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "variação com o tempo na densidade e não na pressão do ar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "invariância na pressão e na densidade do ar.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q12",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "Considere uma onda sonora gerada por uma fonte puntiforme e que se propaga em três dimensões em um meio isotrópico, não dispersivo e não dissipativo. Sobre a frente de onda próximo à fonte geradora, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "é plana e tem velocidade constante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é esférica e tem velocidade constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é esférica e tem velocidade variável.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é plana e tem velocidade variável.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q13",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 13,
+    "statement": "Sobre a refração de ondas, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "somente ocorre em ondas mecânicas, pois a onda eletromagnética pode se propagar no vácuo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "somente ocorre em ondas eletromagnéticas no vácuo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "no caso de ondas mecânicas, pode ocorrer somente nas ondas sonoras.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "pode ocorrer tanto em ondas mecânicas quanto em ondas eletromagnéticas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q14",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 14,
+    "statement": "Considere uma esfera de raio R sobre um plano inclinado próximo à superfície da Terra. A esfera está inicialmente parada e na iminência de iniciar uma descida sem deslizamento de sua superfície em relação ao plano. Isto ocorre pelo efeito da força de atrito, cujo módulo é F. Sobre a esfera também atuam a força peso e a normal, cujos módulos são P e N, respectivamente. Os módulos dos torques das forças de atrito, peso e normal em relação ao eixo de rotação da esfera são respectivamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "FR, PR e NR.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "FR, 0 e NR.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "FR, 0 e 0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0, 0 e NR.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q15",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 15,
+    "statement": "Um paraquedista desce verticalmente com velocidade constante em relação ao solo. No ponto exato onde ocorrerá seu pouso, há um espectador imóvel. O vetor velocidade do paraquedista em relação ao observador é $\\vec V_P$, e do espectador em relação ao paraquedista é $\\vec V_E$. Assim, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\vec V_P = \\vec V_E$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$|\\vec V_P| > |-\\vec V_E|$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$|\\vec V_P| < |-\\vec V_E|$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\vec V_P = -\\vec V_E$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q16",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 16,
+    "statement": "Um sistema massa-mola oscila sem atrito. A figura a seguir ilustra alguns instantâneos desse movimento durante um tempo inferior a um período de oscilação. As duas linhas tracejadas indicam os extremos do deslocamento das massas. As setas indicam a direção e o sentido do vetor velocidade da massa. Nos instantâneos 1 e 4, a mola está parcialmente comprimida; em 2 e 3, a mola está parcialmente distendida. O trabalho realizado pela força elástica em um intervalo de tempo muito pequeno e em torno de cada um dos instantâneos é $\\tau_1$, $\\tau_2$, $\\tau_3$ e $\\tau_4$. Assim, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\tau_1 > 0, \\tau_2 < 0, \\tau_3 > 0$ e $\\tau_4 < 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\tau_1 < 0, \\tau_2 > 0, \\tau_3 < 0$ e $\\tau_4 > 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\tau_1 < 0, \\tau_2 < 0, \\tau_3 < 0$ e $\\tau_4 < 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\tau_1 > 0, \\tau_2 > 0, \\tau_3 > 0$ e $\\tau_4 > 0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.2-2fase/qf16.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q17",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 17,
+    "statement": "Uma superfície plana tem suas duas faces refletoras, conforme a figura a seguir. Dois objetos muito pequenos, desenhados em linhas cheias, estão em lados opostos e a uma distância d da superfície. O conjunto dos pontos formados pelos objetos e suas respectivas imagens refletidas nas superfícies define os vértices de um quadrado. As imagens foram desenhadas com linhas tracejadas. Qual a distância entre os objetos?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$d\\sqrt5$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2d.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2d\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5d.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.2-2fase/qf17.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q18",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 18,
+    "statement": "Dois chuveiros elétricos têm potências $P_1 = 1,1$ kW e $P_2 = 2,2$ kW quando ligados à tomada com tensão de 220 V. Esses dispositivos são essencialmente resistores ôhmicos, conforme ilustra a figura a seguir. Em uma residência com dois banheiros, um instalador liga os chuveiros entre si segundo duas configurações: em série ou em paralelo. É correto afirmar que, se usados simultaneamente, a potência total consumida pelos chuveiros seria",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P_1 + P_2$ para a ligação em série e $P_1P_2/(P_1+P_2)$ para a ligação em paralelo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$P_1 + P_2$ para a ligação em paralelo e $P_1P_2/(P_1+P_2)$ para a ligação em série.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P_1 + P_2$ para a ligação em paralelo e $P_1 + P_2$ para a ligação em série.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$P_1 + P_2$ para a ligação em paralelo e $P_2 - P_1$ para a ligação em série.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.2-2fase/qf18.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q19",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 19,
+    "statement": "Uma história em quadrinhos fala de um personagem que salta de uma altura de 30 m acima do solo, preso por um fio esticado e inextensível de 20 m de comprimento, realizando uma trajetória circular conforme a figura a seguir. O ponto de fixação do fio também está a 30 m do solo. Despreze as forças de atrito. Considerando que o módulo da aceleração da gravidade é 10 m/s², qual a velocidade (em m/s) do personagem no ponto mais baixo da trajetória?",
+    "options": [
+      {
+        "label": "a",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "200.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "300.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.2-2fase/qf19.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q20",
+    "examId": "2014.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 20,
+    "statement": "Uma carga puntiforme está fixa na origem de um sistema de coordenadas cartesianas. É correto afirmar que o potencial elétrico gerado por essa carga é constante em todos os pontos de coordenadas (x, y) tais que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x^2 + y^2 = $ constante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x + y = $ constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{x^2} + \\dfrac{1}{y^2} = $ constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{x} + \\dfrac{1}{y} = $ constante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]

@@ -11518,5 +11518,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-q15",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 15,
+    "statement": "Em uma corrida de taxi, é cobrado um valor inicial fixo, chamado de bandeirada, mais uma quantia proporcional aos quilômetros percorridos. Se por uma corrida de 8 km paga-se R$ 28,50 e por uma corrida de 5 km paga-se R$ 19,50, então o valor da bandeirada é",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 7,50.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 6,50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 5,50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 4,50.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-q16",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Uma bicicleta, cuja medida do raio da circunferência de cada pneu é 35 cm, percorreu uma distância de 100 m, em linha reta, sem deslizamento de pneu ao longo do percurso. O número inteiro que indica, de forma mais aproximada, a quantidade de giros completos de cada pneu da bicicleta, ao longo do trajeto realizado, é (Observação: use 3,14 para o valor de $\\pi$.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "42.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "53.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-q17",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 17,
+    "statement": "Um hotel possui exatamente 58 unidades de hospedagem assim distribuídas: m quartos duplos, p quartos triplos e q suítes para quatro pessoas. A capacidade máxima de lotação do hotel é 166 pessoas, sendo que destas, 40 lotam completamente todas as suítes. A diferença entre o número de quartos triplos e o número de quartos duplos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-q18",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "Sejam $f: \\mathbb{R} \\to \\mathbb{R}$ a função definida por $f(x) = x^2 + x + 1$, P e Q pontos do gráfico de f tais que o segmento de reta PQ é horizontal e tem comprimento igual a 4 m. A medida da distância do segmento PQ ao eixo das abscissas é (Observação: a escala usada nos eixos coordenados adota o metro como unidade de comprimento.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,25 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,05 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4,95 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,75 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-q19",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 19,
+    "statement": "Seja $(a_n)$ uma progressão aritmética crescente, de números naturais, cujo primeiro termo é igual a 4 e a razão é igual a r. Se existe um termo desta progressão igual a 25, então a soma dos possíveis valores de r é",
+    "options": [
+      {
+        "label": "a",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "28.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-q20",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 20,
+    "statement": "Usando a expressão clássica do desenvolvimento da potência $(a+b)^n$, onde a e b são números reais e n é um número natural, pode-se resolver facilmente a equação $\\text{sen}^4x - 4\\text{sen}^3x + 6\\text{sen}^2x - 4\\text{sen}\\,x + 1 = 0$. Então, para os valores de x encontrados, teremos que $\\cos x$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt2}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-q21",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 21,
+    "statement": "Sejam X, Y e Z três pontos fixos distintos e não colineares, e P um ponto do espaço, vértice de uma pirâmide cuja base é o triângulo XYZ e cuja medida do seu volume é 3 m³. O conjunto de todos os pontos P que cumprem esta condição é formado por",
+    "options": [
+      {
+        "label": "a",
+        "text": "duas retas paralelas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "um plano.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "dois planos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "exatamente dois pontos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-q22",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 22,
+    "statement": "Se X e Y são conjuntos que possuem 6 e 12 elementos respectivamente, então o número de funções injetivas $f: X \\to Y$ que podem ser construídas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "665.280.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "685.820.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "656.820.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "658.280.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-q23",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Sejam XY um segmento de reta cujo comprimento é 4 m e Z um ponto da mediatriz do segmento XY cuja distância ao segmento XY é 6 m. Se P é um ponto equidistante de X, Y e Z, então a distância, em metros, de P ao segmento XY é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{8}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{7}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{9}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{7}{4}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-q24",
+    "examId": "2014.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 24,
+    "statement": "Se a sequência de números reais positivos $x_1, x_2, x_3, ..., x_n, ...$ é uma progressão geométrica de razão igual a q, então a sequência $y_1, y_2, y_3, ..., y_n, ...$ definida para todo n natural por $y_n = \\log x_n$ é uma progressão",
+    "options": [
+      {
+        "label": "a",
+        "text": "aritmética cuja razão é igual a $\\log q$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "aritmética cuja razão é igual a $q \\cdot \\log q$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "geométrica cuja razão é igual a $\\log q$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "geométrica cuja razão é igual a $q \\cdot \\log q$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-q15",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 15,
+    "statement": "Quantos são os inteiros positivos n com três dígitos tais que $\\dfrac{n}{3}$ e $3n$ são inteiros positivos com três dígitos?",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "23.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "34.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-q16",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 16,
+    "statement": "Sejam x um número real e i o número complexo tal que $i^2 = -1$. Se $p = x + i$ e $q = x - i$, então, $p + q + pq$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(x+1)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(x-1)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x^2+1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-q17",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "Se as equações das circunferências M e P, no sistema de coordenadas cartesianas usual, são respectivamente $x^2 + y^2 - 6x - 10y + 18 = 0$ e $x^2 + y^2 - 12x - 8y + 36 = 0$, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "M e P são concêntricas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "M e P são tangentes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "M e P possuem raios com medidas diferentes.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "M e P possuem exatamente dois pontos na interseção.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-q18",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 18,
+    "statement": "Se as raízes da equação $x^2 + px + q = 0$ são números inteiros positivos e se uma delas é o dobro da outra, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "p e q são iguais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "p e q são necessariamente positivos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "p e q são necessariamente números pares.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "q é necessariamente um número par e positivo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-q19",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 19,
+    "statement": "Se a e b são números racionais tais que $(1 - \\sqrt2)^3 = a - b\\sqrt2$, então, $a \\cdot b$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "35.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "28.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-q20",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Se P é um ponto no interior de um triângulo equilátero cuja medida de cada um dos lados é $\\sqrt{12}$ m, então, a soma das distâncias de P aos lados do triângulo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,5 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,0 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,0 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,5 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-q21",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 21,
+    "statement": "Sejam $f, g: \\mathbb{R} \\to \\mathbb{R}$ funções definidas por $f(x) = 2^x$ e $g(x) = 3^x$ e P o ponto de interseção entre o gráfico de f e o gráfico de g. A medida da distância, em unidades de comprimento, entre o ponto P e a reta cuja equação é $3x + 4y - 64 = 0$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-q22",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "A figura abaixo representa um retângulo formado pela justaposição de três quadrados. Assim, as medidas dos segmentos AB, BC, CD, EF, FG, GH, AE, BF, CG e DH são iguais. Nestas condições, podemos afirmar corretamente que a soma das medidas, em graus, dos ângulos $C\\hat{E}H$ e $D\\hat{E}H$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "60°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "55°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2014.2/qm22.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-q23",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 23,
+    "statement": "Se, para cada número natural n, é definido f(n) como sendo igual ao algarismo das unidades de $1 + 2 + ... + n$, então, o valor da soma $f(1) + f(2) + f(3) + ... + f(10)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "17.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "31.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-q24",
+    "examId": "2014.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 24,
+    "statement": "As medidas das arestas de um paralelepípedo retângulo são 3 dm, 4 dm e 5 dm. Se os vértices deste paralelepípedo estão sobre uma superfície esférica de raio igual a R, então, o valor da medida de R é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,5\\sqrt2$ dm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3,5\\sqrt2$ dm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,5\\sqrt3$ dm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3,5\\sqrt3$ dm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
