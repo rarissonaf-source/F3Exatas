@@ -9856,6 +9856,38 @@
     "correctAnswer": "a"
   },
   {
+    "id": "2011.1-q23",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "A soma das medidas, em metro, de todas as diagonais de um hexágono inscrito em uma circunferência cuja medida do raio é 3 m vale",
+    "options": [
+      {
+        "label": "a",
+        "text": "$12(1+\\sqrt3)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$15(1+\\sqrt3)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$18(1+\\sqrt3)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$21(1+\\sqrt3)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
     "id": "2011.1-q24",
     "examId": "2011.1",
     "discipline": "matematica",

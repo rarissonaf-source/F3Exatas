@@ -8384,6 +8384,38 @@
     "correctAnswer": "b"
   },
   {
+    "id": "2011.1-q39",
+    "examId": "2011.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 39,
+    "statement": "Sobre a propagação de ondas em meios ideais, isto é, meios dissipativos e não dispersivos, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "as ondas mecânicas têm a mesma velocidade de propagação que as ondas eletromagnéticas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "quanto maior a frequência da onda mecânica maior a sua velocidade de propagação.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "as ondas mecânicas, ao se propagarem, não se deformam.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "quanto menor a frequência da onda mecânica maior a sua velocidade de propagação.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
     "id": "2011.1-q40",
     "examId": "2011.1",
     "discipline": "fisica",
@@ -9118,6 +9150,38 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-q37",
+    "examId": "2011.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 37,
+    "statement": "Uma massa m é presa a uma das extremidades de uma mola de constante elástica k e massa desprezível. Considere que sejam realizados dois experimentos com o sistema massa-mola próximo à superfície da Terra, sendo que no tempo inicial referente aos dois experimentos a mola está sem distensão ou compressão e a massa está em repouso. No experimento 1, a extremidade da mola é presa a um ponto $P_1$, fixo, localizado verticalmente acima da massa. No experimento 2, a extremidade da mola é presa a um ponto $P_2$, fixo, localizado verticalmente abaixo da massa. Em ambas as situações a massa fica livre para se mover somente na vertical sob a ação da gravidade. Desprezando-se todos os atritos e se considerado constante e com módulo g a aceleração devida à gravidade, as energias potenciais elásticas máximas $U_1$ e $U_2$ armazenadas nos experimentos 1 e 2 são respectivamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "$U_1 = U_2 = m^2g^2/(2k)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$U_1 = 2U_2 = m^2g^2/k$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2U_1 = U_2 = 2m^2g^2/k$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$U_1 = U_2 = m^2g^2/k$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
   },
   {
     "id": "2011.2-q38",
