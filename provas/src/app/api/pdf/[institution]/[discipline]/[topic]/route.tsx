@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import fs from "node:fs";
 import path from "node:path";
-import sharp from "sharp";
 import {
   Document,
   Page,
@@ -99,6 +98,13 @@ const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica
 // Largura de exibição das imagens dentro de uma coluna (mais estreita que a
 // coluna inteira pra sobrar respiro nas laterais).
 const IMAGE_DISPLAY_WIDTH = 190;
+
+// Lê largura/altura direto do cabeçalho IHDR do PNG (todas as imagens do
+// conteúdo são PNG). Evita depender do `sharp`, cujo binário nativo não
+// carrega de forma confiável no runtime serverless da Vercel.
+function getPngDimensions(buf: Buffer): { width: number; height: number } {
+  return { width: buf.readUInt32BE(16), height: buf.readUInt32BE(20) };
+}
 
 // Estimativa de layout pra decidir quantas questões cabem em cada coluna —
 // @react-pdf/renderer não tem "column-count" nativo, então paginamos à mão
@@ -261,30 +267,28 @@ export async function GET(
 
   const publicRoot = path.join(process.cwd(), "public", "content-images", institution, discipline);
 
-  const questionData: QuestionRenderData[] = await Promise.all(
-    questions.map(async (q) => {
-      let imageDataUri: string | null = null;
-      let imageWidthPt: number | null = null;
-      let imageHeightPt: number | null = null;
-      if (q.imagePath) {
-        const fullPath = path.join(publicRoot, q.imagePath);
-        const buf = fs.readFileSync(fullPath);
-        const meta = await sharp(buf).metadata();
-        const ratio = (meta.height ?? 1) / (meta.width ?? 1);
-        imageWidthPt = IMAGE_DISPLAY_WIDTH;
-        imageHeightPt = IMAGE_DISPLAY_WIDTH * ratio;
-        imageDataUri = `data:image/png;base64,${buf.toString("base64")}`;
-      }
-      const exam = exams[q.examId];
-      return {
-        q,
-        imageDataUri,
-        imageWidthPt,
-        imageHeightPt,
-        examLabel: `${institutionData.name} ${exam?.edition ?? ""}`.trim(),
-      };
-    })
-  );
+  const questionData: QuestionRenderData[] = questions.map((q) => {
+    let imageDataUri: string | null = null;
+    let imageWidthPt: number | null = null;
+    let imageHeightPt: number | null = null;
+    if (q.imagePath) {
+      const fullPath = path.join(publicRoot, q.imagePath);
+      const buf = fs.readFileSync(fullPath);
+      const { width, height } = getPngDimensions(buf);
+      const ratio = height / width;
+      imageWidthPt = IMAGE_DISPLAY_WIDTH;
+      imageHeightPt = IMAGE_DISPLAY_WIDTH * ratio;
+      imageDataUri = `data:image/png;base64,${buf.toString("base64")}`;
+    }
+    const exam = exams[q.examId];
+    return {
+      q,
+      imageDataUri,
+      imageWidthPt,
+      imageHeightPt,
+      examLabel: `${institutionData.name} ${exam?.edition ?? ""}`.trim(),
+    };
+  });
 
   const pages = chunkIntoPages(questionData);
 
