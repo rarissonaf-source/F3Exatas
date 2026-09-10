@@ -13438,5 +13438,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2017.1-q13",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 13,
+    "statement": "O resto da divisão de $(2^{64} + 1)$ por $(2^{32} + 1)$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.1-q14",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 14,
+    "statement": "Considere a equação $x^2 + px + q = 0$, onde p e q são números reais. Se as raízes desta equação são dois números inteiros consecutivos, positivos e primos, então, o valor de $(p+q)^2$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.1-q15",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 15,
+    "statement": "Se i é o número complexo cujo quadrado é igual a -1, então, o valor de $5 \\cdot i^{227} + i^6 - i^{13}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$i + 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4i - 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-6i - 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-6i$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-q16",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 16,
+    "statement": "O termo independente de x no desenvolvimento da expressão algébrica $(x^2 - 1)^3 \\cdot (x^2 + x + 2)^2$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.1-q17",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "Considere a circunferência com centro no ponto O e cuja medida do raio é 2m. Se AB é um diâmetro desta circunferência e C é um ponto sobre a circunferência tal que a medida do ângulo $C\\hat{O}B$ é 60°, então, a medida da área da região interior à circunferência, limitada pela corda AC e pelo menor arco determinado por A e C, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{4\\pi}{6} - \\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{4\\pi}{6} + \\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{4\\pi}{3} - \\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{4\\pi}{3} + \\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-q18",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "Quantos números inteiros positivos pares, com três dígitos distintos, podemos formar com os algarismos 3, 4, 5, 6 e 7?",
+    "options": [
+      {
+        "label": "a",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "28.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-q19",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 19,
+    "statement": "As medidas, em metro, dos comprimentos dos lados de um triângulo formam uma progressão aritmética cuja razão é igual a 1. Se a medida de um dos ângulos internos deste triângulo é 120°, então, seu perímetro é",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-q20",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Em um plano, munido do referencial cartesiano usual, seja A o ponto de interseção das retas $3x + y + 4 = 0$ e $2x - 5y + 14 = 0$. Se os pontos B e C são respectivamente as interseções de cada uma destas retas com o eixo-x, então, a área do triângulo ABC, é igual a (u.a. ≡ unidade de área)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{13}{3}$ u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{14}{3}$ u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{16}{3}$ u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{17}{3}$ u.a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-q21",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "O produto dos valores dos números reais $\\lambda$ para os quais a igualdade entre pontos do $\\mathbb{R}^2$, $(2x + y, x - y) = (\\lambda x, \\lambda y)$ ocorre para algum $(x,y) \\neq (0,0)$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-q22",
+    "examId": "2017.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "Considerando-se um cubo cuja medida de cada aresta é igual a 1m, pode-se afirmar corretamente que a medida do volume do poliedro convexo cujos vértices são os centros das faces desse cubo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{2}{3}$ m³.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{2}{7}$ m³.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{6}$ m³.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{4}{7}$ m³.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-q13",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 13,
+    "statement": "Se x representa um dígito, na base 10, em cada um dos três números 11x, 1x1 e x11, e se a soma desses números for igual a 777, então, o valor de x é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-q14",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 14,
+    "statement": "Sejam f e g funções reais de variável real definidas por $f(x) = 2^x$ e $g(x) = x^2 - 2x + 1$. O valor da função composta $f \\circ g$ no elemento x=2 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-q15",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 15,
+    "statement": "A soma dos elementos do conjunto formado por todas as soluções, no intervalo $[0, 2\\pi]$, da equação $2\\text{sen}^4(x) - 3\\text{sen}^2(x) + 1 = 0$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$5\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6\\pi$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-q16",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 16,
+    "statement": "O produto dos termos da progressão geométrica cujo primeiro termo, a razão e o último termo são respectivamente iguais a -1, -2 e 32 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-32768.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-1024.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-64328.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-6432.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.2-q17",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 17,
+    "statement": "O polinômio $P(x) = ax^3 + bx^2 + cx + d$ é tal que as raízes da equação $P(x) = 0$ são os números -1, 1 e 2. Se $P(0) = 24$, então, o valor do coeficiente a é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-q18",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "O número de cordas determinadas por 12 pontos distintos colocados sobre uma circunferência é",
+    "options": [
+      {
+        "label": "a",
+        "text": "54.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "66.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "78.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-q19",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 19,
+    "statement": "No triângulo XYZ, as medidas em graus dos ângulos internos formam uma progressão aritmética cuja razão é igual a 30°. Se a medida do maior lado deste triângulo é igual a 12 cm, então, a soma das medidas, em cm, dos seus outros dois lados é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$6(\\sqrt3 + 1)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$6(\\sqrt3 + 2)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6(\\sqrt3 + 3)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.2-q20",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "No plano, com o sistema de coordenadas cartesianas usual, a interseção do gráfico da função linear afim $f(x) = mx + n$ com o gráfico da função quadrática $g(x) = ax^2 + bx + c$ são os pontos (0,5) e (7,12). O gráfico da função f corta o eixo-x no ponto S e o gráfico de g corta o mesmo eixo nos pontos (1,0) e N. Se V é o vértice da parábola (gráfico da função g), então, a área do triângulo SNV é igual a (u.a. ≡ unidades de área)",
+    "options": [
+      {
+        "label": "a",
+        "text": "24 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 u.a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.2-q21",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 21,
+    "statement": "A medida da altura de uma pirâmide é 10 m e sua base é um triângulo retângulo isósceles cuja medida da hipotenusa é 6 m. Pode-se afirmar corretamente que a medida do volume dessa pirâmide, em m³, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "45.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-q22",
+    "examId": "2017.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "No triângulo isósceles XOZ, cuja base é o segmento XZ, considere os pontos E e U respectivamente nos lados OZ e XZ, tais que os segmentos OE e OU sejam congruentes. Se a medida do ângulo $X\\hat{O}U$ é 48 graus, então, a medida do ângulo $Z\\hat{U}E$, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "24°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "22°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "28°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "26°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]

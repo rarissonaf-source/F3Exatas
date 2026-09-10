@@ -350,5 +350,37 @@
     "edition": "2016.2",
     "examType": "especifico",
     "sourceFile": "UECE 2016.2 - 2a fase - Física e Química.pdf"
+  },
+  {
+    "id": "2017.1",
+    "institution": "UECE",
+    "year": 2017,
+    "edition": "2017.1",
+    "examType": "geral",
+    "sourceFile": "UECE 2017.1 - PROVA.pdf"
+  },
+  {
+    "id": "2017.1-2fase",
+    "institution": "UECE",
+    "year": 2017,
+    "edition": "2017.1",
+    "examType": "especifico",
+    "sourceFile": "UECE 2017.1 - 2a fase - Física e Química.pdf"
+  },
+  {
+    "id": "2017.2",
+    "institution": "UECE",
+    "year": 2017,
+    "edition": "2017.2",
+    "examType": "geral",
+    "sourceFile": "UECE 2017.2 - PROVA.pdf"
+  },
+  {
+    "id": "2017.2-2fase",
+    "institution": "UECE",
+    "year": 2017,
+    "edition": "2017.2",
+    "examType": "especifico",
+    "sourceFile": "UECE 2017.2 - 2a fase - Física e Química.pdf"
   }
 ]

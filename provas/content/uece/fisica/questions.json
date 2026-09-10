@@ -18302,5 +18302,1797 @@
     ],
     "imagePath": null,
     "annulled": true
+  },
+  {
+    "id": "2017.1-q39",
+    "examId": "2017.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 39,
+    "statement": "Considere uma esfera muito pequena, de massa 1 kg, deslocando-se a uma velocidade de 2 m/s, sem girar, durante 3 s. Nesse intervalo de tempo, o momento linear dessa partícula é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 kg·m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6 kg·m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.1-q40",
+    "examId": "2017.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 40,
+    "statement": "Considere dois instantes no deslocamento de um elevador em viagem de subida: o início (I) imediatamente após a partida, e o final (F) imediatamente antes da parada. Suponha que apenas um cabo de aço é responsável pela sustentação e movimento do elevador. Desprezando todos os atritos, é correto afirmar que a força exercida pelo cabo na cabine no início ($\\vec F_I$) e no final ($\\vec F_F$) tem direção e sentido",
+    "options": [
+      {
+        "label": "a",
+        "text": "vertical para cima e vertical para baixo, respectivamente, com $|\\vec F_I| > |\\vec F_F|$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "vertical para cima, nos dois casos, e com $|\\vec F_I| > |\\vec F_F|$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "vertical para baixo e vertical para cima, respectivamente, com $|\\vec F_I| > |\\vec F_F|$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "vertical para baixo, nos dois casos, e com $|\\vec F_I| < |\\vec F_F|$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-q41",
+    "examId": "2017.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 41,
+    "statement": "Uma corrente elétrica percorre um chuveiro elétrico construído com um resistor ôhmico. A corrente elétrica pode ser medida em unidades de",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ampere/segundo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Volts/segundo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Coulomb/segundo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Ohm/segundo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-q42",
+    "examId": "2017.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 42,
+    "statement": "A unidade de medida de energia utilizada usualmente pelas distribuidoras de energia elétrica é o kWh. Em termos de Joules, a equivalência é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 kWh = 3,6 × 10⁶ J.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 kWh = 3,6 J.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 J = 3,6 × 10⁶ kWh.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 J = 3,6 kWh.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.1-q43",
+    "examId": "2017.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 43,
+    "statement": "Considere três peças metálicas de mesmo material, de mesmo volume e de formas diferentes, sendo uma esférica, a outra cúbica e a última um poliedro regular de 20 faces, o icosaedro. Os três objetos repousam, em equilíbrio estável, sobre uma mesa plana horizontal próxima ao solo. A pressão (P) exercida sobre a mesa pelos sólidos é tal que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P_{esfera} < P_{icosaedro} < P_{cubo}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$P_{esfera} = P_{icosaedro} = P_{cubo}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P_{icosaedro} > P_{esfera} > P_{cubo}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$P_{esfera} > P_{icosaedro} > P_{cubo}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.1-q44",
+    "examId": "2017.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 44,
+    "statement": "Uma corda de 60 cm, em um violão, vibra a uma determinada frequência. É correto afirmar que o maior comprimento de onda dessa vibração, em cm, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "120.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "240.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-q45",
+    "examId": "2017.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 45,
+    "statement": "Uma pilha (1,5 V) e um resistor (1,5 Ω) são conectados um ao outro por apenas um de seus terminais durante o experimento I. Em outro experimento, o experimento II, os dois terminais da bateria são conectados aos terminais do resistor. A diferença de potencial elétrico e a corrente no resistor são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,0 V e 0,0 A no experimento I e 1,5 V e 1,5 A no experimento II.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,5 V e 1,0 A no experimento I e 0,0 V e 0,0 A no experimento II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5 V e 0,0 A no experimento I e 1,5 V e 1,0 A no experimento II.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,0 V e 0,0 A no experimento I e 1,5 V e 1,0 A no experimento II.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.1-q46",
+    "examId": "2017.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 46,
+    "statement": "Considere duas pilhas de 1,5 V ligadas em paralelo (com os polos iguais entre si) e conectadas a um resistor ôhmico de 15 Ω. A corrente elétrica que passa pelo resistor, em Amperes, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-2fase-q1",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "Considere um pêndulo, construído com um fio inextensível e uma massa puntiforme, que oscila em um plano vertical sob a ação da gravidade ao longo de um arco de círculo. Suponha que a massa se desprenda do fio no ponto mais alto de sua trajetória durante a oscilação. Assim, após o desprendimento, a massa descreverá uma trajetória",
+    "options": [
+      {
+        "label": "a",
+        "text": "vertical.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "horizontal.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "parabólica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "reta e tangente à trajetória.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-2fase-q2",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 2,
+    "statement": "Se fossem desprezados todos os atritos e retirados os amortecedores, um automóvel parado em uma via horizontal poderia ser tratado como um sistema massa mola. Suponha que a massa suspensa seja de 1.000 kg e que a mola equivalente ao conjunto que o sustenta tenha coeficiente elástico $k$. Como há ação também da gravidade, é correto afirmar que, se o carro oscilar verticalmente, a frequência de oscilação",
+    "options": [
+      {
+        "label": "a",
+        "text": "não depende da gravidade e é função apenas do coeficiente elástico $k$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é função do produto da massa do carro pela gravidade.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "não depende da gravidade e é função da razão entre $k$ e a massa do carro.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "depende somente do coeficiente elástico $k$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-2fase-q3",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 3,
+    "statement": "Um automóvel percorre uma pista circular horizontal e plana em um autódromo. Em um dado instante, as rodas travam (param de girar) completamente, e o carro passa a deslizar sob a ação da gravidade, da normal e da força de atrito dinâmica. Suponha que o raio da pista seja suficientemente grande para que o carro possa ser tratado como uma massa puntiforme. Pode-se afirmar corretamente que, imediatamente após o travamento das rodas, o vetor força de atrito sobre o carro tem",
+    "options": [
+      {
+        "label": "a",
+        "text": "a mesma direção e o mesmo sentido que o vetor velocidade do carro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "direção perpendicular à trajetória circular do autódromo e aponta para o centro.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "direção perpendicular à trajetória circular do autódromo e normal à superfície da pista.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a mesma direção e sentido contrário ao vetor velocidade do carro.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.1-2fase-q4",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 4,
+    "statement": "Considere dois capacitores, $C_1 = 2\\,\\mu F$ e $C_2 = 3\\,\\mu F$, ligados em série e inicialmente descarregados. Supondo que os terminais livres da associação foram conectados aos polos de uma bateria, é correto afirmar que, após cessar a corrente elétrica,",
+    "options": [
+      {
+        "label": "a",
+        "text": "as cargas nos dois capacitores são iguais e a tensão elétrica é maior em $C_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a carga é maior em $C_2$ e a tensão elétrica é igual nos dois.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "as cargas nos dois capacitores são iguais e a tensão elétrica é maior em $C_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a carga é maior em $C_1$ e a tensão elétrica é igual nos dois.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-2fase-q5",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 5,
+    "statement": "Considerando dois resistores, $R_1 = 2\\,\\Omega$ e $R_2 = 3\\,\\Omega$, ligados em série e com os terminais livres da associação conectados aos polos de uma bateria, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a corrente elétrica nos dois resistores é igual e a tensão elétrica é maior em $R_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a corrente elétrica nos dois resistores é igual e a tensão elétrica é maior em $R_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a corrente elétrica é maior em $R_1$ e a tensão elétrica é igual nos dois.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a corrente elétrica é maior em $R_2$ e a tensão elétrica é igual nos dois.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-2fase-q6",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 6,
+    "statement": "Um resistor de 3 Ω é ligado em série a um capacitor de 4 μF, e a associação assim obtida é conectada aos terminais de uma bateria de 12 V. Após o capacitor estar completamente carregado, é correto afirmar que a diferença de potencial (em Volts) nos terminais do capacitor e do resistor é, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "12 e 0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "48 e 4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 e 3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3 e 4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.1-2fase-q7",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 7,
+    "statement": "Considere um sistema massa mola oscilando sem atrito em uma trajetória vertical próxima à superfície da Terra. Suponha que a amplitude da oscilação é 20 cm, a massa seja de 1 kg e $g = 10$ m/s². O trabalho total realizado pela força peso durante um período de oscilação é, em Joules,",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-2fase-q8",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 8,
+    "statement": "Considere um pêndulo simples oscilando com período $T$ próximo à superfície da Terra. O sistema consiste em um fio inextensível, flexível e de massa desprezível, preso a uma massa cujas dimensões são muito menores que o comprimento do fio. Considere que a energia cinética inicial da massa é $E_i$. Nos dois intervalos entre o início do movimento e os tempo $2T$ e $3T$, a variação da energia cinética é, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$E_i$ e $2E_i$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2E_i$ e $3E_i$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0 e $E_i$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0 e 0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.1-2fase-q9",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 9,
+    "statement": "Considere o movimento de rotação de dois objetos presos à superfície da Terra, sendo um deles no equador e o outro em uma latitude norte, acima do equador. Considerando somente a rotação da Terra, para que a velocidade tangencial do objeto que está a norte seja a metade da velocidade do que está no equador, sua latitude deve ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "60°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,5°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.1-2fase-q10",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 10,
+    "statement": "Dois espelhos planos são posicionados de modo que façam um ângulo de 90° entre si. Considere que um raio de luz incide em um deles, é refletido e sofre uma segunda reflexão no outro espelho. Assuma que o raio incidente está em um plano perpendicular aos espelhos. O ângulo entre o primeiro raio incidente e o raio que sai do conjunto de espelhos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "90.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "180.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.1-2fase-q11",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 11,
+    "statement": "Uma criança deixa sua sandália sobre o disco girante que serve de piso em um carrossel. Considere que a sandália não desliza em relação ao piso do carrossel, que gira com velocidade angular constante, $\\omega$. A força de atrito estático sobre a sandália é proporcional a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\omega$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\omega^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\omega^{1/2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\omega^{3/2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-2fase-q12",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "Duas massas, $m_1 > m_2$, são presas uma a outra por uma mola, e o sistema é livre para deslizar sem atrito em uma mesa horizontal. Considerando que, durante oscilação do conjunto, as massas se aproximam e se afastam uma da outra com frequências e amplitudes constantes. Assumindo que a posição do centro de massa do sistema não se altere, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$m_1$ oscila com amplitude menor que $m_2$ e ambas com a mesma frequência.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$m_2$ oscila com amplitude menor que $m_1$ e ambas com a mesma frequência.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ambas oscilam com amplitudes e frequências iguais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ambas oscilam com amplitudes iguais e $m_1$ com frequência maior.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-2fase-q13",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 13,
+    "statement": "Considere dois sistemas compostos por gases ideais, com massas moleculares diferentes, cada um em um recipiente com isolamento térmico. A pressão, o volume e a temperatura são tais que $\\dfrac{PV}{RT}$ é o mesmo para ambos. É correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o número de moles de gás em cada recipiente é igual, assim como as massas também são iguais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o número de moles de gás em cada recipiente é diferente, mas as massas são iguais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o número de moles de gás em cada recipiente é igual, mas as massas são diferentes.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o número de moles de gás em cada recipiente é diferente, assim como as massas são diferentes.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-2fase-q14",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 14,
+    "statement": "Duas bicicletas são equipadas com freios de diferentes tecnologias. Uma delas tem a rotação do pneu reduzida pela ação da força de atrito entre uma pastilha de freio e o aro, próximo ao pneu. Na outra, o freio faz a pastilha realizar força de atrito em um disco concêntrico ao pneu, mas com diâmetro muito pequeno em relação ao aro. Supondo que a força de atrito seja de mesma intensidade nos dois sistemas, é correto afirmar que o torque sobre o aro, $\\tau_{aro}$, e sobre o disco, $\\tau_{disco}$ tenham a seguinte relação",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\tau_{aro} > \\tau_{disco} > 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\tau_{aro} < \\tau_{disco} < 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\tau_{aro} = \\tau_{disco} > 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\tau_{disco} > \\tau_{aro} > 0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.1-2fase-q15",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 15,
+    "statement": "Considere duas associações de dois pares de molas, todas iguais, um par em série e outro em paralelo. Os coeficientes elásticos das molas equivalentes nas duas associações são",
+    "options": [
+      {
+        "label": "a",
+        "text": "$k_{série} > k_{paralelo} > 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$k_{paralelo} > k_{série} > 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$k_{paralelo} = k_{série} > 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$k_{paralelo} = k_{série} = 0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-2fase-q16",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 16,
+    "statement": "Considere um forno micro-ondas que opera na frequência de 2,45 GHz. O aparelho produz ondas eletromagnéticas estacionárias no interior do forno. A distância de meio comprimento de onda, em cm, entre nodos do campo elétrico é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,45.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.1-2fase-q17",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 17,
+    "statement": "Considere um carrinho que é livre para se deslocar sobre trilhos dispostos paralelos a um plano vertical. Ao longo da trajetória, há pontos de parada do carrinho que podem ser classificados como de equilíbrio estável (E) e instável (I). Sobre a energia potencial gravitacional na vizinhança dos pontos de equilíbrio estável, $U_E$, e dos pontos de equilíbrio instável, $U_I$, é correto afirmar que antes de um ponto de equilíbrio",
+    "options": [
+      {
+        "label": "a",
+        "text": "estável $U_E$ cresce e depois decresce.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "estável $U_E$ decresce e depois cresce.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "instável $U_I$ decresce e depois cresce.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "estável $U_E$ decresce e depois é constante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.1-2fase-q18",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 18,
+    "statement": "Dois carros que transportam areia se deslocam sem atrito na horizontal e sob a ação de duas forças constantes e iguais. Ao longo do deslocamento, há vazamento do material transportado por um furo em um dos carros, reduzindo sua massa total. Considerando que ambos partiram do repouso e percorrem trajetórias paralelas e retas, é correto afirmar que após um intervalo de tempo igual para os dois, a velocidade do carro furado, se comparada à do outro carro,",
+    "options": [
+      {
+        "label": "a",
+        "text": "é menor e o carro furado tem maior aceleração.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é maior e o carro furado tem menor aceleração.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é menor e o carro furado tem menor aceleração.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é maior e o carro furado tem maior aceleração.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.1-2fase-q19",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Em um sistema massa mola, a energia potencial é função do coeficiente elástico $k$ e da deformação da mola. Em termos de unidade de energia e comprimento, a unidade de medida de $k$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "J/m².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "J/m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "J·m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "J·m².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.1-2fase-q20",
+    "examId": "2017.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 20,
+    "statement": "O caminhar humano, de modo simplificado, acontece pela ação de três forças sobre o corpo: peso, normal e atrito com o solo. De modo simplificado, as forças peso e atrito sobre o corpo são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "vertical para cima e horizontal com sentido contrário ao deslocamento.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "vertical para cima e horizontal com mesmo sentido do deslocamento.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "vertical para baixo e horizontal com mesmo sentido do deslocamento.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "vertical para baixo e horizontal com sentido contrário ao deslocamento.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-q39",
+    "examId": "2017.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 39,
+    "statement": "Considere um trilho de via férrea horizontal com dois terços de sua extensão em linha reta e o restante formando um arco de círculo. Considere que o comprimento total da via e o raio de curvatura do trecho curvo são muito maiores do que a distância entre os trilhos. Suponha que, nessa via, um vagão trafega com velocidade constante (em módulo), e que seu tamanho é muito pequeno comparado à extensão da via. Considere que eventuais deslizamentos entre as rodas do vagão e os trilhos sejam tão pequenos que possam ser desprezados. Despreze também os atritos. Sobre as forças horizontais nos trilhos no ponto da passagem do vagão, é correto afirmar que no trecho reto",
+    "options": [
+      {
+        "label": "a",
+        "text": "e no trecho curvo são sempre tangentes aos trilhos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "e no trecho curvo são sempre perpendiculares aos trilhos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "são nulas e no trecho sinuoso há forças perpendiculares aos trilhos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "são nulas e no trecho sinuoso há forças tangentes aos trilhos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-q40",
+    "examId": "2017.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 40,
+    "statement": "A lei da Física que estabelece uma relação linear entre corrente elétrica e diferença de potencial é a Lei",
+    "options": [
+      {
+        "label": "a",
+        "text": "da inércia.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "de Ohm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "de Coulomb.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "de Ampere.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-q41",
+    "examId": "2017.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 41,
+    "statement": "Um sistema mecânico em equilíbrio estático, como uma esfera repousando sobre uma mesa horizontal, ou um carrinho de montanha russa parado no ponto mais baixo de um trecho curvo, apresenta energia cinética zero. Considere que, durante um experimento, a esfera e o carrinho sofrem pequenos deslocamentos a partir de seu ponto de equilíbrio. Após os respectivos deslocamentos, as energias potenciais nos exemplos da esfera e do carrinho são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "mantidas constantes e aumentadas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "aumentadas e mantidas constantes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "aumentadas e diminuídas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "diminuídas e aumentadas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-q42",
+    "examId": "2017.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "Usinas termelétricas, como as instaladas no Ceará, geram energia mais cara que as fontes convencionais, consomem elevados volumes de água, além de usarem carvão como combustível, causando relevantes impactos ambientais. Nessas usinas, as conversões que envolvem maior quantidade de energia são de",
+    "options": [
+      {
+        "label": "a",
+        "text": "elétrica para química e em seguida para térmica.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "química para elétrica e em seguida para térmica.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "elétrica para térmica e em seguida para química.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "química para térmica e em seguida para elétrica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.2-q43",
+    "examId": "2017.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 43,
+    "statement": "Considere o enunciado de uma lei da termodinâmica, que diz \"se dois corpos estiverem em equilíbrio térmico com um terceiro, estarão em equilíbrio térmico entre si\". Assim, é correto afirmar que no equilíbrio térmico",
+    "options": [
+      {
+        "label": "a",
+        "text": "os três corpos devem estar em temperaturas distintas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "não há fluxo de calor entre os três corpos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "os três corpos necessariamente têm a mesma energia interna.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "há sempre fluxo de calor entre os três corpos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-q44",
+    "examId": "2017.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 44,
+    "statement": "Considere um fio condutor, fabricado com uma liga metálica que confere uma determinada resistência elétrica proporcional ao comprimento do fio e com pouca variação em função da temperatura (±1°C). A configuração que produz a mesma resistência equivalente a uma peça de 2 m de fio é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 peças de 4 m ligadas em paralelo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 peças de 4 m ligadas em série.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 peças de 2 m ligadas em paralelo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4 peças de 2 m ligadas em série.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.2-q45",
+    "examId": "2017.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 45,
+    "statement": "Considere as seguintes grandezas físicas: tempo, massa, campo elétrico. Essas grandezas são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "escalar, vetorial e vetorial.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "vetorial, vetorial e vetorial.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "vetorial, escalar e escalar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "escalar, escalar e vetorial.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.2-q46",
+    "examId": "2017.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 46,
+    "statement": "A energia necessária para aquecer uma certa massa de água é a mesma nos seguintes casos:",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 kg, de 20°C para 23°C, ou 3 kg, de 20°C para 23°C.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 kg, de 20°C para 21°C, ou 2 kg, de 20°C para 22°C.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2 kg, de 20°C para 23°C, ou 3 kg, de 20°C para 22°C.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 kg, de 20°C para 21°C, ou 3 kg, de 20°C para 23°C.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-2fase-q1",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "Considere uma caixa com tijolos sendo erguida do solo ao último andar de um prédio em construção. A carga é erguida por uma corda vertical acoplada a uma polia no ponto mais alto da construção. Suponha que o módulo da velocidade da caixa aumente linearmente com o tempo dentro de um intervalo de observação. Caso os atritos possam ser desprezados, é correto afirmar que, durante esse intervalo, a tensão na corda é",
+    "options": [
+      {
+        "label": "a",
+        "text": "proporcional ao quadrado do tempo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "proporcional ao tempo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "zero.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-2fase-q2",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 2,
+    "statement": "Considere um capacitor de placas paralelas com separação $d$ e carregado com carga $Q$. Sobre a energia no capacitor, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "está armazenada nas cargas elétricas das placas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é nula, pois a soma das cargas das placas é zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é nula, pois a soma das cargas das placas é diferente de zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "está armazenada no campo elétrico gerado pelas cargas das placas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.2-2fase-q3",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 3,
+    "statement": "Considere dois capacitores ligados em série e conectados a uma bateria. Um dos capacitores tem capacitância maior que a do outro. É correto afirmar que a capacitância equivalente",
+    "options": [
+      {
+        "label": "a",
+        "text": "é menor que qualquer uma das capacitâncias individuais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é maior que qualquer uma das capacitâncias individuais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem valor entre as duas capacitâncias da associação.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "depende da tensão na bateria.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.2-2fase-q4",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 4,
+    "statement": "Considere um resistor ligado a uma bateria e dissipando calor por efeito Joule. Pelo resistor, são medidos 3 μC/s de carga elétrica. Assim, a corrente elétrica pelo resistor é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3 \\cdot 10^6$ A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3 \\cdot 10^{-6}$ μA.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3 \\cdot 10^6$ μA.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3 \\cdot 10^{-6}$ A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-2fase-q5",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 5,
+    "statement": "Considere dois capacitores com diferentes capacitâncias, ligados em paralelo e conectados a uma bateria. É correto afirmar que, após carregados,",
+    "options": [
+      {
+        "label": "a",
+        "text": "a tensão entre os terminais do de maior capacitância é menor.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a tensão entre os terminais dos dois capacitores é a mesma.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a corrente fornecida pela bateria é sempre maior que zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a corrente fornecida pela bateria é sempre menor que zero.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-2fase-q6",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 6,
+    "statement": "Considere duas pilhas alcalinas de 1,5 V ligadas em paralelo, com polos de mesmo sinal ligados entre si. Nessa configuração, a tensão entre os terminais da associação é, em Volts,",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-2fase-q7",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 7,
+    "statement": "Um gás que possa ter sua temperatura, seu volume e sua pressão relacionados por $PV = nRT$ apresenta as seguintes características:",
+    "options": [
+      {
+        "label": "a",
+        "text": "distância média entre as moléculas muito grande de modo a desprezar as interações intermoleculares, exceto ao colidirem; moléculas sofrem colisões elásticas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "distância média entre as moléculas muito pequena; moléculas sofrem colisões inelásticas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "distância média entre as moléculas muito grande de modo a desprezar as interações intermoleculares, exceto ao colidirem; moléculas sofrem colisões inelásticas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "distância média entre as moléculas muito grande e com fortes interações intermoleculares; moléculas sofrem colisões elásticas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.2-2fase-q8",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 8,
+    "statement": "Um bloco de madeira desliza com atrito sobre uma mesa horizontal pela ação de uma força constante. É correto afirmar que o trabalho realizado sobre o bloco pela força",
+    "options": [
+      {
+        "label": "a",
+        "text": "de atrito é sempre positivo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "normal é zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "de atrito é zero em uma trajetória fechada.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "normal é negativo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-2fase-q9",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 9,
+    "statement": "No caso hipotético de uma corrente elétrica por um condutor retilíneo, há geração de um campo magnético",
+    "options": [
+      {
+        "label": "a",
+        "text": "na mesma direção do condutor.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "que aumenta proporcionalmente à distância do condutor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "que é constante e uniforme em torno da direção do condutor.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "em direções perpendiculares à do condutor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.2-2fase-q10",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "Considere a dilatação térmica de duas barras longas e finas, feitas de mesmo material. Uma delas tem o dobro do comprimento da outra: $L_1 = 2L_2$. Nos dois casos, as barras sofrem uma mesma mudança de temperatura, $\\Delta T$, e dilatam $\\Delta L_1$ e $\\Delta L_2$. Assim,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\Delta L_2}{L_2} = 2\\dfrac{\\Delta L_1}{L_1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\Delta L_2}{L_2} = \\dfrac{\\Delta L_1}{L_1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\dfrac{\\Delta L_2}{L_2} = \\dfrac{\\Delta L_1}{L_1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\Delta L_2}{L_2} = 3\\dfrac{\\Delta L_1}{L_1}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-2fase-q11",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "Um dado material com calor específico $c$ recebe certa quantidade de calor $Q$ e tem sua temperatura aumentada de $\\Delta T$. Caso não haja perda de calor do corpo, com essas informações, pode-se afirmar corretamente que sua massa é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{Q}{\\Delta T \\cdot c}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{c}{\\Delta T \\cdot Q}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\Delta T}{Q \\cdot c}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$Q \\cdot c \\cdot \\Delta T$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.2-2fase-q12",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "Em um oscilador harmônico simples, a energia potencial na posição de energia cinética máxima",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem um máximo e diminui na vizinhança desse ponto.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem um mínimo, aumenta à esquerda e se mantém constante à direita desse ponto.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem um mínimo e aumenta na vizinhança desse ponto.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem um máximo, aumenta à esquerda e se mantém constante à direita desse ponto.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-2fase-q13",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 13,
+    "statement": "Considere duas massas puntiformes de mesmo valor $m$, com cargas elétricas de mesmo valor $Q$ e sinais opostos, e mantidas separadas de uma certa distância. Seja $G$ a constante de gravitação universal e $k$ a constante eletrostática. A razão entre as forças de atração eletrostática e gravitacional é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{Gm^2}{Q^2k}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{Q^2k}{Gm^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{Q^2G}{km^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{QG}{km}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-2fase-q14",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 14,
+    "statement": "Dois corpos, inicialmente com temperaturas diferentes, são isolados termicamente do ambiente, mas postos em contato térmico um com o outro, de modo que possam trocar calor entre si. Ao atingir equilíbrio térmico, um dos corpos ganhou uma quantidade de calor $Q$. Considerando corretamente os sinais das quantidades de calor, é correto afirmar que a soma do calor cedido por um corpo com o recebido pelo outro é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2Q$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$-2Q$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$Q/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2017.2-2fase-q15",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 15,
+    "statement": "Considere uma bola de sinuca que rola sem deslizar sobre uma mesa horizontal. Em um dado instante, antes de tocar em qualquer obstáculo, a energia cinética da bola é a soma das energias cinéticas de",
+    "options": [
+      {
+        "label": "a",
+        "text": "translação do centro de massa e rotação em torno do centro de massa.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "rotação do centro de massa apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "translação do centro de massa apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "rotação em torno do centro de massa e rotação do centro de massa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.2-2fase-q16",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 16,
+    "statement": "Um bloco desce uma rampa plana sob ação da gravidade e sem atrito. Durante a descida, a energia potencial gravitacional do bloco",
+    "options": [
+      {
+        "label": "a",
+        "text": "e a cinética aumentam.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diminui e a cinética aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "e a cinética diminuem.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "aumenta e a cinética diminui.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-2fase-q17",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 17,
+    "statement": "Considere a energia potencial elétrica armazenada em dois sistemas compostos por: (i) duas cargas elétricas de mesmo sinal; (ii) duas cargas de sinais opostos. A energia potencial no primeiro e no segundo sistema, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "aumenta com a distância crescente entre as cargas e diminui com a redução da separação.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diminui com a distância decrescente entre as cargas e não depende da separação.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "aumenta com a distância crescente entre as cargas e não depende da separação.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "diminui com o aumento da distância entre as cargas e aumenta se a separação cresce.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2017.2-2fase-q18",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 18,
+    "statement": "Em um espelho plano perfeito incide um raio de luz. O raio que sai do espelho sofre",
+    "options": [
+      {
+        "label": "a",
+        "text": "refração com ângulo de incidência igual ao de reflexão.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "reflexão com ângulo de incidência maior que o de reflexão.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "reflexão com ângulo de incidência igual ao de reflexão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "refração com ângulo de incidência maior que o de reflexão.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2017.2-2fase-q19",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Em um oscilador harmônico simples, do tipo massa-mola, a posição e a velocidade podem variar com o tempo conforme as seguintes funções:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\text{sen}(\\omega t)$ e $\\text{sen}(\\omega t)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\text{sen}(\\omega t)$ e $\\cos(\\omega t)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\cos(\\omega t)$ e $\\text{tg}(\\omega t)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\text{tg}(\\omega t)$ e $\\cos(\\omega t)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2017.2-2fase-q20",
+    "examId": "2017.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 20,
+    "statement": "Considere uma partícula se movimentando por uma trajetória circular no plano $xy$. As projeções do movimento nos eixos $x$ e $y$ são movimentos",
+    "options": [
+      {
+        "label": "a",
+        "text": "harmônicos simples.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "harmônico simples e uniforme, respectivamente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uniforme e harmônico simples, respectivamente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uniformes.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
   }
 ]
