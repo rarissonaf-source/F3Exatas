@@ -4,13 +4,6 @@ import { useState, useEffect, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ArrowUp, Filter, Printer, Search, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import {
-  Dialog,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-  DialogDescription,
-} from "@/components/ui/dialog";
 import { QuestionCard } from "@/components/question-card";
 import { recordAnswerCheckAndMaybePrompt, MENTORIAS_URL } from "@/lib/checkin";
 import { staggerContainer, fadeUpItem } from "@/lib/motion";
@@ -55,8 +48,9 @@ export function QuestionBrowser({
   const [searchOpen, setSearchOpen] = useState(false);
   const [accountEmail, setAccountEmail] = useState("");
   const [pdfAllowed, setPdfAllowed] = useState(false);
-  const [pdfPaywallOpen, setPdfPaywallOpen] = useState(false);
+  const [pdfBubbleOpen, setPdfBubbleOpen] = useState(false);
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const pdfBubbleRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     fetchCurrentProfile().then((profile) => {
@@ -69,9 +63,25 @@ export function QuestionBrowser({
     if (searchOpen) searchInputRef.current?.focus();
   }, [searchOpen]);
 
+  // Fecha o balão do F3Provas+ ao clicar fora, ou sozinho depois de um tempo.
+  useEffect(() => {
+    if (!pdfBubbleOpen) return;
+    function onClickOutside(e: MouseEvent) {
+      if (pdfBubbleRef.current && !pdfBubbleRef.current.contains(e.target as Node)) {
+        setPdfBubbleOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", onClickOutside);
+    const timer = setTimeout(() => setPdfBubbleOpen(false), 4000);
+    return () => {
+      document.removeEventListener("mousedown", onClickOutside);
+      clearTimeout(timer);
+    };
+  }, [pdfBubbleOpen]);
+
   function handlePdfClick() {
     if (!pdfAllowed) {
-      setPdfPaywallOpen(true);
+      setPdfBubbleOpen((open) => !open);
       return;
     }
     window.location.href = `${BASE_PATH}/api/pdf/${institution}/${discipline}/${topicSlug}?accountKey=${encodeURIComponent(accountEmail)}`;
@@ -126,15 +136,33 @@ export function QuestionBrowser({
   return (
     <>
       <div className="mt-6 flex items-center justify-end gap-1">
-        <button
-          type="button"
-          onClick={handlePdfClick}
-          aria-label={`Baixar PDF de resolução — ${topicName}`}
-          title="Baixar PDF de resolução"
-          className="flex size-9 shrink-0 items-center justify-center rounded-full text-muted-foreground/60 transition-colors hover:bg-foreground/5 hover:text-foreground"
-        >
-          <Printer className="size-4" />
-        </button>
+        <div className="relative shrink-0" ref={pdfBubbleRef}>
+          <button
+            type="button"
+            onClick={handlePdfClick}
+            aria-label={`Baixar PDF de resolução — ${topicName}`}
+            title="Baixar PDF de resolução"
+            className="flex size-9 shrink-0 items-center justify-center rounded-full text-muted-foreground/60 transition-colors hover:bg-foreground/5 hover:text-foreground"
+          >
+            <Printer className="size-4" />
+          </button>
+
+          <AnimatePresence>
+            {pdfBubbleOpen && (
+              <motion.div
+                initial={{ opacity: 0, y: -4, scale: 0.96 }}
+                animate={{ opacity: 1, y: 0, scale: 1 }}
+                exit={{ opacity: 0, y: -4, scale: 0.96 }}
+                transition={{ duration: 0.15 }}
+                className="absolute left-1/2 top-full z-20 mt-2 w-56 -translate-x-1/2 rounded-xl bg-popover p-3 text-center text-xs leading-relaxed text-popover-foreground ring-1 ring-border shadow-xl"
+              >
+                <span className="absolute -top-1.5 left-1/2 size-3 -translate-x-1/2 rotate-45 bg-popover ring-1 ring-border" />
+                <span className="relative font-semibold text-foreground">Exclusivo do F3Provas+</span>
+                <p className="relative mt-1 text-muted-foreground">Baixar o PDF é um benefício do F3Provas+.</p>
+              </motion.div>
+            )}
+          </AnimatePresence>
+        </div>
 
         <div className="relative flex shrink-0 items-center">
           <Filter className="pointer-events-none absolute left-2.5 size-3.5 text-muted-foreground/60" />
@@ -288,18 +316,6 @@ export function QuestionBrowser({
           </motion.div>
         )}
       </AnimatePresence>
-
-      <Dialog open={pdfPaywallOpen} onOpenChange={setPdfPaywallOpen}>
-        <DialogContent>
-          <DialogHeader>
-            <DialogTitle>Esse recurso é exclusivo do F3Provas+</DialogTitle>
-            <DialogDescription>
-              Baixar o PDF com a lista de questões pra imprimir é um benefício do F3Provas+. Adquira o plano pra
-              desbloquear os downloads e o acompanhamento completo do seu desempenho.
-            </DialogDescription>
-          </DialogHeader>
-        </DialogContent>
-      </Dialog>
     </>
   );
 }
