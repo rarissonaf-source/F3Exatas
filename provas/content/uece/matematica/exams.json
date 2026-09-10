@@ -302,5 +302,21 @@
     "edition": "2019.2",
     "examType": "geral",
     "sourceFile": "UECE 2019.2 - PROVA.pdf"
+  },
+  {
+    "id": "2020.1",
+    "institution": "UECE",
+    "year": 2020,
+    "edition": "2020.1",
+    "examType": "geral",
+    "sourceFile": "UECE 2020.1 - PROVA.pdf"
+  },
+  {
+    "id": "2020.2",
+    "institution": "UECE",
+    "year": 2020,
+    "edition": "2020.2",
+    "examType": "geral",
+    "sourceFile": "UECE 2020.2 - PROVA - 1a fase.pdf"
   }
 ]

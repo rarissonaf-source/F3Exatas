@@ -15358,5 +15358,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2020.1-q13",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 13,
+    "statement": "Os participantes de uma reunião ocuparam a totalidade dos lugares existentes em mesas que comportavam sete ocupantes cada uma. Entretanto, para melhorar o conforto, foram trazidas mais quatro mesas e os presentes redistribuíram-se, ficando em cada uma das mesas exatamente seis pessoas. Assim, é correto afirmar que o número de participantes na reunião era",
+    "options": [
+      {
+        "label": "a",
+        "text": "84.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "126.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "168.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "210.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.1-q14",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 14,
+    "statement": "Para cada número inteiro positivo n, as linhas do quadro abaixo são definidas segundo a estrutura lógica que segue: $L_1$: 1; $L_2$: 1, 2; $L_3$: 1, 2, 3; $L_4$: 1, 2, 3, 4; ...; $L_n$: 1, 2, 3, ..., n. A soma dos números que compõem a linha $L_{2020}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 041 210.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 441 120.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2 121 020.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2 241 210.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.1-q15",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 15,
+    "statement": "Assinale a opção que corresponde à quantidade de números inteiros positivos que são fatores do número 30.030.",
+    "options": [
+      {
+        "label": "a",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "34.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "64.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "66.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.1-q16",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "No plano, com o sistema de coordenadas cartesianas usual, os gráficos das retas cujas equações são $y = x$ e $y = mx - 4$, onde m é um número inteiro maior do que um, se cortam em um ponto P. A soma dos possíveis valores de m para os quais as coordenadas de P são números inteiros positivos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.1-q17",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 17,
+    "statement": "Seja S a soma dos termos da progressão geométrica $(x_1, x_2, x_3, ...)$, cuja razão é o número real q, $0 < q < 1$. Se $x_1 = a$, $a > 0$, $a \\neq 1$, então, o valor de $\\log_a(S)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$a + \\log_a(1-q)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$a - \\log_a(1-q)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1 + \\log_a(1-q)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1 - \\log_a(1-q)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.1-q18",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "No plano, com o sistema de coordenadas cartesianas usual, seja X a região limitada pelo gráfico da função $f: \\mathbb{R} \\to \\mathbb{R}$, $f(x) = 2x$, pela reta $x = 3$ e pelo eixo-x (eixo horizontal). Assim, pode-se afirmar corretamente que a medida da área da região X é igual a (u.a. ≡ unidade de área)",
+    "options": [
+      {
+        "label": "a",
+        "text": "9 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 u.a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-q19",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 19,
+    "statement": "Para cada número inteiro positivo k seja $x_k = \\dfrac{k}{k+1}$. O menor valor do número inteiro positivo n para o qual o produto $x_1 \\cdot x_2 \\cdot x_3 \\cdots x_n$ é menor do que 0,02 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "52.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "51.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "49.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.1-q20",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Em uma circunferência com centro no ponto M, cuja medida do diâmetro é igual a 20 m, considere um arco com extremidades P e Q medindo exatamente um quarto do comprimento da circunferência. Se X é um ponto do arco tal que o triângulo MXQ é equilátero e Y é um ponto do segmento MP tal que o triângulo MYX é retângulo em Y, então, a medida da área do triângulo MYX, em m², é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$15\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$12,5\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$12\\sqrt5$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10,5\\sqrt5$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.1-q21",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 21,
+    "statement": "Considere a matriz $M = \\begin{pmatrix} 1 & x & 3 \\\\ 2 & 1 & 2 \\\\ 3 & y & 1 \\end{pmatrix}$, em que x e y são números reais. Se det(M) representa o determinante da matriz M, então, em um plano com o sistema de coordenadas cartesiano usual, a equação det(M) = -4 expressa a equação de uma reta. A distância dessa reta à origem do sistema de coordenadas é igual a (u.c. ≡ unidade de comprimento)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\sqrt2}{2}$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt2}{3}$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt3}{2}$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt3$ u.c.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-q22",
+    "examId": "2020.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "Considere um sólido que possui exatamente cinco vértices dos quais quatro são os vértices da base (face inferior) de um cubo e o quinto é um dos vértices da face superior desse cubo. Se a medida da aresta do cubo é 9 m, então, a medida do volume desse sólido, em m³, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "241.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "243.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "245.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "247.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-q13",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 13,
+    "statement": "Sejam x, y, z e w números naturais cuja soma é igual a 200. Se $x + z = y + w$ e se $x = 3z$, então, é correto afirmar que $\\dfrac{xz}{5}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "365.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "380.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "370.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "375.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.2-q14",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 14,
+    "statement": "Um número natural p, maior do que 1, é chamado número primo quando seus únicos divisores positivos são o número 1 e o próprio p. Se K é o conjunto de todos os números naturais primos e menores do que 20, então, o número de subconjuntos de K é",
+    "options": [
+      {
+        "label": "a",
+        "text": "128.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "256.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "420.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "512.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.2-q15",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 15,
+    "statement": "Se as raízes da equação $x^3 - 4x^2 + ax - \\dfrac{28}{27} = 0$ formam uma progressão aritmética, então, o valor do número real a é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{13}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{11}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{11}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{13}{4}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-q16",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 16,
+    "statement": "A listagem infinita de números naturais apresentada abaixo está organizada e ordenada segundo uma lógica estrutural própria: 1, 2, 3, 4, 5, 6, 5, 4, 3, 2, 1, 2, 3, 4, 5, 6, 5, 4, 3, 2, 1, 2, 3, ... O resultado da soma dos primeiros 2020 números da listagem apresentada é",
+    "options": [
+      {
+        "label": "a",
+        "text": "7007.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7700.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7070.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7770.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2020.2-q17",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "Em um plano, munido do sistema de coordenadas cartesianas usual, a medida da área da região interior ao gráfico que representa a equação $|x| + |y| = 5$ é (u.a. ≡ unidade de área.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "55 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "45 u.a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-q18",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 18,
+    "statement": "Se M e m são respectivamente os valores máximo e mínimo que a função real de variável real $f(x) = 2\\text{sen}^2x + 5\\cos^2x - 1$ assume, então, a média aritmética entre M e m é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-q19",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "Sejam $f: \\mathbb{R} \\to \\mathbb{R}$ e $g: \\mathbb{R} \\to \\mathbb{R}$ as funções definidas por $f(x) = 2x^2 + 3x + 1$ e $g(x) = 5 + 3x - 2x^2$. Se em um plano munido do sistema de coordenada cartesianas usual a interseção entre o gráfico de f e o gráfico de g são os pontos P e Q, então, a distância entre P e Q é igual a (u.c. ≡ unidade de comprimento.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt{10}$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5\\sqrt{10}$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3\\sqrt{10}$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\sqrt{10}$ u.c.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-q20",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "Sejam f e g as funções reais de variável real definidas por $f(x) = \\dfrac{x}{4-x^2}$ e $g(x) = 4x$. Se h é a função composta de f e g, isto é, $h(x) = f(g(x))$, então, o valor de $\\dfrac{h(4)}{g(1)}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$-\\dfrac{1}{13}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$-\\dfrac{1}{48}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-\\dfrac{1}{27}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-\\dfrac{1}{63}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-q21",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 21,
+    "statement": "Se $S = 1 + 0,5 + 0,25 + 0,125 + 0,0625 + ...$, então, o valor do logaritmo de S na base 2 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-q22",
+    "examId": "2020.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "Um quadrado cuja medida do lado é 3 cm está inscrito em uma circunferência cuja medida do raio é R cm e circunscrito a uma circunferência cuja medida do raio é r cm. Nestas condições, a relação $\\dfrac{r}{R}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\sqrt2}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt2}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\sqrt3}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]

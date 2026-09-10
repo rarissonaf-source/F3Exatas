@@ -23678,5 +23678,1797 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2020.1-q39",
+    "examId": "2020.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 39,
+    "statement": "O choque elétrico caracteriza-se pela passagem da corrente elétrica através do corpo (animal ou humano), podendo apresentar vários efeitos, conforme a região atravessada pela referida corrente. O quadro a seguir indica a intensidade da corrente e o respectivo efeito causado no organismo: 1 a 10 mA — \"formigamento\"; 10 a 20 mA — sensações dolorosas; 20 a 100 mA — dificuldades respiratórias; 100 a 200 mA — fibrilação cardíaca; acima de 200 mA — graves queimaduras e parada cardíaca. Uma pessoa com a pele seca apresenta uma resistência de 100.000 Ω. Com o corpo molhado, essa resistência diminui para cerca de 1.000 Ω. Considerando que uma pessoa, ao sair do banheiro, molhada, sofra um choque em uma tomada de 220 V, é correto afirmar que ela estará submetida ao efeito correspondente a",
+    "options": [
+      {
+        "label": "a",
+        "text": "dificuldades respiratórias.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "graves queimaduras e parada cardíaca.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "fibrilação cardíaca.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sensações dolorosas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.1-q40",
+    "examId": "2020.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 40,
+    "statement": "A panela de pressão é um utensílio muito utilizado no intuito de diminuir o tempo de cozimento dos alimentos, pois o aumento da pressão interna permite a elevação do ponto de ebulição da água, mantendo-a em estado líquido a temperaturas maiores. A pressão atmosférica varia com a altitude e exerce influência sobre o ponto de ebulição da água. De modo simplificado e dentro de certos limites, o ponto de ebulição pode ser representado por uma função crescente da pressão. Considerando sua finalidade, como descrita no início deste enunciado, a panela de pressão proporcionaria um cozimento mais eficiente, se comparado ao uso de panela comum,",
+    "options": [
+      {
+        "label": "a",
+        "text": "ao nível do mar, pois a pressão atmosférica é menor que no alto de uma montanha.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "no alto de uma montanha, pois a pressão atmosférica é maior que ao nível do mar.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "no alto de uma montanha, pois a pressão atmosférica é menor que ao nível do mar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ao nível do mar, pois a pressão atmosférica é maior que no alto de uma montanha.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2020.1-q41",
+    "examId": "2020.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 41,
+    "statement": "Os carros mais modernos dispõem de câmeras integradas, cuja função é auxiliar o motorista em manobras. No entanto, o espelho continua sendo um recurso de grande utilidade. Nos veículos de grande porte, os retrovisores costumam possuir, além do espelho plano, um espelho convexo. Este espelho curvo tem como característica",
+    "options": [
+      {
+        "label": "a",
+        "text": "formar imagens maiores que os objetos refletidos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "formar imagens virtuais a partir de objetos reais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "formar uma imagem real a partir de um objeto real.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "convergir a luz refletida para um mesmo ponto, foco.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.1-q42",
+    "examId": "2020.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 42,
+    "statement": "Uma lupa é um instrumento óptico bastante usual para facilitar a visualização de objetos pequenos. Considere que um usuário utiliza uma lupa bem próxima ao seu olho para ver um ponto de um objeto. Este ponto observado está no eixo principal da lente da lupa. Para maior conforto visual, deseja-se que os raios de luz oriundos desse ponto cheguem ao olho paralelos ao eixo principal. Para isso, a lente deve ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "convergente e o ponto do objeto coincidente com o foco.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "divergente e o ponto do objeto coincidente com o foco.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "convergente e o ponto do objeto após o foco.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "divergente e o ponto do objeto muito distante do foco.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-q43",
+    "examId": "2020.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 43,
+    "statement": "O litoral nordeste do Brasil foi recentemente poluído por petróleo. Atente para as seguintes hipóteses sobre a origem do poluente: (i) derramamento de petróleo na superfície da água, oriundo de vazamento em navio petroleiro; (ii) o material ter-se originado de vazamento em oleoduto submarino. Considerando essas hipóteses, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "independente das duas hipóteses, o poluente flutuaria se sua densidade fosse menor que a da água do mar.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "independente da densidade do poluente, haveria flutuação desse petróleo na água.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "independente de sua densidade, somente na hipótese (i) haveria flutuação do petróleo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "independente de sua densidade, somente na hipótese (ii) haveria flutuação do petróleo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-q44",
+    "examId": "2020.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 44,
+    "statement": "Dois blocos de materiais diferentes (ferro e concreto) e de mesma massa foram utilizados como amostras de um teste experimental. Os mesmos foram aquecidos, a partir da temperatura ambiente, por fontes térmicas idênticas, que transmitiram a mesma quantidade de calor aos blocos. Desconsiderando eventuais mudanças de estado, observou-se que o bloco de ferro sofreu maior variação de temperatura. Com relação às propriedades térmicas dos materiais em pauta, tal fenômeno é explicado pelo fato de o bloco de ferro apresentar",
+    "options": [
+      {
+        "label": "a",
+        "text": "maior calor específico comparado ao de concreto.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "maior capacidade térmica que o de concreto.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a mesma capacidade térmica do bloco de concreto.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "menor calor específico comparado ao de concreto.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.1-q45",
+    "examId": "2020.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 45,
+    "statement": "Construções civis chamadas de barragens foram temas bastante explorados nos noticiários dos últimos meses. De modo simplificado, trata-se de uma parede vertical que serve para impedir a passagem ou saída de um fluido de uma dada região. Tem-se como exemplos os açudes ou as barragens de contenção de resíduos lamacentos de mineração. Considerando a face da parede de uma barragem que esteja submetida à pressão hidrostática do fluido que ela represa, é correto afirmar que essa pressão",
+    "options": [
+      {
+        "label": "a",
+        "text": "é a mesma em pontos do fluido com diferentes profundidades.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "em uma dada profundidade, não depende da densidade do fluido.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é maior em pontos do fluido que tenham maior profundidade.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não depende da profundidade nem da densidade do fluido.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.1-q46",
+    "examId": "2020.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 46,
+    "statement": "Considere um navio petroleiro parado em alto mar. Desprezando os movimentos de ondas e forças de arrasto do vento, caso o navio esteja em equilíbrio estático, é correto afirmar que é",
+    "options": [
+      {
+        "label": "a",
+        "text": "nula a soma vetorial da força peso com a força de empuxo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "vertical para cima o vetor força resultante da soma da força peso e da força de empuxo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "vertical para baixo o vetor força resultante da soma da força peso e da força de empuxo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "horizontal o vetor força de empuxo e se anula com a força de atrito viscosa da água.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-2fase-q1",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "Em um campeonato de futebol, como o Brasileiro, de 2019, bolas são chutadas e arremessadas milhares de vezes, quase todas como lançamentos oblíquos ou variações mais elaboradas. De modo simplificado, lances de longo alcance podem ser tratados como massas puntiformes lançadas sob a ação da gravidade e da força de atrito do ar. Essa força de atrito pode, dentro de certos limites, ser tratada como proporcional ao módulo da velocidade da bola. Dado isso, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "mesmo com a força de atrito, a trajetória continua parabólica.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a força de atrito tem sempre direção horizontal.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o alcance de um dado lançamento é reduzido pela força de atrito.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a força de atrito tem sempre direção vertical.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.1-2fase-q2",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 2,
+    "statement": "Considere um objeto, que partiu do repouso e tem sua velocidade crescente, se deslocando sem atrito e sob a ação de uma única força. Suponha que sua energia cinética, após um tempo $t$ desde sua partida, seja $E$, e no instante $2t$ seja $4E$. Sobre o trabalho realizado pela força atuando no objeto, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "vale $3E$ durante o intervalo entre $t$ e $2t$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é nulo, tendo em vista que há apenas variação de energia cinética.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "vale $5E$ durante o intervalo entre $t$ e $2t$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não é possível ser determinado, por não haver informação sobre o valor da força nem sobre o deslocamento.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-2fase-q3",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 3,
+    "statement": "Um elevador, de modo simplificado, pode ser descrito como um sistema composto por duas massas ligadas por uma corda inextensível e suspensas por uma polia de eixo fixo. Uma das massas é um contrapeso e a outra massa é a cabine com seus passageiros. Considerando uma situação em que a cabine executa uma viagem de subida, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o trabalho realizado pela força peso é negativo sobre a cabine e positivo sobre o contrapeso.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o trabalho total realizado pela força peso sobre o conjunto cabine e contrapeso é sempre nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a energia cinética do contrapeso tem sempre o mesmo valor da energia cinética da cabine, pois as duas velocidades têm o mesmo módulo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a energia potencial da cabine é sempre decrescente nessa viagem.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-2fase-q4",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 4,
+    "statement": "Considere uma situação inicial em que um astronauta está inicialmente sem movimento em relação à sua nave, e esta também está parada em relação a um dado referencial inercial. Depois disso, o astronauta sai do transporte sem o uso de qualquer propulsão, apenas empurrando a nave. Assim, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "no sistema composto pela nave e pelo astronauta, o momento linear total é sempre maior que zero, pois o astronauta se move, sendo sua velocidade não nula.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "após a saída do tripulante, a nave permanece parada, pois a força exercida pelo tripulante para sair da nave atua somente nele mesmo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o princípio da conservação do momento linear, aplicado ao sistema homem nave, não é válido, pois o astronauta executa uma força para sair da nave.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "no sistema composto pela nave e pelo astronauta, o momento linear total é zero após a saída do tripulante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.1-2fase-q5",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 5,
+    "statement": "Uma pessoa, ao realizar um serviço na fachada de uma casa, fica apoiada pelos dois pés no topo de uma escada. Suponha que a escada perde o equilíbrio e tomba para trás, sem deslizar o ponto de apoio com o solo. Suponha também que a escada é indeformável, e que a trajetória do ponto de contato da pessoa com a escada seja um arco de círculo. Considere que a escada exerce sobre o usuário uma força de reação que tem direção radial nesse arco de círculo. Sobre o trabalho realizado pela força de reação da escada sobre os pés do usuário durante a queda, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "é nulo pois a força de reação é perpendicular ao deslocamento.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é dado pelo produto da força de reação pelo comprimento do arco de círculo da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é dado pelo produto da força peso do usuário pelo comprimento do arco de círculo da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é nulo pois a força peso é constante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-2fase-q6",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 6,
+    "statement": "Dois carros idênticos e de mesma massa, viajando no mesmo sentido, trafegam em uma estrada plana e retilínea, sendo que o carro da frente tem o dobro da velocidade do outro. Dessa forma, é correto dizer que a distância de cada automóvel ao centro de massa do sistema composto pelos carros",
+    "options": [
+      {
+        "label": "a",
+        "text": "diminui com o passar do tempo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "aumenta com o passar do tempo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é maior para o carro mais veloz.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.1-2fase-q7",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 7,
+    "statement": "Em hotéis, é comum o aquecimento de água ser a gás ou outro combustível, sendo que para o chuveiro seguem dois canos: um com água natural e outro com água aquecida. Antes da saída do chuveiro, há um misturador, que homogeneíza a mistura. Considere que após o misturador, por falhas na qualidade do isolamento térmico dos canos, há passagem de calor para o ambiente antes de a água sair no chuveiro. Considerando esse sistema, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "há transferência de calor da água quente para a fria no misturador e, no trecho entre o misturador e a saída do chuveiro, há somente ganho de energia térmica da mistura.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "há transferência de calor da água quente para a fria no misturador e, no trecho entre o misturador e a saída do chuveiro, há perda de energia térmica da mistura.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "não há transferência de calor da água quente para a fria no misturador e, no trecho entre o misturador e a saída do chuveiro, há perda de energia térmica da mistura.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não há transferência de calor da água quente para a fria no misturador e, no trecho entre o misturador e a saída do chuveiro, há ganho de energia térmica da mistura.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.1-2fase-q8",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 8,
+    "statement": "Considere um edifício cilíndrico, cujas dimensões horizontais são bem menores que sua altura. Suponha que este edifício é sustentado por 100 colunas iguais, com mesmo espaçamento entre elas, situadas, o mais externamente possível, abaixo do primeiro andar. Caso uma dessas colunas seja completamente quebrada e que ainda assim é mantido o equilíbrio estático do prédio, é correto afirmar que cada coluna restante recebe, aproximadamente, uma carga equivalente a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/100 do peso do edifício.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/99 do peso do edifício.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "todo o peso do edifício.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "99/100 do peso do edifício.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.1-2fase-q9",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 9,
+    "statement": "Desejando-se montar uma árvore de natal usando um pinheiro natural e de pequeno porte, será necessário removê-lo de uma floresta. Assim, optou-se por realizar a extração dessa planta, mediante o tombamento de seu tronco. Assumindo-se que o caule pode ser tratado como uma haste rígida, a força para que haja maior torque em relação ao ponto de fixação no solo deverá ser aplicada, nesse caule,",
+    "options": [
+      {
+        "label": "a",
+        "text": "o mais próximo possível do solo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "na altura média da árvore.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "em qualquer ponto.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o mais distante possível do solo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.1-2fase-q10",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 10,
+    "statement": "Considere um raio de luz que incide sobre um espelho, do tipo construído por uma chapa de vidro de faces paralelas, sendo uma delas coberta por uma tinta metálica reflexiva. Suponha que o raio incidente é parcialmente refletido na primeira superfície da chapa, refrata dentro do vidro, reflete na superfície metálica e faz seu caminho de volta ao ar. Dessa forma, o raio que incidiu com um certo ângulo φ produz dois raios de volta ao ar. Os ângulos que esses dois raios fazem com a normal ao espelho são iguais a",
+    "options": [
+      {
+        "label": "a",
+        "text": "zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\varphi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\varphi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\varphi/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.1-2fase-q11",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 11,
+    "statement": "Considere um arranjo natalino formado por três lâmpadas incandescentes idênticas, ligadas entre si de modo a formar um arranjo triangular. Simplificadamente, cada lâmpada pode ser tratada como um resistor ôhmico. Nesse arranjo, cada elemento da associação tem um de seus terminais ligado a um único terminal de outra lâmpada. Dessa forma, há três pontos que podem ser conectados aos polos de uma bateria. Supondo que sejam escolhidos dois desses pontos, aleatoriamente, e se faça a conexão com a fonte de tensão, é correto dizer que",
+    "options": [
+      {
+        "label": "a",
+        "text": "duas lâmpadas terão maior luminosidade do que uma terceira.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "duas lâmpadas terão menor luminosidade do que uma terceira.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "todas as lâmpadas terão mesma luminosidade.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nenhuma lâmpada acenderá.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-2fase-q12",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 12,
+    "statement": "Um enfeite para festas natalinas foi construído com 100 lâmpadas LED (light emitting diode) dispostas ao longo de uma linha, com as lâmpadas eletricamente associadas. Apesar de o fabricante afirmar que as lâmpadas têm 100% de garantia de não apresentarem defeito, uma delas veio, de fábrica, com seus circuitos internos interrompidos. Dessa forma, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o enfeite não acenderá, caso as lâmpadas sejam ligadas em série.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o enfeite não acenderá, caso as lâmpadas sejam ligadas em paralelo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o enfeite acenderá, caso as lâmpadas boas sejam ligadas em paralelo e esta associação seja ligada em série com a lâmpada defeituosa.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não há formas de associação das 100 lâmpadas que permita o arranjo acender.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-2fase-q13",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 13,
+    "statement": "Dispositivos Bluetooth operam em uma faixa de frequência de rádio conhecida como ISM (industrial, scientific, medical), localizada entre 2,400 GHz e 2,485 GHz. Sobre o comprimento de onda λ nos extremos inferior e superior ($\\lambda_{INFERIOR}$ e $\\lambda_{SUPERIOR}$) dessa faixa, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\lambda_{INFERIOR} > \\lambda_{SUPERIOR}$, sendo a velocidade de propagação igual à da luz, que é variável em função do movimento do dispositivo Bluetooth.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\lambda_{INFERIOR} < \\lambda_{SUPERIOR}$, sendo a velocidade de propagação igual à da luz, que é variável em função do movimento do dispositivo Bluetooth.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\lambda_{INFERIOR} < \\lambda_{SUPERIOR}$, sendo a velocidade de propagação constante e igual à da luz.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\lambda_{INFERIOR} > \\lambda_{SUPERIOR}$, sendo a velocidade de propagação constante e igual à da luz.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.1-2fase-q14",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 14,
+    "statement": "Noticiou-se, recentemente, que duas composições do VLT (veículo leve sobre trilhos) em Fortaleza colidiram frontalmente. Suponha que os dois trafegavam em uma única linha reta antes do choque e que as composições eram idênticas, viajavam vazias e à mesma velocidade. Assim, é correto concluir que, nesse trecho reto descrito, o centro de massa do sistema composto pelos dois trens",
+    "options": [
+      {
+        "label": "a",
+        "text": "se deslocou somente antes da colisão e com velocidade constante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se deslocou somente após a colisão e com velocidade constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "não se deslocou até a ocorrência da colisão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se deslocou com velocidade variável.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.1-2fase-q15",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 15,
+    "statement": "A dinâmica de uma criança descendo um tobogã, de modo simplificado e dentro de certos limites, pode ser tratada como uma massa puntiforme deslizando sobre um plano inclinado e com atrito. Para aplicação das leis de Newton a essa massa, as forças podem ser decompostas de muitos modos. Considerando-se duas dessas abordagens, quais sejam: (i) decompor em componentes tangenciais e perpendiculares ao plano inclinado; e (ii) decompor em componentes verticais e horizontais, é correto afirmar que,",
+    "options": [
+      {
+        "label": "a",
+        "text": "em (i), o vetor força peso da massa tem uma componente e a força de atrito, duas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "em (ii), o vetor força peso da massa tem duas componentes e a força de atrito, uma.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "em (i), o vetor força peso da massa tem duas componentes e a força de atrito, uma.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "em (i) e (ii), o vetor força peso e a força de atrito têm apenas uma componente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.1-2fase-q16",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 16,
+    "statement": "Uma lâmpada LED (light emitting diode), para ser ligada diretamente à tomada residencial, tem, em seu invólucro, alguns elementos de circuitos, além do próprio LED. Dentre esses elementos, estão resistores, indutores e capacitores. Quanto ao armazenamento de cargas elétricas nesses elementos, é correto afirmar que é possível apenas no",
+    "options": [
+      {
+        "label": "a",
+        "text": "indutor.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "capacitor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "resistor.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "capacitor e no indutor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.1-2fase-q17",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 17,
+    "statement": "Na conversão entre múltiplos de uma unidade de medida, tais como Hz para MHz, kg para g, o fator de conversão",
+    "options": [
+      {
+        "label": "a",
+        "text": "é adimensional.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem a mesma dimensão da unidade em que se apresenta como prefixo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem a dimensão de frequência multiplicada por massa.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não pode ter sua unidade de medida determinada somente com os dados do enunciado.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-2fase-q18",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 18,
+    "statement": "Nos últimos meses, foram noticiadas muitas queimadas na Floresta Amazônica. Considerando que não haja correntes de vento horizontais na região de incêndio, a fumaça tende a subir, pelo fato de",
+    "options": [
+      {
+        "label": "a",
+        "text": "ter menor densidade que o ar acima do incêndio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ter maior densidade que o ar acima do incêndio.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ter menor viscosidade que o ar nas regiões laterais à queimada.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ter maior viscosidade que o ar nas regiões laterais à queimada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.1-2fase-q19",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 19,
+    "statement": "Uma pessoa observa a linha do horizonte no mar a partir de um edifício alto. O olho do observador está a uma altura $h$ do solo e a Terra pode ser considerada, de modo simplificado, como uma esfera de raio $R$. Desprezando-se as limitações ópticas do olho humano, é correto concluir que a maior distância, na superfície do mar, que poderia ser vista pelo observador, medida em linha reta a partir de seu olho, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{(h+R)^2+R^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{h^2-R^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{(h+R)^2-R^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{h^2+R^2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.1-2fase-q20",
+    "examId": "2020.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 20,
+    "statement": "Os motores elétricos apresentam algumas vantagens em relação aos impulsionados por combustíveis fósseis. Para que a bateria de um determinado carro elétrico esteja completamente carregada, é necessária uma carga de 5h de duração, a partir de uma fonte que forneça 2kW de potência. Considere que, da energia transmitida pela fonte, 80% seja armazenada na bateria durante o carregamento. Sabendo-se que o consumo de um carro elétrico é de 1kWh para cada 6 km rodados, a máxima distância percorrida, em km, pelo referido automóvel, a partir de uma bateria com carga completa é",
+    "options": [
+      {
+        "label": "a",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "48.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-q39",
+    "examId": "2020.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 39,
+    "statement": "No segundo semestre do ano, é comum ocorrer baixa umidade relativa do ar, ou seja, baixa concentração da substância H₂O no ar. Em relação ao estado da água na situação acima descrita, é correto afirmar que está",
+    "options": [
+      {
+        "label": "a",
+        "text": "no estado gasoso.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "na forma de gotas de chuva.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "no estado sólido.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "em transição do sólido para o líquido.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.2-q40",
+    "examId": "2020.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 40,
+    "statement": "Em fotografia, fala-se muito de foco da lente, imagem fora de foco, imagem bem focada etc. De modo simplificado, pode-se imaginar que o conjunto ótico de uma máquina fotográfica seja apenas uma lente delgada convergente. Em uma lente desse tipo, idealmente, o conjunto de todos os pontos que estejam na mesma distância focal pertence a uma mesma superfície",
+    "options": [
+      {
+        "label": "a",
+        "text": "plana e tangente ao eixo principal da lente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "plana e perpendicular ao eixo principal da lente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "esférica e perpendicular ao eixo principal da lente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "esférica e tangente ao eixo principal da lente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-q41",
+    "examId": "2020.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 41,
+    "statement": "Considere dois resistores com resistências diferentes e que obedeçam à Lei de Ohm. Caso estejam associados e conectados a uma bateria, é correto afirmar que, se estiverem em",
+    "options": [
+      {
+        "label": "a",
+        "text": "paralelo, a corrente elétrica é a mesma nos dois.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "paralelo, a tensão elétrica e a potência dissipada são as mesmas nos dois.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "série, a tensão elétrica e a potência dissipada são as mesmas nos dois.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "série, a corrente elétrica é a mesma nos dois.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.2-q42",
+    "examId": "2020.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 42,
+    "statement": "Recentemente os jornais locais noticiaram o que teria sido a queda de um pequeno meteoro no Ceará. Há relatos de uma \"bola de fogo\" vista no céu. Essa luminosidade é ocasionada pelo superaquecimento do objeto devido",
+    "options": [
+      {
+        "label": "a",
+        "text": "ao atrito com o ar, que transforma energia cinética do meteoro em energia potencial gravitacional.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ao atrito com o ar, que transforma energia potencial gravitacional do meteoro em energia cinética.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ao atrito com o ar, que transforma energia mecânica do meteoro em energia térmica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ao campo gravitacional do meteoro, que emite radiação em comprimento de onda visível.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-q43",
+    "examId": "2020.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 43,
+    "statement": "Considere dois canos de PVC de uso regular em instalações hidráulicas residenciais. Suponha que os canos sejam utilizados para descida de água de uma mesma caixa d'água. Assuma que os dois dutos descem até o piso e têm diâmetros diferentes: um tem diâmetro 1/2 polegada e o outro 3/4 de polegada. A razão entre a pressão hidrostática dentro do cano 3/4 e a pressão no cano 1/2, a uma mesma altura do piso, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-q44",
+    "examId": "2020.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 44,
+    "statement": "Considere que, em um jogo do Campeonato Brasileiro de Futebol, retomado recentemente, uma bola foi chutada a partir do solo, e que seu vetor velocidade inicial fez um ângulo de 30° com o gramado. Na análise mecânica do sistema, desconsidere todos os atritos e trate o comprimento da trajetória da bola como sendo muito maior que seu diâmetro. No instante imediatamente antes de a bola chegar ao chão, o módulo de sua",
+    "options": [
+      {
+        "label": "a",
+        "text": "aceleração será o mesmo que tinha imediatamente após o chute.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "aceleração será menor que o valor imediatamente após o chute.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "velocidade será maior que o valor que tinha imediatamente após o chute.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "velocidade será menor que o valor que tinha imediatamente após o chute.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.2-q45",
+    "examId": "2020.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 45,
+    "statement": "Durante as semanas de isolamento social mais intenso, verificou-se uma redução sensível de poluentes atmosféricos nas grandes cidades. Uma das formas de quantificar determinados poluentes é pela sua concentração, dada em µg/m³. Supondo-se que a velocidade do som no ar seja diretamente proporcional à concentração desses tipos de poluentes, a constante de proporcionalidade deve ter, no Sistema Internacional de Unidades, a seguinte unidade de medida:",
+    "options": [
+      {
+        "label": "a",
+        "text": "m³/µg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(kg·s)/m⁴.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "m⁴/(kg·s).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "m/(kg·s).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-q46",
+    "examId": "2020.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 46,
+    "statement": "Em função da COVID-19, o acesso a locais públicos fechados tem sido permitido mediante a aferição da temperatura corporal da pessoa. Considerando o limite superior de 37°C, assinale a opção que corresponde à temperatura que está acima desse limite.",
+    "options": [
+      {
+        "label": "a",
+        "text": "100,4 °F",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "97,7 °F",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "309,65 K",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "37 K",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.2-2fase-q1",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Considere uma bola de futebol que, após o chute, descreve uma trajetória parabólica em relação à superfície horizontal de lançamento. Desprezando todos os atritos e considerando a bola como um ponto material, é correto afirmar que a componente",
+    "options": [
+      {
+        "label": "a",
+        "text": "horizontal do seu vetor velocidade não muda ao longo da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "vertical do seu vetor velocidade não muda ao longo da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "horizontal do seu vetor aceleração muda ao longo da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "vertical do seu vetor aceleração muda ao longo da trajetória.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.2-2fase-q2",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "No contexto de movimento relativo, considere dois observadores, sendo que um deles executa um movimento circular em torno de um ponto P fixo no solo, e o outro observador permanece parado no solo. Um objeto muito pequeno que permanece localizado no ponto P tem as seguintes velocidades relativas, em módulo:",
+    "options": [
+      {
+        "label": "a",
+        "text": "zero para o observador parado e maior que zero para o observador em movimento circular.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "zero para o observador em movimento circular e maior que zero para o observador parado.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "zero em relação aos dois observadores.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "maior que zero em relação aos dois observadores.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.2-2fase-q3",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 3,
+    "statement": "Em alguns dispositivos médicos, onde há passagem de fluidos através de tubos plásticos para veias de pacientes, há necessidade de um detector de bolhas nos dutos. Uma das formas de se detectar bolhas é através da construção de um capacitor em que o tubo com o líquido passa entre as placas. Nesse dispositivo, a capacitância muda quando há mudança do material dentro do tubo, como durante a passagem de uma bolha. Suponha que a capacitância seja $C$ durante a passagem somente de líquido, e com presença de uma bolha seja $C/(1+kd)$, onde $d$ é o diâmetro da bolha e $k$ é uma constante com as dimensões apropriadas. Caso seja aplicada uma diferença de potencial $V$, constante, aos terminais do capacitor, a carga em função do diâmetro da bolha será",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma função crescente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma função decrescente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sempre nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-2fase-q4",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 4,
+    "statement": "Um prato de massa $m$ está em repouso sobre uma mesa de jantar horizontal, com coeficiente de atrito estático entre a mesa e o prato dado por $\\mu_E$. Considere que o módulo da aceleração da gravidade no local vale $g$. Suponha que seja aplicada ao prato uma força variável cujo módulo vai de zero até o valor em que o prato fique na iminência do deslizamento. Assim, sobre esse sistema mecânico, é correto afirmar que, durante a aplicação da força acima descrita, o trabalho realizado pela força de atrito sobre o prato é",
+    "options": [
+      {
+        "label": "a",
+        "text": "nulo e a soma vetorial de todas as forças atuantes no prato tem direção vertical.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "dado por $\\mu_E mg$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "nulo e a soma vetorial de todas as forças atuantes no prato também é nula.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "dado por $\\mu_E g$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-2fase-q5",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 5,
+    "statement": "Considere uma carga elétrica puntiforme, $Q$, na presença de um campo elétrico constante e de módulo $E$. Sobre o vetor força elétrica atuante na carga devido a esse campo, é correto afirmar que seu módulo é dado por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$EQ$, e sua direção é perpendicular às linhas de campo elétrico.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$Q/E$, e sua direção é perpendicular às linhas de campo elétrico.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$Q/E$, e sua direção é tangente às linhas de campo elétrico.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$EQ$, e sua direção é tangente às linhas de campo elétrico.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.2-2fase-q6",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 6,
+    "statement": "O motor de um carro elétrico tem seu eixo acoplado a uma polia de raio $r$. Esta polia é acoplada mecanicamente a outra maior, de raio $R$, por uma correia inextensível e que não desliza nas polias. Considerando apenas os pontos de contato entre as polias e a correia, é correto afirmar que a velocidade",
+    "options": [
+      {
+        "label": "a",
+        "text": "angular dos pontos na superfície da polia pequena é a mesma dos pontos na superfície da grande.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "linear dos pontos na superfície da polia pequena é a mesma dos pontos na superfície da grande.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "angular dos pontos na superfície da polia pequena é menor que dos pontos na superfície da grande.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "linear dos pontos na superfície da polia pequena é menor que dos pontos na superfície da grande.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-2fase-q7",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 7,
+    "statement": "Considere um painel solar fotovoltaico usado exclusivamente para gerar a energia elétrica que alimenta um ferro de passar roupas. Assuma que nem toda a energia elétrica gerada pelo painel ($E_{PAINEL}$) é convertida em energia térmica no ferro de passar ($E_{FERRO}$), havendo perdas nos fios e em outros elementos dos circuitos. Considere que a eficiência do painel solar é de 16%, ou seja, apenas 16% da energia solar que chega ao painel é convertida em energia elétrica. Sendo a quantidade de energia dissipada nos circuitos dada por $E_{PERDAS}$, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$E_{PAINEL}/E_{FERRO} = 16/100$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$E_{PAINEL} = E_{PERDAS} + E_{FERRO}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$E_{FERRO}/E_{PAINEL} = 16/100$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$E_{PAINEL} = E_{FERRO}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-2fase-q8",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 8,
+    "statement": "Considere o campo elétrico gerado entre as placas de um capacitor de placas paralelas formado por dois discos planos. No que diz respeito ao campo elétrico entre os discos, próximo aos seus centros geométricos, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "é constante e tem linhas de campo normais às placas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é variável e tem linhas de campo normais às placas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é constante e tem linhas de campo tangentes às placas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é variável e tem linhas de campo tangentes às placas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.2-2fase-q9",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 9,
+    "statement": "Sobre as linhas de campo magnético, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "se cruzam na região intermediária entre dois polos, e saem do polo positivo para o neutro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "nunca se cruzam na região intermediária entre dois polos, e saem do polo positivo para o neutro.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se cruzam na região intermediária entre dois polos, e saem do polo positivo para o negativo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nunca se cruzam e sempre saem de um polo e chegam em outro.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.2-2fase-q10",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "Em um gás ideal, considere as curvas isotermas de pressão e volume (PV), e as curvas isobáricas, de volume e temperatura (VT). É correto afirmar que os gráficos",
+    "options": [
+      {
+        "label": "a",
+        "text": "PV são retas e as VT são hipérboles.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "PV e VT são hipérboles.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "PV são hipérboles e as VT são retas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "PV e VT são retas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-2fase-q11",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "É comum se ouvir o comentário de que um carro com motor turbo é mais potente. Em termos simplificados, um motor de carro tem uma câmara que recebe ar e combustível, passando essa mistura por um processo de combustão (queima) muito rápido. No motor turbo, se comparado a um motor regular, consegue-se injetar mais ar, o que permite a injeção de mais combustível e assim uma maior potência. O ar injetado passa por um processo de compressão em um dispositivo chamado turbina. Caso essa compressão ocorra sem transferência de calor, o ar, após passar pela turbina, tem sua temperatura",
+    "options": [
+      {
+        "label": "a",
+        "text": "elevada e sua pressão reduzida.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "reduzida e sua pressão aumentada.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "reduzida e sua pressão diminuída.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "elevada e sua pressão aumentada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.2-2fase-q12",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 12,
+    "statement": "Considere que, em dado intervalo de tempo, dois pontos de uma dada roda metálica de um trem descrevem um movimento circular uniforme. Caso se considere a roda como indeformável, que o ponto $P_1$ está mais próximo do eixo e o ponto $P_2$ está mais próximo à borda, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a aceleração linear dos dois pontos é a mesma.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a velocidade angular dos dois pontos é a mesma.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a velocidade angular de $P_1$ é maior que a de $P_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a aceleração angular de $P_1$ é maior que a de $P_2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-2fase-q13",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 13,
+    "statement": "Um raio de luz incide, a partir do ar, em um líquido com índice de refração ($n$) maior que o do ar. Considere que o raio luminoso faz um ângulo $90° - \\theta$ com a normal à superfície plana de separação entre o líquido e o ar. Se $\\theta = 90°$, é correto afirmar que o raio, ao passar para o meio líquido, tem ângulo de refração igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "90°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.2-2fase-q14",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 14,
+    "statement": "Ondas eletromagnéticas diferem de ondas sonoras por diversos aspectos, dentre os quais encontra-se o fato de que",
+    "options": [
+      {
+        "label": "a",
+        "text": "ondas eletromagnéticas têm comprimento de onda, e ondas sonoras têm apenas frequência.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ondas eletromagnéticas podem se propagar no vácuo e as sonoras, não.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "apenas ondas eletromagnéticas sofrem refração.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "apenas ondas sonoras sofrem interferência.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2020.2-2fase-q15",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "O níquel cromo é uma liga metálica muito utilizada na confecção de resistências para aquecimento em eletrodomésticos, como chuveiros elétricos e ferros de passar. Considere um resistor confeccionado a partir de um fio de níquel cromo disposto em linha reta sobre uma mesa isolante. Considere que as duas extremidades do fio estão conectadas a uma bateria de 9 V. Suponha que um condutor, que chamaremos de \"ponta de prova\", seja conectado eletricamente a um ponto do fio de níquel cromo, de modo que possa deslizar ao longo de toda a extensão desse resistor sem perder contato elétrico. Medindo a diferença de potencial entre a ponta de prova ($V_{PP}$) e o terminal positivo da bateria ($V_+$), é correto afirmar que $\\Delta V = V_{PP} - V_+$ pode variar entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "-9 e 0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0 e 9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-4,5 e 4,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0 e 4,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2020.2-2fase-q16",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 16,
+    "statement": "Um objeto em movimento, cujas dimensões podem ser desprezadas em relação ao tamanho de sua trajetória, tem sua energia cinética mudada de 5J para 3J pela ação de uma única força. O trabalho total realizado sobre esse corpo durante essa mudança em sua energia cinética é, em J,",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.2-2fase-q17",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 17,
+    "statement": "Em um experimento em laboratório ótico, dois espelhos planos retangulares são aproximados um do outro até que a aresta de um toque completamente a aresta do outro. O sistema ótico é tal que as faces reflexivas dos dois espelhos formam entre si um ângulo $\\theta$. Neste experimento, faz-se incidir sobre um dos espelhos um raio de luz que se propaga em um plano perpendicular à aresta formada pelo encontro dos dois espelhos. Para que o raio seja refletido pelos dois espelhos e saia paralelo ao raio incidente, o valor de $\\theta$ deverá ser igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "30°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2020.2-2fase-q18",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 18,
+    "statement": "Considere um objeto cúbico, de massa 1 kg, que repousa sobre uma mesa horizontal sem atrito. Pela ação de uma força constante, o objeto sai do repouso e atinge uma velocidade de 3 m/s, em módulo, após se deslocar por uma distância de 1,5 m. O módulo da força resultante atuando no objeto, em N, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-2fase-q19",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 19,
+    "statement": "Em um experimento em sala de aula, no estudo da mecânica, um objeto repousa suspenso por uma mola de constante elástica $k$, cuja distensão é $x$. Em um segundo experimento, o mesmo objeto repousa suspenso por duas molas iguais à do primeiro caso e associadas em paralelo. A energia potencial elástica em cada mola durante o segundo experimento é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{2}k(x)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2 \\cdot \\dfrac{1}{2}k(x)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{2}k\\left(\\dfrac{x}{2}\\right)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{2}k(2x)^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2020.2-2fase-q20",
+    "examId": "2020.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Um pêndulo simples pode ser construído por uma massa pontual presa a uma das extremidades de um fio inextensível e de comprimento $L$, sendo a outra extremidade presa a um suporte fixo. Considere que a aceleração da gravidade vale, em módulo, $g$. Assim, o tempo necessário para a massa oscilante ir de uma extremidade da trajetória à outra extremidade é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi\\sqrt{\\dfrac{L}{g}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\pi\\sqrt{\\dfrac{L}{g}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\pi\\sqrt{\\dfrac{g}{L}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi\\sqrt{\\dfrac{g}{L}}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
