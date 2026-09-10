@@ -20094,5 +20094,1797 @@
     ],
     "imagePath": null,
     "annulled": true
+  },
+  {
+    "id": "2018.1-q39",
+    "examId": "2018.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 39,
+    "statement": "No ouvido, para a chegada de informações sonoras ao cérebro, o som se propaga, de modo simplificado, por três meios consecutivos: o ar, no ouvido médio, um meio sólido (os ossos martelo, bigorna e estribo) e um meio líquido, no interior da cóclea. Ao longo desse percurso, as ondas sonoras têm",
+    "options": [
+      {
+        "label": "a",
+        "text": "mudança de frequência de um meio para o outro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "manutenção da amplitude entre os meios.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "mudança de velocidade de propagação de um meio para o outro.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "manutenção na forma de onda e na frequência entre os meios.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-q40",
+    "examId": "2018.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 40,
+    "statement": "Luz infravermelha com comprimentos de onda entre 780 e 1.400 nm tem maior penetração na pele, podendo superar 4 mm de profundidade. Essa característica é bem útil em aplicações em que o calor é utilizado no tratamento de lesões musculares localizadas. Para essa faixa do espectro eletromagnético, as frequências, em Tera Hertz, ficam localizadas aproximadamente entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "780 e 1.400.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "380 e 210.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$780 \\times 3 \\times 10^8$ e $1.400 \\times 3 \\times 10^8$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$380 \\times 3 \\times 10^8$ e $210 \\times 3 \\times 10^8$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.1-q41",
+    "examId": "2018.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 41,
+    "statement": "Há uma legislação específica do Ministério da Saúde para produtos comestíveis, como sorvetes, que estabelece, dentre outras normas, que o volume de 1 kg desses produtos deve ser de aproximadamente 2,105 L. Assim, é correto afirmar que a densidade recomendada para esses produtos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,105 kg/L.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "210,5 g/L.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4,75 kg/L.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,475 g/L.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-q42",
+    "examId": "2018.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 42,
+    "statement": "Considere um tanque cilíndrico com água e cuja pressão no fundo é $10^5$ N/m². Considerando a aceleração da gravidade como 10 m/s² e a densidade da água 1 kg/L, é correto afirmar que a altura da coluna de água é, em metros,",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.1-q43",
+    "examId": "2018.1",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 43,
+    "statement": "Uma chaminé de 30 m de altura pende, sem se quebrar, até uma inclinação de 30° com a vertical. Considere a aceleração da gravidade como 10 m/s² e o diâmetro da chaminé muito menor que sua altura. Suponha que nessa configuração haja uma força vertical de 1 N puxando rumo ao solo a ponta da chaminé. Nesta situação, o torque exercido por essa força no topo da chaminé vale, em N×m,",
+    "options": [
+      {
+        "label": "a",
+        "text": "150.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$30\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$300\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-q44",
+    "examId": "2018.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 44,
+    "statement": "Considere um tanque cilíndrico contendo água até uma altura $h$, em metros. No fundo do tanque há uma torneira, através da qual passa um determinado volume (em m³) de água a cada segundo, resultando em uma vazão $q$ (em m³/s). É possível escrever a altura em função da vazão q através da equação $h = Rq$, onde a constante de proporcionalidade R pode ser entendida como uma resistência mecânica à passagem do fluido pela torneira. Assim, a unidade de medida dessa resistência é",
+    "options": [
+      {
+        "label": "a",
+        "text": "s/m².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "s/m³.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "m³/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "m/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.1-q45",
+    "examId": "2018.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 45,
+    "statement": "A física ambiental aborda, dentre outros assuntos, a poluição atmosférica. Na atmosfera poluída de grandes centros urbanos há, além de gases, poluentes na forma de partículas. A área superficial dessas partículas é um fator muito relevante no seu impacto ambiental. Considere duas partículas com mesma densidade e tamanhos diferentes, de modo que uma tem o dobro da massa da outra. Para simplificar a análise, considere que as partículas sejam esféricas. Suponha que seja colhida uma amostra A somente com partículas maiores, e outra amostra B somente com partículas do tamanho menor. As duas amostras têm a mesma massa total. A área total das partículas em cada amostra é obtida pela soma das áreas das esferas. Assim, a razão entre a área total na amostra de partículas menores pela área total das partículas maiores é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2^{1/3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2^{2/3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-q46",
+    "examId": "2018.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 46,
+    "statement": "Considere uma locomotiva puxando vagões sobre trilhos. Em um primeiro trecho da viagem, é aplicada uma força de 1 kN aos vagões, que se deslocam a 10 m/s. No trecho seguinte, é aplicada uma força de 2 kN e a velocidade é 5 m/s. A razão entre a potência no trecho inicial e no segundo trecho é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.1-2fase-q1",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "Ao longo de uma viagem, um automóvel de 1.000 kg para em dois pontos da trajetória: um ponto A na estrada com inclinação de 30° em relação à horizontal, e um ponto B na via com inclinação de 90° em relação à vertical. Considere que, no carro, atuam somente as forças da gravidade ($g = 10$ m/s²), normal e de atrito ($\\mu = 0,7$). As forças de atrito estático (em N) que atuam no carro nos pontos A e B são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "500 e 0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0 e 500.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1.000\\sqrt3/2$ e 500.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "500 e $1.000\\sqrt3/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2018.1-2fase-q2",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 2,
+    "statement": "Um livro de 500 g é posto para deslizar sobre uma mesa horizontal com atrito constante (coeficiente $\\mu = 0,1$). O trabalho realizado sobre o livro pela força normal à mesa é, em J,",
+    "options": [
+      {
+        "label": "a",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "500.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.1-2fase-q3",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 3,
+    "statement": "Considere um pneu de 10 kg que gira sem deslizar sobre uma estrada horizontal. Despreze as deformações que o pneu possa sofrer, considere que o eixo de rotação se mantém sempre horizontal e que sobre o pneu haja apenas a força de atrito com a estrada ($\\mu = 0,1$) e a força da gravidade ($g = 10$ m/s²) e a normal. Durante um deslocamento de 2 m sobre a estrada, o trabalho realizado pela força de atrito é, em J,",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-2fase-q4",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 4,
+    "statement": "Considere que um vagão de metrô sofre uma aceleração de 5 m/s² durante a partida. Assuma que a aceleração da gravidade é 10 m/s². Assim, é correto afirmar que, durante esse regime de deslocamento, a cada segundo, a velocidade (em m/s) aumenta",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.1-2fase-q5",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 5,
+    "statement": "Um pêndulo ideal, formado por uma esfera presa a um fio, oscila em um plano vertical sob a ação da gravidade, da tensão no fio e de uma força de atrito entre o ar e a esfera. Considere que essa força de atrito seja proporcional à velocidade da esfera. Assim, é correto afirmar que, no ponto mais baixo da trajetória,",
+    "options": [
+      {
+        "label": "a",
+        "text": "a energia cinética é máxima e a perda de energia mecânica pelo atrito é mínima.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a energia cinética e a potencial são máximas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a energia cinética e a perda de energia mecânica pelo atrito são máximas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a energia cinética e a potencial são mínimas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-2fase-q6",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 6,
+    "statement": "Uma escada, em equilíbrio estático, é apoiada em uma parede vertical e repousa formando um ângulo de 60° com uma calçada horizontal. Sobre as forças de contato atuando na escada, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "as forças normais nos dois pontos de contato formam um ângulo de 60° entre si.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as forças normais nos dois pontos de contato são perpendiculares entre si.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a força normal sobre a escada no ponto de apoio com a parede forma um ângulo de 60° com a vertical.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a força normal sobre a escada no ponto de apoio com a parede forma um ângulo de 30° com a vertical.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.1-2fase-q7",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 7,
+    "statement": "Considere uma gangorra defeituosa, em que o ponto de apoio não está no centro. É possível que, mesmo assim, haja equilíbrio estático, com a gangorra na horizontal e uma criança em cada extremidade, desde que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a soma dos torques sobre a gangorra seja oposta à força peso das crianças.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o torque exercido sobre a gangorra em uma das extremidades seja igual à força peso na outra extremidade.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "as crianças tenham a mesma massa.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a soma dos torques sobre a gangorra seja nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-2fase-q8",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 8,
+    "statement": "Seja o sistema composto por duas cargas elétricas mantidas fixas a uma distância $d$ e cujas massas são desprezíveis. A energia potencial do sistema é",
+    "options": [
+      {
+        "label": "a",
+        "text": "inversamente proporcional a $1/d^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "proporcional a $d^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "proporcional a $1/d$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "proporcional a $d$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-2fase-q9",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 9,
+    "statement": "Considerando-se o módulo do momento linear, $p$, de um carro de massa $m$, a energia cinética do carro pode ser corretamente escrita como",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{p^2}{2m}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{p}{m}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{p}{2m}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{m}{2p^2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.1-2fase-q10",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 10,
+    "statement": "Considere um sistema massa-mola que oscila verticalmente sob a ação da gravidade, $g$, e tem a mola de constante elástica $k$ e distensão $x$. Sendo a massa $m$, é correto afirmar que a energia potencial do sistema é função de",
+    "options": [
+      {
+        "label": "a",
+        "text": "$k$ e $x^2$ apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$m, g, x$ e $k$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$m$ e $g$ apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$m, g$ e $x$ apenas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.1-2fase-q11",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "Em um gás ideal, o produto da pressão pelo volume dividido pela temperatura tem, no Sistema Internacional, unidade de medida de",
+    "options": [
+      {
+        "label": "a",
+        "text": "Pa/K.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Nm/K.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "m³/K.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Pa/m².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.1-2fase-q12",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "Considere um dado movimento oscilatório em que uma partícula seja sujeita a uma força proporcional a $\\cos(\\omega t^2)$, onde $t$ é o tempo. É correto afirmar que, neste caso, a unidade de medida de $\\omega$ no SI é",
+    "options": [
+      {
+        "label": "a",
+        "text": "s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "s⁻¹.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "s⁻².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "s².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-2fase-q13",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 13,
+    "statement": "Sobre lentes convergentes, é correto afirmar que um raio de luz que incide paralelo ao eixo da lente",
+    "options": [
+      {
+        "label": "a",
+        "text": "passa pelo foco após a refração.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "passa pelo foco após a difração.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "segue paralelo ao eixo após a refração.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "segue paralelo ao eixo após a difração.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.1-2fase-q14",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 14,
+    "statement": "Considere um carro que viaja em linha reta de forma que sua posição seja uma função linear do tempo. É correto afirmar que, entre dois instantes de tempo $t_1$ e $t_2$,",
+    "options": [
+      {
+        "label": "a",
+        "text": "a velocidade média é igual à soma das velocidades instantâneas nesses tempos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a velocidade instantânea é uma função crescente do tempo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a velocidade instantânea é uma função decrescente do tempo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a velocidade média é igual à média das velocidades instantâneas nesses tempos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-2fase-q15",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "Considere um dispositivo elétrico formado por uma bateria com um dos terminais ligado a um dos terminais de um resistor. Caso esse dispositivo seja conectado em paralelo a um segundo resistor, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a corrente fornecida pela bateria é diferente nos resistores.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a corrente nos dois resistores tem mesmo valor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a tensão nos dois resistores é sempre a mesma da bateria.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a soma das tensões nos resistores é o dobro da tensão na bateria.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-2fase-q16",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 16,
+    "statement": "Considere um tanque cilíndrico de altura $h$ e completamente cheio com um líquido incompressível. Sejam $P_F$ e $P_M$ a pressão hidrostática no fundo e a meia altura do tanque. Desprezando a pressão atmosférica, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P_F = P_M/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$P_F = P_M$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P_M - P_F = P_F$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$P_F - P_M = P_M$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-2fase-q17",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 17,
+    "statement": "Dois espelhos planos são dispostos paralelos um ao outro e com as faces reflexivas viradas uma para outra. Em um dos espelhos incide um raio de luz com ângulo de incidência de 45°. Considerando que haja reflexão posterior no outro espelho, o ângulo de reflexão no segundo espelho é",
+    "options": [
+      {
+        "label": "a",
+        "text": "45°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "180°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "90°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "22,5°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.1-2fase-q18",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 18,
+    "statement": "Em um sistema massa-mola, um objeto oscila de modo que sua posição seja dada por $x = A\\cos(2\\pi f t)$, onde A é uma constante com dimensão de comprimento, $x$ é a posição, $f$ a frequência e $t$ o tempo. A maior extensão do trajeto que o objeto percorre em um ciclo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$A/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$A$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2A$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\pi f$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-2fase-q19",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 19,
+    "statement": "O módulo do vetor campo magnético gerado por uma corrente elétrica constante passando por um fio retilíneo depende da distância do ponto de medição do campo ao fio. Assim, é correto afirmar que a direção desse vetor é",
+    "options": [
+      {
+        "label": "a",
+        "text": "perpendicular ao fio somente para um dos sentidos da corrente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "perpendicular ao fio independente do sentido da corrente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "paralela ao fio independente do sentido da corrente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "paralela ao fio somente para um dos sentidos da corrente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.1-2fase-q20",
+    "examId": "2018.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 20,
+    "statement": "Seja um anel metálico construído com um fio muito fino. O material tem coeficiente de dilatação linear $\\alpha$ e sofre uma variação de temperatura $\\Delta T$. A razão entre o comprimento da circunferência após o aquecimento e o comprimento inicial é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\alpha\\Delta T$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1/(1+\\alpha\\Delta T)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1/\\alpha\\Delta T$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1+\\alpha\\Delta T$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-q39",
+    "examId": "2018.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 39,
+    "statement": "Recentemente o tema combustível e caminhões ganhou destaque nos noticiários com a greve de caminhoneiros. Suponha que o consumo ($c$) de diesel de um caminhão, em m³ de combustível por metro viajado, seja proporcional à massa $M$ do veículo. Considere que o consumo seja descrito pela equação $c = \\beta M$, onde $\\beta$ é uma constante. No Sistema Internacional de Unidades $\\beta$ tem unidade de",
+    "options": [
+      {
+        "label": "a",
+        "text": "km/L.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "m²/kg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "L/km.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "m/kg.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.2-q40",
+    "examId": "2018.2",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 40,
+    "statement": "Ultimamente o futebol tem sido foco de noticiários em função da copa do mundo. Durante uma partida, suponha que a bola cai verticalmente sem girar e se choca com o solo. De modo simplificado, pode-se descrever esse choque como uma colisão entre dois corpos, sendo um a bola e o outro o planeta Terra. Caso se considere este evento como uma colisão elástica, é correto afirmar que há conservação",
+    "options": [
+      {
+        "label": "a",
+        "text": "da energia potencial da bola.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "da energia potencial da Terra.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "do momento linear total do sistema composto pela bola e o planeta.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "do momento linear da bola.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.2-q41",
+    "examId": "2018.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 41,
+    "statement": "Considere um mês em que o total de chuva registrada em Fortaleza seja de 300 mm. Suponha que a distribuição de chuva seja homogênea em toda a área do município. Considere um tanque cilíndrico sem tampa, que recebe água coletada diretamente pela exposição a essa chuva durante esse mês. A área da base do tanque é de 10 m². No mês em questão, o volume coletado no recipiente é, em litros,",
+    "options": [
+      {
+        "label": "a",
+        "text": "300.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.000.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30.000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.2-q42",
+    "examId": "2018.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 42,
+    "statement": "A Agência Nacional de Energia Elétrica anunciou bandeira vermelha 2 para as contas de luz de junho deste ano, o que significa um adicional de R$ 5,00 para cada 100 kWh consumidos. Considerando que uma certa indústria utilizou um resistor para aquecimento, cuja potência é 50 kW, por 4 horas durante esse mês, o adicional na conta associado a este consumo foi, em R$,",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "200.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.2-q43",
+    "examId": "2018.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 43,
+    "statement": "Em atividades esportivas, como os jogos de copa do mundo, o corpo do atleta tem sua temperatura aumentada e há produção de suor, que ao evaporar transfere calor do corpo para o vapor d'água na atmosfera. Nesse caso, há um processo termodinâmico em que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a entropia do suor evaporado é reduzida.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a entropia do suor evaporado é mantida constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "durante a evaporação do suor há sublimação.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o suor sofre uma mudança de estado.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-q44",
+    "examId": "2018.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 44,
+    "statement": "Sem considerar qualquer atrito e assumindo a força da gravidade constante, é correto afirmar que a trajetória idealizada de corpos que são arremessados horizontalmente próximos à superfície da Terra é",
+    "options": [
+      {
+        "label": "a",
+        "text": "reta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "hiperbólica.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "parabólica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "semicircular.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.2-q45",
+    "examId": "2018.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 45,
+    "statement": "Uma caixa d'água a 5 m de altura do solo é conectada a duas torneiras idênticas, ambas à mesma altura do solo. A torneira 1 é conectada ao fundo da caixa por um cano de 25 mm de diâmetro, e a torneira 2 é alimentada da mesma forma, mas por um cano de 40 mm. É correto afirmar que a pressão da água",
+    "options": [
+      {
+        "label": "a",
+        "text": "na torneira 1 é maior que na 2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "nas torneiras é a mesma se estiverem fechadas, e maior que zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "na torneira 2 é maior que na 1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nas torneiras é zero se ambas estiverem fechadas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.2-q46",
+    "examId": "2018.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 46,
+    "statement": "Em espelhos planos, e no contexto da óptica geométrica, o fenômeno comumente observado com raios de luz é a",
+    "options": [
+      {
+        "label": "a",
+        "text": "reflexão.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "refração.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "difração.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "interferência.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.2-2fase-q1",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 1,
+    "statement": "No contexto da mecânica newtoniana, diz-se que uma massa puntiforme está em equilíbrio quando a soma",
+    "options": [
+      {
+        "label": "a",
+        "text": "dos módulos das forças atuando nela é nula.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "vetorial de todas as forças atuando nela é nula.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "dos torques atuando nela é nula, calculados em relação a um eixo que passa pelo seu centro.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "dos momentos lineares dela varia com o tempo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.2-2fase-q2",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 2,
+    "statement": "Atualmente é bem difundido um exame de tomografia conhecido por PET-CT (acrônimo para Positron Emission Tomography with Computed Tomography). Nesse exame o paciente tem injetado em sua corrente sanguínea uma substância que emite radiação, especificamente na forma de pósitrons, que são detectados por componentes do tomógrafo. Os pósitrons têm a mesma massa do",
+    "options": [
+      {
+        "label": "a",
+        "text": "próton e carga positiva.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "próton e carga negativa.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "nêutron e carga positiva.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "elétron e carga positiva.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-2fase-q3",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 3,
+    "statement": "A mecânica newtoniana não é válida para descrever fenômenos que envolvam",
+    "options": [
+      {
+        "label": "a",
+        "text": "massas que possam ser tratadas como puntiformes e em velocidades muito menores do que a da luz.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "escala subatômica ou equilíbrio de corpos rígidos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "velocidades próximas à da luz.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "oscilações harmônicas em sistemas do tipo massa-mola.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.2-2fase-q4",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 4,
+    "statement": "Recentemente os noticiários reportaram um caso de resgate de pessoas em uma caverna alagada. Um mergulhador submerso, durante o trajeto até o ponto de resgate, sofre uma pressão hidrostática devido à coluna d'água sobre ele. Tratando-o como puntiforme, essa pressão é dada pelo produto da",
+    "options": [
+      {
+        "label": "a",
+        "text": "densidade da água, aceleração da gravidade e distância à superfície da água.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "densidade da água, volume do mergulhador e aceleração da gravidade.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "densidade do mergulhador, volume do mergulhador e aceleração da gravidade.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "densidade da água, volume e temperatura do mergulhador.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.2-2fase-q5",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 5,
+    "statement": "Em um relógio mecânico, os ponteiros de minuto e segundo têm velocidade angular, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "60 rpm e 1 rpm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60 radianos/s e 1 rpm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/60 rpm e 1 rpm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 radiano/s e 60 rpm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.2-2fase-q6",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 6,
+    "statement": "Considere a energia potencial gravitacional de uma massa puntiforme próxima à superfície da Terra. Suponha que a unidade de medida de comprimento no Sistema Internacional de Unidades fosse mudada para o centímetro. O valor numérico da energia potencial gravitacional, no sistema que usa centímetros, seria igual à do sistema original multiplicada por um fator de",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.000.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.2-2fase-q7",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 7,
+    "statement": "Um gás ideal tem seu estado termodinâmico completamente determinado pelas variáveis",
+    "options": [
+      {
+        "label": "a",
+        "text": "pressão, volume e carga elétrica.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "pressão, volume e temperatura.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "pressão, carga elétrica e temperatura.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "densidade, volume e gravidade.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.2-2fase-q8",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "Um gás ideal, em um recipiente, é mantido em temperatura constante e em equilíbrio térmico com a vizinhança. Nesse gás, o produto da pressão pelo volume é",
+    "options": [
+      {
+        "label": "a",
+        "text": "constante, independente de troca de massa com a vizinhança.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "constante, desde que a razão entre temperatura e número de moles seja constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "indefinido, pois o número de moles do gás só depende da temperatura.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "constante, desde que não haja entrada ou saída de gás.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-2fase-q9",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 9,
+    "statement": "Em um sistema oscilante, a corrente elétrica $i$ é descrita por $x = a \\cdot \\cos(b \\cdot t)$. As unidades de medida das constantes $a$ e $b$ são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "Hz e Ampère.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Ampère e Hz.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Ampère e segundo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "segundo e Ampère.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.2-2fase-q10",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 10,
+    "statement": "Considere um trecho de estrada em descida seguido por uma subida. De modo simplificado, considere que esse trecho tem um formato de arco de círculo. Tratando um carro que passa por esse trecho como uma massa puntiforme, é correto afirmar que o vetor força normal da estrada sobre o carro",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem direção e sentido que sempre apontam para o centro do arco de círculo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é sempre tangente à trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é sempre vertical.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é sempre horizontal.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.2-2fase-q11",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 11,
+    "statement": "A pressão hidrostática na base de uma coluna de líquido é",
+    "options": [
+      {
+        "label": "a",
+        "text": "proporcional à razão $\\dfrac{\\text{volume do líquido}}{\\text{massa do líquido}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "inversamente proporcional à altura.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "proporcional à razão $\\dfrac{\\text{massa do líquido}}{\\text{volume do líquido}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "inversamente proporcional à aceleração da gravidade.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.2-2fase-q12",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 12,
+    "statement": "Um sistema de massa constante, constituído por um gás ideal, está no estado inicial de volume $V_0$, pressão $P_0$ e temperatura $T_0$. Quando o sistema evolui para um novo estado de volume $\\dfrac{V_0}{2}$ e pressão $\\dfrac{P_0}{2}$, sua temperatura é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{T_0}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2T_0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$T_0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{T_0}{4}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-2fase-q13",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 13,
+    "statement": "Um fio de comprimento $L$, preso no teto, tem na sua outra extremidade uma massa $m$ que constitui um pêndulo simples que oscila com período $T$. As partículas ao longo do fio têm",
+    "options": [
+      {
+        "label": "a",
+        "text": "velocidades angulares diferentes.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mesma velocidade linear.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "mesma velocidade angular.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não têm velocidade angular.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.2-2fase-q14",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 14,
+    "statement": "Para fazer o transporte de peixes de um açude, um caminhão transporta um depósito cúbico de aresta A com água até sua metade em uma estrada plana horizontal ao longo de um comprimento de 10 km. A velocidade do caminhão é constante. O desnível $\\theta$ da superfície da água no depósito em relação à superfície da estrada é tal que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\cos\\theta = 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\cos\\theta = 1/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\cos\\theta = \\sqrt{3/2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\cos\\theta = \\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.2-2fase-q15",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 15,
+    "statement": "Um oscilador harmônico simples, do tipo massa-mola, tem a posição de sua massa descrita por $x = 2 \\cdot \\cos(3,14 \\cdot t)$. Nesse sistema, a amplitude e a frequência são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2 e 2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 e 3,14.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2 e 1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,14 e 2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.2-2fase-q16",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 16,
+    "statement": "Uma casca esférica metálica de raio $R$, carregada eletricamente, dá origem a um campo elétrico de intensidade $E$ em uma distância $3R$ do seu centro. Logo, o campo elétrico",
+    "options": [
+      {
+        "label": "a",
+        "text": "a uma distância $R/2$ do seu centro é igual a $E/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a uma distância $R/3$ do seu centro é igual a zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a uma distância $R/2$ do seu centro é igual a $4E$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "no seu centro é igual a $E$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-2fase-q17",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 17,
+    "statement": "Considere um circuito elétrico constituído por uma bateria E, um interruptor S e um capacitor C, ligados em série. Após um longo tempo, depois de fechar o interruptor S,",
+    "options": [
+      {
+        "label": "a",
+        "text": "a soma das cargas das placas do capacitor é zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a corrente elétrica fluindo para o capacitor é sempre crescente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a diferença de potencial entre as placas do capacitor é zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a diferença de potencial entre as placas do capacitor é sempre decrescente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.2-2fase-q18",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 18,
+    "statement": "Considerando que, em um espelho plano incide um raio de luz, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o ângulo de incidência é sempre suplementar ao de reflexão.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o ângulo de reflexão é sempre perpendicular ao espelho.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o ângulo de incidência é igual ao de reflexão e a direção normal é perpendicular ao plano do espelho.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o ângulo entre a superfície do espelho e o raio incidente é sempre igual ao ângulo entre o raio refletido e a direção normal.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.2-2fase-q19",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 19,
+    "statement": "Sobre o olho humano, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "somente detecta ondas eletromagnéticas de mesma amplitude.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "não detecta ondas eletromagnéticas polarizadas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "somente detecta ondas eletromagnéticas polarizadas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "detecta ondas eletromagnéticas nos comprimentos de onda entre o infravermelho e o ultravioleta.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-2fase-q20",
+    "examId": "2018.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Considere duas ondas mecânicas transversais, de mesma frequência e comprimento de onda, que se propagam no mesmo meio e produzem interferência. Considere um ponto do espaço em que haja interferência destrutiva. Nesse ponto",
+    "options": [
+      {
+        "label": "a",
+        "text": "a amplitude é máxima.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as ondas são defasadas de 0°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a amplitude é mínima.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "as ondas são defasadas de 180°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]

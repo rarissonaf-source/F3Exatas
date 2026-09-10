@@ -14078,5 +14078,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2018.1-q13",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 13,
+    "statement": "A soma de todas as frações da forma $\\dfrac{n}{n+1}$, onde n é um elemento do conjunto {1, 2, 3, 4, 5}, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,55.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,55.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,55.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,55.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-q14",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 14,
+    "statement": "Na seguinte sequência de números reais $0, 1, \\sqrt2, \\sqrt3, 2, \\sqrt5, \\sqrt6, \\sqrt7, \\sqrt8, 3, \\sqrt{10}, ...$, construída seguindo uma lógica estrutural, o número de termos entre 17 e 18, sem incluir 17 e 18, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "36.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "34.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "33.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "35.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-q15",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 15,
+    "statement": "Seja $f: \\mathbb{R} \\to \\mathbb{R}$ definida por $f(x) = \\dfrac{3}{2+\\text{sen}\\,x}$. Se M e m são respectivamente os valores máximo e mínimo que a função f assume, o valor do produto M.m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-q16",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 16,
+    "statement": "O número de divisores inteiros e positivos do número $2018^2 - 2017^2$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-q17",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 17,
+    "statement": "A medida, em m², da área da superfície total (área lateral e bases) de um cilindro circular reto tal que a medida da altura e a medida do raio da base são ambas iguais a 2 m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$14\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$12\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$16\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10\\pi$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.1-q18",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "Em um plano, duas circunferências têm seus centros nos pontos P e Q e as medidas de seus raios são ambas iguais a 3 m. Se essas circunferências cortam-se nos pontos R e S e se a distância entre P e Q é igual à distância entre R e S, então, a medida da área do quadrilátero convexo cujos vértices são os pontos P, Q, R e S, em m², é",
+    "options": [
+      {
+        "label": "a",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$9\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-q19",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "Se n é um número inteiro maior do que dois, o valor de $\\log_n\\left[\\log_n\\left(\\sqrt[n]{\\sqrt[n]{\\sqrt[n]{\\sqrt[n]{n}}}}\\right)\\right]$ é ($\\log_n \\equiv$ logaritmo na base n)",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.1-q20",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 20,
+    "statement": "Se os números $x_0$, $y_0$ e $z_0$ constituem a única solução do sistema linear $\\begin{cases} ax + y = 1 \\\\ by + z = 1 \\\\ x + cz = 1 \\end{cases}$, onde a, b e c são números reais satisfazendo a condição $ab = ac = bc = 1$, e se $x_0 + y_0 + z_0 = 0$, então, o valor da soma $a + b + c$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.1-q21",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "Considere um hexágono regular com centro no ponto O, cuja medida do lado é igual a 2 m. Se U e V são dois vértices consecutivos desse hexágono, e se a bissetriz do ângulo $O\\hat{U}V$ intercepta o segmento OV no ponto W, então, a medida em metros do perímetro do triângulo UVW é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(3 + \\sqrt5)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(2 + \\sqrt5)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(3 + \\sqrt3)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(2 + \\sqrt3)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.1-q22",
+    "examId": "2018.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 22,
+    "statement": "Se a razão entre as medidas dos catetos de um triângulo retângulo é igual a $\\dfrac{1}{\\sqrt2}$, o valor do seno do menor dos ângulos internos desse triângulo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt2}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\sqrt2}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2018.2-q13",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 13,
+    "statement": "Em um grupo de 200 estudantes, 98 são mulheres das quais apenas 60 não estudam comunicação. Se do total de estudantes do grupo somente 60 estudam comunicação, o número de homens que não estudam esta disciplina é",
+    "options": [
+      {
+        "label": "a",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "80.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "85.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "75.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-q14",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 14,
+    "statement": "Se x é o logaritmo de 16 na base 2, então, o logaritmo (na base 2) de $x^2 - 5x + 5$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-q15",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 15,
+    "statement": "Se $(a_1, a_2, a_3, a_4, ...)$ é uma progressão aritmética cuja razão é igual a r e se para cada n tomarmos $b_n = (a_{n+1})^2 - (a_n)^2$, então, $b_{n+1} - b_n$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2r.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2r^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4r.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4r^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-q16",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 16,
+    "statement": "Seja n o número obtido como a soma dos inversos multiplicativos dos números primos positivos que são fatores do número 195. Se p é o inverso multiplicativo de n, então, p cumpre a condição",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5 < p < 1,7.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,4 < p < 1,6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,8 < p < 1,9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,7 < p < 1,8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.2-q17",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "No sistema de coordenadas cartesianas usual, a equação $x^2 + y^2 - 6x - 8y = 0$ representa uma circunferência. Se O é o centro desta circunferência e se a equação da reta que passa pelo ponto O e pelo ponto P(2, 7) tem a forma $ax + by - 13 = 0$, então, o produto $a \\cdot b$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-q18",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 18,
+    "statement": "O valor da soma $\\text{sen}(x) + \\text{sen}(x+\\pi) + \\text{sen}(x+2\\pi) + \\text{sen}(x+3\\pi) + \\cdots + \\text{sen}(x+n\\pi)$, onde n é um número natural par e menor do que 100 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "sen(x).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "cos(x).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.2-q19",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "No quadrilátero XYZW as medidas dos ângulos internos Z e W são respectivamente 128 graus e 76 graus. Se as bissetrizes dos ângulos internos X e Y cortam-se no ponto O, pode-se afirmar corretamente que a medida do ângulo $X\\hat{O}Y$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "156 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "78 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "204 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "102 graus.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2018.2-q20",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 20,
+    "statement": "O quadro numérico exposto a seguir foi construído seguindo uma lógica estrutural. Linha 01: 1; Linha 02: 1 2 1; Linha 03: 1 3 3 1; Linha 04: 1 4 5 4 1; Linha 05: 1 5 6 6 5 1; Linha 06: 1 6 7 8 7 6 1; Linha 07: 1 7 8 9 9 8 7 1; Linha 08: 1 8 9 10 11 10 9 8 1. Seguindo a lógica adotada na construção do quadro, é possível afirmar corretamente que o número que ocupa a posição central da Linha 20 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "31.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "29.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2018.2-q21",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "No triângulo OYZ, o ângulo interno em O é igual a 90 graus, o ponto H no lado YZ é o pé da altura traçada do vértice O e M é o ponto médio do lado YZ. Se $\\hat Y - 2\\hat Z = 10$ graus (diferença entre a medida do ângulo interno em Y e duas vezes a medida do ângulo interno em Z igual a 10 graus), então, é correto afirmar que a medida do ângulo $H\\hat{O}M$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{170}{3}$ graus.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{140}{3}$ graus.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{110}{3}$ graus.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{100}{3}$ graus.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2018.2-q22",
+    "examId": "2018.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "Assinale a opção que corresponde à medida da altura do tetraedro regular cuja medida da aresta é igual a 3 m.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{2\\sqrt6}{3}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt6$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt6}{2}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\sqrt6}{3}$ m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
