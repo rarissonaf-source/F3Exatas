@@ -10878,5 +10878,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-q15",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 15,
+    "statement": "A quantidade de números naturais divisíveis por 5, formados por três dígitos, e com todos estes dígitos ímpares é",
+    "options": [
+      {
+        "label": "a",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "80.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-q16",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 16,
+    "statement": "A conhecida Relação de Pitágoras, estabelecida entre as medidas (utilizando-se a mesma unidade de comprimento) dos lados de um triângulo retângulo, pode ser assim formulada: em um triângulo retângulo, o quadrado da medida da hipotenusa é igual à soma dos quadrados das medidas dos catetos. Lembre-se de que hipotenusa é a denominação do lado de maior comprimento e catetos são as denominações dos outros dois lados. Utilizando a Relação de Pitágoras, é possível concluir que as diferentes medidas, em cm, dos comprimentos das diagonais das faces de um paralelepípedo retangular, cujas medidas dos comprimentos das arestas são 3cm, 4cm e 5cm, são",
+    "options": [
+      {
+        "label": "a",
+        "text": "$5$, $6$ e $\\sqrt{41}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5$, $\\sqrt{34}$ e $\\sqrt{41}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$5$, $\\sqrt{34}$ e $6$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{34}$, $6$ e $\\sqrt{41}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-q17",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 17,
+    "statement": "A média aritmética das idades dos 45 alunos da 5ª série do Colégio S. Narcísio IV é $\\dfrac{188}{15}$. Se a média aritmética das idades das meninas é 12 anos e a dos meninos é 13 anos, então, o produto do número de meninos pelo número de meninas é (Observação: considere as idades dos alunos em número inteiro de anos. Por exemplo, se a idade de João é 12 anos, 7 meses e 4 dias, a idade a ser considerada é 12 anos.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "494.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "500.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "504.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "506.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-q18",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "No mundo empresarial é costumeira a realização de análise da evolução patrimonial, do faturamento anual, do volume comercializado e do lucro das empresas, dentre outros segmentos de acompanhamento e controle. A Associação Brasileira do Meio Hoteleiro – ABMH constatou que o faturamento anual das empresas associadas quase dobrou no período 2006 a 2011, passando de 8 bilhões de reais em 2006 para 15,8 bilhões em 2011. Admitindo-se que a evolução observada ocorreu de forma linear crescente no período analisado, é possível afirmar corretamente que o faturamento anual no ano de 2009, em bilhões de reais, foi de",
+    "options": [
+      {
+        "label": "a",
+        "text": "11,12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11,80.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12,68.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "13,40.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-q19",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "A função $f(x) = \\log_2 x$, denominada de função logaritmo na base 2, é definida para todo número real positivo x. São bem conhecidas, dentre outras, as seguintes propriedades da função f: para cada número real positivo a e para todo número inteiro n, verificam-se as igualdades $2^{f(a)} = a$ e $f(a^n) = n \\cdot f(a)$. Com base nestes fatos e em outros conhecimentos básicos de matemática, é possível concluir-se corretamente que $f(0,03125)$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-q20",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 20,
+    "statement": "Os estudiosos de astronomia constataram que o Cometa Halley se aproxima e pode ser visto da Terra a cada 76 anos. A mais antiga visão de que se tem registro data do ano de 1530 e a mais recente ocorreu em 1986. Uma vez mantida a constatação, ao longo do tempo, é possível prever corretamente que, no século XXXI, o Cometa Halley poderá ser visto da Terra",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma única vez, no final da terceira década.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "uma única vez, próximo à metade do século.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "duas vezes, nas primeira e oitava décadas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "duas vezes, nas segunda e nona décadas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-q21",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "Se P e Q são pontos, represente por d(P, Q) a distância entre P e Q. Dizemos que o ponto X, no segmento de reta PQ, divide-o em média e extrema razão quando se tem a igualdade $\\dfrac{d(P,Q)}{d(P,X)} = \\dfrac{d(P,X)}{d(X,Q)}$. Se P e Q são pontos na reta numérica cujas coordenadas são respectivamente 1 e 8, a coordenada do ponto X que divide o segmento PQ em média e extrema razão pode ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{-5 + 7\\sqrt5}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{-5 + 7\\sqrt5}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{-5 + 2\\sqrt5}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{-5 + 3\\sqrt5}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-q22",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 22,
+    "statement": "Dentre um grupo de dez trabalhadores, deseja-se formar comissões, cada uma delas constituída de no mínimo duas pessoas e no máximo cinco pessoas. O número de comissões que podem ser formadas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "120.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "252.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "627.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-q23",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Sejam r e s retas paralelas cuja distância entre elas é 2cm, P e Q dois pontos em r, M e N dois pontos em s. Se a medida do segmento PQ é 3cm e a medida do segmento MN é 5cm, então, a razão entre a medida da área do triângulo PQM e a medida da área do triângulo PNQ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{3}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{5}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-q24",
+    "examId": "2013.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 24,
+    "statement": "Um comerciante deseja vender uma mercadoria que custou R$ 960,00, com um lucro líquido de 20% sobre o custo. Se este comerciante paga 10% de imposto sobre o preço de venda, a mercadoria deve ser vendida por",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 1410,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1340,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1300,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1280,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-q15",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 15,
+    "statement": "A quantidade de números naturais divisíveis por 5, formados por três dígitos, e com todos estes dígitos ímpares é",
+    "options": [
+      {
+        "label": "a",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "80.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-q16",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 16,
+    "statement": "Os únicos números reais x que satisfazem a igualdade $x = 1 + \\dfrac{1}{1 + \\dfrac{1}{x}}$ são",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1+\\sqrt5}{2}$ e $\\dfrac{1-\\sqrt2}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1+\\sqrt5}{2}$ e $\\dfrac{1-\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1+\\sqrt5}{2}$ e $\\dfrac{1-\\sqrt5}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1+\\sqrt3}{2}$ e $\\dfrac{1-\\sqrt3}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-q17",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 17,
+    "statement": "Se $\\alpha$ é um ângulo entre 0° e 90° tal que os números $\\text{sen}\\dfrac{\\alpha}{2}$, $\\text{sen}\\,\\alpha$, $\\text{tg}\\,\\alpha$, nesta ordem, constituem uma progressão geométrica, então o valor de $\\alpha$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "30°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-q18",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 18,
+    "statement": "Uma pesquisa em uma universidade revelou que 65% dos estudantes são mulheres, 25% do total de estudantes já possuem algum curso superior completo e, dentre os que não possuem curso superior completo, o número de mulheres é o dobro do número de homens. O porcentual das mulheres que já possuem curso superior completo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "5%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-q19",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "A evolução do crescimento, ao longo do tempo t, da população de uma cidade é dada por $P(t) = P_0 e^{kt}$, onde k é uma constante e $P_0$ é a população inicial (t = 0). Se no tempo t = 30 a população dobrou em relação à população inicial $P_0$, e supondo logaritmo natural de 2 aproximadamente igual a $69 \\cdot 10^{-2}$, então encontra-se o valor de k aproximadamente igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$23 \\cdot 10^{-3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$23 \\cdot 10^{-2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$178 \\cdot 10^{-2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$178 \\cdot 10^{-3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-q20",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "A menor distância entre os pontos do plano cartesiano $\\mathbb{R}^2$, com coordenadas inteiras e que estão sobre a reta y = 3x + 1 é (u.c. significa unidade de comprimento.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt5$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{10}$ u.c.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-q21",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "O baricentro de uma área plana é o ponto no qual está localizado o centro de gravidade da área considerada. Na matemática, define-se o baricentro de uma área limitada por um triângulo como sendo o ponto de interseção das medianas do triângulo. Se no plano cartesiano os pontos (1,6) e (3,2) são vértices de um triângulo cujo baricentro é o ponto $\\left(\\dfrac{5}{3}, 3\\right)$, então, o terceiro vértice deste triângulo é o ponto",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\left(\\dfrac{2}{3}, 1\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(1, 1)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\left(1, \\dfrac{4}{3}\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\left(\\dfrac{2}{3}, \\dfrac{4}{3}\\right)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-q22",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "O número de cubos, cuja medida das arestas é 10 cm, necessário para formar um paralelepípedo cujas medidas das arestas são 0,9 m; 1,1 m e 1,0 m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "990.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9990.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9900.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "99900.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-q23",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 23,
+    "statement": "Um vendedor de uma loja recebe 8% de comissão sobre o preço de venda de cada produto vendido. A loja recebeu pela venda de um produto, já descontada a comissão do vendedor, R$ 46,00. Neste caso, a comissão do vendedor foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 3,48.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 3,68.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 4,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 4,50.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-q24",
+    "examId": "2013.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 24,
+    "statement": "A soma dos valores reais de a para os quais o polinômio $P(x) = x^3 + (1-a)x^2 + (1+a)x - 1$ é divisível por $x - a$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$-\\dfrac{1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]

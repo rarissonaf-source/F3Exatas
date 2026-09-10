@@ -11646,5 +11646,1669 @@
     ],
     "imagePath": "2012.2-2fase/qf20.png",
     "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-q37",
+    "examId": "2013.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 37,
+    "statement": "Em um primeiro experimento, uma massa puntiforme é posta em movimento circular uniforme, com a realização de três voltas completas por minuto. A trajetória circular é mantida por uma mola de constante elástica $k_1$ que liga a massa a um ponto fixo. Em um segundo experimento, com a substituição da mola por outra de mesmo comprimento e constante elástica $k_2$, a massa percorre a mesma trajetória também com movimento circular uniforme, porém, realiza o dobro de voltas em um minuto. Assim, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$k_2 = 2k_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$k_2 = 6k_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$k_2 = 4k_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$k_2 = 3k_1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-q38",
+    "examId": "2013.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 38,
+    "statement": "Uma esfera, inicialmente parada, desce um plano inclinado, rolando sem deslizar, na presença da gravidade terrestre. Desprezando-se a resistência do ar, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "há força de atrito apenas estático atuando na esfera.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "há força de atrito apenas dinâmico atuando na esfera.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "não há força de atrito estático atuando na esfera.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "há forças de atrito estático e dinâmico atuando na esfera.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-q39",
+    "examId": "2013.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 39,
+    "statement": "Considere dois condutores A e B. Os potenciais elétricos de suas superfícies medidos em relação ao solo são 3 e –6 Volts, respectivamente. O potencial elétrico da superfície do condutor A em relação à superfície do condutor B é, em Volts,",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-q40",
+    "examId": "2013.1",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 40,
+    "statement": "Suponha que o padrão de metro do Sistema Internacional de Unidades seja redefinido para a metade do comprimento atualmente em uso. Assim, o valor da aceleração da gravidade na superfície da Terra seria aproximadamente, em m/s²,",
+    "options": [
+      {
+        "label": "a",
+        "text": "9,8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "19,6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-q41",
+    "examId": "2013.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 41,
+    "statement": "Dois automóveis, I e II, inicialmente trafegam lado a lado em uma estrada reta. Em algum instante, o carro I aumenta sua velocidade e, simultaneamente, o outro começa uma frenagem. Assim, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a aceleração do carro I é diferente de zero e a do carro II é zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a aceleração do carro I é zero e a do carro II é diferente de zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "as acelerações dos dois carros são diferentes de zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "as acelerações dos dois carros são iguais a zero.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-q42",
+    "examId": "2013.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 42,
+    "statement": "Uma onda de rádio se propaga com uma velocidade aproximada de $300 \\times 10^3$ km/s enquanto uma onda sonora no ar se propaga a aproximadamente 340 m/s. Assim, a respeito dos comprimentos de onda dessas propagações, pode-se dizer corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "são iguais, caso as ondas tenham a mesma frequência.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "são diferentes, independente das frequências.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a onda eletromagnética tem sempre maior comprimento de onda em relação à sonora, por isso tem maior alcance.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a onda sonora tem sempre menor comprimento de onda em relação à eletromagnética, pois se trata de uma onda mecânica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2013.1-2fase-q1",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 1,
+    "statement": "Considere uma corda A, de massa desprezível, passando por uma polia presa ao teto por outra corda B, conforme a figura a seguir. Pelas duas extremidades da corda A uma pessoa de massa $m$ se pendura e permanece em equilíbrio estático próximo à superfície da Terra. Considere a aceleração gravitacional com módulo $g$. A relação entre as tensões nas cordas e o peso da pessoa é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$T_A = T_B/2 = mg/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$T_A = T_B = mg$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2T_A = 2T_B = mg$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2T_A = T_B = 2mg$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.1-2fase/qf1.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-2fase-q2",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Um corredor parte do repouso com aceleração constante em uma pista horizontal. Suponha que ele imponha uma aceleração tal que seus pés fiquem na iminência do deslizamento em relação ao solo. Se a força de atrito estático máxima corresponde a 60% de seu peso, quantos metros o atleta percorre nos primeiros 2 segundos? Considere $g = 10 \\text{m/s}^2$.",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q3",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 3,
+    "statement": "Um chuveiro elétrico tem uma resistência ôhmica de 10 Ω. Após duas horas ligado, verificou-se que o consumo de energia foi de 2,42 kW·hora. Assim, a tensão em Volts da rede em que o chuveiro foi ligado é",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "110.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "220.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "360.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q4",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 4,
+    "statement": "Dois objetos de 1 kg cada movem-se em linhas retas com velocidades $V_A = 1$ m/s e $V_B = 2$ m/s. Após certo tempo, as velocidades dos dois objetos aumentam de 1 m/s cada. Desprezando todas as forças de atrito, nesse intervalo de tempo o trabalho total (em Joules) realizado sobre os carros A e B é, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 e 9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,5 e 1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5 e 2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 e 2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q5",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 5,
+    "statement": "A figura (i) mostra uma fonte luminosa que faz incidir luz sobre um material semitransparente. Em dois pontos, A e B, mostrados na figura (i), são medidas as intensidades $I$ de luz para vários comprimentos de onda $\\lambda$, e os resultados são mostrados no gráfico (ii). A curva sólida corresponde à medição em A, e a tracejada, em B. Despreze os efeitos devidos à reflexão de luz no material e considere o experimento realizado no vácuo. Assim, sobre o material, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "absorve igualmente todos os comprimentos de onda.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "absorve mais fortemente luz nos comprimentos de onda correspondentes ao azul e ao verde.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "transmite mais fortemente luz nos comprimentos de onda correspondentes ao azul e ao verde.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "transmite igualmente todos os comprimentos de onda.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.1-2fase/qf5.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q6",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 6,
+    "statement": "Uma massa $m$ presa a uma mola de constante elástica $k$ oscila sobre um plano horizontal sem atrito de modo que sua velocidade em função do tempo é dada por $v = v_{\\text{max}}\\cos\\left(\\sqrt{\\dfrac{k}{m}}\\,t\\right)$. Desprezando-se todos os atritos, a energia potencial elástica em função do tempo é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{2}m(v_{\\text{max}})^2 \\text{sen}^2\\left(\\sqrt{\\dfrac{k}{m}}\\,t\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{2}m(v_{\\text{max}})^2 \\cos^2\\left(\\sqrt{\\dfrac{k}{m}}\\,t\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{2}k\\cos^2\\left(\\sqrt{\\dfrac{k}{m}}\\,t\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{2}k\\,\\text{sen}^2\\left(\\sqrt{\\dfrac{k}{m}}\\,t\\right)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-2fase-q7",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 7,
+    "statement": "Considere dois experimentos em que uma esfera, construída com um material isolante térmico perfeito e impermeável, flutua em água a diferentes temperaturas. No experimento I, a água está a 20°C, com densidade 998,2 g/L. No experimento II, a água está a 90°C, com densidade 965,3 g/L. A razão entre os volumes submersos $V_{II}/V_I$ da esfera nos dois experimentos é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,034.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,967.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,000.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,222.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-2fase-q8",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "Em um dado experimento um gás ideal armazenado em um recipiente metálico tem seu volume reduzido muito rapidamente, de modo que se possa aproximar como nula qualquer transferência de calor com o meio externo. Em um segundo experimento com o mesmo sistema a velocidade de compressão é muito menor, de modo que não se possa usar essa aproximação. Suponha que antes do início dos dois processos de compressão o gás esteja em equilíbrio térmico com o meio. Assim, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "nos dois experimentos houve perda de energia interna do gás para o meio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "no segundo experimento houve ganho de energia interna do gás.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "somente no primeiro experimento houve perda de energia interna do gás para o meio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "somente no segundo experimento houve perda de energia interna do gás para o meio.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q9",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 9,
+    "statement": "Um recipiente com ar comprimido é fechado por uma tampa de 12 cm² de área e peso desprezível. Para manter esse recipiente fechado é necessária a aplicação de uma força normal à tampa no valor de 240 N. Considere que a pressão atmosférica é de $10^5$ Pa. Assim, a pressão do ar no recipiente, em Pa, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$240 \\times 10^5$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^5$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3 \\times 10^5$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$12 \\times 10^5$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q10",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 10,
+    "statement": "Considere dois osciladores harmônicos simples, I e II, cujos movimentos estão defasados conforme a figura a seguir. Assim, a diferença de fase entre os movimentos desses osciladores é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi/4$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.1-2fase/qf10.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q11",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 11,
+    "statement": "A figura a seguir ilustra um sistema de vasos comunicantes. O sistema é completamente preenchido com água e as extremidades das três colunas verticais são fechadas por tampas rígidas cujas áreas são $A_1 < A_2 < A_3$, conforme a figura. Assim, pode-se afirmar corretamente que, na presença de gravidade, as pressões nas tampas são melhor relacionadas por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P_1 = P_2 < P_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$P_1 > P_2 > P_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P_1 < P_2 < P_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$P_1 = P_2 = P_3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.1-2fase/qf11.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q12",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "A figura abaixo mostra um instantâneo de dois pulsos que se propagam sem deformação em uma corda. Os pulsos foram gerados nas extremidades opostas da corda, de modo que o representado pela curva tracejada se propague no sentido positivo de x e o outro pulso no sentido negativo. Assuma que a corda é um meio homogêneo e linear para essa propagação, e que os pulsos se propagam com velocidade 2 m/s, em módulo. Assim, o pico máximo na direção y da corda 1 s após esse instantâneo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/200.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2/50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/100.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.1-2fase/qf12.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q13",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 13,
+    "statement": "Um resistor ôhmico é ligado a uma bateria de tensão $V_0$ para aquecer um volume de água de 24°C até 37°C dentro de certo intervalo de tempo, desprezando qualquer perda para o meio ambiente. Para que a mesma quantidade de água seja igualmente aquecida em 25% do tempo anterior, a tensão da bateria deve ser multiplicada por um fator de",
+    "options": [
+      {
+        "label": "a",
+        "text": "¼.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "½.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q14",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 14,
+    "statement": "Dois sistemas massa-mola oscilam sem atrito sobre uma superfície horizontal. As massas são idênticas, cada uma com valor $m$, e as molas têm constantes elásticas $k_s$ e $k_m$. O sistema com $k_s$ realiza uma oscilação completa em 1 s e o oscilador com $k_m$ oscila com período de 1 minuto. Para isso, as constantes elásticas das molas podem ser relacionadas por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{\\dfrac{k_s}{k_m}} = 60$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{\\dfrac{k_m}{k_s}} = 60$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{k_m}{k_s} = 60$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{k_s}{k_m} = 60$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-2fase-q15",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 15,
+    "statement": "Dois instantâneos de uma onda harmônica transversal que se propaga na direção x em um meio não dispersivo são mostrados na figura a seguir. A diferença de tempo entre esses instantâneos é de 0,5 s. Assim, a velocidade de propagação da onda é, em m/s,",
+    "options": [
+      {
+        "label": "a",
+        "text": "9,42.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,14.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6,28.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,57.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.1-2fase/qf15.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q16",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 16,
+    "statement": "Algumas quantidades que são adimensionais têm unidades de medida. Por exemplo, ângulos podem ser medidos em unidades de radianos, mas são quantidades adimensionais. Considere o ângulo $\\theta$ em radianos e T e $T_0$ em °C. As unidades de medida de $(\\cos\\theta)$, $(T_0 \\cdot \\log\\theta)$ e $[\\log(T/T_0)]$ são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "radiano, °C × radiano, e sem unidade.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "sem unidade, sem unidade, e °C.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "radiano, °C, e °C.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sem unidade, °C, e sem unidade.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q17",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 17,
+    "statement": "Considere um objeto de massa $m$ acima da superfície da Terra, cuja massa é $M_T$, e a uma distância $d$ do seu centro. Aplicando-se a segunda lei de Newton ao objeto e supondo que a única força atuando nele seja dada pela lei da gravitação universal, com $G$ sendo a constante de gravitação universal, sua aceleração é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$d^2G/M_T$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$M_T G$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$GM_T/d^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$mG$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q18",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 18,
+    "statement": "Uma das propriedades do capacitor é armazenar energia. Essa característica é a base de um desfibrilador, aparelho usado para conter a fibrilação de um coração vitimado por um ataque. Considere um desfibrilador com um capacitor de 64 μF completamente carregado, com uma tensão de 5 kV entre suas placas. Suponha que em cada aplicação do aparelho seja usada 25% da energia total acumulada. Assim, a energia, em Joules, utilizada em uma dessas aplicações é",
+    "options": [
+      {
+        "label": "a",
+        "text": "200.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "320.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "640.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "800.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q19",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "Um sistema constituído por um gás ideal pode evoluir do estado inicial i para os estados finais $f_I$, $f_{II}$ e $f_{III}$ por três diferentes processos, conforme a figura a seguir. A relação entre as variações de energia interna em cada processo, $\\Delta E_I$, $\\Delta E_{II}$ e $\\Delta E_{III}$, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\Delta E_I = \\Delta E_{II} < \\Delta E_{III}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\Delta E_I = \\Delta E_{II} = \\Delta E_{III}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\Delta E_I < \\Delta E_{II} < \\Delta E_{III}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\Delta E_I > \\Delta E_{II} > \\Delta E_{III}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.1-2fase/qf19.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q20",
+    "examId": "2013.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 20,
+    "statement": "Em dois disparos de uma arma de fogo, as balas colidem perpendicularmente à superfície de duas placas de aço verticais idênticas, e diretamente no seu centro geométrico. O projétil do segundo disparo tem massa maior que o do primeiro e em ambos as balas saem com a mesma velocidade inicial. Apenas no segundo disparo a placa foi derrubada. Desprezando-se o atrito do ar, a explicação mais plausível para que a placa tenha sido derrubada é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "o momento linear do projétil antes da colisão foi menor no segundo disparo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "no segundo disparo, a energia potencial gravitacional antes da colisão do projétil foi maior.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "no segundo disparo, a energia potencial gravitacional antes da colisão do projétil foi menor.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o momento linear do projétil antes da colisão foi maior no segundo disparo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-q37",
+    "examId": "2013.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 37,
+    "statement": "A energia cinética $E_c$ de uma pedra de massa $m$ em queda livre pode ser dada tanto em termos de sua velocidade $v$ quanto em termos de seu momento linear $p$. A forma mais usual é $E_c = mv^2/2$. Em termos do momento linear, $E_c$ pode ser escrita como",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{p^2}{2m}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{p^2}{m}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{p}{2m}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{p}{m}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-q38",
+    "examId": "2013.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 38,
+    "statement": "Um sistema massa-mola oscila de tal modo que a velocidade $v(t)$ da massa é dada por $v(t)/v_m = A\\cos(\\omega t)$, onde $v_m$ é a velocidade média em um intervalo de 1/4 de período de oscilação. Pode-se afirmar corretamente que a constante $A$",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem dimensão de comprimento.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem dimensão de velocidade.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é adimensional.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem dimensão de tempo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-q39",
+    "examId": "2013.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 39,
+    "statement": "Um recipiente cilíndrico vertical cheio de água sofre um acréscimo de pressão $\\Delta P$ através de um êmbolo na sua parte superior. Assim, o acréscimo de pressão em um ponto de sua",
+    "options": [
+      {
+        "label": "a",
+        "text": "base será maior que $\\Delta P$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "base será $\\Delta P$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "superfície lateral será menor que $\\Delta P$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "superfície lateral será maior que $\\Delta P$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.2-q40",
+    "examId": "2013.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 40,
+    "statement": "Uma bola de futebol de 450 g em queda vertical sofre ação da gravidade e da resistência do ar. Em um dado instante, sua aceleração é de 2 m/s², em módulo. Considerando que a aceleração da gravidade tenha módulo 10 m/s², a força de resistência do ar atuando na bola nesse instante, em Newtons, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-q41",
+    "examId": "2013.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 41,
+    "statement": "A Agência Nacional de Energia Elétrica – ANEEL – aprovou em janeiro as novas tarifas que reduzirão a conta de energia elétrica. Para os consumidores residenciais no Ceará, a redução é de 18,05%. Na conta de luz, essa redução afeta o preço do",
+    "options": [
+      {
+        "label": "a",
+        "text": "kW·h.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "kW/h.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "kW.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "h/kW.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-q42",
+    "examId": "2013.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 42,
+    "statement": "Um raio é um fenômeno atmosférico caracterizado pela passagem de corrente elétrica, por exemplo, entre uma nuvem e o solo. Considere um raio que transfira $2 \\cdot 10^3$ A para o solo. Nessa situação, a corrente elétrica nesse circuito nuvem-solo é de",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2 \\cdot 10^3$ C/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2 \\cdot 10^3$ V/s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2 \\cdot 10^3$ C.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2 \\cdot 10^3$ V.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-2fase-q1",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 1,
+    "statement": "Considere um bloco que desliza sem atrito sobre um plano inclinado próximo à superfície da Terra, conforme a figura a seguir. É correto afirmar-se que, durante a descida do bloco, sua energia cinética",
+    "options": [
+      {
+        "label": "a",
+        "text": "aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diminui.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "permanece constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é negativa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.2-2fase/qf1.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-2fase-q2",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 2,
+    "statement": "Três discos muito finos são dispostos em planos horizontais, um acima do outro, de modo que seus centros fiquem alinhados verticalmente. O disco mais baixo tem massa $m$, o seguinte $2m$ e o mais alto tem massa $3m$. Para que o centro de massa do conjunto esteja no disco do meio, a razão entre a distância dele ao de cima e a distância dele ao inferior deverá ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.2-2fase-q3",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 3,
+    "statement": "Uma corda desliza sem atrito sobre uma superfície horizontal pela ação de uma força de módulo $F$ aplicada horizontalmente em uma das pontas. Se essa extremidade da corda se desloca de uma distância $d$ na mesma direção e sentido da força, o trabalho realizado por essa força é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$F/d$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$d/F$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$Fd^2/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$Fd$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q4",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 4,
+    "statement": "Um bloco repousa sobre uma superfície plana, fixa, e sofre ação de uma força $\\vec{F}$ orientada conforme a figura a seguir. O coeficiente de atrito estático entre o bloco e a superfície é $\\mu$. Na ausência da gravidade, a condição para que não haja deslizamento do bloco é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\mu = \\text{tg}\\,\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\mu < \\text{cotg}\\,\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\mu > \\text{cotg}\\,\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\mu = \\text{sen}\\,\\theta$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.2-2fase/qf4.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q5",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 5,
+    "statement": "Três amostras de um gás ideal, com massas iguais e volumes $V_1$, $V_2$ e $V_3$, têm suas temperaturas aumentadas conforme o gráfico a seguir. Assim, a relação entre os volumes é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$V_1 = V_2 > V_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$V_1 > V_2 > V_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$V_1 = V_2 < V_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$V_1 = V_2 = V_3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.2-2fase/qf5.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q6",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 6,
+    "statement": "Um bloco de massa desprezível e em forma de triângulo retângulo repousa sobre uma superfície horizontal sem atrito. Sobre esse bloco, do vértice oposto à hipotenusa, duas massas puntiformes $m_1$ e $m_2$ partem do repouso sob a ação da gravidade e sem a presença de forças de atrito, conforme a figura a seguir. Para que o bloco triangular não se mova durante a descida das massas $m_1$ e $m_2$, a razão entre $m_1$ e $m_2$ deve ser igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\text{tg}^2\\,\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\text{sen}\\,\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\cos\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\text{tg}\\,\\theta$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.2-2fase/qf6.png",
+    "annulled": true
+  },
+  {
+    "id": "2013.2-2fase-q7",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 7,
+    "statement": "Uma estrada sem curvas à esquerda ou à direita liga duas cidades no sentido Leste-Oeste. O trecho sobe e desce uma montanha de modo que, no pico, a trajetória pode ser aproximada por um arco de círculo. Em uma parte final do trajeto há um vale, e no ponto mais baixo também se pode aproximar a trajetória por um arco de círculo de mesmo raio que o anterior. No pico da montanha, o módulo da força normal da estrada sobre o carro é metade do peso do carro. No ponto mais baixo do vale essa normal tem módulo 50% maior do que o peso do carro. Despreze todos os atritos e considere a gravidade constante. Assim, a razão entre a velocidade do carro no pico e no vale é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-2fase-q8",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 8,
+    "statement": "No Brasil, a navegação pela internet com telefones celulares utiliza ondas de rádio com frequências entre 1.900 e 2.100 MHz, no caso de tecnologia 3G. A rede de telefonia de quarta geração (4G), que possibilita maiores velocidades de navegação, teve sua instalação iniciada nas seis cidades-sede da Copa das Confederações, incluindo Fortaleza. As ondas de rádio para transmissão com essa nova tecnologia terão frequências entre 2,5 GHz e 2,69 GHz. Considere que a velocidade de propagação dessas ondas é $V_{luz} = 3 \\cdot 10^8$ m/s. Assim, os menores comprimentos de onda, em metros, associados à transmissão em 3G e 4G são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$V_{luz}/1,9 \\cdot 10^9$ e $V_{luz}/2,69 \\cdot 10^9$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$V_{luz}/2,1 \\cdot 10^9$ e $V_{luz}/2,69 \\cdot 10^9$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$V_{luz}/1,9 \\cdot 10^9$ e $V_{luz}/2,5 \\cdot 10^9$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$V_{luz}/2,1 \\cdot 10^9$ e $V_{luz}/2,5 \\cdot 10^9$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q9",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 9,
+    "statement": "Medidas em física devem ser expressas com observância ao uso correto de algarismos significativos. Assim, se a densidade de um corpo é dada por 0,102 kg/L e seu volume é 0,007 m³, a forma correta de expressar sua massa, em kg, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,7.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,71.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,714.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,7140.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-2fase-q10",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 10,
+    "statement": "Duas massas diferentes e puntiformes, $m_1$ e $m_2$, estão sobre um disco de raio $R$ que gira horizontalmente com velocidade angular constante próximo à superfície da Terra. As massas giram com o disco sob ação da força de atrito estático, estando $m_1$ e $m_2$ a uma distância $d_1$ e $d_2$ da borda do disco, respectivamente. Suponha que a rotação aconteça a uma velocidade tal que as massas ficam simultaneamente na iminência de deslizamento do disco. Assim, deve-se ter",
+    "options": [
+      {
+        "label": "a",
+        "text": "$d_1 = d_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$m_2 d_2 = m_1 d_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$m_1 d_2 = m_2 d_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$m_2(R-d_2) = m_1(R-d_1)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q11",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 11,
+    "statement": "De acordo com dados da Associação Brasileira de Energia Eólica, a capacidade de produção instalada dessa fonte energética é aproximadamente 2.700 MW. Em 2012, o fator de capacidade da fonte eólica, que é a proporção entre o que foi gerado nas usinas e a sua capacidade instalada, foi, em média, 33%. Considerando um consumo médio residencial de 160 kWh por mês, essa geração eólica seria suficiente para atender aproximadamente quantos milhões de domicílios?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,7.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q12",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 12,
+    "statement": "A UECE tem um sistema de geração de energia elétrica do tipo solar fotovoltaica, com potência instalada de 5 kW, utilizado para pesquisas e desenvolvimentos tecnológicos. Nesse tipo de sistema, a transformação de energia solar em elétrica é feita em células fotovoltaicas. Essas células geram uma tensão elétrica cujo valor depende, dentre outros fatores, da corrente elétrica que passa por seus terminais, conforme o exemplo do gráfico a seguir. Para os valores de tensão e corrente correspondentes aos pontos no gráfico, pode-se afirmar corretamente que as potências $P_1$, $P_2$ e $P_3$ geradas pela célula são tais que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P_3 > P_2 > P_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$P_1 > P_2 > P_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P_3 = P_2 = P_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$P_3 < P_2 = P_1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2013.2-2fase/qf12.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-2fase-q13",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 13,
+    "statement": "Calor intenso e permanência de temperaturas elevadas por vários dias refletem-se necessariamente na expansão do consumo residencial de energia elétrica. Considere um consumo médio residencial de 160 kWh por mês. No Rio de Janeiro, onde o consumo cresceu aproximadamente 16%, a temperatura máxima na capital chegou a ficar, em média, no início do verão, 7°C acima da esperada. Considere que o calor específico da água é 4,2 J/g°C. Os 16% de energia a mais consumida no período de um mês em um domicílio seriam suficientes para aquecer de 7°C aproximadamente quantos quilogramas de água?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$0,87 \\cdot 10^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3,1 \\cdot 10^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3,7 \\cdot 10^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$23 \\cdot 10^3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q14",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 14,
+    "statement": "Em um teste de qualidade de bola de futsal padrão FIFA, duas bolas $b_1$ e $b_2$ são soltas em queda livre de uma altura de 2 m, chocando-se contra uma placa horizontal e retornando cada uma a uma altura de $h_1 = 55$ cm e $h_2 = 65$ cm. As variações na energia cinética das bolas são $\\Delta E_1$ e $\\Delta E_2$ (para as bolas $b_1$ e $b_2$ respectivamente) e, no momento linear, são $\\Delta p_1$ e $\\Delta p_2$ (para as bolas $b_1$ e $b_2$ respectivamente), tomadas entre os instantes imediatamente antes e imediatamente após a colisão com a placa. Se as bolas têm massas iguais e o atrito com o ar pode ser desprezado, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\Delta E_1 < \\Delta E_2$ e $\\Delta p_1 < \\Delta p_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\Delta E_1 < \\Delta E_2$ e $\\Delta p_1 > \\Delta p_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\Delta E_1 > \\Delta E_2$ e $\\Delta p_1 < \\Delta p_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\Delta E_1 > \\Delta E_2$ e $\\Delta p_1 > \\Delta p_2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q15",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 15,
+    "statement": "Dois objetos de material isolante têm massas diferentes e estão carregados eletricamente com cargas de mesmo sinal. Considere que haja somente ação das forças gravitacional e elétrica, e que os objetos estejam separados um do outro em equilíbrio estático. Denotando por $k$ a constante eletrostática (ou de Coulomb), por $G$ a constante gravitacional, e por $r_1$ e $r_2$ a razão entre a carga e a massa dos corpos 1 e 2, respectivamente, uma condição para que haja equilíbrio estático é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(r_1 \\cdot r_2)^2 = G/k$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$r_1 / r_2 = G/k$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$r_1 \\cdot r_2 = G/k$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$r_2 / r_1 = G/k$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q16",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 16,
+    "statement": "Densitometria é o termo que se refere ao procedimento de estimar a composição corporal através da densidade do corpo. Esse procedimento pode, por exemplo, ser utilizado para monitoramento de mudanças na composição corporal associadas ao crescimento, monitoramento do nível de gordura corporal, dentre outros. Para estimar a densidade de uma pessoa, foram realizadas duas medições de seu peso: uma com o corpo dentro d'água e outra fora d'água. Verificou-se que sua densidade foi 5% acima da densidade da água. Assim, a razão entre seu peso medido dentro d'água e fora d'água é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,05.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,05/1,05.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,05.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,05/0,05.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-2fase-q17",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 17,
+    "statement": "Satélites artificiais, como os usados em transmissão de TV, têm sistemas eletrônicos instalados e que se aquecem por efeito Joule. Além disso, as partes do satélite que estejam voltadas para o sol estão expostas a temperaturas em torno de 300 K, enquanto as partes sombreadas ficam em um ambiente de 2,7 K. A geração de calor por efeito Joule e essas diferenças de temperatura exigem um projeto muito sofisticado no tocante à dissipação de calor. Considerando que o satélite esteja fora da atmosfera terrestre, onde não haja um meio condutor de calor para o ambiente, pode-se afirmar corretamente que a principal forma de dissipação de calor do satélite é",
+    "options": [
+      {
+        "label": "a",
+        "text": "difusão.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "irradiação.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "condução.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "convecção.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.2-2fase-q18",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 18,
+    "statement": "Considere duas lâmpadas: uma lâmpada incandescente com consumo de 20 W, vida útil de 1.000 horas e rendimento (fração energética efetivamente transformada em luz) de 25%; e uma segunda, do tipo fluorescente, com vida útil de 7.500 horas e rendimento de 60%. Considere um experimento em que as duas lâmpadas são ligadas em paralelo a uma tomada de energia elétrica residencial, permanecendo ligadas durante suas vidas úteis. Qual deve ser a potência, em Watts, consumida pela fluorescente para que perca energia em forma de calor tanto quanto a incandescente durante o período do experimento?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "25.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q19",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 19,
+    "statement": "Recentemente se teve notícia de um tornado que causou grande destruição na cidade de Oklahoma – EUA. Suponha que, próximo à superfície da Terra, o tornado possa ser descrito como uma massa de ar cilíndrica girando em torno de seu eixo com velocidade angular constante. Há estimativas que apontam, nessa ocorrência nos EUA, para ventos com velocidades em torno de 300 km/h na parte mais externa do tornado. Supondo-se que o diâmetro do tornado seja de 1,5 km e, com base nos dados anteriores, a melhor estimativa para a velocidade angular do tornado é",
+    "options": [
+      {
+        "label": "a",
+        "text": "400 radianos/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "300 rotações/min.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "450 radianos/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200 radianos/h.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2013.2-2fase-q20",
+    "examId": "2013.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 20,
+    "statement": "Um tratamento complementar para pacientes com tumor de tireóide submetidos a cirurgia consiste na ingestão de uma dose terapêutica de Iodo-131 (I-131), que se concentra no tecido da tireóide. O I-131 emite radiação beta, que age na destruição de células cancerígenas. Essa radiação consiste na emissão de",
+    "options": [
+      {
+        "label": "a",
+        "text": "ondas eletromagnéticas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "prótons.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "elétrons.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "pósitrons.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
