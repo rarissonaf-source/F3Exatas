@@ -14974,5 +14974,1669 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-q37",
+    "examId": "2015.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 37,
+    "statement": "Um bloco de gelo a -30°C repousa sobre uma superfície de plástico com temperatura inicial de 21°C. Considere que esses dois objetos estejam isolados termicamente do ambiente, mas que haja troca de energia térmica entre eles. Durante um intervalo de tempo muito pequeno comparado ao tempo necessário para que haja equilíbrio térmico entre as duas partes, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a superfície de plástico tem mais calor que o bloco de gelo e há transferência de temperatura entre as partes.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a superfície de plástico tem menos calor que o bloco de gelo e há transferência de temperatura entre as partes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a superfície de plástico tem mais calor que o bloco de gelo e há transferência de energia entre as partes.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a superfície de plástico transfere calor para o bloco de gelo e há diferença de temperatura entre as partes.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-q38",
+    "examId": "2015.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 38,
+    "statement": "Uma corrente elétrica constante passa por um fio de cobre muito longo e fino, de modo que não se possa desprezar sua resistência elétrica. Considere que o fio está isolado eletricamente do ambiente, mas que possa haver transferência de calor para a vizinhança. Inicialmente o fio está à mesma temperatura de sua vizinhança. Depois de certo tempo, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "há transferência de calor do ambiente para o fio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "há transferência de calor do fio para o ambiente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "há aumento da energia mecânica do fio em consequência somente da passagem da corrente elétrica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "há diminuição da energia mecânica do fio em consequência somente da passagem da corrente elétrica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-q39",
+    "examId": "2015.1",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 39,
+    "statement": "Um objeto de 1 kg, preso ao teto por um fio muito leve e inextensível, balança como um pêndulo. No que diz respeito à oscilação, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a força de tração no fio é responsável pelo torque que faz o objeto oscilar.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a componente da força peso na direção da tração no fio é responsável pelo torque que faz o objeto oscilar.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a força peso é responsável pelo torque que faz o objeto oscilar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a soma da tração no fio com a componente da força peso na direção do fio é a força resultante responsável pelo torque que faz o objeto oscilar.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-q40",
+    "examId": "2015.1",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 40,
+    "statement": "Um fio de Nylon é inicialmente tensionado e fixado por suas extremidades a dois pontos fixos. Posteriormente, no ponto médio do fio, é feita uma força perpendicular à direção inicial do fio. Durante a aplicação dessa força, é correto afirmar que a força feita sobre o fio nos pontos de fixação",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem direção diferente e é menor que a tensão inicial.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem direção diferente e é maior que a tensão inicial.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem a mesma direção e é maior que a tensão inicial.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem a mesma direção e é menor que a tensão inicial.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-q41",
+    "examId": "2015.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 41,
+    "statement": "Sobre as ondas sonoras, é correto afirmar que NÃO se propagam",
+    "options": [
+      {
+        "label": "a",
+        "text": "na atmosfera.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "na água.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "no vácuo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nos meios metálicos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-q42",
+    "examId": "2015.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 42,
+    "statement": "As opções abaixo apresentam algumas grandezas físicas. Assinale aquela que apresenta apenas grandezas vetoriais.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Força peso, campo elétrico e velocidade.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Temperatura, aceleração e massa.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Corrente elétrica, força e calor.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Empuxo, torque e energia.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q1",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 1,
+    "statement": "Considere uma garrafa de refrigerante posta verticalmente sobre uma mesa horizontal. Com a garrafa ainda fechada, sua parte superior, entre a superfície do líquido e a tampa, é preenchida por um gás pressurizado. Considere que o refrigerante está inicialmente a 10°C, e passados 10 minutos esteja a 21°C. Sobre o gás entre a superfície do líquido e a tampa, é correto afirmar que, ao final dos 10 minutos,",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem sua energia térmica aumentada e sua pressão reduzida.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem sua energia térmica e pressão aumentadas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem sua energia térmica e sua pressão reduzidas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem sua energia térmica reduzida e sua pressão aumentada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q2",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 2,
+    "statement": "O uso de fontes alternativas de energia tem sido bastante difundido. Em 2012, o Brasil deu um importante passo ao aprovar legislação específica para micro e mini geração de energia elétrica a partir da energia solar. Nessa modalidade de geração, a energia obtida a partir de painéis solares fotovoltaicos vem da conversão da energia de fótons em energia elétrica, sendo esses fótons primariamente oriundos da luz solar. Assim, é correto afirmar que essa energia é transportada do Sol à Terra por",
+    "options": [
+      {
+        "label": "a",
+        "text": "convecção.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "condução.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "indução.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "irradiação.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-2fase-q3",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 3,
+    "statement": "Duas forças atuam sobre um disco de massa m, que inicialmente repousa com uma face sobre uma mesa horizontal e pode deslizar sem atrito. Considere que as forças sejam paralelas ao plano da mesa, tenham módulos iguais e direções diferentes, e que sejam aplicadas no centro do disco. Nessas circunstâncias, é correto afirmar que o vetor aceleração do disco",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem módulo diferente de zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem módulo igual a zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem direção perpendicular ao plano do disco e sentido para cima.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem direção perpendicular ao plano do disco e sentido para baixo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q4",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 4,
+    "statement": "Um resistor ôhmico de 10 Ω é ligado a uma bateria de 10 V durante 10 s. Caso 100% da energia dissipada pelo resistor pudesse ser convertida em trabalho para o deslocamento de uma massa, esse valor seria, em Joules,",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-2fase-q5",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 5,
+    "statement": "Duas massas iguais são presas entre si por uma mola ideal que obedece à lei de Hooke. Considere duas situações: (i) a mola é comprimida a 50% de seu tamanho original; e (ii) a mola é distendida de 50% de seu comprimento original. O termo tamanho original se refere à mola sem compressão nem distensão. Sobre a energia elástica armazenada na mola nas situações (i) e (ii), é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "é a mesma nos dois casos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é maior no caso (i).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é maior no caso (ii).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é nula em um dos casos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-2fase-q6",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 6,
+    "statement": "O poder calorífico da gasolina é 34,86 kJ/L. Isso equivale a dizer que 1 L desse combustível tem armazenados 34,86 kJ de energia no caso de sua utilização em uma combustão perfeita. Suponha que 1 L de gasolina pudesse ser utilizado com 100% de eficiência para produção de calor. Isso seria suficiente para manter por 3486 s um aquecedor de que potência, em W?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q7",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 7,
+    "statement": "Considere um tanque cilíndrico vertical. A tampa plana inferior desse recipiente é substituída por uma calota esférica de mesmo raio interno que o cilindro. Suponha que o tanque esteja completamente cheio de água. Nessas circunstâncias, é correto afirmar que a pressão hidrostática produz forças na superfície interna da calota sempre",
+    "options": [
+      {
+        "label": "a",
+        "text": "radiais e para dentro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "verticais e para baixo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "radiais e para fora.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "verticais e para cima.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-2fase-q8",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 8,
+    "statement": "Dois raios de luz coplanares incidem sobre um espelho plano. O primeiro raio incide normalmente no espelho e o segundo, tem um ângulo de incidência 30°. Considere que o espelho é girado de modo que o segundo raio passe a ter incidência normal. Nessa nova configuração o primeiro raio passa a ter ângulo de incidência igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "15°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q9",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 9,
+    "statement": "Uma gangorra em um parquinho infantil é ocupada por dois gêmeos idênticos e de mesma massa, Cosmo e Damião. Na brincadeira, enquanto um dos irmãos sobe num dos acentos do brinquedo, o outro desce no outro acento. O brinquedo pode ser descrito como uma haste rígida, com um acento em cada extremidade, e livre para girar em um plano vertical em torno do ponto central. Considere os torques na haste da gangorra exercidos pelas forças peso de Cosmo ($\\tau_c$) e de Damião ($\\tau_d$), em relação ao ponto central. Na configuração em que Cosmo está na posição mais alta, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$|\\tau_c| < |\\tau_d|$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$|\\tau_c| = |\\tau_d|$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$|\\tau_c| > |\\tau_d|$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$|\\tau_c| > -|\\tau_d|$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q10",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 10,
+    "statement": "Os planetas orbitam em torno do Sol pela ação de forças. Sobre a força gravitacional que determina a órbita da Terra, é correto afirmar que depende",
+    "options": [
+      {
+        "label": "a",
+        "text": "das massas de todos os corpos do sistema solar.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "somente das massas da Terra e do Sol.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "somente da massa do Sol.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "das massas de todos os corpos do sistema solar, exceto da própria massa da Terra.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q11",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 11,
+    "statement": "Um raio de luz se propaga pelo ar e incide em uma lente convergente, paralelamente ao eixo principal, saindo pela face oposta da lente. Sobre o raio de luz após sair da lente, cuja espessura não é desprezível, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "sofreu duas refrações.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "sofreu uma refração seguida por uma difração.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "sofreu duas difrações.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sofreu uma difração seguida por uma refração.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q12",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 12,
+    "statement": "Em um motor de carro o processo de combustão gera 300 J de energia térmica. Deste valor, 200 J são perdidos sob a forma de calor. Qual a eficiência desse motor?",
+    "options": [
+      {
+        "label": "a",
+        "text": "300/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "500/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q13",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 13,
+    "statement": "O biodiesel é um combustível biodegradável que pode ser produzido a partir de gorduras animais ou óleos vegetais. Esse combustível substitui total ou parcialmente o óleo diesel de petróleo em motores ciclo diesel automotivos. Considere que a queima de 1,0 g de biodiesel libera x Joules de energia e o rendimento do motor é de 15%. Qual o trabalho mecânico realizado pelo motor, em Joules, resultante da queima de 10 g desse combustível?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,5x/100$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$150x/10$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$15x/100$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$15x/10$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-2fase-q14",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 14,
+    "statement": "A aceleração da gravidade próximo à superfície da Terra é, no Sistema Internacional de Unidades, aproximadamente 10 m/s². Caso esse sistema passasse a usar como padrão de comprimento um valor dez vezes menor que o atual, esse valor da aceleração da gravidade seria numericamente igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-2fase-q15",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "A energia elétrica é disponibilizada em nossas residências na forma de tensão alternada. Isso significa que entre os dois conectores de uma tomada há uma diferença de potencial elétrico que varia com o tempo conforme uma função do tipo $U = (220\\sqrt2) \\cdot \\text{sen}(2\\pi \\cdot 60 \\cdot t)$, onde U é a diferença de potencial e t é o tempo. A constante $(220\\sqrt2)$ é válida para Estados em que o fornecimento de energia elétrica monofásica é de 220 V nominal, como na maioria das residências do Ceará. É correto afirmar que essa diferença de potencial tem um valor máximo e uma frequência, respectivamente, de",
+    "options": [
+      {
+        "label": "a",
+        "text": "$220\\sqrt2$ Volts e 60 Hz.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$220\\sqrt2$ Volts e 60 kHz.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "220 Volts e 60 Hz.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "220 Volts e 60 kHz.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q16",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 16,
+    "statement": "Um projétil disparado horizontalmente de uma arma de fogo atinge um pedaço de madeira e fica encravado nele de modo que após o choque os dois se deslocam com mesma velocidade. Suponha que essa madeira tenha a mesma massa do projétil e esteja inicialmente em repouso sobre uma mesa sem atrito. A soma do momento linear do projétil e da madeira imediatamente antes da colisão é igual à soma imediatamente depois do choque. Qual a velocidade do projétil encravado imediatamente após a colisão em relação à sua velocidade inicial?",
+    "options": [
+      {
+        "label": "a",
+        "text": "O dobro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A metade.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A mesma.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "O triplo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q17",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 17,
+    "statement": "Dentre as fontes de energia eletromagnéticas mais comumente observadas no dia a dia estão o Sol, os celulares e as antenas de emissoras de rádio e TV. A característica comum a todas essas fontes de energia é",
+    "options": [
+      {
+        "label": "a",
+        "text": "o meio de propagação, somente no vácuo, e a forma de propagação, através de ondas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o meio de propagação e a forma de propagação, por condução.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a velocidade de propagação e a forma de propagação, por convecção.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a velocidade de propagação e a forma de propagação, através de ondas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-2fase-q18",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 18,
+    "statement": "O período atual de estiagem no Ceará tem tornado bastante comum o uso do popularmente conhecido poço profundo. Considere um poço desse tipo com uma profundidade de 80 m abaixo da superfície. Suponha também que o nível do espelho d'água esteja a 10 m do fundo. Assuma que o nível referência para cálculo da energia potencial seja a superfície onde se localiza a parte superior do poço, ou seja, massas localizadas na superfície têm energia potencial gravitacional zero. Durante o bombeamento, a energia potencial gravitacional da água desde o fundo do poço até chegar ao nível do solo",
+    "options": [
+      {
+        "label": "a",
+        "text": "diminui.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é constante e positiva.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é constante e negativa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-2fase-q19",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "Em um motor de carro convencional a primeira transformação de energia em trabalho ocorre dentro do cilindro que aloja o pistão. De modo simplificado, pode-se entender esse sistema como um cilindro fechado contendo um êmbolo móvel, que é o pistão. Em um dado instante a mistura ar e combustível sofre combustão forçando os gases resultantes dessa queima a sofrerem expansão, movimentando o pistão ao longo do eixo do cilindro. É correto afirmar que a energia térmica contida nos gases imediatamente após a combustão é",
+    "options": [
+      {
+        "label": "a",
+        "text": "parte transferida na forma de calor para o ambiente e parte convertida em energia cinética do pistão.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "totalmente transferida como calor para o ambiente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "totalmente convertida em trabalho sobre o pistão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "parte convertida em trabalho sobre o pistão e o restante convertida em energia cinética também do pistão.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-2fase-q20",
+    "examId": "2015.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "Uma corda de violão vibra de modo que, num dado instante, a onda estacionária tenha duas cristas e três nós. Considere que o comprimento da corda vibrante seja 60 cm. Nessa situação, é correto afirmar que o comprimento de onda desta onda estacionária na corda é, em cm,",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "180.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-q37",
+    "examId": "2015.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 37,
+    "statement": "Um carro, partindo do repouso, desloca-se em um trecho A de modo que sua velocidade aumente linearmente com o tempo até atingir 60 km/h. Após algum tempo, em um trecho B, o motorista aciona o freio, de modo que a velocidade decresça também linearmente com o tempo. Considere que a trajetória do automóvel é retilínea nos dois trechos e que ambos sejam estradas sem aclives ou declives. Assim, pode-se afirmar corretamente que o vetor aceleração nos dois trechos tem",
+    "options": [
+      {
+        "label": "a",
+        "text": "mesma direção e mesmo sentido.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mesma direção e sentido contrário.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "mesmo módulo e mesmo sentido.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "direções perpendiculares e mesmo módulo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-q38",
+    "examId": "2015.2",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 38,
+    "statement": "Uma torre construída com um cano cilíndrico de 12 m é instalada verticalmente com o apoio de três cabos de aço, sendo cada um deles conectado ao solo e ao topo da torre. Os pontos de fixação ao solo são todos distantes 2 m da base da torre e equidistantes entre si. Assuma que os cabos são igualmente tensionados e inextensíveis, e que o sistema formado pela torre e suas estaias (cabos) está completamente estático. Com base nos vetores força atuando na torre, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o torque total exercido pelas estaias sobre a torre é diferente de zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a torre está tensionada.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a torre sofre uma força de compressão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a força peso exerce um torque não nulo sobre a torre.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-q39",
+    "examId": "2015.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 39,
+    "statement": "Considere uma fibra ótica distendida ao longo de uma trajetória sinuosa. Uma das extremidades recebe luz que, através da fibra, sai pela outra extremidade. Note que a fibra não segue uma trajetória retilínea. Essa aparente violação dos conceitos de ótica geométrica, a respeito da propagação retilínea da luz, pode ser explicada da seguinte forma:",
+    "options": [
+      {
+        "label": "a",
+        "text": "a luz no interior da fibra viola os princípios da ótica geométrica.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a luz no interior da fibra somente se propaga se a fibra estiver disposta em linha reta.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a luz sofre refrações múltiplas durante sua propagação, havendo apenas uma reflexão total na saída da fibra.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a luz percorre trajetórias retilíneas no interior da fibra, sofrendo múltiplas reflexões na superfície da fibra até a saída.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.2-q40",
+    "examId": "2015.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "Imediatamente antes de um relâmpago, uma nuvem tem em seu topo predominância de moléculas com cargas elétricas positivas, enquanto sua base é carregada negativamente. Considere um modelo simplificado que trata cada uma dessas distribuições como planos de carga paralelos e com distribuição uniforme. Sobre o vetor campo elétrico gerado por essas cargas em um ponto entre o topo e a base, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "é vertical e tem sentido de baixo para cima.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é vertical e tem sentido de cima para baixo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é horizontal e tem mesmo sentido da corrente de ar predominante no interior da nuvem.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é horizontal e tem mesmo sentido no norte magnético da Terra.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-q41",
+    "examId": "2015.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 41,
+    "statement": "Considere um pêndulo construído com uma esfera de 1 kg presa ao teto por um fio inextensível, completamente flexível e com massa desprezível. Note que essa massa se desloca dentro de um fluido, o ar, que exerce na esfera uma força de arrasto em sentido oposto ao seu vetor velocidade. De modo simplificado, a força de arrasto na esfera pode ser descrita como $\\vec F = -b\\vec V$, onde $\\vec V$ é o vetor velocidade da massa e b uma constante positiva. Assim, é correto afirmar que no ponto mais baixo da trajetória a força de arrasto é",
+    "options": [
+      {
+        "label": "a",
+        "text": "vertical e tem maior módulo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "horizontal e tem menor módulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "horizontal e tem maior módulo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "vertical e tem menor módulo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-q42",
+    "examId": "2015.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 42,
+    "statement": "Um motor elétrico disponibiliza 400 W de potência e consome 0,8 kWh de energia durante uma determinada realização de trabalho. A eficiência do motor nesse processo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "50%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "80%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q1",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "No Sistema Internacional de Unidades, comprimento, massa e tempo são algumas grandezas fundamentais, e a partir delas são definidas outras, como por exemplo aceleração, área e volume. Suponha que em outro sistema de unidades sejam adotadas como grandezas fundamentais o tempo, a massa e a velocidade. Nesse sistema hipotético, a altura de uma pessoa seria dada em unidades de",
+    "options": [
+      {
+        "label": "a",
+        "text": "tempo × velocidade.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "massa × tempo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "massa × velocidade.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tempo × massa × velocidade.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-2fase-q2",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "O ano de 2015 tem um segundo a mais. No dia 30 de junho de 2015, um segundo foi acrescido à contagem de tempo de 2015. Isso ocorre porque a velocidade de rotação da Terra tem variações em relação aos relógios atômicos que geram e mantêm a hora legal. Assim, no dia 30 de junho, o relógio oficial registrou a sequência: 23h59min59s - 23h59min60s, para somente então passar a 1º de julho, 0h00min00s. Como essa correção é feita no horário de Greenwich, no Brasil a correção ocorreu às 21h, horário de Brasília. Isso significa que, em média, a velocidade angular do planeta",
+    "options": [
+      {
+        "label": "a",
+        "text": "cresceu.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "manteve-se constante e positiva.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "decresceu.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é sempre nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q3",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 3,
+    "statement": "Considere duas lâminas planas: uma lâmina L1, semitransparente e que exposta à luz do sol produz uma sombra verde, com comprimento de onda $\\lambda_{VERDE}$; e outra lâmina L2 opaca, que ao ser iluminada pelo sol parece verde a um observador. É correto afirmar que as ondas do espectro eletromagnético visível com comprimento de onda $\\lambda_{VERDE}$ são mais intensamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "refletidas por L1 e por L2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "transmitidas por L1 e refletidas por L2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "transmitidas por L1 e por L2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "refletidas por L1 e transmitidas por L2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q4",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 4,
+    "statement": "Um relógio de sol simplificado consiste em uma haste vertical exposta ao sol. Considere que ela seja fixada ao solo em algum local na linha do equador e que seja um período do ano em que ao meio dia o sol fique posicionado exatamente sobre a haste. O tamanho da sombra da haste pode ser relacionado à hora do dia. É correto afirmar que o comprimento da sombra às 9h ($C_{9h}$) e às 15h ($C_{15h}$) é tal que a razão $C_{15h}/C_{9h}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "5/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.2-2fase-q5",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 5,
+    "statement": "Um fio de 3 m de comprimento é composto por três pedaços de 1 m, sendo dois de alumínio e um de cobre, todos com 1 mm² de seção reta. Este fio de 3 m é utilizado para ligar uma lâmpada incandescente. A uma temperatura de 20°C, o fio de cobre tem uma resistência elétrica menor que a do alumínio. Pode-se afirmar corretamente que enquanto a lâmpada está ligada, a corrente elétrica",
+    "options": [
+      {
+        "label": "a",
+        "text": "aumenta ao passar pelo pedaço de cobre.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "diminui ao passar pelo pedaço de cobre.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é a mesma no cobre e no alumínio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é sempre decrescente ao passar sucessivamente em cada emenda do fio.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q6",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 6,
+    "statement": "A Organização das Nações Unidas declarou 2015 como o Ano Internacional da Luz. De acordo com a ONU, cerca de um bilhão e meio de pessoas no mundo ainda vivem sem acesso à energia elétrica, a principal fonte energética para iluminação artificial. Esse cenário contrasta com o desenvolvimento tecnológico no setor de iluminação, que produziu três tecnologias bem conhecidas: as lâmpadas incandescentes (LI), as fluorescentes compactas (LFC) e as com tecnologia LED. Em média, o mesmo fluxo luminoso obtido com uma LI de 30 W pode ser obtido por uma LFC de 8 W e por uma lâmpada LED de apenas 4 W. Com base nesses valores, pode-se calcular acertadamente que a razão entre a energia consumida por uma lâmpada LED em 3,75 horas e uma lâmpada incandescente em meia hora é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,75.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "38.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8/30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q7",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 7,
+    "statement": "Um elevador, durante os dois primeiros segundos de sua subida, sofre uma aceleração vertical para cima e de módulo 1 m/s². Sabe-se que também age sobre o elevador a força da gravidade, cuja aceleração associada é 10 m/s². Durante esses dois primeiros segundos do movimento, a aceleração resultante no elevador é, em m/s²,",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-2fase-q8",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 8,
+    "statement": "Um trem, durante os primeiros minutos de sua partida, tem o módulo de sua velocidade dado por $v = 2t$, onde t é o tempo em segundos e v a velocidade, em m/s. Considerando que um dos vagões pese $3 \\times 10^3$ kg, qual o módulo da força resultante sobre esse vagão, em Newtons?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3000.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6000.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1500.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q9",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 9,
+    "statement": "No instante em que uma bola de 0,5 kg atinge o ponto mais alto, após ter sido lançada verticalmente para cima com velocidade inicial de 10 m/s, seu momento linear tem módulo",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q10",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 10,
+    "statement": "Para efeitos de conta de luz, a bandeira tarifária para o mês de julho de 2015 é vermelha para todos os consumidores brasileiros – o que significa um acréscimo de R$ 5,50 a cada 100 quilowatts-hora (kWh) consumidos. Pelo sistema de bandeiras tarifárias, as cores verde, amarela e vermelha indicam se a energia custará mais ou menos em função das condições de geração de eletricidade. A escolha do Governo Federal pelo uso de termelétricas para compensar a falta d'água nos reservatórios das hidrelétricas é a principal responsável por esses aumentos de preço na energia elétrica. Esse aumento de R$ 5,50 corresponde ao consumo de quantos Joules de energia?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$100 \\times 10^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3,6 \\times 10^8$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5,5 \\times 100$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q11",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 11,
+    "statement": "Na geração de energia elétrica com usinas termelétricas, há transformação de energia térmica em elétrica. Na geração a partir de hidrelétricas, a conversão para energia elétrica se dá primariamente a partir de energia",
+    "options": [
+      {
+        "label": "a",
+        "text": "potencial elétrica da água nos reservatórios.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "potencial gravitacional da água nas represas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "potencial elástica nas turbinas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "cinética da água armazenada em repouso nas represas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q12",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 12,
+    "statement": "A energia elétrica que chega às nossas residências é na forma de tensão alternada a uma frequência de 60 Hz. Na prática, a diferença de potencial elétrico entre os dois polos de uma tomada de parede é proporcional a uma função do tipo $\\text{sen}\\left(\\dfrac{2\\pi t}{60}\\right)$, onde t é o tempo em segundos. Considere uma lâmpada que somente emita luz quando recebe uma diferença de potencial diferente de zero. Assim, ao ser ligada nessa tomada, a lâmpada apagará quantas vezes a cada segundo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2π/60.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-2fase-q13",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 13,
+    "statement": "Um motor ligado na rede elétrica doméstica utiliza uma corrente elétrica alta durante sua partida, tipicamente seis vezes maior que no seu estado de funcionamento regular, atingido após a velocidade angular de seu eixo chegar a um valor constante. Comparando-se dois intervalos de tempo iguais, o primeiro durante a partida e o segundo já em rotação constante, pode-se afirmar corretamente que o consumo de energia durante a partida é",
+    "options": [
+      {
+        "label": "a",
+        "text": "maior que no intervalo de funcionamento regular.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o mesmo que no intervalo de funcionamento regular.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "menor que no intervalo de funcionamento regular, pois sua velocidade angular é menor na partida.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "menor que no intervalo de funcionamento regular, pois sua velocidade angular é maior na partida.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-2fase-q14",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 14,
+    "statement": "Durante uma hora o ponteiro dos minutos de um relógio de parede executa um determinado deslocamento angular. Nesse intervalo de tempo, sua velocidade angular, em graus/minuto, é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "360.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "36.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q15",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 15,
+    "statement": "A energia elétrica sai das hidrelétricas por linhas de transmissão, que são basicamente constituídas por fios condutores metálicos suspensos em torres, também metálicas, por meio de isoladores cerâmicos ou de outros materiais isolantes. Há linhas em que a diferença de potencial elétrico chega a 230 kV. Em uma dessas linhas, a passagem de uma corrente de 1 A durante 10 segundos seria correspondente ao consumo de quantos Joules de energia?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2,3 \\times 10^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2,3 \\times 10^6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,3 \\times 10^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2,3 \\times 10$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q16",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 16,
+    "statement": "Considere um gás ideal em um recipiente mantido a temperatura constante e com paredes móveis, de modo que se possa controlar seu volume. Nesse recipiente há um vazamento muito pequeno, mas o volume é controlado lentamente de modo que a razão entre o número de moles de gás e seu volume se mantém constante. Pode-se afirmar corretamente que a pressão desse gás",
+    "options": [
+      {
+        "label": "a",
+        "text": "é crescente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é decrescente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "varia proporcionalmente ao volume.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é constante.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.2-2fase-q17",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 17,
+    "statement": "Uma onda sonora produzida por uma fonte pontual dá origem a frentes de onda",
+    "options": [
+      {
+        "label": "a",
+        "text": "esféricas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "planas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "cilíndricas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "transversais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-2fase-q18",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 18,
+    "statement": "Considere um carro de passeio de uma tonelada se deslocando a 108 km/h em uma rodovia. Em um dado instante, o carro se encontra no ponto mais alto de um trecho reto em subida. Para simplificar a descrição mecânica desse sistema, o carro pode ser tratado como uma massa puntiforme e a trajetória em torno do ponto mais alto pode ser aproximada por um arco de círculo de raio 100 m contido em um plano vertical. Em comparação com a situação em que o carro trafegue por um trecho plano, é correto afirmar que, no ponto mais alto da trajetória, a força de atrito entre a pista e os pneus",
+    "options": [
+      {
+        "label": "a",
+        "text": "é menor, pois a força normal da estrada sobre o carro é maior.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é maior, pois a força normal da estrada sobre o carro é menor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é menor, pois a força normal da estrada sobre o carro é menor.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é maior, pois a força normal da estrada sobre o carro é maior.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q19",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "Do ponto de vista da primeira lei da termodinâmica, o balanço de energia de um dado sistema é dado em termos de três grandezas:",
+    "options": [
+      {
+        "label": "a",
+        "text": "trabalho, calor e densidade.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "trabalho, calor e energia interna.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "calor, energia interna e volume.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "pressão, volume e temperatura.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q20",
+    "examId": "2015.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 20,
+    "statement": "Considere um balão de formato esférico, feito de um material isolante e eletricamente carregado na sua superfície externa. Por resfriamento, o gás em seu interior tem sua pressão reduzida, o que diminui o raio do balão. Havendo aquecimento do balão, há aumento da pressão e do raio. Assim, sendo constante a carga total, é correto afirmar que a densidade superficial de carga no balão",
+    "options": [
+      {
+        "label": "a",
+        "text": "decresce com a redução na temperatura.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "não depende da temperatura.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "aumenta com a redução na temperatura.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "depende somente do material do balão.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]

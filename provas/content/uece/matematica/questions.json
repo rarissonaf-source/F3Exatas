@@ -12158,5 +12158,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-q15",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 15,
+    "statement": "José quer comprar chocolates e pipocas com os R$ 11,00 de sua mesada. Tem dinheiro certo para comprar dois chocolates e três pacotes de pipocas, mas faltam-lhe dois reais para comprar três chocolates e dois pacotes de pipocas. Nestas condições, podemos afirmar corretamente que um pacote de pipocas custa",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 2,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 1,60.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 1,40.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 1,20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-q16",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 16,
+    "statement": "Se a soma e o produto de dois números são, respectivamente, dois e cinco, podemos afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "os dois números são racionais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "os dois números são irracionais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "um dos números é racional e o outro é irracional.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "os dois números são complexos não reais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-q17",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Em um empreendimento imobiliário, o centro comercial e o parque de estacionamento ocupam, respectivamente, 42% e 53% da área do terreno. A área restante, que corresponde a 3.000 m², é destinada a jardins e vias de circulação. Nestas condições, a medida da área do terreno ocupada pelo centro comercial, em m², é",
+    "options": [
+      {
+        "label": "a",
+        "text": "24.800.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "25.000.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25.200.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25.400.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-q18",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "Se a função real de variável real, definida por $f(x) = ax^2 + bx + c$, é tal que $f(1) = 2$, $f(2) = 5$ e $f(3) = 4$, então o valor de $f(4)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-q19",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 19,
+    "statement": "Se os conjuntos X e Y possuem, respectivamente, cinco e oito elementos, quantas funções, $f: X \\to Y$, injetivas e distintas, podem ser construídas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6680.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6700.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6720.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6740.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-q20",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 20,
+    "statement": "O menor número natural que pode ser escrito como produto de fatores primos positivos e distintos e que tem 32 divisores é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2280.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2310.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2350.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2380.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-q21",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 21,
+    "statement": "Se x é um ângulo tal que $\\cos x = \\dfrac{1}{4}$, então o valor do determinante $\\begin{vmatrix} \\text{sen}\\,2x & 2\\cos^2x \\\\ -\\cos x & \\text{sen}\\,x \\end{vmatrix}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-\\dfrac{1}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-q22",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "Os pontos médios dos lados de um triângulo equilátero cuja medida da área é $9\\sqrt3$ m² são ligados dividindo o triângulo em quatro outros triângulos equiláteros congruentes. A medida da altura de cada um destes triângulos menores é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{6,75}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{6,25}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{6,95}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{6,45}$ m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-q23",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 23,
+    "statement": "Os números reais positivos x, y e z são tais que log x, log y, log z formam, nesta ordem, uma progressão aritmética. Nestas condições, podemos concluir acertadamente que entre os números x, y e z existe a relação",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2y = x + z$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$y = x + z$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$z^2 = xy$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$y^2 = xz$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-q24",
+    "examId": "2015.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 24,
+    "statement": "No referencial cartesiano ortogonal usual com origem no ponto O, a reta r, paralela à reta $y = -2x + 1$ intercepta os semieixos positivos OX e OY, respectivamente, nos pontos P e Q formando o triângulo POQ. Se a medida da área deste triângulo é igual a 9 m², então a distância entre os pontos P e Q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt5$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt5$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4\\sqrt5$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\sqrt5$ m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-q15",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 15,
+    "statement": "Se x e y são números reais tais que $2x + y = 16$, então o maior valor que o produto xy pode assumir é",
+    "options": [
+      {
+        "label": "a",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "48.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "64.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "80.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-q16",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 16,
+    "statement": "No colégio municipal, em uma turma com 40 alunos, 14 gostam de Matemática, 16 gostam de Física, 12 gostam de Química, 7 gostam de Matemática e Física, 8 gostam de Física e Química, 5 gostam de Matemática e Química e 4 gostam das três matérias. Nessa turma, o número de alunos que não gostam de nenhuma das três disciplinas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-q17",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "As ações da Empresa BRASTEC, nos anos de 2011 e 2012, valorizaram 12% e 7%, respectivamente, e nos anos de 2013 e 2014 desvalorizaram 2% e 8%, respectivamente. A valorização das ações correspondente ao período considerado (2011/2014) foi aproximadamente de",
+    "options": [
+      {
+        "label": "a",
+        "text": "9%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7,5%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-q18",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "Seja AEC um triângulo isósceles (as medidas dos lados AE e AC são iguais) e O um ponto do lado AC tal que a medida do ângulo $E\\hat{O}C$ é 120 graus. Se existe um ponto B, do lado AE, tal que o segmento OB é perpendicular ao lado AE e a medida do ângulo $E\\hat{O}B$ seja igual a 40 graus, então a medida do ângulo $O\\hat{E}C$, em graus, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-q19",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 19,
+    "statement": "As soluções, em $\\mathbb{R}$, da equação $\\cos^4x - 4\\cos^3x + 6\\cos^2x - 4\\cos x + 1 = 0$ são (Sugestão: use o desenvolvimento do binômio $(p-q)^4$.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x = 2k\\pi$, onde k é um inteiro qualquer.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x = (2k+1)\\pi$, onde k é um inteiro qualquer.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x = k\\pi$, onde k é um inteiro qualquer.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x = (4k+1)\\pi$, onde k é um inteiro qualquer.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-q20",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 20,
+    "statement": "Se ab é um número formado por dois algarismos, seu reverso é o número ba (por exemplo, o reverso de 14 é 41). A soma de todos os números formados por dois algarismos cuja soma com os seus respectivos reversos resulta um quadrado perfeito é",
+    "options": [
+      {
+        "label": "a",
+        "text": "480.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "482.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "484.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "486.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-q21",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 21,
+    "statement": "Considerando o logaritmo na base 10 e analisando as possíveis soluções reais da equação $\\log(\\cos^4x - 26\\cos^2x + 125) = 2$, pode-se afirmar corretamente que a equação",
+    "options": [
+      {
+        "label": "a",
+        "text": "não possui solução.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "possui exatamente duas soluções.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "possui exatamente quatro soluções.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "possui infinitas soluções.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.2-q22",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "No referencial cartesiano ortogonal usual, a medida da área do quadrilátero convexo cujos vértices são as interseções de cada uma das retas $x + y - 1 = 0$ e $x + y + 1 = 0$ com a circunferência $x^2 + y^2 = 25$, calculada com base na unidade de comprimento (u.c) adotada no referencial cartesiano considerado, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "16 (u.c)².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14 (u.c)².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18 (u.c)².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20 (u.c)².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-q23",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Considere um segmento de reta XY cuja medida do comprimento é 10 cm e P um ponto móvel no interior de XY dividindo-o em dois segmentos consecutivos XP e PY. Se M e N são respectivamente os pontos médios de XP e PY, então podemos afirmar corretamente que a medida do comprimento do segmento MN",
+    "options": [
+      {
+        "label": "a",
+        "text": "varia entre 0 cm e 10 cm, dependendo da posição do ponto P.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "varia entre 5 cm e 10 cm, dependendo da posição do ponto P.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "varia entre 2,5 cm e 10 cm, dependendo da posição do ponto P.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é igual a 5 cm, sempre.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.2-q24",
+    "examId": "2015.2",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 24,
+    "statement": "Considerando as matrizes $M_1 = \\begin{pmatrix} 0 & 1 \\\\ 1 & 1 \\end{pmatrix}$, $M_2 = M_1 \\cdot M_1$, $M_3 = M_2 \\cdot M_1$, ..., $M_n = M_{n-1} \\cdot M_1$, o número situado na segunda linha e segunda coluna da matriz $M_{10}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "56.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "67.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "78.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "89.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
