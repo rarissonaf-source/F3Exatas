@@ -5,7 +5,7 @@ import { BarChart3 } from "lucide-react";
 import { PageHero } from "@/components/page-hero";
 import { DiagnosisPanel } from "@/components/diagnosis-panel";
 import { fetchCurrentProfile } from "@/lib/account";
-import { hasPerformanceAccess } from "@/lib/performance";
+import { hasProvasPlusAccess } from "@/lib/plan-access";
 
 export default function MeuDesempenhoPage() {
   const [checkedAccess, setCheckedAccess] = useState(false);
@@ -13,7 +13,7 @@ export default function MeuDesempenhoPage() {
 
   useEffect(() => {
     fetchCurrentProfile().then((profile) => {
-      setAllowed(hasPerformanceAccess(profile.email, profile.hasProvasPlus));
+      setAllowed(hasProvasPlusAccess(profile.email, profile.hasProvasPlus));
       setCheckedAccess(true);
     });
   }, []);

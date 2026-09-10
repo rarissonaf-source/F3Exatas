@@ -3,16 +3,6 @@ import { getCurrentAccountKey } from "./account";
 
 export type Period = "24h" | "7d" | "30d";
 
-// Mesma allowlist do servidor (src/lib/performance-db.ts) e do resto do site
-// (auth-gate.js/.tsx) — duplicada aqui só pra checagem client-side de exibir
-// ou não o botão de gerar; o servidor sempre reconfirma no /api/attempts/summary.
-const PERFORMANCE_ADMIN_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com"];
-
-/** Gerar diagnóstico é exclusivo de admins ou de quem tem o F3Provas+. A página em si fica visível pra todo mundo. */
-export function hasPerformanceAccess(email: string, hasProvasPlus: boolean) {
-  return PERFORMANCE_ADMIN_EMAILS.includes(email.trim().toLowerCase()) || hasProvasPlus;
-}
-
 export interface TopicPerformance {
   discipline: string;
   topic: string;

@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { sql } from "@vercel/postgres";
-import { ensurePerformanceTables, hasPerformanceAccess, PERIOD_TO_INTERVAL } from "@/lib/performance-db";
+import { ensurePerformanceTables, PERIOD_TO_INTERVAL } from "@/lib/performance-db";
+import { hasProvasPlusAccess } from "@/lib/provas-plus";
 
 export async function GET(req: NextRequest) {
   await ensurePerformanceTables();
@@ -9,7 +10,7 @@ export async function GET(req: NextRequest) {
   const period = req.nextUrl.searchParams.get("period") || "7d";
   const interval = PERIOD_TO_INTERVAL[period] || PERIOD_TO_INTERVAL["7d"];
 
-  if (!accountKey || !(await hasPerformanceAccess(accountKey))) {
+  if (!accountKey || !(await hasProvasPlusAccess(accountKey))) {
     return NextResponse.json({ error: "Recurso disponível apenas para quem tem o plano com desempenho." }, { status: 403 });
   }
 

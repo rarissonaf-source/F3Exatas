@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { sql } from "@vercel/postgres";
-import { ensureProfilesPlusColumn } from "@/lib/performance-db";
+import { ensureProfilesPlusColumn } from "@/lib/provas-plus";
 
 const EMPTY = { name: "", email: "", phone: "", picture: "", hasProvasPlus: false };
 

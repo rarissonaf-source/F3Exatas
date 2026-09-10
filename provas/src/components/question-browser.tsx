@@ -4,10 +4,19 @@ import { useState, useEffect, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ArrowUp, Filter, Printer, Search, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogDescription,
+} from "@/components/ui/dialog";
 import { QuestionCard } from "@/components/question-card";
 import { recordAnswerCheckAndMaybePrompt, MENTORIAS_URL } from "@/lib/checkin";
 import { staggerContainer, fadeUpItem } from "@/lib/motion";
 import { BASE_PATH } from "@/lib/base-path";
+import { fetchCurrentProfile } from "@/lib/account";
+import { hasProvasPlusAccess } from "@/lib/plan-access";
 import type { ExamSource, Question } from "@/lib/types";
 
 // Ignora acentos/caixa na busca — "área" deve achar "area" e vice-versa.
@@ -44,11 +53,29 @@ export function QuestionBrowser({
   const [yearFilter, setYearFilter] = useState<number | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
   const [searchOpen, setSearchOpen] = useState(false);
+  const [accountEmail, setAccountEmail] = useState("");
+  const [pdfAllowed, setPdfAllowed] = useState(false);
+  const [pdfPaywallOpen, setPdfPaywallOpen] = useState(false);
   const searchInputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    fetchCurrentProfile().then((profile) => {
+      setAccountEmail(profile.email);
+      setPdfAllowed(hasProvasPlusAccess(profile.email, profile.hasProvasPlus));
+    });
+  }, []);
 
   useEffect(() => {
     if (searchOpen) searchInputRef.current?.focus();
   }, [searchOpen]);
+
+  function handlePdfClick() {
+    if (!pdfAllowed) {
+      setPdfPaywallOpen(true);
+      return;
+    }
+    window.location.href = `${BASE_PATH}/api/pdf/${institution}/${discipline}/${topicSlug}?accountKey=${encodeURIComponent(accountEmail)}`;
+  }
 
   function closeSearch() {
     setSearchOpen(false);
@@ -99,14 +126,15 @@ export function QuestionBrowser({
   return (
     <>
       <div className="mt-6 flex items-center justify-end gap-1">
-        <a
-          href={`${BASE_PATH}/api/pdf/${institution}/${discipline}/${topicSlug}`}
+        <button
+          type="button"
+          onClick={handlePdfClick}
           aria-label={`Baixar PDF de resolução — ${topicName}`}
           title="Baixar PDF de resolução"
           className="flex size-9 shrink-0 items-center justify-center rounded-full text-muted-foreground/60 transition-colors hover:bg-foreground/5 hover:text-foreground"
         >
           <Printer className="size-4" />
-        </a>
+        </button>
 
         <div className="relative flex shrink-0 items-center">
           <Filter className="pointer-events-none absolute left-2.5 size-3.5 text-muted-foreground/60" />
@@ -260,6 +288,18 @@ export function QuestionBrowser({
           </motion.div>
         )}
       </AnimatePresence>
+
+      <Dialog open={pdfPaywallOpen} onOpenChange={setPdfPaywallOpen}>
+        <DialogContent>
+          <DialogHeader>
+            <DialogTitle>Esse recurso é exclusivo do F3Provas+</DialogTitle>
+            <DialogDescription>
+              Baixar o PDF com a lista de questões pra imprimir é um benefício do F3Provas+. Adquira o plano pra
+              desbloquear os downloads e o acompanhamento completo do seu desempenho.
+            </DialogDescription>
+          </DialogHeader>
+        </DialogContent>
+      </Dialog>
     </>
   );
 }

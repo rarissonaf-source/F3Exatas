@@ -17,6 +17,7 @@ import { getExams, getQuestionsByTopic } from "@/lib/data";
 import { getTopicsForDiscipline } from "@/lib/topics";
 import { getInstitution } from "@/lib/institutions";
 import { latexToPlainText } from "@/lib/latex-plain";
+import { hasProvasPlusAccess } from "@/lib/provas-plus";
 
 export const runtime = "nodejs";
 
@@ -88,7 +89,7 @@ const OPTION_LETTER: Record<string, string> = { a: "A", b: "B", c: "C", d: "D", 
 const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
 
 export async function GET(
-  _req: NextRequest,
+  req: NextRequest,
   { params }: { params: Promise<{ institution: string; discipline: string; topic: string }> }
 ) {
   const { institution, discipline, topic } = await params;
@@ -97,6 +98,15 @@ export async function GET(
   const topicMeta = getTopicsForDiscipline(discipline).find((t) => t.slug === topic);
   if (!disciplineName || !institutionData || !topicMeta) {
     return NextResponse.json({ error: "not found" }, { status: 404 });
+  }
+
+  // Baixar o PDF de resolução é um recurso do F3Provas+ — sempre confirmado no servidor.
+  const accountKey = req.nextUrl.searchParams.get("accountKey") || "";
+  if (!accountKey || !(await hasProvasPlusAccess(accountKey))) {
+    return NextResponse.json(
+      { error: "Baixar o PDF de resolução é exclusivo de quem tem o F3Provas+." },
+      { status: 403 }
+    );
   }
 
   const questions = getQuestionsByTopic(institution, discipline, topic);
