@@ -8318,5 +8318,1605 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2011.1-q37",
+    "examId": "2011.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 37,
+    "statement": "Um condutor elétrico metálico, de formato irregular e isolado está carregado com uma carga positiva total $+Q$. Pode-se afirmar corretamente que a carga $+Q$",
+    "options": [
+      {
+        "label": "a",
+        "text": "é a somatória das cargas dos prótons que compõem o condutor.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "está distribuída uniformemente por toda a superfície externa do condutor.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "está distribuída uniformemente por todo o condutor, exceto pela sua superfície.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é o saldo do balanço entre as cargas dos prótons e dos elétrons que compõem o condutor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.1-q38",
+    "examId": "2011.1",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 38,
+    "statement": "Considere $m$ a massa de um satélite que está sendo projetado para descrever uma órbita circular a uma distância $d$, acima da superfície da terra. Sejam $M$ e $R$ a massa e o raio da terra, respectivamente, e $G$ a constante gravitacional universal. Considerando-se apenas os efeitos gravitacionais da terra, o módulo da velocidade tangencial do satélite na órbita será",
+    "options": [
+      {
+        "label": "a",
+        "text": "$[GM/d]^{1/2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$[GM/(d+R)]^{1/2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$[GM/R]^{1/2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$[GMm/R]^{1/2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-q40",
+    "examId": "2011.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 40,
+    "statement": "As frequências de vibração dos átomos em sólidos, à temperatura ambiente, são da ordem de $10^{13}$ Hz. Considerando que no movimento de vibração cada átomo se desloca linearmente, o tempo, em segundos, necessário para completar mil ciclos deste movimento é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^{-3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{-10}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^{16}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^{-16}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-q41",
+    "examId": "2011.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 41,
+    "statement": "Analisando o movimento de subida e descida de um corpo que é lançado verticalmente no espaço próximo à superfície da terra, sem considerar qualquer tipo de atrito, sobre a aceleração do corpo é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "muda de sinal quando sua velocidade muda de sentido.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é a mesma ao longo de todo o movimento.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "no ponto mais alto da trajetória é nula.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é máxima quando o corpo está na iminência de tocar o solo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-q42",
+    "examId": "2011.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 42,
+    "statement": "Sobre a velocidade de propagação da luz em meios com índice de refração constante, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a velocidade da luz é máxima quando o índice de refração é máximo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a velocidade da luz é máxima quando o índice de refração é mínimo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a velocidade da luz é constante e não depende do índice de refração.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a velocidade da luz é mínima quando o índice de refração é mínimo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-2fase-q1",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "Suponha que, durante um experimento, sejam realizadas medidas de volume e massa de um pedaço de cobre em um dado Sistema de Unidades. Isso posto, são atribuídos os valores V, com dimensão de volume, e m, com dimensão de massa, para essas duas grandezas. Tomando como base as possíveis operações aritméticas entre essas grandezas, assinale a alternativa que contém uma operação sem incoerências no contexto de análise dimensional.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$m + V$",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$V/m$",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$m + m/V$",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$m - V$",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-2fase-q2",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Um objeto puntiforme se desloca ao longo de uma reta de modo que, num dado sistema de referência, sua velocidade \"v\" e sua aceleração \"a\" em quatro instantes de tempo consecutivos sejam tais que: em $t = t_1$, $v_1 > 0$ e $a_1 > 0$; em $t = t_2$, $v_2 > 0$ e $a_2 < 0$; em $t = t_3$, $v_3 = 0$ e $a_3 > 0$; e em $t = t_4$, $v_4 > 0$ e $a_4 = 0$. Sobre esse corpo, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "nos instantes $t_2$ e $t_3$ o corpo está com velocidade crescente em módulo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "nos instantes $t_1$ e $t_4$ a resultante das forças atuando no corpo é diferente de zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "nos instantes $t_3$ e $t_4$ o corpo sofre uma mudança no sentido da sua velocidade.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nos instantes $t_2$ e $t_3$ a resultante das forças atuando no corpo é diferente de zero.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.1-2fase-q3",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 3,
+    "statement": "Duas esferas de mesma massa $m$, estão presas nas extremidades opostas de uma haste rígida de tamanho $2\\ell$. Considere a haste muito fina e de massa desprezível e o diâmetro das esferas muito menor do que o comprimento da haste. O conjunto, imerso em um fluido de alta viscosidade, gira com velocidade angular inicial $\\omega$ em torno de um eixo que passa perpendicularmente à haste, pelo seu ponto central. Considere o sistema na ausência de gravidade e sujeito unicamente à força de atrito entre o fluido e as esferas. Após um tempo suficientemente grande, o movimento de rotação cessa. Sobre essa situação, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "ao final do movimento, a tensão na haste é nula e o trabalho realizado pela força de atrito até o sistema parar é $-m\\ell^2\\omega^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "no instante inicial, a tensão na haste é $m\\omega^2\\ell$ e a força de atrito não realiza trabalho.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ao final do movimento, a tensão na haste é constante e dada por $m\\omega^2\\ell$ e o trabalho realizado pela força de atrito até o sistema parar é $-m\\ell^2\\omega^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ao final do movimento, a tensão na haste é nula e o trabalho realizado pela força de atrito até o sistema parar é $m\\ell^2\\omega^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.1-2fase-q4",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 4,
+    "statement": "Uma partícula P, de massa $m$, está presa na periferia de um disco que gira com velocidade angular constante em torno de um eixo horizontal que passa pelo seu centro. Considere esse sistema próximo à superfície terrestre. Sobre o módulo da força resultante que atua na partícula, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "quando a partícula passa pelo ponto mais baixo da sua trajetória o módulo é o maior durante o movimento.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "quando a partícula passa pelo ponto mais alto da sua trajetória o módulo é o menor durante o movimento.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o módulo é o mesmo em todos os pontos da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o módulo é o menor nos pontos da trajetória em que o vetor velocidade da partícula tem direção vertical.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.1-2fase-q5",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 5,
+    "statement": "Uma dada quantidade de um gás ideal é armazenada em um recipiente de volume fixo, paredes não condutoras de calor, e a uma temperatura T constante. Suponha que outra porção do mesmo gás, com massa igual à primeira, seja colocada em outro recipiente, também de paredes não condutoras de calor, e à mesma temperatura do primeiro. Entretanto, o volume do segundo recipiente é igual a x% do volume do primeiro. Pode-se afirmar corretamente que a razão entre a pressão do gás no segundo recipiente e a pressão no primeiro é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{x}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{100}{x} - 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1 - \\dfrac{100}{x}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{100}{x}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.1-2fase-q6",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 6,
+    "statement": "Duas contas idênticas, de massa $m$ e construídas de material isolante, estão carregadas eletricamente com cargas positivas de mesmo valor. A primeira conta está fixa no centro de uma circunferência contida num plano vertical. A segunda desliza sob a ação da gravidade por um fio rígido, fixo, com formato de arco de 90° da circunferência acima citada. O arco tem extremidades A e B tais que o segmento de reta que une o centro da circunferência ao ponto A seja horizontal. A conta deslizante parte do repouso da extremidade A para a B do fio. Desprezando atritos, fenômenos de eletrização e irradiação eletromagnética, e considerando as dimensões das contas muito menores que o comprimento do fio, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o tempo de descida do ponto A para o ponto B é reduzido pelo efeito da força elétrica de repulsão entre as contas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o tempo de descida do ponto A para o ponto B é aumentado pelo efeito da força elétrica de repulsão entre as contas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o tempo de descida do ponto A para o ponto B é inalterado pelo efeito da força elétrica de repulsão entre as contas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o tempo de descida do ponto A para o ponto B é alterado pelo efeito da força elétrica de repulsão entre as contas no final da trajetória, onde a força elétrica tem mesmo sentido que a força peso.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.1-2fase-q7",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 7,
+    "statement": "Uma lâmpada incandescente tem como componente essencial um resistor ôhmico. Suponha que esta lâmpada seja projetada para ser alimentada com uma diferença de potencial (ddp) de 110 V. Entretanto, disponibiliza-se apenas uma tomada de 220 V. Para disponibilizar uma ddp de 110 V propõe-se a utilização da associação de resistores esquematizada abaixo, conhecida como divisor de tensão. No circuito ilustrado, a ddp entre os pontos A e B é exatamente 110 V. Ao se conectar a lâmpada entre os pontos A e B, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a lâmpada ficará alimentada por uma ddp inferior a 110 V.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a lâmpada ficará alimentada por uma ddp superior a 110 V e menor do que 220 V.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a lâmpada ficará alimentada por uma ddp igual a 110 V.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a lâmpada ficará alimentada ainda de 220 V.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.1-2fase/qf7.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.1-2fase-q8",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 8,
+    "statement": "Um viajante no interior de um vagão ferroviário monitora um recipiente com água e fixado ao vagão. O viajante verifica que a superfície plana do líquido faz um ângulo $\\theta$ com a horizontal. Considere o ângulo medido em relação a um eixo que aponte no sentido contrário ao movimento. Suponha que o trem viaje num trecho reto, horizontal e considere $g$ como sendo o módulo da aceleração da gravidade. Nestas condições, o viajante conclui corretamente que o trem está se deslocando",
+    "options": [
+      {
+        "label": "a",
+        "text": "com módulo da velocidade $v = g \\, sen\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "com módulo da aceleração $a = g \\, sen\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "com módulo da velocidade $v = g \\, tg\\theta$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "com módulo da aceleração $a = g \\, tg\\theta$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.1-2fase-q9",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 9,
+    "statement": "Uma corda é usada para baixar verticalmente um bloco de massa $m$, inicialmente em repouso, com uma aceleração para baixo de módulo igual a $g/4$. Após descer uma distância $d$, o trabalho realizado pela força da corda sobre o bloco foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "$-5/4 \\, mgd$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1/4 \\, mgd$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-3/4 \\, mgd$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$mgd$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.1-2fase-q10",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 10,
+    "statement": "A figura abaixo mostra quatro grupos de partículas, todas idênticas e com massa $m$. Suas velocidades têm o mesmo módulo, porém com direções e sentidos indicados pelas setas nas figuras. O grupo cujo módulo da velocidade do centro de massa é nulo é o",
+    "options": [
+      {
+        "label": "a",
+        "text": "I.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "IV.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.1-2fase/qf10.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.1-2fase-q11",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 11,
+    "statement": "Dois fios condutores retos, idênticos, longos e muito finos são fixos, isolados um do outro e dispostos perpendicularmente entre si no plano da figura. Por eles percorrem correntes elétricas constantes e iguais a $i$, nos sentidos indicados pelas setas. Desprezando-se a distância entre os fios no ponto de cruzamento, é correto afirmar que o campo magnético é nulo em pontos equidistantes dos dois fios nos quadrantes",
+    "options": [
+      {
+        "label": "a",
+        "text": "II e IV.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e III.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "II e III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I e II.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.1-2fase/qf11.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.1-2fase-q12",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 12,
+    "statement": "A figura a seguir mostra um circuito elétrico formado por um capacitor, uma bateria e uma chave. Após a chave ter ficado ligada por um longo período de tempo, a carga no capacitor, em $\\mu C$, é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.1-2fase/qf12.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.1-2fase-q13",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 13,
+    "statement": "No circuito da figura a seguir, $\\varepsilon_1 = 12$ V, $\\varepsilon_2 = 24$ V, $r_1 = r_2 = 3\\ \\Omega$ e $R = 6\\ \\Omega$. O potencial elétrico, em Volts, no ponto X é",
+    "options": [
+      {
+        "label": "a",
+        "text": "superior a 1 V e inferior a 3 V.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "superior a 3 V e inferior a 12 V.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "indeterminado.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "superior a 12 V.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.1-2fase/qf13.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.1-2fase-q14",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 14,
+    "statement": "A figura a seguir mostra a vista superior de uma haste rígida e muito fina sobre uma mesa horizontal. A haste pode girar livremente e sem qualquer atrito em torno de um eixo vertical que passa pelo ponto P. Na haste são aplicadas quatro forças horizontais de mesmo módulo, conforme a figura. Agrupando as forças segundo a ordem crescente do módulo do momento produzido por cada uma em relação ao ponto P, tem-se a sequência correta dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\vec{F_4}$, $\\vec{F_2}$, $\\vec{F_1}$, $\\vec{F_3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\vec{F_1}$, $\\vec{F_2}$, $\\vec{F_3}$, $\\vec{F_4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\vec{F_4}$, $\\vec{F_3}$, $\\vec{F_2}$, $\\vec{F_1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\vec{F_2}$, $\\vec{F_4}$, $\\vec{F_3}$, $\\vec{F_1}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.1-2fase/qf14.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.1-2fase-q15",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 15,
+    "statement": "Os três meios de armazenamento ótico mais difundidos atualmente são CD, DVD e Blu-ray. Os aparelhos reprodutores desses discos utilizam luz de três comprimentos de onda diferentes, cujos valores aproximados são: 405 nm, para leitura de Blu-ray; 650 nm, para DVD; e 785 nm, para reprodução de CD. Sobre as frequências $f$ dessas ondas, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$f_{Blu-ray} < f_{DVD} < f_{CD}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$f_{Blu-ray} > f_{DVD} > f_{CD}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$f_{Blu-ray} = f_{DVD} = f_{CD}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não é possível determiná-las, pois variam conforme o índice de refração do material utilizado na confecção do disco.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-2fase-q16",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 16,
+    "statement": "As moedas de 50 centavos de Real cunhadas de 1998 a 2001 e as cunhadas a partir de 2002 tinham as características descritas na tabela a seguir: Diâmetro (mm): 23 e 23; Espessura (mm): 2,85 e 2,85; Massa (g): 9,25 e 6,80; Material: cuproníquel e aço inoxidável. Com base nessas informações, e adotando o formato cilíndrico para as moedas, assinale o correto.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Houve aumento na densidade das moedas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Houve redução na densidade das moedas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Mesmo com alterações nas massas, a densidade das moedas se manteve constante pelo uso de materiais diferentes.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Não é possível calcular a densidade das moedas em função dos dados fornecidos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-2fase-q17",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 17,
+    "statement": "Três forças idênticas atuam em três corpos planos rígidos I, II e III, cujas formas e dimensões (em metros) são descritas na figura a seguir. Cada corpo pode girar livremente, sem atrito, em torno de eixos perpendiculares ao plano da figura. Os pontos de aplicação das forças e os eixos de rotação são representados pelas letras P e R, respectivamente. Sobre os momentos das forças em relação aos eixos de rotação de cada corpo, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "no corpo I o módulo do momento é maior do que nos outros dois.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "no corpo II o módulo do momento é o menor de todos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "no corpo III o módulo do momento é o maior de todos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "os módulos dos momentos das forças são iguais nos três corpos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.1-2fase/qf17.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.1-2fase-q18",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 18,
+    "statement": "Sobre a polarização de ondas, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "somente ondas transversais podem sofrer polarização.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "somente ondas longitudinais podem sofrer polarização.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ondas transversais e longitudinais podem sofrer polarização.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "somente ondas eletromagnéticas longitudinais podem sofrer polarização.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.1-2fase-q19",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 19,
+    "statement": "O fenômeno de reflexão total pode ocorrer quando um feixe de luz incide sobre a interface de dois meios I e II, onde a velocidade de propagação da luz é diferente em cada meio. Considerando que o feixe se propaga do meio I para o meio II, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a reflexão total pode acontecer se a velocidade de propagação no meio I for maior do que no meio II.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a reflexão total pode acontecer se a velocidade de propagação no meio I for menor do que no meio II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a reflexão total pode acontecer se o índice de refração no meio I for menor do que no meio II.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a reflexão total pode acontecer se o índice de refração no meio I for igual ao do meio II.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-2fase-q20",
+    "examId": "2011.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 20,
+    "statement": "Dois líquidos $L_I$ e $L_{II}$ são submetidos a variações de temperatura, de modo que $L_I$ seja aquecido de 2 °C e $L_{II}$ sofra uma redução de 2 °C na sua temperatura. Verifica-se que o aumento de volume de $L_I$ é igual, em módulo, à variação de volume de $L_{II}$. Assim, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "se os dois volumes de líquido forem iguais antes das variações de temperatura, os coeficientes de dilatação são os mesmos para ambos os líquidos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se, antes das variações de temperatura, o volume do líquido I for maior que o do II, o coeficiente de dilatação do I é maior do que o do II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se, antes das variações de temperatura, o volume do líquido I for menor que o do II, o coeficiente de dilatação do I é menor do que o do II.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se os dois volumes de líquido forem iguais antes das variações de temperatura, os coeficientes de dilatação são diferentes para ambos os líquidos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-q38",
+    "examId": "2011.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 38,
+    "statement": "Em um experimento realizado no vácuo, um raio de luz monocromática incide normal a uma das faces laterais de um prisma reto que tem como bases dois triângulos equiláteros. Suponha que o raio incida em um ponto tal que ao ser refratado não atinja nenhuma aresta do prisma e considere o índice de refração do prisma maior do que 1. O índice de refração do prisma para que o raio sofra reflexão total na segunda face a ser atingida pela luz deverá ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{2}{\\sqrt3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-q39",
+    "examId": "2011.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 39,
+    "statement": "Um anemômetro, instrumento utilizado para medição de velocidade do vento, pode ser construído a partir de uma hélice acoplada a circuitos que convertem sua velocidade angular em valores de tensão elétrica. De modo simplificado, pode-se assumir que a velocidade angular $\\omega$ da hélice é proporcional à velocidade do vento $v$, e que a tensão elétrica $u$ é proporcional à velocidade angular. Assim, $\\omega = k_\\omega \\cdot v$ e $u = k_u \\cdot \\omega$, onde $k_\\omega$ e $k_u$ são constantes de proporcionalidade com dimensões apropriadas. No Sistema Internacional de Unidades, velocidade é dada em m/s, velocidade angular em 1/s e tensão em Volts (V). Com base nessas suposições, pode-se escrever uma equação que relacione a tensão elétrica diretamente à velocidade do vento. Para que essa equação esteja dimensionalmente correta, é certo afirmar-se que o produto entre $k_\\omega$ e $k_u$ deve ter dimensão de",
+    "options": [
+      {
+        "label": "a",
+        "text": "$V \\cdot s/m$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$V \\cdot m/s$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$m/(V \\cdot s)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$s/(V \\cdot m)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-q40",
+    "examId": "2011.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 40,
+    "statement": "Um bloco de massa 2 kg, próximo à superfície da Terra, desliza subindo um plano inclinado de 30° sob a ação de uma força constante e da força peso. Desprezando-se todas as forças de atrito e assumindo-se a aceleração devida à gravidade como sendo constante, se a aceleração do bloco tem módulo 1 $m/s^2$, o módulo da força resultante, em N, vale",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-q41",
+    "examId": "2011.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 41,
+    "statement": "Um resistor de 5 $\\Omega$ é ligado a uma associação em série de duas baterias, uma de 10 V e outra de 5 V. Nessa associação, uma das baterias tem o polo positivo conectado ao negativo da outra. Com base nessa informação, a corrente no resistor, em A, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{5}{15}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.2-q42",
+    "examId": "2011.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 42,
+    "statement": "Uma pessoa se desloca em uma estrada horizontal com velocidade de 10,8 km/h em relação ao solo. Essa pessoa vê um pingo de chuva cair verticalmente com velocidade constante e igual a 4 m/s. O módulo da velocidade em km/h deste pingo em relação ao solo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "18,0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,39.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10,8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-2fase-q1",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 1,
+    "statement": "De um cone reto de altura h e diâmetro da base d com a parede interna revestida por material refletor de ondas eletromagnéticas, retirou-se a base. Sobre a superfície refletora incide um raio de luz paralelo ao eixo do cone. Após todas as reflexões, o raio refletido tem direção paralela ao raio incidente. Para que isso ocorra, as dimensões do cone devem satisfazer a relação",
+    "options": [
+      {
+        "label": "a",
+        "text": "$d/h = 2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$d/h = 1/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$d/h = 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$d/h = 2\\sqrt2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-2fase-q2",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 2,
+    "statement": "Dois carros idênticos U e V sobem, respectivamente, as rampas planas I e II, de comprimentos iguais e inclinações diferentes. Suponha que a rampa II seja mais íngreme do que a rampa I. Considerando-se constantes e iguais em módulo as velocidades dos carros e denotando-se por $P_U$ e $P_V$ as potências empregadas pelos motores dos carros U e V, respectivamente, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P_U > P_V > 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$P_V > P_U > 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P_U = P_V > 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$P_U = P_V = 0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.2-2fase-q3",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 3,
+    "statement": "Considere o circuito formado pela associação em paralelo de dois resistores idênticos conectados a uma bateria. Suponha que a disposição dos fios e dos componentes no circuito seja como a indicada na figura abaixo, com os fios no mesmo plano. Se o circuito for colocado na presença de um campo magnético com direção perpendicular ao plano da figura, sobre os módulos das forças magnéticas $F_I$, $F_{II}$ e $F_{III}$ nos fios I, II e III, respectivamente, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$F_I = F_{II} > F_{III}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$F_I > F_{II} > F_{III}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$F_I = F_{II} = F_{III}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$F_I > F_{II} = F_{III}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf3.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.2-2fase-q4",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 4,
+    "statement": "Um bloco de massa m é posto sobre um plano horizontal sem atrito e está preso a duas molas de tamanhos iguais e constantes elásticas $K_1$ e $K_2$ em três possíveis arranjos conforme a figura abaixo. Analisando-se os sistemas do ponto de vista de associação de molas, as constantes elásticas equivalentes $K_I$, $K_{II}$ e $K_{III}$ nos arranjos I, II e III, respectivamente, são",
+    "options": [
+      {
+        "label": "a",
+        "text": "$K_I = K_1 + K_2$, $K_{II} = K_1 + K_2$, $K_{III} = \\dfrac{K_1 K_2}{(K_1+K_2)}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$K_I = \\dfrac{K_1 K_2}{(K_1+K_2)}$, $K_{II} = K_1 + K_2$, $K_{III} = \\dfrac{K_1 K_2}{(K_1+K_2)}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$K_I = K_1 + K_2$, $K_{II} = K_1 + K_2$, $K_{III} = K_1 + K_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$K_I = \\dfrac{K_1 K_2}{(K_1+K_2)}$, $K_{II} = \\dfrac{K_1 K_2}{(K_1+K_2)}$, $K_{III} = \\dfrac{K_1 K_2}{(K_1+K_2)}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf4.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-2fase-q5",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 5,
+    "statement": "Dois cilindros retos de raios $r_1$ e $r_2$, com $r_1 > r_2$, são suspensos próximo à superfície da Terra por fios. Os comprimentos dos fios são tais que as bases dos cilindros estejam no mesmo nível em relação ao solo conforme a figura abaixo. Considere que os cilindros têm massas e densidades iguais e suponha que eles sejam mergulhados simultaneamente em um fluido até que uma das bases do cilindro de raio $r_1$ fique ao nível da superfície do fluido, conforme a figura acima. Supondo-se que a densidade dos cilindros é maior do que a do fluido, e denotando-se por $E_1$ o empuxo no cilindro de raio $r_1$ e por $E_2$ o empuxo no cilindro de raio $r_2$, a razão $\\dfrac{E_2}{E_1}$ é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{r_2}{r_1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{r_1}{r_2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\left(\\dfrac{r_2}{r_1}\\right)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\left(\\dfrac{r_1}{r_2}\\right)^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf5.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.2-2fase-q6",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 6,
+    "statement": "Um gás ideal é submetido aos três processos termodinâmicos descritos no gráfico abaixo. O processo 1 tem estado inicial I e final II, o processo 2 tem estado inicial II e final III, e o processo 3 tem estado inicial III e final IV. A relação entre os trabalhos $W_i$ ($i=1,2,3$) nos processos 1, 2 e 3, respectivamente, é melhor estimada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$W_1 > W_2 > W_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$W_1 = W_3 > W_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$W_1 = W_3 < W_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$W_1 < W_2 < W_3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf6.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-2fase-q7",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 7,
+    "statement": "Um tubo em formato de U está parcialmente cheio de um fluido I com densidade $\\rho_I$. Um fluido II, com densidade $\\rho_{II} < \\rho_I$, é colocado em um dos ramos do tubo de modo a formar uma coluna de altura $h_{II}$, conforme a figura abaixo. Considerando-se os fluidos imiscíveis entre si e denotando-se por g o módulo da aceleração da gravidade, a razão $h_I/h_{II}$ entre as alturas é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\rho_{II}}{\\rho_I}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\rho_I}{\\rho_{II}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{g\\rho_I}{\\rho_{II}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{g\\rho_{II}}{\\rho_I}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf7.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-2fase-q8",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 8,
+    "statement": "A velocidade v de um objeto puntiforme que parte com uma velocidade inicial $v_0$ e é submetido a uma aceleração constante a, em cada instante de tempo t, é dada por $v = v_0 + at$. Esta equação pode ser reescrita em uma variável adimensional $v' = v/v_0$, de modo que $v' = 1 + a't$. Note que $v'$ é proporcional à velocidade v da partícula. Usando-se o Sistema Internacional de Unidades nas igualdades anteriores, conclui-se que a unidade de medida de $a'$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "segundo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(segundo)^{-1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "metro/segundo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$metro/(segundo)^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.2-2fase-q9",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 9,
+    "statement": "O princípio de funcionamento do macaco hidráulico está ilustrado na figura abaixo, onde são representados dois cilindros com seções transversais de áreas $a_1$ e $a_2$ interconectados e preenchidos com um fluido de densidade $\\rho_f$. Considere que o sistema está sob a ação da gravidade e que sobre a superfície do fluido em cada cilindro há um êmbolo de massa desprezível. Sob o êmbolo de maior área é presa por um fio, de massa desprezível, uma massa m de densidade $\\rho_m > \\rho_f$, e sobre o outro êmbolo repousa outra massa idêntica à primeira. Para que esse sistema permaneça em equilíbrio estático, com os êmbolos à mesma altura em relação ao solo, a razão $a_1/a_2$ deve ser dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1 - \\rho_f/\\rho_m$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1 - \\rho_m/\\rho_f$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(\\rho_f/\\rho_m) - 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(\\rho_m/\\rho_f) - 1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf9.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-2fase-q10",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 10,
+    "statement": "Duas cargas elétricas negativas iguais e puntiformes são mantidas fixas. Uma carga de prova de mesmo valor e de sinal oposto é posta em repouso no ponto central entre as cargas fixas. Sobre a carga de prova é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "se encontra em equilíbrio estável, com sua posição correspondendo a um máximo de energia potencial.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se deslocada para um ponto qualquer entre as cargas negativas, à direita ou à esquerda de sua posição inicial, terá sua energia potencial aumentada.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se deslocada para um ponto qualquer entre as cargas negativas, à direita ou à esquerda de sua posição inicial, terá sua energia potencial diminuída.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se encontra em equilíbrio instável, com sua posição correspondendo a um mínimo de energia potencial.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.2-2fase-q11",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 11,
+    "statement": "Um mesmo corpo foi lançado quatro vezes do solo para atingir um alvo O, conforme as trajetórias I, II, III e IV mostradas na figura abaixo. A trajetória que mais exige energia cinética no momento do lançamento é a",
+    "options": [
+      {
+        "label": "a",
+        "text": "II.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "IV.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf11.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.2-2fase-q12",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 12,
+    "statement": "Um disco de diâmetro X gira horizontalmente em torno de um eixo vertical. Se a aceleração centrípeta máxima que as partículas da periferia do disco podem sofrer é $a_{máx}$, então o módulo da velocidade angular máxima é dado por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{\\dfrac{2a_{máx}}{X}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{\\dfrac{a_{máx}}{2X}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{\\dfrac{X}{2a_{máx}}}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{\\dfrac{2X}{a_{máx}}}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-2fase-q13",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 13,
+    "statement": "Dois capacitores, com placas planas (área hachurada) paralelas e distanciadas de d, têm suas respectivas armaduras com formatos circulares, conforme ilustrados na figura abaixo. Considerando-se que há vácuo entre as placas e desprezando-se os efeitos de borda, a razão $C_1/C_2$ entre as capacitâncias é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf13.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.2-2fase-q14",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 14,
+    "statement": "Seja a seguinte convenção para unidades de medida: M (massa), L (comprimento), T (tempo) e Q (carga). De acordo com essa convenção, as dimensões das grandezas quantidade de movimento, torque, capacitância e diferença de potencial são respectivamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "$ML/T^2$, $ML^2/T^2$, $Q^2T^2/(ML^2)$ e $ML^2/(QT^2)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$ML/T$, $ML^2/T$, $QT^2/(ML^2)$ e $ML^2/(QT)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$ML^2/T$, $ML^2/T^2$, $Q^2T^2/(ML^2)$ e $ML/(QT^2)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$ML/T$, $ML^2/T^2$, $Q^2T^2/(ML^2)$ e $ML^2/(QT^2)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.2-2fase-q15",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 15,
+    "statement": "Um gás ideal se expande em um processo isotérmico constituído por quatro etapas: I, II, III e IV, conforme a figura abaixo. As variações de volume $\\Delta V$ nas etapas são todas iguais. A etapa onde ocorre maior troca de calor é a",
+    "options": [
+      {
+        "label": "a",
+        "text": "I.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "IV.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf15.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-2fase-q16",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 16,
+    "statement": "Próximo à superfície da Terra, uma partícula de massa m foi usada nos quatro experimentos descritos a seguir: 1. Foi liberada em queda livre, a partir do repouso, de uma altura de 400 m. 2. Foi submetida a uma aceleração constante em movimento horizontal, unidimensional, a partir do repouso, e se deslocou 30 m em 2 s. 3. Foi submetida a um movimento circular uniforme em uma trajetória com raio de 20 cm e a uma velocidade tangencial de 2 m/s. 4. Desceu sobre um plano inclinado que faz um ângulo de 60° com a horizontal. Desprezando-se os atritos nos quatro experimentos, o movimento com maior aceleração é o de número",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.2-2fase-q17",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 17,
+    "statement": "O gráfico abaixo representa a sensibilidade relativa da visão humana em função do comprimento de onda da luz. Considerando-se a velocidade de propagação no vácuo dada por $c = 3 \\times 10^8$ m/s e tomando-se por base a figura acima, pode-se estimar corretamente que a faixa de frequência que melhor compõe a luz branca, em $10^{15}$ Hz, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,50 – 0,60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,43 – 0,75.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,43 – 0,50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,60 – 0,75.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf17.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.2-2fase-q18",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 18,
+    "statement": "Uma massa m, presa a um ponto fixo por meio de uma mola de massa desprezível e constante elástica K, oscila sem atrito em um movimento unidimensional. Em um dado sistema de referência, a posição x da massa pode ser dada por $x = x_{máx} sen(\\omega t)$, com $\\omega^2 = K/m$, e a velocidade por $v = \\omega x_{máx} cos(\\omega t)$. Neste caso, a energia mecânica total do sistema massa-mola é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{2}Kx_{máx}^2 sen^2(\\omega t)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{2}m\\omega^2 x_{máx}^2 cos^2(\\omega t)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{2}m\\omega^2 x_{máx}^2 sen^2(\\omega t)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{2}m\\omega^2 x_{máx}^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.2-2fase-q19",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 19,
+    "statement": "Duas forças $\\vec{F_1}$ e $\\vec{F_2}$ horizontais de mesmo módulo, mesma direção e sentidos opostos são aplicadas em uma haste muito fina, rígida e de massa m que repousa sobre uma superfície horizontal sem atrito, conforme ilustrado na figura abaixo. Nestas condições, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a haste não se moverá pela ação dessas forças, pois a soma $\\vec{F_1} + \\vec{F_2} = 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a soma dos momentos das forças $\\vec{F_1}$ e $\\vec{F_2}$ sobre a haste é nula.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a soma dos momentos das forças $\\vec{F_1}$ e $\\vec{F_2}$ sobre a haste é diferente de zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a haste se moverá pela ação dessas forças, pois a soma $\\vec{F_1} + \\vec{F_2} \\neq 0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2011.2-2fase/qf19.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.2-2fase-q20",
+    "examId": "2011.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 20,
+    "statement": "Uma partícula carregada negativamente é posta na presença de um campo elétrico de direção vertical, com sentido de cima para baixo e módulo constante E, nas proximidades da superfície da Terra. Denotando-se por g o módulo da aceleração da gravidade, a razão entre a carga e a massa da partícula para que haja equilíbrio estático deve ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{E}{g}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{g}{E}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{E}{9,8g}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{9,8E}{g}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]

@@ -158,5 +158,21 @@
     "edition": "2010.2",
     "examType": "especifico",
     "sourceFile": "UECE 2010.2 - 2a fase - Redacao e Matematica.pdf"
+  },
+  {
+    "id": "2011.1",
+    "institution": "UECE",
+    "year": 2011,
+    "edition": "2011.1",
+    "examType": "geral",
+    "sourceFile": "VESTIBULAR 2011.1 - PROVA DE CONHECIMENTOS GERAIS - 1a FASE.pdf"
+  },
+  {
+    "id": "2011.2",
+    "institution": "UECE",
+    "year": 2011,
+    "edition": "2011.2",
+    "examType": "geral",
+    "sourceFile": "VESTIBULAR 2011.2 - PROVA DE CONHECIMENTOS GERAIS - 1a FASE.pdf"
   }
 ]

@@ -9598,5 +9598,613 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-q15",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 15,
+    "statement": "Os conjuntos $X = \\{0,4,5,6,7,x\\}$ e $Y = \\{1,3,6,8,x,y\\}$ possuem o mesmo número de elementos e $X \\cap Y = \\{2,6,7\\}$. Para os elementos $x$ e $y$, o valor numérico de $7x - 2y$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "45.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.1-q16",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 16,
+    "statement": "Se $(m-2, 2n)$ e $(3n, m-3)$ representam o mesmo ponto no plano cartesiano ortogonal, então o produto $m \\cdot n$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.1-q17",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "A diretoria de um sindicato é composta de dez membros entre os quais o presidente e o vice-presidente. Quantas comissões com quatro membros da diretoria é possível formar, se em cada uma destas comissões deve figurar o presidente e o vice-presidente?",
+    "options": [
+      {
+        "label": "a",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "26.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "28.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.1-q18",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 18,
+    "statement": "Se os números $x_1$, $x_2$ e $x_3$ formam, nesta ordem, uma progressão aritmética, com $x_2 = 1$, então o valor de $\\log_9(x_1 + x_2 + x_3)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.1-q19",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 19,
+    "statement": "Lúcia comprou um vestido pagando em duas prestações mensais, sendo a primeira de R\\$ 119,34, paga um mês após a compra, e a segunda de R\\$ 260,10. Se a loja atualiza, a cada mês, o valor devido em 2%, qual o preço do vestido se pago à vista?",
+    "options": [
+      {
+        "label": "a",
+        "text": "R\\$ 365,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R\\$ 367,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R\\$ 369,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R\\$ 371,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.1-q20",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Em um sistema ortogonal de coordenadas cartesianas, com unidades nos eixos medidas em centímetro e com origem no ponto $Q(0,0)$, as retas $3x+y-18=0$ e $2x-y+8=0$ interceptam os eixo-x e eixo-y respectivamente nos pontos R e S. Se estas retas interceptam no ponto P, a medida da área do quadrilátero convexo cujos vértices são os pontos P, R, Q e S, em $cm^2$, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "33.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "44.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "55.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.1-q21",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 21,
+    "statement": "Se $x$ é um arco do primeiro quadrante e $sen^4x - cos^4x = \\dfrac{1}{2}$, então $tgx$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\sqrt3}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.1-q22",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "Se a soma das medidas das diagonais de um losango é 6 m, então o maior valor que a área deste losango pode assumir, em $m^2$, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.1-q24",
+    "examId": "2011.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 24,
+    "statement": "Sejam $\\alpha$ e $\\beta$ dois planos paralelos, cuja distância entre eles é 4 m, e $r$ uma reta que os intercepta nos pontos A e B, com $A \\in \\alpha$ e $B \\in \\beta$, determinando um segmento AB, cuja medida é 5 m. Nestas condições, a medida, em metro, da projeção ortogonal do segmento AB sobre o plano $\\beta$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.2-q15",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 15,
+    "statement": "Sobre os conjuntos X, Y e Z, possuindo respectivamente 2, 4 e 8 elementos, podemos afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(X \\cup Z) \\cap Y$ possui sempre seis elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(X \\cap Z) \\cup Y$ possui sempre seis elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(X \\cup Z) \\cap Y$ possui no máximo quatro elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(X \\cap Z) \\cup Y$ possui no máximo quatro elementos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.2-q16",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 16,
+    "statement": "Quantos são os números inteiros positivos, divisíveis por 5, escritos com quatro algarismos distintos escolhidos entre os elementos de $\\{1, 3, 5, 7, 9\\}$?",
+    "options": [
+      {
+        "label": "a",
+        "text": "120.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.2-q17",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 17,
+    "statement": "Se os números $\\sqrt7$, $\\sqrt[3]7$ e $\\sqrt[6]7$ são, nesta ordem, os três primeiros termos de uma progressão geométrica, então o termo seguinte desta progressão é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt[9]7$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt[12]7$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.2-q18",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 18,
+    "statement": "Considere o triângulo XOZ, retângulo em X, onde a medida do cateto XO é 1 m. Acoplado a este triângulo construímos outro triângulo OZW, retângulo em Z, de tal modo que o seu cateto OZ e a hipotenusa do triângulo XOZ. Observe que a hipotenusa do triângulo OZW é exterior ao triângulo XOZ. Se nestes triângulos os ângulos $Z\\hat{O}X$ e $Z\\hat{O}W$ são congruentes com medida y, então a medida, em metro, da hipotenusa OW é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{cos^2y}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$cos2y$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{cosy+1}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$tg^2y - 1$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2011.2-q19",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 19,
+    "statement": "Considerando $log_2 3 = k$ podemos afirmar, corretamente, que a soma das raízes da equação $2^x - 12 + 27 \\cdot 2^{-x} = 0$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2k$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3k$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{2}{k}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3}{k}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-q20",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 20,
+    "statement": "O polinômio $p(x) = x^4 + 2x^3 - 4x - 4$ é divisível por $d(x) = x^2 + k$, onde k é constante. Sobre as raízes da equação $q(x) = 0$, sendo $q(x)$ o quociente da divisão de $p(x)$ por $d(x)$, podemos afirmar corretamente que são duas raízes",
+    "options": [
+      {
+        "label": "a",
+        "text": "iguais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "racionais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "irracionais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não reais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2011.2-q21",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 21,
+    "statement": "Um número natural é primo quando tem exatamente dois divisores positivos distintos. Se $x_1$, $x_2$, $x_3$ e $x_4$ são os números primos menores do que 10, então a soma $\\dfrac{1}{x_1} + \\dfrac{1}{x_2} + \\dfrac{1}{x_3} + \\dfrac{1}{x_4}$ é um número racional localizado entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,0 e 1,1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,1 e 1,2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,2 e 1,3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,3 e 1,4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.2-q22",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 22,
+    "statement": "Dada a função $f: \\mathbb{R} \\to \\mathbb{R}$, definida por $f(x) = |x^2 - 6x + 5|$, existe um único número $y_0$ tal que para exatamente três números $x_1$, $x_2$, $x_3$ verifica-se a relação $f(x_1) = f(x_2) = f(x_3) = y_0$. Nestas condições o valor da soma $x_1 + x_2 + x_3$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2011.2-q23",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "No plano cartesiano usual, a área, em unidade de área (u.a), do triângulo cujos três lados estão respectivamente sobre as retas de equações $x + y - 5 = 0$; $3x - 2y + 5 = 0$ e $2x - 3y + 5 = 0$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2011.2-q24",
+    "examId": "2011.2",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 24,
+    "statement": "Jonas aplicou, durante um certo período, três quantias a taxas de 5%, 4% e 3% cada. Ao final do período, as quantias tiveram o mesmo rendimento. Se a soma das quantias aplicadas foi R\\$ 43.992,00 e se foi praticado o sistema de juros simples, então a quantia aplicada à taxa de 3% foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "R\\$ 14.140,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R\\$ 15.619,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R\\$ 18.720,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R\\$ 19.618,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
