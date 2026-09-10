@@ -286,5 +286,21 @@
     "edition": "2018.2",
     "examType": "geral",
     "sourceFile": "UECE 2018.2 - PROVA.pdf"
+  },
+  {
+    "id": "2019.1",
+    "institution": "UECE",
+    "year": 2019,
+    "edition": "2019.1",
+    "examType": "geral",
+    "sourceFile": "UECE 2019.1 - PROVA.pdf"
+  },
+  {
+    "id": "2019.2",
+    "institution": "UECE",
+    "year": 2019,
+    "edition": "2019.2",
+    "examType": "geral",
+    "sourceFile": "UECE 2019.2 - PROVA.pdf"
   }
 ]

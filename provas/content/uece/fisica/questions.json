@@ -21886,5 +21886,1157 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2019.1-q39",
+    "examId": "2019.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 39,
+    "statement": "Considere uma gangorra em que duas crianças gêmeas estão sentadas, cada irmão em uma extremidade. Considere que ambos têm mesma massa. Considere que o solo é o nível zero das energias potenciais gravitacionais. Sobre a soma da energia potencial gravitacional dos gêmeos, é correto afirmar que é",
+    "options": [
+      {
+        "label": "a",
+        "text": "zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "constante e não nula mesmo com mudanças nas alturas de cada criança.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "sempre crescente a cada ciclo de descida.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sempre decrescente a cada ciclo de descida.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.1-q40",
+    "examId": "2019.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 40,
+    "statement": "Em antigos relógios de parede era comum o uso de um pêndulo realizando um movimento harmônico simples. Considere que um desses pêndulos oscila de modo que vai de uma extremidade a outra em 0,5 s. Assim, a frequência de oscilação desse pêndulo é, em Hz,",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.1-q41",
+    "examId": "2019.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 41,
+    "statement": "Dois resistores idênticos são ligados em paralelo a uma mesma bateria. Considere duas massas de água $m_1$ e $m_2$, com $m_1 = 2m_2$ e temperaturas iniciais iguais. Se cada resistor é mergulhado em uma das massas de água, é correto afirmar que a quantidade de calor $Q_1$ passada para a massa $m_1$ e $Q_2$, para $m_2$, são tais que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$Q_1 = 2Q_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$Q_1 = Q_2/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$Q_1 = 4Q_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$Q_1 = Q_2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.1-q42",
+    "examId": "2019.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "Considere um gás ideal que sofre uma compressão pela realização de trabalho sobre o recipiente que o contém. Este trabalho tem a mesma unidade de medida de",
+    "options": [
+      {
+        "label": "a",
+        "text": "razão entre pressão e volume.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "produto de pressão por temperatura.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "razão entre temperatura e pressão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "produto de pressão por volume.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.1-q43",
+    "examId": "2019.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 43,
+    "statement": "Um disco, do tipo DVD, gira com movimento circular uniforme, realizando 30 rpm. A velocidade angular dele, em rad/s, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$30\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$60\\pi$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.1-q44",
+    "examId": "2019.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 44,
+    "statement": "Considere um veículo de massa constante que se desloca em linha reta. Este veículo tem seu momento linear dado por $p = 4t$, onde $t$ é o tempo e a constante multiplicativa 4 tem a unidade de medida apropriada. Assim, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "sua velocidade é constante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "sua aceleração é constante.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "sua energia cinética é constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "sua energia cinética é decrescente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.1-q45",
+    "examId": "2019.1",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 45,
+    "statement": "Assinale a opção que apresenta a mesma unidade de medida de energia cinética.",
+    "options": [
+      {
+        "label": "a",
+        "text": "(momento linear)²/massa",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(momento linear)/massa",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "massa×comprimento",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "massa×aceleração",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.1-q46",
+    "examId": "2019.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 46,
+    "statement": "Considere duas ondas sonoras que produzem variações na pressão em um mesmo ponto do espaço por onde elas se propagam. Caso a pressão nesse ponto seja dada por $P = 5 + 2\\cos(4t)$ quando uma das ondas passa, e $P = 5 + 2\\text{sen}(4t)$ quando a outra passa pelo ponto, é correto afirmar que as duas ondas têm",
+    "options": [
+      {
+        "label": "a",
+        "text": "amplitudes diferentes.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mesmo timbre.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "frequências diferentes.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "mesma fase.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-q39",
+    "examId": "2019.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 39,
+    "statement": "Considere dois balões infláveis, de propaganda, fabricados com tecido de poliéster inextensível. Um dos balões tem iluminação interna feita com uma lâmpada incandescente, que dissipa muita energia por efeito Joule, e o outro com uma lâmpada LED, de baixa dissipação se comparada à incandescente. Supondo que, após inflados com a mesma pressão, os balões sejam vedados e não tenham vazamentos, é correto afirmar que, após ligadas as iluminações dos dois balões,",
+    "options": [
+      {
+        "label": "a",
+        "text": "o balão com a lâmpada incandescente terá sua pressão interna menor que a do balão com LED.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as temperaturas nos balões se manterão iguais, tendo em vista que as pressões iniciais eram idênticas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o balão com a lâmpada incandescente terá sua temperatura interna menor que a do balão com LED.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o balão com a lâmpada incandescente terá sua pressão interna maior que a do balão com LED.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-q40",
+    "examId": "2019.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 40,
+    "statement": "Um dispositivo eletrônico muito comum nos celulares tipo smart phones é o acelerômetro. Dentre as funções desse dispositivo, nos celulares, está a detecção da posição do celular em relação ao campo gravitacional da Terra. O acelerômetro é capaz de identificar se o celular está na posição vertical ou horizontal, alterando automaticamente a imagem e as posições das funções disponíveis na tela do telefone. Considerando que uma das informações disponibilizadas pelo acelerômetro seja o ângulo entre a normal à tela e o vetor força peso do celular, do ponto de vista dimensional, esse ângulo medido pelo acelerômetro",
+    "options": [
+      {
+        "label": "a",
+        "text": "é adimensional.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem unidades de m/s².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem unidade de medida de m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é um vetor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-q41",
+    "examId": "2019.2",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 41,
+    "statement": "Considere uma situação em que uma pessoa segura um prego metálico com os dedos, de modo que a ponta desse prego fique pressionada pelo polegar e a cabeça pelo indicador. Assumindo que a haste do prego esteja em uma direção normal às superfícies de contato entre os dedos e o prego, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a força que atua na ponta do prego é maior que a atuante na cabeça.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a pressão do metal sobre o indicador é maior que sobre o polegar.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a pressão do metal sobre o indicador é menor que sobre o polegar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a força que atua na ponta do prego é menor que a atuante na cabeça.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-q42",
+    "examId": "2019.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 42,
+    "statement": "O município de Fortaleza experimentou, nos primeiros meses de 2019, uma intensa quadra chuvosa. Em abril, por exemplo, dados de uma instituição de meteorologia revelaram que a média de chuva no mês inteiro, no município, foi aproximadamente 500 mm. Supondo que a densidade da água seja $10^3$ kg/m³, considerando que o município de Fortaleza tenha uma área de aproximadamente 314 km², e que a chuva tenha se distribuído uniformemente em toda a área, é correto estimar que a massa total de chuva foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "$500 \\times 10^9$ kg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$157 \\times 10^9$ kg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$157 \\times 10^9$ toneladas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$500 \\times 10^9$ toneladas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-q43",
+    "examId": "2019.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 43,
+    "statement": "Desde o início de 2019, testemunhamos dois acidentes aéreos fatais para celebridades no Brasil. Para que haja voo em segurança, são necessárias várias condições referentes às forças que atuam em um avião. Por exemplo, em uma situação de voo horizontal, em que a velocidade da aeronave se mantenha constante,",
+    "options": [
+      {
+        "label": "a",
+        "text": "a soma de todas as forças externas que atuam na aeronave é não nula.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a soma de todas as forças externas que atuam na aeronave é maior que seu peso.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a força de sustentação é maior que seu peso.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a soma de todas as forças externas que atuam na aeronave é nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-q44",
+    "examId": "2019.2",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 44,
+    "statement": "Suponha que duas pessoas muito parecidas (com mesma massa e demais características físicas) estejam sobre um colchão de molas, posicionando-se uma delas de pé e a outra deitada. Supondo que as molas desse colchão sejam todas helicoidais e com o eixo da hélice sempre vertical, do ponto de vista de associação de molas, é correto afirmar que a pessoa que está de pé deforma",
+    "options": [
+      {
+        "label": "a",
+        "text": "mais o colchão, em virtude de ser sustentada por um menor número de molas associadas em paralelo, se comparada à pessoa deitada.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mais o colchão, em virtude de ser sustentada por um menor número de molas associadas em série, se comparada à pessoa deitada.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "menos o colchão, em virtude de ser sustentada por um menor número de molas associadas em paralelo, se comparada à pessoa deitada.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "menos o colchão, em virtude de ser sustentada por um menor número de molas associadas em série, se comparada à pessoa deitada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-q45",
+    "examId": "2019.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 45,
+    "statement": "Considere uma pilha típica de uso em controles remotos de TV, com tensão de 1,5 V. Caso o polo positivo seja conectado ao polo negativo por um fio condutor perfeito, é correto afirmar que, durante esta conexão,",
+    "options": [
+      {
+        "label": "a",
+        "text": "a diferença de potencial entre os polos é 0,0 Volt.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a diferença de potencial entre os polos é 1,5 Volt.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a corrente pelo fio é 0,0 Ampère.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a resistência do fio é 1,5 Ohm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-q46",
+    "examId": "2019.2",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 46,
+    "statement": "Considere uma bola de futebol de salão que cai em linha reta, choca-se (colide) com o piso da quadra e inicia nova subida com 50% da velocidade que tinha imediatamente antes de tocar o solo. Considerando os instantes imediatamente antes do choque e imediatamente após, é correto afirmar que, entre esses instantes,",
+    "options": [
+      {
+        "label": "a",
+        "text": "o módulo da variação do momento linear da bola é menor que o momento linear inicial.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a variação, em módulo, do momento linear da bola é 150% maior que o módulo do momento linear inicial.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o momento linear da bola não muda.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o momento linear da bola é maior na subida.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-2fase-q1",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 1,
+    "statement": "Dentre muitas aplicações, a energia solar pode ser aproveitada para aquecimento de água. Suponha que para isso seja utilizada uma lente delgada para concentrar os raios solares em um dado ponto que se pretende aquecer. Assuma que os raios incidentes sejam paralelos ao eixo principal. Um tipo de lente que pode ser usada para essa finalidade é a lente",
+    "options": [
+      {
+        "label": "a",
+        "text": "divergente e o ponto de aquecimento fica no foco.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "convergente e o ponto de aquecimento fica no vértice.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "convergente e o ponto de aquecimento fica no foco.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "divergente e o ponto de aquecimento fica no vértice.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.2-2fase-q2",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 2,
+    "statement": "A energia solar fotovoltaica é uma das fontes de energia em franca ascensão no Brasil. Dentre os diversos componentes de um sistema solar fotovoltaico destaca-se o painel solar. De modo simplificado, esse componente é constituído por uma camada de vidro para proteção mecânica, seguida de uma camada formada por células solares e uma última camada, na parte inferior, também para proteção e isolamento. Sendo o vidro um material semitransparente, um raio solar que chega ao painel é",
+    "options": [
+      {
+        "label": "a",
+        "text": "parcialmente refletido e totalmente refratado pelo vidro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "parcialmente refletido e parcialmente refratado pelo vidro.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "totalmente refratado pelo vidro.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "totalmente refletido pelo vidro.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q3",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 3,
+    "statement": "Considere um ferro elétrico de passar roupas. De modo simplificado, ele pode ser tratado como um resistor ligado a uma fonte de tensão. Há também no circuito os condutores que conectam o ferro de passar à tomada. Como não se trata de cabos feitos de material supercondutor, há também a resistência do cabo. Do ponto de vista prático, é como se as resistências do ferro e do cabo fossem ligadas em série à fonte de tensão. Para geração de calor pelo ferro com maior eficiência, é recomendável que a resistência do cabo seja",
+    "options": [
+      {
+        "label": "a",
+        "text": "muito maior do que a resistência elétrica do ferro de passar.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "proporcional à corrente elétrica na rede.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "proporcional à tensão elétrica na rede.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "muito menor do que a resistência elétrica do ferro de passar.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q4",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 4,
+    "statement": "Espacate é um movimento ginástico que consiste na abertura das pernas até que formem um ângulo de 180° entre si, sem flexionar os joelhos. Considere uma posição intermediária, em que um(a) atleta de 70 kg faça uma abertura de 120°. A força normal feita pelo solo no pé do(a) atleta exerce um torque sobre sua perna em relação a um ponto no centro do seu quadril. Pode-se estimar esse torque assumindo que a distância entre o ponto de aplicação da força e o ponto central é 1 m e que a aceleração da gravidade é 10 m/s². Assim, é correto dizer que esse torque, em Nm, é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "350 cos(60°).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "350 cos(120°).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "700 cos(60°).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "350 sen(60°).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q5",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 5,
+    "statement": "Considere um recipiente cilíndrico hermeticamente fechado contendo água. Suponha que a altura do cilindro seja igual ao diâmetro da base. Sejam duas situações: (i) o cilindro repousa com a base em contato com uma mesa; (ii) o cilindro repousa com as faces planas perpendiculares à mesa. Sejam $P_i^H$ e $P_{ii}^H$ as pressões hidrostáticas na água em pontos mais próximos à mesa para as situações (i) e (ii), respectivamente. Da mesma forma, $P_i^M$ e $P_{ii}^M$ são as pressões exercidas pelo recipiente cilíndrico sobre a mesa nas duas situações anteriores. Assim, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P_i^H = P_{ii}^H$ e $P_i^M < P_{ii}^M$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$P_i^H < P_{ii}^H$ e $P_i^M = P_{ii}^M$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P_i^H = P_{ii}^H$ e $P_i^M = P_{ii}^M$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$P_i^H < P_{ii}^H$ e $P_i^M < P_{ii}^M$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q6",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 6,
+    "statement": "Considere uma massa $m$ acoplada a uma mola de constante elástica $k$. Assuma que a massa oscila harmonicamente com frequência angular $\\omega = \\sqrt{k/m}$. Nesse sistema, a posição da massa é dada por $x = A\\,\\text{sen}(\\omega t)$ e sua velocidade é $v = \\omega A\\cos(\\omega t)$. A energia mecânica desse sistema é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$kA^2/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$k[A\\,\\text{sen}(\\omega t)]^2/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$k[A\\cos(\\omega t)]^2/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$k\\omega^2/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q7",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 7,
+    "statement": "Considere um resistor em forma de cilindro, cujas extremidades planas são conectadas eletricamente a uma bateria. Suponha que seja construído um novo resistor com o mesmo material do primeiro, o dobro do comprimento e o triplo da área da base cilíndrica. Assim, a razão entre a nova resistência e a primeira é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.2-2fase-q8",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 8,
+    "statement": "Considere um vagão com uma carga líquida, que é puxado por uma locomotiva em uma via reta horizontal. Despreze os atritos e considere que a força aplicada pela locomotiva ao vagão seja constante. Caso haja vazamento dessa carga, o momento linear do conjunto formado pelo vagão e a carga no seu interior",
+    "options": [
+      {
+        "label": "a",
+        "text": "varia somente pela aplicação da força.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "varia pela aplicação da força e pela variação na massa.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "varia somente pela perda de massa do vagão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não varia mesmo com mudança na massa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-2fase-q9",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 9,
+    "statement": "Pela lei da gravitação universal, a Terra e a Lua são atraídas por uma força dada por $6,67 \\times 10^{-11}\\,Mm/d^2$, onde M e m são as massas da Terra e da Lua, respectivamente, e d é a distância entre os centros de gravidade dos dois corpos celestes. A unidade de medida da constante $6,67 \\times 10^{-11}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "Nm/kg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "N.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "m².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Nm²/kg².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q10",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 10,
+    "statement": "Duas lâmpadas incandescentes são praticamente iguais, exceto pelo filamento de uma, que é mais espesso que o da outra. Se ligadas à rede elétrica,",
+    "options": [
+      {
+        "label": "a",
+        "text": "a lâmpada com filamento de menor espessura terá mais brilho.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as duas lâmpadas terão o mesmo brilho.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a lâmpada com filamento de maior espessura terá mais brilho.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "as duas lâmpadas emitirão a mesma quantidade de calor por efeito Joule.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q11",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 11,
+    "statement": "Se um fio metálico retilíneo estiver conduzindo corrente elétrica e for aproximado à parte superior de uma bússola,",
+    "options": [
+      {
+        "label": "a",
+        "text": "o ponteiro da bússola se alinha com a perpendicular do fio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o ponteiro da bússola se alinha em paralelo ao fio.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o ponteiro da bússola se alinha em uma posição intermediária entre as direções paralela e perpendicular ao fio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a bússola não é afetada pela corrente elétrica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.2-2fase-q12",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "Considere um pêndulo simples oscilando sob efeito da gravidade. A partir da análise dimensional, pode-se determinar a forma como o período $T$ depende da dimensão de comprimento $[L]$, da dimensão da aceleração da gravidade $[g]$ e da dimensão da massa $[M]$. Para isso assume-se que $[T] = [L]^a[g]^b[M]^c$. Para haver homogeneidade dimensional, os expoentes $a$, $b$ e $c$ devem ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "0, 1 e 1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1, -1 e 0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1, 1 e 1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/2, -1/2 e 0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q13",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 13,
+    "statement": "A potência entregue a um resistor pode ser diminuída, diminuindo-se: I. a corrente elétrica e a voltagem. II. somente a corrente elétrica. III. somente a voltagem. Estão corretas as complementações contidas em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I, II e III.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "II e III apenas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-2fase-q14",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 14,
+    "statement": "Suponha que a construção de uma chaminé de tijolos seja realizada pelo acréscimo sucessivo de camadas circulares concêntricas de tijolos, com raios sempre decrescentes. À medida que a construção é erguida, com a finalização de cada camada, o centro de massa da chaminé se desloca",
+    "options": [
+      {
+        "label": "a",
+        "text": "verticalmente para baixo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "horizontalmente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "verticalmente para cima.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "simultaneamente na vertical e na horizontal.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.2-2fase-q15",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 15,
+    "statement": "Suponha que uma esfera de aço desce deslizando, sem atrito, um plano inclinado. Pode-se afirmar corretamente que, em relação ao movimento da esfera, sua aceleração",
+    "options": [
+      {
+        "label": "a",
+        "text": "aumenta e sua velocidade diminui.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "e velocidade aumentam.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é constante e sua velocidade aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "e velocidade permanecem constantes.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.2-2fase-q16",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 16,
+    "statement": "As grandezas físicas escalares são expressas apenas pelo seu valor numérico e unidade de medida. As grandezas físicas vetoriais além do valor numérico e unidade de medida, para serem expressas, necessitam de direção e sentido. Com base nisso, assinale a opção que corresponde a uma grandeza física de natureza vetorial.",
+    "options": [
+      {
+        "label": "a",
+        "text": "massa",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "energia",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "temperatura",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "força",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q17",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 17,
+    "statement": "Suponha que uma fonte sonora com velocidade de módulo $V$ se desloca na direção de uma pessoa. Este observador também se desloca com a mesma velocidade $V$ no mesmo sentido e direção, tentando se afastar da fonte sonora. Nesta situação, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a frequência da onda sonora ouvida pela pessoa aumenta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a frequência da onda sonora ouvida pela pessoa não se altera.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a frequência da onda sonora ouvida pela pessoa diminui.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a potência da onda sonora ouvida pela pessoa aumenta.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-2fase-q18",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 18,
+    "statement": "Uma criança desce um tobogã por uma extensão de 3 m. Suponha que a força de atrito entre a criança e o tobogã seja 0,1 N e que o ângulo de inclinação da superfície seja 30° em relação à horizontal. O trabalho realizado pela força de atrito nessa descida é, em Joules,",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 cos(30°).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,3 cos(30°).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q19",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 19,
+    "statement": "A radiação X, com comprimentos de onda entre 0,01 nm a 10 nm, tem frequência menor que a frequência",
+    "options": [
+      {
+        "label": "a",
+        "text": "da radiação ultravioleta, cujos comprimentos de onda são na faixa de $380 \\times 10^{-9}$ m a $10^{-9}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "da radiação infravermelha, cujos comprimentos de onda são na faixa de 700 nm a 50.000 nm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "da radiação na faixa visível, cujos comprimentos de onda são na faixa de 400 nm a 750 nm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "da radiação gama, cujos comprimentos de onda são na faixa de $10^{-12}$ m a $10^{-14}$ m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q20",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 20,
+    "statement": "Define-se a meia vida de um material radioativo como o tempo para que sua emissão caia à metade. Suponha que uma amostra de material radioativo emitia 120 partículas α por minuto. Depois de 60 dias a amostra passou a emitir 15 partículas α por minuto. A meia-vida da amostra de material radioativo é, em dias, igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
