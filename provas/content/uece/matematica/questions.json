@@ -10238,5 +10238,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2012.1-q15",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 15,
+    "statement": "Se X e Y são conjuntos tais que, X possui exatamente vinte elementos e Y possui exatamente sete elementos, então pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a união do conjunto X com o conjunto Y tem no mínimo sete elementos e no máximo vinte elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a interseção do conjunto X com o conjunto Y tem no máximo sete elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se $X \\cap Y \\neq \\phi$ a diferença X - Y terá seis elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se $X \\cap Y = \\phi$ a diferença X - Y será o conjunto vazio.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-q16",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 16,
+    "statement": "Um número natural é primo quando possui exatamente dois divisores positivos. Dois números naturais ímpares são consecutivos quando a diferença entre o maior e o menor é igual a dois. Se x, y e z são os três números primos positivos ímpares consecutivos então a soma $\\dfrac{1}{x}+\\dfrac{1}{y}+\\dfrac{1}{z}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{71}{105}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{23}{35}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{75}{105}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{73}{105}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-q17",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 17,
+    "statement": "Se os números reais positivos m, n, e p formam, nesta ordem, uma progressão geométrica, então a soma log m + log n + log p é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 log n.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 log n.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 log n.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 log n.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-q18",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "Para n e k inteiros positivos com n > k, defina $\\binom{n}{k} = \\dfrac{n!}{k!(n-k)!}$, onde $n! = 1.2.3....n$. Se n e k satisfazem a relação $\\binom{n}{k+1} = 3\\binom{n}{k}$, então tem-se",
+    "options": [
+      {
+        "label": "a",
+        "text": "n = 4k + 1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "n = 4k + 2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "n = 4k + 3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "n = 4k + 4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.1-q19",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "Se o gráfico da função $f: \\mathbb{R} \\to \\mathbb{R}$, definida por $f(x) = x^2 + bx + c$, intercepta o eixo dos y no ponto (0,4), então pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a equação f(x) = 0 admite duas raízes reais e positivas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a equação f(x) = 0 não admite raízes reais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o produto das raízes da equação f(x) = 0 é -4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a equação f(x) = 0 admite raízes reais quando b≥4 ou b≤-4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.1-q20",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 20,
+    "statement": "Se x e y são números reais distintos e não nulos, a matriz $X = \\begin{pmatrix} x & 1 \\\\ y & 1 \\end{pmatrix}$ admite inversa $X^{-1}$. A soma dos elementos de $X^{-1}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "-2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.1-q21",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "O triângulo equilátero XYZ, cuja medida do lado é 4m, é dividido em dois triângulos pelo segmento de reta XP, onde P é um ponto sobre o lado ZY cuja distância a Z é 1m. O produto dos números que representam respectivamente as medidas, em metros quadrados, das áreas dos triângulos XPZ e XPY é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,50.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,75.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11,25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.1-q22",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "Um cubo que está no interior de uma esfera cuja medida do raio é 3 m tem uma de suas faces (e, portanto, quatro vértices) sobre um plano que passa pelo centro da esfera e os demais vértices sobre a superfície esférica. A razão entre o volume da esfera e o volume do cubo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt3\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt6\\pi$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.1-q23",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 23,
+    "statement": "Sejam f, g: $\\mathbb{R} \\to \\mathbb{R}$ funções definidas por f(x) = sen x, g(x) = sen 2x e P(a,b) um ponto na interseção dos gráficos de f e g. Os possíveis valores para $tg^2a$ são",
+    "options": [
+      {
+        "label": "a",
+        "text": "0 ou 1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0 ou 2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0 ou 3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0 ou $\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-q24",
+    "examId": "2012.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 24,
+    "statement": "Considere, no plano, duas retas paralelas r e s cuja distância entre elas é 3m. Tome em s um segmento de reta cuja medida é 1cm e em r um ponto X tal que a distância de X a um dos extremos do segmento de reta considerado é 5cm. As possíveis distâncias de X ao outro extremo do segmento são",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt2$ cm e $\\sqrt{34}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt2$ cm e $2\\sqrt3$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\sqrt3$ cm e $\\sqrt{34}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\sqrt2$ cm e $4\\sqrt2$ cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.2-q15",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "Se ao aumentarmos, na mesma proporção, as medidas dos lados de um quadrado obtivermos um aumento de 69% em sua área, então o porcentual do aumento da medida do lado deste quadrado será",
+    "options": [
+      {
+        "label": "a",
+        "text": "13%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-q16",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 16,
+    "statement": "Se as equações $x^2 - 6x + k = 0$ e $x^2 - 2x + 1 = 0$ admitem uma raiz comum, então, o valor de k é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-q17",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 17,
+    "statement": "O maior número inteiro múltiplo de 3 e menor do que 7846 quando dividido por 7 deixa um resto igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.2-q18",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "Seja f a função real definida para x positivo por $f(x) = \\sqrt{2x}$. Se definirmos $a_1 = \\sqrt2$ e para cada número natural n > 1, $a_n = f(a_{n-1})$, então o valor de $a_4$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2^{1/16}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2^{5/16}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2^{13/16}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2^{15/16}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-q19",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "Sejam r e s retas paralelas cuja distância entre elas é 3m e MN um segmento unitário sobre a reta s. Se X é um ponto em r tal que a medida do segmento MX é 6m e se P é a projeção ortogonal de N sobre MX ou seu prolongamento, então a medida do segmento NP é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,20m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,50m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,00m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,80m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.2-q20",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 20,
+    "statement": "Se $10^{0,3012} = 2$, então o valor de x tal que $10^x = 6400$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,8179.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,8102.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,8096.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,8072.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-q21",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "A distância entre duas circunferências $C_1$ e $C_2$ é definida como a menor distância entre os pontos de $C_1$ e os pontos de $C_2$, isto é, se X é um ponto em $C_1$, Y é um ponto em $C_2$ e d(X,Y) é a distância entre X e Y, então a distância entre $C_1$ e $C_2$ é o menor valor que d(X,Y) pode assumir. Assim, a distância entre as circunferências $x^2+y^2-4y+3=0$ e $x^2+y^2-4x+3=0$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3(\\sqrt3 - 1)$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2(\\sqrt3 - 1)$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2(\\sqrt2 - 1)$ u.c.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3(\\sqrt2 - 1)$ u.c.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.2-q22",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "Um conjunto X é formado por todos os vértices de um cubo que satisfazem a seguinte condição: se dois destes vértices estão em uma mesma face, então não estão na mesma aresta. O número de planos determinados pelos pontos de X é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.2-q23",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 23,
+    "statement": "Uma pizza que tem a forma de um disco com 32cm de diâmetro é fatiada em oito pedaços iguais, da forma mostrada na figura abaixo. A medida do comprimento da linha que contorna cada fatia é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2(8 + \\pi)$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4(8 + \\pi)$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4(2 + \\pi)$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$8(2 + \\pi)$ cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.2/qm23.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-q24",
+    "examId": "2012.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 24,
+    "statement": "Os números complexos $z_1 = p + qi$ e $z_2 = m + ni$ são as raízes não reais da equação $x^3 - 1 = 0$. O resultado numérico da expressão $|p| + |q| + |m| + |n|$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2 + \\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3 + \\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1 + \\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1 + \\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

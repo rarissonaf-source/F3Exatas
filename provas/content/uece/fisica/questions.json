@@ -9982,5 +9982,1669 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-q37",
+    "examId": "2012.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 37,
+    "statement": "Um corpo oscila com movimento harmônico simples. Sua posição, com o tempo, varia conforme a equação $x(t) = 0,30\\ cos(2\\pi t + \\pi)$ onde x está em metros, t em segundos e a fase está em radianos. Assim, a frequência, o período e a frequência angular são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 Hz, 1 s e $2\\pi$ rad/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi$ Hz, $\\dfrac{1}{\\pi}$ s e $\\pi$ rad/s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,30 Hz, $2\\pi$s e $(2\\pi t + \\pi)$ rad/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\pi$ Hz, $\\dfrac{1}{2\\pi}$ s e 0,60$\\pi$ rad/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.1-q38",
+    "examId": "2012.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 38,
+    "statement": "Um projétil é lançado horizontalmente sob a ação de gravidade constante, de cima de uma mesa, com velocidade inicial cujo módulo é $V_0$. Ao atingir o nível do solo, o módulo de sua velocidade é $3V_0$. Logo, o módulo de sua velocidade vertical neste nível, desprezando-se qualquer tipo de atrito, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\ V_0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4\\ V_0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt2\\ V_0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt8\\ V_0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.1-q39",
+    "examId": "2012.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 39,
+    "statement": "A trajetória de um nêutron, no vácuo, com velocidade $\\vec{V_0}$ dentro de uma região onde existe somente campo magnético $\\vec{B}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "reta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "circular.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "elíptica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "hiperbólica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.1-q40",
+    "examId": "2012.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "Quatro cargas elétricas fixas, com valores +q, +2q, +3q e +4q, são dispostas nos vértices de um quadrado de lado d. As cargas são posicionadas na ordem crescente de valor, percorrendo-se o perímetro do quadrado no sentido horário. Considere que este sistema esteja no vácuo e que $e_0$ é a permissividade elétrica nesse meio. Assim, o módulo do campo elétrico resultante no centro do quadrado é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{4\\pi e_0}\\dfrac{q}{d^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt2}{\\pi e_0}\\dfrac{q}{d^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{\\pi e_0}\\dfrac{q}{d^2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{4}{\\pi e_0}\\dfrac{q}{d^2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-q41",
+    "examId": "2012.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 41,
+    "statement": "Considere dois resistores com resistências $R_1$ e $R_2$. A resistência equivalente na associação em série de $R_1$ e $R_2$ é quatro vezes o valor da resistência da associação em paralelo. Assim, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$R_1 = R_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$R_1 = 4R_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$R_1 = \\dfrac{1}{4}R_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$R_1 = 2R_2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.1-q42",
+    "examId": "2012.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "Uma haste metálica é composta de dois segmentos de mesmo tamanho e materiais diferentes, com coeficientes de dilatação lineares $\\alpha_1$ e $\\alpha_2$. Uma segunda haste, feita de um único material, tem o mesmo comprimento da primeira e coeficiente de dilatação $\\alpha$. Considere que ambas sofram o mesmo aumento de temperatura e tenham a mesma dilatação. Assim, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\alpha = (\\alpha_1+\\alpha_2)/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\alpha = (\\alpha_1 \\cdot \\alpha_2)/(\\alpha_1+\\alpha_2)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\alpha = (\\alpha_1+\\alpha_2)/(\\alpha_1 \\cdot \\alpha_2)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\alpha = \\alpha_1+\\alpha_2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.1-2fase-q1",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 1,
+    "statement": "Um tubo em U, em repouso e na presença da gravidade terrestre de módulo g, contém dois líquidos imiscíveis de densidades $d_1$ e $d_2$, com $d_1 < d_2$, conforme a figura abaixo. Em uma outra situação, esse mesmo tubo sobe verticalmente com aceleração constante $a = 2g$. Assim, é correto afirmar-se que, durante esta subida, a diferença entre as alturas das superfícies superiores dos dois líquidos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2d$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$d/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$3d$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$d$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.1-2fase/qf1.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.1-2fase-q2",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 2,
+    "statement": "Um fluido escoa por um tubo cilíndrico a uma dada vazão J em $m^3$/s. A diferença entre as pressões no fluido medidas nas extremidades do tubo é $\\Delta P$, em Pascal (Pa). Sob determinadas condições de escoamento, pode-se relacionar a vazão à diferença de pressão por uma equação do tipo $\\Delta P = R_{FLUXO} \\cdot J$, onde $R_{FLUXO}$ é a resistência que o tubo oferece à passagem do fluido. Note a semelhança com a lei de Ohm, que relaciona diferença de potencial elétrico, $\\Delta V$, com corrente elétrica I: $\\Delta V = R_{ELETR} \\cdot I$. As unidades de medida de $R_{ELETR}$ e $R_{FLUXO}$ são, respectivamente:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ohm e $Pa \\cdot m^{-3} \\cdot s$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$Pa \\cdot m^{-3} \\cdot s$ e Ohm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Pa e Ohm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Ohm e Pa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.1-2fase-q3",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 3,
+    "statement": "Uma fonte de luz monocromática puntiforme ilumina um disco e projeta sua sombra em uma parede. Considere o diâmetro do disco muito maior que o comprimento de onda da luz. O disco está a uma distância de um metro da parede e sua sombra tem um perímetro perfeitamente circular, com área quatro vezes a área do disco. Assim, a distância entre a fonte de luz e a parede, em metros, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.1-2fase-q4",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 4,
+    "statement": "Duas massas puntiformes de mesmo valor giram com velocidades angulares constantes e iguais em trajetórias com raios R e r, com R > r. Considere que a energia cinética da massa com trajetória de maior raio de trajetória é o dobro da energia cinética da outra massa. Sejam $A_R$ e $A_r$ as áreas varridas em dado intervalo de tempo $\\Delta t$ pelos raios que localizam as partículas nas trajetórias com raio R e r, respectivamente. Pode-se dizer corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$A_R = A_r$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$A_R = 2A_r$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$A_R = 4A_r$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$A_R = A_r/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-2fase-q5",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 5,
+    "statement": "Dois espelhos planos semitransparentes, não paralelos, são atingidos por um único raio de luz, que atinge o primeiro espelho com um ângulo de incidência nulo e é transmitido parcialmente até o segundo espelho. Assim, pode-se dizer que a relação entre o ângulo de reflexão no segundo espelho, $\\theta$, e o ângulo $\\alpha$ entre os espelhos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\theta = \\alpha$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\theta = 2\\alpha$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\theta = \\alpha/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\theta = \\alpha/4$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.1-2fase-q6",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 6,
+    "statement": "Duas rodas de raios R e r, com R > r, giram acopladas por meio de uma correia inextensível que não desliza em relação às rodas. No instante inicial, os pontos A e a se encontram na posição mais alta, conforme a figura abaixo. Qual deve ser a razão R/r para que após 2/3 de giro completo da roda grande, o ponto a esteja na mesma posição inicial pela primeira vez?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2×3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2+3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.1-2fase/qf6.png",
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.1-2fase-q7",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 7,
+    "statement": "Um corpo de massa m é preso ao teto por uma mola, de massa desprezível, de constante elástica k. O corpo é lançado verticalmente para baixo a partir do repouso pela ação da mola, que se encontra inicialmente comprimida. Considere também a ação da gravidade, de módulo g, e despreze todos os atritos. Durante o movimento de descida, entre o início do movimento e o ponto mais baixo da trajetória, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "A energia potencial do sistema massa-mola cresce até atingir um máximo e passa a decrescer até atingir um mínimo; a energia potencial gravitacional da massa é crescente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A energia potencial do sistema massa-mola decresce até atingir um mínimo e passa a crescer até atingir um máximo; a energia potencial gravitacional da massa é decrescente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A energia potencial do sistema massa-mola cresce até atingir um máximo e passa a decrescer até atingir um mínimo; a energia potencial gravitacional da massa é decrescente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A energia potencial do sistema massa-mola decresce até atingir um mínimo e torna a crescer até atingir um máximo; a energia potencial gravitacional da massa é crescente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-2fase-q8",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 8,
+    "statement": "Um raio de luz se propaga de um meio I para um meio II, sendo parcialmente refletido na interface plana de separação entre os meios. Assuma que a velocidade de propagação da luz no meio II é 80% da velocidade no meio I. Para que o raio refletido seja perpendicular ao refratado, o ângulo de incidência $\\theta_i$ deve ser tal que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$tg\\ \\theta_i = 0,8$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$sen\\ \\theta_i = 1,8$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$cos\\ \\theta_i = 0,2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$tg\\ \\theta_i = 1,25$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.1-2fase-q9",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 9,
+    "statement": "Em dois experimentos de mecânica, uma massa puntiforme desliza sobre duas rampas de mesmo comprimento, 5 m, e inclinações diferentes. Em um dos experimentos a distância horizontal percorrida pela massa é $d_I = 3$ m e no outro é $d_{II} = 4$ m. Suponha que ambas as massas partam do repouso e estejam sob a ação de um mesmo campo gravitacional uniforme e vertical, e despreze todos os atritos. Ao atingir o ponto final da rampa, a razão entre as velocidades das massas nos dois experimentos, $v_{II}/v_I$, é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt3/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2/\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1/(2\\sqrt3)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-2fase-q10",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 10,
+    "statement": "Um disco tem seu centro fixado a uma das extremidades de uma haste muito fina e perpendicular ao seu plano. O sistema está sobre uma mesa plana horizontal, com uma das extremidades do eixo ligada a um ponto da mesa. O disco é livre para rodar sem deslizar sobre a mesa, deixando marcada uma trajetória circular, conforme a figura abaixo. Para que a marca da trajetória feche um círculo completo, o disco gira duas vezes. Assim, a razão entre o raio da trajetória marcada na mesa e o raio do disco é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1/(2\\pi)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.1-2fase/qf10.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.1-2fase-q11",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 11,
+    "statement": "Um sistema é constituído por três fios condutores retos e muito longos, fixados um ao outro perpendicularmente e isolados eletricamente entre si. Por cada fio passa uma corrente elétrica constante de mesma intensidade. Se o sistema é posto na presença de um campo magnético uniforme, constante e paralelo a um dos fios, pode-se afirmar corretamente que a força resultante no sistema é",
+    "options": [
+      {
+        "label": "a",
+        "text": "não nula e tende a deslocar o conjunto em linha reta.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "nula, mas há um torque que tende a girar o conjunto em torno de um eixo paralelo ao campo magnético.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "nula, mas há um torque que tende a girar o conjunto em torno de um eixo perpendicular ao campo magnético.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não nula e tende a girar o conjunto em uma trajetória espiral.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.1-2fase-q12",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 12,
+    "statement": "Dois recipientes esféricos de mesmo volume e paredes muito finas são ligados verticalmente por um fio inextensível. Os recipientes I e II são cheios com materiais de densidades $d_I$ e $d_{II}$, respectivamente. O recipiente I flutua no ar, cuja densidade é $d_{AR}$, e o II está imerso na água, cuja densidade é $d_{AG}$. Se o sistema está em equilíbrio estático, e $d_I < d_{AR} < d_{AG} < d_{II}$, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$d_I - d_{II} = d_{AR} + d_{AG}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$d_I - d_{II} = d_{AR} - d_{AG}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$d_I + d_{II} = d_{AR} + d_{AG}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$d_I + d_{II} = d_{AR} - d_{AG}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.1-2fase-q13",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 13,
+    "statement": "Um bloco de massa $m_A = 700$ kg se desloca ao longo do eixo x com velocidade $v_A = 40$ km/h, enquanto outro bloco de massa $m_B = 500$ kg se desloca ao longo do mesmo eixo, com velocidade $v_B = 80$ km/h. Então, a velocidade do centro da massa, em km/h, do sistema constituído pelas massas $m_A$ e $m_B$ é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "40.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "57.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.1-2fase-q14",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 14,
+    "statement": "A área continental de um dado país é $8 \\times 10^6\\ km^2$ e a precipitação pluvial média é de 750 mm ao ano. O volume anual de água que cai em média no país é, em litros, aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "$11 \\times 10^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$6 \\times 10^9$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$11 \\times 10^{12}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6 \\times 10^{15}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.1-2fase-q15",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 15,
+    "statement": "Um parafuso está encravado na periferia de um disco giratório horizontal de raio 1 m. A figura abaixo ilustra as posições do parafuso em tempos sucessivos. Um engenheiro precisa monitorar a passagem do parafuso por uma dada posição, como a indicada pela seta. Para isso, faz uso de uma luz estroboscópica, que acende durante curtos intervalos de tempo a uma frequência de 2 kHz. Para que haja sincronismo entre a passagem do parafuso pela posição indicada pela seta e a lâmpada, a velocidade escalar do parafuso em m/s deve ser aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3,14 \\times 10^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$12,56 \\times 10^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$18,84 \\times 10^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$6,28 \\times 10^3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.1-2fase/qf15.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-2fase-q16",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 16,
+    "statement": "A plataforma de um andaime é construída com uma tábua quadrada uniforme de 60 kg e 5 m de lado. Essa plataforma repousa sobre dois apoios em lados opostos. Um pintor de 70 kg está em pé no andaime a 2 m de um dos apoios. Considere o módulo da aceleração da gravidade $g = 10\\ m/s^2$. Assim, a força exercida pelos apoios sobre a plataforma, em N, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "580 e 720.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "600 e 700.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "300 e 140.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3000 e 1400.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.1-2fase-q17",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 17,
+    "statement": "Um bloco, sob ação da gravidade, desce um plano inclinado com aceleração de $2\\ m/s^2$. Considere o módulo da aceleração da gravidade $g=10\\ m/s^2$. Sabendo-se que o ângulo de inclinação do plano é 45° com a horizontal, o coeficiente de atrito cinético entre o bloco e o plano é, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,7.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.1-2fase-q18",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "Um mol de um gás ideal sofre uma expansão isobárica com um correspondente aumento de temperatura $\\Delta T$. Seja R a constante universal dos gases. Neste processo, o trabalho por mol realizado pelo gás é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(R/\\Delta T)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$R\\Delta T$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$R/\\Delta T$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(R\\Delta T)^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.1-2fase-q19",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "Um tanque com volume V contém $n_O$ moles de oxigênio e $n_N$ moles de nitrogênio à temperatura T. Sendo R a constante universal dos gases e considerando-se que esses gases se comportem como gases ideais dentro desse tanque, a pressão causada pelo oxigênio é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P = n_ORT/(2V)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$P = (n_O+n_N)RT/(2V)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P = n_ORT/V$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$P = 3n_ORT/(2V)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.1-2fase-q20",
+    "examId": "2012.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 20,
+    "statement": "Em três situações distintas, uma massa M puntiforme sofre atrações gravitacionais de quatro outras m, também puntiformes e idênticas, localizadas conforme a figura abaixo. Considere que M esteja no centro e que as outras massas estejam sobre o perímetro da mesma circunferência. Chamando $U_I$, $U_{II}$ e $U_{III}$ as energias potenciais gravitacionais da massa M nos arranjos I, II e III, respectivamente, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$U_I < U_{II} = U_{III}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$U_I > U_{II} > U_{III}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$U_I < U_{II} < U_{III}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$U_I = U_{II} = U_{III}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.1-2fase/qf20.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-q37",
+    "examId": "2012.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 37,
+    "statement": "Um pingo de chuva de massa m cai verticalmente sob a ação da gravidade e da força de atrito com o ar. Considere o módulo da aceleração da gravidade igual a g. Se o pingo já atingiu a velocidade terminal constante, a força de atrito com o ar tem módulo igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "4mg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "mg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2mg.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "mg/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.2-q38",
+    "examId": "2012.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 38,
+    "statement": "Uma partícula de massa m se desloca ao longo de um trilho em forma de círculo vertical de raio r. Despreze os atritos e considere o módulo da aceleração da gravidade igual a g. Num ponto em que o vetor velocidade esteja na direção vertical e com módulo v, a força que o trilho exerce sobre a partícula é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$mv^2/r$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$m(v^2/r + g)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{1}{2}mv^2/r$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{2}m(v^2/r + g)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.2-q39",
+    "examId": "2012.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 39,
+    "statement": "A razão principal para o uso de altas tensões, como 750.000 Volts, nas redes de transmissão de energia elétrica de longa distância é",
+    "options": [
+      {
+        "label": "a",
+        "text": "reduzir risco de choques elétricos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "reduzir os riscos ao meio ambiente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "reduzir a perda de energia por efeito Joule.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "aumentar a potência disponibilizada ao consumidor.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.2-q40",
+    "examId": "2012.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 40,
+    "statement": "Considere três resistores iguais e de resistência R. Estes resistores são conectados de forma que o esquema elétrico fique semelhante a um triângulo, com cada lado correspondendo a um resistor. Assim, a resistência equivalente entre dois vértices quaisquer deste triângulo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3R/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3R.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2R.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2R/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-q41",
+    "examId": "2012.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 41,
+    "statement": "Numa mesma região do espaço, duas ondas planas, uma sonora e outra eletromagnética, propagam-se na mesma direção e em sentidos opostos. Caso os comprimentos de onda sejam iguais, pode-se afirmar corretamente que, entre as duas ondas,",
+    "options": [
+      {
+        "label": "a",
+        "text": "haverá interferência destrutiva.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a onda mecânica perderá energia para a eletromagnética.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "não haverá interferência.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "haverá interferência construtiva.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.2-q42",
+    "examId": "2012.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 42,
+    "statement": "Um cubo de massa m é posto sobre outro cubo de massa 2m. O coeficiente de atrito estático entre os dois blocos é $\\mu$. Suponha que esse conjunto deslize com velocidade constante sobre um plano horizontal, sem atrito. Considere o módulo da aceleração da gravidade igual a g. Assim, a força de atrito $F_A$ atuante no bloco de cima é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$F_A = 0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$F_A = \\mu mg$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$F_A = 2\\mu mg$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$F_A = 3\\mu mg$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.2-2fase-q1",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "Uma massa m puntiforme desliza sem atrito por uma trajetória circular sobre uma mesa horizontal e com velocidade angular $\\omega$ constante. A massa é presa ao centro da trajetória por uma haste rígida de tamanho d. Assim, o torque total ($\\tau$) realizado sobre a massa é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$m\\omega^2d^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$m\\omega^2d$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "negativo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nulo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-2fase-q2",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 2,
+    "statement": "Suponha que, no lugar de comprimento, massa e tempo, as grandezas fundamentais no Sistema Internacional fossem: comprimento [L], densidade [D] e tempo [T]. Assim, a unidade de medida de força seria",
+    "options": [
+      {
+        "label": "a",
+        "text": "$DL/T^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$DL^3/T^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$DL^4/T^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$DL^2/T^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.2-2fase-q3",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 3,
+    "statement": "Uma massa m se desloca em linha reta do ponto A ao ponto B, retornando em seguida ao ponto de partida. Sobre ela atuam três forças: uma de atrito, com módulo constante; outra, com módulo, direção e sentido constantes; e uma terceira não especificada. Sobre o trabalho realizado pelas duas primeiras forças entre os pontos inicial e final da trajetória, pode-se afirmar corretamente que é",
+    "options": [
+      {
+        "label": "a",
+        "text": "nulo para a força de atrito e não nulo para a outra força.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "não nulo para a força de atrito e nulo para a outra força.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "nulo para as duas forças.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não nulo para as duas forças.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.2-2fase-q4",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 4,
+    "statement": "Uma esfera oca de chumbo de raio externo R flutua na água de modo que metade do seu volume fica submersa. Considere a densidade da água sendo $\\rho$ e g o módulo da aceleração da gravidade. Assim, a massa da esfera é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4\\pi R^2\\rho/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\pi R^2\\rho/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4\\pi R^3\\rho/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\pi R^3\\rho/3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-2fase-q5",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 5,
+    "statement": "Dois pedaços de uma mesma corda homogênea são presos ao teto e pendem livremente na vertical sob a ação da gravidade. O pedaço I tem metade do comprimento do II. Considere g o módulo da aceleração da gravidade e o nível X como zero de energia potencial gravitacional. Assim, as energias potenciais gravitacionais $U_I$ e $U_{II}$ das cordas I e II, respectivamente, são relacionadas por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$U_I = U_{II}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$U_I = (3/4)U_{II}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$U_I = (1/2)U_{II}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$U_I = (1/4)U_{II}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.2-2fase/qf5.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.2-2fase-q6",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 6,
+    "statement": "Uma tábua de passar roupa pode ser pensada, de modo simplificado, como uma prancha retangular homogênea, apoiada horizontalmente, nos pontos A e B, por duas hastes cruzadas conforme a figura abaixo. Para que a tábua se mantenha em equilíbrio, é necessário que as distâncias entre os pontos A, B e C sejam tais que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\overline{AB} \\geq \\overline{AC}/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\overline{AB} \\leq \\overline{AC}/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\overline{AC} \\geq \\overline{AB}/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\overline{BC} \\geq 3\\overline{AB}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.2-2fase/qf6.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.2-2fase-q7",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 7,
+    "statement": "Um projétil de chumbo é disparado de uma arma de fogo contra um alvo de madeira, onde fica encravado. A velocidade de saída da bala é de 820 km/h e o calor específico do chumbo 128 J/(kg·K). Caso toda a energia cinética inicial do projétil permaneça nele após o repouso, sob forma de energia térmica, o aumento aproximado de temperatura da bala é",
+    "options": [
+      {
+        "label": "a",
+        "text": "75 K.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "128 K.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "203 K.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "338 K.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.2-2fase-q8",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "O gráfico abaixo ilustra a temperatura de certa quantidade de água em função da energia fornecida. Considerando o calor específico do gelo 2090 J/(kg·°C) e $3,33\\times10^5$ J/kg seu calor latente de fusão, a massa de água gerada após fundir todo o gelo é, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "159 kg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 kg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "159 g.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 g.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.2-2fase/qf8.png",
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-2fase-q9",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 9,
+    "statement": "Observe a figura a seguir. Considere os circuitos acima, com capacitores iguais e de capacitância C, e baterias idênticas que fornecem uma tensão V cada uma. Sobre as cargas $Q_I$ e $Q_{II}$ acumuladas nos capacitores dos circuitos I e II, respectivamente, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$Q_I = Q_{II}\\ (\\neq 0)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$Q_I = 2Q_{II}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$Q_I = Q_{II}/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$Q_I = Q_{II} = 0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.2-2fase/qf9.png",
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.2-2fase-q10",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 10,
+    "statement": "Considere uma onda harmônica mecânica transversal que incide sobre uma superfície plana e perpendicular à direção de propagação da onda. Com relação às ondas incidente e refletida, pode-se afirmar corretamente que a onda refletida",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem mesma fase da onda incidente e velocidade da propagação diferente, em módulo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem fase diferente da onda incidente e mesma velocidade de propagação, em módulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tem mesma fase da onda incidente e mesma velocidade de propagação, em módulo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "tem fase diferente da onda incidente e módulo da velocidade de propagação também diferente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "annulled": true
+  },
+  {
+    "id": "2012.2-2fase-q11",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 11,
+    "statement": "Uma corda de violão de comprimento L, presa em suportes fixos nas suas extremidades, realiza oscilações harmônicas de comprimentos de onda $\\lambda$. Assim, as possíveis formas de oscilação dessa corda, com n = 1, 2, 3, ..., são tais que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(2n+1)\\lambda = L$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2n\\lambda = L$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$n\\lambda/2 = L$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$n\\lambda = L$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.2-2fase-q12",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 12,
+    "statement": "Uma massa puntiforme sofre ação de três forças coplanares. Duas delas são perpendiculares entre si e têm módulos 3N e 4N. Para que o trabalho total realizado pelas forças em um deslocamento neste plano seja nulo, o módulo da terceira força, em Newtons, deve ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.2-2fase-q13",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 13,
+    "statement": "Quatro esferas metálicas, com raios $R_1 > R_2 > R_3 > R_4$, estão interligadas eletricamente. No conjunto está distribuída uma carga elétrica Q. A esfera com maior densidade de carga é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$R_1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$R_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$R_3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$R_4$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2012.2-2fase-q14",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 14,
+    "statement": "Considere um sistema constituído por dois corpos de temperaturas diferentes. Este sistema está isolado termicamente do ambiente. Ao longo de um intervalo de tempo, o corpo quente aquece o frio. Podemos afirmar corretamente que no final deste intervalo",
+    "options": [
+      {
+        "label": "a",
+        "text": "suas respectivas variações de temperatura sempre são as mesmas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o aumento de temperatura do corpo frio é sempre maior, em módulo, que a queda de temperatura do corpo quente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a quantidade de energia perdida pelo corpo quente é igual à quantidade de energia ganha pelo corpo frio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a quantidade de energia ganha pelo corpo frio é maior que a quantidade de energia perdida pelo corpo quente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.2-2fase-q15",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 15,
+    "statement": "Considere a aceleração da gravidade em função da distância d à superfície da terra de acordo com a lei da gravitação universal. A esta distância d da superfície da terra existem dois osciladores: um massa-mola e o outro, um pêndulo simples. A respeito de suas frequências de oscilação, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a frequência do sistema massa-mola não depende de d; a frequência do pêndulo é função decrescente de d.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a frequência dos dois sistemas é função decrescente de d.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a frequência dos dois sistemas é função crescente de d.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a frequência do sistema massa-mola é função decrescente de d; a frequência do pêndulo não depende de d.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.2-2fase-q16",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 16,
+    "statement": "Uma partícula descreve um movimento circular uniforme no sentido anti-horário, sob um trilho horizontal, conforme a figura abaixo. Se em um determinado instante as componentes da força que atua na partícula nas direções x e y são 8 N e -1 N, respectivamente, a partícula se encontra no quadrante",
+    "options": [
+      {
+        "label": "a",
+        "text": "I.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "IV.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": "2012.2-2fase/qf16.png",
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2012.2-2fase-q17",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 17,
+    "statement": "Uma partícula de massa m se move ao longo do eixo x com momento linear p, constante. Assim, a força resultante sobre essa partícula tem módulo",
+    "options": [
+      {
+        "label": "a",
+        "text": "zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$p/m$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$m \\cdot p$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$m/p$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.2-2fase-q18",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 18,
+    "statement": "Uma espaçonave está em uma trajetória em linha reta da terra para a lua. Considerando somente interações sobre a espaçonave devidas à terra e à lua, o ponto onde a força gravitacional da terra sobre a espaçonave é máxima localiza-se",
+    "options": [
+      {
+        "label": "a",
+        "text": "no centro da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "na superfície lunar.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "na superfície da terra.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a uma distância da lua igual ao raio da terra.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2012.2-2fase-q19",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 19,
+    "statement": "Um capacitor de capacitância C, inicialmente carregado com carga Q, tem seus terminais conectados eletricamente a um resistor ôhmico de resistência R. Sobre a diferença de potencial elétrico nos terminais do resistor, é correto afirmar-se que",
+    "options": [
+      {
+        "label": "a",
+        "text": "é máxima imediatamente após a conexão elétrica.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é constante até que o capacitor se descarregue.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é máxima quando o capacitor se descarrega.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é nula imediatamente após a conexão elétrica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2012.2-2fase-q20",
+    "examId": "2012.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 20,
+    "statement": "Uma diferença de potencial $\\Delta V = V_A - V_B$ é aplicada nos terminais A e B de um resistor ôhmico R = 1 $\\Omega$. Com base no gráfico de $\\Delta V$ mostrado ao lado, a curva que melhor representa a corrente elétrica no resistor é",
+    "options": [
+      {
+        "label": "a",
+        "text": "I.",
+        "imagePath": "2012.2-2fase/qf20_a.png"
+      },
+      {
+        "label": "b",
+        "text": "II.",
+        "imagePath": "2012.2-2fase/qf20_b.png"
+      },
+      {
+        "label": "c",
+        "text": "III.",
+        "imagePath": "2012.2-2fase/qf20_c.png"
+      },
+      {
+        "label": "d",
+        "text": "IV.",
+        "imagePath": "2012.2-2fase/qf20_d.png"
+      }
+    ],
+    "imagePath": "2012.2-2fase/qf20.png",
+    "correctAnswer": "c"
   }
 ]
