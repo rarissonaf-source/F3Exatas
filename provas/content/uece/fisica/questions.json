@@ -22400,8 +22400,8 @@
     "correctAnswer": "b"
   },
   {
-    "id": "2019.2-2fase-q1",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q1",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "optica",
     "number": 1,
@@ -22432,8 +22432,8 @@
     "correctAnswer": "c"
   },
   {
-    "id": "2019.2-2fase-q2",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q2",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "optica",
     "number": 2,
@@ -22461,11 +22461,11 @@
       }
     ],
     "imagePath": null,
-    "correctAnswer": "d"
+    "correctAnswer": "b"
   },
   {
-    "id": "2019.2-2fase-q3",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q3",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "eletrodinamica",
     "number": 3,
@@ -22496,8 +22496,8 @@
     "correctAnswer": "d"
   },
   {
-    "id": "2019.2-2fase-q4",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q4",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "estatica",
     "number": 4,
@@ -22525,11 +22525,11 @@
       }
     ],
     "imagePath": null,
-    "correctAnswer": "a"
+    "correctAnswer": "d"
   },
   {
-    "id": "2019.2-2fase-q5",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q5",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "hidrostatica",
     "number": 5,
@@ -22557,11 +22557,11 @@
       }
     ],
     "imagePath": null,
-    "correctAnswer": "d"
+    "correctAnswer": "a"
   },
   {
-    "id": "2019.2-2fase-q6",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q6",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "ondulatoria",
     "number": 6,
@@ -22592,8 +22592,8 @@
     "correctAnswer": "a"
   },
   {
-    "id": "2019.2-2fase-q7",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q7",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "eletrodinamica",
     "number": 7,
@@ -22624,8 +22624,8 @@
     "correctAnswer": "c"
   },
   {
-    "id": "2019.2-2fase-q8",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q8",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "impulso-momento",
     "number": 8,
@@ -22656,8 +22656,8 @@
     "correctAnswer": "b"
   },
   {
-    "id": "2019.2-2fase-q9",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q9",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "gravitacao",
     "number": 9,
@@ -22688,8 +22688,8 @@
     "correctAnswer": "d"
   },
   {
-    "id": "2019.2-2fase-q10",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q10",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "eletrodinamica",
     "number": 10,
@@ -22717,11 +22717,11 @@
       }
     ],
     "imagePath": null,
-    "correctAnswer": "a"
+    "correctAnswer": "c"
   },
   {
-    "id": "2019.2-2fase-q11",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q11",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "eletromagnetismo",
     "number": 11,
@@ -22749,11 +22749,11 @@
       }
     ],
     "imagePath": null,
-    "correctAnswer": "c"
+    "correctAnswer": "a"
   },
   {
-    "id": "2019.2-2fase-q12",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q12",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "ondulatoria",
     "number": 12,
@@ -22784,8 +22784,8 @@
     "correctAnswer": "d"
   },
   {
-    "id": "2019.2-2fase-q13",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q13",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "eletrodinamica",
     "number": 13,
@@ -22816,8 +22816,8 @@
     "correctAnswer": "b"
   },
   {
-    "id": "2019.2-2fase-q14",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q14",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "estatica",
     "number": 14,
@@ -22848,8 +22848,8 @@
     "correctAnswer": "c"
   },
   {
-    "id": "2019.2-2fase-q15",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q15",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "dinamica",
     "number": 15,
@@ -22880,8 +22880,8 @@
     "correctAnswer": "c"
   },
   {
-    "id": "2019.2-2fase-q16",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q16",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "dinamica",
     "number": 16,
@@ -22912,8 +22912,8 @@
     "correctAnswer": "d"
   },
   {
-    "id": "2019.2-2fase-q17",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q17",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "ondulatoria",
     "number": 17,
@@ -22944,8 +22944,8 @@
     "correctAnswer": "b"
   },
   {
-    "id": "2019.2-2fase-q18",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q18",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "trabalho-energia",
     "number": 18,
@@ -22976,8 +22976,8 @@
     "correctAnswer": "a"
   },
   {
-    "id": "2019.2-2fase-q19",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q19",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "optica",
     "number": 19,
@@ -23008,8 +23008,8 @@
     "correctAnswer": "d"
   },
   {
-    "id": "2019.2-2fase-q20",
-    "examId": "2019.2-2fase",
+    "id": "2019.1-2fase-q20",
+    "examId": "2019.1-2fase",
     "discipline": "fisica",
     "topic": "eletromagnetismo",
     "number": 20,
@@ -23038,5 +23038,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q1",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "Considere dois pares de polias. Em cada par, as polias giram mecanicamente acopladas uma à outra. Em cada conjunto de duas polias acopladas, uma tem diâmetro 20 cm e a outra 50 cm. O par identificado pela letra C tem cada polia girando em eixos independentes e as polias são acopladas por uma correia (C) que não desliza. Nesse conjunto, as velocidades angulares das polias são $\\omega_{20}^C$ e $\\omega_{50}^C$. O par identificado pela letra E gira em um mesmo eixo (E) que não desliza em relação às polias. Nesse outro conjunto, as velocidades angulares das polias são $\\omega_{20}^E$ e $\\omega_{50}^E$. Os índices 20 e 50 indicam os diâmetros das polias. Assim, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\omega_{50}^C}{\\omega_{20}^C} = \\dfrac{2}{5}$ e $\\dfrac{\\omega_{50}^E}{\\omega_{20}^E} = 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\omega_{50}^C}{\\omega_{20}^C} = 1$ e $\\dfrac{\\omega_{50}^E}{\\omega_{20}^E} = \\dfrac{5}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\omega_{50}^C}{\\omega_{20}^C} = \\dfrac{5}{2}$ e $\\dfrac{\\omega_{50}^E}{\\omega_{20}^E} = 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\omega_{50}^C}{\\omega_{20}^C} = 1$ e $\\dfrac{\\omega_{50}^E}{\\omega_{20}^E} = \\dfrac{2}{5}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q2",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Considere um carrossel que gira com velocidade angular tal que cada cavalo percorre duas voltas completas em $4\\pi/3$ segundos. Assim, a velocidade angular do carrossel, em radianos/s, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4\\pi/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\pi/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q3",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 3,
+    "statement": "Considere um carro que se desloque em linha reta de modo que um de seus pneus execute um movimento circular uniforme em relação ao seu eixo. Suponha que o pneu não desliza em relação ao solo. Considere as porções do pneu que estão com a estrada. No exato instante desse contato, a velocidade relativa dessas porções em relação ao solo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "proporcional à velocidade angular do pneu.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "igual à velocidade do centro da roda.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "proporcional à velocidade linear do carro.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.2-2fase-q4",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 4,
+    "statement": "Projetos de edifícios esbeltos e com alturas que podem chegar até 150 metros têm gerado um novo tipo de demanda para os centros de pesquisa e universidades que fazem ensaios aerodinâmicos. Nesses ensaios, uma versão em escala reduzida do edifício é construída e submetida a condições de vento controladas em um equipamento de laboratório chamado túnel de vento, tal como o túnel de vento que existe na UECE. Considere que, em um desses ensaios, uma dada superfície do prédio (edifício em escala reduzida) é submetida a uma pressão, pela ação do vento, de 0,1 N/m². Caso essa superfície tenha área de 100,0 cm², a força total devido ao vento nessa área é, em N, igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{-3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^{-2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-2fase-q5",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 5,
+    "statement": "A UECE realiza sistematicamente monitoramento da qualidade do ar na entrada de um de seus campi. Um dos dados que se pode monitorar é a concentração de material particulado (MP) suspenso no ar. Esse material é uma mistura complexa de sólidos com diâmetro reduzido. Em geral, o MP é classificado de acordo com o diâmetro das partículas, devido à relação existente entre diâmetro e possibilidade de penetração no trato respiratório, podendo ser danoso à saúde. Supondo-se que, em uma dada medição, identificou-se que há uma concentração de $150 \\times 10^{-6}$ g de MP por cada 1 m³ de ar em uma grande avenida. Assumindo-se que a densidade dessas partículas (MP) é igual à densidade da água ($10^3$ kg/m³), pode-se afirmar corretamente que o volume de material particulado presente em 1 m³ de ar é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$1,50 \\times 10^{-3}$ L.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1,50 \\times 10^{-4}$ L.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1,50 \\times 10^{-3}$ mL.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1,50 \\times 10^{-4}$ mL.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q6",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 6,
+    "statement": "Um pêndulo simples oscila harmonicamente com frequência $f_T$ na superfície da Terra. Caso esse mesmo pêndulo seja posto para oscilar também harmonicamente na superfície lunar, onde a gravidade é aproximadamente 1/6 do valor na Terra, sua frequência de oscilação será $f_L$. A razão entre a frequência de oscilação na Lua e na Terra é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{\\sqrt6}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{1}{6}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q7",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 7,
+    "statement": "Um dos modelos para representar a dinâmica vertical de automóveis é conhecido como \"quarto de carro\". Nesse modelo, há as seguintes aproximações: a elasticidade do pneu é representada por uma mola vertical (mola P) com uma das extremidades em contato com o solo; o pneu é representado por uma massa presa a essa mola na outra extremidade; a carroceria é aproximada por uma massa verticalmente acima do pneu e conectada a este por uma segunda mola (mola S) que representa a suspensão do carro. Para simplificar ainda mais, adotaremos um modelo de carro sem amortecedor. Com o carro parado em uma via horizontal, nessa aproximação, as molas P e S permanecem",
+    "options": [
+      {
+        "label": "a",
+        "text": "com seus comprimentos oscilando em fase uma com a outra.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "comprimidas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "distendidas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "com seus comprimentos oscilando fora de fase uma com a outra.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-2fase-q8",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 8,
+    "statement": "Considere um pêndulo composto por uma corda flexível e inextensível presa ao teto e com uma massa presa à outra extremidade. Suponha que a massa se desloca em um plano vertical. Uma das condições para que o movimento desse pêndulo seja aproximado por um movimento harmônico simples é que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a amplitude angular das oscilações seja entre $\\pi/4$ e $\\pi/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a amplitude angular das oscilações seja muito menor que o comprimento da corda.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a velocidade angular seja máxima no ponto mais baixo da trajetória.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a velocidade angular seja mínima no ponto mais baixo da trajetória.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-2fase-q9",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 9,
+    "statement": "Em função da diferença de massa entre a Terra e a Lua, a gravidade aqui é cerca de seis vezes a encontrada na Lua. Desconsidere quaisquer forças de atrito. Um objeto lançado da superfície da Terra com uma dada velocidade inicial $v_T$ atinge determinada altura. O mesmo objeto deve ser lançado a uma outra velocidade $v_L$ caso seja lançado do solo lunar e atinja a mesma altura. A razão entre a velocidade de lançamento na Terra e a de lançamento na Lua, para que essa condição seja atingida é, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{10}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt6$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q10",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 10,
+    "statement": "Considere duas rampas de acesso, uma curta (C) e outra longa (L), que ligam o primeiro andar ao térreo de um prédio. A diferença de altura entre o primeiro andar e o térreo, independente da rampa usada, é a mesma. A rampa C tem menor extensão que a rampa L. Assim, a rampa L, por ter maior extensão, tem menor inclinação, o que a torna mais confortável na subida. Caso um móvel seja arrastado do primeiro andar para o térreo, o trabalho realizado pela força de atrito entre o móvel e o piso, em módulo,",
+    "options": [
+      {
+        "label": "a",
+        "text": "é maior, caso seja usada a rampa menos inclinada.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é maior, caso seja usada a rampa mais inclinada.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "não depende da inclinação da rampa; depende apenas da diferença de altura entre o primeiro andar e o térreo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é nula, pois a força de atrito não realiza trabalho.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q11",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 11,
+    "statement": "Considere duas massas iguais penduradas por uma corda flexível e inextensível que passa por uma polia presa ao teto. Desconsiderando-se todos os atritos, de modo que as massas possam subir ou descer livremente, e considerando, nesse arranjo, a situação em que uma das massas está subindo com velocidade constante, é correto afirmar que o módulo da soma vetorial dos momentos lineares das massas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "o dobro do módulo do momento linear de uma das massas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o triplo do módulo do momento linear de uma das massas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "igual ao módulo do momento linear de uma das massas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.2-2fase-q12",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 12,
+    "statement": "Considere um carrinho sobre trilhos em uma trajetória circular, como em um brinquedo de parque de diversões. Por questões de segurança, foi necessário duplicar o raio da trajetória sem que haja mudança na velocidade linear do carrinho. Para isso, a velocidade angular do móvel deve",
+    "options": [
+      {
+        "label": "a",
+        "text": "dobrar de valor.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ser reduzida à metade.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "manter-se constante.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "quadruplicar.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-2fase-q13",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 13,
+    "statement": "Considere quatro hastes metálicas com coeficiente de dilatação térmica $\\alpha$ e soldadas entre si de modo a formar um quadrado de área $A$. Suponha que, em resposta a uma variação de temperatura $\\Delta T$, as hastes dilatem linearmente e a área sofra um incremento dado por $\\Delta A = Ak\\Delta T$. Nessas condições, o coeficiente $k$ pode ser dado por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\alpha + \\alpha^2\\Delta T$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\alpha\\Delta T$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\alpha\\Delta T$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\alpha$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q14",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 14,
+    "statement": "Considere um gás confinado em um recipiente cilíndrico, de paredes fixas, exceto pela tampa, que é composta por um êmbolo móvel que exerce uma pressão constante ($P$) sobre o gás. Caso o gás se expanda e seu volume sofra um incremento $\\Delta V$, em função de deslocamento do êmbolo, o trabalho realizado pelo gás é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P/\\Delta V$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\Delta V/P$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P\\Delta V$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-P\\Delta V$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.2-2fase-q15",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 15,
+    "statement": "Em 20 de julho de 1969, passados 50 anos, o homem pôs os pés em solo lunar. A movimentação de naves espaciais como a Apolo 11, que fez o transporte rumo à lua, é feita pela expulsão de gases do foguete em uma direção e movimento da nave na direção oposta. Há uma lei de conservação envolvida nesse modo de deslocamento que é denominada lei de conservação",
+    "options": [
+      {
+        "label": "a",
+        "text": "da energia potencial.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "da energia elástica.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "do momento de inércia.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "do momento linear.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q16",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 16,
+    "statement": "Considere um sistema de unidades hipotético em que $p$ seja a unidade de medida de momento linear e $m$ a unidade de medida de massa, e que ambas sejam unidades fundamentais. Nesse sistema, a unidade de medida de energia potencial seria",
+    "options": [
+      {
+        "label": "a",
+        "text": "$p$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$p^2/m$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$m$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$p/m$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2019.2-2fase-q17",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 17,
+    "statement": "USB é a sigla para Universal Serial Bus. Esta sigla se tornou bastante conhecida com a popularização de telefones celulares. Trata-se de uma tecnologia para conexão de dispositivos como teclados, impressoras, carregadores de celular, dentre outros. Pode-se usar a porta USB de um computador também como uma fonte de energia para ligar componentes eletrônicos como, por exemplo, um resistor. O padrão USB 2.0 fornece 5 V de tensão e até 500 mA de corrente. O menor valor de uma resistência, em Ohms, que pode ser ligada de modo seguro em uma porta USB 2.0 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,01.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2500.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2019.2-2fase-q18",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 18,
+    "statement": "Considere um espelho plano feito de vidro com índice de refração $n_V$ e assuma que o índice de refração do ar é $n_A$. Um raio de luz incide sobre o espelho e é refletido. O ângulo de incidência $\\theta_I$ e o ângulo de reflexão $\\theta_R$ estão sempre relacionados por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$n_V\\,\\text{sen}(\\theta_R) = n_A\\,\\text{sen}(\\theta_I)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$n_V\\,\\text{sen}(\\theta_I) = n_A\\,\\text{sen}(\\theta_R)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\cos(\\theta_R) = \\text{sen}(\\theta_I)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\text{sen}(\\theta_I) = \\text{sen}(\\theta_R)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2019.2-2fase-q19",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 19,
+    "statement": "Considere um sistema massa mola cuja massa pode se deslocar horizontalmente sobre uma mesa também horizontal e com atrito. Assuma que a mola esteja inicialmente comprimida. No início da observação do sistema a massa está em repouso e passa a se deslocar sob a ação da mola. Imediatamente antes de se deslocar, a massa sofre ação da força de atrito estática até iniciar o movimento, depois passa a sofrer ação da força de atrito dinâmica até que a massa pare. Note que o sistema perde energia na forma de calor e que a força de atrito estática, na iminência do deslizamento, é maior que a dinâmica. Assim, é correto afirmar que, em módulo, o trabalho realizado pela força de atrito estático é",
+    "options": [
+      {
+        "label": "a",
+        "text": "zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "maior que o realizado pela força de atrito dinâmica.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "menor que o realizado pela força de atrito dinâmica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "igual ao realizado pela força de atrito dinâmica.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2019.2-2fase-q20",
+    "examId": "2019.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 20,
+    "statement": "Considere um capacitor ideal, composto por um par de placas metálicas paralelas, bem próximas uma da outra, e carregadas eletricamente com cargas opostas. Na região entre as placas, distante das bordas, o vetor campo elétrico",
+    "options": [
+      {
+        "label": "a",
+        "text": "tem direção tangente às placas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "tem direção normal às placas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é nulo, pois as placas são condutoras.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "é perpendicular ao vetor campo magnético gerado pela distribuição estática de cargas nas placas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
