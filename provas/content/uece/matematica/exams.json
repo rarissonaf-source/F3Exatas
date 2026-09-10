@@ -238,5 +238,21 @@
     "edition": "2015.2",
     "examType": "geral",
     "sourceFile": "UECE 2015.2 - PROVA.pdf"
+  },
+  {
+    "id": "2016.1",
+    "institution": "UECE",
+    "year": 2016,
+    "edition": "2016.1",
+    "examType": "geral",
+    "sourceFile": "UECE 2016.1 - PROVA.pdf"
+  },
+  {
+    "id": "2016.2",
+    "institution": "UECE",
+    "year": 2016,
+    "edition": "2016.2",
+    "examType": "geral",
+    "sourceFile": "UECE 2016.2 - PROVA.pdf"
   }
 ]

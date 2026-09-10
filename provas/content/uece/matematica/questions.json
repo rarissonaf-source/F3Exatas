@@ -12798,5 +12798,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2016.1-q15",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "fracoes-decimais",
+    "number": 15,
+    "statement": "Dados os números racionais $\\dfrac{3}{7}$, $\\dfrac{5}{6}$, $\\dfrac{4}{9}$ e $\\dfrac{3}{5}$, a divisão do menor deles pelo maior é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{27}{28}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{18}{25}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{18}{35}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{20}{27}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2016.1-q16",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 16,
+    "statement": "Em uma empresa multinacional, 60% dos seus 2400 funcionários são do sexo feminino. Se 672 dos funcionários do sexo masculino são de nacionalidade brasileira e 25% das mulheres não são brasileiras, então, a porcentagem do total de funcionários que não são brasileiros é",
+    "options": [
+      {
+        "label": "a",
+        "text": "23%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "25%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "27%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "29%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2016.1-q17",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 17,
+    "statement": "Seja $x_1, x_2, x_3, ...$, uma progressão geométrica cuja razão é o número real positivo q. Se $x_5 = 24q$ e $x_5 + x_6 = 90$, então, o termo $x_1$ desta progressão é um número",
+    "options": [
+      {
+        "label": "a",
+        "text": "inteiro.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "racional maior do que 7,1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "irracional maior do que 7,1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "racional menor do que 7,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2016.1-q18",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 18,
+    "statement": "Pode-se afirmar corretamente que a equação $\\log_2(1 + x^4 + x^2) + \\log_2(1 + 2x^2) = 0$",
+    "options": [
+      {
+        "label": "a",
+        "text": "não admite raízes reais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "admite exatamente uma raiz real.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "admite exatamente duas raízes reais, as quais são iguais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "admite exatamente quatro raízes reais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2016.1-q19",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "Seja $\\mathbb{R}^+$ o conjunto dos números reais positivos e $f: \\mathbb{R} \\to \\mathbb{R}^+$ a função definida por $f(x) = 2^x$. Esta função é invertível. Se $f^{-1}: \\mathbb{R}^+ \\to \\mathbb{R}$ é sua inversa, então, o valor de $f^{-1}(16) - f^{-1}(2) - f^{-1}(1)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2016.1-q20",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "No sistema de coordenadas cartesianas usual, o gráfico da função $f: \\mathbb{R} \\to \\mathbb{R}$, $f(x) = 2x^2 - 8x + 6$ é uma parábola cujo vértice é o ponto M. Se P e Q são as interseções desta parábola com o eixo das abcissas, então, a medida da área do triângulo MPQ, em u.a. (unidade de área), é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2016.1-q21",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "No triângulo XYZ, retângulo em X, a medida do ângulo interno em Y é 30°. Se M é a interseção da bissetriz do ângulo interno em Z com o lado XY, e a medida do segmento ZM é $6\\sqrt3$ m, então, pode-se afirmar corretamente que o perímetro deste triângulo é uma medida, em metros, situada entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "40 e 45.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45 e 50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50 e 55.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "55 e 60.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2016.1-q22",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 22,
+    "statement": "Uma urna contém 50 cartelas das quais 20 são azuis, numeradas de 1 a 20, e 30 são vermelhas, numeradas de 21 a 50. De quantas formas diferentes é possível retirar três cartelas (por exemplo, duas vermelhas e uma azul, três azuis,...) dessa urna?",
+    "options": [
+      {
+        "label": "a",
+        "text": "19600.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "19060.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16900.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16090.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2016.1-q23",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 23,
+    "statement": "Sobre a equação $\\det M = -1$, na qual M é a matriz $\\begin{pmatrix} 1 & 2 & x \\\\ 2 & x & 1 \\\\ x & 1 & x \\end{pmatrix}$ e $\\det M$ é o determinante da matriz M, pode-se afirmar corretamente que a equação",
+    "options": [
+      {
+        "label": "a",
+        "text": "não possui raízes reais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "possui três raízes reais e distintas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "possui três raízes reais, das quais duas são iguais e uma é diferente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "possui três raízes reais e iguais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2016.1-q24",
+    "examId": "2016.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 24,
+    "statement": "O polinômio de menor grau, com coeficientes inteiros, divisível por $2x - 3$, que admite $x = 2i$ como uma das raízes e $P(0) = -12$ é (i é o número complexo cujo quadrado é igual a -1.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$P(x) = 2x^3 - 3x^2 - 8x - 12$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$P(x) = 2x^3 + 3x^2 - 8x - 12$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$P(x) = -2x^3 - 3x^2 - 8x - 12$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$P(x) = 2x^3 - 3x^2 + 8x - 12$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2016.2-q15",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 15,
+    "statement": "Quando eu tiver o dobro da idade que tenho hoje, minha idade será quatro vezes a idade que minha filha Marta terá daqui a cinco anos. Se, em 2013, há três anos, minha idade era três vezes a idade de Marta, então, Marta nasceu no ano de",
+    "options": [
+      {
+        "label": "a",
+        "text": "2000.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2001.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2002.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2003.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2016.2-q16",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 16,
+    "statement": "Seja $x = \\left\\{0,333..., 0,760, \\dfrac{13}{17}, \\dfrac{6}{17}\\right\\}$. Se a e b são respectivamente o maior e o menor dos elementos de x, então, $\\dfrac{a+b^2}{b}$ é um número",
+    "options": [
+      {
+        "label": "a",
+        "text": "entre 1 e 2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "entre 2 e 3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "entre 3 e 4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "maior do que 4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2016.2-q17",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Deseja-se construir um reservatório para armazenar água, que tenha capacidade suficiente para satisfazer as necessidades básicas de cada um dos 3500 habitantes de uma cidade durante 16 dias. Se cada um dos habitantes utiliza diariamente, para as suas necessidades básicas, exatamente 0,028 m³ de água, então, a capacidade mínima, em litros, do reservatório a ser construído é",
+    "options": [
+      {
+        "label": "a",
+        "text": "15.680.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "156.800.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.568.000.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15.680.000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2016.2-q18",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 18,
+    "statement": "Considere uma progressão aritmética, não constante, com sete termos, cuja razão é o número r. Se o primeiro, o terceiro e o sétimo termo desta progressão formam, nesta ordem, os três primeiros termos de uma progressão geométrica, então, a soma dos termos da progressão aritmética é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "27r.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30r.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "33r.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "35r.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2016.2-q19",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "A medida da área, em m², de um hexágono regular inscrito em uma circunferência com raio que mede $\\sqrt2$ m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3\\sqrt2}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2016.2-q20",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Seja PQRS um trapézio isósceles cujas bases menor e maior são respectivamente os segmentos PQ e SR. Se M e N são respectivamente as projeções ortogonais de P e Q sobre SR e se a razão entre as medidas de SR e PQ é igual a três, então, pode-se afirmar corretamente que a razão entre a área do trapézio e a área do quadrilátero PQNM é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2016.2-q21",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 21,
+    "statement": "A medida do cosseno do maior dos ângulos internos do triângulo cujas medidas dos lados são respectivamente 8 m, 10 m e 15 m é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-0,38125.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-0,42112.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-0,43713.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-0,46812.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2016.2-q22",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 22,
+    "statement": "Sejam E e I os pontos onde o gráfico da função $f: \\mathbb{R} \\to \\mathbb{R}$, definida por $f(x) = -x^2 + 9x - 18$ intercepta o eixo dos X. Se P(a,b) é o ponto do gráfico de f tal que os ângulos $P\\hat{E}I$ e $P\\hat{I}E$ são congruentes, então, a abscissa a do ponto P é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2016.2-q23",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 23,
+    "statement": "Se x é um número real tal que $x + \\dfrac{1}{x} = 3$, então, o valor de $x^3 + \\dfrac{1}{x^3}$ é (Sugestão: você pode usar o desenvolvimento do cubo de uma soma de dois números reais.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "27.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2016.2-q24",
+    "examId": "2016.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 24,
+    "statement": "O volume do sólido gerado pela rotação, em torno do eixo dos X, da região do plano limitada pelo triângulo com vértices nos pontos (6,0), (8,0) e (8,9) é igual a (u.v. ≡ unidade de volume)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$81\\pi$ u.v.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$72\\pi$ u.v.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$64\\pi$ u.v.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$54\\pi$ u.v.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]
