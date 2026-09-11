@@ -65,6 +65,7 @@ const modules = [
       { title: "Área do trapézio", youtubeUrl: "https://youtu.be/K87eynALmSE" },
       { title: "Área do círculo 2", youtubeUrl: "https://youtu.be/TZcyykntzz4" },
       { title: "Área e regra de três 1", youtubeUrl: "https://youtu.be/iJSn5KBcHUc" },
+      { title: "Geometria Plana e Equação do 2º Grau", youtubeUrl: "https://youtu.be/sOCvXv-b_CY" },
     ],
   },
   {
