@@ -15,6 +15,7 @@ import {
   AlertTriangle,
   Send,
   Trash2,
+  Flag,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { LatexText } from "@/components/latex-text";
@@ -22,12 +23,14 @@ import { createList, getLists, toggleQuestionInList, deleteList, type QuestionLi
 import { getComments, addComment, deleteComment, type QuestionComment } from "@/lib/comments";
 import { fetchCurrentProfile } from "@/lib/account";
 import { logAttempt } from "@/lib/performance";
+import { reportQuestion } from "@/lib/report-question";
 import { BASE_PATH } from "@/lib/base-path";
 import type { ExamSource, OptionLabel, Question } from "@/lib/types";
 
 const OPTION_LABELS: Record<OptionLabel, string> = { a: "A", b: "B", c: "C", d: "D", e: "E" };
+const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
 
-type Panel = "comments" | "lists" | "share" | null;
+type Panel = "comments" | "lists" | "share" | "report" | null;
 
 interface Props {
   question: Question;
@@ -295,6 +298,12 @@ export function QuestionCard({
           active={panel === "share"}
           onClick={() => togglePanel("share")}
         />
+        <ToolbarButton
+          icon={Flag}
+          label="Reportar"
+          active={panel === "report"}
+          onClick={() => togglePanel("report")}
+        />
       </div>
 
       <AnimatePresence mode="wait">
@@ -316,6 +325,16 @@ export function QuestionCard({
         {panel === "share" && (
           <PanelWrapper key="share">
             <SharePanel questionId={question.id} />
+          </PanelWrapper>
+        )}
+        {panel === "report" && (
+          <PanelWrapper key="report">
+            <ReportPanel
+              questionId={question.id}
+              questionLabel={`${institutionName}${exam?.edition ? ` ${exam.edition}` : ""} · ${
+                DISCIPLINE_NAMES[discipline] || discipline
+              } · Questão ${question.number}`}
+            />
           </PanelWrapper>
         )}
       </AnimatePresence>
@@ -626,5 +645,78 @@ function SharePanel({ questionId }: { questionId: string }) {
         {copied ? "Link copiado!" : "Copiar link"}
       </button>
     </div>
+  );
+}
+
+function ReportPanel({ questionId, questionLabel }: { questionId: string; questionLabel: string }) {
+  const [profile, setProfile] = useState({ name: "Usuário F3Exatas", email: "" });
+  const [text, setText] = useState("");
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState("");
+  const [sent, setSent] = useState(false);
+
+  useEffect(() => {
+    fetchCurrentProfile().then((p) => {
+      setProfile({ name: p.name || "Usuário F3Exatas", email: p.email });
+    });
+  }, []);
+
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    const trimmed = text.trim();
+    if (!trimmed || submitting) return;
+    setSubmitting(true);
+    setError("");
+    const questionUrl =
+      typeof window !== "undefined" ? `${window.location.origin}${window.location.pathname}#${questionId}` : "";
+    const result = await reportQuestion({
+      message: trimmed,
+      questionLabel,
+      questionId,
+      questionUrl,
+      userName: profile.name,
+      userEmail: profile.email,
+    });
+    if (result.ok) {
+      setSent(true);
+      setText("");
+    } else {
+      setError(result.error);
+    }
+    setSubmitting(false);
+  }
+
+  if (sent) {
+    return (
+      <div className="rounded-xl border border-border bg-muted/40 p-4 text-sm text-foreground">
+        Report enviado. Obrigado por ajudar a melhorar o F3Provas!
+      </div>
+    );
+  }
+
+  return (
+    <form onSubmit={handleSubmit} className="rounded-xl border border-border bg-muted/40 p-4">
+      <p className="mb-2 text-sm font-semibold text-foreground">Reportar esta questão</p>
+      <p className="mb-3 text-xs text-muted-foreground">
+        Conte o que você quer alegar ou contestar (gabarito errado, questão ambígua, enunciado incompleto etc.). O relato
+        vai direto para a equipe da F3Exatas, junto com seu nome e a identificação da questão.
+      </p>
+      <textarea
+        value={text}
+        onChange={(e) => setText(e.target.value)}
+        placeholder="Descreva o problema..."
+        aria-label="Descrever o que deseja reportar"
+        rows={4}
+        maxLength={2000}
+        className="w-full resize-none rounded-lg border border-border bg-background p-3 text-sm outline-none placeholder:text-muted-foreground/50 focus:border-brand-orange/50"
+      />
+      <div className="mt-3 flex items-center justify-between gap-2">
+        {error ? <p className="text-xs font-medium text-destructive">{error}</p> : <span />}
+        <Button type="submit" size="sm" disabled={!text.trim() || submitting} className="gap-1.5">
+          <Send className="size-4" />
+          {submitting ? "Enviando..." : "Enviar report"}
+        </Button>
+      </div>
+    </form>
   );
 }

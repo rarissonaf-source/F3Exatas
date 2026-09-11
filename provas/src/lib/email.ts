@@ -46,6 +46,90 @@ function codeEmailText(code: string) {
   return `Confirme seu e-mail na F3Exatas\n\nSeu código de verificação é: ${code}\n\nEle é válido por 10 minutos. Se você não pediu esse código, pode ignorar este e-mail.\n\nF3Exatas · ${SITE_URL}`;
 }
 
+const REPORT_TO_ADDRESS = "f3exatas@gmail.com";
+
+interface QuestionReportInput {
+  userName: string;
+  userEmail: string;
+  questionLabel: string; // ex.: "UECE 2020.2 · Matemática · Questão 13"
+  questionId: string;
+  questionUrl: string;
+  message: string;
+}
+
+function reportEmailHtml(r: QuestionReportInput, dateLabel: string) {
+  const escaped = r.message.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/\n/g, "<br>");
+  return `
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Report de questão</title>
+  </head>
+  <body style="margin:0; padding:0; background:#f4f6fb; font-family:Arial, Helvetica, sans-serif;">
+    <div style="padding:40px 16px;">
+      <div style="max-width:520px; margin:0 auto; background:#ffffff; border-radius:16px; overflow:hidden; border:1px solid #e6e8ef;">
+        <div style="background:#131a2c; padding:24px 32px;">
+          <span style="font-size:15px; font-weight:800; letter-spacing:0.02em; color:#ffffff;">F3Provas &middot; Report de questão</span>
+        </div>
+        <div style="padding:32px;">
+          <table style="width:100%; border-collapse:collapse; margin-bottom:20px; font-size:13px; color:#444444;">
+            <tr><td style="padding:4px 0; color:#8a8f9c; width:110px;">Questão</td><td style="padding:4px 0; font-weight:700; color:#131a2c;">${r.questionLabel} (id: ${r.questionId})</td></tr>
+            <tr><td style="padding:4px 0; color:#8a8f9c;">Usuário</td><td style="padding:4px 0;">${r.userName} ${r.userEmail ? `&lt;${r.userEmail}&gt;` : "(sem e-mail)"}</td></tr>
+            <tr><td style="padding:4px 0; color:#8a8f9c;">Data</td><td style="padding:4px 0;">${dateLabel}</td></tr>
+            <tr><td style="padding:4px 0; color:#8a8f9c;">Link</td><td style="padding:4px 0;"><a href="${r.questionUrl}" style="color:#f38d33;">${r.questionUrl}</a></td></tr>
+          </table>
+          <div style="background:#f4f6fb; border-radius:12px; padding:16px 18px; font-size:14px; line-height:1.6; color:#131a2c;">
+            ${escaped}
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+  `;
+}
+
+function reportEmailText(r: QuestionReportInput, dateLabel: string) {
+  return `Report de questão — F3Provas\n\nQuestão: ${r.questionLabel} (id: ${r.questionId})\nUsuário: ${r.userName} ${r.userEmail ? `<${r.userEmail}>` : "(sem e-mail)"}\nData: ${dateLabel}\nLink: ${r.questionUrl}\n\nMensagem:\n${r.message}`;
+}
+
+/** Envia um report de questão (dúvida/contestação) para a equipe da F3Exatas via Resend. */
+export async function sendQuestionReportEmail(report: QuestionReportInput) {
+  const apiKey = process.env.RESEND_API_KEY;
+  if (!apiKey) {
+    throw new Error("RESEND_API_KEY não configurada.");
+  }
+
+  const dateLabel = new Intl.DateTimeFormat("pt-BR", {
+    dateStyle: "short",
+    timeStyle: "short",
+    timeZone: "America/Fortaleza",
+  }).format(new Date());
+
+  const res = await fetch(RESEND_API_URL, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${apiKey}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      from: FROM_ADDRESS,
+      to: [REPORT_TO_ADDRESS],
+      reply_to: report.userEmail || undefined,
+      subject: `Report de questão — ${report.questionLabel}`,
+      html: reportEmailHtml(report, dateLabel),
+      text: reportEmailText(report, dateLabel),
+    }),
+  });
+
+  if (!res.ok) {
+    const detail = await res.text().catch(() => "");
+    throw new Error(`Falha ao enviar e-mail via Resend (${res.status}): ${detail}`);
+  }
+}
+
 /** Envia o código de verificação de cadastro via Resend. Lança erro se a API não estiver configurada ou falhar. */
 export async function sendSignupCodeEmail(to: string, code: string) {
   const apiKey = process.env.RESEND_API_KEY;
