@@ -24958,5 +24958,3205 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-2fase-q1",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Dos 200 professores de uma universidade, 60 dedicam tempo integral a essa instituição e 115 são doutores. Se entre os doutores apenas 33 dedicam tempo integral, então o número de professores da universidade que não dedicam tempo integral e não são doutores é",
+    "options": [
+      {
+        "label": "a",
+        "text": "107.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "82.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "58.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "55.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q2",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 2,
+    "statement": "Uma lanchonete serve suco de frutas, em copos padronizados para viagem, nos sabores uva, laranja e limão. O número de formas possíveis de adquirir-se cinco copos de suco é",
+    "options": [
+      {
+        "label": "a",
+        "text": "19.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "21.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "23.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q3",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 3,
+    "statement": "A soma dos valores de k para os quais o polinômio $P(x) = x^3+k^2x^2-4kx-5$ é divisível por x − 2 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q4",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 4,
+    "statement": "Se $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ é a função definida por $y = f(x) = \\begin{cases} \\max\\{(x+1),(-3x+9)\\}, & \\text{se } x \\neq 2 \\\\ 4, & \\text{se } x = 2 \\end{cases}$, então o conjunto imagem de f é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{y \\in \\mathbb{R}; y > 4\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{y \\in \\mathbb{R}; y > 3\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{y \\in \\mathbb{R}; y \\geq 3\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{y \\in \\mathbb{R}; y \\geq 4\\}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q5",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 5,
+    "statement": "Se as matrizes $M = \\begin{bmatrix} 1 & x & 3 \\\\ y & 2 & 1 \\\\ 3 & 2 & z \\end{bmatrix}$, $P = \\begin{bmatrix} 2 & 1 & 3 \\\\ 4 & 2 & 1 \\\\ 6 & 2 & 3 \\end{bmatrix}$ e $N = \\begin{bmatrix} a & 0 & 0 \\\\ 0 & b & 0 \\\\ 0 & 0 & c \\end{bmatrix}$ satisfazem a igualdade M.N = P, então x + y + z é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q6",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 6,
+    "statement": "A quantidade de números primos p que satisfazem a condição $2p^2+30 \\leq 19p$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q7",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 7,
+    "statement": "Se x e y são números positivos com x > y e $x^2+y^2=6xy$, então o valor de $\\dfrac{x+y}{x-y}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q8",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 8,
+    "statement": "Ao permutarmos, de todas as formas possíveis, os algarismos 1, 2, 3, 4, 5 e 6, obtemos números de seis dígitos diferentes. Ordenando estes números, em ordem crescente, o número que ocupa a 239ª posição é",
+    "options": [
+      {
+        "label": "a",
+        "text": "265431.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "265413.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "265314.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "264531.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q9",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 9,
+    "statement": "Uma circunferência cuja medida do raio é 8 m é dividida em sete arcos de comprimentos iguais. Usando-se o valor 0,4338 para uma aproximação de $\\text{sen}\\dfrac{\\pi}{7}$, a medida, em metros, da distância entre as extremidades de um destes arcos é um número situado entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "6,93 e 6,94.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,94 e 6,95.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6,95 e 6,96.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,96 e 6,97.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q10",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 10,
+    "statement": "Com três quaisquer dos vértices de um cubo forma-se um triângulo. Dos triângulos assim formados a quantidade dos que são equiláteros é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q11",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 11,
+    "statement": "Em uma região plana os pontos X, Y e Z são tais que a distância de X a Z é 10 m, o ponto Y está ao norte do ponto X e a oeste do ponto Z. No ponto Y ergue-se uma torre cujo ângulo de elevação medido de X é 30° e medido de Z é 45°. Portanto, pode-se afirmar corretamente que a altura da torre é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,0 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,5 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,0 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5,5 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q12",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "Os pontos U e V dividem respectivamente os lados XZ e XY do triângulo XYZ em segmentos que satisfazem às igualdades $\\dfrac{XU}{UZ}=2$ e $\\dfrac{XV}{VY}=\\dfrac{2}{3}$. Se a medida da área do triângulo XVU é 8 m², então a medida, em m², da área do triângulo XYZ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "28.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q13",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 13,
+    "statement": "Se x∈R, o maior inteiro menor do que ou igual a x é denotado por [x]. Se f, g: R→R são funções definidas por f(x) = cosx e g(x) = [x], então a interseção do gráfico de f com o gráfico de g é um conjunto",
+    "options": [
+      {
+        "label": "a",
+        "text": "vazio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "unitário.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "com dois elementos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "com três elementos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-2fase-q14",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 14,
+    "statement": "Um cone circular reto está inscrito em uma esfera, isto é, o vértice do cone e a circunferência que delimita sua base estão sobre a esfera. Se a medida do raio da esfera é 3 m e se a medida da altura do cone é igual a 2/3 da medida do diâmetro da esfera, então o volume do cone, em m³, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{32\\pi}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{28\\pi}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{26\\pi}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{22\\pi}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-2fase-q15",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 15,
+    "statement": "Se k é um número inteiro qualquer, sobre as raízes da equação $x^2+kx+k-1=0$, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "são sempre números positivos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "são sempre números negativos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "podem ser números inteiros e consecutivos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "podem ser números inteiros e pares.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.1-2fase-q16",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 16,
+    "statement": "A Série A do campeonato brasileiro de futebol é disputada por vinte equipes. De quantas formas, classificando o primeiro, o segundo e o terceiro colocados, poderá ser concluído o campeonato? Observe que a classificação após o terceiro lugar não importa.",
+    "options": [
+      {
+        "label": "a",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1140.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2280.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6840.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.1-2fase-q17",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 17,
+    "statement": "Se a soma dos 99 primeiros termos da sequência $k, \\dfrac{k^2+1}{k}, \\dfrac{k^2+2}{k}, \\dfrac{k^2+3}{k}, \\ldots$ é igual a 1386, então o valor de k é",
+    "options": [
+      {
+        "label": "a",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-2fase-q18",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 18,
+    "statement": "Se k é o logaritmo decimal de 2, isto é, $k = \\log_{10}2$, então o conjunto solução, em R, da desigualdade $\\log_2 x + \\log_5 x < \\dfrac{1}{k-k^2}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\{x \\in \\mathbb{R}; 0 < x < 1\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\{x \\in \\mathbb{R}; 0 < x < 10\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\{x \\in \\mathbb{R}; 1 < x < 10\\}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\{x \\in \\mathbb{R}; 2 < x < 5\\}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.1-2fase-q19",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "Se a medida de um dos ângulos internos de um paralelogramo é 120° e se as medidas de dois de seus lados são respectivamente 6 m e 8 m, então a medida, em metros, da diagonal de maior comprimento deste paralelogramo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt{37}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt{37}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\sqrt{48}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\sqrt{48}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.1-2fase-q20",
+    "examId": "2013.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "A reta y = mx + n intercepta a circunferência $x^2+y^2=1$ no ponto (-1,0) e em um segundo ponto localizado no primeiro ou no quarto quadrante. Os valores possíveis de m situam-se, exatamente, entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "-0,5 e 0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-1,0 e 0,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,0 e 1,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "-1,0 e 1,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q1",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 1,
+    "statement": "Os possíveis valores para o produto de dois números reais cuja diferença é 8 são todos os números",
+    "options": [
+      {
+        "label": "a",
+        "text": "reais maiores do que ou iguais a -16.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "inteiros positivos múltiplos de 8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "reais positivos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "reais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-2fase-q2",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "A área do polígono regular convexo circunscrito a um círculo unitário e que possui 9 diagonais é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt{3}$ u. a.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt{3}$ u. a.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4\\sqrt{3}$ u. a.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\sqrt{3}$ u. a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q3",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 3,
+    "statement": "Maria observou que suas férias, naquele ano, terminariam no dia 27 de julho, uma segunda-feira, e agendou uma reunião com seus amigos no primeiro feriado do segundo semestre, que no caso era o dia sete de setembro. A reunião foi agendada para um(a)",
+    "options": [
+      {
+        "label": "a",
+        "text": "sábado.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "domingo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "segunda-feira.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "terça-feira.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q4",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 4,
+    "statement": "A soma de todos os números inteiros positivos, múltiplos de 12, situados entre $2^5$ e $2^{10}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "34828.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "43824.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "48324.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "84324.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.2-2fase-q5",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 5,
+    "statement": "O período e a imagem da função periódica f: R → R definida por $f(x) = \\cos^2x - \\text{sen}^2x$, são respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\pi$ e [-1,1].",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\pi$ e [-2,2].",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi$ e [-2,2].",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi$ e [-1,1].",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q6",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 6,
+    "statement": "Se $S_n$ representa a soma dos n primeiros números naturais positivos ($S_n = 1+2+\\cdots+n$), então o valor do determinante da matriz $M = \\begin{bmatrix} S_1 & S_1 & S_1 \\\\ S_1 & S_2 & S_2 \\\\ S_1 & S_2 & S_3 \\end{bmatrix}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1!.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2!.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3!.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4!.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q7",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 7,
+    "statement": "Se os números reais a e b são positivos, distintos, diferentes de 1 e satisfazem a igualdade $b^x = a^{x/h}$ para qualquer número real x, então, para n positivo e diferente de 1, o valor de h é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$h = \\log_n a - \\log_n b$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$h = \\log_n b - \\log_n a$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$h = \\dfrac{\\log_n a}{\\log_n b}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$h = \\dfrac{\\log_n b}{\\log_n a}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q8",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 8,
+    "statement": "Se o conjunto A possui 5 elementos e o conjunto B possui 8 elementos, quantas são as funções injetivas f : A → B?",
+    "options": [
+      {
+        "label": "a",
+        "text": "56.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "120.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3125.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6720.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q9",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 9,
+    "statement": "A loja O GABI oferece duas opções de pagamentos em suas vendas, a partir do valor constante nas mercadorias: à vista, com 30% de desconto, ou em dois pagamentos mensais e iguais, sem desconto, sendo o primeiro pagamento feito no ato da compra. Admitindo-se que o valor real de venda corresponde ao valor pago nas compras à vista, a taxa mensal de juros embutida nas vendas a prazo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "70%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "150%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "85%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "110%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.2-2fase-q10",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 10,
+    "statement": "Quantos são os inteiros positivos de três dígitos nos quais o algarismo 7 aparece?",
+    "options": [
+      {
+        "label": "a",
+        "text": "720.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "648.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "446.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "252.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q11",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 11,
+    "statement": "Se identificarmos o número real p com o número complexo p + 0i, a área do triângulo, no plano complexo, cujos vértices são as raízes da equação $x^3-4x^2+4x-16=0$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "16 u. a.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 u. a.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8 u. a.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4 u. a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q12",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "Sejam r e s retas paralelas cuja distância entre elas é igual a 3 m, UV um segmento de reta unitário contido em s e Y um ponto da reta r, cuja distância de U a Y é igual a 5 m. Se X é o pé da perpendicular baixada de V sobre o segmento UY ou seu prolongamento, então a medida do segmento UX é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{2}{3}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3}{5}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{4}{5}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3}{4}$ m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2013.2-2fase-q13",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 13,
+    "statement": "Em um plano, munido do sistema de coordenadas cartesianas usual, o conjunto dos pontos equidistantes da reta x − 1 = 0 e do ponto (3,0) representa uma",
+    "options": [
+      {
+        "label": "a",
+        "text": "circunferência cuja medida do raio é igual a 1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "parábola cuja equação é $y^2-4x+8=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "elipse cuja equação é $x^2+3y^2=1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "parábola cuja equação é $x^2-4y+8=0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.2-2fase-q14",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 14,
+    "statement": "Se os números -1 e 2 são raízes da equação polinomial $x^3+x^2+mx+p=0$, então o valor de $(m+p)^2$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "64.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "68.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "76.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2013.2-2fase-q15",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 15,
+    "statement": "Um número complexo z, em sua forma trigonométrica, é do tipo z = p(cosq + isenq), onde p é o módulo de z e q é a medida em radiano do argumento de z. Ao apresentarmos o número complexo $z=-1+i\\sqrt{3}$ em sua forma trigonométrica, os parâmetros p e q são respectivamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "p = 2, q = $\\dfrac{3\\pi}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "p = 3, q = $\\dfrac{2\\pi}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "p = 3, q = $\\dfrac{3\\pi}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "p = 2, q = $\\dfrac{2\\pi}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q16",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 16,
+    "statement": "A área da superfície do poliedro convexo cujos vértices são os pontos centrais das faces de um cubo cuja medida da aresta é 2 m é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\sqrt{3}}{2}$ m².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{3}$ m².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\sqrt{3}$ m².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\sqrt{3}$ m².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q17",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 17,
+    "statement": "São dados nove pontos distintos no espaço e um segmento de reta JK de modo que cada um dos nove pontos juntamente com o ponto J e o ponto K são vértices de um triângulo retângulo cuja hipotenusa é o segmento JK. Se a medida do segmento JK é 4 m, então a soma das medidas das distâncias de cada um dos nove pontos ao ponto médio do segmento JK é",
+    "options": [
+      {
+        "label": "a",
+        "text": "18 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "22 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "28 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q18",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "Uma senha para operar em um determinado caixa eletrônico é formada por quatro letras e composta do seguinte modo: fixada uma ordem, a primeira letra é escolhida do conjunto {H, I, J, K, L}; a segunda letra do conjunto {X, Y, Z}; a terceira letra do conjunto {M, N, P, Q} e a quarta letra do conjunto {U, V, W}. Nestas condições o número de senhas que podem ser construídas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "168.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "172.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "176.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "180.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2013.2-2fase-q19",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 19,
+    "statement": "O termo independente de x no desenvolvimento de $\\left(x^4-\\dfrac{1}{x}\\right)^{10}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "-45.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-54.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "54.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2013.2-2fase-q20",
+    "examId": "2013.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 20,
+    "statement": "Seja $(x_1, x_2, x_3, \\ldots)$ uma progressão aritmética cujo quarto termo é igual a 6,5 e o oitavo termo igual a 15,5. Se f: R → R é a função definida por f(x) = 3x − 1 e para cada n definirmos $y_n = f(x_n)$, então a soma $y_1+y_2+y_3+\\cdots+y_{16}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "782.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "648.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "540.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "419.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q1",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 1,
+    "statement": "Paulo possui 709 livros e identificou cada um destes livros com um código formado por três letras do nosso alfabeto, seguindo a \"ordem alfabética\" assim definida: AAA, AAB,..., AAZ, ABA, ABB,..., ABZ, ACA,... Então, o primeiro livro foi identificado com AAA, o segundo com AAB,... Nestas condições, considerando o alfabeto com 26 letras, o código associado ao último livro foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "BAG.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "BAU.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "BBC.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "BBG.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-2fase-q2",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 2,
+    "statement": "Se n é a soma dos 2013 primeiros números inteiros positivos, então o algarismo das unidades de n é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q3",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 3,
+    "statement": "Se os números reais x, y, z, m, n, p, u, v, w formam, nesta ordem, uma progressão geométrica de razão q, então o valor do determinante da matriz $M = \\begin{bmatrix} x & y & z \\\\ m & n & p \\\\ u & v & w \\end{bmatrix}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "xnw.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$q^3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-2fase-q4",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 4,
+    "statement": "Se f: R → R é a função definida por $f(x) = 2^{\\text{senx}}+1$, então o produto do maior valor pelo menor valor que f assume é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q5",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "O palco de um teatro tem a forma de um trapézio isósceles cujas medidas de suas linhas de frente e de fundo são respectivamente 15 m e 9 m. Se a medida de cada uma de suas diagonais é 15 m, então a medida da área do palco, em m², é",
+    "options": [
+      {
+        "label": "a",
+        "text": "80.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "90.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "108.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$118^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q6",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Se, em um polígono convexo, o número de lados n é um terço do número de diagonais, então o valor de n é",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "13.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q7",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 7,
+    "statement": "Em relação à periodicidade e à paridade da função f: R → R definida por f(x) = senx + cosx, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "f é periódica e par.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "f é periódica e ímpar.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "f é periódica, mas não é par nem ímpar.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "f não é periódica, não é par nem ímpar.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q8",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 8,
+    "statement": "Uma pesquisa com todos os trabalhadores da FABRITEC, na qual foram formuladas duas perguntas, revelou os seguintes números: 205 responderam à primeira pergunta; 205 responderam à segunda pergunta; 210 responderam somente a uma das perguntas; um terço dos trabalhadores não quis participar da entrevista. Com estes dados, pode-se concluir corretamente que o número de trabalhadores da FABRITEC é",
+    "options": [
+      {
+        "label": "a",
+        "text": "465.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "495.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "525.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "555.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q9",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "No triângulo OYZ, os lados OY e OZ têm medidas iguais. Se W é um ponto do lado OZ tal que os segmentos YW, WO e YZ têm a mesma medida, então, a medida do ângulo YÔZ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "46°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "42°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "36°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q10",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 10,
+    "statement": "Um comerciante comprou um automóvel por R$ 18.000,00, pagou R$ 1.000,00 de imposto e, em seguida, vendeu-o com um lucro de 20% sobre o preço de venda. O lucro do comerciante foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 3.750,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 4.050,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 4.350,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 4.750,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-2fase-q11",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 11,
+    "statement": "Um círculo de raio R gira em torno de seu diâmetro, gerando uma esfera de volume V. Se o raio do círculo é aumentado em 50%, então o volume da esfera é aumentado em",
+    "options": [
+      {
+        "label": "a",
+        "text": "100,0 %.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "125,0 %.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "215,0 %.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "237,5 %.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-2fase-q12",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 12,
+    "statement": "Se a soma de k inteiros consecutivos é p, então o maior destes números em função de p e de k é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{p}{k}+\\dfrac{k-1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{p}{k}+\\dfrac{k}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{p}{k}+\\dfrac{k+1}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{p}{k}+\\dfrac{k+2}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q13",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "Se p e q são duas soluções da equação $2\\text{sen}^2x - 3\\text{sen}x+1=0$ tais que senp ≠ senq, então o valor da expressão $\\text{sen}^2p - \\cos^2q$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,25.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-2fase-q14",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 14,
+    "statement": "O pagamento de uma dívida da empresa AIR.PORT foi dividido em três parcelas, nos seguintes termos: a primeira parcela igual a um terço do total da dívida; a segunda igual a dois quintos do restante, após o primeiro pagamento, e a terceira, no valor de R$204.000,00. Nestas condições, pode-se concluir acertadamente que o valor total da dívida se localiza entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 475.000,00 e R$ 490.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 490.000,00 e R$ 505.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 505.000,00 e R$ 520.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 520.000,00 e R$ 535.000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q15",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 15,
+    "statement": "A interseção do gráfico da função f: R → R, definida por $f(x)=x^3-3x^2-6x+8$, com o eixo dos x (eixo horizontal no sistema de coordenadas cartesiano usual), são pontos da forma (x,0). Os valores de x correspondentes a tais pontos estão no intervalo",
+    "options": [
+      {
+        "label": "a",
+        "text": "$[-\\pi, \\sqrt{10}]$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$[-\\sqrt{2}, \\sqrt{19}]$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$[-\\sqrt{5}, \\pi+1]$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$[-\\sqrt{6}, \\pi]$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q16",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 16,
+    "statement": "Se x e y são números reais não nulos, pode-se afirmar corretamente que o módulo do número complexo $z = \\dfrac{x-iy}{x+iy}$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x^2+y^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$|xy|$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.1-2fase-q17",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 17,
+    "statement": "Um poliedro convexo tem 32 faces, sendo 20 hexágonos e 12 pentágonos. O número de vértices deste polígono é",
+    "options": [
+      {
+        "label": "a",
+        "text": "90.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "56.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.1-2fase-q18",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 18,
+    "statement": "Uma matriz quadrada $P = (a_{ij})$ é simétrica quando $a_{ij}=a_{ji}$. Por exemplo, a matriz $\\begin{bmatrix} 2 & -3 & 5 \\\\ -3 & 7 & 4 \\\\ 5 & 4 & 1 \\end{bmatrix}$ é simétrica. Se a matriz $M = \\begin{bmatrix} x+y & x-y & xy \\\\ 1 & y-x & 2y \\\\ 6 & x+1 & 1 \\end{bmatrix}$ é simétrica, pode-se afirmar corretamente que o determinante de M é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "-2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.1-2fase-q19",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 19,
+    "statement": "Sejam r e s duas retas distintas e paralelas. Se fixarmos 10 pontos em r e 6 pontos em s, todos distintos, ao unirmos, com segmentos de reta, três quaisquer destes pontos não colineares, formam-se triângulos. Assinale a opção correspondente ao número de triângulos que podem ser formados.",
+    "options": [
+      {
+        "label": "a",
+        "text": "360",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "380",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "400",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "420",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.1-2fase-q20",
+    "examId": "2014.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "Se a função f: (-1,1) → R, é definida por $f(x) = \\log_{10}\\dfrac{1+x}{1-x}$, então os valores de x para os quais f(x) < 1 são todos os valores que estão no domínio de f e são",
+    "options": [
+      {
+        "label": "a",
+        "text": "menores que $-\\dfrac{9}{11}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "maiores que $-\\dfrac{9}{11}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "menores que $\\dfrac{9}{11}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "maiores que $\\dfrac{9}{11}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q1",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 1,
+    "statement": "Sendo os números $\\sqrt{7}$, $\\sqrt[3]{7}$, $\\sqrt[6]{7}$ termos consecutivos de uma progressão geométrica, o termo seguinte desta progressão é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt[7]{7}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt[9]{7}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt[12]{7}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q2",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 2,
+    "statement": "Se r é um número real positivo, a razão entre o volume de um cubo cuja medida da aresta é r metros e o volume de uma esfera cuja medida do raio é r/2 metros é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{4}{3\\pi}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{6}{\\pi}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{4}{5\\pi}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3}{2\\pi}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q3",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "No plano, considere três retas paralelas $r_1$, $r_2$, $r_3$ com $r_2$ entre $r_1$ e $r_3$ e a distância entre $r_1$ e $r_3$ igual a 6 m. Se P e Q são pontos distintos na reta $r_2$, M é um ponto na reta $r_1$ e N é um ponto da reta $r_3$ de tal forma que as medidas das áreas dos triângulos PQM e PQN são respectivamente 10 m² e 5 m², então a medida do segmento PQ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q4",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 4,
+    "statement": "Para cada número natural n, define-se $a_n = \\dfrac{(2n+1)5^n}{n!}$. O valor da soma $a_1+a_2+a_3$ é um número localizado entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "210 e 220.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "200 e 210.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "220 e 230.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "230 e 240.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q5",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 5,
+    "statement": "Se m, p e q são as raízes da equação $6x^3-11x^2+6x-1=0$, então o resultado da divisão da soma m + p + q pelo produto m.p.q é",
+    "options": [
+      {
+        "label": "a",
+        "text": "13.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "17.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q6",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 6,
+    "statement": "Se a quantidade z é, simultaneamente, diretamente proporcional a x e inversamente proporcional a y, e se z = 5 quando x = 2 e y = 3, então o valor de z quando x = 96 e y = 10 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "82.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "68.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q7",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 7,
+    "statement": "Observe a listagem abaixo. Linha 1: -2, 3, -4, 5, -6, ...; Linha 2: -4, 6, -8, 10, -12, ...; Linha 3: -6, 9, -12, 15, -18, ...; Linha 4: -8, 12, -16, 20, -24, ...; ... Seguindo a lógica construtiva desta listagem, pode-se concluir acertadamente que a soma dos vinte primeiros números da linha de número vinte é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "-200.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "400.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "-400.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q8",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 8,
+    "statement": "Com um grupo de p pessoas (p > 2), quantos subgrupos de pelo menos duas pessoas é possível formar?",
+    "options": [
+      {
+        "label": "a",
+        "text": "$C_p^3 - 1$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2^p-1$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2^p-p-1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$C_p^3 - 2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q9",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 9,
+    "statement": "Desenvolvendo o determinante abaixo, obtém-se uma equação do segundo grau. $\\begin{vmatrix} 1 & 1 & 1 & 1 \\\\ -x & 0 & 0 & 7x \\\\ 0 & 5 & 0 & x \\\\ 0 & 0 & 5 & x \\end{vmatrix} = 0$. A raiz positiva desta equação é",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q10",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 10,
+    "statement": "A equação $x^5-x=0$ possui",
+    "options": [
+      {
+        "label": "a",
+        "text": "cinco soluções reais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "três soluções reais e duas complexas não reais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "uma solução real e quatro complexas não reais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "quatro soluções reais e uma complexa não real.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q11",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 11,
+    "statement": "Um possível valor para x, que seja solução da equação $\\text{senx}+\\text{sen}^2x+\\text{sen}^3x+\\cdots=1$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\pi}{6}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\pi}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{\\pi}{4}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{\\pi}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q12",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 12,
+    "statement": "O número total de arestas de uma pirâmide que tem exatamente 17 faces, incluindo a base, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "34.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "26.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "32.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2014.2-2fase-q13",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "O valor de $\\cos(\\arcsin \\tfrac{3}{5})$ pode ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{4}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{6}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{7}{5}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q14",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "Os vértices P e Q do triângulo equilátero MPQ são a interseção da reta 3x + 4y − 33 = 0 com a circunferência $x^2+y^2-10x-9y+39=0$. A equação da reta perpendicular ao lado PQ do triângulo MPQ que contém o vértice M é",
+    "options": [
+      {
+        "label": "a",
+        "text": "8x - 6y - 41 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8x - 6y - 13 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4x - 3y - 41 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4x - 3y - 13 = 0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q15",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 15,
+    "statement": "O maior número inteiro contido na imagem da função real de variável real definida por $f(x) = \\log_2(100-x^2)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q16",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Considere duas circunferências concêntricas de raios distintos e, dois pontos X e Y na circunferência de maior raio tais que a corda XY seja tangente à circunferência de raio menor. Se a medida do segmento XY é 16 m, então a medida da área da região interior à circunferência de maior raio e exterior à circunferência de raio menor é",
+    "options": [
+      {
+        "label": "a",
+        "text": "64π m².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "72π m².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "42π m².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36π m².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q17",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "No quadrilátero convexo ABCD, as diagonais AC e BD são perpendiculares e se interceptam no ponto P. Se as medidas das áreas dos triângulos ABC, BCD e BPC são respectivamente 7 m², 12 m² e 5 m², então a medida da área do quadrilátero ABCD é",
+    "options": [
+      {
+        "label": "a",
+        "text": "14,0 m².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14,6 m².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16,8 m².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16,0 m².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2014.2-2fase-q18",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 18,
+    "statement": "Sejam $C_1$ e $C_2$ dois cubos tais que os vértices de $C_1$ estão sobre a superfície de uma esfera e as faces de $C_2$ são tangentes à mesma esfera, isto é, $C_1$ é inscrito e $C_2$ circunscrito à esfera. Nestas condições, a razão entre a medida da aresta de $C_2$ e a medida da aresta de $C_1$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2\\sqrt{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\sqrt{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2014.2-2fase-q19",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 19,
+    "statement": "A soma dos cinco menores números positivos primos que formam uma progressão aritmética é",
+    "options": [
+      {
+        "label": "a",
+        "text": "65.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "85.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "95.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2014.2-2fase-q20",
+    "examId": "2014.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "Se f e g são funções reais de variável real tais que para x ≠ 0 tem-se $g(x) = x+\\dfrac{1}{x}$ e $f(g(x)) = x^2+\\dfrac{1}{x^2}$, então o valor de $f(8/3)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{73}{576}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{46}{9}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{73}{24}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{41}{12}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q1",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "O número de divisores positivos do produto das raízes da equação $2x^2-114x+56=0$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.2-2fase-q2",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 2,
+    "statement": "Ao dividirmos o produto de três números inteiros ímpares positivos e consecutivos por 15, obtemos o quociente 143 e o resto zero. O menor destes três números é",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "17.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q3",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 3,
+    "statement": "Duas grandezas positivas x e y são inversamente proporcionais se existe uma correspondência bijetiva entre os valores de x e os valores de y e um número constante positivo k tal que, se o valor y é o correspondente do valor x então y.x = k. Nestas condições, se o valor y = 6 é o correspondente ao valor x = 25, então o valor y que corresponde ao valor x = 15 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q4",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 4,
+    "statement": "A soma das raízes reais da equação $3.\\log_2|x|+5.\\log_4x^2-32=0$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "32.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-2fase-q5",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 5,
+    "statement": "Se g : R → R é a função definida por $g(x) = 3x + \\text{sen}\\left(\\dfrac{\\pi}{2}x\\right)$, então o valor da soma $g(2)+g(3)+g(4)+\\cdots+g(10)+g(11)$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "183.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "187.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "190.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "194.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.2-2fase-q6",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "No plano, as circunferências $C_1$ e $C_2$, cuja medida dos raios são respectivamente 4 cm e 1 cm tangenciam-se exteriormente e são tangentes a uma reta r em pontos distintos. Uma terceira circunferência $C_3$, exterior a $C_1$ e a $C_2$, cuja medida do raio é menor do que 1 cm tangencia a reta r e as circunferências $C_1$ e $C_2$. Nestas condições a medida do raio da circunferência $C_3$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{1}{2}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{1}{3}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{4}{9}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3}{5}$ cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q7",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "Em um sistema de coordenadas cartesiano usual as retas representadas pelas equações 3x - 4y + 4 = 0 e 3x - 4y + 20 = 0 são tangentes a uma circunferência cujo centro está localizado sobre o eixo -y. A equação que representa esta circunferência é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$25x^2+25y^2-25y-125=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$25x^2+25y^2-150y+161=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x^2+y^2-25y+9=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x^2+y^2-2y-9=0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q8",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 8,
+    "statement": "Para cada inteiro positivo n, defina a matriz $M_n = \\begin{pmatrix} 1 & n \\\\ 0 & 1 \\end{pmatrix}$. A soma dos elementos da matriz produto $P = M_1.M_2.M_3.\\ldots.M_{21}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "229.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "231.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "233.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "235.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q9",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "A medida da área de um círculo inscrito em um octógono regular cuja medida do lado é $\\dfrac{\\sqrt{3}}{2}$ m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{17\\pi}{16}$ m².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{15\\pi}{16}$ m².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{13\\pi}{16}$ m².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{11\\pi}{16}$ m².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q10",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 10,
+    "statement": "Sejam f, g : R → R funções definidas por $f(x)=3^{\\text{sen}(x)}$ e $g(x)=\\text{sen}(3^x)$. Se m e n são os valores máximos atingidos por f e g respectivamente, então o produto m.n é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q11",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 11,
+    "statement": "Um comerciante foi verificar a que preço tinha vendido uma caixa de óleo no ano passado. Em seus arquivos encontrou um recibo no qual se lia: 72 caixas de óleo vendidas por exatamente *679* reais. O algarismo das unidades e o das dezenas de milhar estavam apagados (representados pelos asteriscos acima). Apesar disso, com base nessa informação, o comerciante conseguiu descobrir que o preço mínimo de cada caixa de óleo vendida no ano passado estava entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "521 e 525 reais.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "517 e 521 reais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "513 e 517 reais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "509 e 513 reais.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.2-2fase-q12",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 12,
+    "statement": "Em um sistema de coordenadas cartesiano usual os pontos P = (1,2) e Q = (4,6) são vértices do triângulo PQM. Se o vértice M está sobre a reta paralela ao segmento PQ que contém o ponto (8,6), então a medida da área do triângulo PQM é",
+    "options": [
+      {
+        "label": "a",
+        "text": "7 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9 u.a.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 u.a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q13",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 13,
+    "statement": "Se a é um número real positivo tal que La = 0,6933, então $L\\left(\\sqrt[3]{\\dfrac{1}{a.e^{-3}}}\\right)$ é igual a (Lx ≡ logaritmo natural de x; e é a base do logaritmo natural)",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,7689.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,7349.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,7289.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,7149.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q14",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 14,
+    "statement": "Um objeto é lançado verticalmente, para cima, de forma que a altura alcançada h, medida em metros, e o tempo decorrido após o lançamento t, medido em segundos, estão relacionados pela equação $h - 120t + 5t^2 = 0$. Considerando h = 0 e t = 0 no instante do lançamento, então o tempo decorrido desde o lançamento até alcançar a altura máxima, e a altura máxima atingida são respectivamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 seg e 700 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 seg e 720 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12 seg e 800 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 seg e 820 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.2-2fase-q15",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 15,
+    "statement": "Se os números complexos z e w estão relacionados pela equação z + wi = i e se $z = 1-\\dfrac{1}{i}$ então w é igual a (o número complexo i é tal que $i^2=-1$)",
+    "options": [
+      {
+        "label": "a",
+        "text": "i.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 - i.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "- i.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 + i.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-2fase-q16",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 16,
+    "statement": "Se, em um tetraedro, três das faces que possuem um vértice comum V, são limitadas por triângulos retângulos e as medidas das arestas da face oposta ao vértice V são respectivamente 8 cm, 10 cm e 12 cm, então as medidas, em cm, das outras três arestas são",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt{6}, \\sqrt{10}, 3\\sqrt{10}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{6}, 5\\sqrt{3}, 9$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\sqrt{5}, 3\\sqrt{6}, 8$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\sqrt{2}, \\sqrt{10}, 2\\sqrt{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.2-2fase-q17",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "Um conjunto X é formado por exatamente seis números reais positivos e seis números reais negativos. De quantas formas diferentes podemos escolher quatro elementos de X, de modo que o produto destes elementos seja um número positivo?",
+    "options": [
+      {
+        "label": "a",
+        "text": "245.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "225.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "235.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "255.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q18",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 18,
+    "statement": "As medidas das arestas de um paralelepípedo reto, em metros, são as raízes da equação $x^3-5x^2+8x+t=0$, onde t é um número real. A medida da diagonal deste paralelepípedo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q19",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "Um triângulo equilátero está inscrito em uma circunferência cuja medida do raio é igual a 2 cm. A área das regiões que são internas à circunferência e externas ao triângulo, em cm², é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\pi - 3\\sqrt{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4\\pi - 2\\sqrt{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4\\pi - 3\\sqrt{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\pi - 4\\sqrt{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.2-2fase-q20",
+    "examId": "2015.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 20,
+    "statement": "Considere a solução (x,y) do sistema $\\begin{cases} \\text{sen}(x+y) = \\dfrac{\\sqrt{3}}{2} \\\\ \\text{tg}(x-y) = \\dfrac{\\sqrt{3}}{3} \\end{cases}$ onde os valores x e y, expressos em radianos, são os menores valores positivos possíveis. Nestas condições a soma $x^2+y^2$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{5\\pi^2}{72}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3\\pi^2}{16}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{4\\pi^2}{15}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{2\\pi^2}{5}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
