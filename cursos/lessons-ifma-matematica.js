@@ -43,6 +43,8 @@ const modules = [
     name: "Equações e Inequações",
     videos: [
       { title: "Equação do 1º grau", youtubeUrl: "https://youtu.be/aErX2jxONBw" },
+      { title: "Equação do 2º Grau 1", youtubeUrl: "https://youtu.be/sOCvXv-b_CY" },
+      { title: "Equação do 2º Grau 2", youtubeUrl: "https://youtu.be/pee6IYEpZ80" },
     ],
   },
   { slug: "sistemas-equacoes", name: "Sistemas de Equações", videos: [] },
@@ -65,8 +67,6 @@ const modules = [
       { title: "Área do trapézio", youtubeUrl: "https://youtu.be/K87eynALmSE" },
       { title: "Área do círculo 2", youtubeUrl: "https://youtu.be/TZcyykntzz4" },
       { title: "Área e regra de três 1", youtubeUrl: "https://youtu.be/iJSn5KBcHUc" },
-      { title: "Geometria Plana e Equação do 2º Grau 1", youtubeUrl: "https://youtu.be/sOCvXv-b_CY" },
-      { title: "Geometria Plana e Equação do 2º Grau 2", youtubeUrl: "https://youtu.be/pee6IYEpZ80" },
     ],
   },
   {
