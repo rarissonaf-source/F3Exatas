@@ -696,11 +696,7 @@ function ReportPanel({ questionId, questionLabel }: { questionId: string; questi
 
   return (
     <form onSubmit={handleSubmit} className="rounded-xl border border-border bg-muted/40 p-4">
-      <p className="mb-2 text-sm font-semibold text-foreground">Reportar esta questão</p>
-      <p className="mb-3 text-xs text-muted-foreground">
-        Conte o que você quer alegar ou contestar (gabarito errado, questão ambígua, enunciado incompleto etc.). O relato
-        vai direto para a equipe da F3Exatas, junto com seu nome e a identificação da questão.
-      </p>
+      <p className="mb-3 text-sm font-semibold text-foreground">Reportar esta questão</p>
       <textarea
         value={text}
         onChange={(e) => setText(e.target.value)}
@@ -714,7 +710,7 @@ function ReportPanel({ questionId, questionLabel }: { questionId: string; questi
         {error ? <p className="text-xs font-medium text-destructive">{error}</p> : <span />}
         <Button type="submit" size="sm" disabled={!text.trim() || submitting} className="gap-1.5">
           <Send className="size-4" />
-          {submitting ? "Enviando..." : "Enviar report"}
+          {submitting ? "Enviando..." : "Reportar"}
         </Button>
       </div>
     </form>
