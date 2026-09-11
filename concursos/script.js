@@ -175,7 +175,7 @@ function renderTopics() {
     const materialsCta = document.createElement("div");
     materialsCta.className = "topic-materials-cta";
     materialsCta.innerHTML = `
-      <span class="topic-materials-label">Material em PDF desta área</span>
+      <span class="topic-materials-label">Resumo em PDF desta área</span>
       <span class="topic-materials-badge">Em breve</span>
     `;
     details.appendChild(materialsCta);
