@@ -28158,5 +28158,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q1",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 1,
+    "statement": "Se um pacote de biscoito contém 10 biscoitos e pesa 95 gramas, e se 15 gramas de biscoito correspondem a 90 calorias, quantas calorias tem cada biscoito?",
+    "options": [
+      {
+        "label": "a",
+        "text": "53 calorias.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "55 calorias.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "57 calorias.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "59 calorias.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-2fase-q2",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 2,
+    "statement": "Em um grupo de 300 alunos de línguas estrangeiras, 174 alunos estudam inglês e 186 alunos estudam chinês. Se, neste grupo, ninguém estuda outro idioma além do inglês e do chinês, o número de alunos deste grupo que se dedicam ao estudo de apenas um idioma é",
+    "options": [
+      {
+        "label": "a",
+        "text": "236.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "240.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "244.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "246.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q3",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 3,
+    "statement": "O conjunto das soluções da equação $\\sqrt{3x-2}=\\sqrt{x}+2$ é formado por",
+    "options": [
+      {
+        "label": "a",
+        "text": "uma única raiz, a qual é um número real.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "duas raízes reais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "duas raízes complexas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma raiz real e duas complexas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q4",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 4,
+    "statement": "Se ao aumentarmos, na mesma proporção, o comprimento dos lados de um quadrado obtivermos um aumento de 69% em sua área, a porcentagem do aumento no comprimento de cada lado do quadrado deverá ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "27,0 %.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30,0 %.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "31,0 %.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "34,5 %.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q5",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 5,
+    "statement": "Se a expressão algébrica $x^2+9$ se escreve identicamente como $a(x+1)^2+b(x+1)+c$ onde a, b e c são números reais, então o valor de a − b + c é",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "13.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-2fase-q6",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "No plano, com o sistema de coordenadas cartesianas ortogonal usual, a reta tangente à circunferência $x^2+y^2=1$ no ponto $\\left(\\dfrac{1}{2},\\dfrac{\\sqrt{3}}{2}\\right)$ intercepta o eixo y no ponto",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\left(0, \\dfrac{2}{\\sqrt{3}}\\right)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(0, \\sqrt{3})$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(0, 2\\sqrt{3})$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\left(0, \\dfrac{1}{\\sqrt{3}}\\right)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q7",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 7,
+    "statement": "No final do mês de outubro, os estudantes Carlos e Artur haviam gastado respectivamente dois terços e três quintos de suas mesadas. Embora a mesada de Carlos seja menor, ele gastou R$ 8,00 a mais do que Artur. Se a soma dos valores das duas mesadas é R$ 810,00, o valor monetário da diferença entre os valores das duas mesadas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 25,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 30,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 35,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 40,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q8",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 8,
+    "statement": "A turma K do Curso de Administração da UECE é formada por 36 alunos, sendo 22 mulheres e 14 homens. O número de comissões que podem ser formadas com alunos desta turma, tendo cada comissão três componentes e sendo assegurada a participação de representantes dos dois sexos em cada comissão, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "5236.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6532.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3562.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2635.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q9",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "No quadrado MNPQ, R é o ponto médio do lado PQ, S é um ponto do segmento NR tal que os segmentos MS e NR são perpendiculares. Se a medida do segmento MS é 3 cm, então a medida do lado do quadrado é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{5}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$1,5\\sqrt{5}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2,0\\sqrt{5}$ cm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2,5\\sqrt{5}$ cm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q10",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "A interseção das curvas representadas no plano, com o sistema cartesiano ortogonal usual, pelas equações $x^2+y^2=1$ e $|x|+|y|=\\sqrt{2}$ é um conjunto",
+    "options": [
+      {
+        "label": "a",
+        "text": "vazio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "unitário (um ponto).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "com dois elementos (dois pontos).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "com quatro elementos (quatro pontos).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-2fase-q11",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 11,
+    "statement": "Considere o retângulo XYZW no qual as medidas dos lados XY e YZ são respectivamente 5m e 3m. Sejam M o ponto médio do lado XY, N o ponto médio do lado ZW, P e Q respectivamente a interseção dos segmentos WM e NY com a diagonal XZ. A medida da área do quadrilátero convexo MYPQ, em m², é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,75.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4,25.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,75.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-2fase-q12",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 12,
+    "statement": "Para qual valor do número inteiro positivo n a igualdade $\\dfrac{1+3+5+\\cdots+(2n-1)}{2+4+6+\\cdots+2n}=\\dfrac{2014}{2015}$ é satisfeita?",
+    "options": [
+      {
+        "label": "a",
+        "text": "2016.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2015.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2014.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2013.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-2fase-q13",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 13,
+    "statement": "Em relação ao sistema $\\begin{cases} x+y+z=0 \\\\ x-my+z=0 \\\\ mx-y-z=0 \\end{cases}$, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o sistema admite solução não nula apenas quando m = -1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "para qualquer valor de m, a solução nula (x=0, y=0, z=0) é a única solução do sistema.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o sistema admite solução não nula quando m = 2 ou m = -2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não temos dados suficientes para concluir que o sistema tem solução não nula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q14",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 14,
+    "statement": "A medida da aresta de um tetraedro regular com altura igual a 5 metros é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$5\\sqrt{2,5}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5\\sqrt{1,5}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\sqrt{1,5}$ m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\sqrt{2,5}$ m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2015.1-2fase-q15",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 15,
+    "statement": "Se os números 2+i, 2−i, 1+2i, 1−2i e 0,5 são as raízes da equação $2x^5+px^4+42x^3-78x^2+80x+q=0$, então o valor de p + q + pq é",
+    "options": [
+      {
+        "label": "a",
+        "text": "287.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "278.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "297.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "279.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q16",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 16,
+    "statement": "O maior valor de k para o qual a desigualdade $\\log_2 x + \\log_x 2 \\geq k$ se verifica para todo número real x maior do que um é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2015.1-2fase-q17",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 17,
+    "statement": "Sejam x, y e z as medidas dos lados do triângulo XYZ e R a medida do raio da circunferência circunscrita ao triângulo. Se o produto dos senos dos ângulos internos do triângulo é $\\dfrac{k.x.y.z}{R^3}$, então o valor de k é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,500.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,250.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,125.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-2fase-q18",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 18,
+    "statement": "Um cone circular reto, cuja medida do raio da base é R, é cortado por um plano paralelo a sua base, resultando dois sólidos de volumes iguais. Um destes sólidos é um cone circular reto, cuja medida do raio da base é r. A relação existente entre R e r é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$R^3=3r^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$R^2=2r^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$R^3=2r^3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$R^2=3r^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2015.1-2fase-q19",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 19,
+    "statement": "A função f : R → R satisfaz as condições: f(1) = 2 e f(x+1) = f(x) − 1 para todo número real x. Os valores f(14), f(36), f(102) formam, nessa ordem, uma progressão geométrica. A razão dessa progressão é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2015.1-2fase-q20",
+    "examId": "2015.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 20,
+    "statement": "Se x é a média aritmética dos números reais a, b e c, e y é a média aritmética de seus quadrados, então a média aritmética de seus produtos dois a dois ab, ac, bc, em função de x e y é (Sugestão: considere o quadrado da soma dos três números.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{3x^2-y}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3x+y}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{3x^2+y}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{3x-y}{2}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
