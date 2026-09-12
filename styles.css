@@ -247,25 +247,6 @@ body {
   color: rgba(255, 255, 255, 0.75);
 }
 
-.path-status {
-  font-family: var(--font-heading);
-  font-weight: 700;
-  font-size: 11px;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  padding: 5px 12px;
-  border-radius: 20px;
-  background: rgba(255, 255, 255, 0.92);
-}
-
-.path-status-live {
-  color: var(--orange);
-}
-
-.path-status-soon {
-  color: var(--navy);
-}
-
 .path-card-icon {
   flex: 1;
   display: flex;
@@ -725,7 +706,6 @@ body {
   .path-card { aspect-ratio: 1 / 1.1; border-radius: 16px; }
   .path-card-top { top: 10px; left: 10px; right: 10px; }
   .path-number { font-size: 11px; }
-  .path-status { font-size: 9px; padding: 3px 8px; }
   .path-card-icon img { width: 46px; height: 46px; }
   .path-card-overlay { height: 72%; }
   .path-card-body { padding: 0 12px 14px; gap: 3px; }
