@@ -8,7 +8,18 @@
 // nada de listar os 14 assuntos com "Em breve" de antemão. Pra adicionar um
 // assunto novo, inclua um objeto { slug, name, videos: [...] } (ver
 // PHYSICS_TOPICS pro slug/nome oficial de cada assunto).
-const modules = [];
+const modules = [
+  {
+    slug: "cinematica",
+    name: "Cinemática",
+    videos: [{ title: "Velocidade do som", youtubeUrl: "https://youtu.be/L66wkQFMm20" }],
+  },
+  {
+    slug: "eletrodinamica",
+    name: "Eletrodinâmica",
+    videos: [{ title: "Associação de Geradores", youtubeUrl: "https://youtu.be/2cMCuNbjaH4" }],
+  },
+];
 
 // Ícone de linha simples por assunto, mesmo estilo dos badges "por que
 // escolher" (stroke, minimalista) — só pra dar identidade visual ao quadro,
