@@ -333,6 +333,26 @@ body {
   box-shadow: 0 14px 30px rgba(243, 141, 51, 0.5);
 }
 
+.cta-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.cta-button-ghost {
+  background: transparent;
+  border: 1.5px solid rgba(255, 255, 255, 0.4);
+  box-shadow: none;
+}
+
+.cta-button-ghost.is-disabled {
+  color: rgba(255, 255, 255, 0.5);
+  cursor: default;
+  pointer-events: none;
+}
+
 /* ===== RODAPÉ ===== */
 .site-footer {
   background: var(--navy);
