@@ -5,6 +5,7 @@ import { TOPIC_ICONS } from "@/lib/topic-icons";
 import { getInstitution } from "@/lib/institutions";
 import { QuestionBrowser } from "@/components/question-browser";
 import { PageHero } from "@/components/page-hero";
+import { TopicSubtitle } from "@/components/topic-subtitle";
 
 const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
 
@@ -30,7 +31,7 @@ export default async function TopicPage({
     <main className="flex-1">
       <PageHero
         title={topicMeta.name}
-        subtitle={`${questions.length} ${questions.length !== 1 ? "questões" : "questão"} — clique para abrir.`}
+        subtitle={<TopicSubtitle count={questions.length} />}
         icon={Icon && <Icon className="size-7" />}
         iconBg={topicMeta.color}
         backHref={`/${institution}/${discipline}`}
