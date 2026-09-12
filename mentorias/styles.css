@@ -80,8 +80,8 @@ body {
   font-weight: 600;
 }
 
-/* ===== HERO — "em breve" ===== */
-.soon-hero {
+/* ===== HERO ===== */
+.mentoria-hero {
   position: relative;
   flex: 1;
   display: flex;
@@ -96,7 +96,7 @@ body {
   padding: 90px 24px;
 }
 
-.soon-hero-glow {
+.mentoria-hero-glow {
   position: absolute;
   inset: -20%;
   background:
@@ -104,16 +104,16 @@ body {
     radial-gradient(circle at 80% 70%, rgba(77, 106, 160, 0.5), transparent 50%),
     linear-gradient(135deg, var(--navy) 0%, var(--navy-tint-1) 55%, var(--navy) 100%);
   background-size: 200% 200%;
-  animation: soon-glow-shift 16s ease-in-out infinite;
+  animation: mentoria-glow-shift 16s ease-in-out infinite;
 }
 
-@keyframes soon-glow-shift {
+@keyframes mentoria-glow-shift {
   0%   { background-position: 0% 0%; }
   50%  { background-position: 100% 100%; }
   100% { background-position: 0% 0%; }
 }
 
-.soon-hero-content {
+.mentoria-hero-content {
   position: relative;
   z-index: 1;
   max-width: 620px;
@@ -125,27 +125,14 @@ body {
   gap: 18px;
 }
 
-.soon-hero-logo {
+.mentoria-hero-logo {
   width: 128px;
   height: 128px;
   object-fit: contain;
   filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.35));
 }
 
-.soon-badge {
-  display: inline-block;
-  background: var(--orange);
-  color: var(--white);
-  font-family: var(--font-heading);
-  font-weight: 700;
-  font-size: 12px;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  padding: 6px 16px;
-  border-radius: 20px;
-}
-
-.soon-wordmark {
+.mentoria-wordmark {
   font-family: var(--font-hero);
   font-variant: small-caps;
   letter-spacing: 0.02em;
@@ -155,7 +142,7 @@ body {
   opacity: 0.85;
 }
 
-.soon-title {
+.mentoria-title {
   font-family: var(--font-hero);
   font-variant: small-caps;
   letter-spacing: 0.02em;
@@ -165,7 +152,7 @@ body {
   color: var(--white);
 }
 
-.soon-subtitle {
+.mentoria-subtitle {
   font-family: var(--font-body);
   font-size: 16px;
   line-height: 1.6;
@@ -173,7 +160,7 @@ body {
   max-width: 460px;
 }
 
-.soon-cta {
+.mentoria-cta {
   margin-top: 10px;
   display: inline-flex;
   align-items: center;
@@ -190,33 +177,262 @@ body {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.soon-cta:hover {
+.mentoria-cta:hover {
   transform: translateY(-3px) scale(1.03);
   box-shadow: 0 14px 30px rgba(243, 141, 51, 0.5);
 }
 
-/* ===== RODAPÉ simples ===== */
-.site-footer-mini {
+/* ===== SEÇÃO: content-section / section-heading (compartilhado) ===== */
+.content-section {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 80px 24px;
+}
+
+.section-heading {
   text-align: center;
-  padding: 24px;
-  font-family: var(--font-body);
-  font-size: 13px;
-  color: var(--text-muted);
+  margin-bottom: 40px;
 }
 
-.site-footer-mini a {
-  color: var(--text-primary);
+.section-kicker {
+  font-family: var(--font-heading);
   font-weight: 700;
-  text-decoration: none;
-}
-
-.site-footer-mini a:hover {
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: var(--orange);
 }
 
+.section-title {
+  font-family: var(--font-heading);
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
+  font-weight: 800;
+  font-size: 32px;
+  color: var(--text-primary);
+  margin: 10px 0 12px;
+}
+
+.section-subtitle {
+  font-family: var(--font-body);
+  font-size: 16px;
+  color: var(--text-muted);
+}
+
+/* ===== SEÇÃO: perk-steps (o que o aluno recebe na mentoria) ===== */
+.perk-steps {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+  position: relative;
+  padding-top: 12px;
+}
+
+.perk-steps::before {
+  content: "";
+  position: absolute;
+  top: 54px;
+  left: 10%;
+  right: 10%;
+  height: 0;
+  border-top: 2px dashed var(--orange-tint-1);
+  z-index: 0;
+}
+
+.perk-step {
+  flex: 1;
+  min-width: 190px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 12px;
+  position: relative;
+  z-index: 1;
+}
+
+.perk-badge {
+  width: 84px;
+  height: 84px;
+  border-radius: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  box-shadow: 0 14px 26px rgba(0, 0, 0, 0.35);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.perk-badge svg { width: 32px; height: 32px; }
+
+.perk-badge-navy { background: var(--navy); }
+.perk-badge-orange { background: var(--orange); }
+
+.perk-step:hover .perk-badge {
+  transform: translateY(-6px) scale(1.06);
+  box-shadow: 0 18px 30px rgba(0, 0, 0, 0.45);
+}
+
+.perk-title {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--text-primary);
+  max-width: 190px;
+}
+
+.perk-desc {
+  font-family: var(--font-body);
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--text-muted);
+  max-width: 210px;
+}
+
+/* ===== SEÇÃO: cta-final ===== */
+.cta-final {
+  text-align: center;
+  background: var(--navy);
+  padding: 90px 24px;
+}
+
+.cta-title {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 30px;
+  color: var(--white);
+  max-width: 640px;
+  margin: 0 auto 16px;
+}
+
+.cta-subtitle {
+  font-family: var(--font-body);
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+  max-width: 520px;
+  margin: 0 auto 32px;
+}
+
+.cta-button {
+  display: inline-block;
+  background: var(--orange);
+  color: var(--white);
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 17px;
+  text-decoration: none;
+  padding: 16px 40px;
+  border-radius: 30px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 10px 24px rgba(243, 141, 51, 0.35);
+}
+
+.cta-button:hover {
+  transform: translateY(-3px) scale(1.03);
+  box-shadow: 0 14px 30px rgba(243, 141, 51, 0.5);
+}
+
+/* ===== RODAPÉ ===== */
+.site-footer {
+  background: var(--navy);
+  padding: 70px 24px 24px;
+}
+
+.footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: space-between;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.footer-col {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 200px;
+}
+
+.footer-brand {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 22px;
+  color: var(--orange);
+  margin-bottom: 6px;
+}
+
+.footer-desc {
+  font-family: var(--font-body);
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.75);
+  line-height: 1.5;
+  max-width: 280px;
+}
+
+.footer-social {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.footer-social-btn {
+  border: 1.5px solid rgba(255, 255, 255, 0.4);
+  color: var(--white);
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  transition: border-color 0.3s ease, background 0.3s ease;
+}
+
+.footer-social-btn:hover {
+  border-color: var(--orange);
+  background: rgba(243, 141, 51, 0.15);
+}
+
+.footer-heading {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--white);
+  margin-bottom: 6px;
+}
+
+.footer-link {
+  font-family: var(--font-body);
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.75);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+  color: var(--orange);
+}
+
+.footer-bottom {
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+  margin-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 900px) {
+  .perk-steps { flex-direction: column; align-items: center; }
+  .perk-steps::before { display: none; }
+}
+
 @media (max-width: 640px) {
-  .soon-hero { margin: 10px auto 24px; padding: 60px 20px; border-radius: 20px; }
-  .soon-title { font-size: 28px; }
-  .soon-subtitle { font-size: 14px; }
-  .soon-hero-logo { width: 70px; height: 70px; }
+  .mentoria-hero { margin: 10px auto 24px; padding: 60px 20px; border-radius: 20px; }
+  .mentoria-title { font-size: 28px; }
+  .mentoria-subtitle { font-size: 14px; }
+  .mentoria-hero-logo { width: 70px; height: 70px; }
 }
