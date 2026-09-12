@@ -298,15 +298,19 @@ function renderMaterials() {
   const name = (window.F3Exatas && window.F3Exatas.getCurrentName && window.F3Exatas.getCurrentName()) || "";
 
   let html = "";
-  if (EXAM_MATERIALS.length > 0) {
-    html +=
-      '<p class="materials-group-title">Prova</p>' +
-      '<div class="materials-list">' + materialItemsHtml(EXAM_MATERIALS, email, name) + "</div>";
-  }
   if (SOLUTION_MATERIALS.length > 0) {
     html +=
+      '<div class="materials-column">' +
       '<p class="materials-group-title">Solução comentada</p>' +
-      '<div class="materials-list">' + materialItemsHtml(SOLUTION_MATERIALS, email, name) + "</div>";
+      '<div class="materials-list">' + materialItemsHtml(SOLUTION_MATERIALS, email, name) + "</div>" +
+      "</div>";
+  }
+  if (EXAM_MATERIALS.length > 0) {
+    html +=
+      '<div class="materials-column">' +
+      '<p class="materials-group-title">Prova</p>' +
+      '<div class="materials-list">' + materialItemsHtml(EXAM_MATERIALS, email, name) + "</div>" +
+      "</div>";
   }
   list.innerHTML = html;
 

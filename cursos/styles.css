@@ -557,6 +557,18 @@ body {
   border-color: var(--orange);
 }
 
+.materials-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  align-items: flex-start;
+}
+
+.materials-column {
+  flex: 1;
+  min-width: 260px;
+}
+
 .materials-group-title {
   font-family: var(--font-heading);
   font-weight: 700;
@@ -573,7 +585,7 @@ body {
 
 .materials-list {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr;
   gap: 16px;
 }
 
@@ -985,7 +997,6 @@ body {
 @media (max-width: 900px) {
   .course-grid { grid-template-columns: 1fr; }
   .topics-list { grid-template-columns: 1fr; }
-  .materials-list { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 640px) {
