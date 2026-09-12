@@ -4,24 +4,11 @@
 
 // Aulas do curso "Física para o Vestibular da UVA", organizadas pelos mesmos
 // assuntos usados no F3Provas (provas/src/lib/topics.ts, PHYSICS_TOPICS).
-// Para adicionar uma aula nova, inclua um item no array "videos" do módulo
-// correspondente: { title: "Nome da aula", youtubeUrl: "https://youtu.be/XXXX" }.
-const modules = [
-  { slug: "cinematica", name: "Cinemática", videos: [] },
-  { slug: "dinamica", name: "Dinâmica", videos: [] },
-  { slug: "estatica", name: "Estática", videos: [] },
-  { slug: "trabalho-energia", name: "Trabalho e Energia", videos: [] },
-  { slug: "impulso-momento", name: "Impulso e Quantidade de Movimento", videos: [] },
-  { slug: "gravitacao", name: "Gravitação", videos: [] },
-  { slug: "hidrostatica", name: "Hidrostática e Hidrodinâmica", videos: [] },
-  { slug: "termologia", name: "Termologia", videos: [] },
-  { slug: "ondulatoria", name: "Ondulatória", videos: [] },
-  { slug: "optica", name: "Óptica", videos: [] },
-  { slug: "eletrostatica", name: "Eletrostática", videos: [] },
-  { slug: "eletrodinamica", name: "Eletrodinâmica", videos: [] },
-  { slug: "eletromagnetismo", name: "Eletromagnetismo", videos: [] },
-  { slug: "fisica-moderna", name: "Física Moderna", videos: [] },
-];
+// Ao contrário do IFMA, aqui só entra módulo pra assunto que já tem aula --
+// nada de listar os 14 assuntos com "Em breve" de antemão. Pra adicionar um
+// assunto novo, inclua um objeto { slug, name, videos: [...] } (ver
+// PHYSICS_TOPICS pro slug/nome oficial de cada assunto).
+const modules = [];
 
 // Ícone de linha simples por assunto, mesmo estilo dos badges "por que
 // escolher" (stroke, minimalista) — só pra dar identidade visual ao quadro,
@@ -89,6 +76,15 @@ function initPlayerModal() {
 function renderModules() {
   const container = document.getElementById("topics-list");
   if (!container) return;
+
+  if (modules.length === 0) {
+    const empty = document.createElement("p");
+    empty.className = "reveal is-visible";
+    empty.style.cssText = "grid-column: 1 / -1; font-style: italic; color: var(--text-muted); font-size: 14px;";
+    empty.textContent = "Aulas em produção — os assuntos vão aparecer aqui conforme forem ficando prontos.";
+    container.appendChild(empty);
+    return;
+  }
 
   modules.forEach((mod, index) => {
     const details = document.createElement("details");
