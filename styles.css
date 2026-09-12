@@ -606,6 +606,9 @@ body {
 .site-footer {
   background: var(--navy);
   padding: 70px 24px 24px;
+}
+
+.footer-inner {
   display: flex;
   flex-wrap: wrap;
   gap: 50px;
