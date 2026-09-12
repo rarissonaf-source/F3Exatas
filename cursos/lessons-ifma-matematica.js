@@ -251,8 +251,9 @@ function initScrollReveal(scope) {
 // fora da pasta public (não são servidos direto, só via /api/course-materials,
 // que carimba o PDF com os dados de quem baixou antes de entregar).
 const MATERIALS = [
-  { label: "Integrado 2026", fileName: "ifma-integrado-2026.pdf" },
-  { label: "Integrado 2025", fileName: "ifma-integrado-2025.pdf" },
+  // 2026 e 2025 ficam fora da lista até termos a versão comentada de
+  // verdade — os PDFs atuais são só a prova crua + gabarito seco, sem a
+  // caixa "Solução" (Raio-X/Estratégia/Resolução) das demais edições.
   { label: "Integrado 2024", fileName: "ifma-integrado-2024.pdf" },
   { label: "Integrado 2023", fileName: "ifma-integrado-2023.pdf" },
   { label: "Integrado 2022", fileName: "ifma-integrado-2022.pdf" },
