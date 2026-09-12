@@ -246,17 +246,45 @@ function initScrollReveal(scope) {
   revealEls.forEach((el) => observer.observe(el));
 }
 
-// Provas oficiais do Integrado dos últimos anos, já comentadas em PDF — os
-// arquivos ficam em provas/content/course-materials/ifma-matematica/<fileName>,
-// fora da pasta public (não são servidos direto, só via /api/course-materials,
-// que carimba o PDF com os dados de quem baixou antes de entregar).
-const MATERIALS = [
-  { label: "Integrado 2026", fileName: "ifma-integrado-2026.pdf" },
-  { label: "Integrado 2025", fileName: "ifma-integrado-2025.pdf" },
-  { label: "Integrado 2024", fileName: "ifma-integrado-2024.pdf" },
-  { label: "Integrado 2023", fileName: "ifma-integrado-2023.pdf" },
-  { label: "Integrado 2022", fileName: "ifma-integrado-2022.pdf" },
+// Provas oficiais do Integrado dos últimos anos — os arquivos ficam em
+// provas/content/course-materials/ifma-matematica/<fileName>, fora da pasta
+// public (não são servidos direto, só via /api/course-materials, que carimba
+// o PDF com os dados de quem baixou antes de entregar).
+//
+// Duas categorias por ano: a prova em branco (pra resolver como se fosse o
+// dia da prova, sem consulta) e a solução comentada (Raio-X/Estratégia/
+// Resolução questão a questão). Enquanto não chega o PDF em branco de um
+// ano, ele simplesmente não aparece em EXAM_MATERIALS — sem entrada
+// "Em breve", já que a lista já mistura anos disponíveis e futuros.
+const EXAM_MATERIALS = [];
+
+const SOLUTION_MATERIALS = [
+  { label: "Solução comentada 2026", fileName: "ifma-integrado-2026.pdf" },
+  { label: "Solução comentada 2025", fileName: "ifma-integrado-2025.pdf" },
+  { label: "Solução comentada 2024", fileName: "ifma-integrado-2024.pdf" },
+  { label: "Solução comentada 2023", fileName: "ifma-integrado-2023.pdf" },
+  { label: "Solução comentada 2022", fileName: "ifma-integrado-2022.pdf" },
 ];
+
+function materialItemsHtml(materials, email, name) {
+  return materials
+    .map((m) => {
+      const url =
+        "/provas/api/course-materials/ifma-matematica/" +
+        encodeURIComponent(m.fileName) +
+        "?email=" +
+        encodeURIComponent(email) +
+        "&name=" +
+        encodeURIComponent(name);
+      return (
+        '<a class="material-item" href="' + url + '" target="_blank" rel="noopener">' +
+        '<span class="material-name">' + m.label + "</span>" +
+        '<span class="material-download">Baixar PDF <span>&#8594;</span></span>' +
+        "</a>"
+      );
+    })
+    .join("");
+}
 
 function renderMaterials() {
   const section = document.getElementById("materials-section");
@@ -266,21 +294,18 @@ function renderMaterials() {
   const email = (window.F3Exatas && window.F3Exatas.getCurrentEmail && window.F3Exatas.getCurrentEmail()) || "";
   const name = (window.F3Exatas && window.F3Exatas.getCurrentName && window.F3Exatas.getCurrentName()) || "";
 
-  list.innerHTML = MATERIALS.map((m) => {
-    const url =
-      "/provas/api/course-materials/ifma-matematica/" +
-      encodeURIComponent(m.fileName) +
-      "?email=" +
-      encodeURIComponent(email) +
-      "&name=" +
-      encodeURIComponent(name);
-    return (
-      '<a class="material-item" href="' + url + '" target="_blank" rel="noopener">' +
-      '<span class="material-name">' + m.label + "</span>" +
-      '<span class="material-download">Baixar PDF <span>&#8594;</span></span>' +
-      "</a>"
-    );
-  }).join("");
+  let html = "";
+  if (EXAM_MATERIALS.length > 0) {
+    html +=
+      '<p class="materials-group-title">Prova</p>' +
+      '<div class="materials-list">' + materialItemsHtml(EXAM_MATERIALS, email, name) + "</div>";
+  }
+  if (SOLUTION_MATERIALS.length > 0) {
+    html +=
+      '<p class="materials-group-title">Solução comentada</p>' +
+      '<div class="materials-list">' + materialItemsHtml(SOLUTION_MATERIALS, email, name) + "</div>";
+  }
+  list.innerHTML = html;
 
   section.hidden = false;
   section.querySelectorAll(".reveal").forEach((el) => el.classList.add("is-visible"));

@@ -557,6 +557,20 @@ body {
   border-color: var(--orange);
 }
 
+.materials-group-title {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 28px 0 12px;
+}
+
+.materials-group-title:first-child {
+  margin-top: 0;
+}
+
 .materials-list {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
