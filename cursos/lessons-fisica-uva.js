@@ -174,6 +174,9 @@ function denyAccess() {
     "Você ainda não adquiriu este curso ou não tem acesso liberado. Fale com a F3Exatas pra saber como garantir o seu.";
   const goBackLink = document.getElementById("gate-back-link");
   if (goBackLink) goBackLink.hidden = false;
+  if (window.F3Exatas && window.F3Exatas.showAccessDeniedModal) {
+    window.F3Exatas.showAccessDeniedModal("Física para o Vestibular da UVA");
+  }
 }
 
 function initAccessGate() {

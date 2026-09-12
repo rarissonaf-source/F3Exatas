@@ -42,7 +42,7 @@
     ".f3gate-field input:focus{border-color:#f38d33;}" +
     ".f3gate-error{font-size:13px;color:#f38d33;margin:-4px 0 14px;min-height:16px;}" +
     ".f3gate-error.is-hint{color:#34d399;}" +
-    ".f3gate-submit{width:100%;padding:14px;border:none;border-radius:12px;background:linear-gradient(160deg,#f38d33,#d9701c);color:#fff;font-family:'Montserrat',sans-serif;font-weight:700;font-size:15px;cursor:pointer;}" +
+    ".f3gate-submit{display:inline-block;box-sizing:border-box;text-decoration:none;text-align:center;width:100%;padding:14px;border:none;border-radius:12px;background:linear-gradient(160deg,#f38d33,#d9701c);color:#fff;font-family:'Montserrat',sans-serif;font-weight:700;font-size:15px;cursor:pointer;}" +
     ".f3gate-submit:hover{opacity:0.92;}" +
     ".f3gate-submit-ghost{background:none;border:1px solid rgba(255,255,255,0.14);color:#f4f6fb;margin-top:10px;}" +
     ".f3gate-links{margin-top:18px;display:flex;align-items:center;justify-content:center;gap:10px;}" +
@@ -181,15 +181,12 @@
       '<div class="f3gate-title">Curso ainda não liberado</div>' +
       '<div class="f3gate-subtitle">Você ainda não adquiriu' +
       (courseName ? " o curso <strong>" + courseName + "</strong>" : " esse curso") +
-      ' ou não tem acesso liberado. Fale com a F3Exatas pra saber como garantir o seu.</div>' +
-      '<button type="button" class="f3gate-submit" id="f3-access-denied-close">Entendi</button>' +
+      " ou não tem acesso liberado. Garanta o seu agora e comece a estudar direto ao ponto.</div>" +
+      '<a href="#" class="f3gate-submit" id="f3-access-denied-buy">Quero adquirir!</a>' +
       "</div>";
     document.body.appendChild(overlay);
     overlay.addEventListener("click", function (e) {
       if (e.target === overlay) overlay.remove();
-    });
-    document.getElementById("f3-access-denied-close").addEventListener("click", function () {
-      overlay.remove();
     });
   };
 
