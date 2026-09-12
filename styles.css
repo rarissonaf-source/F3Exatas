@@ -132,24 +132,25 @@ body {
 }
 
 .hub-scroll-cue {
-  margin-top: 12px;
+  margin-top: 20px;
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
   font-family: var(--font-heading);
-  font-weight: 700;
-  font-size: 14px;
+  font-weight: 800;
+  font-size: 17px;
   color: var(--white);
   text-decoration: none;
-  border: 1.5px solid rgba(255, 255, 255, 0.4);
-  padding: 12px 24px;
+  background: var(--orange);
+  padding: 16px 34px;
   border-radius: 30px;
-  transition: border-color 0.3s ease, background 0.3s ease;
+  box-shadow: 0 12px 26px rgba(243, 141, 51, 0.4);
+  transition: transform 0.25s ease, box-shadow 0.3s ease;
 }
 
 .hub-scroll-cue:hover {
-  border-color: var(--orange);
-  background: rgba(243, 141, 51, 0.15);
+  transform: translateY(-2px);
+  box-shadow: 0 16px 32px rgba(243, 141, 51, 0.5);
 }
 
 .hub-scroll-arrow {
