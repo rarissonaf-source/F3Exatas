@@ -77,15 +77,6 @@ function renderModules() {
   const container = document.getElementById("topics-list");
   if (!container) return;
 
-  if (modules.length === 0) {
-    const empty = document.createElement("p");
-    empty.className = "reveal is-visible";
-    empty.style.cssText = "grid-column: 1 / -1; font-style: italic; color: var(--text-muted); font-size: 14px;";
-    empty.textContent = "Aulas em produção — os assuntos vão aparecer aqui conforme forem ficando prontos.";
-    container.appendChild(empty);
-    return;
-  }
-
   modules.forEach((mod, index) => {
     const details = document.createElement("details");
     details.className = "topic-item reveal";
