@@ -30,7 +30,7 @@ import type { ExamSource, OptionLabel, Question } from "@/lib/types";
 const OPTION_LABELS: Record<OptionLabel, string> = { a: "A", b: "B", c: "C", d: "D", e: "E" };
 const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
 
-type Panel = "comments" | "lists" | "share" | "report" | null;
+type Panel = "comments" | "lists" | "report" | null;
 
 interface Props {
   question: Question;
@@ -62,7 +62,9 @@ export function QuestionCard({
   );
   const [comments, setComments] = useState<QuestionComment[]>([]);
   const [commentsLoading, setCommentsLoading] = useState(true);
+  const [shareOpen, setShareOpen] = useState(false);
   const rootRef = useRef<HTMLDivElement>(null);
+  const shareRef = useRef<HTMLDivElement>(null);
 
   const hasGabarito = Boolean(question.correctAnswer);
   const isCorrect = checked && hasGabarito && selected === question.correctAnswer;
@@ -94,6 +96,18 @@ export function QuestionCard({
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [zoomedImage]);
+
+  // Fecha as opções de compartilhar ao clicar fora do botão/balão.
+  useEffect(() => {
+    if (!shareOpen) return;
+    function onClickOutside(e: MouseEvent) {
+      if (shareRef.current && !shareRef.current.contains(e.target as Node)) {
+        setShareOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", onClickOutside);
+    return () => document.removeEventListener("mousedown", onClickOutside);
+  }, [shareOpen]);
 
   function handleVerify() {
     setChecked(true);
@@ -136,16 +150,6 @@ export function QuestionCard({
                 : "Conh. Específicos"}
           </span>
         </div>
-        <button
-          type="button"
-          onClick={() => togglePanel("share")}
-          aria-label="Compartilhar questão"
-          className={`flex size-8 shrink-0 items-center justify-center rounded-full transition-colors ${
-            panel === "share" ? "bg-muted text-foreground" : "text-muted-foreground hover:bg-muted"
-          }`}
-        >
-          <Share2 className="size-4" />
-        </button>
       </div>
 
       <div className={`mt-4 ${imageUrl ? "grid gap-4 sm:grid-cols-2 sm:items-start" : ""}`}>
@@ -292,12 +296,27 @@ export function QuestionCard({
           active={panel === "lists"}
           onClick={() => togglePanel("lists")}
         />
-        <ToolbarButton
-          icon={Share2}
-          label="Compartilhar"
-          active={panel === "share"}
-          onClick={() => togglePanel("share")}
-        />
+        <div className="relative" ref={shareRef}>
+          <ToolbarButton
+            icon={Share2}
+            label="Compartilhar"
+            active={shareOpen}
+            onClick={() => setShareOpen((open) => !open)}
+          />
+          <AnimatePresence>
+            {shareOpen && (
+              <motion.div
+                initial={{ opacity: 0, y: -4, scale: 0.96 }}
+                animate={{ opacity: 1, y: 0, scale: 1 }}
+                exit={{ opacity: 0, y: -4, scale: 0.96 }}
+                transition={{ duration: 0.15 }}
+                className="absolute left-0 top-full z-20 mt-2"
+              >
+                <ShareOptions questionId={question.id} />
+              </motion.div>
+            )}
+          </AnimatePresence>
+        </div>
         <ToolbarButton
           icon={Flag}
           label="Reportar"
@@ -320,11 +339,6 @@ export function QuestionCard({
         {panel === "lists" && (
           <PanelWrapper key="lists">
             <ListsPanel questionId={question.id} />
-          </PanelWrapper>
-        )}
-        {panel === "share" && (
-          <PanelWrapper key="share">
-            <SharePanel questionId={question.id} />
           </PanelWrapper>
         )}
         {panel === "report" && (
@@ -612,7 +626,7 @@ function ListsPanel({ questionId }: { questionId: string }) {
   );
 }
 
-function SharePanel({ questionId }: { questionId: string }) {
+function ShareOptions({ questionId }: { questionId: string }) {
   const [link] = useState(() =>
     typeof window !== "undefined"
       ? `${window.location.origin}${window.location.pathname}#${questionId}`
@@ -627,19 +641,20 @@ function SharePanel({ questionId }: { questionId: string }) {
   }
 
   return (
-    <div className="flex flex-col gap-2 rounded-xl border border-border bg-muted/40 p-4 sm:flex-row sm:items-center">
+    <div className="relative flex w-48 flex-col gap-1.5 rounded-xl bg-popover p-2 ring-1 ring-border shadow-xl">
+      <span className="absolute -top-1.5 left-6 size-3 -translate-x-1/2 rotate-45 bg-popover ring-1 ring-border" />
       <a
         href={`https://wa.me/?text=${encodeURIComponent(`Olha essa questão: ${link}`)}`}
         target="_blank"
         rel="noopener"
-        className="inline-flex items-center justify-center gap-2 rounded-full bg-[#25D366] px-4 py-2 text-sm font-bold text-white transition-transform hover:scale-[1.02]"
+        className="relative inline-flex items-center justify-center gap-2 rounded-lg bg-[#25D366] px-3 py-2 text-sm font-bold text-white transition-transform hover:scale-[1.02]"
       >
         WhatsApp
       </a>
       <button
         type="button"
         onClick={handleCopy}
-        className="inline-flex items-center justify-center gap-2 rounded-full border border-border px-4 py-2 text-sm font-bold text-foreground transition-colors hover:bg-muted"
+        className="relative inline-flex items-center justify-center gap-2 rounded-lg border border-border px-3 py-2 text-sm font-bold text-foreground transition-colors hover:bg-muted"
       >
         <Copy className="size-4" />
         {copied ? "Link copiado!" : "Copiar link"}
