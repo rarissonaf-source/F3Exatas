@@ -41,6 +41,7 @@ interface Props {
   discipline: string;
   topicColor: string;
   onAnswerChecked: () => void;
+  onBeforeVerify?: () => boolean;
 }
 
 export function QuestionCard({
@@ -52,6 +53,7 @@ export function QuestionCard({
   discipline,
   topicColor,
   onAnswerChecked,
+  onBeforeVerify,
 }: Props) {
   const [selected, setSelected] = useState<OptionLabel | null>(null);
   const [checked, setChecked] = useState(false);
@@ -110,6 +112,7 @@ export function QuestionCard({
   }, [shareOpen]);
 
   function handleVerify() {
+    if (onBeforeVerify && !onBeforeVerify()) return;
     setChecked(true);
     onAnswerChecked();
 

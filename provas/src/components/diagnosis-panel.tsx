@@ -58,10 +58,19 @@ function topicLabel(t: TopicPerformance) {
   return `${topicName(t.discipline, t.topic)} · ${DISCIPLINE_NAMES[t.discipline] ?? t.discipline}`;
 }
 
+// Três faixas de desempenho, usadas tanto no acerto geral quanto nos badges
+// por assunto — mesmos limiares (60/80) em todo o diagnóstico.
 function accuracyBadgeClass(accuracy: number) {
-  if (accuracy >= 70) return "bg-emerald-100 text-emerald-700";
-  if (accuracy >= 40) return "bg-amber-100 text-amber-700";
+  if (accuracy >= 80) return "bg-emerald-100 text-emerald-700";
+  if (accuracy >= 60) return "bg-amber-100 text-amber-700";
   return "bg-red-100 text-red-600";
+}
+
+function performanceTier(accuracy: number): { label: string; textClass: string } {
+  if (accuracy >= 80) return { label: "Excelente desempenho!", textClass: "text-emerald-600" };
+  if (accuracy >= 60)
+    return { label: "Bom desempenho, com espaço pra evoluir ainda mais", textClass: "text-amber-600" };
+  return { label: "Desempenho baixo — precisa melhorar", textClass: "text-red-500" };
 }
 
 export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
@@ -232,13 +241,23 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
 
       {mode === "result" && filtered && filtered.totalAnswered > 0 && hasEnoughData && (
         <>
+          <div
+            className={`mb-4 rounded-2xl border p-4 text-center font-heading text-sm font-bold ${accuracyBadgeClass(filtered.overallAccuracy)} border-transparent`}
+          >
+            {performanceTier(filtered.overallAccuracy).label}
+          </div>
+
           <div className="mb-6 grid grid-cols-3 gap-3">
             <div className="rounded-2xl border border-border bg-card p-5 text-center">
               <div className="font-heading text-3xl font-extrabold text-foreground">{filtered.totalAnswered}</div>
               <div className="mt-1 text-xs font-medium text-muted-foreground">respondidas {periodOption.nounLabel}</div>
             </div>
             <div className="rounded-2xl border border-border bg-card p-5 text-center">
-              <div className="font-heading text-3xl font-extrabold text-emerald-600">{filtered.overallAccuracy}%</div>
+              <div
+                className={`font-heading text-3xl font-extrabold ${performanceTier(filtered.overallAccuracy).textClass}`}
+              >
+                {filtered.overallAccuracy}%
+              </div>
               <div className="mt-1 text-xs font-medium text-muted-foreground">de acerto geral</div>
             </div>
             <div className="rounded-2xl border border-border bg-card p-5 text-center">

@@ -6,10 +6,13 @@ import { ArrowUp, Filter, Printer, Search, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { QuestionCard } from "@/components/question-card";
 import { recordAnswerCheckAndMaybePrompt, MENTORIAS_URL } from "@/lib/checkin";
+import { getAnswersToday, recordDailyAnswer, DAILY_ANSWER_LIMIT } from "@/lib/daily-limit";
 import { staggerContainer, fadeUpItem } from "@/lib/motion";
 import { BASE_PATH } from "@/lib/base-path";
 import { fetchCurrentProfile } from "@/lib/account";
 import { hasProvasPlusAccess } from "@/lib/plan-access";
+import { buttonVariants } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
 import type { ExamSource, Question } from "@/lib/types";
 
 // Ignora acentos/caixa na busca — "área" deve achar "area" e vice-versa.
@@ -47,16 +50,19 @@ export function QuestionBrowser({
   const [searchQuery, setSearchQuery] = useState("");
   const [searchOpen, setSearchOpen] = useState(false);
   const [accountEmail, setAccountEmail] = useState("");
-  const [pdfAllowed, setPdfAllowed] = useState(false);
+  const [plusAllowed, setPlusAllowed] = useState(false);
   const [pdfBubbleOpen, setPdfBubbleOpen] = useState(false);
+  const [answeredToday, setAnsweredToday] = useState(0);
+  const [dailyLimitOpen, setDailyLimitOpen] = useState(false);
   const searchInputRef = useRef<HTMLInputElement>(null);
   const pdfBubbleRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     fetchCurrentProfile().then((profile) => {
       setAccountEmail(profile.email);
-      setPdfAllowed(hasProvasPlusAccess(profile.email, profile.hasProvasPlus));
+      setPlusAllowed(hasProvasPlusAccess(profile.email, profile.hasProvasPlus));
     });
+    setAnsweredToday(getAnswersToday());
   }, []);
 
   useEffect(() => {
@@ -80,7 +86,7 @@ export function QuestionBrowser({
   }, [pdfBubbleOpen]);
 
   function handlePdfClick() {
-    if (!pdfAllowed) {
+    if (!plusAllowed) {
       setPdfBubbleOpen((open) => !open);
       return;
     }
@@ -92,7 +98,22 @@ export function QuestionBrowser({
     setSearchQuery("");
   }
 
+  // Chamado ANTES de revelar a resposta — quem não tem F3Provas+ e já bateu o
+  // limite diário é barrado aqui, sem a resposta ser exibida.
+  function canVerifyAnswer() {
+    if (plusAllowed) return true;
+    if (answeredToday >= DAILY_ANSWER_LIMIT) {
+      setDailyLimitOpen(true);
+      return false;
+    }
+    return true;
+  }
+
   function handleAnswerChecked() {
+    if (!plusAllowed) {
+      recordDailyAnswer();
+      setAnsweredToday(getAnswersToday());
+    }
     if (recordAnswerCheckAndMaybePrompt()) setCheckinOpen(true);
   }
 
@@ -251,6 +272,7 @@ export function QuestionBrowser({
                 discipline={discipline}
                 topicColor={topicColor}
                 onAnswerChecked={handleAnswerChecked}
+                onBeforeVerify={canVerifyAnswer}
               />
             </motion.div>
           ))}
@@ -311,6 +333,47 @@ export function QuestionBrowser({
                 >
                   Preciso de uma ajuda extra
                 </a>
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      <AnimatePresence>
+        {dailyLimitOpen && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[110] flex items-end justify-center bg-black/50 p-4 sm:items-center"
+            onClick={() => setDailyLimitOpen(false)}
+          >
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: 20 }}
+              onClick={(e) => e.stopPropagation()}
+              className="w-full max-w-sm rounded-2xl bg-popover p-5 text-center text-popover-foreground ring-1 ring-border shadow-xl"
+            >
+              <p className="font-heading text-lg font-bold text-foreground">
+                Você chegou ao limite de {DAILY_ANSWER_LIMIT} questões de hoje
+              </p>
+              <p className="mt-2 text-sm text-muted-foreground">
+                Volte amanhã pra continuar treinando, ou adquira o F3Provas+ pra responder sem limite &mdash; com
+                essas mesmas {DAILY_ANSWER_LIMIT} questões de hoje você já teria dado suficiente pra ver seu
+                diagnóstico de desempenho por assunto.
+              </p>
+              <div className="mt-4 flex flex-col gap-2">
+                <a href="#" className={cn(buttonVariants({ className: "w-full justify-center" }))}>
+                  Quero adquirir o F3Provas+
+                </a>
+                <button
+                  type="button"
+                  onClick={() => setDailyLimitOpen(false)}
+                  className="w-full rounded-md border border-border py-2 text-center text-sm font-semibold text-foreground transition-colors hover:bg-muted"
+                >
+                  Entendi, volto amanhã
+                </button>
               </div>
             </motion.div>
           </motion.div>
