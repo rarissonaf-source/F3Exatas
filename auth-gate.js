@@ -483,9 +483,6 @@
       "</div>";
     document.body.appendChild(overlay);
 
-    overlay.addEventListener("click", function (e) {
-      if (e.target === overlay) overlay.remove();
-    });
     document.getElementById("f3signup-cancel-btn").addEventListener("click", function () {
       overlay.remove();
     });
