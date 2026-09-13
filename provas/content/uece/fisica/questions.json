@@ -27902,5 +27902,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-q39",
+    "examId": "2022.2",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 39,
+    "statement": "Considerando o trabalho realizado por uma força conservativa atuando sobre uma partícula entre dois pontos X e Y do espaço, julgue as seguintes afirmações: I. É nulo se a partícula sai de X em direção a Y e retorna para X. II. Depende da trajetória que liga X a Y. III. É não nulo se a partícula sai de X em direção a Y e retorna para X. IV. Independe da trajetória que liga X a Y. É correto o que se afirma somente em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II e III.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "III e IV.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I e IV.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-q40",
+    "examId": "2022.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 40,
+    "statement": "Os morcegos, ao contrário do que alguns pensam, não são cegos. Por serem animais de hábitos noturnos, fazem uso da ecolocalização para percepção de obstáculos. Tal fenômeno consiste na emissão de ondas sonoras de frequências superiores às percebidas pelo ouvido humano, podendo chegar à ordem de 200.000 Hz. A onda que o morcego emite é refletida em um determinado obstáculo possibilitando que o animal consiga medir a distância do objeto, estimar o seu tamanho, sua velocidade e até mesmo a textura. A elevada frequência sonora emitida pelos morcegos facilita o processo de localização de objetos, uma vez que o respectivo comprimento de onda",
+    "options": [
+      {
+        "label": "a",
+        "text": "diminui os efeitos do fenômeno da difração.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "possibilita o aumento da absorção da energia da onda pelos obstáculos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "diminui os efeitos do fenômeno da reflexão.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "aumenta a velocidade de propagação do som.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-q41",
+    "examId": "2022.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 41,
+    "statement": "Em uma rodovia, o raio de curva simples, sem inclinação, é selecionado de acordo com as características técnicas da estrada e da topografia da região. Em um trecho da rodovia BR 116, um veículo que trafega com velocidade V descreve uma curva simples de raio R sob a ação de uma resultante central de módulo F. Para que a intensidade da resultante sobre o veículo seja reduzida à metade em um trecho da rodovia com o dobro do limite de velocidade, o raio da curva simples deverá ser de",
+    "options": [
+      {
+        "label": "a",
+        "text": "4R.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2R.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8R.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-q42",
+    "examId": "2022.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 42,
+    "statement": "O osciloscópio, que pode ser analógico ou digital, é um dos mais importantes e versáteis instrumentos utilizados em eletrônica. Com esse dispositivo, é possível acompanhar a evolução de um sinal elétrico e suas variações com tempo. Na tela (Ecrã) de um osciloscópio analógico típico, um ponto pertencente à representação gráfica de um sinal elétrico executa um movimento harmônico simples entre Y=−A e Y=A (eixo das amplitudes). Em muitas situações práticas, o movimento harmônico simples (MHS) pode ser representado pela projeção do movimento de uma partícula descrevendo um movimento circular uniforme (MCU), o que simplifica significativamente os cálculos. Sabendo que o ponto, na tela, vai de 0 a A/2 em $T_1$ segundos e que vai de A/2 a A em $T_2$ segundos, é correto dizer que a razão entre $T_1/T_2$ corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-q43",
+    "examId": "2022.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 43,
+    "statement": "Ao perfurar um bloco de alumínio de 10 kg em uma fresadora que consome 10 kW de potência, um operador da máquina nota um aquecimento considerável do mesmo. Sabe-se que durante o processo de usinagem, que dura em média 2 minutos e 15 segundos, cerca de 25% da potência empregada pela máquina é perdida para os arredores e desperdiçada no aquecimento da mesma. Nessas condições, sabendo que o calor específico do alumínio em J/g.°C é 0,9, o incremento da temperatura do bloco corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 °C.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "37,5 °C.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "150 °C.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "112,5 °C.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-q44",
+    "examId": "2022.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 44,
+    "statement": "Um estudante de Física resolveu criar seu próprio sistema de unidades ao adotar como unidades fundamentais a velocidade da luz c (m/s), a constante gravitacional G (N.m²/kg²) e a constante de Planck h (J.s). A partir da escolha feita pelo estudante, a combinação $Gh/c^3$ apresenta dimensão de",
+    "options": [
+      {
+        "label": "a",
+        "text": "massa.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "área.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tempo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "comprimento.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-q45",
+    "examId": "2022.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 45,
+    "statement": "O microscópio óptico faz uso da refração da luz através de um sistema de lentes. Supondo-se que um sistema de lentes de um microscópio óptico possa ser substituído por uma única lente capaz de produzir uma imagem real 20 vezes maior do que o tamanho de um objeto e considerando a distância de 42 cm entre esse objeto e a imagem, é correto dizer que a distância, em cm, do objeto à lente é",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-q46",
+    "examId": "2022.2",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 46,
+    "statement": "No laboratório de eletricidade e magnetismo da Universidade Estadual do Ceará, um estudante de Física dispõe de dois resistores $R_1$ e $R_2$ que podem ser conectados em série ou em paralelo a uma bateria. O estudante, através de um experimento que envolvia o aquecimento de um líquido, observou que a dissipação gerada por efeito Joule na associação em paralelo dos resistores é quatro vezes maior do que aquela obtida na associação em série dos mesmos resistores. Se o valor da resistência $R_1$ for de 200 Ω, a resistência $R_2$ será",
+    "options": [
+      {
+        "label": "a",
+        "text": "50 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "100 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "800 Ω.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]

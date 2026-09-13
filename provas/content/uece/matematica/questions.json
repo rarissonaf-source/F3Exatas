@@ -31358,5 +31358,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-q13",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 13,
+    "statement": "O professor Abder comprou alguns exemplares de um livro para presentear seus alunos, gastando R$ 640,00. Ganhou quatro livros de bonificação e, com isso, o preço de cada livro ficou R$ 8,00 mais barato. Assim, é correto afirmar que o número de livros que o professor destinou para presentear seus alunos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-q14",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 14,
+    "statement": "Se a e b são números reais positivos, $a\\neq1$, $b\\neq1$ e se $4.\\log_u b + 2.\\log_v b^2 = 18$, onde $u=a^{2/3}$ e $v=a^2$, então, o valor de $\\log_a b$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$9/4$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3/6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$7/4$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$7/6$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-q15",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "Situadas em um plano, três circunferências, cujas medidas do raio de cada uma delas é 3 cm, tangenciam-se mutuamente externamente. Assim, pode-se afirmar corretamente que a medida, em cm², da área do triângulo cujos vértices são os centros das circunferências é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$7\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$6\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$8\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-q16",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Uma folha de papel plana e retangular é dividida em três partes retangulares e congruentes de duas maneiras distintas, referenciadas à largura e ao comprimento da folha de papel. Na primeira, a medida do menor lado de cada parte é igual a 4 cm e, analogamente, na segunda, a medida do menor lado de cada parte é igual a 5 cm. Nessas condições, a medida, em cm, da diagonal da folha de papel é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4\\sqrt{41}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt{41}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$6\\sqrt{39}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5\\sqrt{39}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-q17",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 17,
+    "statement": "Desenhados em um plano munido do sistema usual de coordenadas cartesianas, os gráficos das funções reais de variável real f, g e h, que são definidas por f(x)=2x, g(x)=x² e h(x)=2^x, possuem exatamente um ponto P em comum. A soma dos quadrados das coordenadas de P é um número múltiplo de",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-q18",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 18,
+    "statement": "Em uma loja de confecções, um cliente, depois de verificar as ofertas, resolveu comprar três camisas de modelos e preços diferentes: a primeira foi a mais cara, o preço da segunda foi a metade do preço da primeira e o preço da terceira foi um terço do preço da primeira, totalizando a compra em p reais. O vendedor que o acompanhava apresentou, então, uma oferta promocional. Ao comprar duas unidades de cada peça escolhida anteriormente, teria os seguintes descontos: 10% em cada peça de valor mais alto, 20% em cada peça de valor intermediário e 40% em cada peça de menor valor, totalizando a compra em P reais. A diferença P − p representa um acréscimo de k% sobre o valor p. O valor de k é aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "58,4%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "63,6%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "68,6%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "73,4%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-q19",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 19,
+    "statement": "Um triângulo retângulo, ao girar em torno de um dos catetos, gera um cone. Ao girar em torno da hipotenusa, gera dois cones ligados pela base, que é a mesma para ambos os cones. Se a medida da hipotenusa do triângulo é 5 cm e a medida de um dos catetos é 3 cm, esse triângulo, ao girar em torno da hipotenusa, gera um sólido (união de dois cones) cuja medida do volume, em cm³, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$14\\pi/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$24\\pi/5$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$48\\pi/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$48\\pi/5$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-q20",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 20,
+    "statement": "Se p é a quantidade de números inteiros positivos formados por três algarismos pares e distintos, e q é a quantidade de números inteiros positivos formados por três algarismos ímpares e distintos, então, o valor do módulo de p − q é",
+    "options": [
+      {
+        "label": "a",
+        "text": "28.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-q21",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 21,
+    "statement": "Em um plano munido do sistema usual de coordenadas cartesianas, identifica-se o par ordenado (x,y) com o número complexo z=x+iy, onde i é o número complexo tal que $i^2=-1$. Se x e y são números reais quaisquer, o conjunto de números complexos z=x+iy, com $|z|^2=(x+iy).(x-iy)=1$, é representado por",
+    "options": [
+      {
+        "label": "a",
+        "text": "quatro retas paralelas aos eixos coordenados.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "duas retas que passam pela origem do sistema de coordenadas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "um quadrado centrado na origem do sistema.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "uma circunferência centrada na origem do sistema.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-q22",
+    "examId": "2022.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 22,
+    "statement": "Dados dois números inteiros positivos p e q, diremos que p é um divisor de q se existe um inteiro positivo k, tal que q=k.p. Um número inteiro positivo q, maior do que um, é chamado de número primo se seus únicos divisores positivos são o número um e o próprio número q. Note que o número 101101 possui n divisores positivos sendo m deles números primos. Assim, é correto concluir que o valor de n − m é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
