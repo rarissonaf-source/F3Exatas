@@ -10,12 +10,16 @@ import {
   getCachedDiagnosis,
   setCachedDiagnosis,
   clearCachedDiagnosis,
+  saveDiagnosisSnapshot,
+  fetchDiagnosisHistory,
   DIAGNOSIS_MIN_QUESTIONS,
   type Period,
   type PerformanceSummary,
   type TopicPerformance,
+  type DiagnosisSnapshot,
 } from "@/lib/performance";
 import { getTopicsForDiscipline } from "@/lib/topics";
+import { DiagnosisHistoryChart } from "@/components/diagnosis-history-chart";
 
 const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
 
@@ -81,6 +85,7 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
   const [summary, setSummary] = useState<PerformanceSummary | null>(null);
   const [clearing, setClearing] = useState(false);
   const [confirmingClear, setConfirmingClear] = useState(false);
+  const [history, setHistory] = useState<DiagnosisSnapshot[]>([]);
   const progressTimer = useRef<ReturnType<typeof setInterval> | null>(null);
 
   useEffect(() => {
@@ -88,6 +93,14 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
       if (progressTimer.current) clearInterval(progressTimer.current);
     };
   }, []);
+
+  // Carrega o histórico de diagnósticos já salvos (gráfico de evolução) assim
+  // que a conta tem acesso liberado, sem depender de já ter gerado um
+  // diagnóstico nesta visita.
+  useEffect(() => {
+    if (!allowed) return;
+    fetchDiagnosisHistory().then(setHistory);
+  }, [allowed]);
 
   // Restaura o último diagnóstico gerado por essa conta, se existir, em vez de
   // pedir pra gerar de novo toda vez que a página é reaberta.
@@ -125,7 +138,26 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
     if (progressTimer.current) clearInterval(progressTimer.current);
     setProgress(100);
     setSummary(data);
-    if (data) setCachedDiagnosis({ period, summary: data });
+    if (data) {
+      setCachedDiagnosis({ period, summary: data });
+      // Só registra um ponto no histórico quando o diagnóstico é confiável
+      // (amostra mínima atingida) — o servidor ainda garante o limite de 1
+      // por dia, então isso só evita uma chamada de rede desnecessária.
+      if (data.totalAnswered >= DIAGNOSIS_MIN_QUESTIONS) {
+        const saved = await saveDiagnosisSnapshot(data);
+        if (saved) {
+          setHistory((prev) => [
+            ...prev,
+            {
+              totalAnswered: data.totalAnswered,
+              totalCorrect: data.totalCorrect,
+              overallAccuracy: data.overallAccuracy,
+              createdAt: new Date().toISOString(),
+            },
+          ]);
+        }
+      }
+    }
     setTimeout(() => setMode("result"), 350);
   }
 
@@ -264,6 +296,10 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
               <div className="font-heading text-3xl font-extrabold text-red-500">{filtered.totalWrong}</div>
               <div className="mt-1 text-xs font-medium text-muted-foreground">erradas</div>
             </div>
+          </div>
+
+          <div className="mb-6">
+            <DiagnosisHistoryChart snapshots={history} />
           </div>
 
           <div className="mb-6 grid gap-4 sm:grid-cols-2">

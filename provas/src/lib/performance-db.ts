@@ -20,6 +20,30 @@ export async function ensurePerformanceTables() {
   tablesEnsured = true;
 }
 
+let diagnosisSnapshotsTableEnsured = false;
+
+// Um ponto por diagnóstico gerado (no máximo 1 por conta por dia — ver
+// /api/diagnosis-history), usado pra montar o gráfico de evolução do
+// F3Provas+. Guarda só o resumo geral; o detalhamento por assunto de cada
+// snapshot pode ser recalculado a partir de answer_attempts se um dia for
+// necessário, então não duplicamos isso aqui.
+export async function ensureDiagnosisSnapshotsTable() {
+  if (diagnosisSnapshotsTableEnsured) return;
+  await sql`
+    create table if not exists diagnosis_snapshots (
+      id text primary key,
+      account_key text not null,
+      period text not null,
+      total_answered int not null,
+      total_correct int not null,
+      overall_accuracy int not null,
+      created_at timestamptz not null default now()
+    )
+  `;
+  await sql`create index if not exists diagnosis_snapshots_account_idx on diagnosis_snapshots (account_key, created_at)`;
+  diagnosisSnapshotsTableEnsured = true;
+}
+
 export const PERIOD_TO_INTERVAL: Record<string, string> = {
   "24h": "24 hours",
   "7d": "7 days",
