@@ -550,5 +550,13 @@
     "edition": "2023.2",
     "examType": "geral",
     "sourceFile": "UECE 2023.2 - PROVA - 1a fase.pdf"
+  },
+  {
+    "id": "2023.2-2fase",
+    "institution": "UECE",
+    "year": 2023,
+    "edition": "2023.2",
+    "examType": "especifico",
+    "sourceFile": "UECE 2023.2 - 2a fase - Fisica e Quimica.pdf"
   }
 ]
