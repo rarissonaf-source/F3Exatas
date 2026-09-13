@@ -35518,5 +35518,1925 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2025.1-q13",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "Se R é o conjunto dos números reais e f: R → R é a função definida por f(x) = 1 − 2sen(2x − π/3), então, podemos afirmar corretamente que os valores máximo e mínimo de f são respectivamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 e −1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 e 1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3 e 2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2 e 1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.1-q14",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 14,
+    "statement": "Considerando as funções reais de variável real f, g, h, k e q assim definidas: f(x) = x², g(x) = 2ˣ, h(x) = senx, k(x) = cosx e q(x) = log₂(x²+1), onde log₂m denota o logaritmo de m na base 2, analise as seguintes afirmações:\n\nI. Ao representarmos graficamente as funções f e g, em um plano munido do sistema de coordenadas cartesianas usual, verificamos que seus gráficos possuem exatamente 3 (três) pontos de interseção.\nII. As funções h e k são periódicas com períodos π e 2π respectivamente.\nIII. A função q é uma função par.\nIV. O menor número do conjunto imagem da função composta g ∘ f, definida por (g∘f)(x) = g(f(x)), é igual a 1.\n\nO número de afirmações verdadeiras é",
+    "options": [
+      {
+        "label": "a",
+        "text": "dois.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "um.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "quatro.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "três.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.1-q15",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "Se os pontos L(3,5), K(1,2), M(5,3) e N(p,q) em um plano, com o sistema de coordenadas cartesianas usual, são vértices de um paralelogramo cuja diagonal KN é diâmetro da circunferência da equação x² + y² + ax + by + c = 0, então, a soma a + b + c é igual a\n\n(Nota: Veja que as diagonais de um paralelogramo se interceptam em seus pontos médios.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.1-q16",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 16,
+    "statement": "Atualmente, no Teatro São Jorge, um grupo musical se apresenta diariamente. A presença do público se dá em função, principalmente, do preço do ingresso. A capacidade máxima do teatro é de 800 pessoas e quando o preço do ingresso é R$ 90,00, o comparecimento, em média é de 300 pessoas. Dados estatísticos indicam que a cada R$ 10,00 de redução no preço do ingresso verifica-se, em média, um aumento de 100 pessoas no público presente. Com estes dados, conclui-se que a receita máxima, em média, obtida em uma apresentação musical é de",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 32 000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 36 000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 35 000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 38 000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-q17",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 17,
+    "statement": "Uma progressão geométrica é formada por seis termos os quais são números reais positivos. Se a soma dos termos de ordem par é igual a 21 e a soma dos termos de ordem ímpar é 10,5, é correto afirmar que o segundo termo desta progressão é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-q18",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 18,
+    "statement": "A listagem de quartetos numéricos apresentada a seguir, utilizando números inteiros positivos, foi elaborada considerando um padrão lógico estrutural:\n\nL1: 1, 3, 5, 9\nL2: 2, 4, 5, 8\nL3: 3, 3, 3, 3\nL4: 4, 8, 10, 16\nL5: 5, 15, 25, 45\n...\nL8: 8, 4, 5, 2\n...\nL10: 10, x, y, 40\n...\n\nEm cada linha, os números do quarteto estão relacionados e possuem propriedades entre si. Na linha 10, o valor da soma x + y é",
+    "options": [
+      {
+        "label": "a",
+        "text": "40.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "55.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "45.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-q19",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "Um projeto para a feira de ciências de uma escola é construir uma maquete de um parque público, em que deverá ter uma fonte de água. O professor orientou que os alunos, utilizando o plano com o sistema de coordenadas cartesiano usual, localizassem a fonte no circuncentro do triângulo ΔXYZ onde X(2,0), Y(−2,4) e Z(2,10). Nessas condições, a localização da fonte seria no ponto W com coordenadas\n\n(Nota: O circuncentro de um triângulo é o centro da circunferência circunscrita ao triângulo.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "(3, 5).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(2, 3).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(5, 9).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(4, 7).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.1-q20",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 20,
+    "statement": "Se o valor de x maior que 1 satisfaz a equação logₓ(2x+3) = 2 é o total de pessoas que estão aguardando para entrar no cinema, então, a quantidade de maneiras diferentes de organizar estas pessoas em fila é\n\n(Nota: Veja que logₓk é o logaritmo de k na base x.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.1-q21",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 21,
+    "statement": "Uma esfera está circunscrita a um cone circular reto equilátero. Se a medida do raio da base do cone é igual a 2√3 cm, então, a medida do volume da esfera, em cm³, é igual a\n\n(Nota: Um cone circular reto é equilátero quando a medida de sua geratriz é igual à medida de diâmetro de sua base.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "192/3 π.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "212/3 π.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "242/3 π.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "256/3 π.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.1-q22",
+    "examId": "2025.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 22,
+    "statement": "A Universidade AMR está promovendo um evento científico e disponibilizou sete salas para as apresentações acadêmicas. Ao todo foram inscritos 26 alunos expositores que precisam ser distribuídos nestas salas. A menor quantidade de alunos que garante que, pelo menos uma sala terá quatro ou mais alunos, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "21.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "23.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.1-2fase-q1",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 1,
+    "statement": "Se os números reais x e y estão relacionados pela igualdade x − 2y = 3, então, o valor numérico mínimo que a expressão algébrica x² + y² pode assumir é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4/5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7/5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9/5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.1-2fase-q2",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 2,
+    "statement": "A cooperativa COOPERAGRO é constituída por um grupo de K agricultores. Se dos associados na cooperativa 45% cultivam arroz, 30% cultivam feijão, 10% cultivam conjuntamente arroz e feijão, e os 70 associados que restam dedicam-se a outras culturas, então, é correto afirmar que o valor de K está situado entre os números",
+    "options": [
+      {
+        "label": "a",
+        "text": "185 e 195.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "195 e 205.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "205 e 215.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "215 e 225.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-2fase-q3",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "Em um trapézio isósceles, a medida da base menor é 15 cm e a medida de cada um dos lados não paralelos é 12 cm. Se cada um dos lados não paralelos forma com a base maior um ângulo interno de 30 graus, então, a medida, em cm², da área deste trapézio é\n\n(Nota: Veja que sen30 = 1/2.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "90 + 36√3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "36 + 90√3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60 + 36√3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "45 + 90√3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.1-2fase-q4",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 4,
+    "statement": "O quadro numérico a seguir apresentado, conhecido com a denominação de \"Triângulo Aritmético de Pascal – Tartáglia\", envolve números combinatórios especiais:\n\nL1: 1\nL2: 1, 2, 1\nL3: 1, 3, 3, 1\nL4: 1, 4, 6, 4, 1\nL5: 1, 5, 10, 10, 5, 1\nL6: 1, 6, 15, 20, 15, 6, 1\n...\nL100: 1, 100,..., 100, 1\n...\n\nO número central da centésima linha (L100) é Cₙᵖ, sendo n + p igual a\n\n(Nota: Se um conjunto possui n elementos, Cₙᵖ é o número de combinações dos n elementos p a p.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "152.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "150.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "148.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "151.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-2fase-q5",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "No pentágono regular XYZVW, se O é o ponto de interseção das diagonais XZ e YV, então, a medida, em graus, do ângulo XÔY é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "36.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "84.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "108.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.1-2fase-q6",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 6,
+    "statement": "Se L = {a, b, c, d} e N é o número de subconjuntos de L, então, C₍N,3₎ é igual a\n\n(Nota: Se um conjunto possui N elementos, C₍N,3₎ é o número de combinações dos N elementos 3 a 3.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "560.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1120.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "480.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "840.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.1-2fase-q7",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 7,
+    "statement": "Se para cada x ∈ R, f(x) = min{4x + 1, x + 2, −2x + 4}, é correto concluir-se que o valor máximo que f(x) assume é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "8/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-2fase-q8",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "Considere, no plano com o referencial cartesiano usual, o triângulo cujos vértices são os pontos L(p, q), H(m, n) e K(r, s). Se os lados do triângulo ΔLHK estão sobre os gráficos das funções reais de variável real f(x) = (1/4)x + 6, g(x) = 4x − 24 e h(x) = −x + 6, então, pode-se afirmar corretamente que a soma das coordenadas dos vértices deste triângulo é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "28.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "34.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-2fase-q9",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 9,
+    "statement": "Um hexágono regular está inscrito em uma circunferência cuja medida do diâmetro é igual a 4dm. Escolha 3 (três) vértices M, P e Q do hexágono de modo que exatamente 2 (dois) deles sejam consecutivos (ou vizinhos). Nestas condições, é correto afirmar que a área do ΔMPQ, em dm², é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3√3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3√2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2√3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2√2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.1-2fase-q10",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 10,
+    "statement": "Considere as matrizes $M=\\begin{bmatrix}1&-1\\\\0&2\\end{bmatrix}$ e $P=\\begin{bmatrix}x&x^2\\\\-1&1\\end{bmatrix}$. Se det(M.P) é o determinante da matriz produto M.P e x1 e x2 são as raízes da equação det(M.P) = 0, então, x1 + x2 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "−1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.1-2fase-q11",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 11,
+    "statement": "As quatro raízes complexas z1, z2, z3 e z4 da equação z⁴ − 1 = 0, quando representadas no plano, munido do sistema de coordenadas cartesianas usual, são pontos identificados com os vértices de um quadrado com centro no ponto O(0,0). Assim, o resultado do produto das quatro raízes, z1.z2.z3.z4, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "i.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2i.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-2fase-q12",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 12,
+    "statement": "Uma instituição financeira realiza aplicação monetária a médio e longo prazos, ficando a aplicação modelada (descrita com excelente aproximação) pela função exponencial f(t) = p.2^(0,0625t) em que o parâmetro p representa o capital inicial a ser aplicado e t a variável tempo, medida em anos. Sendo assim, é correto afirmar que o tempo necessário a partir do momento inicial da aplicação de um certo capital para a sua duplicação é",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 anos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16 anos.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12 anos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14 anos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-2fase-q13",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 13,
+    "statement": "Um terreno plano de forma retangular, cuja medida da área é igual a 600 m², mantendo sua forma retangular, teve sua área ampliada do seguinte modo: aumentou 15% na medida de sua lateral menor e 10% na medida da outra dimensão (lateral maior). O aumento porcentual na medida da área do terreno, em relação a área inicial, foi de",
+    "options": [
+      {
+        "label": "a",
+        "text": "22,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "26,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "28,5%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.1-2fase-q14",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 14,
+    "statement": "O Colégio São Jorge possui um corpo docente composto por 20 professores, dos quais 6 são professores de Matemática. O número de comissões que se podem formar com quatro professores, dentre os quais pelo menos um seja professor de Matemática é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3844.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3638.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2034.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1038.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-2fase-q15",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 15,
+    "statement": "Um cone circular reto, cuja medida da altura é h metros e a medida do raio da base é R metros, é seccionado por um plano paralelo ao plano que contém a base e que dista h/2 metros desta base, ficando dividido em duas partes. A razão entre o volume da parte que contém o vértice do cone inicial e a outra parte é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/21.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/14.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.1-2fase-q16",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 16,
+    "statement": "Em um Quartel Central do Corpo de Bombeiros, diariamente são realizadas simulações de alarme utilizando três equipamentos que alarmam em intervalos regulares: o primeiro equipamento alarma a cada 18 minutos, o segundo, a cada 24 minutos e o terceiro, a cada 40 minutos. Supondo que os três alarmes alarmaram simultaneamente às 8:00 horas da manhã, é correto afirmar que o próximo horário em que os três equipamentos alarmarão simultaneamente será",
+    "options": [
+      {
+        "label": "a",
+        "text": "10:00 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14:00 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6:00 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18:00 horas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.1-2fase-q17",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "O mercado dos peixes, que é um local turístico situado na Avenida Beira-Mar, em Fortaleza – CE, contém 45 boxes de venda e espaços para degustação de diversos frutos do mar frescos. A família de Sabrina foi conhecer o local e quis montar uma refeição com 3 tipos de diferentes peixes e dois tipos de diferentes mariscos. Eles pararam em um box que ofereceu 7 tipos de diferentes peixes e 5 tipos de diferentes mariscos. A quantidade de maneiras diferentes que a família de Sabrina pode montar sua refeição neste box é",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "144.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "350.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.1-2fase-q18",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 18,
+    "statement": "A Fundação Planetário da Cidade do Rio de Janeiro (PlanetaRio), que é o maior equipamento deste tipo na América Latina, possui duas cúpulas (semiesferas): a primeira, denominada de Carl Sagan, tem 23 metros de diâmetro e a segunda, denominada de Galileu Galilei, tem aproximadamente 12 metros de diâmetro. Suponha que, na cúpula menor, foi instalada uma tela curva para projeções, em formato de uma cunha esférica formada por um ângulo central de 60° no centro da cúpula. Assim, é correto afirmar que o volume, em metros cúbicos, dessa cunha esférica formada pela tela é\n\n(Nota: Use π = 3,14.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "150,72.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "48.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "216.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "81,45.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.1-2fase-q19",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 19,
+    "statement": "Suponha que na eleição de 2024 para prefeito em uma cidade brasileira, três candidatos estão concorrendo: candidato A, candidato B e candidato C. Dois dias antes da eleição, uma pesquisa eleitoral com 1.000 pessoas entrevistadas apontou que 45% dos entrevistados disseram que votariam em A, 30% disseram que votariam em B e 25% disseram que votariam em C. Entretanto, 20% dos eleitores de cada candidato afirmaram que ainda poderiam mudar de opinião antes do dia da eleição. A probabilidade (em percentual) de que um eleitor, escolhido aleatoriamente entre os entrevistados, seja declarante de voto no candidato A e mantenha sua decisão até o dia da eleição é",
+    "options": [
+      {
+        "label": "a",
+        "text": "45%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.1-2fase-q20",
+    "examId": "2025.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 20,
+    "statement": "Com vistas às eleições, o TRE de uma cidade resolveu vacinar todos os seus 85 funcionários, dos quais 40% são do sexo feminino. Foram escalados dois vacinadores do posto de vacinação: José e Helena. Helena vacinou as mulheres e José, os homens. Foi observado que durante a vacinação o desempenho operacional de José foi 80% do de Helena. Se Helena levou 3 horas para executar sua tarefa, então, o tempo que José levou para vacinar os homens foi de, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 horas e 10 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5 horas e 37 minutos.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6 horas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-q13",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 13,
+    "statement": "A soma dos divisores positivos do número 9438 que são números primos é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "25.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "26.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "29.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.2-q14",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 14,
+    "statement": "Os gráficos matemáticos são instrumentos fartamente utilizados em múltiplas atividades profissionais. No plano com o sistema de coordenadas cartesianas ortogonal usual, os gráficos das funções reais de variável real f e g, definidas por f(x) = 2^(x²−3) e g(x) = 4ˣ, possuem dois pontos de interseção. O produto das coordenadas desses pontos é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "−48.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "−24.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.2-q15",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 15,
+    "statement": "Uma matriz m x n é um quadro retangular formado por m.n elementos dispostos em m linhas e n colunas. Na maioria dos casos, esses elementos são números. Matrizes são muito usadas em diversas atividades profissionais, principalmente em relatórios e na organização de dados. Envolvendo conceitos, propriedades e cálculos no contexto de Matemática, sobre a matriz $M=\\begin{bmatrix}1&2&3\\\\2&0&2\\\\3&2&-1\\end{bmatrix}$, considere estas afirmativas:\n\nI. O determinante da matriz M é igual a 24.\nII. O traço da matriz M é não nulo.\nIII. A matriz M é invertível.\nIV. Os elementos numéricos da matriz produto M² = M.M são todos positivos.\n\nA quantidade de afirmações corretas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.2-q16",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Um terreno plano é limitado por uma linha fechada na forma de um losango. Se a medida de um dos lados do losango é 20 m e se a medida de um de seus ângulos internos é 60°, então a medida da área do terreno, em m², é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "100√3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "250√3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200√3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "150√3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.2-q17",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 17,
+    "statement": "Uma criança ganhou um brinquedo composto de 8 cubos pequenos, todos com o mesmo tamanho e mesmas dimensões, que, quando encaixados convenientemente, formam um cubo maior. Se a medida da área da superfície total do cubo maior é igual a 384 cm², então a medida da área da superfície total, em centímetros quadrados, de um dos cubos menores é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "64.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "96.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "120.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "168.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-q18",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "Nas permutações simples de n elementos, o que importa é a ordem desses elementos. Por exemplo, se X = {a, b, c}, então abc e cab são permutações simples distintas dos elementos de X. As permutações circulares são caracterizadas pela posição relativa dos elementos entre si. Considerando o conjunto X acima, abc, cab e bca representam a mesma permutação circular. O número de permutações simples dos elementos do conjunto com n elementos é dado por n!, e o número de permutações circulares do mesmo conjunto é dado por (n−1)!. Assinale a alternativa que indica o número de modos como seis homens e seis mulheres, de mãos dadas, podem formar um círculo (roda de ciranda), de forma que pessoas do mesmo sexo não fiquem juntas.\n\n(Nota: n! = 1.2.3.4....n; por exemplo, 4! = 1.2.3.4 = 24.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "(4!).(7!)",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(5!).(6!)",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(5!).(11!)",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(4!).(8!)",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-q19",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 19,
+    "statement": "Se a solução x, y, z do sistema linear\n\nx + y + z = 12\n2x − y + z = 6\nx + 2y − z = 4\n\nsão os três primeiros termos de uma progressão aritmética, podemos afirmar corretamente que a soma dos seus vinte primeiros termos é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "40.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "210.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "128.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "420.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.2-q20",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Uma circunferência com centro no ponto O está inscrita no quadrado XYZW, cuja medida do lado é igual a 10 m. Se N e M são pontos da circunferência que estão respectivamente nos lados XW e YZ do quadrado, seja I no interior do quadrado, a interseção do segmento XM com a circunferência. Se P, em NM, é o pé da perpendicular a NM que passa por I, então a medida, em metros, do segmento IP é igual a\n\n(Nota: Considere os triângulos retângulos PO, IPM.... Use o teorema de Pitágoras. Se precisar, você pode usar OP = MP − r, onde r é o raio da circunferência.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-q21",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 21,
+    "statement": "Seja f: R − {0} → R a função definida por f(x) = x + 1/x. Sobre as características e as propriedades da função f, é possível afirmar:\n\nI. A imagem da função f é o conjunto R − {0}.\nII. A reta cuja equação, no sistema de coordenadas cartesianas ortogonal usual, é x + y = 0 não intercepta o gráfico de f.\nIII. f é uma função ímpar, isto é, f(−x) = −f(x) para todo x no domínio de f.\nIV. A função f é periódica, com período igual a 2.\n\nO número de afirmativas verdadeiras é\n\n(Nota: R é o conjunto dos números reais.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-q22",
+    "examId": "2025.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "Se os números reais −1, 0, 1, u, v são as raízes do polinômio P(x) = x⁵ − 10x³ + 9x, isto é, P(−1) = P(0) = P(1) = P(u) = P(v) = 0, então o produto u.v é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "−9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-2fase-q1",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "A soma dos divisores positivos de 2025 que são também divisores de 2520 é igual a\n\n(Nota: se precisar, use o máximo divisor comum entre 2025 e 2520.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "64.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "68.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "74.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "78.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.2-2fase-q2",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 2,
+    "statement": "Os 40 alunos da turma M7 do ensino médio do Colégio AP realizaram um exame simulado de Ciências Exatas e obtiveram notas com a seguinte distribuição: 4 alunos com nota 3; 6 alunos com nota 5; 10 alunos com nota 6; 9 alunos com nota 8; 6 alunos com nota 9 e 5 alunos com nota 10. A nota média aritmética alcançada pelos alunos da turma foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "6,95.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7,05.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7,15.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7,25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-2fase-q3",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 3,
+    "statement": "A diretoria da empresa GLE é composta de doze membros, entre os quais figuram o Sr. Luís e o Sr. Jorge, sócios majoritários. Assinale a alternativa que apresenta corretamente de quantos modos é possível formar uma comissão com cinco membros da diretoria na qual sempre figurem os dois sócios majoritários.",
+    "options": [
+      {
+        "label": "a",
+        "text": "195.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "220.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "184.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.2-2fase-q4",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 4,
+    "statement": "Seja o número complexo cujo quadrado é igual a −1, e w = (1+2i)/(3+4i) + (2−i)/(5i). Se z é o número complexo tal que w.z = 1, então, z é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/2 + 2i.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2/3 + 2i.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2/3 − 2i.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/2 − 2i.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2025.2-2fase-q5",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "Um losango situado no interior de uma circunferência é tal que seus lados são dois raios e duas cordas da circunferência. Se o comprimento da circunferência é 37,8m, então, a medida, em m², da área do losango é igual a\n\n(Nota: considere π=3,15.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "8√3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12√3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "18√3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "21√3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.2-2fase-q6",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Um retângulo está inscrito em um semicírculo cuja medida do raio é igual a 1cm. Se a medida da área do retângulo é a maior possível, então, a razão entre as medidas do menor e do maior lado do retângulo é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "√2/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "√3/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.2-2fase-q7",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 7,
+    "statement": "Se as medidas dos lados de um triângulo são respectivamente 3m, 5m e 7m, e, se a medida do menor ângulo interno desse triângulo é aproximadamente 22 graus, então, as medidas, em grau, dos outros dois ângulos internos são, aproximadamente,\n\n(Nota: se precisar, use cos120° = −1/2.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "120 e 38.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "113 e 45.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "110 e 48.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "105 e 53.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.2-2fase-q8",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "No plano, com o sistema de coordenadas cartesiano ortogonal usual, a equação da parábola cujo foco é o ponto (2,−1), e a diretriz é a reta x + 2y + 5 = 0 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4x² − y² − 30x − 4y + 10xy = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4x² + y² − 30x −10y − 4xy = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4x² + y² − 30x + 10y + 4xy = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4x² + y² − 30x −10y − 8xy = 0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-2fase-q9",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 9,
+    "statement": "O número de vértices de um poliedro convexo que possui oito faces triangulares e cinco faces quadrangulares é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.2-2fase-q10",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "A superfície total, em m², de um prisma reto cuja medida da altura é 10m e a base é um triângulo retângulo isósceles cuja medida da hipotenusa é 6m é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "20√18 − 78.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30√18 + 78.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20√18 + 78.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30√18 − 78.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.2-2fase-q11",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 11,
+    "statement": "No plano com o sistema de coordenadas cartesiano ortogonal usual, uma elipse está no primeiro quadrante, tem seu centro no ponto (3, 2) e é tangente aos eixos coordenados. Se os eixos desta elipse são paralelos aos eixos do sistema de coordenadas, sua equação é",
+    "options": [
+      {
+        "label": "a",
+        "text": "9x²+ 4y² − 54x − 16y + 61 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9x²+ 4y² + 54x − 16y − 61 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4x²+ 9y² − 24x − 36y + 36 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4x²+ 9y² − 24x − 36y − 36 = 0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.2-2fase-q12",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 12,
+    "statement": "Suponha que, durante uma pandemia, o número de casos ativos de uma doença em uma cidade é dado pela função F(t) = F0.2^(kt), onde F0 é o número de casos no início da observação, t é o tempo (em dia), e k, uma constante positiva. Se, em cinco dias, o número de casos triplicou, o tempo necessário, a partir de t=0, para que o número de casos seja dez vezes o número inicial é, aproximadamente,\n\n(Nota: se precisar, considere que log₁₀3 é 0,48.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "17 dias.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "21 dias.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.2-2fase-q13",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "A soma das raízes da equação sen³x + sen(−x) = 0 que estão no intervalo [0, 2π] é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "7π/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5π/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7π.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5π.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.2-2fase-q14",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 14,
+    "statement": "O número 2 como raiz da equação x⁴ − 8x³ + 20x² − 16x = 0 tem multiplicidade igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-2fase-q15",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 15,
+    "statement": "Um cone circular reto é tal que, ao planificarmos a sua superfície lateral, temos um setor circular com ângulo central igual a 2π/5 de um círculo de raio igual a 5m. É correto afirmar que a medida, em m³, do volume do cone é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "(√24/3)π.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(√21/3)π.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(√18/3)π.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(√16/3)π.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-2fase-q16",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 16,
+    "statement": "Se a progressão geométrica (an) tem 50 termos, e o primeiro termo e a razão são ambos iguais a 3, então, a soma log(a1) + log(a2) + .... + log(an) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1285.log3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1275.log3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1265.log3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1255.log3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-2fase-q17",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "No plano, com o sistema de coordenadas cartesiano ortogonal usual, considere o triângulo cujos vértices estão sobre o gráfico da função real de variável real definida por f(x) = x² − 6x − 7, sendo um deles o ponto de mínimo de f. Se um dos lados do triângulo está sobre a reta cuja equação é y = −12, então, é correto afirmar que a medida, em m², da área do triângulo é igual a\n\n(Nota: a unidade de comprimento usada no sistema de coordenadas é o metro.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2025.2-2fase-q18",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 18,
+    "statement": "Suponha que H⁺(S) representa a concentração de hidrogênio, em íons-grama por litro, de uma substância S e que o pH da substância S é dado por pH(S) = log(1/H⁺(S)). Se uma substância S0 possui concentração de Hidrogênio em íons-grama por litro igual a 1,1.10⁻⁹ então o pH de S0 é aproximadamente igual a\n\n(Nota: considere o logaritmo decimal e log11 = 0,0414, aproximadamente.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2025.2-2fase-q19",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 19,
+    "statement": "Para ilustrar um problema, um professor de Matemática levou, para a sala, uma caixa contendo doze bolas idênticas e numeradas de 1 a 12. Um aluno retirou aleatoriamente uma bola da caixa. A probabilidade que a bola retirada tenha um número par ou um múltiplo de três é",
+    "options": [
+      {
+        "label": "a",
+        "text": "7/12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5/8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2025.2-2fase-q20",
+    "examId": "2025.2-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 20,
+    "statement": "O determinante da matriz $M=\\begin{bmatrix}1&2\\\\4&3\\end{bmatrix}$ é não nulo, portanto, M é invertível. Seja $\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}$ a matriz inversa de M. É correto afirmar que a soma a + b + c + d é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

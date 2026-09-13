@@ -590,5 +590,37 @@
     "edition": "2024.2",
     "examType": "especifico",
     "sourceFile": "UECE 2024.2 - 2a fase - Fisica e Quimica.pdf"
+  },
+  {
+    "id": "2025.1",
+    "institution": "UECE",
+    "year": 2025,
+    "edition": "2025.1",
+    "examType": "geral",
+    "sourceFile": "UECE 2025.1 - PROVA - 1a fase.pdf"
+  },
+  {
+    "id": "2025.1-2fase",
+    "institution": "UECE",
+    "year": 2025,
+    "edition": "2025.1",
+    "examType": "especifico",
+    "sourceFile": "UECE 2025.1 - 2a fase - Fisica e Quimica.pdf"
+  },
+  {
+    "id": "2025.2",
+    "institution": "UECE",
+    "year": 2025,
+    "edition": "2025.2",
+    "examType": "geral",
+    "sourceFile": "UECE 2025.2 - PROVA - 1a fase.pdf"
+  },
+  {
+    "id": "2025.2-2fase",
+    "institution": "UECE",
+    "year": 2025,
+    "edition": "2025.2",
+    "examType": "especifico",
+    "sourceFile": "UECE 2025.2 - 2a fase - Fisica e Quimica.pdf"
   }
 ]
