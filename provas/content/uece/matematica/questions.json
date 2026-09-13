@@ -37438,5 +37438,1925 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-q13",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 13,
+    "statement": "Se p e q são números distintos que satisfazem a equação z² − 2z + 2 = 0, então, p² + q² é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "−2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-q14",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 14,
+    "statement": "O gráfico da função f: R → R, f(x) = 3x² + 2x − 5 é uma parábola. A equação da reta horizontal tangente a esta parábola é",
+    "options": [
+      {
+        "label": "a",
+        "text": "y = −1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "y = −16/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "y = +16/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "y = −5/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-q15",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 15,
+    "statement": "A medida do volume, em m³, de um cubo inscrito em uma esfera cuja medida do raio é 1 m é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "(4/3)√3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(8/3)√3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(8/9)√3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(4/9)√3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-q16",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 16,
+    "statement": "Se a, b e c são as raízes da equação x³ − 3x² + 4x − 2 = 0, então, o valor de $\\log_{1/2}(2/a+2/b+2/c)$ é igual a\n\n(Note: $\\log_{1/2}(X)$ ≡ logaritmo de X na base 1/2.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "−2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-q17",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "No plano, com o sistema de coordenadas cartesianas usual, usando o metro como unidade de comprimento, se os pontos M = (0, 3√3), P = (−w, 0) e Q = (w, 0), w > 0 são os vértices de um triângulo equilátero e pertencem ao gráfico da função real de variável real f(x) = Kx² + 3√3, então é correto afirmar que o valor de K, em metros, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "−√3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−√3/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "−√2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−√2/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-q18",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 18,
+    "statement": "Em relação a um triângulo cujas medidas dos lados são respectivamente 3 m, 5 m e 7 m, pode-se afirmar corretamente que a soma das medidas, em graus, dos seus dois menores ângulos internos é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "70.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "80.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-q19",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 19,
+    "statement": "A quantidade de números com cinco dígitos distintos formados com os algarismos 1, 3, 4, 6 e 7 que são menores do que 60 000 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "46.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "58.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "81.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-q20",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Se XYZW é um quadrado cuja medida do lado é 2 cm e cujo centro é o ponto P, então a medida, em cm², da área do triângulo isósceles YPK, cuja base é o segmento YP e cujo vértice K está no prolongamento do lado WX do quadrado, é igual a\n\n(Nota: Veja que o segmento YP está contido na diagonal YW do quadrado.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-q21",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 21,
+    "statement": "Se (x, y, z) é a solução da equação matricial $\\begin{bmatrix}1&1&1\\\\2&2&1\\\\1&2&1\\end{bmatrix}\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}=\\begin{bmatrix}6\\\\7\\\\8\\end{bmatrix}$, então, o produto x.y.z é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "−4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "−10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-q22",
+    "examId": "2026.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 22,
+    "statement": "Usando-se as propriedades dos logaritmos, é correto concluir que o valor da expressão log₈2 − log₆216 + log₈₁3 + log₁₀1 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "−29/12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−7/12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "−5/12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−19/12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q1",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 1,
+    "statement": "Se i é o número complexo cujo quadrado é igual a −1, então o valor de $\\dfrac{5i^{27}+3i^{16}-i^{32}}{(1+i).(1-i)}(2i)$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 + 3i.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5 + 2i.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5 − 3i.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 − 2i.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q2",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 2,
+    "statement": "Mariana investiu R$ 12.000,00 com rendimentos de 12% ao mês. Ao final do terceiro mês, resgatou o capital investido, recebendo um valor aproximado de",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 16.648,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 16.768,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 16.860,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 16.960,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q3",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 3,
+    "statement": "No plano, com o sistema de coordenadas cartesiano usual, usando o metro como unidade de comprimento, a reta y = √3x + 3 − √3 intercepta a circunferência x²+y²−6x−6y+14=0 nos pontos P e Q. A medida, em metros, do segmento PQ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q4",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 4,
+    "statement": "Se, ao dividirmos o polinômio P(x) = x⁵ − x⁴ + x³ − x² + 2x + 1 por D(x) = ax² + bx + c, onde a, b e c são coeficientes numéricos constantes, obtivermos o quociente Q(x) = x³ − 1 e o resto R(x) = x + 2, então é correto afirmar que o produto a.b.c é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "−1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q5",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 5,
+    "statement": "Se p e q são números que satisfazem a equação x² − 9x + 8 = 0, então a soma log₂p + log₄p + log₂q + log₄q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "5/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q6",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 6,
+    "statement": "Em um restaurante, um grupo de 5 casais ocupam uma mesa circular, em que os 10 lugares existentes nessa mesa são identificados com números inteiros ordenados de 1 a 10. As 5 mulheres ocupam as posições pares e os 5 homens as demais. Considerando o grupo completamente posicionado, é correto afirmar que a quantidade de maneiras diferentes como os assentos disponíveis podem ser ocupados por essas 10 pessoas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.200.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.220.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14.440.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.400.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-2fase-q7",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 7,
+    "statement": "O volume, em m³, de um tronco de cone circular reto cujas medidas dos raios das bases maior e menor são respectivamente iguais a 3 m e 2 m e a medida da altura é igual a 1,5 m, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "11,5 π.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10,5 π.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9,5 π.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7,5 π.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q8",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "Considere o plano com o sistema de coordenadas cartesianas usual, usando o cm como unidade de comprimento. Identificando o número complexo a + bi com o par (a, b), a medida da área, em cm², do triângulo cujos vértices são a origem do sistema de coordenadas e os pontos identificados com as raízes da equação z² − 6z + 14 = 0 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1,5√5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2√5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3√5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,5√5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q9",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 9,
+    "statement": "Sejam P1 e P2 duas pirâmides regulares (faces laterais congruentes) sendo P1 hexagonal e P2 triangular, ambas com medida da altura igual a 3 cm. Se os vértices da base de P1 são os pontos X, Y, Z, W, P, M de uma circunferência cuja medida do raio é igual a 2 cm e os vértices de P2 são os pontos X, Z e P, então a diferença entre os volumes, em cm³, de P1 e P2 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3√3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2√3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4√3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5√3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q10",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 10,
+    "statement": "Considerando que o colégio Saber+ quer escolher três alunos dentre os 11 alunos da turma A para representá-lo em um vestibular simulado da Uece, é correto afirmar que o número de maneiras como essa escolha pode ser feita é",
+    "options": [
+      {
+        "label": "a",
+        "text": "415.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "390.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "269.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "165.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-2fase-q11",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 11,
+    "statement": "Ao considerarmos a seguinte equação matricial $\\begin{bmatrix}2&-3&3\\\\4&3&5\\\\-4&2&-6\\end{bmatrix}\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}=\\begin{bmatrix}14\\\\6\\\\0\\end{bmatrix}$, é correto concluir-se que x + y + z é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-2fase-q12",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 12,
+    "statement": "Na sequência 1, −√3, 3, −3√3, 9, −9√3, 27, −27√3, 81, ...., a soma dos seus primeiros oito termos ímpares com seu nono termo é igual a\n\n(Nota: se (aₙ) é a sequência, o que se pede é a1+a3+a5+....+a15+a9.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "3361.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3331.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3351.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3341.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-2fase-q13",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "Considere a função real de variável real f definida por f(x) = 3/(2+cosx). Se p e q são os valores máximo e mínimo que a função f assume quando x varia no conjunto dos números reais, então p.q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q14",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 14,
+    "statement": "Se log2 (logaritmo decimal de 2) é igual a 0,3010, então é correto afirmar que log(5.√3200) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,4730.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2,4515.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,4630.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,4416.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-2fase-q15",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "No plano, com o sistema de coordenadas cartesianas usual, usando o metro como unidade de comprimento, o gráfico das retas x + y − 2 = 0 e x + y − 3 = 0, juntamente com os eixos coordenados, limitam uma região contornada por um trapézio cuja medida da área, em m², é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "(3/5)√2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2/5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(5/2)√2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-2fase-q16",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 16,
+    "statement": "Considere, no plano, um trapézio isósceles cuja base menor é 2dm, a base maior 8dm e a altura igual a 4dm. No espaço tridimensional, a medida do volume em m³ do sólido obtido a partir da rotação da área desse trapézio em torno da base maior é aproximadamente igual a\n\n(Nota: considere π aproximadamente igual a 3,14.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,201.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,221.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,224.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,226.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q17",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Uma transportadora de carga cobra R$ 60.000,00 para transportar 40 toneladas de carga em um percurso de 150 km. Nestas condições o valor a ser cobrado para transportar 60 toneladas de carga em um percurso de 250 km é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 120.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 160.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 140.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 150.000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-2fase-q18",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 18,
+    "statement": "Se a variável x é tal que 0 < x < π/2 e se 8tg²x + cotg²x = 9, então é correto afirmar que (senx).(cosx) pode ser igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/4 ou (2√2)/9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2 ou (2√2)/9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2/3 ou (2√3)/9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/4 ou (2√3)/9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-2fase-q19",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "No plano, com o sistema de coordenadas cartesianas usual, usando o metro como unidade de comprimento, considere as retas que são gráficos das equações x + y = 0; x − 3y + 8 = 0 e 3x − y − 8 = 0. Essas retas se interceptam duas a duas em três pontos M, P e Q. Assim, a medida, em m², da área do triângulo MPQ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "14.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-2fase-q20",
+    "examId": "2026.1-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 20,
+    "statement": "Se M é uma matriz quadrada e n é um número inteiro maior do que um, usaremos a notação Mⁿ = M.M.M....M (n fatores). Se $M=\\begin{bmatrix}1&1\\\\1&1\\end{bmatrix}$ e se $S=M+M^2+M^3+\\cdots+M^9=\\begin{bmatrix}x&y\\\\z&w\\end{bmatrix}$, então x + y + z + w é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2044.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2048.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2084.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2088.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-q13",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 13,
+    "statement": "A forma geral de um número complexo z é z = x + iy, onde x e y são números reais, e i é o número complexo cujo quadrado é igual a −1. Em um plano munido do referencial cartesiano ortogonal usual, pode-se identificar o número complexo z = x + iy com o par ordenado (x, y). Com essa identificação, a expressão (4 + 6i)/(1 − i) será identificada com",
+    "options": [
+      {
+        "label": "a",
+        "text": "(1, 3).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(1, 5).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(−1,5).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(−1, 3).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-q14",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 14,
+    "statement": "Se, para os números reais a e b, a divisão do polinômio P(x) = x⁴ + x² + ax + 1 por Q(x) = x² + x + b é exata, então a soma a + b é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-q15",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "Sabe-se que, se a e b são números reais positivos, o gráfico da equação ax² + by² = ab desenhado em um plano, munido do sistema de coordenadas cartesiano ortogonal usual, é uma elipse cujo centro é a origem do sistema. Se o ponto Q(1,0) pertence ao gráfico, e o ponto P(0, √3) é um dos focos da elipse, então o produto ab é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-q16",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 16,
+    "statement": "No espaço tridimensional, a medida em m³ do volume de um cubo inscrito em uma esfera cuja medida do raio é igual a 1 metro, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "8√2/9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9√2/8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8√3/9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9√3/8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-q17",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "Sejam XYZW um quadrado cuja medida do lado é igual a 6 cm, e M, o ponto médio do lado XY. Se E é um ponto do lado XW, F é um ponto do lado WZ, G é um ponto de ZM, de modo que EGFW seja um quadrado, então, a medida, em cm², da área do quadrilátero XMGE é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-q18",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "Em um plano, munido do sistema de coordenadas cartesiano ortogonal usual XOY, usando o metro como unidade de comprimento, a medida em m², da região limitada pelo eixo y e pelos gráficos das funções f(x) = 3, g(x) = 2 e m(x) = x − 3 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "4,0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-q19",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 19,
+    "statement": "Uma loja vende barras de chocolate de dois tipos: Premier, ao preço de x reais a barra, e Special, ao preço de y reais por barra, sendo a relação entre os preços y = 1,5x. A loja resolveu fazer a seguinte promoção: leve 5 chocolates Premier e pague 3. Leve 5 chocolates Special e pague 4. Um comprador, que, aproveitando a promoção na íntegra, levou 10 barras (5 Special e 5 Premier) obteve, então, um desconto, em percentual, na sua compra igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "22%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "25%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "28%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-q20",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 20,
+    "statement": "Considere as funções reais, de variável real positiva, definidas por f(x) = log₃(x) e g(x) = (x−1)/2. No plano munido do sistema de coordenadas cartesianas ortogonal usual, usando o metro como unidade de comprimento, os gráficos das funções f e g possuem dois pontos de interseção P e Q cujas coordenadas de ambos são números inteiros não negativos. Nessas condições, a distância, em metros, entre P e Q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "√3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "√5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-q21",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 21,
+    "statement": "Luís foi ao cinema com seus pais e seus dois irmãos. Eles tinham lugares consecutivos em uma fila paralela à tela de projeção. Assinale a opção que indica corretamente de quantas maneiras podem sentar-se de modo que Luís fique sempre entre seu pai e sua mãe e, portanto, nenhum dos irmãos de Luís fique ao seu lado.",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-q22",
+    "examId": "2026.2",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 22,
+    "statement": "O valor do número real a para que o determinante da matriz $\\begin{bmatrix}a&2&3\\\\4&5&6\\\\1&7&8\\end{bmatrix}$ seja igual a −1 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q1",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 1,
+    "statement": "Após a realização de alguns exames, o laboratório S. Januário determinou que, em um certo grupo de pessoas, 80% têm sangue do tipo O, e 65% têm fator RH positivo. Com base nisso, é correto afirmar que, nesse grupo de pessoas, a porcentagem de doadores universais é de\n\n(Nota: um indivíduo de sangue do tipo O e fator RH negativo é dito um doador universal. Considere, para esta questão, que cada pessoa tem apenas um fator RH: positivo ou negativo.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "35%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20% no mínimo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15% no mínimo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q2",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 2,
+    "statement": "Um tabuleiro de xadrez consiste em um quadrado dividido em 64 subquadrados iguais, os quais estão pintados nas cores branca ou preta, de forma que, em cada uma das 8 linhas e em cada uma das 8 colunas, subquadrados adjacentes tenham cores distintas. Assinale a opção que fornece o número correto de modos de escolher dois subquadrados de cores diferentes e em linhas diferentes nesse tabuleiro.",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.792",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "896",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.024",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "448",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q3",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 3,
+    "statement": "Se o número real x, maior que 1, é tal que log₄ₓ2 = log₄2 + log₁ᵢₓ2, então log₂x é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1 + √2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(1 + √5)/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(1 + √3)/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1 + √5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q4",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 4,
+    "statement": "A soma dos divisores positivos e ímpares do número 2.916 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.372.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.186.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.093.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7.651.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q5",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 5,
+    "statement": "Diz-se que uma reta tangencia uma parábola quando tem um único ponto em comum com a parábola e, além disso, não é paralela ao eixo de simetria da parábola. No plano, com o sistema de coordenadas cartesiano usual, se as retas distintas r e s passam pelo ponto (1, −1) e tangenciam a parábola de equação y = x², então a soma dos coeficientes angulares de r e s é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q6",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 6,
+    "statement": "Seja V o vértice da pirâmide cuja base é o quadrado PQRS. Utilizando o metro (m) como unidade de comprimento, se os triângulos PVR e QVS são isósceles, retângulos em V, e cada um possui área igual a 1 m², é correto afirmar que o volume da pirâmide VPQRS, em m³, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q7",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "As medidas dos ângulos internos do triângulo XYZ são 50, 60 e 70 graus nos vértices X, Y e Z, respectivamente. Se a circunferência que passa pelos vértices do triângulo tem centro no ponto O, é correto afirmar que a medida do ângulo OXY é, em graus,",
+    "options": [
+      {
+        "label": "a",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q8",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 8,
+    "statement": "Seja K a circunferência inscrita no quadrado MNPQ, cuja medida do lado é 2 metros. Se E for uma circunferência tangente aos lados MN e QM e também tangente a K, então a medida do raio de E, em metros, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "4 - 2√2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 - 2√2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2 - √2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "√2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q9",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 9,
+    "statement": "Se o traço da matriz $\\begin{bmatrix}x&z\\\\y&w\\end{bmatrix}$ é, por definição, a soma x + w, então podemos afirmar corretamente que o único valor de m tal que as matrizes $M=\\begin{bmatrix}m&2m\\\\1&3m\\end{bmatrix}$ e M² tenham o mesmo traço é\n\n(Nota: por definição, M² = M.M.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "−1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q10",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 10,
+    "statement": "A soma das raízes da equação sen(2x) = tg(x), que pertencem ao intervalo (0,π), é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "π/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3π/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "π/4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "π.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-2fase-q11",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 11,
+    "statement": "Se x1, x2 e x3 são as raízes do polinômio P(x) = x³ − x² − 4x + 4 e se q = x1² + x2² + x3² − 6, então P(q) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q12",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 12,
+    "statement": "Sejam f,g:R→R funções definidas por f(x) = x + 5 e g(x) = x² − 6|x| + 5, onde |x| representa o módulo do número real x. No plano, com o sistema de coordenadas cartesianas ortogonal usual, usando o metro como unidade de comprimento, os gráficos de f e g possuem três pontos de interseção. A soma das coordenadas desses pontos, em metros, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "17.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "19.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "21.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q13",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 13,
+    "statement": "Se −1 é uma das raízes de P(x) = x³ + mx² + nx − 3, em que m e n são números reais, e se o resto da divisão de P(x) por x − 1 é igual a 4, então P(−3) + P(3) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "76.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "84.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "86.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q14",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 14,
+    "statement": "Considere os seguintes subconjuntos do conjunto dos números inteiros positivos: X₂, o conjunto dos múltiplos de 2; X₃, o conjunto dos múltiplos de 3; X₅, o conjunto dos múltiplos de 5; X₇, o conjunto dos múltiplos de 7. Se X = X₂ ∩ X₃ ∩ X₅ ∩ X₇, a quantidade de elementos de X que são menores que 10.000 é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "45.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "46.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "47.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q15",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "Em um plano munido do sistema de coordenadas cartesianas ortogonal usual, utilizando o centímetro (cm) como unidade de comprimento, as retas x = 2 e x = 6 tangenciam a circunferência x² + y² − 8x − 6y + 21 = 0 nos pontos X e Y, respectivamente. Se Z = (2,0) e W = (6,0), então a medida, em cm², da região do plano interior ao quadrilátero XYWZ e exterior à circunferência é",
+    "options": [
+      {
+        "label": "a",
+        "text": "12 - π.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 - π/4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12 - 2π.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 - 3π/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-2fase-q16",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Sejam XYZ um triângulo retângulo em Y, M o ponto médio do lado XY e P o pé da perpendicular a XZ que passa por M. Se a medida do lado XY é igual a 6 metros, e a medida do segmento PM é igual a 3/2 metros, então a medida, em metros, do segmento MZ é igual a\n\n(Nota: procure determinar o ângulo interno no vértice X do triângulo XYZ.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "√21.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "√21/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "√21/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2√21.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-2fase-q17",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "No supermercado Preço Azul, onde um quilo de arroz custa R$ 6,00, uma promoção foi lançada: compre mais de 4kg de arroz e receba um desconto de 15% nos quilos de arroz que excederem 4kg. Por exemplo, na compra de 7kg, ganha-se 15% de desconto em 3kg. Um consumidor, aproveitando a promoção, comprou 200kg de arroz. O desconto percentual que ele obteve foi de",
+    "options": [
+      {
+        "label": "a",
+        "text": "11,6%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12,2%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14,7%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15,3%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q18",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 18,
+    "statement": "Em uma grande cidade, há um parque aberto a visitação da população, o qual dispõe de sete portões de acesso, abertos aleatoriamente segundo o cronograma semanal: segunda-feira abre-se um portão, terça-feira abrem-se dois portões, quarta-feira abrem-se três e assim sucessivamente até domingo, quando todos os sete portões são abertos. Nessas condições, o número de maneiras distintas em que os portões podem ser abertos semanalmente é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "169.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "134.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "128.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "127.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-2fase-q19",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 19,
+    "statement": "O número 49 foi decomposto aditivamente em 5 parcelas que, se apresentadas em ordem crescente, constituem uma progressão aritmética cuja razão é igual a 2/5. A soma do segundo e do quarto termos dessa progressão é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "18,4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18,8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "19,2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "19,6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-2fase-q20",
+    "examId": "2026.2-2fase",
+    "discipline": "matematica",
+    "topic": "estatistica-probabilidade",
+    "number": 20,
+    "statement": "Se escolhermos aleatoriamente um número n do conjunto {1,2,3,...,245}, a probabilidade de n ser divisível por 5 ou por 7 é, aproximadamente, igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "27%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "29%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "31%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "33%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

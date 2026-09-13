@@ -33534,5 +33534,1797 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-q39",
+    "examId": "2026.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 39,
+    "statement": "Um tubo em formato de U, com extremidades abertas e de seção reta uniforme, encontra-se parcialmente preenchido com um líquido de densidade d. Nesta situação, os níveis do líquido de densidade d são iguais em ambos os ramos de U (nível primitivo). Derrama-se lentamente, no ramo da direita, um segundo líquido de densidade d'<d, que não se mistura com o primeiro, e espera-se o equilíbrio. Nessa situação, observa-se que a superfície horizontal livre do segundo líquido de densidade d' encontra-se a uma distância vertical Y acima da superfície horizontal livre do líquido de densidade d presente no ramo oposto. Sabendo que os líquidos são incompressíveis e que a superfície livre do líquido de densidade d no ramo esquerdo elevou-se a uma altura H, em relação ao seu nível primitivo, a razão d'/d é",
+    "options": [
+      {
+        "label": "a",
+        "text": "H/(H+Y).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2H/(2H+Y).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "H/Y.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Y/(2H+Y).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-q40",
+    "examId": "2026.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 40,
+    "statement": "Uma partícula executa um MHS (movimento harmônico simples) de amplitude A ao longo do eixo Ox, com o centro de oscilações situado em O. No instante em que a partícula passa pela posição x igual a A/2, a razão entre sua energia cinética K e energia potencial U é dada por R. Desconsiderando a ação de forças resistivas, é correto afirmar que o valor de R² é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-q41",
+    "examId": "2026.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 41,
+    "statement": "Um entusiasta em eletrônica possui a sua disposição uma caixa com capacitores comerciais dos tipos A e B. Os capacitores do tipo A e do tipo B apresentam, respectivamente, em seus corpos as especificações 100uF/25V e 1000uF/25V. Ao retirar da caixa M capacitores do tipo A e N capacitores do tipo B, o entusiasta desenvolve dois experimentos simples. No primeiro experimento, mede a capacitância equivalente de um circuito obtido a partir da associação, em paralelo, de todos os capacitores, resultando em 2300uF. No segundo experimento, com todos os capacitores ligados em série, obtém, a partir do circuito montado, uma capacitância equivalente de 31,25uF. Considere os valores dos capacitores como exatos e ideais (sem tolerância), todos em perfeito estado, e que todas as unidades foram efetivamente utilizadas nas associações. Com base nos resultados obtidos pelo entusiasta, a razão M/N é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "32/23.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "23/10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-q42",
+    "examId": "2026.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 42,
+    "statement": "Em um experimento de óptica, um estudante observa um raio de luz monocromática que se propaga de um meio A (índice de refração na) para um meio B (índice de refração nb), com na > nb, separados por uma superfície plana. Considerando que ambos os meios são transparentes, homogêneos e isotrópicos, sobre as propriedades da luz nessa situação, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o comprimento de onda da luz no meio A é maior do que no meio B.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o raio de luz se aproxima da reta normal a superfície de separação entre os meios ao passar de A para B.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a frequência da luz se altera ao passar do meio A para o meio B.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a velocidade da luz no meio A é menor do que a velocidade da luz no meio B.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-q43",
+    "examId": "2026.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 43,
+    "statement": "Duas partículas, A e B, partem simultaneamente da origem do plano xy em Movimento Retilíneo Uniforme (MRU). A partícula A desloca-se, ao longo do eixo x no sentido positivo, com velocidade constante de módulo Va. A partícula B move-se no primeiro quadrante, com velocidade constante de módulo Vb, em uma direção que forma um ângulo θ (onde 0°< θ <90°) com o eixo x positivo. A razão, Va/Vb, após o início do movimento, de modo que o vetor AB que conecta as partículas A e B, com origem na partícula A e extremidade na partícula B permaneça sempre paralelo ao eixo y, ou seja, com componente horizontal nula, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "cos(θ).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "sen(θ).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tg(θ).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "cotg(θ).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-q44",
+    "examId": "2026.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 44,
+    "statement": "Em um experimento didático de termodinâmica, um gás ideal monoatômico é submetido a um ciclo termodinâmico através de um processo quase estático e reversível composto por três etapas distintas: (i) uma expansão isobárica, na qual o volume do gás aumenta de V1 para V2 sob pressão constante P1; (ii) um resfriamento isocórico, em que o volume é mantido em V2 e a pressão é reduzida até um valor P2 (P2 < P1) por meio da troca de calor com um reservatório térmico; (iii) uma compressão adiabática, que retorna o gás ao seu estado inicial, caracterizado pelo volume V1 e pressão P1. Considerando o comportamento do gás ideal e que todas as transformações são quase estáticas, assinale a opção que corresponde à afirmação verdadeira sobre o ciclo.",
+    "options": [
+      {
+        "label": "a",
+        "text": "O trabalho total realizado pelo gás no ciclo é nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A temperatura do gás no estado final é maior que no estado inicial.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O trabalho total realizado no ciclo é maior do que zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A variação da energia interna do gás ao longo do ciclo é positiva.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-q45",
+    "examId": "2026.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 45,
+    "statement": "Duas cargas pontuais q1 e q2 encontram-se no vácuo, localizadas no plano xy nas coordenadas (0,0) e (0,d) respectivamente. Essas cargas se atraem com uma força elétrica de módulo F. Em seguida, desloca-se a carga q1 para a coordenada (X, 0), com X > 0, de forma que a força elétrica entre as cargas q1 e q2 passa a ser F/2. Nesse contexto, pode-se afirmar corretamente que as cargas possuem",
+    "options": [
+      {
+        "label": "a",
+        "text": "sinais contrários e X = d.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o mesmo sinal e X = d.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "sinais contrários e X = 2d.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o mesmo sinal e X = d/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-q46",
+    "examId": "2026.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 46,
+    "statement": "Em um sistema coerente de unidades em que as unidades fundamentais são representadas por L (comprimento), M (massa) e T (tempo), a unidade de trabalho é representada por W. Ao considerar um segundo sistema de unidades coerente no qual as novas unidades fundamentais correspondem a 2L, 3M e 2T do sistema anterior, a nova unidade de trabalho é dada por W'. Sendo assim, a razão W'/W é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q1",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "fisica-moderna",
+    "number": 1,
+    "statement": "A Física de Partículas investiga fenômenos que ocorrem em altas energias e em escalas extremamente pequenas, nas quais os efeitos relativísticos, associados à velocidade da luz c, medida em m/s, e os efeitos quânticos, relacionados à constante de Planck (dividida por 2π) ħ medida em J·s, tornam-se fundamentais. Nesse contexto, utiliza-se um sistema de unidades naturais, em que essas constantes universais são incorporadas às equações, simplificando-as e refletindo a estrutura essencial das leis físicas. Adotando-se c=ħ=1, todas as grandezas passam a ser expressas em potências de energia (ou, de forma equivalente, de massa). Sabendo que, no sistema internacional de unidades (SI), as dimensões fundamentais são comprimento (L), massa (M) e tempo (T), a constante de gravitação universal G de Newton possui, em unidades naturais, a sua dimensão dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/M².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/M.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/M³.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "M².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-2fase-q2",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 2,
+    "statement": "Um bloco cúbico homogêneo de aresta L e densidade d flutua parcialmente submerso em uma cuba preenchida com um líquido de densidade D. Na face superior do bloco, existe uma cavidade cúbica, aberta superiormente, de aresta igual a L/2, escavada centralmente, de modo que a cavidade não atinge o fundo nem as faces laterais do bloco. Ao despejar-se, lentamente, o líquido presente na cuba nessa cavidade, o bloco começa a submergir até ficar na iminência de afundar definitivamente. Nessas condições, o volume V de líquido que deve ser colocado na cavidade, admitindo-se que o bloco permanece na vertical durante o processo, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "(1 − d/D)(L³/8).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(1 − d/D)L³.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(8 −7d/D)(L³/8).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(7 − 8d/D)(L³/8).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q3",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 3,
+    "statement": "Satélites artificiais são utilizados em diversas aplicações, como comunicações (TV, Rádio, Internet, GPS) e monitoramento da Terra (Meteorologia, Mapeamento Ambiental). O movimento orbital desses satélites é mantido pela força gravitacional da Terra, que atua como resultante centrípeta do movimento. Desprezando a resistência do ar, considere um satélite que descreve uma órbita circular de período T em torno da Terra, de raio R e aceleração da gravidade de módulo g em sua superfície. Se o satélite está a uma altitude h acima da superfície, de modo que o raio de sua órbita é R+h, o valor de T²g/4π², em termos de R e h, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "(R+h)²/R.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R³/(R+h)².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(R+h)³/R.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(R+h)³/R².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-2fase-q4",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 4,
+    "statement": "O estudo das condições de equilíbrio de corpos rígidos, além de permitir compreender dispositivos de sustentação e apoio, ilustra como relações puramente geométricas podem determinar a intensidade das forças de reação. Um exemplo clássico é o de uma barra apoiada simetricamente na superfície interna de um hemisfério. Considere um hemisfério rígido de raio R, com o plano meridiano vertical que contém seu eixo de simetria. Uma barra homogênea e indeformável, de comprimento L e peso P, é colocada de modo que suas extremidades se apoiem simetricamente em dois pontos da superfície interna do hemisfério. Admita que as forças de contato sejam normais à superfície (sem atrito), e que a barra esteja em equilíbrio na horizontal. Sabendo que 0 < L < 2R e que a intensidade de cada reação normal é N, o valor de (P/N)² é",
+    "options": [
+      {
+        "label": "a",
+        "text": "(4R² − L²)/R².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(4R² − L²)/4R².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4R²/(4R² − L²).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4R²/(R² − L²).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-2fase-q5",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 5,
+    "statement": "A combinação entre motores térmicos e refrigeradores representa uma aplicação prática importante em engenharia, como nos sistemas de cogeração, em que parte do trabalho produzido por um motor pode ser usada para acionar uma máquina frigorífica. Essa análise permite compreender melhor o papel do rendimento e do coeficiente de desempenho (COP), indicador de eficiência energética em sistemas de refrigeração, nos processos reversíveis e reais. Considere um sistema composto por duas máquinas operando em série e sem perda de acoplamento. O motor I funciona entre duas fontes de temperaturas T1 e T3 (T1 > T3), absorvendo da fonte quente uma quantidade de calor Q1 e fornecendo um trabalho W. Seu rendimento é igual a 60% do rendimento de um motor de Carnot operando entre as mesmas temperaturas. O trabalho W, por sua vez, é inteiramente utilizado para acionar uma máquina frigorífica de Carnot (Máquina II) que opera entre temperaturas T3 (fonte quente) e T4 (fonte fria), removendo uma quantidade de calor Q4 da fonte fria. Supondo que, para o sistema aqui descrito, T1 = 600 K, T3 = 400 K e T4 = 300 K, a razão Q4/Q1 é\n\n(Nota: O COP da Máquina II é calculado pela razão entre o calor removido Q4 da fonte fria e o trabalho W realizado para isso.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,45.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,75.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,60.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q6",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 6,
+    "statement": "Dispositivos de aceleração linear (linacs) aumentam a energia cinética de partículas carregadas, fazendo-as atravessar sucessivos \"gaps\" onde existe uma diferença de potencial elétrica. Em cada gap, uma partícula de carga q recebe um acréscimo em sua energia elétrica de qΔVk, onde ΔVk é a diferença de potencial entre as placas do k-ésimo gap. Sendo assim, considere uma partícula de massa m e carga q, inicialmente em repouso, que atravessa N gaps idênticos em um linac. Além disso, suponha que os gaps foram projetados de modo que as diferenças de potencial ΔVk tenham um ajuste geométrico, ou seja, ΔVk = ΔVr^(k−1) para k = 1, 2, …, N, com r > 0. Nessa última relação, ΔV representa um acréscimo constante no potencial. Ademais, medindo-se a velocidade da partícula imediatamente após o N-ésimo gap, obtém-se U. Com base nesses dados, a razão carga/massa q/m da partícula vale\n\n(Nota: admita que não há perdas por radiação nem por colisões e que as velocidades permanecem em regime não relativístico durante todo o processo.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "U²/(2NΔV).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "U²(r−1)/[2ΔV(r^N−1)].",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "U²/[2ΔV(r^N−1)].",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "U²(r−1)/(2NΔV).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q7",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 7,
+    "statement": "Em um laboratório de Física, um estudante realiza um experimento com um espelho esférico côncavo de Gauss, de distância focal F, que se encontra imerso em meio homogêneo e transparente. Um objeto linear de altura H é colocado a uma distância 3F do vértice do espelho. Forma-se então uma imagem real de altura Y a uma distância X do vértice do espelho. Em seguida, o objeto é posicionado a distância X do vértice do mesmo espelho, onde dá origem a uma outra imagem de altura Z. Assim, é correto afirmar que a razão Z/Y entre as alturas das imagens é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-2fase-q8",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 8,
+    "statement": "Alguns dispositivos não ôhmicos (filamentos incandescentes ou componentes semicondutores) apresentam relação não linear entre tensão e corrente, podendo, em certos intervalos de operação, admitir dois valores de corrente para a mesma tensão aplicada. Modelos quadráticos simples são úteis para descrever esse comportamento de forma empírica. Um dispositivo não ôhmico apresenta uma relação entre a diferença de potencial V (em volts) e a corrente I (em ampères) dada por V = −AI² + BI, com A > 0 e B > 0. Quando duas amostras idênticas desse dispositivo são ligadas em paralelo a uma diferença de potencial fixa V0, com 0 < V0 < B²/4A, as correntes que percorrem cada amostra correspondem às duas raízes reais e positivas I1 e I2 da equação quadrática acima. Suponha que, no regime de operação considerado, uma das correntes seja três vezes a outra, isto é, I2 = 3I1. Nessas condições, a tensão V0 (expressa em termos de A e B) vale",
+    "options": [
+      {
+        "label": "a",
+        "text": "B²/8A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "B²/4A.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3B²/16A.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "B²/16A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q9",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 9,
+    "statement": "O uso de transformadores em práticas didáticas permite a compreensão de conceitos físicos, como a indução eletromagnética e a transformação de tensão. Um destes transformadores, com enrolamento primário contendo 2400 espiras, é ligado a uma rede elétrica de 120 V (tensão nominal no primário). O secundário do transformador possui derivações, entre as quais as de 6 V e 12 V. Em um teste típico, uma mesma lâmpada é conectada sucessivamente às derivações, e as potências dissipadas são medidas, sendo P6 = 5 W e P12 = 20 W. Com base nesses dados, o número de espiras correspondente à derivação de 12 V é",
+    "options": [
+      {
+        "label": "a",
+        "text": "180.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "200.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "240.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "300.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q10",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 10,
+    "statement": "Em equipamentos elétricos reais, há sempre perdas internas de natureza resistiva e, em certas situações, a condição de ajuste do equipamento para atingir a potência útil máxima é relevante, como em otimização de conversores ou no condicionamento de carga. Uma fonte ideal de tensão de 120 V alimenta um equipamento cujo modelo elétrico pode ser representado por uma resistência interna r=10 Ω (responsável pelas perdas) em série com uma resistência ajustável R, correspondente à carga útil do equipamento. Quando o equipamento é ajustado de modo que a potência dissipada na resistência R é máxima, a corrente elétrica I, que percorre o circuito, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "6 A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24 A.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12 A.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8 A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.1-2fase-q11",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 11,
+    "statement": "O fenômeno de interferência entre ondas sonoras é explorado em testes de acústica, calibração de alto-falantes e cancelamento ativo de ruído. Quando duas fontes emitem ondas de mesma frequência e fase, as regiões do espaço podem apresentar som intenso (interferência construtiva) ou quase silêncio (interferência destrutiva), conforme a diferença de caminho percorrido pelas ondas. Dois alto-falantes idênticos emitem sons de mesma frequência e em fase, sendo colocados frente a frente a 4,0 m de distância entre si. Um estudante caminha ao longo da linha que liga os dois alto-falantes e percebe alternância entre regiões de som intenso e regiões de quase silêncio. Sabendo que a frequência emitida é de 340 Hz e que a velocidade de propagação do som no ar é de 340 m/s, a distância entre dois pontos consecutivos de silêncio é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,25 m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,50 m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,0 m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2,0 m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q12",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 12,
+    "statement": "Considerando duas escalas termométricas lineares A e B, calibradas nas CNTP, com temperaturas de vaporização da água dadas respectivamente por TA e TB, determinou-se a variação entre os pontos de vaporização da água e fusão do gelo para as escalas A e B, obtendo-se os valores ΔA e ΔB respectivamente. Assim, é correto afirmar que a temperatura T que apresenta o mesmo valor numérico nas duas escalas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "(TAΔB − TBΔA)/(ΔB − ΔA).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(TAΔB + TBΔA)/(ΔB + ΔA).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(TAΔA − TBΔB)/(ΔA − ΔB).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(TA − TB)/(ΔA − ΔB).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-2fase-q13",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 13,
+    "statement": "O estudo do movimento harmônico simples (MHS) é frequentemente facilitado pelo modelo de movimento circular uniforme (MCU), do qual o MHS é a projeção sobre o diâmetro tomado como eixo de referência. Em um experimento, um oscilador harmônico de amplitude A é observado em quatro instantes igualmente espaçados ao longo de um período T, correspondendo a quatro posições igualmente distribuídas no círculo que representa o MCU. O deslocamento medido sobre o diâmetro a partir da posição de equilíbrio é dado por x(t) = Acos(2πt/T). Nessas condições, o valor da soma dos deslocamentos x1 + x2 + x3 + x4, correspondentes aos instantes t = 0, T/4, T/2 e 3T/4, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2A.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q14",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 14,
+    "statement": "Um entregador de mercadorias deve percorrer uma trajetória retilínea de comprimento L em um intervalo de tempo T. Para percorrer o primeiro quarto da trajetória (L/4), ele utiliza a metade do intervalo de tempo. O valor do módulo da velocidade vetorial média necessária para percorrer o restante do percurso de forma que ele consiga realizar a entrega no intervalo de tempo T é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2L/3T.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3L/2T.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3L/T.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "L/T.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q15",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 15,
+    "statement": "Em um violão devidamente afinado, duas cordas C1 e C2, de mesmo comprimento L, submetidas às tensões T1 e T2 respectivamente, vibram no primeiro harmônico. Sendo a razão entre suas densidades lineares de massa μ1/μ2 = 2, é correto concluir que a relação entre as tensões T1/T2 para que as duas cordas vibrem na mesma frequência fundamental deve ser igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q16",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 16,
+    "statement": "Uma partícula de massa M é lançada horizontalmente da coordenada (0,H) do plano XY, com velocidade V, no vácuo nas proximidades da superfície da Terra. Ao tocar o solo, a partícula encontra-se na coordenada (A,0). Assim, é correto afirmar que a coordenada X, medida a partir da origem quando a partícula tiver percorrido o primeiro quarto da altura H, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "A/4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A/5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q17",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 17,
+    "statement": "Os vetores são fundamentais na Física, pois permitem representar grandezas que possuem direção, sentido e intensidade, como força, velocidade e campo elétrico. Sua utilização possibilita descrever e compreender fenômenos que ocorrem no espaço tridimensional, facilitando o estudo do movimento, das interações e dos campos. A álgebra vetorial fornece as operações e propriedades necessárias para manipular essas grandezas com rigor matemático e coerência física. Sobre a álgebra vetorial, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o produto escalar entre dois vetores resulta em outro vetor.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o produto vetorial entre dois vetores paralelos é o vetor nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a soma vetorial entre dois vetores quaisquer resulta em outro vetor cujo módulo é sempre igual à soma dos módulos dos vetores componentes.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o produto escalar entre dois vetores ortogonais nunca é nulo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.1-2fase-q18",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 18,
+    "statement": "Uma carga pontual de módulo q e massa m é abandonada na origem do plano XY em repouso no vácuo. Nessa região, existe um campo elétrico uniforme E orientado da esquerda para a direita, cujas linhas de campo são paralelas ao eixo x. Desprezando a força gravitacional, é correto afirmar que, nessas condições,",
+    "options": [
+      {
+        "label": "a",
+        "text": "a carga permanecerá em repouso.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se a carga for negativa, ela se deslocará ao longo o eixo x negativo com aceleração de módulo mq/E.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se a carga for positiva, ela se deslocará ao longo do eixo x positivo com aceleração de módulo qE/m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se a carga for negativa, ela se deslocará na direção vertical para cima com aceleração de módulo mqE.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.1-2fase-q19",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 19,
+    "statement": "Em um laboratório, estudam-se duas lentes, L1 e L2, esféricas de índices de refração iguais a n imersas em meios transparentes isotrópicos. A lente L1 (biconvexa) está em um meio de índice de refração n1 > n, já a lente L2 (bicôncava) está em um meio de índice de refração n2 < n. Para essa configuração, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "L1 é convergente e L2 é convergente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "L1 é convergente e L2 é divergente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "L1 é divergente e L2 é divergente.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "L1 é divergente e L2 é convergente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.1-2fase-q20",
+    "examId": "2026.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 20,
+    "statement": "Um fio condutor retilíneo muito longo encontra-se no plano XY, orientado na direção vertical ao longo do eixo Y. O fio é percorrido por uma corrente constante I no sentido de baixo para cima. No primeiro quadrante, encontra-se uma espira condutora quadrada de lado L e resistência R que se move com velocidade constante V, para a direita, afastando-se do fio. Durante todo o movimento, dois de seus lados permanecem paralelos ao fio. Considerando o meio como vácuo, analise as seguintes afirmações:\n\nI. O fluxo do campo magnético produzido pelo fio, através da espira, é constante no tempo; portanto, pela Lei de Faraday, a força eletromotriz induzida na espira é nula.\nII. O fluxo magnético através da espira varia com o tempo, devido à variação espacial da intensidade do campo do fio sobre a área da espira conforme ela se afasta, gerando força eletromotriz induzida.\nIII. A força magnética resultante sobre a espira é não nula e aponta no sentido de afastá-la do fio.\n\nÉ correto somente o que se afirma em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I e III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-q39",
+    "examId": "2026.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 39,
+    "statement": "A cinemática é o ramo da Física que se dedica à descrição dos movimentos dos corpos, sem considerar as causas que os produzem. Para isso, ela estabelece conceitos fundamentais, como posição, velocidade e aceleração, além de classificar os movimentos com base em suas características, como trajetória e variação da velocidade. Considerando os princípios da cinemática, analise as seguintes assertivas.\n\nI. O movimento retilíneo uniformemente variado com aceleração escalar constante maior que zero é sempre progressivo, isto é, com velocidade escalar positiva ao longo de toda sua trajetória.\nII. Uma partícula que descreve um movimento circular uniforme possui o vetor velocidade constante ao longo de toda sua trajetória.\nIII. A velocidade média de uma partícula entre dois pontos A e B de uma trajetória qualquer depende apenas da razão entre a variação do espaço e o intervalo de tempo entre esses pontos.\n\nSobre as assertivas, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "apenas I e II são verdadeiras.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "apenas II e III são verdadeiras.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "apenas III é verdadeira.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "apenas I é verdadeira.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-q40",
+    "examId": "2026.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 40,
+    "statement": "As leis da Termodinâmica estabelecem princípios fundamentais sobre as transformações de energia em sistemas físicos, permitindo analisar processos como trocas de calor, realização de trabalho e funcionamento de máquinas térmicas. Nesse contexto, os conceitos de transformações reversíveis, irreversíveis e cíclicas são essenciais para a descrição termodinâmica dos sistemas. Considerando os princípios da Termodinâmica, analise as seguintes afirmações referentes a um gás ideal.\n\nI. Uma transformação irreversível é aquela na qual não é possível retornar o sistema e suas vizinhanças aos estados iniciais sem que ocorram modificações permanentes no meio externo.\nII. Em uma transformação cíclica, a variação da energia interna do sistema é nula sempre que o sistema retorna ao ponto inicial, pois essa grandeza depende apenas do estado termodinâmico desse sistema.\nIII. Mesmo operando de forma reversível entre duas fontes térmicas, mantidas a temperaturas distintas, uma máquina térmica não pode converter integralmente o calor recebido em trabalho.\n\nSobre as assertivas, é correto afirmar que são verdadeiras",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "II e III, apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I, II e III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-q41",
+    "examId": "2026.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 41,
+    "statement": "Considere um espelho côncavo de distância focal f. Uma fonte de luz monocromática puntiforme é posicionada a uma distância d>2f do espelho, a uma altura h (h≪f) acima do eixo principal do espelho. A fonte emite um raio luminoso paralelamente ao eixo principal do espelho. O raio incide em um ponto do espelho suficientemente próximo do eixo principal, de modo que sejam válidas as condições de Gauss. Após refletir no espelho, o raio cruzará o eixo principal a uma determinada distância do vértice. Considerando as condições descritas, pode-se afirmar corretamente que a distância percorrida pelo raio refletido, desde o ponto de incidência no espelho até o ponto onde ele atinge o eixo principal é aproximadamente igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "(h² + f²)^(1/2).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "[h² + (2f)²]^(1/2).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "[2h² + (f/2)²]^(1/2).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(4h + 2f).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-q42",
+    "examId": "2026.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 42,
+    "statement": "Considere um triângulo obtuso isósceles ABC, no vácuo, cujos lados AB e BC são iguais e que o ângulo interno no vértice B mede 120°. Nos vértices A e C, são fixadas duas cargas elétricas puntiformes positivas de mesmo valor Q. No ponto médio do segmento AC, é fixada uma terceira carga elétrica puntiforme q. Uma quarta carga elétrica puntiforme q' é colocada no vértice B e permanece em equilíbrio eletrostático sob ação exclusiva das forças elétricas exercidas pelas demais cargas do sistema. Considerando pequenas perturbações na posição da carga q', em qualquer direção no plano que contém as cargas, assinale a opção que descreve corretamente a natureza do equilíbrio eletrostático dessa carga no ponto B e a relação entre os sinais das cargas q e q'.",
+    "options": [
+      {
+        "label": "a",
+        "text": "As cargas q e q' possuem sinais opostos, e o equilíbrio de q' em B é estável.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "As cargas q e q' possuem sinais iguais, e o equilíbrio de q' em B é estável.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "As cargas q e q' possuem sinais iguais, e o equilíbrio de q' em B é instável.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "As cargas q e q' possuem sinais opostos, e o equilíbrio de q' em B é instável.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-q43",
+    "examId": "2026.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 43,
+    "statement": "Três cilindros homogêneos, de mesma área da base A e mesma altura h, são constituídos de materiais de densidades X, Y e Z, com X<Y<Z. Os cilindros são rigidamente colados, formando um único cilindro de altura total 3h. O conjunto é inserido lentamente e verticalmente em um fluido de densidade D, atingindo, assim, o equilíbrio. Nessa situação, o cilindro de densidade X permanece na parte superior; o de densidade Y, na parte intermediária, e o de densidade Z, na parte inferior. Diante do exposto, a fração do volume total do conjunto que permanece submersa é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "(X+Y+Z)/(3D).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "D/(X+Y+Z).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(X+Y+Z)/D.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "D/[3(X+Y+Z)].",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-q44",
+    "examId": "2026.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 44,
+    "statement": "Em um experimento computacional, estudantes utilizam um software de simulação para modelar um planeta esférico e homogêneo. No modelo, todas as dimensões lineares do planeta são reduzidas por um fator k, com 0<k<1, mantendo-se constante a densidade média do planeta. Os estudantes observam que essa transformação afeta diretamente a aceleração da gravidade medida na superfície do planeta, passando originalmente de g para g'. A expressão que fornece a razão entre g' e g é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "k.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "k².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/k².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-q45",
+    "examId": "2026.2",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 45,
+    "statement": "Um bloco homogêneo, de base horizontal de comprimento b e altura h, repousa sobre uma superfície horizontal rugosa, cujo coeficiente de atrito estático é μ. Uma força horizontal F, de módulo variável, é aplicada a uma altura y em relação à base. À medida que a intensidade de F aumenta, o bloco pode iniciar seu movimento por deslizamento ou por rotação em torno da aresta inferior da base, isto é, por tombamento. Sendo assim, a condição necessária para que o bloco inicie seu movimento por tombamento antes de deslizar é",
+    "options": [
+      {
+        "label": "a",
+        "text": "Y<b/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Y>b/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Y<μb.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Y>b/(2μ).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-q46",
+    "examId": "2026.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 46,
+    "statement": "Uma partícula de massa m, presa à extremidade de um fio leve e inextensível de comprimento L, pode realizar dois tipos de movimento distintos sob a ação da gravidade: em um primeiro caso, oscila com pequenas amplitudes em um plano vertical; em um segundo caso, descreve movimento circular uniforme em um plano horizontal, mantendo o fio esticado e formando um ângulo θ constante com a vertical. Desprezando efeitos dissipativos, e sendo Tv e Th os períodos dos movimentos nos planos vertical e horizontal, respectivamente, a razão (Th/Tv)² é",
+    "options": [
+      {
+        "label": "a",
+        "text": "cosθ.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "senθ.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "tanθ.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "secθ.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q1",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "Um bloco de massa M move-se verticalmente preso a um fio ideal, em um local onde a aceleração da gravidade tem módulo g = 10 m/s². Em uma primeira situação, o bloco é puxado para cima com aceleração constante de módulo a1, sendo a tração no fio igual a T1. Em uma segunda situação, o bloco desce com aceleração constante de módulo a2, sendo a tração no fio igual a T2. Sabendo que T1 − T2 = 120N e a1 + a2 = 20m/s², o valor de M em kg é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-2fase-q2",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 2,
+    "statement": "Em um experimento realizado em uma região onde a aceleração da gravidade tem módulo g, uma partícula de massa m move-se sobre um plano horizontal sem atrito com velocidade constante de módulo V. Ela colide frontal e elasticamente com outra partícula de mesma massa, inicialmente em repouso, localizada na base de um plano inclinado sem atrito. Após a colisão, a segunda partícula sobe o plano inclinado até atingir uma altura máxima H, medida em relação à base do plano. Desprezando quaisquer perdas de energia, o valor de H é",
+    "options": [
+      {
+        "label": "a",
+        "text": "V²/(18g).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "V²/(4g).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "V²/(2g).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "V²/g.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q3",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 3,
+    "statement": "Considere um experimento no qual uma fonte de tensão ideal pode ser conectada a dois resistores ôhmicos idênticos, cada um de resistência elétrica R, por meio de fios condutores ideais. Inicialmente, os dois resistores são conectados em série entre si e, em seguida, ligados à fonte. Nessa configuração, a associação dissipa uma potência elétrica total P1. Em seguida, os dois resistores são associados em paralelo e conectados novamente à mesma fonte. Nessa nova configuração, a associação dissipa uma potência elétrica total P2. Nessas condições, a razão P1/P2 entre as potências dissipadas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q4",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 4,
+    "statement": "Uma massa de 1g de H2O encontra-se inicialmente no estado sólido (gelo) à temperatura de 0 °C. Em seguida, essa amostra é posta em contato com um reservatório térmico capaz de manter a temperatura constante de 1 °C. Após um tempo suficientemente longo, a amostra de água atinge o equilíbrio térmico com o reservatório. Considerando o calor latente de fusão do gelo 80 cal/g e o calor específico da água líquida 1,0 cal/g°C, foram feitas as seguintes observações.\n\nI. A amostra de água encontra-se completamente no estado líquido ao final do processo.\nII. A quantidade total de calor absorvida pela amostra, desde o início do processo até o equilíbrio, é de 81cal.\nIII. Durante o processo, a entropia da massa de H2O diminui.\n\nEstão corretas as afirmações",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "II e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I, II e III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q5",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 5,
+    "statement": "A reflexão total da luz é um fenômeno óptico que ocorre sob certas condições. Considere dois meios A e B com índices de refração NA e NB, respectivamente separados por uma superfície horizontal. Considerando essas informações, assinale a opção correta.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Se NA > NB, haverá reflexão total quando a luz parte do meio A em direção ao meio B, incidindo na superfície de separação com um ângulo limite α = arcsen(NB/NA).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "A reflexão total pode ocorrer em qualquer direção seguida pela luz.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Se NB > NA, haverá reflexão total desde que a luz parta do meio A em direção ao meio B incidindo na superfície de separação com um ângulo de incidência α < arcsen(NA/NB).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A reflexão total da luz só ocorre quando a fonte de luz estiver no espectro do visível.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q6",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 6,
+    "statement": "Em um experimento de interferência de dupla fenda, realizado no vácuo, um feixe de luz monocromática de comprimento de onda λ incide perpendicularmente sobre duas fendas estreitas separadas por uma distância D. Em um anteparo situado a uma distância L das fendas, observa-se um padrão de interferência com franjas claras e escuras. A posição do primeiro mínimo de intensidade medida a partir do máximo central é denotada por Y. Em uma primeira configuração do experimento, os parâmetros são D, L e Y, com λ sendo o comprimento de onda da luz utilizada. Em uma segunda configuração, mantendo-se a fonte de luz, a distância entre as fendas é alterada para 2D e a distância entre as fendas e o anteparo é alterada para 4L. Nessas condições, é correto afirmar que, na segunda configuração,",
+    "options": [
+      {
+        "label": "a",
+        "text": "o comprimento de onda da luz se altera para 2λ, e a nova posição do primeiro mínimo Y' é igual a Y.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o comprimento de onda da luz permanece λ, e a nova posição do primeiro mínimo Y' é igual a 2Y.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o comprimento de onda da luz permanece λ, e a nova posição do primeiro mínimo Y' é igual a Y/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "o comprimento de onda da luz se altera para λ/2, e a nova posição do primeiro mínimo Y' é igual a 2Y.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q7",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 7,
+    "statement": "Considere uma casca esférica condutora em equilíbrio eletrostático, de raio externo R, contendo uma cavidade esférica concêntrica de raio r < R. O condutor possui carga total positiva Q. Seja x a distância ao centro da esfera. Nessas condições, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "no interior da cavidade (x < r), o campo elétrico é nulo, e o potencial elétrico é constante.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "na região r < x < R, o campo elétrico varia inversamente com o quadrado da distância ao centro.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "para x > R, o potencial elétrico é nulo em qualquer ponto do espaço.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "no interior do material condutor, o campo elétrico possui módulo constante e diferente de zero.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q8",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 8,
+    "statement": "Equipamentos de ressonância magnética nuclear utilizam campos magnéticos intensos para obtenção de imagens médicas de alta resolução. Em muitos casos, a intensidade desses campos pode ser expressa tanto em tesla (T), unidade do Sistema Internacional, quanto em gauss (G). Sabendo que 1 T = 10⁴ G, pode-se afirmar corretamente que um campo magnético de 100 G corresponde, em tesla, a",
+    "options": [
+      {
+        "label": "a",
+        "text": "10⁻².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10³.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q9",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 9,
+    "statement": "Considere um pêndulo simples ideal constituído por uma partícula de massa m presa a um fio leve, inextensível e de comprimento L. O pêndulo oscila sob a ação do campo gravitacional terrestre, cujo módulo da aceleração é g. O ponto de suspensão do pêndulo está fixado a um suporte que se move horizontalmente, para direita, com aceleração constante de módulo a. O pêndulo oscila em um plano vertical que contém a direção da aceleração do suporte. Após um regime transiente, o pêndulo atinge um movimento oscilatório estável em torno de uma nova posição de equilíbrio. Desprezam-se quaisquer formas de atrito ou resistência do ar. Nessas condições, o período T das pequenas oscilações do pêndulo em torno dessa nova posição de equilíbrio é dado por",
+    "options": [
+      {
+        "label": "a",
+        "text": "2π√(L/g).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2π√(L/(g+a)).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2π√(L/(g²+a²)^(1/2)).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2π√(L/(g−a)).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q10",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 10,
+    "statement": "Considere um gás ideal monoatômico, cujo coeficiente de Poisson é γ, contido em um cilindro com pistão. Inicialmente, o gás ocupa um volume V e está sob pressão P. O gás sofre uma expansão isobárica até atingir o volume KV com K>1. Durante esse processo, o gás realiza um trabalho W1 sobre o ambiente. Em seguida, o gás é comprimido do volume KV para o volume V por meio de uma transformação adiabática reversível. Nessa compressão, o ambiente realiza um trabalho W2 sobre o gás. Desprezam-se quaisquer perdas por atrito e considera-se que o gás se comporta idealmente em todas as etapas. Com base nessas informações, a razão entre os módulos dos trabalhos |W2|/|W1| é",
+    "options": [
+      {
+        "label": "a",
+        "text": "(K−1)(K^γ−K)/(1−γ).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(K+1)(γ−1)/K^(1−γ).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(K−1)/K^(1−γ).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(γ−1)/K^(1−γ).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q11",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 11,
+    "statement": "Durante missões recentes de exploração lunar, como o programa Artemis, observa-se que, em determinados trechos da órbita, região conhecida como blackout, a comunicação entre a cápsula e a Terra é temporariamente interrompida. Esse fenômeno ocorre quando a nave se posiciona atrás da Lua em relação à Terra, impossibilitando a comunicação direta por meio de ondas de rádio. A perda de sinal nesse caso ocorre porque",
+    "options": [
+      {
+        "label": "a",
+        "text": "as ondas de rádio são absorvidas pela superfície lunar, impedindo sua reflexão.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "as ondas de rádio sofrem refração significativa ao atravessar o campo gravitacional da Lua.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "as ondas de rádio propagam-se aproximadamente em linha reta, sendo bloqueadas pela Lua quando não há linha direta de visada entre a nave e a Terra.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a intensidade das ondas de rádio diminui com a distância, tornando o sinal indetectável nesse ponto da órbita.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q12",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "Em ambientes urbanos e industriais, a exposição prolongada a níveis elevados de ruído pode causar danos à audição. O nível de intensidade sonora β, medido em decibéis (dB), é definido por β = 10log(I/I0), onde I é a intensidade sonora e I0 é a intensidade de referência. Considere que um ambiente A com nível sonoro de 70 dB, típico de uma conversa em tom elevado, é comparado a outro ambiente B, com nível sonoro de 90 dB, característico de tráfego intenso. A razão entre as intensidades sonoras IB/IA desses dois ambientes é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2026.2-2fase-q13",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 13,
+    "statement": "Projetos recentes de armazenamento de energia utilizam grandes esferas ocas instaladas no fundo dos oceanos, tecnologia conhecida como Stored Energy at Sea. Durante o funcionamento, a água do mar entra nas esferas sob ação da pressão hidrostática, acionando turbinas acopladas a geradores elétricos. Considere uma fazenda formada por 10 dessas esferas idênticas, cada uma com volume de 1000 m³, inicialmente vazias, instaladas a uma profundidade de 100 m em um oceano de densidade média igual a 1000 kg/m³. Para efeito de cálculo, considere que o módulo da aceleração da gravidade local é de 10m/s² e que o trabalho realizado pela água ao preencher cada esfera pode ser aproximado pelo produto da pressão hidrostática pela profundidade considerada pelo volume da respectiva esfera. Despreze a pressão atmosférica. Sabendo que apenas 40% da energia mecânica disponível é convertida em energia elétrica útil e que cada esfera é preenchida em um intervalo de tempo de 1000s, a potência elétrica total gerada pela fazenda de esferas, em megawatts (MW), é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,04.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q14",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 14,
+    "statement": "Considere dois corpos esféricos, a Terra e o Sol. No âmbito de uma analogia com a gravitação clássica, define-se o raio de Schwarzschild de um corpo como o raio para o qual a velocidade de escape se iguala à velocidade da luz no vácuo c. Esse raio está associado à descrição de buracos negros, sendo interpretado como o limite a partir do qual nem mesmo a luz consegue escapar da ação gravitacional do corpo. Sabe-se que a massa do Sol é aproximadamente N vezes a massa da Terra. No que diz respeito a essa analogia clássica, a razão entre o raio de Schwarzschild do Sol R_S^(Sol) e o da Terra R_S^(Terra) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "N.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "N².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "√N.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/N.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q15",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 15,
+    "statement": "Um tubo sonoro aberto em ambas as extremidades emite som correspondente ao seu modo fundamental, de frequência f1. Um observador permanece em repouso enquanto o tubo se desloca em sua direção, ao longo da linha que os une, com velocidade constante u. Considere que a velocidade de propagação do som no ar é v, com u < v. Se a frequência percebida pelo observador é igual à frequência do n-ésimo harmônico emitido pelo tubo, então a razão u/v é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "(n−1)/n.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/n.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(n−1)/(n+1).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/(n−1).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q16",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 16,
+    "statement": "Considere um conjunto de N capacitores idênticos, cada um de capacitância C. Inicialmente, os capacitores são associados em paralelo e conectados a uma bateria de tensão V, até que o sistema atinja o equilíbrio eletrostático. Em seguida, os capacitores são desconectados dessa configuração, passam a ser associados em série entre si e, posteriormente, são reconectados à mesma bateria de tensão V. Sejam Ui e Uf as energias armazenadas no sistema nas configurações inicial e final, respectivamente. A razão Uf/Ui é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "N².",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/N².",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/(N+1).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/(N−1)⁴.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q17",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 17,
+    "statement": "Uma partícula é lançada verticalmente para cima, a partir do solo, com velocidade inicial v0, em um local onde a aceleração da gravidade tem módulo g. Seja T o tempo necessário para que a partícula atinja a altura máxima. Sabe-se que, em um certo instante t, 0 < t < T, a razão entre a altura da partícula e a altura máxima atingida é dada por 3/4. A razão entre o instante correspondente e o tempo T é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3/4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "√3/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2026.2-2fase-q18",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 18,
+    "statement": "Um balão flexível, preenchido com gás, inicialmente com volume V0, encontra-se no interior de um oceano de densidade média igual a ρ. O balão está a uma profundidade h, medida a partir da superfície livre do oceano. Além disso, admita que p0, a pressão absoluta na superfície livre, pode ser representada pela pressão exercida por uma coluna do próprio fluido de altura H. Após ser liberado, o balão sobe, expandindo-se isotermicamente, até romper-se a uma profundidade Y, também medida a partir da superfície livre. Sabendo que imediatamente antes de romper-se o volume do balão era de 2V0, a profundidade Y em que ocorre a ruptura é",
+    "options": [
+      {
+        "label": "a",
+        "text": "(h − H)/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(h + H)/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "h/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(h/2) − H.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2026.2-2fase-q19",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "fisica-moderna",
+    "number": 19,
+    "statement": "Durante o estudo de testes nucleares realizados na atmosfera, físicos observaram que a energia liberada em uma explosão podia ser estimada a partir da evolução temporal do raio da onda de choque gerada. Considere uma explosão aproximadamente esférica ocorrendo em um meio homogêneo de densidade ρ. Após um intervalo de tempo t, a onda de choque atinge um raio R. Nessas condições e a menos de uma constante adimensional, a energia liberada E pode ser escrita na forma ρˣRʸtᶻ. Com base na análise dimensional, o valor numérico de xyz é",
+    "options": [
+      {
+        "label": "a",
+        "text": "−10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2026.2-2fase-q20",
+    "examId": "2026.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 20,
+    "statement": "Um trem de alta velocidade utiliza um sistema de frenagem magnética no qual uma barra condutora metálica desloca-se perpendicularmente sobre trilhos condutores, formando um circuito fechado. Em uma determinada região, existe um campo magnético uniforme perpendicular ao plano do circuito. Durante a frenagem, a barra move-se com velocidade constante v, induzindo uma corrente elétrica no circuito, cuja resistência total é R. Se o comprimento da barra é L, e o módulo do campo magnético é B, o módulo da corrente induzida no circuito é",
+    "options": [
+      {
+        "label": "a",
+        "text": "BLv/R.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Bv/(LR).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "BL/(Rv).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "B/(LRv).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
