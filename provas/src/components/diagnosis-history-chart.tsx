@@ -114,10 +114,7 @@ export function DiagnosisHistoryChart({ snapshots }: { snapshots: DiagnosisSnaps
 
   return (
     <div className="rounded-2xl border border-border bg-card p-5">
-      <div className="mb-1 flex items-center justify-between gap-2">
-        <h3 className="font-heading text-base font-bold text-foreground">Sua evolução</h3>
-        <span className="text-xs text-muted-foreground">vs. diagnóstico anterior</span>
-      </div>
+      <h3 className="mb-1 font-heading text-base font-bold text-foreground">Sua evolução</h3>
 
       {!anyData ? (
         <p className="py-6 text-center text-sm text-muted-foreground">
