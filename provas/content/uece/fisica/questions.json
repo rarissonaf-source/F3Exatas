@@ -29950,5 +29950,901 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q1",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 1,
+    "statement": "Considerando a associação de dois resistores ôhmicos R1 e R2 não nulos, atente para as seguintes afirmações:\n\nI. É possível escolher os valores de R1 e R2 de forma que se possa obter a mesma resistência equivalente quando R1 e R2 são ligados em série ou em paralelo.\nII. Caso se deseje aumentar a resistência equivalente, deve-se ligar os resistores R1 e R2 em série.\nIII. Fatores geométricos como comprimento e área da seção transversal de um resistor podem afetar o valor de sua resistência.\n\nEstá correto o que se afirma em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e II apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "II e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I, II e III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-2fase-q2",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "Atente para o que se afirma a seguir sobre cinemática — ramo da Física que estuda os movimentos dos corpos sem se preocupar com a análise de suas causas:\n\nI. Um móvel com aceleração negativa pode apresentar movimento retilíneo acelerado.\nII. Considerando V0 e V as velocidades inicial e final de um móvel em movimento retilíneo uniformemente variado, a velocidade média deste móvel pode ser calculada por (V0+V)/2.\nIII. No lançamento oblíquo de um projétil, no campo gravitacional da Terra, o módulo da velocidade atinge seu valor mínimo quando o corpo atinge a altura máxima.\n\nÉ correto o que se afirma em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I, II e III.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e II apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "II e III apenas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q3",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 3,
+    "statement": "O copo Stanley (copo térmico) consiste em um dispositivo muito comum que pode ilustrar princípios fundamentais da física relacionados à transferência de calor e isolamento térmico. Ele é famoso pelo fato de funcionar como um bom isolante térmico mantendo as bebidas quentes ou frias por longos períodos de tempo. Sobre as propriedades térmicas do copo Stanley são feitas as seguintes afirmações:\n\nI. Suas paredes duplas separadas por vácuo ajudam a evitar trocas de calor entre o líquido contido no copo e o meio externo.\nII. A corrente de convecção tende a se estabelecer mais facilmente quando o copo contém líquido gelado, sendo necessário o uso de tampa para evitá-la.\nIII. A superfície interna do copo Stanley é construída com um material que tende a evitar trocas de calor ou irradiação térmica.\n\nÉ correto o que se afirma somente em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e III.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "II.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q4",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 4,
+    "statement": "Considerando a força magnética exercida sobre uma partícula carregada com carga Q, dotada de velocidade V, que passa por uma região em que há um campo de indução magnética uniforme B, atente para o que se afirma a seguir e assinale com V o que for verdadeiro e com F o que for falso.\n\n( ) Não depende da direção de V.\n( ) Está contida no plano formado por V e B.\n( ) É nula se V e B forem perpendiculares.\n( ) Tem intensidade máxima se V e B forem perpendiculares.\n\nEstá correta, de cima para baixo, a sequência:",
+    "options": [
+      {
+        "label": "a",
+        "text": "V, V, V, V.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "V, V, F, F.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "F, F, V, F.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "F, F, F, V.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q5",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 5,
+    "statement": "Dois móveis A e B de dimensões desprezíveis partem simultaneamente da origem dos espaços em sentidos opostos com movimento retilíneo uniforme e velocidades de módulos Va e Vb respectivamente. Assim, é correto afirmar que a velocidade relativa de afastamento dos móveis A e B é",
+    "options": [
+      {
+        "label": "a",
+        "text": "Va − Vb.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(Va + Vb)/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Va/Vb.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Va + Vb.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q6",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 6,
+    "statement": "Um jogador de sinuca ao dar uma tacada, a bola passa a se mover na direção positiva do eixo X, passando pela origem do sistema cartesiano com momento linear de módulo P. Após algumas colisões parcialmente elásticas, a bola passa novamente pela origem do sistema cartesiano, em direção ao primeiro quadrante, formando um ângulo de 60 graus com a direção positiva do eixo X. No instante da segunda passagem pela origem, o módulo do momento linear da bola é P/2. Considerando que a bola de sinuca tenha dimensões desprezíveis, é correto afirmar que o módulo do vetor variação do momento linear da bola na origem após as duas passagens é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "P√3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "P.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2P.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "P/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q7",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 7,
+    "statement": "Em um laboratório, um estudante realizou um experimento que consistia em lançar, no vácuo, uma pequena esfera com dimensões desprezíveis. Inicialmente ele lançou a esfera na direção vertical com velocidade inicial de módulo v0 obtendo do equipamento a leitura de uma altura máxima H1. Em seguida, ele resolve realizar o experimento novamente mantendo o módulo da velocidade inicial da esfera igual a v0, mudando apenas o ângulo de lançamento para θ graus com relação à horizontal, o que levou o equipamento a registrar uma altura máxima H2. Sendo g o módulo da aceleração da gravidade, é correto afirmar que o módulo da diferença entre as alturas máximas H1 e H2 vale",
+    "options": [
+      {
+        "label": "a",
+        "text": "$v_0^2\\cos^2\\theta/2g$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$v_0^2\\,\\mathrm{sen}^2\\theta/2g$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$v_0^2\\cos^2\\theta/g$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$v_0^2\\cos^2\\theta$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q8",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 8,
+    "statement": "Um estudante de Física dispõe de um trilho circular de raio R, isolante, centrado na origem do sistema cartesiano. Em um dado instante, são colocadas duas cargas puntiformes positivas +Q nas posições (R, 0) e (0, R). O sistema assim formado produz um campo elétrico resultante E na origem. Assim, as coordenadas (x, y) e o módulo de uma terceira carga positiva que deve ser colocada sobre o trilho de forma a anular o campo elétrico E são, respectivamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "(R/2, R/2) e Q.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(−R√2/2, −R√2/2) e √2Q.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(R√2/2, R√2/2) e √2Q.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(R/3, R/3) e Q.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q9",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 9,
+    "statement": "Considere um experimento em que um bloco em equilíbrio sobre uma tábua de madeira, homogênea e de comprimento L, é suspensa pelas extremidades através de dois fios de mesmo comprimento L0. Esses fios possuem coeficientes de dilatação linear α1 e α2, ligeiramente diferentes, com α1 > α2. Elevando-se a temperatura do sistema lentamente, percebe-se que, após uma variação de temperatura Δθ, o bloco entra na iminência de se movimentar, devido a uma pequena diferença de comprimento entre os fios. Sendo H a diferença entre os comprimentos dos fios após o aquecimento, é correto afirmar que o coeficiente de atrito estático entre a tábua e o bloco é, aproximadamente,\n\n(Para efeito de cálculo, considere sen β aproximadamente igual a tg β, onde β oposto a H é o ângulo formado pela direção horizontal e a tábua após o aquecimento.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(\\alpha_1-\\alpha_2)/\\Delta\\theta L$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$L_0\\Delta\\theta(\\alpha_1-\\alpha_2)/L$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\Delta\\theta(\\alpha_1-\\alpha_2)/L$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$L_0\\Delta\\theta/L$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q10",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 10,
+    "statement": "Um capacitor eletrolítico é um capacitor polarizado que, em geral, devido a sua grande capacitância, é utilizado em circuitos eletrônicos para ignorar sinais de baixa frequência e para armazenar grandes quantidades de energia. Um capacitor eletrolítico de capacitância C, inicialmente descarregado, é carregado através de uma fonte de bancada capaz de estabelecer uma diferença de potencial V entre seus terminais. Desconectado da fonte, o capacitor de Capacitância C é conectado em paralelo a um segundo capacitor de capacitância C/2 inicialmente descarregado. Nessa situação, a conexão é realizada conectando-se os terminais de mesma polaridade dos capacitores, o que resulta, após o equilíbrio, numa diferença de potencial V' entre os terminais da associação. Se a conexão entre os capacitores, agora carregados, for desfeita e os capacitores em seguida forem reconectados em paralelo via terminais de polaridades contrárias, a nova diferença de potencial V'' entre os terminais da associação em termo de V é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2V/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2V/9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "V/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "V.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q11",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 11,
+    "statement": "Em instrumentos musicais de corda, a altura e a frequência do som produzido variam de acordo com o comprimento e a espessura das cordas utilizadas. Feitas em aço ou nylon, por exemplo, as cordas são presas pelas extremidades e podem ser tensionadas por meio de cravelhas. Em um piano, as cordas são percutidas através de martelos. Nesse instrumento, duas das cordas feitas do mesmo material de densidade volumétrica ρ, mas de comprimentos L e 2L, apresentam raios 2R e R respectivamente. Além disso, as cordas percutidas vibram em modo fundamental e estão sujeitas à mesma tensão. Sabendo que a corda de comprimento L vibra com frequência f e que a corda de comprimento 2L vibra com frequência F, a razão f/F é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q12",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 12,
+    "statement": "No laboratório de Física experimental da Universidade Estadual do Ceará, um estudante tem a sua disposição, um bloco de massa M padrão e duas molas de constantes elásticas K e K' ideais. Quando o bloco é acoplado à mola de constante K e posto a oscilar, o estudante verifica que o período do sistema massa mola ideal assim constituído é X. No entanto, quando o bloco é acoplado à mola de constante K', o sistema massa mola, quando posto a oscilar nas mesmas condições iniciais, passa a ter período Y. Além disso, quando acoplado a uma mola, obtida pela associação, em série, das molas de constantes K e K' e sujeito às mesmas condições iniciais, o estudante constata que o período do sistema massa mola é T. Após rápida manipulação matemática, o estudante foi capaz de obter uma expressão para o período T, em termos de X e Y, tal que o quadrado de T é expresso por",
+    "options": [
+      {
+        "label": "a",
+        "text": "X + Y.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "XY/(X + Y).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "X² + Y².",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(X² + Y²)/(XY)².",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-2fase-q13",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 13,
+    "statement": "Um estudante encontra-se de pé em um local, cujo índice de refração é unitário, na borda de uma piscina completamente cheia de água com índice de refração N. O estudante percebe que a diferença entre a profundidade real e a profundidade aparente da piscina é exatamente igual a L. Sendo L a altura do azulejo quadrado utilizado no revestimento da piscina, é correto afirmar que o valor da profundidade real da piscina é",
+    "options": [
+      {
+        "label": "a",
+        "text": "NL/(N − 1).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "NL/(N + 1).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2NL.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2NL/(N + 1).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q14",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 14,
+    "statement": "Um pêndulo simples de massa m e comprimento L encontra-se em repouso, orientado na direção horizontal. O sistema não é conservativo, de forma que, após algumas oscilações, o pêndulo passa por um ponto P alinhado com a direção vertical, com metade da energia mecânica inicial. Sendo g o módulo da aceleração da gravidade no local, é correto afirmar que o quadrado do módulo da velocidade em P é",
+    "options": [
+      {
+        "label": "a",
+        "text": "gL.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2gL.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(gL)/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(gL)/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q15",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 15,
+    "statement": "Um recipiente vazio com 2,5 kg de massa e com capacidade máxima para 2000 cm³ encontra-se suspenso e fixado ao teto por meio de um dinamômetro. Despeja-se lentamente no interior do recipiente 1500 cm³ de água cuja densidade é de 1g/cm³. Em seguida, um bloco cúbico de aço com 10 cm de aresta e de densidade 8g/cm³ é introduzido lentamente no interior do recipiente. A leitura, em newtons, fornecida pelo dinamômetro após a completa introdução do bloco de metal, dado que a aceleração da gravidade local tem módulo 10m/s², é de",
+    "options": [
+      {
+        "label": "a",
+        "text": "40 N.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "120 N.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45 N.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "115 N.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q16",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 16,
+    "statement": "Sistemas estelares binários são comuns em nosso universo. O estudo deste tipo de sistema é de fundamental importância para a astrofísica, pois permite, de forma direta, determinar a massa, o raio e a densidade das estrelas. Um sistema binário formado por um par de estrelas A e B, de massas 2M e M respectivamente, orbita em torno de seu centro de massa comum. Sob a ação da interação gravitacional mútua, as duas estrelas orbitam seu centro de massa em órbitas circulares de mesmo período T. Sabendo que a distância entre o centro das estrelas A e B é d e que G é a constante gravitacional, a expressão que fornece o valor de T²/π² é",
+    "options": [
+      {
+        "label": "a",
+        "text": "d³/MG.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4d³/3MG.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "d³/MG.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "d³/2MG.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q17",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 17,
+    "statement": "Duas superfícies refletoras S1 e S2 côncavas, com mesmo raio de curvatura R, são dispostas com suas partes refletoras frente a frente e com seus centros de curvaturas C1 e C2 coincidentes (C1≡C2≡C). O eixo principal do sistema composto pelas duas superfícies refletoras contém o centro de curvatura C comum e os vértices V1 e V2 das superfícies S1 e S2 respectivamente. Ao longo do eixo principal do sistema composto e a uma distância de R/2 do centro comum C, está localizado um pequeno objeto O. Uma imagem O' é conjugada pelo sistema de superfícies S1 e S2 a partir de O, após reflexão da luz na superfície refletora mais distante de O seguida de uma reflexão na superfície refletora mais próxima de O. Sendo assim, a localização da imagem O', em relação à superfície refletora mais próxima de O em função de R é",
+    "options": [
+      {
+        "label": "a",
+        "text": "R/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5R/6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3R/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3R/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q18",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 18,
+    "statement": "Uma partícula de massa m, inicialmente em repouso na origem O do eixo das abcissas Ox, sofre ação exclusiva de uma força dependente da posição de magnitude F(x) = A(1−x/L), sendo A uma constante dada em unidades do Sistema Internacional (SI). Submetida à ação da força F(x) de magnitude variável, a partícula desloca-se de x = 0 para x = L. Sabendo-se que, em x = L, a velocidade da partícula tem módulo V, a constante A é expressa em termos das variáveis pertinentes por",
+    "options": [
+      {
+        "label": "a",
+        "text": "mV/L.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "V²/2L.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "mV²/L.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "mV²/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-2fase-q19",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 19,
+    "statement": "Um mol de um gás ideal monoatômico, inicialmente à temperatura T0, pode ser levado de um estado inicial para um estado final através de dois processos distintos. No primeiro processo, a temperatura do gás é mantida constante. No segundo processo, a pressão do gás é mantida constante. Sabendo que no estado inicial o volume ocupado pelo gás é V0 e no estado final o volume ocupado pelo gás é 4V0, a razão entre a quantidade de calor absorvido pelo gás ao longo do primeiro processo e a quantidade de calor absorvido pelo gás ao longo do segundo processo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "(2ln4)/15.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(ln4)/5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q20",
+    "examId": "2024.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 20,
+    "statement": "Uma partícula de massa m está presa à extremidade de um fio de comprimento L. Quando posta a girar, com velocidade angular constante ω, a partícula descreve, num plano vertical, uma trajetória circular de raio L e centro em C. Além disso, o módulo da tensão no fio quando a partícula se encontra no ponto mais alto de sua trajetória A vale Y e no ponto mais baixo B de sua trajetória circular vale X. Desconsiderando quaisquer efeitos resistivos e adotando como g o módulo da aceleração da gravidade local, o módulo da tensão no fio em um ponto P da trajetória, ao longo de uma direção que passa por C e forma com a direção que passa por C e A um ângulo θ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "(1 + cos θ)X/2 + (1 − cos θ)Y/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(cos θ)X/2 + (sen θ)Y/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(1 − cos θ)X/2 + (1 + cos θ)Y/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(sen θ)X/2 + (cos θ)Y/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-q39",
+    "examId": "2024.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 39,
+    "statement": "Dois móveis A e B partem juntos da origem, em t = 0s, em trajetórias retilíneas seguindo direções que formam ângulo de 60°. Suas funções horárias são SA(t) = 40t e SB(t) = 30t + 5t² em unidades do (SI). A distância, em metros, entre os móveis A e B dois segundos após o início do movimento é",
+    "options": [
+      {
+        "label": "a",
+        "text": "√80.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "80.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4√15.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-q40",
+    "examId": "2024.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 40,
+    "statement": "Um estudante de Física resolveu construir uma escala termométrica X e observou que uma variação de 40° na escala Celsius corresponde a uma variação de 60° na escala X. Sabendo que 20 °X corresponde ao ponto de fusão da água, é correto afirmar que o ponto de ebulição da água em graus X é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "200.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "150.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "170.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "90.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-q41",
+    "examId": "2024.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 41,
+    "statement": "Em um laboratório de óptica, sobre um trilho óptico, encontram-se uma lente convergente e a sua direita um espelho côncavo, alinhados e separados por uma distância x. Um objeto linear é colocado sobre o trilho, à esquerda da lente, levando-a a produzir uma imagem real e do mesmo tamanho do objeto. A imagem produzida pela lente funciona como objeto para o espelho côncavo que produz uma imagem do mesmo tamanho do objeto, porém invertida em relação à imagem produzida pela lente. Sendo F e f os focos da lente convergente e do espelho côncavo respectivamente, é correto afirmar que o valor de x é",
+    "options": [
+      {
+        "label": "a",
+        "text": "F + f.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2(F + f).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2(F − f).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Ff.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-q42",
+    "examId": "2024.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 42,
+    "statement": "Uma carga elétrica positiva Q, de massa desprezível, movimenta-se em trajetória retilínea com velocidade constante de módulo V quando penetra em uma região do espaço onde existe um campo elétrico uniforme de módulo E e um campo magnético uniforme de módulo B. Observa-se que, após adentrar na referida região, a carga segue seu movimento sem nenhuma alteração de sua velocidade ou mesmo em sua trajetória. Assim, pode-se afirmar corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "os campos E e B são perpendiculares e o módulo da velocidade V da carga pode ser dado pela razão E/B.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "isso é possível pelo fato de não existirem forças atuando sobre a carga Q.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "os campos E e B são paralelos, porém em sentidos contrários de forma que se anulam.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "os campos E e B são paralelos e o módulo da velocidade V da carga pode ser dado pela razão E/B.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-q43",
+    "examId": "2024.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 43,
+    "statement": "Uma partícula de massa m executa um Movimento Harmônico Simples (MHS) de amplitude L, ao longo do eixo das abscissas Ox, com centro das oscilações em P não coincidente com O, origem de Ox. O quadrado da velocidade V da partícula guarda, com sua posição x, uma relação funcional curiosa expressa por V²(x) = Ax² + Bx + C, com A, B e C constantes dadas em unidades do Sistema Internacional (SI). Sabendo que B² − 4AC = Δ > 0 e que quaisquer efeitos resistivos são negligenciáveis, a amplitude L desse MHS é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "B/A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "C/A.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "√Δ/2A.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Δ/4A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-q44",
+    "examId": "2024.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 44,
+    "statement": "Um operário faz uso de um palete munido de rodízios para transportar caixas em um armazém. A presença dos rodízios torna o atrito entre o palete e o assoalho desprezível. Além disso, o atrito entre as caixas e o palete, ambos confeccionados em madeira, não é desprezível e apresenta coeficiente de atrito estático igual a 0,5. Para o transporte de uma única caixa de massa igual a 30 kg, assentada sobre o palete, o operário aplica sobre ela uma força horizontal de módulo F paralela ao assoalho. Dessa maneira, o conjunto todo passa a mover-se sem que haja movimento relativo da caixa sobre o palete. Sabendo que a aceleração da gravidade local tem módulo igual a 10m/s² e que a massa do palete com rodízios é de 25 kg, o valor máximo do módulo da força horizontal F, em Newtons, aplicada pelo operário nessa situação, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "300.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "330.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "550.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "275.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-q45",
+    "examId": "2024.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 45,
+    "statement": "O transporte de cargas líquidas em caminhões-tanques fechados exige cuidado redobrado do motorista durante a viagem. A possibilidade de tombamento do veículo, quando parcialmente cheio, deve-se à movimentação irregular do líquido dentro do compartimento de carga. A maioria dos caminhões-tanques para transporte de líquido apresentam escotilhas, na parte superior, de modo a reduzir desperdícios. No entanto, um caminhão que transporta em sua carroceria tanques cúbicos abertos e com volume V, preenchidos completamente com líquido de densidade d, desperdiça parte de sua carga em virtude de seu movimento. Para um caminhão que se desloca horizontalmente com aceleração constante A, a massa de fluido desperdiçada no transporte de dois destes tanques é M. Sabendo que a aceleração da gravidade local é g, a expressão para M é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "2dV.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "dVA/g.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "dVg/2A.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "dV(A+g)/A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-q46",
+    "examId": "2024.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 46,
+    "statement": "Um capacitor de placas planas e paralelas é carregado por meio de uma fonte de bancada capaz de estabelecer uma diferença de potencial constante V entre seus terminais. Durante o processo de carga, a energia armazenada no capacitor de capacitância C, inicialmente descarregado, tem valor X. Em seguida e após ser desconectado da fonte de bancada, o capacitor tem suas placas reposicionadas em uma nova configuração por um agente externo. Na nova configuração, as placas permanecem paralelas e situadas a uma distância três vezes maior do que a distância original. Sendo assim, o trabalho realizado pelo agente externo no reposicionamento das placas em termos de X é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3X.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "X.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9X.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2X.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
   }
 ]

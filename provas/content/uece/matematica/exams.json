@@ -558,5 +558,21 @@
     "edition": "2023.2",
     "examType": "especifico",
     "sourceFile": "UECE 2023.2 - 2a fase - Redação e Matemática.pdf"
+  },
+  {
+    "id": "2024.1",
+    "institution": "UECE",
+    "year": 2024,
+    "edition": "2024.1",
+    "examType": "geral",
+    "sourceFile": "UECE 2024.1 - PROVA - 1a fase.pdf"
+  },
+  {
+    "id": "2024.1-2fase",
+    "institution": "UECE",
+    "year": 2024,
+    "edition": "2024.1",
+    "examType": "especifico",
+    "sourceFile": "UECE 2024.1 - 2a fase - Redacao e Matematica.pdf"
   }
 ]

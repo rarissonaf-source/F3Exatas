@@ -33598,5 +33598,965 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q1",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Se os números p e q são, respectivamente, o máximo divisor comum e o mínimo múltiplo comum dos números 18, 24 e 30, então, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "p é divisor de 150 e 150 é divisor de q.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 é divisor de p + q.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "q/p é divisor de 1020.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "q − p possui exatamente três divisores positivos.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-2fase-q2",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 2,
+    "statement": "Sejam C1 e C2 duas circunferências em um plano com centros nos pontos P1 e P2 respectivamente e tais que P1 pertence à circunferência C2 e P2 pertence à circunferência C1. Se Q1 e Q2 são os pontos de interseção de C1 e C2, então, os pontos P1, Q1, P2 e Q2 são vértices de um",
+    "options": [
+      {
+        "label": "a",
+        "text": "quadrado.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "losango.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "quadrilátero sem denominação específica.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "trapésio.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q3",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 3,
+    "statement": "A equação x − √x − k = 0, onde k é um número real, possui solução no conjunto dos números reais quando é verificada a desigualdade",
+    "options": [
+      {
+        "label": "a",
+        "text": "k ≥ − 1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "k ≥ − 1/4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "k ≤ − 1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "k ≤ − 1/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q4",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "No plano, com o sistema de coordenadas cartesianas usual, usando o cm como unidade de comprimento, a reta y = 2x+1 intercepta a circunferência x² + y² − 2x − 4y + 3 = 0 nos pontos X e Y, determinando a corda XY. A medida do comprimento da corda XY, em cm, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{2\\sqrt5}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{3\\sqrt5}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{4\\sqrt5}{5}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{6\\sqrt5}{5}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q5",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 5,
+    "statement": "Um triângulo retângulo, cuja medida dos catetos b e c são respectivamente 4 m e 3 m, gira em torno do cateto b gerando um cone. A medida do volume deste cone, em m³, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "18π.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12π.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16π.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14π.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q6",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 6,
+    "statement": "A soma dos quadrados de dois números inteiros positivos ímpares consecutivos cujo produto é igual a 483 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "802.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "514.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1154.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "970.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q7",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 7,
+    "statement": "Seja P(x) um polinômio do terceiro grau cujo coeficiente de x³ é igual a 1 (um). Se P(1) = − 16, P(5) = 0 e P(0) = − 50, então, podemos afirmar corretamente que P(−1) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "− 108.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "− 56.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "− 67.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "− 96.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q8",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 8,
+    "statement": "Se f : R → R é a função definida por\n\nf(x) = −x + 4, se x ≥ 2; f(x) = 2, se −1 ≤ x ≤ 2; f(x) = x + 3, se x ≤ −1\n\nentão, considerando o sistema de coordenadas usual com o metro (m) sendo a unidade de comprimento, a medida da área, em m², da região do plano limitada pelo gráfico de f e pelo eixo x é",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q9",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 9,
+    "statement": "Sejam N* = {1, 2, 3, ....} e f : N* → R a função definida por f(x) = p.qˣ, onde p e q são números reais. Se a imagem de f é a progressão geométrica aₙ = f(n) com a1 = 1 e razão igual a −2, então, a soma p + q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "− 3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "− 7/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "− 5/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "− 9/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q10",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "No plano, com o sistema de coordenadas cartesianas usual, seja r a reta cuja equação é 3x − y + 1 = 0. As equações das retas paralelas a r que distam 5 unidades de r são",
+    "options": [
+      {
+        "label": "a",
+        "text": "y = 3x + √10 e y = 3x − √10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "y = 3x + 1 + 5√10 e y = 3x + 1 − 5√10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "y = 3x − 1 − 5√10 e y = 3x + 1 − √10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "y = 3x + 5√10 e y = 3x − 5√10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q11",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 11,
+    "statement": "Se o ângulo x é tal que sen(x) e cos(x) são números reais positivos, então, o maior valor da constante real k para o qual se tenha tg(x) + cotg(x) ≥ k é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q12",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 12,
+    "statement": "Sobre a equação logarítmica 3 − 2.log₂(2 + x) − 2.log₂(2 − x) = 0, é correto afirmar que\n\n(log₂Z ≡ logaritmo de Z na base 2)",
+    "options": [
+      {
+        "label": "a",
+        "text": "a equação não possui solução real.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a equação possui uma única solução real.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a equação possui duas soluções reais positivas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a equação possui duas soluções reais: uma positiva e a outra negativa.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q13",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 13,
+    "statement": "A função trigonométrica f : R → Y, definida por f(x) = sen²(x) − cos²(x), é sobrejetiva quando Y for igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "[−1, 1].",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "[0, 2].",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "[−2, 2].",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "[0, 1].",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q14",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 14,
+    "statement": "Considere as matrizes $P=\\begin{bmatrix}1&0&1\\\\0&1&0\\end{bmatrix}$ e $Q=\\begin{bmatrix}1&0\\\\0&1\\\\1&0\\end{bmatrix}$. Se X = P.Q e Y = Q.P, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "o determinante de cada uma das matrizes X e Y é não nulo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o produto dos determinantes das matrizes X e Y é igual a 2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a soma dos determinantes das matrizes X e Y é igual a 2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a soma dos elementos da matriz Y é igual a 4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-2fase-q15",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 15,
+    "statement": "A medida, em metros, da altura de um tetraedro regular cuja medida da aresta é igual a 80 m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{70\\sqrt6}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{76\\sqrt6}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{80\\sqrt6}{3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{86\\sqrt6}{3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-2fase-q16",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 16,
+    "statement": "Sobre retas e planos no espaço, é correto afirmar que,",
+    "options": [
+      {
+        "label": "a",
+        "text": "dado um plano α e um ponto P ∉ α, não existe uma reta contendo P e paralela a α.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "dado um plano α e uma reta r que não intercepta α, não existe um plano contendo r e perpendicular a α.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "dado um plano α e um ponto P ∉ α existem infinitos planos contendo P e paralelos a α.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "dados dois planos distintos, α e β se α ∩ β ≠ { }, então, α ∩ β é uma reta.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q17",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "A quantidade dos números inteiros ímpares entre 100 e 999 que possuem os três dígitos distintos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "504.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "320.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "409.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "360.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-2fase-q18",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 18,
+    "statement": "Se i é o número complexo cujo quadrado é igual a −1, então, o menor número inteiro positivo n para o qual a potência (1 + i)ⁿ é um número real é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-2fase-q19",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "matematica-financeira",
+    "number": 19,
+    "statement": "Um investidor aplicou, no sistema de juros compostos, certa quantia em uma instituição financeira que remunera as aplicações à taxa de 1% mensal. Assim, é correto afirmar que o número de meses, a partir da aplicação, em que o capital inicial será dobrado é igual a\n\n(Use os valores aproximados: log(1,01) = 0,0043 e log(2) = 0,30103.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "74.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "68.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "70.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-2fase-q20",
+    "examId": "2024.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 20,
+    "statement": "Na grande corrida de cavalos do Jóquei Clube do Rio de Janeiro, 12 animais vão disputar uma posição no pódio composto dos três primeiros lugares. Levando em conta a ordem de chegada e que são prêmios diferentes entre as posições conquistadas, o número de possíveis distribuições da premiação é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1320.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1230.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1460.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1380.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-q13",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 13,
+    "statement": "Se o resto da divisão do polinômio P(x), de grau n > 1 e coeficientes reais, por x+1 é igual a 4 e se a soma dos coeficientes das potências xᵖ em P(x) com p um número ímpar for igual a 2016, então, a soma dos coeficientes de xᵖ em P(x) com p um número par é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2018.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2016.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2020.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2022.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-q14",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 14,
+    "statement": "Usando as propriedades dos logaritmos, é correto concluir que o valor da expressão $3\\log_2\\dfrac{36}{25}+3\\log_2\\left(\\dfrac{6}{27}\\right)-2\\log_2\\dfrac{16}{125}$ é igual a\n\n(log₂z ≡ logaritmo de z na base 2)",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,16.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-q15",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 15,
+    "statement": "Considere os conjuntos M = {1, 2}, P = {3, 4, 5} e Q = {6, 7, 8, 9}. Se X é o conjunto de todos os números escritos com três algarismos, sendo cada algarismo escolhido em um dos conjuntos M, P ou Q, não sendo permitido em nenhum desses números mais de um algarismo de um mesmo conjunto, então, a quantidade de elementos de X é",
+    "options": [
+      {
+        "label": "a",
+        "text": "132.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "144.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "140.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "152.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-q16",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 16,
+    "statement": "Considere as matrizes $A=\\begin{bmatrix}1/2&0\\\\0&1/2\\end{bmatrix}$, $A^2=A.A$, $A^3=A^2.A,........,A^n=A^{n-1}.A,........$ Se dₙ é o determinante da matriz Aⁿ, então, a soma d₁ + d₂ + d₃ + ........ + dₙ +........ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.1-q17",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 17,
+    "statement": "Os pontos X, U e Y são vértices de um triângulo. Se as medidas dos lados XU e YU são respectivamente 30 cm e 22 cm, e se a medida do ângulo XÛY é igual a sessenta graus, então, a medida, em cm, do lado XY é um número entre\n\n(sen 60° = √3/2)",
+    "options": [
+      {
+        "label": "a",
+        "text": "26,6 e 26,9.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "27,0 e 27,2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "27,2 e 27,4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "26,9 e 27,0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-q18",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "Considerando, no plano, o sistema de coordenadas cartesianas usual, usando o metro (m) como unidade de comprimento, é correto dizer que a medida da área da região limitada pelo gráfico da função f: [0, 4] → R definida por f(x) = |x−2| − 2 e pelo eixo das abscissas, em metros quadrados, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.1-q19",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "As medidas dos ângulos internos de um triângulo são respectivamente 30°, 60° e 90°. Se a medida do maior lado deste triângulo é 4 cm, então, a medida, em cm, da altura relativa a este lado é",
+    "options": [
+      {
+        "label": "a",
+        "text": "√2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "√6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "√3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "√5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-q20",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 20,
+    "statement": "Ana Sofia foi às compras dispondo de R$ 300,00. Ao entrar em uma loja magazine, gostou de uma blusa no valor de R$ 180,00 e de uma sandália que custava R$ 130,00. O custo das duas peças excedia o dinheiro que Ana Sofia dispunha. O vendedor informou que uma promoção da loja garantia que, se ela comprasse as duas peças, teria um desconto de 15% na peça de maior valor e 20% na peça de menor valor. Tendo aceitado a promoção, após o pagamento, Ana Sofia recebeu um troco correspondente a x% do que dispunha ao entrar na loja. O valor de x está entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "13 e 14.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 e 13.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 e 16.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14 e 15.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.1-q21",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "No plano, munido do sistema usual de coordenadas cartesianas, usando o centímetro (cm) como unidade de comprimento, os pontos (0, 4), (8, 8), (16, 4) e (8, 0) são vértices de um losango. Então, é correto concluir que a medida, em cm, do raio da circunferência inscrita neste losango é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2/√5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8/√5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4/√5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6/√5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.1-q22",
+    "examId": "2024.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "Em um plano, munido do sistema usual de coordenadas cartesianas, os gráficos das funções reais de variável real f e g definidas por f(x) = x² − 5x + 6 e g(x) = − x² + 7x − 10 se interceptam nos pontos P e Q. A equação da reta que contém estes pontos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "x − y − 2 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "x + y − 2 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "x − y + 2 = 0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "x + y + 2 = 0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
