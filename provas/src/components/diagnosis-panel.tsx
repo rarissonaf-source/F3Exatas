@@ -145,17 +145,9 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
       // por dia, então isso só evita uma chamada de rede desnecessária.
       if (data.totalAnswered >= DIAGNOSIS_MIN_QUESTIONS) {
         const saved = await saveDiagnosisSnapshot(data);
-        if (saved) {
-          setHistory((prev) => [
-            ...prev,
-            {
-              totalAnswered: data.totalAnswered,
-              totalCorrect: data.totalCorrect,
-              overallAccuracy: data.overallAccuracy,
-              createdAt: new Date().toISOString(),
-            },
-          ]);
-        }
+        // Refaz a busca em vez de montar a entrada localmente — evita duplicar
+        // aqui a lógica de cálculo por disciplina que já vive em performance.ts.
+        if (saved) setHistory(await fetchDiagnosisHistory());
       }
     }
     setTimeout(() => setMode("result"), 350);

@@ -25,7 +25,22 @@ export interface DiagnosisSnapshot {
   totalAnswered: number;
   totalCorrect: number;
   overallAccuracy: number;
+  // null quando a disciplina não teve nenhuma questão respondida no período
+  // desse diagnóstico — distingue de "respondeu e zerou" (accuracy 0).
+  matematicaAnswered: number | null;
+  matematicaAccuracy: number | null;
+  fisicaAnswered: number | null;
+  fisicaAccuracy: number | null;
   createdAt: string;
+}
+
+/** Soma total/correto de todos os tópicos de uma disciplina — usado pra montar o snapshot salvo no histórico. */
+function accuracyForDiscipline(byTopic: TopicPerformance[], discipline: string): { answered: number; accuracy: number } | null {
+  const topics = byTopic.filter((t) => t.discipline === discipline);
+  const answered = topics.reduce((acc, t) => acc + t.total, 0);
+  if (answered === 0) return null;
+  const correct = topics.reduce((acc, t) => acc + t.correct, 0);
+  return { answered, accuracy: Math.round((correct / answered) * 100) };
 }
 
 /** Registra uma resposta verificada — best-effort, nunca interrompe a experiência do usuário. */
@@ -66,6 +81,8 @@ export async function fetchPerformanceSummary(period: Period): Promise<Performan
  */
 export async function saveDiagnosisSnapshot(summary: PerformanceSummary): Promise<boolean> {
   const accountKey = getCurrentAccountKey();
+  const matematica = accuracyForDiscipline(summary.byTopic, "matematica");
+  const fisica = accuracyForDiscipline(summary.byTopic, "fisica");
   try {
     const res = await fetch(`${BASE_PATH}/api/diagnosis-history`, {
       method: "POST",
@@ -76,6 +93,10 @@ export async function saveDiagnosisSnapshot(summary: PerformanceSummary): Promis
         totalAnswered: summary.totalAnswered,
         totalCorrect: summary.totalCorrect,
         overallAccuracy: summary.overallAccuracy,
+        matematicaAnswered: matematica?.answered ?? null,
+        matematicaAccuracy: matematica?.accuracy ?? null,
+        fisicaAnswered: fisica?.answered ?? null,
+        fisicaAccuracy: fisica?.accuracy ?? null,
       }),
     });
     if (!res.ok) return false;

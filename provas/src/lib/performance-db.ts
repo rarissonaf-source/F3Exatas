@@ -41,6 +41,13 @@ export async function ensureDiagnosisSnapshotsTable() {
     )
   `;
   await sql`create index if not exists diagnosis_snapshots_account_idx on diagnosis_snapshots (account_key, created_at)`;
+  // Colunas por disciplina, adicionadas depois da criação inicial da tabela —
+  // ficam nulas quando o período não teve nenhuma questão respondida daquela
+  // disciplina, pra distinguir de "respondeu e zerou".
+  await sql`alter table diagnosis_snapshots add column if not exists matematica_answered int`;
+  await sql`alter table diagnosis_snapshots add column if not exists matematica_accuracy int`;
+  await sql`alter table diagnosis_snapshots add column if not exists fisica_answered int`;
+  await sql`alter table diagnosis_snapshots add column if not exists fisica_accuracy int`;
   diagnosisSnapshotsTableEnsured = true;
 }
 
