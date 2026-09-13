@@ -25470,5 +25470,901 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2021.1-q39",
+    "examId": "2021.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 39,
+    "statement": "Em relação às propriedades dos gases, atente para as seguintes afirmações: I. Para um gás ideal, a energia interna é função apenas da pressão. II. O calor absorvido por um gás ao variar seu estado independe do processo. III. A energia interna de um gás ideal é uma função apenas da temperatura e independe do processo. IV. Numa expansão isotérmica de um gás ideal, o trabalho realizado pelo mesmo é igual ao calor absorvido. Está correto o que se afirma somente em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "III e IV.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I e IV.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "II e III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2021.1-q40",
+    "examId": "2021.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 40,
+    "statement": "O isolamento social ocasionado pela pandemia da Covid-19 fez com que houvesse uma ampliação significativa das atividades profissionais para o formato remoto. Essa situação ocasionou uma demanda por internet de melhor qualidade. Neste contexto, muitos clientes realizaram a migração para a internet transmitida por fibra ótica. A fibra ótica geralmente é composta de sílica ($SiO_2$) ou plástico, com diâmetro da ordem de micrômetro, cuja função é a transmissão de um sinal, como a luz, por exemplo. A fibra apresenta muitas vantagens, dentre as quais se encontram estabilidade no sinal transmitido, pouca interferência eletromagnética, alta velocidade de transmissão de dados, grande disponibilidade de matéria prima e alta durabilidade. A propagação de um pulso eletromagnético dentro de uma fibra ótica é explicada a partir da",
+    "options": [
+      {
+        "label": "a",
+        "text": "polarização.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "interferência.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "difração.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "reflexão total.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2021.1-q41",
+    "examId": "2021.1",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 41,
+    "statement": "Ao organizar os carrinhos de um supermercado, um funcionário empurra uma sequência de N carrinhos idênticos aplicando uma força horizontal F ao primeiro carrinho da fila, que por sua vez empurra o segundo carrinho da fila, que por sua vez empurra o terceiro carrinho da fila e assim sucessivamente até o último carrinho. Desprezados todos os atritos e considerando a superfície horizontal, a força aplicada ao último carrinho da fila é",
+    "options": [
+      {
+        "label": "a",
+        "text": "F.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "NF.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "F/N.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$F^N$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2021.1-q42",
+    "examId": "2021.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 42,
+    "statement": "A febre caracteriza-se por um aumento da temperatura corporal, podendo ser uma sinalização da presença de agentes infecciosos no organismo. Para o ser humano, uma temperatura acima de 37,8 °C pode ser considerada um quadro febril. Devido à indisponibilidade de um termômetro graduado na escala Celsius, aferiu-se a temperatura de uma pessoa, verificando-se o valor de 102,2 °F. A partir dessas informações, é correto afirmar que a temperatura corporal dessa pessoa, em °C, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "39,2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "38.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "39.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "38,6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2021.1-q43",
+    "examId": "2021.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 43,
+    "statement": "Em uma aula experimental sobre capacitância, desenvolvida em um laboratório didático de física, um estudante dispõe de dois capacitores, $C_1$ e $C_2$. Esses capacitores são carregados, individualmente, numa mesma fonte de tensão. Sabendo-se que a capacitância do segundo capacitor é o dobro da capacitância do primeiro, a razão entre as energias $E_1$ e $E_2$ armazenadas, respectivamente, nos capacitores $C_1$ e $C_2$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2021.1-q44",
+    "examId": "2021.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 44,
+    "statement": "Com o intuito de reduzir os riscos de colisões no trânsito, faz-se necessário que os veículos mantenham uma distância de segurança, caso haja necessidade de frenagem. Essa distância precisa ser, no mínimo, correspondente ao deslocamento do veículo durante o tempo de reação do motorista e o de frenagem. Desprezando a resistência do ar, é correto afirmar que a distância, em metros, necessária para um automóvel que está a 54 km/h ir ao repouso, uma vez que o tempo de reação do motorista foi de 0,6 s e o sistema de frenagem do veículo consegue imprimir uma desaceleração de 0,75 m/s², é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "153.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "157.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "155.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "159.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2021.1-q45",
+    "examId": "2021.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 45,
+    "statement": "A ventilação mecânica é um procedimento utilizado em pacientes que apresentam quadros de insuficiência respiratória. Nesse tipo de intervenção, é utilizado um instrumento denominado respirador mecânico, para proporcionar ao paciente um aumento de sua capacidade respiratória. Esta capacidade está associada ao fluxo de oxigênio (volume por tempo), $\\varphi$, que chega aos pulmões. Suponha que este fluxo esteja relacionado à pressão (P) e à velocidade da corrente de ar (v) transferida ao paciente pelo equipamento a partir da equação $\\varphi = kPv$, onde k é uma constante de proporcionalidade. Nesses termos, a dimensão de k, no Sistema Internacional de Unidades (SI), é expressa por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$m^3s^2/kg$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$m^2s^3/kg$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$ms^3/kg^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$m^2s/kg^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2021.1-q46",
+    "examId": "2021.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 46,
+    "statement": "Uma fonte térmica foi utilizada na realização de experimentos de análise do comportamento térmico da água e do óleo de soja. Ao utilizar a fonte para aquecer certa massa de água, verificou-se uma elevação de 60 °C dessa substância. Desprezando as mudanças de estados de agregação, bem como as perdas de calor para o ambiente e considerando os valores dos calores específicos $c_{água} = 1$ cal/g°C e $c_{óleo\\ de\\ soja} = 0,5$ cal/g°C constantes para as temperaturas consideradas, é correto dizer que a variação de temperatura sofrida pelo óleo de soja, em °C, com o triplo da massa da água durante o mesmo tempo de exposição à fonte térmica é",
+    "options": [
+      {
+        "label": "a",
+        "text": "90.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "180.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2021.1-2fase-q1",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 1,
+    "statement": "Um prisma decompõe luz branca incidente em luz monocromática dentro do espectro visível. Este fato ocorre devido ao fenômeno denominado",
+    "options": [
+      {
+        "label": "a",
+        "text": "difração.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "interferência.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "refração.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "polarização.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2021.1-2fase-q2",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 2,
+    "statement": "O trem bala Maglev opera entre Tóquio e Osaka, podendo atingir a notável marca de 500 km/h. Considerando a situação em que ele parte do repouso de uma estação A para uma estação B, numa trajetória retilínea, com aceleração escalar constante de 10 m/s², fazendo o referido percurso com uma velocidade média de 216 km/h, é correto dizer que a distância, em metros, entre estações, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1080.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "360.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1440.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "720.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2021.1-2fase-q3",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 3,
+    "statement": "No dia 11 de maio de 2021, foi realizado o último teste do Telescópio Espacial Webb, cujo lançamento está marcado para o dia 31 de outubro deste ano. Este instrumento exercerá uma atividade complementar à do telescópio Hubble. Permitirá uma maior captação de fótons, uma vez que apresenta um espelho segmentado com área cerca de 7,3 vezes maior que a do Hubble e formará imagens na região do espectro do infravermelho entre os comprimentos de onda de 0,7μm e 28μm. Considere quatro galáxias hipotéticas muito distantes identificadas como G1, G2, G3 e G4, cujas emissões atingem o Webb, nas frequências apresentadas no quadro abaixo. Galáxia — Frequência emitida ($10^{14}$Hz): G1 — 3,6; G2 — 5,6; G3 — 6,4; G4 — 7,2. Admitindo-se que as radiações emitidas pelas referidas galáxias se propaguem com velocidade de $3\\cdot10^8$ m/s, é correto concluir que a galáxia que poderá ser vista pelo Telescópio Espacial Webb é a",
+    "options": [
+      {
+        "label": "a",
+        "text": "G4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "G1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "G3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "G2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2021.1-2fase-q4",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 4,
+    "statement": "Um pêndulo simples de comprimento L e massa m está preso a um suporte fixo e é posto para oscilar livremente em um local onde a aceleração da gravidade é constante e igual a g. Abandonando-se o pêndulo com o fio a partir de uma posição horizontal, a tração no fio quando a massa passar pelo ponto mais baixo da trajetória será igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 mg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 mg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 mg.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2 mg.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2021.1-2fase-q5",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 5,
+    "statement": "Além da elevação do nível dos oceanos, o derretimento do gelo no Ártico tem como consequência a liberação do gás metano preso no gelo. Lançado na atmosfera, esse gás potencializa o efeito estufa e favorece o aquecimento global. Imagine que uma bolha de 10 cm³ deste gás se forme no fundo de um lago onde a temperatura é $-23\\,^\\circ$C e a pressão é de 5 atm. Considerando o metano como um gás ideal, é correto dizer que o volume da bolha, em cm³, quando ela estiver ligeiramente abaixo da superfície onde a temperatura for de $-13\\,^\\circ$C e a pressão de 1 atm será igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "45.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "28.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "52.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "36.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2021.1-2fase-q6",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 6,
+    "statement": "O LED (light emitter diode ou diodo emissor de luz) é um componente eletrônico semicondutor muito utilizado em equipamentos. O LED funciona a partir da passagem de uma corrente elétrica oriunda de uma tensão aplicada aos seus terminais. Para tanto, essa tensão e, consequentemente a intensidade de corrente, devem ser limitadas para que o componente não seja danificado. Tal controle pode ser realizado pela presença de resistores no circuito elétrico. Suponha que a corrente máxima suportada pelo LED seja 20 mA quando submetido a uma tensão máxima de 4 V. Assim, o valor mínimo da resistência de um resistor ligado em série com o LED para que esse não seja danificado quando o circuito for alimentado por uma fonte de 12 V é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "400 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "80 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "200 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120 Ω.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2021.1-2fase-q7",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 7,
+    "statement": "Um turista situado entre duas colinas resolve utilizar seus conhecimentos de acústica para estimar a distância entre elas. Ao emitir um grito ele percebe dois ecos, o primeiro recebido em 1,5 s e o segundo em 2,5 s. Sabendo que a velocidade do som no ar é 340 m/s, o valor que fornece a distância entre as colinas, considerando que o turista e as colinas estejam alinhados, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1360.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "510.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "680.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "850.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2021.1-2fase-q8",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 8,
+    "statement": "O sangue movendo-se através dos vasos pode ser considerado um fluido real. Dependendo de fatores como velocidade e temperatura, tal fluido poderá apresentar um deslocamento turbulento. Essa análise da turbulência é feita a partir do número de Reynolds, $R_e$, escrito por $R_e = \\dfrac{\\bar{v}D\\rho}{\\eta}$, onde $\\bar{v}$ é a velocidade média do fluido, $D$ o diâmetro do tubo, $\\rho$ a densidade do fluido e $\\eta$ a viscosidade deste. Sabendo que $R_e$ se trata de uma grandeza adimensional, a dimensão de $\\eta$ no Sistema Internacional de Unidades – SI – é escrita por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{kg}{m \\cdot s}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{kg \\cdot m}{s}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{kg \\cdot s}{m}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{kg}{m^2 \\cdot s}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2021.1-2fase-q9",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 9,
+    "statement": "Um objeto de massa 20 kg desloca-se em linha reta com velocidade de 30 m/s ao longo de uma superfície horizontal sem atrito. A partir de certo momento, esse corpo sofre uma redução de velocidade devido à ação de uma força de atrito com o solo, cujo trabalho resistente foi 5000 J. A seguir, o objeto passa novamente para uma região sem atrito. Após a passagem pela região de atrito, a velocidade, em m/s, com que o objeto passará a se deslocar será igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2021.1-2fase-q10",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 10,
+    "statement": "A lâmpada do Farol do Mucuripe, considerado o maior das Américas, realiza um movimento circular e uniforme dando uma volta completa a cada 10 s. Durante a noite, esse farol pode ser visto do mar a uma distância de 80 km. Considerando o facho giratório emitido pelo farol, a velocidade aproximada de um ponto que circula a essa distância de 80 km, com a mesma frequência do farol, adotando-se $\\pi \\cong 3$, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "36 km/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60 km/s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72 km/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48 km/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2021.1-2fase-q11",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 11,
+    "statement": "Um bloco em forma de paralelepípedo encontra-se sobre uma superfície plana de gelo abaixo de 0 °C. Para arrastar o referido objeto, um trabalhador percebeu que essa tarefa poderia ser mais fácil se colocasse a face de menor área do objeto em contato com o gelo. A referida situação deve-se",
+    "options": [
+      {
+        "label": "a",
+        "text": "à diminuição da temperatura de fusão do gelo devido ao aumento da pressão na superfície de contato.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ao aumento da temperatura de fusão do gelo devido ao aumento da pressão na superfície de contato.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "à diminuição da temperatura de fusão do gelo devido à diminuição da pressão na superfície de contato.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ao aumento da temperatura de fusão do gelo devido à diminuição da pressão na superfície de contato.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2021.1-2fase-q12",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 12,
+    "statement": "Uma missão tripulada a Marte foi, por muito tempo, assunto de ficção científica. Com os avanços tecnológicos obtidos durante os séculos XX e XXI, a possibilidade de estabelecer colônia nesse planeta tem se mostrado promissora, pelo menos em um futuro próximo. Entre os diversos efeitos físicos e psicológicos a que uma missão tripulada estaria sujeita, pode-se destacar o que seria gerado pela permanência em um ambiente de baixa gravidade. Considerando que a massa da Terra é dez vezes maior do que a massa de Marte, que o raio da Terra corresponde ao dobro do raio de Marte e que os dois planetas apresentam densidade uniforme, assinale a opção que apresenta corretamente a razão entre as acelerações da gravidade da Terra e de Marte.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4/5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2/5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2021.1-2fase-q13",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 13,
+    "statement": "O combate à Covid-19 na região Amazônica exige uma logística complexa por parte das autoridades. Muitas pessoas residem em comunidades ribeirinhas, fazendo com que as vacinas só cheguem a esses locais de barco. Um destes barcos gasta 8 horas para subir e 4 horas para descer um mesmo trecho do rio Amazonas. Suponha que o barco seja capaz de manter uma velocidade constante, em módulo, em relação à água. Em virtude de uma falha mecânica, o barco fica à deriva com os motores desligados, descendo novamente todo o trecho do rio. Dessa forma, o tempo gasto, em horas, para o barco perfazer o mesmo percurso sob ação exclusiva da correnteza é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2021.1-2fase-q14",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 14,
+    "statement": "Ao montar um aparato ótico, um estudante fez uso de uma lente delgada convergente de distância focal de 24 cm e uma tela de projeções. Ao posicionar um objeto puntiforme a uma distância de 100 cm da tela, deslocando a lente entre o objeto e essa tela, constatou a formação de uma imagem nítida sobre ela para duas posições da lente, o que o levou a concluir que o módulo da distância, em cm, entre essas duas posições é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "40.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2021.1-2fase-q15",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 15,
+    "statement": "Uma maneira de simular o efeito do impacto de um projétil sobre o tecido muscular humano é através do uso de um dispositivo conhecido como gelatina balística que, por sua capacidade de simular a densidade e a viscosidade dos tecidos humanos, é bastante utilizada pela polícia forense em investigações criminais. Imagine que um bloco de 10 kg dessa gelatina, que repousa sobre uma superfície horizontal, é atingido por um projétil de 20 g que viaja a 500 m/s. Este projétil emerge da gelatina com uma velocidade de 100 m/s fazendo com que a mesma se desloque 0,10 m sobre a superfície horizontal até parar. Adotando-se g=10 m/s², é correto afirmar que o coeficiente de atrito entre o bloco e a superfície é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,48.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,16.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,64.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,32.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2021.1-2fase-q16",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 16,
+    "statement": "Dois líquidos miscíveis têm, respectivamente, densidades de 0,6 g/cm³ e 0,9 g/cm³. Sabendo-se que os líquidos podem ser misturados de modo a formar uma mistura homogênea, é correto concluir que a densidade da mistura, em g/cm³, obtida a partir da junção de massas iguais dos líquidos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,75.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,54.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,72.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,64.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2021.1-2fase-q17",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 17,
+    "statement": "Um fio cilíndrico de 2 m de comprimento e 2 mm de diâmetro, quando submetido a uma tensão constante, dissipa uma potência de 200W. Considerando a resistividade invariante, é correto dizer que a potência dissipada, em watts, por um segundo fio do mesmo material, que apresenta mesmo comprimento e metade do diâmetro do primeiro, quando submetido ao dobro da voltagem é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1600.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "200.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "800.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "400.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2021.1-2fase-q18",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "A temperatura de conservação indicada pelos fabricantes de vacina é um fator fundamental para a manutenção da qualidade do produto. A vacina AstraZeneca, por exemplo, requer uma temperatura de conservação que esteja entre 2 °C e 8 °C. Um termômetro graduado na escala Fahrenheit foi utilizado para aferir a temperatura de doses dessa vacina acondicionadas em quatro caixas térmicas numeradas 1, 2, 3 e 4, medindo respectivamente os valores 37,4 °F, 44,6 °F, 41 °F e 51,8 °F. Assinale a opção que corresponde à caixa cujas doses da vacina NÃO estão mantidas à temperatura adequada.",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2021.1-2fase-q19",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 19,
+    "statement": "Um fio retilíneo é atravessado por uma corrente constante. Considerando a ocorrência em que um próton é lançado paralelamente ao fio e no mesmo sentido da corrente, no que diz respeito a sua trajetória, é correto dizer que esse próton",
+    "options": [
+      {
+        "label": "a",
+        "text": "descreve uma trajetória circular em torno do fio.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "se afasta do fio.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "se aproxima do fio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "mantém sua trajetória inalterada.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2021.1-2fase-q20",
+    "examId": "2021.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 20,
+    "statement": "A qualidade do som percebida numa sala de concerto está relacionada à intensidade e à relação entre os sons que chegam aos ouvintes de forma direta e indireta, a partir da reflexão nas paredes. Um som pode ser considerado acusticamente agradável quando a diferença entre sua percepção direta e indireta possibilita uma sensação de continuidade. Esse fenômeno acústico é denominado de",
+    "options": [
+      {
+        "label": "a",
+        "text": "difração.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "polarização.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "reverberação.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ressonância.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
