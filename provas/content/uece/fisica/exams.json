@@ -526,5 +526,13 @@
     "edition": "2022.2",
     "examType": "especifico",
     "sourceFile": "UECE 2022.2 - 2a fase - Física e Química.pdf"
+  },
+  {
+    "id": "2023.1-2fase",
+    "institution": "UECE",
+    "year": 2023,
+    "edition": "2023.1",
+    "examType": "especifico",
+    "sourceFile": "UECE 2023.1 - 2a fase - Física e Química.pdf"
   }
 ]

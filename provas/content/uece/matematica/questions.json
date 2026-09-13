@@ -31678,5 +31678,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q1",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 1,
+    "statement": "Uma cultura de bactérias cresce obedecendo à função $f(t) = c.3^{2t}$, onde c é uma constante positiva e t é o tempo medido em horas. O valor de t para que a quantidade inicial de bactérias fique multiplicada por nove é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2 hora.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 hora.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 hora e meia.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2 horas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-2fase-q2",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 2,
+    "statement": "Na primeira fase do Campeonato Brasileiro de Futebol, Série A, disputado por 20 clubes, quaisquer dois disputantes jogam entre si uma única vez. Na segunda fase, as mesmas 20 equipes repetem as disputas, também cada dois participantes jogando entre si uma única vez. Ao final do Campeonato, quantas partidas terão sido disputadas?",
+    "options": [
+      {
+        "label": "a",
+        "text": "400.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "360.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "380.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "420.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q3",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 3,
+    "statement": "Em um Escritório de Contabilidade, atuam 105 profissionais, alguns possuindo formação superior (graduados) e outros somente com formação técnica. Entre os contadores graduados, 16 possuem idade inferior a 50 anos. Do total de profissionais, 35 têm idade maior ou igual a 50 anos e, entre esses, 21 não possuem formação superior. Nessas condições, a razão entre o número de contadores graduados e o número de técnicos em contabilidade é",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,35.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,40.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,45.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q4",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 4,
+    "statement": "No triângulo equilátero XYZ, a medida do lado é 4cm. Se M é o ponto médio do lado XZ, pode-se afirmar corretamente que a medida, em cm², da região do plano interior à circunferência inscrita no triângulo MYZ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\pi/(2-\\sqrt3)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi/(2-\\sqrt3)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi/(2+\\sqrt3)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\pi/(2+\\sqrt3)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.1-2fase-q5",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "No sistema usual de coordenadas cartesianas, o gráfico da função quadrática f é simétrico em relação ao eixo das ordenadas. Se o valor máximo que f assume é igual a 16 e se a distância entre os pontos de cruzamento do gráfico de f com o eixo das abscissas é igual a 8, então a expressão algébrica da função f é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$f(x) = -x^2+4x+16$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$f(x) = -2x^2+2x+16$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$f(x) = -x^2+16$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$f(x) = -2x^2+16$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q6",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 6,
+    "statement": "O quadro de linhas a seguir foi construído com elementos do conjunto $N^*=\\{1,2,3,4,.....\\}$, seguindo uma lógica estrutural característica. Linha 1: 1; Linha 2: 2, 3; Linha 3: 4, 5, 6; Linha 4: 7, 8, 9, 10; ......................; Linha n: $x_1, x_2, x_3, x_4, ..., x_n$; ...................... Se n=10, então a média aritmética dos números que estão na linha n é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "50,6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50,4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50,7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.1-2fase-q7",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 7,
+    "statement": "Se M e m são respectivamente os valores máximo e mínimo que a função $f: R\\to R$ definida por $f(x) = 3\\text{sen}^2x + 7\\cos^2x$ pode assumir, então o produto M.m é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "21.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "18.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q8",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 8,
+    "statement": "Na mesa redonda utilizada para reuniões da Presidência da República, há um lugar fixo para ser ocupado pelo Presidente e outros 22 lugares para serem ocupados pelos ministros, todos igualmente espaçados. Estando presentes todos os 22 ministros e o Presidente, de quantas maneiras distintas podem ser ocupados os assentos?",
+    "options": [
+      {
+        "label": "a",
+        "text": "23!.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "23! − 22!.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22!.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "22! + 23!.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q9",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 9,
+    "statement": "Se a \\\"soma infinita\\\" $1 + x + x^2 + x^3 + ... + x^n + ...$ é igual a 2 e se $x=\\text{sen}\\alpha$, com $0°<\\alpha<90°$, então podemos afirmar corretamente que a medida do ângulo $\\alpha$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "45 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "60 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15 graus.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30 graus.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.1-2fase-q10",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 10,
+    "statement": "Se o polinômio $P(z) = z^3 - 8z^2 + q.z - 12$ admite o número complexo $z=1+i$ onde i é a unidade imaginária, isto é $i^2=-1$, como uma de suas raízes, isto é $P(1+i)=0$, então, se q é um número real, devemos ter",
+    "options": [
+      {
+        "label": "a",
+        "text": "q é um número inteiro inferior a 10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "q é um número inteiro superior a 9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "q é um número irracional superior a 10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "q é um número irracional inferior a 9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-2fase-q11",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 11,
+    "statement": "Se m é um número real tal que $(m-1)^3$, $m^3$, $(m+1)^3$, nesta ordem, formam uma progressão aritmética, identifique a afirmação correta.",
+    "options": [
+      {
+        "label": "a",
+        "text": "Existe um único valor numérico para m.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Não é possível identificar um valor numérico para m.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "É possível determinar um número positivo e um outro negativo para m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Existem infinitos valores numéricos possíveis para m.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q12",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 12,
+    "statement": "Se o número positivo a, $a\\neq1$, é tal que para $x>0$ tivermos $\\log_a x = 4.\\log_{10}x$, então o valor de $\\sqrt{a}$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10^{1/2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$10^{1/16}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$10^{1/8}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$10^{1/4}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q13",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 13,
+    "statement": "A medida, em cm³, da região do espaço interior a um cubo cuja medida da aresta é igual a 1cm e exterior à esfera inscrita neste cubo é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(6-\\pi)/6$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(6-3\\pi)/6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$(6-3\\pi)/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$(6-\\pi)/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q14",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "No quadrilátero MNPQ, plano e convexo, as diagonais são perpendiculares, e as medidas dos lados consecutivos MN, NP e PQ são, respectivamente, 3cm, 4cm e 5cm. A medida do lado MQ, em cm, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2\\sqrt2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q15",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 15,
+    "statement": "A base de uma pirâmide triangular regular está inscrita em uma circunferência cuja medida do raio é 4cm. Se a medida da aresta dessa pirâmide é igual à medida do lado do triângulo de sua base, então a medida de seu volume, em cm³, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$12\\sqrt6$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$16\\sqrt6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$18\\sqrt6$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$14\\sqrt6$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-2fase-q16",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 16,
+    "statement": "No desenvolvimento de $\\left(\\dfrac{1}{x}+\\sqrt[3]{x}\\right)^{16}$, a soma do coeficiente de $x^4$ com o termo independente de x é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1836.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1823.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1830.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1828.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q17",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 17,
+    "statement": "No plano com o sistema de coordenadas cartesianas usual cuja origem é o ponto E=(0,0), sejam P e Q os pontos extremos (máximo ou mínimo) dos gráficos das funções quadráticas $f(x)=2(x-3)(x+1)$ e $g(x)=3(2-x)(x-4)$. A medida da área, em uc², do triângulo com vértices nos pontos E, P e Q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "31/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "25/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "29/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "27/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q18",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 18,
+    "statement": "A teoria das matrizes é, hoje, utilizada em diversas atividades da vida profissional das pessoas, como atividades comerciais, financeiras, computacionais e tantas outras. Utilizaremos matrizes para apresentar uma questão sobre equações polinomiais. Considere as matrizes $M_2=\\begin{pmatrix}x&1\\\\1&x\\end{pmatrix}$, $M_3=\\begin{pmatrix}x&0&1\\\\0&x&0\\\\1&0&x\\end{pmatrix}$ e $M_4=\\begin{pmatrix}x&0&0&1\\\\0&x&1&0\\\\0&1&x&0\\\\1&0&0&x\\end{pmatrix}$. O conjunto de todos os valores de x que satisfazem a igualdade $\\det(M_2)-\\det(M_3)+\\det(M_4)=0$ é [Nota: det(M) denota o determinante da matriz M.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "{−1, 0, 1}",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "{−1, 0, 2}",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "{−2, 0, 1}",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "{−2, 0, 2}",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q19",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 19,
+    "statement": "A empresa Agromil, atuante no segmento do agronegócio, produz, atualmente, x toneladas de grãos. A área administrativa da empresa, objetivando o incremento anual da produção, estabeleceu as seguintes metas para o próximo quinquênio. I. Incremento de 15% na produção ao final do primeiro ano de adoção das medidas. II. Incremento de 12%, em relação ao ano anterior, ao final do segundo ano. III. Incremento de 10% em relação ao ano anterior, ao final do terceiro ano. IV. Incremento de 8% em relação ao ano anterior, ao final do quarto ano. V. Incremento de 5% em relação ao ano anterior, ao final do quinto ano. Ao final do período de cinco anos, no caso do pleno alcance dos resultados estabelecidos no planejamento, o incremento percentual obtido em relação à produção inicial terá sido, aproximadamente, de",
+    "options": [
+      {
+        "label": "a",
+        "text": "57%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "53%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q20",
+    "examId": "2023.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "No Parque Botânico Florilândia, foi concebido um desenho de canteiro destinado ao cultivo de rosas, com as seguintes características. I. Reservar uma área plana do terreno com a forma de um quadrado cuja medida do lado é 16m; II. Considerar-se, para cada lado limite do terreno, uma circunferência cujo centro é o ponto médio do lado e a medida do raio é igual a 8m (metade da medida do lado do quadrado). III. As interseções, duas a duas, das áreas internas das circunferências constituem a parte do terreno destacada para situar o canteiro. IV. A figura resultante é denominada de \\\"rosácea\\\" por vários autores de textos matemáticos. A medida da área destinada para situar o canteiro (rosácea), em m², é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "256(π−2).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "128(π−1).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "128(π−2).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "256(π−1).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]

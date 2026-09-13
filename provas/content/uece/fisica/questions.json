@@ -28158,5 +28158,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q1",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "Um caminhão é monitorado através de um sistema de GPS onde é possível observar, em uma tela, as coordenadas X e Y, medidas em cm, do veículo em relação à sede da empresa, que corresponde à origem do sistema de coordenadas. Sabendo que cada unidade de distância indicada na tela do GPS corresponde a uma distância de 80 km na rodovia, calcule o valor aproximado da velocidade média de um caminhão, em m/s, que saiu da sede da empresa às 13h, das coordenadas X=0 e Y=0, e que, às 18h do mesmo dia, encontrava-se em seu destino, e o GPS indicava, em sua tela, coordenadas X=3 e Y=4.",
+    "options": [
+      {
+        "label": "a",
+        "text": "22,22 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "30,40 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "55,32 m/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60,86 m/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q2",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 2,
+    "statement": "Sobre a superfície da Terra, ao nível do mar, a aceleração da gravidade é de, aproximadamente, 9,8m/s², sabe-se, ainda, que esse valor diminui com o aumento da altitude. Para uma altitude de 12.940 km em relação ao centro da Terra, o valor da aceleração da gravidade diminui para 2,45 m/s². A esse respeito, analise as afirmações a seguir. I. A variação do módulo da aceleração da gravidade é inversamente proporcional ao quadrado da distância entre o centro da Terra e um ponto de altitude de 12.940 km, como mencionado no enunciado anterior. II. Uma haste cilíndrica homogênea de massa M e raio R, grande o suficiente para ir da superfície da Terra até a altitude de 12.940 km, possui o centro de massa, situado em seu centro geométrico. III. Desprezando a resistência do ar, um objeto abandonado de uma altitude de 12.940 km descreve um movimento uniformemente variado. Com base na análise das assertivas, pode-se afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "somente I e III estão corretas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "somente I e II estão corretas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I, II e III estão corretas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "somente II está correta.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.1-2fase-q3",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 3,
+    "statement": "Um garoto de massa m encontra-se em repouso sobre uma plataforma de massa M, também em repouso sobre uma superfície sem atrito. Em um determinado instante, o garoto arremessa uma bola (com dimensão desprezível) de massa m', com velocidade u, medida em relação à Terra, segundo um ângulo θ com a horizontal. De acordo com o sistema descrito anteriormente, analise as seguintes afirmações. I. Após o garoto arremessar a bola, a energia mecânica do sistema aumenta II. Após o lançamento da bola, a velocidade da plataforma permanece nula. III. Após o lançamento da bola, a velocidade do centro de massa do sistema permanece inalterada. Estão corretos os itens",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II, somente.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II e III, somente.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I, II e III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I e III, somente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.1-2fase-q4",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 4,
+    "statement": "Um pescador encontra-se em seu barco nas águas tranquilas (sem ondas) de um lago em um dia de sol. Exatamente ao meio-dia, ele observa a imagem do sol através da superfície do lago. Sabendo que o raio da Terra é R e considerando a superfície do lago como sendo uma superfície refletora esférica em relação ao sol, pode-se afirmar que a imagem do sol em relação ao centro da Terra encontra-se à distância",
+    "options": [
+      {
+        "label": "a",
+        "text": "R.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2R.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2R/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q5",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 5,
+    "statement": "Os pulmões fazem parte do sistema respiratório, desempenhando um importante papel nas trocas gasosas, que são vitais para o bom funcionamento de nosso corpo. Eles apresentam formato cônico e estão localizados na caixa torácica. Os pulmões apresentam alvéolos pulmonares, pequenas bolsas parecidas com favos de mel, que podem ser encontrados em colmeias. As trocas gasosas entre os pulmões (meio interno) e o ambiente (meio externo) ocorrem por diferença de pressão. A esse respeito, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "quando a caixa torácica se expande, há a diminuição da pressão do ar em relação à pressão do meio externo, promovendo entrada de ar nos pulmões.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "quando a caixa torácica se contrai, a pressão do ar em seu interior é menor que a pressão no ambiente externo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "as pressões interna e externa são sempre iguais em todo o processo de respiração.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "em regiões de alta altitude, as pressões do ar internas e externas são maiores, deixando o ar mais rarefeito.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q6",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 6,
+    "statement": "O organismo de um ciclista consome uma média de energia igual a $4,2\\times10^6$ J por hora. Antes de uma prova, o ciclista tomou um energético com X calorias. Considerando 1 cal = 4,2 J, determine o valor de X sabendo que as calorias do energético serão consumidas nas primeiras 2 horas de prova.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\times10^6$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\times10^6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$5\\times10^6$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$8\\times10^6$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q7",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 7,
+    "statement": "Um experimento simples sobre eletromagnetismo consiste em lançar, da origem do plano XY, n vezes, uma carga Q positiva, de massa m, com velocidade inicial de módulo igual a V em uma região onde existe um campo magnético uniforme de módulo igual a B. A cada lançamento, a velocidade aumenta de um valor igual a V até que o último lançamento ocorra com velocidade nV. Em todos os lançamentos, a carga descreve uma trajetória circular. Para o primeiro lançamento, a trajetória tem raio R. O valor da soma dos raios das trajetórias circulares em termos de R para os n lançamentos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "nR.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Rn(1+n)/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "nR/2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3nR/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-2fase-q8",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 8,
+    "statement": "Em um laboratório industrial, existe um recipiente de vidro que está completamente cheio com um volume V de mercúrio a 20°C. Determine, aproximadamente, o percentual do volume de mercúrio que extravasa, em função de V, quando o conjunto é aquecido a 140°C. [Coeficiente de dilatação linear do mercúrio = $61,0\\\\times10^{-6}$°C⁻¹; Coeficiente de dilatação linear do vidro = $9,0\\\\times10^{-6}$°C⁻¹]",
+    "options": [
+      {
+        "label": "a",
+        "text": "3%V.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2%V.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,5%V.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3,5%V.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q9",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 9,
+    "statement": "A termodinâmica é um importante ramo da física que estuda, dentre outros assuntos, as trocas de calor. Como exemplo desses processos, é possível citar uma roupa secando no varal, ou mesmo, o aquecimento de água para fazer um café. Sobre os conceitos relacionados à termodinâmica, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "os processos reversíveis são necessariamente quase estáticos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "em uma transformação isotérmica, a variação da energia interna é diferente de zero.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "quando um gás se expande, pode-se dizer que o trabalho foi realizado pelo meio.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "em uma mesma transformação adiabática, é possível um gás se expandir e aumentar sua temperatura.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q10",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 10,
+    "statement": "O filósofo Tales de Mileto percebeu que, ao esfregar âmbar com pele de carneiro, pedaços de madeira eram atraídos pelo âmbar. Em 1672, Otto von Guericke inventou uma máquina capaz de eletrizar uma esfera de enxofre. A partir daí, é possível citar várias inovações relacionadas à eletricidade: a criação do para-raios por Benjamin Franklin; as observações de Hans Christian Örsted relacionadas a um fio percorrido por uma corrente elétrica que interage com agulha de uma bússola e a equação por meio da qual se estabelece uma relação entre a eletricidade e o magnetismo, formalizada em 1831 por Michael Faraday. Os fatos descritos anteriormente estão relacionados ao eletromagnetismo. Sobre cargas elétricas, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "quando estão em movimento, geram campo magnético, porém não geram campo elétrico.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "quando estão em repouso, geram campos elétrico e magnético.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "quando estão em repouso, geram campo elétrico de natureza conservativa.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nos processos de eletrização, é possível haver transferência de prótons ou de elétrons de um corpo para outro.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q11",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 11,
+    "statement": "O estudo da dinâmica de explosões abaixo da superfície da água (UNDEX) é um fenômeno físico complexo. Bolhas oscilantes são geradas e podem destruir substancialmente até veículos submarinos próximos a estruturas hidráulicas em virtude da energia liberada. Essas bolhas têm sua origem nas ondas de choques e altas pressões geradas no momento da explosão. O período T de pulsação dessas bolhas obedece a uma relação matemática razoavelmente simples e é dado pelo seguinte produto: $P^X D^Y E^Z$. Sabendo que nesse modelo, P representa a pressão estática, D, a densidade da água e E, a energia liberada na explosão, o produto XYZ resulta em",
+    "options": [
+      {
+        "label": "a",
+        "text": "5/36.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "−5/36.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−1/36.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q12",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 12,
+    "statement": "O Autorama ou Automodelismo de Fenda é um tipo de modelismo profissional ou amador em que carros movidos a eletricidade ou a pilha competem em pistas especialmente fabricadas para o esporte ou o entretenimento. Em uma competição hipotética, dois carrinhos NP e AS irão competir em pistas circulares concêntricas. O carrinho NP encontra-se na pista de raio R e desenvolve uma velocidade linear de módulo V constante, ao passo que o carrinho AS, na pista de raio 1,5R, desenvolve uma velocidade linear de módulo 2V constante. Os carrinhos iniciam a corrida alinhados e voltam a se alinhar pela primeira vez após 2s do início da corrida. Por alinhado, entenda-se que o raio vetor com origem em O e extremidade em NP e o raio vetor com origem em O e extremidade em AS têm mesma direção e sentido. O instante, em segundos, em que os carrinhos voltam a se encontrar pela terceira vez é",
+    "options": [
+      {
+        "label": "a",
+        "text": "18.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-2fase-q13",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 13,
+    "statement": "O balão de ar quente foi o primeiro veículo aéreo de sucesso construído pelo homem. O primeiro voo tripulado em um balão de ar quente foi realizado em 1783. Os franceses Jean François e François Laurent realizaram esse feito num balão criado pelos irmãos Montgolfier. Em um balão, o compartimento que mantém o ar quente em seu interior é denominado envelope. Suspenso e fixado a este, encontra-se o cesto do balão. Um balão de massa total M (Envelope + Cesto) desce verticalmente com uma aceleração A (A<G), onde G representa a aceleração da gravidade local. Para que o balão possa ascender com uma aceleração de mesmo módulo A, é necessário eliminar uma certa massa m do cesto do balão. Suponha que a força de sustentação que atua no balão em virtude da diferença de temperatura entre o interior e o exterior do Envelope não sofre mudanças em virtude da variação em sua massa. Ao desprezar todos os efeitos resistivos que porventura possam atuar no balão durante o processo, a massa m a ser eliminada é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "2MA/(G+A).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2MAG.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2MG/A.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "MG/(G+A).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q14",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 14,
+    "statement": "Durante o processo de fabricação de um enfeite cúbico de material de índice de refração N desconhecido, uma bolha de ar permanece presa em seu interior. Observa-se que a bolha de ar se encontra ao longo do eixo de simetria do cubo que passa pelo seu centro e é normal a duas faces opostas. Quando observada ao longo de uma direção normal à face superior, a bolha aparenta estar a 3cm dessa face. No entanto, quando observada ao longo de uma direção normal à face, mas através da face oposta à anterior, a bolha aparenta estar a 5cm dessa face. O índice de refração do material de que é feito o cubo, sabendo que este está imerso no ar (índice de refração unitário) e tem 12 cm de aresta, corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-2fase-q15",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 15,
+    "statement": "Uma partícula de massa M, presa à extremidade de uma mola ideal, executa um movimento harmônico simples de amplitude A, ao longo do eixo das abscissas Ox, com centro das oscilações em O, origem de Ox. Sabe-se que, a partir da equação de movimento, é possível obter uma relação funcional entre a posição X da partícula, medida a partir de O, e o tempo t. De modo alternativo e por considerações de energia, é possível obter uma relação funcional entre a velocidade V da partícula e sua posição X, medida a partir de O. Para uma amplitude A de 1m e uma frequência de oscilação de 0,5Hz, a relação procurada para V², em termos de X, é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\pi^2(1-X^2)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\pi^2(1+X^2)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\pi^2X^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\pi^2(4-X^2)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q16",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 16,
+    "statement": "Um bloco cúbico C de aresta L e de material de densidade D flutua em um líquido de densidade 2D com parte de seu volume imerso. Um bloco também cúbico, mas de aresta L/3, feito de material metálico cuja densidade é d>D, pode ser posto sobre a face livre (face superior) do bloco cúbico C sem alterar a sua estabilidade no líquido. Em virtude da presença do bloco metálico sobre C, este passa a flutuar em um nível mais baixo no líquido. Nessa situação, a distância medida a partir da face inferior de C à superfície livre do líquido é Y. O mesmo bloco metálico pode ser fixado à face inferior de C, oposta à face livre, resultando em uma nova configuração estável de C. Nessa nova configuração, a distância Z medida a partir da face inferior de C a superfície livre do líquido é tal que",
+    "options": [
+      {
+        "label": "a",
+        "text": "Z>Y.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Z<Y.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "Z=Y.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Z=L/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-2fase-q17",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 17,
+    "statement": "Um estudante tem à sua disposição capacitores de capacitância $C_x$, $C_y$ e uma fonte de bancada. A fonte de bancada é capaz de estabelecer uma diferença de potencial V fixa entre os terminais dos capacitores quando são conectados a ela de forma individual ou de forma combinada. Quando o estudante conecta o capacitor $C_x$ inicialmente descarregado à fonte de bancada, a energia armazenada neste é X. Ao desconectar $C_x$ da fonte e conectar $C_y$, também descarregado, a energia armazenada neste é Y. Se o estudante tivesse conectado à fonte de bancada um circuito simples obtido via associação, em série, dos dois capacitores $C_x$ e $C_y$, ambos inicialmente descarregados, a energia armazenada no conjunto seria",
+    "options": [
+      {
+        "label": "a",
+        "text": "XY/(X+Y).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "X+Y.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "XY.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1/X^2+1/Y^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-2fase-q18",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "A garrafa térmica foi inventada por Sir James Dewar em 1892 e tornou-se uma ferramenta de uso fundamental em laboratório. Após seu aprimoramento pelos fabricantes de vidro alemães Reinhold Burger e Albert Aschenbrenner, seu uso doméstico se tornou essencial na manutenção de bebidas quentes ou frias. Um cozinheiro tem à sua disposição duas garrafas térmicas idênticas de capacidade térmica desconhecida e mantidas a uma temperatura ambiente de 20°C. Uma das garrafas térmicas recebe 180g de água a uma temperatura de 60°C. Antes do preparo de um chá com água dessa garrafa, o cozinheiro verifica que a água está a 56°C, temperatura de equilíbrio. A segunda garrafa recebe 180g de água a 2°C, que será utilizada no preparo de um suco. Após equilíbrio térmico, a água na segunda garrafa estará a uma temperatura, em °C, de",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7,6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-2fase-q19",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Uma fonte sonora está presa a um carrinho montado sobre trilhos. A trajetória do carrinho é circular de raio 5m, e este completa uma volta a cada 1s. Um observador que se encontra em uma posição O, distante 10m do centro da trajetória do carrinho, percebe uma nítida mudança na frequência do sinal emitido pela fonte. De fato, o maior valor de frequência percebido pelo observador é F, ao passo que o menor valor de frequência percebido por este é f. Sabe-se que a fonte emite um sinal de 600Hz e que a velocidade de propagação do som no ar é de 330 m/s. Para o cálculo de F e f, considere os pontos de interseção das retas tangentes à trajetória circular do carrinho e que passam por O. Supondo, para efeito de cálculo, que π=3, a diferença entre o maior e o menor valor da frequência em Hz percebido pelo observador é de",
+    "options": [
+      {
+        "label": "a",
+        "text": "440.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "110.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "220.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "330.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-2fase-q20",
+    "examId": "2023.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 20,
+    "statement": "Um hobbista em eletrônica monta um circuito elétrico com resistores e uma fonte de bancada digital dotada de visor indicativo de tensão e corrente. Quando associa, em série, dois resistores e conecta o conjunto à fonte de bancada ajustada a 12V, surge, no visor, uma indicação de corrente de 300mA. Quando os mesmos resistores são associados em paralelo, e o conjunto, conectado à mesma fonte, a tensão é 6V para a tensão e 800mA para a corrente. Diante desses dados, a razão entre o menor e o maior valor das resistências utilizadas pelo hobbista é",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8/15.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]
