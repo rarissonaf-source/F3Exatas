@@ -12,7 +12,6 @@ import {
   clearCachedDiagnosis,
   saveDiagnosisSnapshot,
   fetchDiagnosisHistory,
-  isDiagnosisExplainerDismissed,
   DIAGNOSIS_MIN_QUESTIONS,
   type PerformanceSummary,
   type TopicPerformance,
@@ -93,7 +92,6 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
   const [clearing, setClearing] = useState(false);
   const [confirmingClear, setConfirmingClear] = useState(false);
   const [history, setHistory] = useState<DiagnosisSnapshot[]>([]);
-  const [infoOpen, setInfoOpen] = useState(false);
   const progressTimer = useRef<ReturnType<typeof setInterval> | null>(null);
 
   useEffect(() => {
@@ -120,13 +118,6 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
     }
   }, []);
 
-  // Mostra a explicação da cadência automaticamente na primeira vez que o
-  // usuário esbarra em um bloqueio (cooldown ou poucas questões novas), a
-  // menos que já tenha marcado "não mostrar de novo".
-  function maybeAutoExplain() {
-    if (!isDiagnosisExplainerDismissed()) setInfoOpen(true);
-  }
-
   async function handleGenerate() {
     if (!allowed) {
       setMode("locked");
@@ -147,10 +138,7 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
     setSummary(data);
 
     if (data?.cooldownActive) {
-      setTimeout(() => {
-        setMode("cooldown");
-        maybeAutoExplain();
-      }, 350);
+      setTimeout(() => setMode("cooldown"), 350);
       return;
     }
 
@@ -164,11 +152,6 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
         // Refaz a busca em vez de montar a entrada localmente — evita duplicar
         // aqui a lógica de cálculo por disciplina que já vive em performance.ts.
         if (saved) setHistory(await fetchDiagnosisHistory());
-      } else if (data.sinceDiagnosisAt) {
-        // Só é "questões novas insuficientes" quando já existe um diagnóstico
-        // anterior — no primeiro diagnóstico da conta, o mesmo limite abaixo
-        // já cobre esse caso com a mensagem "não tem dados ainda".
-        maybeAutoExplain();
       }
     }
     setTimeout(() => setMode("result"), 350);
@@ -198,9 +181,8 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
 
   return (
     <div>
-      <div className="mb-4 flex items-center gap-1.5">
-        <p className="text-xs font-semibold text-muted-foreground">Como funciona o diagnóstico</p>
-        <DiagnosisInfoDialog open={infoOpen} onOpenChange={setInfoOpen} />
+      <div className="mb-4">
+        <DiagnosisInfoDialog />
       </div>
 
       {mode === "result" && (

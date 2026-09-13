@@ -179,29 +179,6 @@ export function clearCachedDiagnosis() {
   }
 }
 
-// Preferência "não mostrar essa explicação de novo" do popup que explica a
-// cadência do diagnóstico (cooldown + questões novas) — não é dado de conta,
-// só uma conveniência de navegador, então fica fora do JSON por-conta acima.
-const DIAGNOSIS_EXPLAINER_DISMISSED_KEY = "f3_diagnosis_explainer_dismissed";
-
-export function isDiagnosisExplainerDismissed(): boolean {
-  if (typeof window === "undefined") return false;
-  try {
-    return localStorage.getItem(DIAGNOSIS_EXPLAINER_DISMISSED_KEY) === "1";
-  } catch {
-    return false;
-  }
-}
-
-export function dismissDiagnosisExplainer() {
-  if (typeof window === "undefined") return;
-  try {
-    localStorage.setItem(DIAGNOSIS_EXPLAINER_DISMISSED_KEY, "1");
-  } catch {
-    /* ignora */
-  }
-}
-
 // Abaixo do que isso de questões novas respondidas desde o diagnóstico
 // anterior (ou desde sempre, no primeiro diagnóstico da conta), a geração
 // fica bloqueada e o painel sugere responder mais em vez de tirar conclusões

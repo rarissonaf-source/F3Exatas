@@ -1,9 +1,9 @@
 "use client";
 
-import { useState } from "react";
-import { Info } from "lucide-react";
+import { HelpCircle } from "lucide-react";
 import {
   Dialog,
+  DialogClose,
   DialogContent,
   DialogDescription,
   DialogFooter,
@@ -12,46 +12,22 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
-import { DIAGNOSIS_MIN_QUESTIONS, dismissDiagnosisExplainer } from "@/lib/performance";
+import { DIAGNOSIS_MIN_QUESTIONS } from "@/lib/performance";
 
-/**
- * Botão de "i" que explica a cadência do diagnóstico (cooldown de 24h +
- * mínimo de questões novas). Controlado de fora (`open`/`onOpenChange`) pra
- * poder ser aberto automaticamente na primeira vez que o usuário esbarra no
- * cooldown ou na exigência de questões novas, além de poder ser reaberto a
- * qualquer momento clicando no ícone.
- */
-export function DiagnosisInfoDialog({
-  open,
-  onOpenChange,
-  triggerClassName,
-}: {
-  open: boolean;
-  onOpenChange: (open: boolean) => void;
-  triggerClassName?: string;
-}) {
-  const [dontShowAgain, setDontShowAgain] = useState(false);
-
-  function handleOpenChange(next: boolean) {
-    if (!next && dontShowAgain) dismissDiagnosisExplainer();
-    onOpenChange(next);
-  }
-
+/** Botão independente ("Como funciona" + ícone de interrogação) que abre a explicação da cadência do diagnóstico (cooldown de 24h + mínimo de questões novas). Autocontido — não precisa de estado do componente pai. */
+export function DiagnosisInfoDialog() {
   return (
-    <Dialog open={open} onOpenChange={handleOpenChange}>
+    <Dialog>
       <DialogTrigger
         render={
           <button
             type="button"
-            className={
-              triggerClassName ??
-              "inline-flex size-5 items-center justify-center rounded-full text-muted-foreground hover:text-foreground"
-            }
-            aria-label="Como funciona o diagnóstico"
+            className="inline-flex items-center gap-1.5 rounded-full border border-cyan-200 bg-cyan-50 px-3 py-1.5 text-xs font-semibold text-cyan-700 transition-colors hover:bg-cyan-100"
           />
         }
       >
-        <Info className="size-4" />
+        <HelpCircle className="size-3.5" />
+        Como funciona
       </DialogTrigger>
       <DialogContent className="sm:max-w-md">
         <DialogHeader>
@@ -73,17 +49,8 @@ export function DiagnosisInfoDialog({
             </p>
           </DialogDescription>
         </DialogHeader>
-        <label className="flex items-center gap-2 text-sm text-muted-foreground">
-          <input
-            type="checkbox"
-            checked={dontShowAgain}
-            onChange={(e) => setDontShowAgain(e.target.checked)}
-            className="size-4 rounded border-input"
-          />
-          Não mostrar essa explicação automaticamente de novo
-        </label>
         <DialogFooter>
-          <Button onClick={() => handleOpenChange(false)}>Entendi</Button>
+          <DialogClose render={<Button />}>Entendi</DialogClose>
         </DialogFooter>
       </DialogContent>
     </Dialog>
