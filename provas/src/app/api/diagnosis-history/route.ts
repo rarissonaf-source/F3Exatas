@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { sql } from "@vercel/postgres";
 import { randomUUID } from "node:crypto";
 import { ensureDiagnosisSnapshotsTable } from "@/lib/performance-db";
-import { hasProvasPlusAccess } from "@/lib/provas-plus";
+import { hasProvasPlusAccess, PROVAS_PLUS_ADMIN_EMAILS } from "@/lib/provas-plus";
 
 // Histórico de diagnósticos gerados, usado pro gráfico de evolução do
 // F3Provas+. Limitado a 1 snapshot por conta a cada 24h (ver POST abaixo) pra
@@ -53,13 +53,19 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "Recurso disponível apenas para quem tem o plano com desempenho." }, { status: 403 });
   }
 
-  const { rows: recent } = await sql`
-    select 1 from diagnosis_snapshots
-    where account_key = ${accountKey} and created_at >= now() - interval '24 hours'
-    limit 1
-  `;
-  if (recent.length > 0) {
-    return NextResponse.json({ ok: true, saved: false, reason: "already_today" });
+  // Contas admin (mesma allowlist do resto do F3Provas+) não têm o limite
+  // diário — precisam gerar vários diagnósticos seguidos pra testar o
+  // gráfico sem esperar 24h entre um ponto e outro.
+  const isAdmin = PROVAS_PLUS_ADMIN_EMAILS.includes(accountKey.toLowerCase());
+  if (!isAdmin) {
+    const { rows: recent } = await sql`
+      select 1 from diagnosis_snapshots
+      where account_key = ${accountKey} and created_at >= now() - interval '24 hours'
+      limit 1
+    `;
+    if (recent.length > 0) {
+      return NextResponse.json({ ok: true, saved: false, reason: "already_today" });
+    }
   }
 
   await sql`
