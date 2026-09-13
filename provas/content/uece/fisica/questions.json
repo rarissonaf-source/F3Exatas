@@ -29918,5 +29918,37 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2023.2-2fase-q17",
+    "examId": "2023.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 17,
+    "statement": "Blocos de concreto pré-fabricados são utilizados para simular pedras de costas rochosas em projetos de quebra-mares, diques e paredões. Feitos de material com baixo teor de carbono, conceito conhecido como engenharia verde, e produzidos nos mais diversos formatos, facilitam a colonização de algas, corais e crustáceos. Um bloco de concreto típico em formato cúbico de lado L apresenta volume V quando observado no ar, cujo índice de refração é unitário. No entanto, quando totalmente imerso em água, cujo índice de refração é N, e visto por um observador situado no ar, o bloco apresenta volume aparente igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "VN.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "V/N.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "V.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$V^N$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
