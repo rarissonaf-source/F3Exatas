@@ -34,14 +34,21 @@ export function DiagnosisInfoDialog() {
           <DialogTitle>Como funciona o diagnóstico</DialogTitle>
           <DialogDescription render={<div className="space-y-3 pt-1 text-left" />}>
             <p>
-              Cada novo diagnóstico compara só as questões que você respondeu <strong>desde o diagnóstico
-              anterior</strong> — não uma janela fixa de dias. Assim cada ponto do gráfico mostra sua evolução real
-              de um diagnóstico pro outro.
+              O diagnóstico analisa as questões que você já respondeu e mostra seu desempenho geral e por assunto —
+              onde você está mandando bem e onde precisa reforçar.
             </p>
             <p>
-              Por isso, um novo diagnóstico só fica disponível depois de <strong>24 horas</strong> desde o último
-              e de você ter respondido pelo menos <strong>{DIAGNOSIS_MIN_QUESTIONS} questões novas</strong> nesse
-              intervalo.
+              O seu <strong>1º diagnóstico</strong> considera todas as questões que você já respondeu até agora.
+            </p>
+            <p>
+              A partir daí, cada <strong>novo</strong> diagnóstico passa a considerar só as questões respondidas{" "}
+              <strong>desde o diagnóstico anterior</strong> — não as de novo desde o início. É assim que o gráfico
+              consegue mostrar sua evolução real de um diagnóstico pro outro, em vez de só uma média acumulada.
+            </p>
+            <p>
+              Por causa disso, um novo diagnóstico só fica disponível depois de <strong>24 horas</strong> desde o
+              último e de você ter respondido pelo menos <strong>{DIAGNOSIS_MIN_QUESTIONS} questões novas</strong> nesse
+              intervalo — tempo suficiente pra esse novo recorte fazer sentido.
             </p>
             <p className="text-xs text-muted-foreground">
               Exemplo: hoje você responde 30 questões e gera seu 1º diagnóstico. Amanhã, depois de responder mais
