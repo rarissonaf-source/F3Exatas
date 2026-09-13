@@ -3,7 +3,7 @@ import { sql } from "@vercel/postgres";
 // Mesma allowlist usada em auth-gate.js/.tsx (window.F3Exatas.hasCourseAccess) —
 // esses e-mails sempre têm acesso a qualquer recurso do F3Provas+ (diagnóstico
 // de desempenho, PDF de resolução, etc.), independente de plano.
-export const PROVAS_PLUS_ADMIN_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com"];
+export const PROVAS_PLUS_ADMIN_EMAILS = ["rarissonaf@gmail.com", "cerqueirasidney@gmail.com", "kellifgomes@gmail.com"];
 
 let profilesPlusColumnEnsured = false;
 
