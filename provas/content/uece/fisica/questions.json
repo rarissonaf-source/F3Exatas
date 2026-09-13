@@ -28798,5 +28798,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-q39",
+    "examId": "2023.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 39,
+    "statement": "Um motociclista trafega pela avenida Rogaciano Leite em sua motocicleta Harley-Davidson. Ao entrar em um túnel, o motociclista percebe uma diferença no som produzido pelo escapamento de sua motocicleta em virtude da reflexão do som nas paredes do túnel. O fenômeno físico associado a essa percepção do som é explicado pela",
+    "options": [
+      {
+        "label": "a",
+        "text": "reverberação.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "difração.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "absorção.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "interferência.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-q40",
+    "examId": "2023.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 40,
+    "statement": "Com as frequentes reduções de temperatura no Sul do Brasil, consumidores passam a procurar por aquecedores elétricos. Dentre os diversos modelos de aquecedores disponíveis, destacam-se os termoventiladores cerâmicos ou halógenos. De modo a manter um ambiente aquecido a 20ºC, um consumidor faz uso de um aquecedor elétrico de 2000W. Suponha que a temperatura é uniforme através de toda a sala e que o calor é cedido para o meio exterior unicamente devido à presença de uma janela de vidro de 1m² e de 10mm de espessura. Sabendo que o vidro apresenta uma condutividade térmica típica de 0,2cal/(s.°C.m) e que, para efeito de cálculo, 1cal=4J, a temperatura no meio exterior à sala em °C é de",
+    "options": [
+      {
+        "label": "a",
+        "text": "−5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "−15.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-q41",
+    "examId": "2023.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 41,
+    "statement": "A Sociedade Astronômica Brasileira (SAB) promove anualmente dois eventos educacionais: a Olimpíada Brasileira de Astronomia (OBA) e a Mostra Brasileira de Foguetes (MOBFOG). A MOBFOG é uma olimpíada inteiramente experimental e tem como um de seus objetivos a construção e o lançamento, de forma oblíqua, de foguetes a partir de uma base de lançamento. Os foguetes e suas bases de lançamento são confeccionados de forma individual ou em equipes com até três componentes que, em geral, fazem uso de material de baixo custo. Durante um evento da MOBFOG, duas equipes resolveram adotar como estratégia de competição a utilização, em seus lançamentos, de foguetes de mesma massa, mesma velocidade de lançamento e ângulos de lançamento complementares, ou seja, uma vez conhecido o ângulo de lançamento de uma das equipes, a equipe rival utilizará o complementar desse ângulo. Desprezando-se a resistência do ar e considerando que os foguetes utilizados pelas duas equipes tenham dimensões desprezíveis, é correto dizer que",
+    "options": [
+      {
+        "label": "a",
+        "text": "os foguetes terão alcances diferentes.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "o tempo de permanência no ar é o mesmo para os dois foguetes.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "o foguete com maior ângulo de lançamento possui maior energia cinética na altura máxima.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a soma das alturas máximas atingidas pelos foguetes independe dos ângulos de lançamento.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-q42",
+    "examId": "2023.1",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 42,
+    "statement": "Blocos de construção são utilizados frequentemente em sessões de terapia ocupacional, de modo a desenvolver competências físicas e cognitivas em crianças. Esse tipo de brinquedo pode apresentar peças simples, coloridas ou de diferentes formas geométricas. Um terapeuta ocupacional, com o intuito de estimular a coordenação motora de uma criança, propõe como atividade a construção de uma torre com blocos cúbicos de peso P idênticos e de aresta A. A construção da torre deve ser realizada empilhando os blocos cúbicos que estão originalmente espalhados no chão de forma individual uns sobre os outros. O trabalho total realizado pela criança e necessário para a construção de uma torre formada por cinco blocos é expresso por",
+    "options": [
+      {
+        "label": "a",
+        "text": "PA.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15PA.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10PA.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Nulo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-q43",
+    "examId": "2023.1",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 43,
+    "statement": "O sistema de unidades CGS (centímetro-grama-segundo) foi proposto em 1832 pelo matemático Carl Friedrich Gauss. Por ser inconveniente do ponto de vista prático, esse sistema foi substituído internacionalmente, para propósitos científicos, pelo sistema MKS (metro-kilograma-segundo). Um estudante deseja fazer uso de um novo sistema de unidades no qual a unidade padrão de comprimento é 5 cm, ao passo que a unidade padrão para massa é 20 g. Um objeto cuja densidade no sistema CGS seja dada por 8 g/cm³ terá, no novo sistema adotado pelo estudante, um valor numérico igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-q44",
+    "examId": "2023.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 44,
+    "statement": "Uma maneira de medir a massa em ambientes de microgravidade, isto é, na ausência de efeitos gravitacionais, é fazer uso de uma balança inercial. Uma balança inercial é constituída de uma suspensão elástica e um assento sobre o qual repousa o objeto cuja massa se deseja determinar. O dispositivo assim descrito funcionará como um sistema massa-mola usual e terá sua frequência natural de oscilação modificada pela presença do objeto colocado sobre o assento. Em estações espaciais, esse equipamento é utilizado para medir a massa da tripulação. Na ausência do tripulante, a balança oscila com uma frequência natural de 2Hz. Sabendo que o assento do dispositivo tem massa de 25kg e que, na presença do tripulante, este passa a oscilar com uma frequência de 1Hz, a massa em kg do tripulante é",
+    "options": [
+      {
+        "label": "a",
+        "text": "125.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "75.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "50.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-q45",
+    "examId": "2023.1",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 45,
+    "statement": "De modo a estudar os efeitos da presença dos dielétricos em capacitores e sua influência sobre a diferença de potencial entre os terminais deles, um estudante resolve montar um circuito simples com capacitores de valores C e 2C, ambos de placas paralelas. O circuito consiste em conectar os capacitores C e 2C em paralelo e, em seguida, o conjunto assim formado é conectado aos terminais de uma bateria capaz de estabelecer uma diferença de potencial V entre os terminais da associação. A seguir, a bateria é desconectada do conjunto, e um material de constante dielétrica K é introduzido entre as placas do capacitor C, resultando em um novo valor de diferença de potencial entre os terminais da associação. A combinação que expressa o novo valor do potencial em termos de K e V é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "2V/(K+2).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3V/(K+3).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "V/(K+2).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3V/(K+2).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.1-q46",
+    "examId": "2023.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 46,
+    "statement": "Espelhos esféricos são amplamente utilizados em nosso cotidiano. Como exemplo, é possível citar o espelho retrovisor de um carro ou, mesmo, o espelho utilizado pelo dentista ao examinar os dentes de um paciente. Um estudante deseja montar um sistema óptico para uma feira de ciências. Tal sistema consiste em dois cilindros metálicos idênticos (objetos), porém de cores diferentes sendo um deles preto e o outro branco, que serão colocados um sobre o outro perpendicularmente ao eixo principal de um espelho esférico côncavo, em uma sala iluminada apenas com luz monocromática verde. Sobre a imagem dos cilindros formada pelo espelho côncavo, podemos afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "pode ser direita, menor que a soma das alturas dos cilindros e vista nas cores verde e branco.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "caso os cilindros estejam posicionados no centro de curvatura do espelho, a imagem também estará posicionada no centro de curvatura, mas será invertida em relação ao objeto e vista nas cores preto e branco.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "pode ser invertida, menor que a soma das alturas dos cilindros e observada nas cores preto e verde.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "existe a possibilidade da imagem ser virtual e menor que a soma das alturas dos cilindros.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]

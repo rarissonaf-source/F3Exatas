@@ -32318,5 +32318,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-q13",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 13,
+    "statement": "Uma criança e um adulto perderam, cada um, 5% de seu peso. Se a média aritmética das perdas de peso é 2,4 kg e se, inicialmente, o adulto pesava 80 kg, então o peso inicial da criança era",
+    "options": [
+      {
+        "label": "a",
+        "text": "18 kg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "12 kg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16 kg.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14 kg.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-q14",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "Em um relógio analógico circular usual, quando a hora observada é 6h20min, a medida em graus do menor ângulo entre o ponteiro das horas e o ponteiro dos minutos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "68.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "62.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "65.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "70.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.1-q15",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "Uma plantação de alface ocupa uma área de forma retangular. Essa área é tal que a distância entre seus cantos opostos é 150 m, e a medida do menor ângulo entre suas diagonais é 60 graus. Então, a medida, em m², da área considerada é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$5625\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5620\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$5615\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5625\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.1-q16",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 16,
+    "statement": "Se z é o número complexo tal que $2z+\\bar{z}i-1=0$, onde $\\bar{z}$ é o conjugado de z e i é o número complexo tal que $i^2=-1$, então o módulo de z é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt5/3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt5/5$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt5/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt5/4$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-q17",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 17,
+    "statement": "Ao dividirmos o polinômio $P(x)=x^6-1$ por $x+2$, obtemos o resto R e o quociente Q(x). O resto da divisão de Q(x) por $x-1$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "−31.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−61.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "−41.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−21.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.1-q18",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 18,
+    "statement": "Em um plano, considere duas circunferências concêntricas $C_1$ e $C_2$ cujas medidas dos raios, em cm, são respectivamente $r_1$ e $r_2$ com $r_1>r_2$. Se a corda XY da circunferência $C_1$ é tangente à circunferência $C_2$ e se a medida do segmento XY é 16 cm, então podemos afirmar corretamente que a medida, em cm², da área da região do plano interior à circunferência $C_1$ e exterior à circunferência $C_2$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$64\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$40\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$56\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$49\\pi$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-q19",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 19,
+    "statement": "Uma piscina localizada na cobertura de um edifício residencial possui, internamente, a forma de um paralelepípedo retangular, com base plana horizontal. Se as medidas das linhas diagonais das faces laterais e da base interna da piscina são, respectivamente, 5 m, $4\\sqrt2$ m e 5 m, então a capacidade máxima de recebimento de água no interior da piscina, em litros, é [Nota: 1 litro equivale a 1 dm³.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "25.000.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "64.000.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "36.000.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48.000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.1-q20",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 20,
+    "statement": "Quantos são os números inteiros positivos com três dígitos nos quais aparecem apenas os algarismos 1, 3 e 5, repetidos ou não, que são divisíveis por 5?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.1-q21",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "Considere um plano com o sistema de coordenadas cartesiano usual, onde a unidade de medida usada nos eixos coordenados é o cm. Nesse plano, a equação $x^2+y^2-8x-8y+7=0$ representa uma circunferência cuja interseção com os eixos coordenados são os pontos M, N, P e Q. Pode-se afirmar corretamente que a medida da área do quadrilátero convexo MNPQ, em cm², é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "36.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "35.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.1-q22",
+    "examId": "2023.1",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 22,
+    "statement": "Sejam a e b números reais positivos e distintos. Se $0<a<1$, e se a função $f: R\\to R$ definida por $f(x)=b.a^x$, então o valor da \\\"soma infinita\\\" $f(1)+f(2)+f(3)+\\cdots+f(n)+\\cdots$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$a^2b/(1-a)$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$ab/(1-a)$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$b/(1-a)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$b^2/(1-a)$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
