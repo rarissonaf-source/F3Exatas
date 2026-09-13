@@ -30846,5 +30846,901 @@
     ],
     "imagePath": null,
     "correctAnswer": "d"
+  },
+  {
+    "id": "2024.2-q39",
+    "examId": "2024.2",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 39,
+    "statement": "A interação gravitacional é uma das quatro interações fundamentais da natureza. Juntamente com as partículas conhecidas como fundamentais e com as demais interações (eletromagnética, forte e fraca) constitui hoje o que conhecemos como modelo padrão da Física de Partículas. Além disso, a teoria newtoniana da gravidade é uma aproximação de uma teoria mais fundamental, para descrição da gravidade, proposta por Einstein em 1915. Compreendida em termos geométricos, a gravidade, como apresentada no modelo proposto por Einstein mudou nossa visão de espaço e tempo.\n\nAtente para o que se afirma a seguir em relação à interação gravitacional newtoniana e assinale com V o que for verdadeiro e com F o que for falso.\n\n( ) Na teoria newtoniana, a interação gravitacional é uma interação universal, entre todas as massas, que é sempre atrativa.\n( ) A interação gravitacional é uma interação de curto alcance e sua lei do inverso do quadrado da distância governa o comportamento de nosso universo.\n( ) É possível criar uma blindagem gravitacional, em analogia com o caso elétrico, uma vez que cargas gravitacionais, isto é, as massas positivas e negativas podem ser encontradas livremente na natureza.\n( ) A interação gravitacional é a mais fraca dentre as quatro interações fundamentais conhecidas, atuando em todas as escalas de energia acessíveis.\n\nA sequência correta, de cima para baixo, é:",
+    "options": [
+      {
+        "label": "a",
+        "text": "V, F, F, V.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "V, F, V, F.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "F, V, V, F.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "F, V, F, V.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.2-q40",
+    "examId": "2024.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 40,
+    "statement": "Em um laboratório de física experimental, estudantes estão investigando as propriedades de dois condutores elétricos A e B isolados e inicialmente neutros. Durante o experimento, o condutor A é ligado a uma fonte de alta tensão até que lhe seja transferida quantidade de carga elétrica Q. Em seguida, o condutor B é posto em contato com o condutor A, permitindo que a carga elétrica do condutor A seja compartilhada com o condutor B. Sobre esse experimento, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a carga em A aumenta enquanto a carga em B diminui, mantendo constante a carga total do sistema.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a carga total foi redistribuída entre A e B de forma que o potencial elétrico em A ficasse maior que o potencial elétrico de B, mantendo, assim, a carga total do sistema conservada.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a carga foi redistribuída entre os condutores A e B até que atingissem o mesmo potencial elétrico, com a carga total do sistema conservada.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a quantidade de carga nos condutores, ao final do processo, é sempre a mesma independente do volume e do material de que são feitos os condutores A e B.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.2-q41",
+    "examId": "2024.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 41,
+    "statement": "Em uma aula prática de física, o professor propõe aos alunos uma forma de estimar o diâmetro do Sol. A atividade consiste em fazer um pequeno furo em uma cartolina para projetar a imagem do Sol em uma superfície plana, sendo d o diâmetro da imagem projetada do Sol e h a distância entre a cartolina e a superfície de projeção. Desprezando o movimento relativo entre o Sol e a Terra, e considerando que a luz se propagou em linha reta em toda sua trajetória, é correto afirmar que o diâmetro do Sol em função de H, d e h é, aproximadamente,\n\n(Nota: H é a distância entre o Sol e a cartolina.)",
+    "options": [
+      {
+        "label": "a",
+        "text": "dH/h.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "(H+d)/h.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(H−d)/h.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "hH/d.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.2-q42",
+    "examId": "2024.2",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 42,
+    "statement": "Durante um teste em uma pista retilínea, o engenheiro de testes avalia o desempenho do novo carro esportivo Aldi SR. Este carro acelera do repouso até 100 km/h (27,8 m/s) com uma aceleração constante de 9 m/s² e, em seguida, de 100 km/h a 200 km/h (55,6 m/s) com uma aceleração também constante de 5 m/s². Com base nesses dados, pode-se afirmar corretamente que a velocidade média do Aldi SR, durante o teste de aceleração, partindo do repouso até atingir a velocidade final de 200 km/h é de, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "32 km/h.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "115 km/h.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "140 km/h.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100 km/h.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.2-q43",
+    "examId": "2024.2",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 43,
+    "statement": "Em um seminário de física, um professor apresentou aos alunos o conceito de transformações cíclicas em sistemas termodinâmicos. Ele explicou que, em uma transformação cíclica, um sistema retorna ao seu estado inicial definido em termos das variáveis de estado, pressão, volume e temperatura, após passar por uma série de processos termodinâmicos. Na sequência, o professor propôs um problema teórico envolvendo um motor térmico ideal, operando em ciclos, no qual o sistema realiza trabalho sobre o ambiente e troca calor com dois reservatórios térmicos, sendo um quente e o outro frio, com temperaturas T1 e T2 respectivamente. Com base no entendimento das transformações cíclicas e das leis da termodinâmica, assinale a afirmação verdadeira em relação ao funcionamento desse motor térmico ideal.",
+    "options": [
+      {
+        "label": "a",
+        "text": "O trabalho total realizado pelo motor em um ciclo é igual à soma dos módulos das quantidades de calor absorvido e rejeitado pelas fontes quente e fria.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "O rendimento do motor térmico é 100% quando o motor realiza um processo cíclico por meio de um ciclo de Carnot.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "O rendimento do motor térmico ideal pode ser calculado em termos das temperaturas T1 e T2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Em toda transformação cíclica, o trabalho realizado ao final de cada ciclo é nulo, uma vez que o sistema retorna ao seu volume inicial.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.2-q44",
+    "examId": "2024.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 44,
+    "statement": "Como uma proposta desafio, um professor fornece aos seus alunos dois capacitores cerâmicos de capacitâncias X e Y desconhecidas. Na impossibilidade de se utilizar um capacímetro, as únicas informações conhecidas pelos alunos são as capacitâncias máximas e mínimas, medidas em pF (picofarads), que podem ser obtidas a partir das combinações entre X e Y. Sabendo que o valor máximo e o mínimo para a capacitância combinada dos capacitores X e Y valem respectivamente 13 e 36/13, a razão entre a capacitância do capacitor de maior valor e a capacitância do capacitor de menor valor é",
+    "options": [
+      {
+        "label": "a",
+        "text": "9/4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "18/13.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "23/13.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.2-q45",
+    "examId": "2024.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 45,
+    "statement": "O efeito Pop-Up é observado quando uma esfera flutuante, mantida presa abaixo da superfície da água, é solta e desloca-se através do fluido saltando em direção ao ar. A altura atingida pela esfera ao ser lançada ao ar, ao contrário do que poderíamos imaginar, não aumenta com a sua profundidade no interior do fluido, mas dependerá de inúmeros fatores que afetam sua velocidade e trajetória. O estudo deste efeito pode melhorar a compreensão sobre a dinâmica de veículos subaquáticos, construção de estruturas flutuantes e a conversão de energia oriunda do movimento das marés. Em um experimento típico, onde a aceleração da gravidade local tem módulo g, uma esfera flutuante de densidade X e de dimensões desprezíveis é mantida a uma profundidade h no interior da água de densidade Y (Y>X). Desprezando os efeitos de arraste no ar e no fluido e considerando apenas o regime vertical, ausência de movimentação lateral, é correto afirmar que a altura H atingida pela esfera acima da superfície livre do líquido é",
+    "options": [
+      {
+        "label": "a",
+        "text": "(Y/X+1)h.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "hY/X.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(X/Y+1)h.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(Y/X−1)h.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.2-q46",
+    "examId": "2024.2",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 46,
+    "statement": "Um estudante munido de uma mola ideal e de um bloco padrão constrói, em laboratório, um oscilador harmônico simples. Após alguma condição inicial fornecida ao sistema, o estudante observa que o bloco oscila horizontalmente com uma frequência angular ω e amplitude 2L em torno da posição de equilíbrio O, origem de Ox (eixo das abcissas). Além disso, o estudante registra que após um intervalo de tempo mínimo Δt, o bloco saiu do ponto A situado em x = −2L e atingiu o ponto B situado em x = L. Desprezando quaisquer efeitos resistivos indesejados, o intervalo de tempo Δt é expresso, em termos de ω, por",
+    "options": [
+      {
+        "label": "a",
+        "text": "πω/6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ω.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "πω/4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2π/3ω.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.2-2fase-q1",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 1,
+    "statement": "Em uma aula de física, o professor desafia os alunos a pensarem sobre as propriedades dos sistemas físicos conservativos e não conservativos. Ele propõe a análise de situações onde são aplicadas forças conservativas, como a gravidade ou a força elástica em uma mola, e compara com casos onde forças não conservativas, como o atrito ou a resistência do ar, estão presentes. Com base nessa discussão, ele fez as seguintes afirmações:\n\nI. Em um sistema isolado onde apenas forças conservativas estão atuando, a energia mecânica total se conserva.\nII. O trabalho realizado por uma força não conservativa depende da trajetória seguida pelo objeto.\nIII. Um sistema conservativo pode ser descrito por uma função de ponto, ou energia potencial, e o trabalho realizado sobre um objeto, ao se mover entre dois pontos, é independente do caminho percorrido entre esses pontos.\n\nEstá correto o que o professor afirma em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "II e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I, II e III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.2-2fase-q2",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 2,
+    "statement": "Em um experimento de laboratório, é utilizado um recipiente fechado que contém um gás ideal a uma temperatura constante T. Esse recipiente tem um volume fixo V e contém N moléculas de gás, cada uma com massa m. Sabendo que a pressão exercida pelo gás sobre as paredes do recipiente é P e considerando a teoria cinética dos gases ideais, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a pressão P exercida pelo gás é diretamente proporcional à raiz quadrada da temperatura T e inversamente proporcional à raiz quadrada do número de moléculas N.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a energia cinética total do gás é proporcional ao produto do número de moléculas N pela temperatura T, e independente da massa m de cada molécula.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a pressão P exercida pelo gás é diretamente proporcional ao número de moléculas N, à temperatura T, e inversamente proporcional ao volume V.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a velocidade média das moléculas desse gás é proporcional à raiz quadrada da temperatura T e inversamente proporcional à raiz quadrada da massa m de cada molécula.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.2-2fase-q3",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 3,
+    "statement": "Um estudante de física está realizando um experimento para investigar as propriedades do campo magnético. Durante o experimento, ele observa uma partícula carregada, com uma carga Q, movendo-se em uma região do espaço que contém um campo magnético uniforme B. Ao analisar o movimento da partícula, o estudante faz as seguintes afirmações sobre o campo magnético e suas propriedades:\n\nI. O campo magnético é um campo vetorial que exerce força sobre a carga elétrica Q em movimento, mas não realiza trabalho sobre ela.\nII. Embora a força magnética possa alterar a direção da velocidade da partícula carregada, ela não pode fazer com que a partícula ganhe ou perca energia cinética.\nIII. O campo magnético, sendo conservativo, permite que a energia mecânica de uma partícula carregada seja conservada ao longo da trajetória.\n\nEstão corretas as afirmações contidas em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "II e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I, II e III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.2-2fase-q4",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 4,
+    "statement": "Considere um sistema isolado que consiste em um bloco de cobre de 1 kg inicialmente a 100 °C e um bloco de alumínio de 1 kg inicialmente a 20 °C. Os blocos são colocados em contato dentro de um recipiente termicamente isolado e são deixados para atingir o equilíbrio térmico. Sabendo que o calor específico do cobre é de 0,3 J/g°C e do alumínio é de 0,9 J/g°C, pode-se afirmar corretamente que a variação da entropia",
+    "options": [
+      {
+        "label": "a",
+        "text": "do cobre é negativa e o processo é irreversível porque há geração de entropia devido ao fluxo de calor espontâneo entre os blocos.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "do sistema é zero e o processo é reversível porque o sistema é isolado.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "do alumínio é negativa e o processo é reversível porque a energia é limitada de forma controlada dentro do sistema isolado.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "do sistema é positiva e o processo é reversível porque, embora haja fluxo de calor espontâneo, o sistema isolado não permite transferência de energia para o ambiente.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.2-2fase-q5",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 5,
+    "statement": "Considere um espelho esférico convexo utilizado em um ponto de observação estratégico para melhorar a visibilidade em uma curva fechada de uma estrada. Um carro se aproxima dessa curva e é observado através do espelho e, à medida que o carro se afasta do espelho, sua imagem",
+    "options": [
+      {
+        "label": "a",
+        "text": "se torna real e maior.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "permanece virtual e direita, mas aumenta de tamanho.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "permanece virtual e direita, mas diminui de tamanho.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "se torna invertida e diminui de tamanho.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.2-2fase-q6",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 6,
+    "statement": "Durante um experimento de laboratório, um estudante de física avançada utiliza um feixe de laser que passa por uma fenda única para estudar o padrão de difração resultante. A largura da fenda é denotada como a e o comprimento de onda do laser utilizado é λ. O padrão de difração é observado em uma tela posicionada a uma distância L da fenda. O estudante nota que o padrão de difração possui máximos e mínimos bem definidos, o que o leva a concluir que os mínimos de difração",
+    "options": [
+      {
+        "label": "a",
+        "text": "ocorrem em valores de x na tela dados por x = L mλ/a, onde m é um número inteiro que não inclui o zero.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "ocorrem em valores de x na tela dados por x = L a/mλ, onde m é um número inteiro positivo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "são determinados pela relação dada por x = L λ/ma, onde m é um número inteiro incluindo o zero.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "ocorrem em valores de x na tela dados por x = L mλ/a.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.2-2fase-q7",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 7,
+    "statement": "Em um experimento de física que obedece às leis de Ohm, um fio de cobre, de 1 metro de comprimento, com seção transversal de área igual a 1.10⁻⁴ m² é submetido a uma diferença de potencial de 10V. Sabendo que a densidade de elétrons livres para o cobre é 8.10²⁸ elétrons/m³ e que a resistividade do cobre é 2.10⁻⁸ Ω·m, pode-se afirmar corretamente que a velocidade de deriva dos elétrons é, aproximadamente,",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,50 mm/s.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "39 mm/s.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50 mm/s.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "390 mm/s.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.2-2fase-q8",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 8,
+    "statement": "Em um recipiente completamente preenchido por um líquido de densidade constante ρ, dois objetos sólidos de mesma massa M e constituídos do mesmo material estão totalmente submersos e em equilíbrio longe das bordas. O primeiro objeto é uma esfera com raio r, e o segundo é um cilindro com raio R e altura H. Assim, é correto afirmar que a razão entre as máximas diferenças de pressão suportada pelo cilindro em relação à esfera é",
+    "options": [
+      {
+        "label": "a",
+        "text": "H/r.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2H/r.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "H/2r.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "H/2R.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.2-2fase-q9",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 9,
+    "statement": "Um pêndulo simples ideal, de comprimento L e período T, é deslocado formando um ângulo θ com a direção vertical em sua posição mais extrema. Após ser liberado, o pêndulo se desloca até a extremidade oposta de sua trajetória. Assim, pode-se afirmar corretamente que a velocidade vetorial média do pêndulo ao deslocar-se de uma extremidade à outra de sua trajetória é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4Lsenθ/T.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2L/T.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "L/T.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "Lsenθ/T.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.2-2fase-q10",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 10,
+    "statement": "Em uma partida de futebol, um estádio é preenchido completamente por espectadores. A área de assentos disponíveis no estádio é de aproximadamente 20.000 m². Sabendo que, em média, é necessário um espaço de 0,5 m² por pessoa para sentar confortavelmente, é correto afirmar que a ordem de grandeza do número de pessoas que o estádio pode acomodar é",
+    "options": [
+      {
+        "label": "a",
+        "text": "10¹.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10⁵.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10⁷.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10³.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.2-2fase-q11",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 11,
+    "statement": "Um técnico em eletrônica tem a sua disposição uma fonte de bancada regulável e capacitores, inicialmente descarregados, de capacitâncias C1 e C2. Os capacitores de capacitâncias C1 e C2 são carregados, de forma individual, fazendo uso da fonte de bancada ajustada com as diferenças de potencial X e Y respectivamente. Os capacitores, agora carregados e desconectados da fonte, são ligados em paralelo através de seus terminais. Nessa nova configuração, a diferença de potencial comum entre seus terminais passa a ser Z. Sendo assim, a razão entre C1/C2, expressa em termos de X, Y e Z, é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "(Y-Z)/(Z-X).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Y/(Z-X).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "(Z-Y)/X.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(X+Y)/Z.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.2-2fase-q12",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 12,
+    "statement": "De modo a verificar a dureza em amostras de aço, isto é, a resistência que um material oferece a deformação localizada, utiliza-se, em testes práticos, um bloco de aço e esferas feitas em aço duro (carbeto de tungstênio). Abandonada, na vertical, de uma determinada altura acima do bloco de prova, a esfera irá quicar inúmeras vezes até atingir o repouso. A altura atingida pela esfera, após a colisão, irá variar de acordo a dureza da esfera utilizada, da textura e planicidade da amostra em estudo. Considere, para o teste descrito, que o momento linear da esfera imediatamente anterior à primeira colisão com a amostra é P e que o coeficiente de restituição da amostra é E. Diante do exposto e desconsiderando quaisquer efeitos indesejáveis, o momento linear total transferido pela esfera ao bloco de prova metálico até que ela atinja o repouso é",
+    "options": [
+      {
+        "label": "a",
+        "text": "P(1+E).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "P/(1+E).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "P(1+E)/(1-E).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "P(1+1/E).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.2-2fase-q13",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 13,
+    "statement": "Uma máquina térmica ideal, operando em ciclo de Carnot entre duas fontes térmicas, tem seu rendimento estimado em 40%. No entanto, quando a fonte quente desta máquina sofre uma mudança no valor de sua temperatura, mantida a temperatura da fonte fria, o rendimento da máquina térmica nestas condições sofre um aumento de 5% em seu valor original. Nessas circunstâncias, o aumento percentual sofrido na temperatura da fonte quente é de aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "12%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.2-2fase-q14",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 14,
+    "statement": "Uma corda, de comprimento L e distribuição linear de massa uniforme, encontra-se fixa ao teto através de uma de suas extremidades por meio de um suporte rígido. Um pulso transverso, de pequena amplitude quando comparado ao comprimento da corda, é gerado em sua extremidade inferior livre propagando-se ao longo da corda em direção ao teto. Adotando como g, o módulo da aceleração da gravidade local, o quadrado da velocidade do pulso quando este atinge o ponto médio da corda é dado por",
+    "options": [
+      {
+        "label": "a",
+        "text": "gL/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2gL.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "gL.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "g/L.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2024.2-2fase-q15",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 15,
+    "statement": "No laboratório de Física experimental da Universidade Estadual do Ceará, um estudante realiza experimentos com um bloco padrão de massa M e volume V e uma mola ideal de constante elástica K. Em um primeiro experimento, o estudante prende o bloco M à mola e a mola ao teto do laboratório por meio de um suporte. Nessa configuração, o comprimento final da mola é X. Em um segundo experimento, o sistema massa mola montado, como descrito no primeiro experimento, permanece em equilíbrio com o bloco de massa M totalmente imerso em um fluido de densidade D. Sabendo que no segundo experimento a mola apresenta um comprimento final Y e que a aceleração da gravidade vale g, a densidade do fluido D é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "KX²/(YVg).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "K(X²+Y²)/((X-Y)Vg).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "KV(X+Y)/(2g).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "K(X-Y)/(Vg).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.2-2fase-q16",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 16,
+    "statement": "Em uma instalação elétrica residencial, dois condutores X e Y, feitos do mesmo material homogêneo e com áreas de seção transversal constante, estão conectados em paralelo. Os comprimentos dos condutores X e Y estão numa razão de 4 para 3 ao passo que os raios das seções transversais de X e Y estão numa razão de 2 para 3. Se o circuito assim formado pelos condutores X e Y for atravessado por uma corrente elétrica, a razão entre as correntes que atravessam os condutores X e Y, respectivamente, estarão numa razão de",
+    "options": [
+      {
+        "label": "a",
+        "text": "16 para 27.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1 para 3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1 para 2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8 para 9.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.2-2fase-q17",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 17,
+    "statement": "Um bloco de massa M padrão, acoplado à extremidade de uma mola ideal, executa um movimento harmônico simples ao longo de uma superfície horizontal perfeitamente lisa. Além do mais, o bloco oscila em torno da posição de equilíbrio O com amplitude de oscilação A. Em um determinado instante, ao passar pela posição de equilíbrio em O, uma massa m adere ao bloco de massa M, alterando assim sua amplitude de oscilação para um novo valor A'. Considerando desprezíveis os efeitos resistivos do meio, a razão entre A'² e A² é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "m/(M+m).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "M/(M+m).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "M/m.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "(m.M)/(M²+m²).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2024.2-2fase-q18",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 18,
+    "statement": "Spin Launch, ou catapulta espacial, é um projeto ambicioso, ainda em desenvolvimento, que pretende revolucionar o lançamento de satélites e foguetes. Com uma proposta de reduzir os custos operacionais com combustível e tempo, esse acelerador circular gigante, ou centrífuga, utiliza uma câmara de vácuo dotada de uma saída aberta de forma sincronizada por onde o satélite ou foguete é arremessado após ter atingido uma velocidade desejada. De forma a calibrar e testar o equipamento, utilizam-se inicialmente projéteis que, lançados da superfície da Terra, de raio R, e com uma velocidade de lançamento V, atingem uma altura h máxima acima da superfície. Tomando como g a aceleração da gravidade na superfície da Terra, desprezando os efeitos resistivos e supondo que a Spin Launch seja capaz de lançar o projétil em uma direção vertical, o valor de V²/2g é expresso por",
+    "options": [
+      {
+        "label": "a",
+        "text": "Rh/(R+h).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "h/R.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "h/(R+h).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R/(R+h).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2024.2-2fase-q19",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 19,
+    "statement": "Um móvel se desloca, ao longo de uma estrada, com velocidade constante U emitindo um sinal sonoro de frequência F. Um estudante de Física situado próximo à estrada observando o tráfego percebe, na aproximação do móvel, que a frequência aparente do sinal emitido pela fonte é X. Contudo, à medida que o móvel se afastava, a frequência aparente percebida pelo estudante passou a ser Y. Utilizando seus conhecimentos de Efeito Doppler-Fizeau, o estudante foi capaz de obter uma relação matemática simples entre as frequências aparentes X e Y. Sabendo que a velocidade de propagação do som no ar é V, a expressão obtida pelo estudante era tal que 1/X+1/Y fornecia",
+    "options": [
+      {
+        "label": "a",
+        "text": "V/(FU).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2(U+V)/(VF).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2U/(VF).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2/F.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2024.2-2fase-q20",
+    "examId": "2024.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 20,
+    "statement": "De um mesmo plano horizontal, mas a partir de pontos distintos A e B situados neste plano horizontal, são lançadas duas partículas idênticas. A primeira partícula é lançada obliquamente a partir de A rumo a B, com velocidade inicial de módulo X, que faz um ângulo de 45° com a horizontal. A segunda partícula, também lançada obliquamente, mas a partir de B rumo a A, tem velocidade inicial de módulo Y que faz um ângulo de 60° com a horizontal. Sabendo que o módulo da aceleração da gravidade local é g e que as partículas colidem frontalmente quando ambas atingem suas respectivas alturas máximas, é correto afirmar que a razão X²/Y² é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
