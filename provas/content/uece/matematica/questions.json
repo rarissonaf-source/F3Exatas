@@ -32638,5 +32638,325 @@
     ],
     "imagePath": null,
     "correctAnswer": "b"
+  },
+  {
+    "id": "2023.2-q13",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 13,
+    "statement": "Se o produto das raízes da equação $x^2+n^2-2nx-64=0$, onde x é a incógnita e n é constante, é igual a 36, então, a soma dos quadrados destas raízes é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "269.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "296.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "328.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "382.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-q14",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 14,
+    "statement": "Ao adicionarmos um metro a cada uma das arestas de um cubo cuja medida da aresta é $\\alpha$ metros, temos um novo cubo. Se a diferença entre o volume deste novo cubo e o volume do cubo inicial é 271 m³, então, a medida, em metros, da aresta $\\alpha$ do cubo inicial é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-q15",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 15,
+    "statement": "Uma função $f:R\\to R$ definida por f(x)=mx+n, onde m e n são números reais não nulos, é comumente denominada de função linear afim. Quando n=0 e $m\\neq0$, a função será chamada de função linear não nula. O gráfico de tais funções, quando desenhado em um plano munido de um sistema de coordenadas cartesiano ortogonal, é uma reta. Sejam $f_1(x)=m_1x+p_1$ e $f_2(x)=m_2x+p_2$ duas funções lineares afins distintas tais que a medida do ângulo que seus gráficos formam com o eixo das abscissas (eixo dos x) são múltiplos de 45°. Se os gráficos de $f_1$ e $f_2$ se cortam no ponto P=(5,10), então, é correto afirmar que $p_1+p_2$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "15.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-q16",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 16,
+    "statement": "Considere as funções reais $f:R^+\\to R$ e $g:R^+\\to R$, onde $R^+$ é o conjunto dos números reais positivos, definidas por $f(x)=\\log_2x$ e $g(x)=\\log_3x$. Se $x_1$ e $x_2$ são os possíveis valores de x que satisfazem à condição $f(x).g(x)=\\log2.\\log3$, então, o produto $x_1.x_2$ é igual a [Nota: logx indica o logaritmo de x na base 10.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-q17",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 17,
+    "statement": "O coeficiente de $x^{2n}$ no desenvolvimento de $(1+x)^2.(x^2+2)^n$, sendo n um número inteiro positivo, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1+n.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2+2n.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3+3n.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1+2n.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.2-q18",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 18,
+    "statement": "Se z é um número complexo tal que $z+\\dfrac{1}{z}=1$, então, o módulo de z é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-q19",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 19,
+    "statement": "A seguinte sequência de números inteiros positivos está apresentada de forma ordenada, tendo sido organizada seguindo uma lógica estrutural muito usual: 8, 27, 125, 343, 1331, 2197, p, q, .... Assim, é correto afirmar que a soma p+q é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "27711.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11772.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12277.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "22177.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.2-q20",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 20,
+    "statement": "Na trigonometria circular usual, considere os valores dos arcos x para os quais existem e estão bem definidas a tangente, a cotangente, a secante e a cossecante. Em relação à equação trigonométrica $\\text{tg}^2x+\\text{cotg}^2x = \\sec^2x+\\text{cossec}^2x$, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "possui uma única solução real.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "possui exatamente duas soluções reais.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "possui infinitas soluções reais.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "não possui solução real.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.2-q21",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 21,
+    "statement": "A medida, em m³, do volume de uma pirâmide triangular regular na qual a medida da altura é igual a 4m e a base está inscrita em uma circunferência cuja medida do raio é igual a 3m é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$3\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$5\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$7\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$9\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.2-q22",
+    "examId": "2023.2",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 22,
+    "statement": "Um reservatório de águas fluviais, comumente construído e localizado no nível abaixo do solo, é usualmente denominado de cisterna. Um destes reservatórios, possuindo a forma de um paralelepípedo retangular, tem as seguintes características: A medida da diagonal da base horizontal interna é 20m. As medidas das diagonais das faces laterais verticais internas são respectivamente 13m e $\\sqrt{281}$m. Sabendo que o volume de um litro de qualquer líquido corresponde a um decímetro cúbico (1dm³), é correto afirmar que a quantidade de litros de água que podem ser acumulados na cisterna considerada é",
+    "options": [
+      {
+        "label": "a",
+        "text": "980.000.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "940.000.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "960.000.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "920.000.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
   }
 ]

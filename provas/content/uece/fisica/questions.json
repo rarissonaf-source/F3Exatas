@@ -29054,5 +29054,261 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-q39",
+    "examId": "2023.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 39,
+    "statement": "A Fundação Cearense de Meteorologia e Recursos Hídricos (FUNCEME) anunciou no dia 20 de janeiro de 2023 que o Ceará tem 50% de chances de superar a média histórica de chuvas na quadra chuvosa de 2023. Em dias chuvosos, é comum o asfalto ficar molhado de forma a diminuir o coeficiente de atrito dinâmico. Um motorista desatento trafega pela Avenida 13 de Maio em um trecho horizontal, após uma chuva, a uma velocidade V medida em km/h quando percebe que o sinal está vermelho. Rapidamente aciona os freios e o carro para após percorrer uma distância D. Considerando $\\mu$ o coeficiente de atrito dinâmico do asfalto molhado, $1,2\\mu$ o coeficiente de atrito dinâmico para o asfalto seco e a mesma velocidade inicial para ambos os casos, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a distância percorrida pelo motorista desde o início da frenagem até o carro parar independe do coeficiente de atrito.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a desaceleração do carro para o caso de o asfalto estar seco seria 20% maior.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "em ambas as situações, frenagem com o asfalto seco ou molhado, a energia mecânica se conserva.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a razão entre o tempo total de frenagem para o caso de o asfalto estar seco e o caso de o asfalto estar molhado é de 1,2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.2-q40",
+    "examId": "2023.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 40,
+    "statement": "Arquimedes foi um matemático, cientista e engenheiro que viveu na antiga cidade de Siracusa. Em um de seus nove tratados sobre a flutuação dos corpos, Arquimedes estabelece os fundamentos da hidrostática. De acordo com a lenda, é atribuída a Arquimedes a solução do problema posto por Hieron II de Siracusa, o de determinar se uma coroa confeccionada por um artesão era feita de ouro maciço ou possuía outro metal menos nobre em sua composição. É provável que Arquimedes tenha-se utilizado de uma balança hidrostática para resolver o problema da coroa, ao invés da versão popular da água transbordando na banheira. O problema em questão consiste em uma joia, confeccionada em ouro, que possui massa de 36 g quando medida ao ar, ao passo que, quando imersa em água, cuja densidade é de 1g/cm³, possui massa aparente de 34 g. Suponha que outro metal menos nobre, prata, por exemplo, tenha sido misturado ao ouro na confecção da joia. Adotando para efeito de cálculo que a densidade do ouro e da prata valem, respectivamente, 20g/cm³ e 10g/cm³, a razão entre a massa de prata e a massa de ouro presentes na joia é de",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1/16.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-q41",
+    "examId": "2023.2",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 41,
+    "statement": "Lentes são instrumentos ópticos muito comuns em nosso cotidiano, podemos encontrá-las em microscópios, telescópios, óculos, câmeras fotográficas etc. Dentre os tipos de lentes, existem as lentes esféricas, que podem ser convergentes ou divergentes. Sobre as propriedades das lentes esféricas são feitas as seguintes afirmações: I. Lentes de bordas finas são sempre convergentes. II. Lentes de bordas espessas podem produzir imagens reais e virtuais. III. A convergência ou divergência das lentes são características determinadas pela relação entre seu índice de refração e o índice de refração do meio onde estão inseridas. É correto o que se afirma em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I e II apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "I e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "II e III apenas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "I, II e III.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-q42",
+    "examId": "2023.2",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 42,
+    "statement": "Em um laboratório, um estudante mediu o volume e a massa de 100 gotas de água, encontrando respectivamente os valores 6,9 ml e 4,98 g. Assim, é correto afirmar que a ordem de grandeza do volume de uma gota somada à ordem de grandeza do número de moléculas de água em uma gota de água é [Dados: a massa molar da água é 18,02 e o número de Avogadro é $6,02\\\\times10^{23}$.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "21.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "23.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-q43",
+    "examId": "2023.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 43,
+    "statement": "Um estudante de Física realiza um experimento mental onde existe um bloco de massa M que se encontra em repouso sobre uma superfície horizontal infinita e sem atrito ao qual se aplica uma força F constante até que ele atinja uma velocidade V. Atente para as seguintes afirmações sobre esse experimento: I. O sistema é conservativo e o trabalho realizado pela força F é proporcional ao quadrado da velocidade V. II. Após a atuação da força F, o bloco irá parar ao percorrer uma distância D. III. A quantidade de movimento é conservada em todas as etapas do experimento. Está correto o que se afirma somente em",
+    "options": [
+      {
+        "label": "a",
+        "text": "I.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "II e III.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "I e III.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "II.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-q44",
+    "examId": "2023.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 44,
+    "statement": "No laboratório de mecânica básica da Universidade Estadual do Ceará, um estudante realiza um experimento com dois pêndulos simples. Um dos pêndulos possui fio de comprimento L e período de 2s ao passo que o segundo pêndulo, com comprimento de fio 21% maior, apresenta período T quando medido com o auxílio de um cronômetro. Os pêndulos são largados simultaneamente e postos a oscilar livremente. Após 1800 oscilações do primeiro pêndulo e desprezados quaisquer efeitos resistivos indesejados, o segundo pêndulo estará",
+    "options": [
+      {
+        "label": "a",
+        "text": "com a mesma frequência do primeiro pêndulo.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "adiantado em 6 min quando comparado ao primeiro pêndulo.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "atrasado em 6 min quando comparado ao primeiro pêndulo.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "atrasado em 12 min quando comparado ao primeiro pêndulo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-q45",
+    "examId": "2023.2",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 45,
+    "statement": "A chegada da TV digital no Brasil, em dezembro de 2007, intensificou a decadência dos antigos televisores de tubo (CRTs). O acesso a equipamentos com maior resolução e de maior poder tecnológico, TVs de plasma e LCD, por exemplo, levou à extinção dos ditos tubões por volta de 2015. De modo a realizar o reparo em um antigo equipamento de TV da série Sony Wega, um técnico necessita de um capacitor específico de capacitância de valor 10/11µF. Infelizmente, no fornecedor local de componentes, só há disponível capacitores de capacitância 2µF. De modo a obter o capacitor desejado, o técnico faz uso de 7 destes capacitores que devem ser separados em dois grupos G1 e G2 e, em seguida, associados entre si. O capacitor resultante obtido em G1 é combinado, em série, com o capacitor resultante da associação obtida em G2. A combinação adequada que fornecerá o capacitor necessário para o reparo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2 em paralelo do grupo G1 com 5 em série do grupo G2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3 em paralelo do grupo G1 com 4 em série do grupo G2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4 em paralelo do grupo G1 com 3 em série do grupo G2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5 em paralelo do grupo G1 com 2 em série do grupo G2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.2-q46",
+    "examId": "2023.2",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 46,
+    "statement": "Considere um sistema físico no qual uma força externa F(x,t) atua sobre um objeto de massa m inicialmente em repouso. Neste cenário, a força F(x,t) é descrita pela relação matemática $Ax+Bt^2$, onde x representa a posição do objeto e t a variável tempo. Para que esta modelagem seja possível, as constantes A e B devem ser expressas em unidades adequadas. Diante deste fato, a razão B/A tem a mesma dimensão que a da grandeza física",
+    "options": [
+      {
+        "label": "a",
+        "text": "força.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "aceleração.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "energia.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "velocidade.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
