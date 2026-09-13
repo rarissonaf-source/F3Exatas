@@ -32958,5 +32958,645 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-2fase-q1",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 1,
+    "statement": "Desenhados em um plano munido do sistema usual de coordenadas cartesiano ortogonal, utilizando o cm como unidade de comprimento, os gráficos das funções reais de variável real f e g definidas por $f(x)=2x^2-4x-30$ e $g(x)=6x-3x^2+45$ são parábolas cujos vértices são os pontos $V_1$ e $V_2$. A medida do comprimento do segmento $V_1V_2$, em cm, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "70.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "80.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.2-2fase-q2",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 2,
+    "statement": "A sequência de números inteiros positivos, que segue, foi construída da seguinte modo: o primeiro termo é igual a dois; o segundo termo é igual ao primeiro somado com quatro; o terceiro termo é igual ao segundo somado com dois; o quarto termo é igual ao terceiro somado com quatro; o quinto termo é igual ao quarto somado com dois; o sexto termo é igual ao quinto somado com quatro; ..... e assim sucessivamente (2, 6, 8, 12, 14,18, .....). Considerando essa sequência, pode-se afirmar corretamente que o centésimo primeiro termo é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "304.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "298.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "302.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "300.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-2fase-q3",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 3,
+    "statement": "Se $V_1$ é a medida do volume de uma esfera cuja medida do raio é R e $V_2$ a medida do volume de uma esfera cuja medida do raio é R/2, a relação entre $V_1$ e $V_2$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$V_1=2V_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$V_1=6V_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$V_1=4V_2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$V_1=8V_2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.2-2fase-q4",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 4,
+    "statement": "Na trigonometria clássica, a relação $\\text{sen}^2(x)+\\cos^2(x)=1$ é conhecida como a Relação Fundamental da Trigonometria. As equações trigonométricas são largamente utilizadas em vários ramos das atividades humanas. Para os valores reais de a que satisfazem a relação $4.\\text{sen}^4(a)+5.\\cos^2(a)=4$, verifica-se que a soma sen(a)+cos(a) pode ser igual, no máximo, a n números reais distintos. Tem-se então que n é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.2-2fase-q5",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 5,
+    "statement": "Dois garrafões, cada um com capacidade de armazenar até 10 litros de um líquido, foram disponibilizados para a realização de um experimento envolvendo a medição de volumes. O procedimento adotado na experiência está descrito a seguir: I. Inicialmente, são colocados 6 litros de vinho no primeiro garrafão e seis litros de água pura no segundo; II. Em seguida, metade do conteúdo localizado no primeiro garrafão é removido e depositado no segundo; III. Logo após, o líquido agora presente no segundo garrafão é movimentado no interior do recipiente tornando-o uma mistura homogênea; IV. Para concluir, uma parte da mistura presente no segundo garrafão é transferida de volta ao primeiro, finalizando o experimento com o mesmo volume de líquido em cada garrafão. Considerando esse procedimento, é correto afirmar que o volume de vinho, em litros, remanescente na mistura presente no primeiro garrafão ao final da experiência é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4,2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4,6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-2fase-q6",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "Os ângulos formados, no interior de um pentágono regular, pelo encontro de seus lados e diagonais possuem as seguintes medidas:",
+    "options": [
+      {
+        "label": "a",
+        "text": "30°, 45° e 60°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "36°, 72° e 108°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "45°, 60° e 75°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60°, 84° e 108°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.2-2fase-q7",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 7,
+    "statement": "Sejam T um triângulo equilátero, R a medida em metros do raio da circunferência circunscrita a T e r a medida, em metros, do raio da circunferência e inscrita em T. A relação algébrica entre R e r é",
+    "options": [
+      {
+        "label": "a",
+        "text": "R−2r=0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2R−3r=0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$R-\\sqrt2r=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt2R-\\sqrt3r=0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-2fase-q8",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 8,
+    "statement": "Uma prova do exame válido para seleção de vagas visando ao ingresso em Instituições de Ensino Superior é elaborada da seguinte forma: I. 40 questões são formuladas no formato objetivo, com alternativas de respostas ou conclusões das quais apenas uma é correta. II. Cada questão disponibiliza 5 alternativas para identificação, pelo candidato, daquela que é a única correta. Assim, é correto concluir-se que o número de gabaritos que podem ser construídos para essa prova é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$5^{40}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$40^5$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.(60!).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60.(5!).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-2fase-q9",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 9,
+    "statement": "Em um plano, munido do sistema usual de coordenadas cartesianas ortogonal, podem ser marcados pontos que representam os números complexos e podem ser construídos gráficos de relações algébricas envolvendo as variáveis x e y. Ao identificarmos o número complexo z=x+yi, onde i é tal que $i^2=-1$, com o par ordenado (x,y), podemos afirmar corretamente que os números $z_1=1+i$, $z_2=1-i$, $z_3=-1+i$ e $z_4=-1-i$ pertencem ao gráfico da relação",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x^2+y^2=|x.y|$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x^2+y^2=2|x.y|$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$|x|+|y|=1$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$|x+y|=2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.2-2fase-q10",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 10,
+    "statement": "Seja $(a_n)$ uma progressão aritmética cujos termos são números inteiros positivos e para cada número natural n, a soma de seus n primeiros termos é dada por $S_n=2n^2+6n$. Se a sequência $(b_n)$ é definida por $b_n=a_n+a_{n+3}$, verifica-se que $(b_n)$ é uma progressão aritmética. A soma dos n primeiros termos de $(b_n)$ é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$4n^2+6n$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4n^2+12n$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4n^2+24n$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4n^2+18n$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-2fase-q11",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 11,
+    "statement": "A taxa de evaporação de água de um reservatório (lugar reservado para represar ou acumular grande quantidade de água; açude) é proporcional à quantidade de água nele existente. Em um determinado reservatório, a quantidade de água após t meses de evaporação é dada por $q(t)=k.e^{-0,1t}$, onde k é a quantidade inicial de água e t é o tempo dado em meses. Aproximadamente, o tempo, em meses, até que a água deste reservatório, em contínua evaporação, se reduza a um quarto do que era inicialmente é igual a [Nota: considere que o logaritmo natural de quatro é aproximadamente igual a 1,3863.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "13.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "14.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.2-2fase-q12",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 12,
+    "statement": "Matrizes numéricas são utilizadas em muitos procedimentos adotados na Administração de Empresas. Temos em alguns casos a soma e o produto de matrizes. Quando a matriz é quadrada, pode-se calcular seu determinante. Considere as matrizes $X=\\begin{pmatrix}1&0&1\\\\0&1&0\\end{pmatrix}$, $Y=\\begin{pmatrix}1&0\\\\0&1\\\\1&0\\end{pmatrix}$, V=X.Y e W=Y.X. Calculando os determinantes de V e W, obtém-se que det(V)+det(W) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-2fase-q13",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 13,
+    "statement": "Considere uma semicircunferência circunscrita ao triângulo XYZ na qual o diâmetro é o lado XZ do triângulo. Se a medida do lado XY é igual a 12 cm e a medida do lado YZ é igual a 5 cm, então, a medida, em cm, do raio da semicircunferência é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "8,5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "7,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "6,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5,5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-2fase-q14",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 14,
+    "statement": "Sabendo-se que, no espaço tridimensional, um plano é determinado por três pontos não colineares e que quatro pontos, dependendo da localização, podem determinar até quatro planos, é correto afirmar que o número de planos existentes que contêm mais de dois dos oito vértices de um paralelepípedo retângulo é",
+    "options": [
+      {
+        "label": "a",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "20.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-2fase-q15",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 15,
+    "statement": "Um equipamento eletrônico utilizado por uma indústria tem seu valor monetário continuamente reduzido em função do uso e do surgimento de novas tecnologias, dentre outros fatores. Se o valor monetário do equipamento decresce linearmente com o tempo, sabendo-se que foi adquirido há três anos pelo valor de R$180.000,00 e que hoje está avaliado em R$135.000,00, é correto afirmar que o valor monetário do equipamento daqui a dois anos será [Nota: uma função real de variável real decresce linearmente se é do tipo f(x)=ax+b, com a e b números reais constantes e a<0.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$105.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$115.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$108.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$112.000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2023.2-2fase-q16",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 16,
+    "statement": "Uma coleção ordenada de números complexos $z_1,z_2,z_3,....,z_n,....$ é uma progressão geométrica quando existe um número complexo k, não nulo, tal que para cada número inteiro positivo n tem-se a relação $z_{n+1}=k.z_n$ em que o número k é a razão da progressão. No caso da coleção $z_1=1-i$, $z_2=3-i$, $z_3=7+i$, $z_4=13+9i$, .... tem-se uma progressão geométrica cuja razão é igual a k. Nesse caso, |k| é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt7$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt5$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-2fase-q17",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 17,
+    "statement": "José caminhou na praia em linha reta deslocando-se do ponto X ao ponto Y, perfazendo o total de 1200 m. Quando estava no ponto X, vislumbrou um navio ancorado no ponto Z de tal modo que o ângulo YXZ era de aproximadamente 60 graus. Ao chegar ao ponto Y verificou que o ângulo XYZ era de 45 graus. Nessas condições, a distância do navio à praia, em metros, é aproximadamente igual a [Nota: Considere tg(60°) aproximadamente igual a 19/11.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "720.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "760.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "780.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "740.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2023.2-2fase-q18",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 18,
+    "statement": "Em Geometria Euclideana, no espaço tridimensional, duas retas são ditas reversas se não são coplanares, ou seja, não estão em um mesmo plano. Considere e avalie as seguintes afirmações referentes a duas retas reversas $R_1$ e $R_2$ fixadas: I. Existe uma reta que é perpendicular a $R_1$ e $R_2$. II. Existem esferas tangentes a $R_1$ e a $R_2$. III. Não existe ponto P equidistante de $R_1$ e de $R_2$. IV. Toda reta paralela a $R_1$ é reversa em relação a $R_2$. V. Existem infinitas retas que são, simultaneamente, reversas em relação a $R_1$ e $R_2$. VI. Existe uma esfera S que satisfaz a condição: Se $P_1$ e $Q_1$ são os pontos de interseção de S com $R_1$ e $P_2$ e $Q_2$ são os pontos de interseção de S com $R_2$, então, $P_1,Q_1,P_2,Q_2$ podem ser vértices de um quadrado. O número exato de afirmações verdadeiras é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2023.2-2fase-q19",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "As funções reais de variável real podem ser classificadas ou caracterizadas de inúmeras formas diferentes, considerando suas propriedades intrínsecas. Por exemplo: I. Uma função real de variável real f é uma função estritamente crescente se, para quaisquer $x_1$ e $x_2$ no domínio de f, com $x_1<x_2$, verifica-se a desigualdade $f(x_1)<f(x_2)$. II. Uma função real de variável real g é uma função par se, para todo x no domínio de g, verifica-se a igualdade g(x)=g(−x). Considere as seguintes funções: $f_1(x)=x^2$ com $x\\in R$; $f_2(x)=x^3$ com $x\\in R$; $f_3(x)=2^x$ com $x\\in R$; $f_4(x)=\\sqrt{x}$ com $x\\in[0,\\infty[$; $f_5(x)=\\log_2(x)$ com $x\\in]0,\\infty[$; $f_6(x)=1/x$ com $x\\in R, x\\neq0$; $f_7(x)=|x|$ com $x\\in R$; $f_8(x)=\\cos(x)$ com $x\\in R$; $f_9(x)=x+1/x$ com $x\\in R$ e $x\\neq0$; $f_{10}(x)=(-1)^x$ com x um número inteiro. Dentre as 10 funções acima apresentadas existem exatamente N que são estritamente crescentes ou pares. Tem-se, então, que N é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2023.2-2fase-q20",
+    "examId": "2023.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 20,
+    "statement": "O Produto Interno Bruto (PIB), que revela o crescimento econômico de um país, é um valor numérico monetário que representa a soma de todos os bens e serviços produzidos no país, em geral no período de um ano. O PIB individualizado, denominado PIB \\\"per capita\\\" é calculado dividindo-se o PIB pelo número de habitantes do país. No ano de 2022, o PIB do país X cresceu 18% em relação ao PIB de 2021 e, na mesma referência de tempo, a população cresceu 10%. Com base nos dados apresentados, o crescimento percentual do PIB \\\"per capita\\\" do país X no ano de 2022, em relação ao ano de 2021, foi aproximadamente",
+    "options": [
+      {
+        "label": "a",
+        "text": "7%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
   }
 ]
