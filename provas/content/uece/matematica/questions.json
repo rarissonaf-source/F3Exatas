@@ -29758,5 +29758,1605 @@
     ],
     "imagePath": null,
     "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-q13",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 13,
+    "statement": "Considere as funções reais de variável real definidas por $f(x) = \\operatorname{sen}\\left(1+\\dfrac{x}{2}\\right)\\pi$ e $g(x) = \\operatorname{sen}\\left(1-\\dfrac{x}{2}\\right)\\pi$. Se K=f(9).g(9), então, pode-se afirmar corretamente que o valor de K é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-q14",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "O jardim botânico, localizado em uma região serrana, é dedicado à exposição de plantas ornamentais e florais. Os roseirais, espaços onde são plantadas rosas, ocupam várias áreas circulares cujas muretas que as delimitam formam circunferências. Se a extensão de cada uma destas circunferências é 18 metros, a área ocupada por cada roseiral, em m², é aproximadamente [Use o número racional 3,14 como aproximação para o número π.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "24,8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24,2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "25,8.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "25,2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-q15",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 15,
+    "statement": "Sabe-se que, no sistema solar, os planetas giram em torno do Sol e que a órbita de cada um deles é uma elipse tendo o Sol como um dos focos. O planeta (ou planetoide) Plutão é o mais distante do Sol. No entanto, esta distância não é constante, pois sua órbita é uma elipse. A excentricidade de uma elipse é definida como a divisão do comprimento da distância focal (2c), pelo comprimento do eixo maior (2a) da elipse: $\\dfrac{2c}{2a}=\\dfrac{c}{a}$. Quanto maior a excentricidade, mais alongada é a elipse. Sabendo que a maior distância de Plutão ao Sol é aproximadamente 7 u.a. e a menor é aproximadamente 4 u.a., é correto dizer que a medida da excentricidade da órbita de Plutão é aproximadamente [u.a. ≡ unidade astronômica]",
+    "options": [
+      {
+        "label": "a",
+        "text": "0,273.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "0,258.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "0,260.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0,232.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-q16",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 16,
+    "statement": "Na cidade de Itaí, a rádio FM tem um alcance radial de até 104 km. Se considerarmos a região como um plano munido do sistema usual de coordenadas cartesianas e se a rádio estiver localizada no ponto (1,1), então, o conjunto dos pontos P=(x,y) onde o sinal do rádio pode ser captado é dado pela equação",
+    "options": [
+      {
+        "label": "a",
+        "text": "$x^2+y^2-2x-2y-10814\\leq0$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$x^2+y^2-2x-2y-10814=0$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x^2+y^2-2x-2y-10812\\leq0$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x^2+y^2-2x+2y-10814<0$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-q17",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 17,
+    "statement": "Considerando-se as matrizes $X = \\begin{pmatrix}2&1\\\\0&3\\\\1&0\\end{pmatrix}$, $Y = \\begin{pmatrix}2&1&4\\\\0&0&1\\end{pmatrix}$ e $Z=(2X).Y$, é correto afirmar que o determinante da matriz Z é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "12.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-q18",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "equacoes-inequacoes",
+    "number": 18,
+    "statement": "A solução da equação $(\\log_2(x))^{-1} + (\\log_3(x))^{-1} + (\\log_4(x))^{-1} + (\\log_5(x))^{-1} = 2$ é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2\\sqrt{30}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt{10}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2\\sqrt{10}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$3\\sqrt{30}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-q19",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 19,
+    "statement": "Desejando-se cercar uma área plana na forma de um triângulo cujos vértices estão nos pontos X, Y e Z, ao iniciar a construção da cerca, verificou-se que a localização do ponto Y tinha desaparecido. O mapa indicava que o comprimento do lado XZ era 20 m e o comprimento do lado YZ era 30 m. Além disso, o ângulo (interno ao triângulo) entre ZX e XY era 120 graus. Nestas condições, pode-se afirmar corretamente que o comprimento do lado XY, em metros, é aproximadamente [Se precisar, use o número 49 como valor aproximado de $\\\\sqrt{2400}$.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "13,6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "14,5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14,0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "15,1.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-q20",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 20,
+    "statement": "Informações sobre a distribuição territorial da população de um município, estado ou nação são importantes para a formulação de planos governamentais de gestão pública. Atente para os seguintes dados aproximados referentes a um estado brasileiro da Região Nordeste: I. A população da região metropolitana, incluindo-se a capital, é igual a 3,72 milhões de habitantes. II. A população da capital corresponde a 80% da população da região metropolitana. III. A população da região metropolitana corresponde a 40% da população total do estado. Com base nesses dados, é correto afirmar que a população interiorana do estado, excluindo-se a capital, em milhões de habitantes, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "5,581.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "6,823.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5,852.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6,324.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-q21",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 21,
+    "statement": "Em um plano munido do sistema usual de coordenadas cartesianas, a equação ax+by+c=0, onde a, b e c são números reais constantes e não simultaneamente nulos, é representada graficamente por uma reta. Se r é a reta que contém o ponto Q=(3,2) e a interseção das retas representadas pelas equações 2x+3y−7=0 e 3x+2y−8=0, então, dentre os pontos V=(0,1), W=(1,0), K=(−1,−5), L=(−1,2) e J=(−1,−2) verifica-se que n deles pertencem à reta r. Assim, o valor de n é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-q22",
+    "examId": "2022.1",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 22,
+    "statement": "Seja XYZW um trapézio, onde XW é a base maior. Se XZ e YW são as diagonais do trapézio e K é a interseção da reta paralela à diagonal YW pelo vértice Z com o prolongamento da base XW, então, é correto dizer que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a área do triângulo XYZ é maior do que a área do triângulo WZK.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "a área do triângulo XYZ é menor do que a área do triângulo WZK.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a área do trapézio XYZW é igual à área do triângulo XZK.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "a área do trapézio XYZW é maior do que a área do triângulo XZK.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q1",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 1,
+    "statement": "Se $i$ é o número complexo cujo quadrado é igual a $-1$, $e$ é o número irracional que é a base do logaritmo natural, e $\\alpha$ é um número real, podemos definir $e^{i\\alpha}$ como sendo igual a $\\cos\\alpha + i\\,\\text{sen}\\alpha$. Em particular, se $\\alpha = \\pi$, segue que $e^{i\\pi} + 1 = 0$. Apresentada por Leonardo Euler, esta é uma das mais belas expressões matemáticas envolvendo os números $e, 1, \\pi$ e 0 (zero). Se $z$ é um número complexo não nulo, $r$ é o módulo de $z$ e $\\alpha$ é o argumento principal de $z$, então, podemos facilmente verificar que $z = re^{i\\alpha}$. Ao apresentarmos o número complexo $z = -1 - \\sqrt{3}i$, nesta forma, teremos",
+    "options": [
+      {
+        "label": "a",
+        "text": "$z=2e^{4\\pi i/3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$z=2e^{2\\pi i/3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$z=2e^{5\\pi i/3}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$z=2e^{7\\pi i/3}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q2",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 2,
+    "statement": "Em uma pesquisa que envolveu 120 alunas de uma academia de dança, foram obtidos os seguintes dados: 80 delas querem ser atrizes, 70 querem ser cantoras e 50 querem ser atrizes e cantoras. Considerando estes dados, é correto concluir que o número de alunas que não querem ser cantoras nem atrizes é",
+    "options": [
+      {
+        "label": "a",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-2fase-q3",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 3,
+    "statement": "A trajetória, em um plano, de um projétil lançado do solo fazendo um ângulo $\\alpha$, $0°<\\alpha<90°$, com a direção horizontal é uma parábola. Se a trajetória de um determinado projétil pode ser descrita matematicamente pela equação $y=0,2x-0,000625x^2$, na qual $y$ indica a altura, em unidades de comprimento (u.c.), alcançada pelo projétil desde seu lançamento até o ponto de retorno ao solo, pode-se afirmar corretamente que a altura máxima atingida pelo projétil, em u.c., é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "16.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "28.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q4",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 4,
+    "statement": "A equação $z^3-1=0$ possui três soluções distintas, sendo uma delas o número 1 e as outras duas os números complexos $v=x+yi$ e $w=p+qi$. Considerando o polinômio $P(z)=z^3-1$, o valor de $P(v+w)$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "−1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-2fase-q5",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 5,
+    "statement": "Desejando pintar uma superfície retangular cujas dimensões são 15 m de comprimento e 3,2 m de largura, ao comprar a tinta, verifiquei que uma lata de tinta de minha escolha custa R$ 12,00 e que, com uma lata de tinta, posso pintar apenas 2,0 m² da superfície. Se disponho de apenas R$ 180,00 para comprar tinta, a porcentagem da superfície que posso pintar é",
+    "options": [
+      {
+        "label": "a",
+        "text": "66,0%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "65,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "62,5%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "58,0%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q6",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 6,
+    "statement": "O número irracional $(\\sqrt2-\\sqrt3)^6$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$198-485\\sqrt6$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$485-198\\sqrt6$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-198+485\\sqrt6$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$-485+198\\sqrt6$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-2fase-q7",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 7,
+    "statement": "A listagem numérica abaixo apresentada foi construída com números inteiros positivos seguindo uma lógica própria. L1: 1; L2: 1, 4; L3: 1, 4, 9; L4: 1, 4, 9, 16; L5: 1, 4, 9, 16, 25; ...................................... O número que está na posição central da linha 2021 é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$9\\times(337)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$4\\times(909)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9\\times(557)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$4\\times(505)^2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q8",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 8,
+    "statement": "As medidas, expressas em graus, dos ângulos internos de um triângulo retângulo constituem uma progressão aritmética. Se x é a medida de um dos ângulos agudos deste triângulo, então, tg(x) pode ser igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{\\sqrt2}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{\\sqrt3}{2}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-2fase-q9",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 9,
+    "statement": "Considere a matriz $M = \\begin{pmatrix}x&y\\\\y&x\\end{pmatrix}$, onde x e y são números reais. Se $M^2 = M.M$, então, o determinante de $M^2$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$(x^2+y^2)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$(x^2-y^2)^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$x^4-y^4$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$x^4+y^4$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-2fase-q10",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 10,
+    "statement": "A base de uma pirâmide é uma das faces de um cubo cuja soma das medidas das áreas das faces é 1014 m². Se o vértice da pirâmide é o centro do cubo, a medida da área lateral da pirâmide, em m², é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$169\\sqrt2/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$169\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$169\\sqrt3/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$169\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-2fase-q11",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 11,
+    "statement": "Cinco rapazes e quatro moças fundaram uma empresa e resolveram que a diretoria da empresa seria composta de cinco sócios dentre os quais pelo menos dois seriam mulheres. Assim, é correto afirmar que o número de maneiras que se pode escolher a diretoria dessa empresa é",
+    "options": [
+      {
+        "label": "a",
+        "text": "110.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "95.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "105.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "100.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q12",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 12,
+    "statement": "Sabendo que a medida da área do círculo circunscrito a uma das faces de um tetraedro regular é igual a 9,42 m², é correto dizer que a medida, em m², da área desse tetraedro (soma das medidas das áreas de suas faces) é [Use o número racional 3,14 como aproximação do número π.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "$10\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$7\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$9\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$8\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q13",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 13,
+    "statement": "No Brasil, os veículos automotores mais antigos, com quatro rodas ou mais, são identificados com placas nas quais são gravados sete dígitos, sendo três letras seguidas de quatro algarismos arábicos (por exemplo GAV 5613). Atualmente os veículos novos são identificados com placas do chamado padrão Mercosul, que também utiliza sete dígitos. A diferença é que, de acordo com esse padrão, o segundo algarismo da esquerda para a direita é substituído por uma das vinte e seis letras do alfabeto português (por exemplo GAV5M13). Considerando que pode haver repetição dos dígitos, o número total de placas padrão Mercosul que podem ser produzidas é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$2^5.5^4.13^5$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2^5.5^6.13^4$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$2^7.5^4.13^5$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$2^7.5^3.13^4$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-2fase-q14",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 14,
+    "statement": "Em muitas edificações são usados ladrilhos cerâmicos no revestimento de pisos planos, pelo fato de as peças cerâmicas usadas possuírem padrões geométricos que permitem os encaixes lado a lado sem deixar brechas. Desejamos ladrilhar um ambiente em forma de L com cantos retangulares, utilizando peças cerâmicas que possuem a forma de um retângulo cujas dimensões de cada uma delas são 45 cm de largura por 60 cm de comprimento. Considerando que o perímetro do ambiente em forma de L é composto por seis segmentos de reta cujas medidas dos comprimentos são 9 m, 9 m, 12 m, 15 m, 18 m, e 27 m, admitindo-se que não há corte de peças e que se use n peças para o revestimento total do piso, é correto afirmar que o valor de n pode ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "1300 ou 1400.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1350 ou 1450.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1200 ou 1500.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1250 ou 1350.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q15",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 15,
+    "statement": "Dado um triângulo equilátero XYZ, cuja medida do lado é igual a 1 m, considere um triângulo interior a esse triângulo XYZ que tenha como vértices os pontos médios dos lados de XYZ. Retirando-se este triângulo do triângulo XYZ, restam, no interior do triângulo XYZ, três triângulos menores. Repetindo-se esse procedimento para cada um dos três triângulos menores, restam, então, nove triângulos interiores a XYZ. Assim, é correto dizer que a soma das medidas, em m², das áreas desses nove triângulos é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\dfrac{9\\sqrt3}{36}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$\\dfrac{9\\sqrt3}{42}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{9\\sqrt3}{52}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{9\\sqrt3}{64}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-2fase-q16",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 16,
+    "statement": "Sejam $(x_1, x_2, x_3, ...)$ uma progressão aritmética e $(y_1, y_2, y_3, ...)$ uma progressão geométrica, com termos positivos, tais que $x_1 = y_1 = p$. Se a razão de cada uma destas progressões é o número real positivo q, $M_a$ é a média aritmética dos cinco primeiros termos de $(x_1, x_2, x_3, ...)$ e $M_g$ é a média geométrica dos cinco primeiros termos de $(y_1, y_2, y_3, ...)$, então, $M_a + M_g$ é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$pq^2+2q+p$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$qp^2+2p$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$pq^2+p^2q$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$p+q+pq$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q17",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 17,
+    "statement": "Uma caixa d'água, cuja capacidade é 5000 litros, tem uma torneira no fundo que, quando aberta, escoa água a uma vazão constante. Se a caixa está cheia e a torneira é aberta, depois de t horas o volume de água na caixa é dado por $V(t) = 5000-kt$, k constante. Certo dia, estando a caixa cheia, a torneira foi aberta às 10 horas. Às 18 horas do mesmo dia, observou-se que a caixa continha 2000 litros de água. Assim, pode-se afirmar corretamente que o volume de água na caixa era 2750 litros, exatamente, às",
+    "options": [
+      {
+        "label": "a",
+        "text": "15h.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "15h40.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "16h.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "16h40.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q18",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "O rádio é uma substância radioativa que se desintegra espontaneamente ao longo do tempo. Sua desintegração pode ser descrita matematicamente pela expressão $Q(t) = K\\left(\\dfrac{3}{2}\\right)^{-0,001t}$, onde K é a quantidade inicial de rádio e Q(t) é a quantidade ainda presente após t anos. Observa-se que, após transcorridos 1000 anos, ocorre uma redução porcentual, relativa à quantidade inicial, de aproximadamente 33,33%. Quando decorridos 2000 anos, a redução porcentual (relativa à quantidade inicial) aproximada será de",
+    "options": [
+      {
+        "label": "a",
+        "text": "55,55%.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "88,88%.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "66,66%.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "77,77%.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q19",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 19,
+    "statement": "Um cabo de aço, medindo c metros de comprimento, é estendido em linha reta fixado em três pontos, a saber: P e Q em seus extremos e M em um ponto intermediário. O ponto P está localizado no solo plano horizontal e os pontos M e Q estão localizados nos altos de duas torres erguidas verticalmente no mesmo solo. As medidas, em metros, das alturas das torres e a distância entre elas são respectivamente h, H e d. Se x é a medida em graus do ângulo que o cabo estendido faz com o solo, então, é correto dizer que a medida, em metros, da diferença entre altura da torre maior e altura da torre menor é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "c·tg(x).",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "d·tg(x).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$\\dfrac{c \\cdot h}{H}$tg(x).",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$\\dfrac{d \\cdot h}{H}$tg(x).",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-2fase-q20",
+    "examId": "2022.1-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "Ao representarmos a equação $|x|-|y|=1$, no plano, com o sistema usual de coordenadas cartesianas, teremos",
+    "options": [
+      {
+        "label": "a",
+        "text": "quatro semirretas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "quatro segmentos de retas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "duas retas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "duas semirretas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-2fase-q1",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 1,
+    "statement": "Desde a mais remota antiguidade, o homem procurou representar quantidade por símbolos. Assim surgiram os sistemas de numeração babilônico, egípcio, romano, dentre outros. Atualmente, no mundo ocidental, usa-se o sistema decimal, concebido no início da Era Cristã, que utiliza os símbolos 0,1,2,3,4,5,6,7,8,9, chamados algarismos indo-arábicos, para representar os números. Nesse sistema, os números, hoje chamados números naturais, são representados por: 0,1,2,...,9,10,11,...,99,100,.... Usa-se o valor posicional, em que, por exemplo, 23 significa 2 dezenas e 3 unidades e 134 representa 1 centena, 3 dezenas e 4 unidades. Mais recentemente, no mundo dos computadores, usa-se o sistema binário, que utiliza apenas dois símbolos: 0 e 1, também chamados dígitos. O sistema binário segue a mesma lógica de representar os números que é adotada no sistema decimal. Tem-se a representação dos números naturais 0,1,10,11,100,101,..., no sistema binário, correspondendo, respectivamente, aos números 0,1,2,3,4,5,... no sistema decimal. O número 1010, no sistema binário, é a representação do número 10 no sistema decimal. Dessa forma, a soma dos números 1111 e 10000 (escritos no sistema binário) corresponde ao número k (escrito no sistema decimal) que é",
+    "options": [
+      {
+        "label": "a",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "29.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "31.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-2fase-q2",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "numeros-operacoes",
+    "number": 2,
+    "statement": "Considere a listagem infinita de números inteiros positivos, logicamente construída, cujos seis primeiros números são 4, 9, 25, 49, 121, 169, .... A soma do sétimo com o oitavo número da listagem é um número que possui exatamente n números primos entre seus divisores positivos. Tem-se, então, que n é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-2fase-q3",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "number": 3,
+    "statement": "Seja f: R→R a função definida por $f(x)=3x+\\operatorname{sen}(2\\pi x)$. Se para cada $x\\in R$, os números f(x), f(x+1), f(x+2), f(x+3), ... estão, nesta ordem, em progressão aritmética, a razão desta progressão é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q4",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "sistemas-equacoes",
+    "number": 4,
+    "statement": "Em um estádio onde são realizados jogos de futebol, são disponibilizados três tipos de ingressos: ingressos de categoria VIP, que custam p reais; de categoria intermediária, que custam q reais, o que corresponde a 60% de p; e os de categoria econômica, que custam 75% de q. Se a soma dos valores dos três tipos de ingressos é R$ 164,00, então, o ingresso de menor valor custa",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 32,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 36,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 38,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 40,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-2fase-q5",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 5,
+    "statement": "Seja f: R→R uma função definida por $f(x)=b.a^x$, onde a e b são números reais positivos, $a\\neq1$. Se f(1)=8 e f(2)=16, então, o valor de f(4) é",
+    "options": [
+      {
+        "label": "a",
+        "text": "48.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "24.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "32.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "64.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-2fase-q6",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 6,
+    "statement": "O Professor Heitor Marlos, durante uma aula de Geometria Analítica Plana, fez a seguinte pergunta ao seu aluno Alex Caminha: \\\"Qual é a equação da única reta que contém o ponto P=(4,5) e é tangente à circunferência cuja equação é $x^2+y^2-2x-4y-20=0$?\\\" Alex respondeu corretamente que",
+    "options": [
+      {
+        "label": "a",
+        "text": "a equação é 2x−3y+7=0.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é impossível encontrar a equação, porque essa reta não existe.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "a equação é 3x−2y−2=0.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "existem, na realidade, duas retas que satisfazem as condições apresentadas, quais sejam: 5x+4y−40=0 e 4x−5y+9=0.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-2fase-q7",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "number": 7,
+    "statement": "São conhecidos sete sintomas de uma certa enfermidade que é diagnosticada de maneira segura se o médico detecta, no paciente, quatro ou mais dos sintomas. O médico pode constatar uma, dentre k combinações mínimas de sintomas, para que o diagnóstico seja dado de maneira segura. Nesse caso, o valor de k é",
+    "options": [
+      {
+        "label": "a",
+        "text": "21.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "56.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "35.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "48.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q8",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "number": 8,
+    "statement": "As funções trigonométricas são, muitas vezes, utilizadas no estudo de tópicos básicos de Física. Alguns fenômenos físicos podem assumir valores máximos e/ou mínimos. Se um fenômeno físico é representado pela função $f(x)=110(\\operatorname{sen}x+\\cos x)$, ele atingirá valor máximo e mínimo para os valores de $x=x_0$ tais que $\\operatorname{sen}x_0=\\cos x_0$. Nesse caso, o valor máximo atingido pelo fenômeno é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$110\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$110\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$220\\sqrt2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$220\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-2fase-q9",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 9,
+    "statement": "O polinômio P(x)=x³+mx²+px+q é tal que P(1)=P(2)=P(3)=0. Assim, é correto afirmar que p é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "13.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "11.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-2fase-q10",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 10,
+    "statement": "A praça Coronel Miro, na cidade de Rio Sá, é limitada por quatro ruas, formando um quadrado cuja medida do lado é 99 m. No centro da praça, foi construído um jardim cuja área é limitada por uma circunferência. Se a razão entre as medidas da área da praça e da área ocupada pelo jardim é 9, então, a medida, em metros, do raio desta circunferência é",
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{99}/\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$3\\sqrt{99}/\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$33/\\pi$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$33/\\sqrt{\\pi}$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q11",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 11,
+    "statement": "O Prof. Pacheco ensina desenho geométrico no Colégio J. Aires em sua cidade. Ele está construindo sólidos geométricos com superfícies em acrílico, para melhor visualização de tais sólidos por seus alunos. Perguntou a seus alunos qual a medida, em cm², da superfície de um tetraedro regular (soma das medidas das áreas das faces), cuja medida da aresta é 40 cm. A resposta correta dada por seus alunos foi",
+    "options": [
+      {
+        "label": "a",
+        "text": "$400\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$800\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$1200\\sqrt3$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1600\\sqrt3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-2fase-q12",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 12,
+    "statement": "As funções f: R→R definidas por f(x)=ax²+bx+c onde a,b,c são números reais constantes, a≠0, são chamadas de funções quadráticas. Tais funções são frequentemente usadas para determinar valores máximos ou mínimos de situações concretas que podem ser modeladas matematicamente, como ocorre no seguinte problema: Desejando-se cercar uma área retangular plana com um muro e sabendo que a extensão desse muro é 380 m, é correto afirmar que a medida, em m², da maior área que pode ser cercada é",
+    "options": [
+      {
+        "label": "a",
+        "text": "8250.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "9025.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10575.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "11750.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-2fase-q13",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "matrizes-determinantes",
+    "number": 13,
+    "statement": "Se P e Q são matrizes quadradas, em geral P.Q≠Q.P, isto é, o produto de matrizes quadradas não é uma operação comutativa. Contudo, em casos especiais, pode ocorrer a comutatividade. Por exemplo, se x é um número real, as matrizes $P=\\begin{pmatrix}x&0&1\\\\0&1&0\\\\1&0&x\\end{pmatrix}$ e $Q=\\begin{pmatrix}1&0&x\\\\0&1&0\\\\x&0&1\\end{pmatrix}$ satisfazem a igualdade P.Q=Q.P. Se P e Q são matrizes do tipo acima e M=P.Q=Q.P, então, o resultado da soma dos quadrados dos valores de x, tais que o determinante de M é igual a zero, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q14",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "algebra-expressoes",
+    "number": 14,
+    "statement": "Se a igualdade $\\dfrac{x-2}{(x-1)(x^2-4x+5)}=\\dfrac{X}{x-1}+\\dfrac{Yx+Z}{x^2-4x+5}$ se verifica para os números reais X, Y e Z e para $x\\in R-\\{1\\}$, é correto afirmar que",
+    "options": [
+      {
+        "label": "a",
+        "text": "$X.Y.Z=-1/8$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$X+Y+Z=-1/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$X-Y+Z=-1/2$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$X+Y-Z=-1/2$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-2fase-q15",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-espacial",
+    "number": 15,
+    "statement": "Uma fábrica de chocolate apresenta, para venda aos consumidores, barras de chocolate ao leite em dois formatos: cúbico e paralelepípedo retangular não cúbico, ambos com o mesmo volume. No formato cúbico, a medida da área de cada face é 9 cm² e, na forma de paralelepípedo, a medida da largura é 2 cm, a medida da espessura é 1,5 cm e a medida do comprimento é p cm. Para a embalagem da barra de chocolate em forma de paralelepípedo retangular, o papel laminado que envolve, exatamente, toda a superfície da barra mede K cm². Assim, é correto dizer que K é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "69.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "54.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "72.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "64.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-2fase-q16",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 16,
+    "statement": "A comissão de Formatura do Curso de Matemática contratou junto à empresa AIR.BR um avião para transportar um grupo de concludentes, nos seguintes termos: (i) O avião disponibiliza 90 assentos; (ii) para cada assento ocupado, a empresa recebe R$ 900,00 fixos mais um valor variável v; (iii) o valor variável v é igual a n.R$ 50,00, onde n é o número de assentos desocupados. Nessas condições, a maior receita que a empresa poderá obter está entre",
+    "options": [
+      {
+        "label": "a",
+        "text": "R$ 140.000,00 e R$ 150.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "R$ 170.000,00 e R$ 180.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "R$ 150.000,00 e R$ 160.000,00.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "R$ 160.000,00 e R$ 170.000,00.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q17",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "razao-proporcao-porcentagem",
+    "number": 17,
+    "statement": "Uma fábrica de confecções, antes da pandemia, contava com 180 empregados, com jornada de trabalho de 8 horas diárias, que produziam 4800 peças diariamente. Com o advento da pandemia, sua linha de produção e comercialização foi fortemente abalada. Para que a fábrica continuasse ativa, foi necessária uma reestruturação da sua linha de produção, para a qual foram tomadas as seguintes providências: (i) desligamento de um terço dos empregados; (ii) distribuição dos empregados que permaneceram em dois grupos com igual número de membros; (iii) jornada diária de 4 horas para cada empregado; e (iv) manutenção da mesma produtividade individual, guardando as devidas proporções quanto ao número de empregados e ao número de horas diárias de trabalho. Com essas providências, a produção diária passou a ser de K peças. Assim, é correto dizer que K é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1200.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1600.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2000.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2400.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q18",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 18,
+    "statement": "Uma caixa d'água com formato de um cubo cuja medida da aresta é 1 metro está completamente cheia ao meio-dia de quarta-feira. A partir de então, por uma tubulação instalada na base inferior da caixa, escoa água a uma vazão constante. Decorridas quatro horas de escoamento, sem reabastecimento simultâneo, a caixa ainda contém 840 litros d'água. Assim, é correto afirmar que a caixa estará vazia no dia seguinte às",
+    "options": [
+      {
+        "label": "a",
+        "text": "11 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "14 horas.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "13 horas.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-2fase-q19",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "number": 19,
+    "statement": "Considere o plano R² munido do sistema de coordenadas cartesianas usual, onde são representadas as funções f,g: A⊂R→R. O gráfico de g é simétrico ao gráfico de f em relação à reta r, dada por y=a, se para cada $x\\in A$, a reta r é a mediatriz do segmento de reta cujos extremos são os pontos (x,f(x)) e (x,g(x)). Se $f(x)=2.3^x$ e g é a função cujo gráfico é simétrico ao gráfico de f em relação à reta y=2, então, a expressão de h(x)=g(x)/f(x) é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "$-2+3^x$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2-3^{-x}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$-1+2.3^{-x}$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$1-2.3^x$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q20",
+    "examId": "2022.2-2fase",
+    "discipline": "matematica",
+    "topic": "geometria-plana",
+    "number": 20,
+    "statement": "No triângulo AOC, o pé da altura relativa ao vértice O é o ponto H, o qual divide o lado AC nos segmentos AH e CH. Se as medidas dos segmentos AH e CH são respectivamente 2 cm e 3 cm, e a medida da altura OH é 6 cm, pode-se afirmar corretamente que a medida, em graus, do ângulo AÔC é",
+    "options": [
+      {
+        "label": "a",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]

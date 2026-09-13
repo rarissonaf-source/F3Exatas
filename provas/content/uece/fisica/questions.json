@@ -26366,5 +26366,1541 @@
     ],
     "imagePath": null,
     "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-q39",
+    "examId": "2022.1",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 39,
+    "statement": "No dia 16 de setembro de 2021 foi acionado o sinal amarelo para o vulcão Cumbre Vieja, localizado na ilha de La Palma, a 4462 km de São Luís. A partir dessa situação de atividade vulcânica, há possibilidades de tal evento ser percebido em regiões banhadas pelo Oceano Atlântico, como é o caso do nordeste brasileiro. A energia transferida pelos abalos sísmicos que chega a partir da propagação de ondas na água do mar, cuja velocidade v, com uma boa aproximação, depende da aceleração da gravidade g, de uma constante k adimensional e do comprimento de onda λ, é expressa por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$v=k\\sqrt{g/\\lambda}$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$v=k\\sqrt{g\\lambda}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$v=kg\\lambda$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$v=kg/\\lambda$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-q40",
+    "examId": "2022.1",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 40,
+    "statement": "Em virtude de um acordo firmado pelo Brasil e outros 140 países na convenção de Minamata em 2013, o uso de mercúrio na fabricação de vários produtos está sendo eliminado, pois oferece riscos à saúde e ao meio ambiente. Desde o dia primeiro de janeiro de 2019, a importação, fabricação e comercialização de termômetros que utilizam mercúrio está proibida no Brasil. Para quem possui um termômetro desses em casa, o uso doméstico poderá ser feito desde que o usuário mantenha os devidos cuidados para que não ocorra a quebra desse instrumento. Ao fazer uso de um termômetro de mercúrio defeituoso, o proprietário notou que o mesmo indicava 5 °C para o ponto de fusão do gelo e 99 °C para o ponto de vapor. Quando esse termômetro defeituoso aferir a temperatura de 52 °C, a temperatura correta, em °C, corresponderá a",
+    "options": [
+      {
+        "label": "a",
+        "text": "47.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "57.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "55.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-q41",
+    "examId": "2022.1",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 41,
+    "statement": "A aventura de sair da Terra ainda é uma realidade para poucos. Empresas particulares pretendem transformar este tipo de viagem em voos comerciais em um futuro não muito distante. No dia 15 de setembro de 2021, a missão Inspiration4, lançou o foguete Falcon9 que transportou a sonda Dragon com quatro civis a bordo, configurando a primeira viagem da história sem a presença de um astronauta profissional. Em uma viagem suborbital hipotética, a variação da energia potencial gravitacional de uma pessoa de massa m ao atingir uma altura R acima da superfície da Terra, que tem raio R, cuja aceleração da gravidade, na superfície, é igual a g, é expressa por",
+    "options": [
+      {
+        "label": "a",
+        "text": "Rgm/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "Rgm/4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2Rgm.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4Rgm.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-q42",
+    "examId": "2022.1",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 42,
+    "statement": "Ao montar um experimento óptico em sala de aula, um professor de Física faz uso de um espelho côncavo de distância focal 24 cm. Ao ser questionado pelos alunos se haveria como determinar a razão entre os tamanhos da imagem e do objeto, o professor sugeriu aos alunos que utilizassem como parâmetro a distância entre o objeto e o foco do espelho, cujo valor corresponde a 16 cm. O valor da razão encontrada pelos estudantes corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "3/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5/2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-q43",
+    "examId": "2022.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 43,
+    "statement": "Um estudante de Física realiza um experimento no alto de um prédio de modo a determinar a altura desse edifício. O experimento consiste em lançar verticalmente para cima uma bolinha a partir do topo do edifício com uma dada velocidade e medir novamente a velocidade da bolinha quando esta atingir o solo na base do prédio. Sabendo que os valores registrados pelo estudante são V e 3V, e desprezando a resistência do ar, assinale a expressão que representa corretamente a altura do edifício em termo de V e da aceleração da gravidade g.",
+    "options": [
+      {
+        "label": "a",
+        "text": "$V^2/g$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$2V^2/g$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$4V^2/g$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$5V^2/g$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-q44",
+    "examId": "2022.1",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 44,
+    "statement": "O LDR (Light Dependent Resistor – Resistor Dependente de Luz) é um resistor cuja resistência varia com a intensidade luminosa incidente, permitindo a variação da intensidade da corrente em um circuito. A resistência de um LDR varia desde 40 Ω até 1 MΩ. Quando submetido a uma tensão constante, esse LDR dissipa uma potência máxima de 100 mW, cuja corrente que o atravessa corresponde ao valor de",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,5 mA.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "50 mA.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "100 mA.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10 mA.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-q45",
+    "examId": "2022.1",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 45,
+    "statement": "Em uma região do espaço, há um campo elétrico e um campo magnético uniformes que apontam para a mesma direção e mesmo sentido. Um elétron é projetado nessa região com uma velocidade que aponta para a mesma direção e sentido dos referidos campos. Ao entrar na região dos campos, o elétron descreve um movimento",
+    "options": [
+      {
+        "label": "a",
+        "text": "retilíneo e uniforme.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "retilíneo e uniformemente retardado.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "circular e uniforme.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "retilíneo e uniformemente acelerado.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-q46",
+    "examId": "2022.1",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 46,
+    "statement": "As lavadoras de roupa compõem um grupo de eletrodomésticos muito presente nas residências. O seu funcionamento ocorre de acordo com uma programação prévia combinando diferentes tipos de movimentos de rotação do cesto. Na etapa final de lavagem (centrifugação), a máquina gira esse cesto a uma frequência de 1500 rpm. Considerando π≈3 e que o cesto possui um raio de 20 cm, a velocidade, em m/s, de um ponto pertencente à parede deste cesto corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "120.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "90.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "60.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q1",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 1,
+    "statement": "O atual regulamento da Fórmula 1 não permite que os modelos utilizados no campeonato façam uso de tração nas quatro rodas. Diferentemente da maioria dos carros tradicionais utilizados nas ruas das cidades, que apresentam tração no eixo dianteiro, o modelo empregado na F1 é típico de veículos com alto rendimento projetados para o asfalto. Em um veículo de Fórmula 1 com tração traseira, que se move aceleradamente para frente, as rodas sofrem ação de forças de atrito. Em relação à orientação destas forças nas rodas traseiras e dianteiras, é correto dizer que, devido ao solo, se dá",
+    "options": [
+      {
+        "label": "a",
+        "text": "para trás tanto nas rodas dianteiras como nas traseiras.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "para trás nas rodas traseiras e para frente nas dianteiras.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "para frente nas rodas traseiras e para trás nas dianteiras.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "para frente tanto nas rodas dianteiras como nas traseiras.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q2",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 2,
+    "statement": "A proibição do uso dos canudos de plástico vem se propagando pelo mundo. Em julho de 2018, Seattle tornou-se a primeira cidade nos EUA a banir o uso de canudos. No Brasil, os estabelecimentos comerciais devem fornecer aos seus clientes uma alternativa ao uso de canudos de plástico. Embora o plástico não seja o único vilão a trazer malefícios ao meio ambiente, o seu uso excessivo tornou-se uma preocupação mundial nos últimos anos. Ao tomar água em um copo através de um canudinho, uma pessoa é capaz de reduzir a pressão em seus pulmões a cerca de 750 mmHg (milímetros de mercúrio). Tendo em vista que a pressão ao nível do mar é de 760 mmHg e que a densidade do mercúrio e da água são respectivamente iguais a 13,6 g/cm³ e 1 g/cm³, é correto afirmar que a máxima altura, em cm, medida a partir da superfície livre do líquido para o qual a pessoa ainda consegue sugar é de",
+    "options": [
+      {
+        "label": "a",
+        "text": "13,6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,36.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "76.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q3",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 3,
+    "statement": "Para afinar seu instrumento musical, um músico poderá recorrer a um diapasão, que é um dispositivo metálico capaz de vibrar em uma frequência bem definida, 440 Hz por exemplo. Enquanto o diapasão emite o som, o músico começa a tocar a corda de seu instrumento simultaneamente. Ao ajustar a tensão da corda, este altera a afinação de seu instrumento com o intuito de tentar aproximar as duas frequências. Durante o processo inicial de afinação, a diferença verificada entre as frequências está associada ao fenômeno de",
+    "options": [
+      {
+        "label": "a",
+        "text": "interferência.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "batimento.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "ressonância.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "difração.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-2fase-q4",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 4,
+    "statement": "Em um torno mecânico de bancada, duas polias são conectadas por meio de uma correia. Uma das polias tem 10 cm de raio e realiza 80 voltas por segundo. O número de voltas que a segunda polia dará por minuto, caso tenha 20 cm de raio, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1200.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2400.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "7200.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3600.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-2fase-q5",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 5,
+    "statement": "Um trem parte de uma estação A em direção a uma estação B separada de A por uma distância de 4 km. Sabe-se que, partindo do repouso a partir de A, o trem acelera uniformemente até alcançar um ponto do trajeto a partir do qual passa a desacelerar uniformemente parando finalmente em B. Sabendo que o percurso entre A e B é realizado em apenas 6 min, a velocidade máxima, em km/h, alcançada pelo trem no referido percurso é",
+    "options": [
+      {
+        "label": "a",
+        "text": "120.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "40.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "80.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "160.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q6",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 6,
+    "statement": "Resistências circulares são empregadas em carrinhos térmicos de restaurantes e churrascarias de modo a manter os alimentos aquecidos. Uma resistência circular típica é construída a partir de um fio de material condutor homogêneo de comprimento L e área de seção transversal A constante cuja resistência vale 32 Ω. Devido ao desgaste, essa resistência partiu-se em dois pedaços, de comprimentos L/4 e 3L/4, respectivamente. Na impossibilidade de restabelecer a resistência original, as partes foram ligadas em paralelo e conectadas à mesma fonte de alimentação. A nova resistência passou a apresentar um valor de",
+    "options": [
+      {
+        "label": "a",
+        "text": "32 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "8 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "6 Ω.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-2fase-q7",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 7,
+    "statement": "Um sensor detecta oscilações na superfície da Terra e as transmite a um sismógrafo. Ao registrar a amplitude das ondas em função do tempo t, este equipamento gera um sismograma. O traçado de um sismograma hipotético é fornecido pelo gráfico da função $y(t) = A + B\\,\\text{sen}(\\omega t)$, onde $\\omega$ é a frequência angular da perturbação, e cuja amplitude é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "$A^2+B^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "B.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "A+B.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "A.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-2fase-q8",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 8,
+    "statement": "Na construção de grandes estruturas, como por exemplo, torres de transmissão de energia elétrica e prédios, a força dos ventos é um fator que se deve levar em conta nos cálculos de resistência da estrutura. A força F exercida pelos ventos depende de um parâmetro adimensional K chamado de coeficiente aerodinâmico do elemento para o qual se está medindo a força, da pressão P numa determinada altura e da área A da zona em estudo. Com base nessas informações, a expressão da força é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "F=KP/A.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$F=\\sqrt{KPA}$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$F=KP^2A$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "F=KPA.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-2fase-q9",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 9,
+    "statement": "Um experimento consiste em analisar o comportamento de um objeto de dimensões desprezíveis que será abandonado a partir do repouso da mesa até alcançar o chão percorrendo rampas de diferentes inclinações. O trabalho realizado pela força peso",
+    "options": [
+      {
+        "label": "a",
+        "text": "é o mesmo e independe da rampa escolhida.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "é maior quanto maior a inclinação da rampa.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "é menor quanto maior a inclinação da rampa.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "depende da velocidade do objeto.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q10",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 10,
+    "statement": "Um desfibrilador cardíaco faz uso de um capacitor de 40 μF carregado em uma diferença de potencial de 3000 V. A energia armazenada no dispositivo é transferida ao paciente através de um pulso de curta duração, cerca de 2ms. Nessa situação, a potência média transmitida ao paciente durante a duração do pulso, em kW, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "180.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "90.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "360.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.1-2fase-q11",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 11,
+    "statement": "Um sistema óptico é formado por dois espelhos planos paralelos com suas faces refletoras voltadas uma para a outra. Quando dispostos sobre um mesmo eixo horizontal e a uma distância D um do outro, o sistema é capaz de formar infinitas imagens de um objeto O situado entre os dois espelhos. Ao colocar-se o objeto O a uma distância d do primeiro espelho, a distância entre a primeira imagem formada pelo primeiro espelho e a segunda imagem formada pelo segundo espelho será",
+    "options": [
+      {
+        "label": "a",
+        "text": "2d.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2D.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2D+2d.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4D.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q12",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 12,
+    "statement": "A Organização das Nações Unidas — ONU — é o órgão que regulamenta o uso pacífico do espaço e autoriza o posicionamento de satélites ao redor do planeta Terra. Aproximadamente 2600 satélites estão orbitando o planeta para a realização das mais diversas funções. Alguns desses equipamentos possibilitam a transmissão de sinais de TV e ligações telefônicas. Outras possibilidades de emprego incluem o monitoramento do meio ambiente e ações militares. Desejando-se substituir um desses satélites em órbita circular de raio 6R, onde R é o raio terrestre, por outro de órbita também circular, mas de raio igual a 1,5R, se o primeiro satélite tem velocidade orbital v, o segundo terá velocidade de",
+    "options": [
+      {
+        "label": "a",
+        "text": "v/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4v.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2v.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "v/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q13",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 13,
+    "statement": "Uma partícula de massa m e carga q move-se com velocidade de módulo v através do espaço. Quando sujeita a um campo magnético B transverso a v, essa partícula passa a descrever uma trajetória circular de raio R. Nessas condições, o trabalho realizado pela força magnética sobre a partícula após uma volta completa será",
+    "options": [
+      {
+        "label": "a",
+        "text": "qvB2R.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$mv^2R$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "qvB/2R.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "nulo.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-2fase-q14",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 14,
+    "statement": "Um cilindro homogêneo de 30 cm de comprimento e massa de 4 kg, que se encontra em repouso com seu eixo de simetria paralelo a uma superfície horizontal sem atrito, é submetido à ação de duas forças opostas, com intensidades 20 N e 32 N, aplicadas ao longo de seu eixo, tracionando-o. Considerando que uma seção transversal localizada a 10 cm do ponto de aplicação da força de menor intensidade divide o cilindro em duas partes que se mantêm em contato, é correto dizer que a força que mantém as duas porções unidas e atua ao longo da seção transversal corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "28 N.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "16 N.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "24 N.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "12 N.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q15",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 15,
+    "statement": "Uma certa quantidade de água contida em um recipiente é aquecida a partir da chama de um fogão a gás liquefeito de petróleo (GLP), popularmente conhecido como gás de cozinha. Quando queimado em fogo baixo, em um fogão convencional, esse gás apresenta um consumo de 0,2 kg por hora, com uma capacidade de transferência de 11.000 Kcal/Kg. Considerando o calor específico da água igual a 1 cal/g°C e que 80% da energia da chama é transferida para esse líquido, a massa de água aquecida em 50 °C, após 30 min de exposição à chama, corresponde, em kg, a",
+    "options": [
+      {
+        "label": "a",
+        "text": "17,6.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "22.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "35,2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "44.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q16",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 16,
+    "statement": "No laboratório de física experimental básica da Universidade Estadual do Ceará, dispondo de um cronômetro, uma mola e um objeto de massa conhecida, um estudante, desejando descobrir a massa de um objeto desconhecido, monta um sistema massa mola que pode ser posto a oscilar. Com a ajuda do cronômetro disponível, o estudante observa que o período de oscilação do sistema massa mola é de 2s quando este faz uso da massa desconhecida e que este período aumenta em 1s quando uma massa de 2 kg é acrescida à massa desconhecida. A partir dos dados coletados, o estudante constatou perplexo que a massa desconhecida, em kg, era igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3,2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1,6.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.1-2fase-q17",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 17,
+    "statement": "Duas cargas elétricas Q e −4Q estão separadas por uma distância d. Sobre a linha que une o centro das duas cargas existe um ponto P para o qual o campo elétrico resultante das mesmas é nulo. Considerando K a constante eletrostática do meio, o potencial elétrico no referido ponto é expresso por",
+    "options": [
+      {
+        "label": "a",
+        "text": "KQ/d.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "−4KQ/d.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "−KQ/d.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "−3KQ/d.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q18",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 18,
+    "statement": "No nosso planeta há uma grande diversidade de climas. Por exemplo, a cidade de Oymyakon, na Rússia, já registrou temperaturas de −65 °C, ao passo que, na cidade de Ghadamés, na Líbia, há registros de temperaturas de 122 °F. O módulo da diferença de temperatura entre essas duas cidades, em kelvin, corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "115.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "125.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "187.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "57.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.1-2fase-q19",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 19,
+    "statement": "Um objeto em queda livre percorre uma distância X durante o primeiro segundo de queda. Desprezando as forças resistivas e considerando a aceleração da gravidade constante ao longo de todo o percurso, a distância percorrida por esse objeto durante o quarto segundo da queda corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "3X.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5X.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "4X.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "7X.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.1-2fase-q20",
+    "examId": "2022.1-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 20,
+    "statement": "Um estudante de Física observou, em laboratório, que, ao fornecer 100 cal a uma amostra contendo 2 moles de um gás ideal, sua temperatura variava em 5 °C desde que a pressão durante o processo fosse mantida constante. Em um segundo momento, o estudante optou por manter o volume da amostra constante durante o referido processo, ao invés da pressão. Neste caso, para a mesma variação de temperatura, a quantidade de calor necessária seria [Considere a constante universal dos gases R=2 cal/mol.K.]",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 cal.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "80 cal.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "50 cal.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "200 cal.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-2fase-q1",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 1,
+    "statement": "O Scud é um míssil balístico de curto alcance. Um pequeno número desses mísseis, de origem soviética, foi utilizado em 1973 na Guerra do Yom Kippur liderada pelo Egito e pela Síria contra Israel. Suponha que, ao atingir sua altura máxima, um Scud tenha velocidade u em um local onde a aceleração da gravidade vale g. Nessas condições, a componente centrípeta da aceleração do míssil em um ponto de sua trajetória supostamente parabólica no qual o módulo de sua velocidade vale v corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "g.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "2g(u/v+v/u).",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "gu/v.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "gv/u.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q2",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 2,
+    "statement": "A equação de estado para um gás ideal geralmente apresentada como PV=nRT é baseada na hipótese de que as moléculas do gás são massas pontuais de volume negligenciável sujeitas a colisões perfeitamente elásticas. Para um gás real, não ideal, uma equação que leva em consideração o tamanho das partículas bem como as forças intermoleculares entre elas remonta a 1873. Derivada por Johannes Diderik van der Waals, a equação que leva seu nome é apresentada como $(P-A/V^2)(V-B)=RT$, onde T é a temperatura absoluta, P é uma pressão, V é um volume e R é a constante universal dos gases. As constantes A e B são empíricas e variam para cada tipo de gás. Em relação à constante A, presente na equação de van der Waals, é correto afirmar que ela tem dimensão de",
+    "options": [
+      {
+        "label": "a",
+        "text": "$L^6$.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "$ML^5/T^2$.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "$M/(T^2L^3)$.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "$L^3$.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-2fase-q3",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 3,
+    "statement": "A esmerilhadeira, ou rebarbadora, é uma ferramenta elétrica utilizada para esmerilar, aparar ou cortar materiais metálicos. Muitos operários não fazem uso de equipamentos de proteção individual ao esmerilar, com a justificativa de que, mesmo com o metal aquecido ao rubro, as limalhas de ferro, por exemplo, são incapazes de causar queimaduras realmente sérias. Tal argumento tem seu fundamento baseado",
+    "options": [
+      {
+        "label": "a",
+        "text": "na baixa temperatura da limalha gerada a partir do metal utilizado.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "na baixa condutividade térmica do metal utilizado.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "na pequena quantidade de calor trocada pela limalha.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "no elevado calor específico do metal utilizado.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q4",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrodinamica",
+    "number": 4,
+    "statement": "Um gerador elétrico, cuja resistência interna, segundo o fabricante, é de 30 Ω, pode ser utilizado para alimentar um circuito externo de resistência variável R (carga externa). Para uma escolha específica da carga externa R, o rendimento elétrico do gerador é de 75%. Nessa situação, a resistência elétrica do circuito externo é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "90 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "30 Ω.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "120 Ω.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-2fase-q5",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 5,
+    "statement": "Um estudante de Física da Universidade Estadual do Ceará, durante um experimento realizado com um espelho esférico convexo, observa e registra, em tabela, os valores da razão entre o tamanho da imagem conjugada pelo espelho e o tamanho de um objeto O para diferentes distâncias do objeto ao espelho. Quando a distância do objeto ao espelho foi de P1, o valor registrado na tabela foi 1/2 e quando a distância entre o objeto e o espelho foi de P2, o valor registrado foi 1/4. Com base nesses valores registrados pelo estudante, a razão entre P1 e P2 é representada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/3.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "2.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-2fase-q6",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "number": 6,
+    "statement": "Uma partícula executa um movimento harmônico simples de amplitude A e período T ao longo de um dos eixos coordenados. Supondo-se nula a fase inicial das oscilações, a relação entre a energia potencial da partícula U e sua energia cinética K, no instante T/8, é tal que",
+    "options": [
+      {
+        "label": "a",
+        "text": "U=K/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "U=2K.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "U=3K.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "U=K.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-2fase-q7",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 7,
+    "statement": "A cada 9 minutos, parte, de um terminal rodoviário A de Fortaleza, um ônibus da linha Bela Vista em direção ao terminal rodoviário B. Ao longo da via utilizada pelo ônibus e paralelamente a ela, um ciclista desloca-se na ciclofaixa em trajetória retilínea a 20 km/h na mesma direção e sentido que o ônibus da linha mencionada. O ciclista observa que são necessários 18 minutos para que dois desses ônibus consecutivos o interceptem ao longo da via. Supondo-se que a trajetória do ônibus também é retilínea e que ele se desloca com velocidade constante ao longo da via, a velocidade escalar dele em km/h, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "30.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "60.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "40.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-2fase-q8",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "gravitacao",
+    "number": 8,
+    "statement": "O cientista Italiano Galileu Galilei, por volta de 1600, foi o primeiro a investigar as propriedades dos pêndulos, dentre as quais se encontra o isocronismo. Embora não tenha conseguido construir um relógio de pêndulo, realizou descobertas que tornariam o pêndulo um marcador de tempo bastante útil. Apenas em 1656, o cientista Holandês Christian Huygens criou o relógio de pêndulo, que viria a se popularizar por toda a Europa. Em 1687, Isaac Newton demonstrou que variações da gravidade g alteram o período de um relógio de pêndulo ao redor da Terra. Uma vez que, na superfície da Terra, onde o raio vale R e a aceleração da gravidade vale g, o período de um pêndulo simples é $T_1$, o valor de $T_1/T_2$, onde $T_2$ é o período do dispositivo a uma altitude R medida a partir da superfície da Terra, suposta esférica, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1/4.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-2fase-q9",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletrostatica",
+    "number": 9,
+    "statement": "Quando um capacitor de placas planas e paralelas é submetido a uma diferença de potencial de 150 V, um campo elétrico uniforme de magnitude $3.10^3$ V/m é estabelecido entre suas placas. Uma vez desconectado de sua fonte externa, é possível alterar a tensão entre as placas do capacitor pelo simples reposicionamento delas. Assim, para que se tenha uma tensão de 120 V, a nova distância, em cm, entre as placas paralelas, após reposicionamento, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-2fase-q10",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "estatica",
+    "number": 10,
+    "statement": "Para pintar um prédio, o pintor utiliza uma escada homogênea, de comprimento L e massa m, com uma das extremidades apoiada a uma parede vertical. Preocupado com sua segurança, o pintor verificou que essa parede vertical é praticamente lisa, e que, a outra extremidade da escada fica apoiada sobre um piso horizontal rugoso. De fato, esse piso é feito de material com coeficiente de atrito estático de valor 0,5. Nessas condições, para apoiar a escada, de forma segura, evitando que ela escorregue durante sua ausência, o pintor deverá posicioná-la de modo que o ângulo mínimo entre a escada e o piso horizontal seja de",
+    "options": [
+      {
+        "label": "a",
+        "text": "60°.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "45°.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "75°.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "30°.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q11",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "eletromagnetismo",
+    "number": 11,
+    "statement": "Quando largado com velocidade inicial nula na origem de um sistema de coordenadas cartesiano ortogonal xOy, um próton de carga q passa a deslocar-se horizontalmente ao longo do semieixo positivo Ox com aceleração A, dirigida também horizontalmente ao longo do semieixo positivo Ox. No entanto, quando projetado verticalmente com velocidade v ao longo do semieixo positivo Oy, o próton adquire uma aceleração 3A dirigida ao longo do semieixo positivo Ox. Sabendo-se que, na região, existe um campo elétrico de magnitude E e um campo de indução magnética de magnitude B perpendicular ao plano xOy, a razão E/B é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "v.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "v/2.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "q/v.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
+  },
+  {
+    "id": "2022.2-2fase-q12",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 12,
+    "statement": "No setor automotivo, a tecnologia evoluiu bastante nas últimas décadas. No passado, um cabo era conectado ao pedal do acelerador e abria um dispositivo denominado corpo de borboletas, permitindo, dessa forma, a admissão de ar ao motor. Nos modelos atuais, a conexão entre o acelerador e o corpo de borboletas é feita de modo eletrônico e faz uso de um acelerador eletrônico (Drive by Wire) em que o registro do pedal é feito por meio de sensores e enviado à central eletrônica do veículo. O sistema eletrônico introduz, segundo alguns motoristas, uma sensação de atraso na aceleração do veículo. De forma a reduzir esse efeito, um dispositivo instalado no veículo é capaz de reprogramar os ganhos de aceleração de acordo com o modo escolhido ao percorrer determinada distância D. Em um modo escolhido, em particular, uma distância D a ser percorrida é dividida em três partes exatamente iguais. Na primeira parte do trajeto, o veículo parte do repouso com aceleração escalar constante A. Na segunda parte do trajeto, um incremento de A/3 é dado na aceleração desenvolvida na primeira parte do trajeto. Na terceira e última parte, um novo incremento de A/3 é dado na aceleração desenvolvida na segunda parte do trajeto. Desprezando-se qualquer intervalo de tempo que possa existir na aplicação dos incrementos de aceleração nas transições entre as partes do percurso, é correto dizer que, ao final da terceira parte, o quadrado da velocidade do veículo corresponde a",
+    "options": [
+      {
+        "label": "a",
+        "text": "2AD.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10AD/9.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "28AD/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "8AD/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-2fase-q13",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "number": 13,
+    "statement": "A máquina de Atwood foi criada em 1784 por George Atwood e consta como dispositivo básico na maioria dos laboratórios de Física do Brasil. Frequentemente utilizada em experimentos para demonstrar princípios básicos da dinâmica, essa máquina utiliza uma polia de massa desprezível sem atrito, um fio inextensível que passa pela polia e possui, em suas extremidades, massas M e m. Em uma situação experimental típica em que a polia esteja fixa ao teto do laboratório e as massas sejam abandonadas sob a influência da gravidade g=10m/s², o sistema de massas M=5kg e m=3kg adquire uma aceleração de módulo A na direção vertical. Para que o mesmo sistema adquira uma aceleração vertical de mesmo módulo A, mas dirigida no sentido oposto ao obtido anteriormente, é necessário reduzir a massa M em",
+    "options": [
+      {
+        "label": "a",
+        "text": "2,5 kg.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1,8 kg.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "3,2 kg.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "1,5kg.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q14",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 14,
+    "statement": "Deseja-se transformar uma determinada massa M de gelo mantida a −10 °C totalmente em água a 10 °C. Para a realização desse processo, de forma integral, são necessários 95 cal. Sabendo-se que o calor de fusão do gelo vale 80 cal/g, o calor específico do gelo é de 0,5 cal/(g.°C) e o calor específico da água é de 1 cal/(g.°C), a massa M do gelo, em gramas, é igual a",
+    "options": [
+      {
+        "label": "a",
+        "text": "1.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "19/17.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "19/18.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-2fase-q15",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "number": 15,
+    "statement": "Ao registrar a decolagem de um helicóptero, com um dispositivo analógico audiovisual capaz de registrar 24 quadros por segundo, um cinegrafista sincronizou o obturador de sua câmera com o movimento das pás do helicóptero. Dessa forma, o cinegrafista foi capaz de criar a falsa ilusão de que as pás estavam paradas. Para um helicóptero com 4 pás, a frequência mínima de rotação, em rpm, do rotor da aeronave para se obter o efeito desejado pelo cinegrafista é",
+    "options": [
+      {
+        "label": "a",
+        "text": "1000.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "1200.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "360.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "300.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q16",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "number": 16,
+    "statement": "Um cilindro fechado com paredes adiabáticas contém internamente um pistão de massa desprezível que pode deslizar livremente em seu interior. O pistão construído de material também adiabático, por sua vez, divide o cilindro internamente em duas porções L e R. Além disso, em cada uma das porções L e R, uma certa quantidade de um mesmo gás é mantida com suas características termodinâmicas próprias. O pistão, em um primeiro momento, é mantido fixo por meio de dispositivo magnético externo de tal maneira que o gás contido na porção L do cilindro tem como características pressão P e volume 5V, ao passo que, o gás contido na porção R tem como características pressão 8P e volume V. Desligando-se o dispositivo magnético externo, o pistão fica livre para deslizar até que um novo estado de equilíbrio seja atingido pelas porções L e R. Supondo-se que todos os processos sejam realizados de forma adiabática com coeficiente γ=3/2, a razão entre os volumes L e R, após equilíbrio, é dada por",
+    "options": [
+      {
+        "label": "a",
+        "text": "8/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "5/8.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "10/3.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5/4.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "d"
+  },
+  {
+    "id": "2022.2-2fase-q17",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "trabalho-energia",
+    "number": 17,
+    "statement": "No interior de um trilho circular mantido em um plano vertical, uma partícula descreve um MCU (movimento circular e uniforme) com velocidade angular constante ω de 2rad/s. Sabe-se que a energia mecânica total na parte mais alta da trajetória é três vezes maior do que a energia mecânica da partícula na parte mais baixa dessa trajetória. Supondo que a aceleração da gravidade local é 10 m/s², é correto afirmar que o raio da trajetória corresponde, em m, a",
+    "options": [
+      {
+        "label": "a",
+        "text": "5.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "10.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2,5.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-2fase-q18",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "optica",
+    "number": 18,
+    "statement": "Um estudante de Física deseja obter, a partir de uma superfície refletora esférica, uma imagem real, maior e invertida de um dado objeto. Sabe-se que, para esse fim, a superfície refletora a ser escolhida pelo aluno deve funcionar exatamente como um espelho esférico. Em relação ao tipo de superfície que deve ser escolhida pelo estudante e a localização do objeto ao longo do eixo que contém o centro de curvatura da superfície, o foco e o vértice, é correto dizer que a superfície tem de ser",
+    "options": [
+      {
+        "label": "a",
+        "text": "côncava e o objeto estar entre o foco e o vértice.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "convexa e o objeto estar entre o foco e o vértice.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "côncava e o objeto estar entre o centro e o foco.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "convexa e o objeto estar entre o centro e o vértice.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "c"
+  },
+  {
+    "id": "2022.2-2fase-q19",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "impulso-momento",
+    "number": 19,
+    "statement": "Uma bola de bilhar A de massa m, ao receber uma tacada, desloca-se sobre uma superfície horizontal em direção a uma bola de bilhar B em repouso e de mesma massa m. A superfície da bola A é perfeitamente suave, ao passo que a da bola B, em virtude de uma falha no processo de fabricação, apresenta um coeficiente de atrito de valor 0,1. Antes de chocar-se frontalmente e de modo perfeitamente elástico com a bola B, a bola A move-se sobre a superfície horizontal com uma velocidade de 4m/s. Sabendo-se que a aceleração da gravidade local é de 10m/s², é correto afirmar que a distância, em m, percorrida pela bola B, após a colisão até parar, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "8.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "4.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "2.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "5.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "a"
+  },
+  {
+    "id": "2022.2-2fase-q20",
+    "examId": "2022.2-2fase",
+    "discipline": "fisica",
+    "topic": "hidrostatica",
+    "number": 20,
+    "statement": "Uma maneira de determinar a densidade D de um fluido desconhecido consiste em utilizar um bloco retangular padrão e um fluido de densidade d conhecida. Ao mergulhar o bloco padrão no fluido de densidade conhecida, observa-se que, no equilíbrio, 2/3 de seu volume ficam submersos. Em seguida, ao mergulhar o bloco no fluido desconhecido D, observa-se que, no equilíbrio, 9/10 de seu volume permanecem submersos. Com base nas informações fornecidas, a densidade do fluido desconhecido, em termos de d, é",
+    "options": [
+      {
+        "label": "a",
+        "text": "2d/3.",
+        "imagePath": null
+      },
+      {
+        "label": "b",
+        "text": "20d/27.",
+        "imagePath": null
+      },
+      {
+        "label": "c",
+        "text": "9d/15.",
+        "imagePath": null
+      },
+      {
+        "label": "d",
+        "text": "10d/3.",
+        "imagePath": null
+      }
+    ],
+    "imagePath": null,
+    "correctAnswer": "b"
   }
 ]
