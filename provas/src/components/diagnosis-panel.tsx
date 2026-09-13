@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { Lock, Sparkles, TrendingDown, TrendingUp } from "lucide-react";
+import { Clock, Lock, Sparkles, TrendingDown, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   fetchPerformanceSummary,
@@ -12,22 +12,17 @@ import {
   clearCachedDiagnosis,
   saveDiagnosisSnapshot,
   fetchDiagnosisHistory,
+  isDiagnosisExplainerDismissed,
   DIAGNOSIS_MIN_QUESTIONS,
-  type Period,
   type PerformanceSummary,
   type TopicPerformance,
   type DiagnosisSnapshot,
 } from "@/lib/performance";
 import { getTopicsForDiscipline } from "@/lib/topics";
 import { DiagnosisHistoryChart } from "@/components/diagnosis-history-chart";
+import { DiagnosisInfoDialog } from "@/components/diagnosis-info-dialog";
 
 const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
-
-const PERIOD_OPTIONS: { value: Period; label: string; nounLabel: string }[] = [
-  { value: "24h", label: "Últimas 24h", nounLabel: "nas últimas 24h" },
-  { value: "7d", label: "Últimos 7 dias", nounLabel: "nos últimos 7 dias" },
-  { value: "30d", label: "Últimos 30 dias", nounLabel: "nos últimos 30 dias" },
-];
 
 type DisciplineFilter = "all" | "fisica" | "matematica";
 
@@ -37,7 +32,7 @@ const DISCIPLINE_OPTIONS: { value: DisciplineFilter; label: string }[] = [
   { value: "fisica", label: "Física" },
 ];
 
-type Mode = "idle" | "loading" | "result" | "locked";
+type Mode = "idle" | "loading" | "result" | "locked" | "cooldown";
 
 function filterSummary(summary: PerformanceSummary, filter: DisciplineFilter): PerformanceSummary {
   if (filter === "all") return summary;
@@ -45,7 +40,9 @@ function filterSummary(summary: PerformanceSummary, filter: DisciplineFilter): P
   const totalAnswered = byTopic.reduce((acc, t) => acc + t.total, 0);
   const totalCorrect = byTopic.reduce((acc, t) => acc + t.correct, 0);
   return {
-    period: summary.period,
+    sinceDiagnosisAt: summary.sinceDiagnosisAt,
+    cooldownActive: summary.cooldownActive,
+    cooldownEndsAt: summary.cooldownEndsAt,
     byTopic,
     totalAnswered,
     totalCorrect,
@@ -77,8 +74,18 @@ function performanceTier(accuracy: number): { label: string; textClass: string }
   return { label: "Desempenho baixo — precisa melhorar", textClass: "text-red-500" };
 }
 
+/** "Xh Ymin" até `iso`, ou null se já passou. */
+function formatCountdown(iso: string): string | null {
+  const diffMs = new Date(iso).getTime() - Date.now();
+  if (diffMs <= 0) return null;
+  const totalMinutes = Math.ceil(diffMs / 60000);
+  const hours = Math.floor(totalMinutes / 60);
+  const minutes = totalMinutes % 60;
+  if (hours <= 0) return `${minutes} min`;
+  return `${hours}h ${minutes}min`;
+}
+
 export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
-  const [period, setPeriod] = useState<Period>("7d");
   const [disciplineFilter, setDisciplineFilter] = useState<DisciplineFilter>("all");
   const [mode, setMode] = useState<Mode>("idle");
   const [progress, setProgress] = useState(0);
@@ -86,6 +93,7 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
   const [clearing, setClearing] = useState(false);
   const [confirmingClear, setConfirmingClear] = useState(false);
   const [history, setHistory] = useState<DiagnosisSnapshot[]>([]);
+  const [infoOpen, setInfoOpen] = useState(false);
   const progressTimer = useRef<ReturnType<typeof setInterval> | null>(null);
 
   useEffect(() => {
@@ -107,17 +115,16 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
   useEffect(() => {
     const cached = getCachedDiagnosis();
     if (cached) {
-      setPeriod(cached.period);
       setSummary(cached.summary);
       setMode("result");
     }
   }, []);
 
-  function handlePeriodChange(next: Period) {
-    setPeriod(next);
-    setMode("idle");
-    setSummary(null);
-    setConfirmingClear(false);
+  // Mostra a explicação da cadência automaticamente na primeira vez que o
+  // usuário esbarra em um bloqueio (cooldown ou poucas questões novas), a
+  // menos que já tenha marcado "não mostrar de novo".
+  function maybeAutoExplain() {
+    if (!isDiagnosisExplainerDismissed()) setInfoOpen(true);
   }
 
   async function handleGenerate() {
@@ -133,21 +140,35 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
       setProgress((p) => (p < 88 ? p + Math.random() * 14 : p));
     }, 220);
 
-    const data = await fetchPerformanceSummary(period);
+    const data = await fetchPerformanceSummary();
 
     if (progressTimer.current) clearInterval(progressTimer.current);
     setProgress(100);
     setSummary(data);
+
+    if (data?.cooldownActive) {
+      setTimeout(() => {
+        setMode("cooldown");
+        maybeAutoExplain();
+      }, 350);
+      return;
+    }
+
     if (data) {
-      setCachedDiagnosis({ period, summary: data });
+      setCachedDiagnosis({ summary: data });
       // Só registra um ponto no histórico quando o diagnóstico é confiável
-      // (amostra mínima atingida) — o servidor ainda garante o limite de 1
-      // por dia, então isso só evita uma chamada de rede desnecessária.
+      // (amostra mínima atingida) — o servidor ainda garante o cooldown de
+      // 24h, então isso só evita uma chamada de rede desnecessária.
       if (data.totalAnswered >= DIAGNOSIS_MIN_QUESTIONS) {
         const saved = await saveDiagnosisSnapshot(data);
         // Refaz a busca em vez de montar a entrada localmente — evita duplicar
         // aqui a lógica de cálculo por disciplina que já vive em performance.ts.
         if (saved) setHistory(await fetchDiagnosisHistory());
+      } else if (data.sinceDiagnosisAt) {
+        // Só é "questões novas insuficientes" quando já existe um diagnóstico
+        // anterior — no primeiro diagnóstico da conta, o mesmo limite abaixo
+        // já cobre esse caso com a mensagem "não tem dados ainda".
+        maybeAutoExplain();
       }
     }
     setTimeout(() => setMode("result"), 350);
@@ -165,7 +186,6 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
     }
   }
 
-  const periodOption = PERIOD_OPTIONS.find((p) => p.value === period)!;
   const filtered = summary ? filterSummary(summary, disciplineFilter) : null;
   const byDiscipline = (filtered?.byTopic ?? []).reduce<Record<string, TopicPerformance[]>>((acc, t) => {
     (acc[t.discipline] ??= []).push(t);
@@ -173,20 +193,14 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
   }, {});
   const { strongest, weakest } = filtered ? pickHighlights(filtered.byTopic) : { strongest: null, weakest: null };
   const hasEnoughData = (filtered?.totalAnswered ?? 0) >= DIAGNOSIS_MIN_QUESTIONS;
+  const isFirstDiagnosis = !summary?.sinceDiagnosisAt;
+  const countdown = summary?.cooldownEndsAt ? formatCountdown(summary.cooldownEndsAt) : null;
 
   return (
     <div>
-      <div className="mb-3 flex flex-wrap gap-2">
-        {PERIOD_OPTIONS.map((opt) => (
-          <Button
-            key={opt.value}
-            variant={period === opt.value ? "default" : "outline"}
-            size="sm"
-            onClick={() => handlePeriodChange(opt.value)}
-          >
-            {opt.label}
-          </Button>
-        ))}
+      <div className="mb-4 flex items-center gap-1.5">
+        <p className="text-xs font-semibold text-muted-foreground">Como funciona o diagnóstico</p>
+        <DiagnosisInfoDialog open={infoOpen} onOpenChange={setInfoOpen} />
       </div>
 
       {mode === "result" && (
@@ -209,8 +223,7 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
           <Sparkles className="mx-auto mb-3 size-8 text-cyan-600" />
           <p className="font-heading text-lg font-bold text-foreground">Pronto pra ver seu diagnóstico?</p>
           <p className="mx-auto mt-1 max-w-sm text-sm text-muted-foreground">
-            Cruzamos suas respostas {periodOption.nounLabel} pra mostrar onde você está mandando bem e onde precisa
-            reforçar.
+            Cruzamos suas respostas pra mostrar onde você está mandando bem e onde precisa reforçar.
           </p>
           <Button className="mt-5" onClick={handleGenerate}>
             Gerar diagnóstico
@@ -244,10 +257,30 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
         </div>
       )}
 
+      {mode === "cooldown" && (
+        <div className="rounded-2xl border border-cyan-200 bg-cyan-50 p-8 text-center">
+          <span className="mx-auto mb-3 flex size-12 items-center justify-center rounded-full bg-cyan-100 text-cyan-700">
+            <Clock className="size-6" />
+          </span>
+          <p className="font-heading text-lg font-bold text-cyan-900">Seu próximo diagnóstico ainda está esquentando</p>
+          <p className="mx-auto mt-2 max-w-sm text-sm text-cyan-800">
+            {countdown
+              ? `Você poderá gerar um novo diagnóstico em ${countdown}.`
+              : "Já pode gerar um novo diagnóstico — tente de novo."}{" "}
+            Continue respondendo questões nesse meio-tempo pra ele vir completo.
+          </p>
+          <Button variant="outline" className="mt-5" onClick={handleGenerate}>
+            Verificar novamente
+          </Button>
+        </div>
+      )}
+
       {mode === "result" && filtered && filtered.totalAnswered === 0 && (
         <div className="rounded-2xl border border-border bg-card p-8 text-center">
           <p className="text-sm text-muted-foreground">
-            Nenhuma questão respondida {periodOption.nounLabel} ainda. Responda algumas questões e gere de novo.
+            {isFirstDiagnosis
+              ? "Nenhuma questão respondida ainda. Responda algumas questões e gere de novo."
+              : "Nenhuma questão nova respondida desde seu último diagnóstico ainda."}
           </p>
         </div>
       )}
@@ -255,7 +288,8 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
       {mode === "result" && filtered && filtered.totalAnswered > 0 && !hasEnoughData && (
         <div className="rounded-2xl border border-amber-200 bg-amber-50 p-6">
           <p className="font-heading text-base font-bold text-amber-800">
-            Você respondeu {filtered.totalAnswered} de {DIAGNOSIS_MIN_QUESTIONS} questões {periodOption.nounLabel}.
+            Você respondeu {filtered.totalAnswered} de {DIAGNOSIS_MIN_QUESTIONS} questões
+            {isFirstDiagnosis ? "" : " desde seu último diagnóstico"}.
           </p>
           <p className="mt-1.5 text-sm text-amber-700">
             Responda mais {DIAGNOSIS_MIN_QUESTIONS - filtered.totalAnswered} pra gerar um diagnóstico completo.
@@ -274,7 +308,9 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
           <div className="mb-6 grid grid-cols-3 gap-3">
             <div className="rounded-2xl border border-border bg-card p-5 text-center">
               <div className="font-heading text-3xl font-extrabold text-foreground">{filtered.totalAnswered}</div>
-              <div className="mt-1 text-xs font-medium text-muted-foreground">respondidas {periodOption.nounLabel}</div>
+              <div className="mt-1 text-xs font-medium text-muted-foreground">
+                {isFirstDiagnosis ? "respondidas" : "novas desde o último"}
+              </div>
             </div>
             <div className="rounded-2xl border border-border bg-card p-5 text-center">
               <div

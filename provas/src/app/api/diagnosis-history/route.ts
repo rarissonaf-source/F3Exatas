@@ -1,16 +1,18 @@
 import { NextRequest, NextResponse } from "next/server";
 import { sql } from "@vercel/postgres";
 import { randomUUID } from "node:crypto";
-import { ensureDiagnosisSnapshotsTable } from "@/lib/performance-db";
+import { ensureDiagnosisSnapshotsTable, getDiagnosisEligibility } from "@/lib/performance-db";
 import { hasProvasPlusAccess, PROVAS_PLUS_ADMIN_EMAILS } from "@/lib/provas-plus";
 
 // Histórico de diagnósticos gerados, usado pro gráfico de evolução do
-// F3Provas+ (uma linha por disciplina). Limitado a 1 snapshot por conta a
-// cada 24h (ver POST abaixo) pra os pontos do gráfico terem espaçamento
-// significativo em vez de virarem ruído se o usuário gerar o diagnóstico
-// várias vezes seguidas.
+// F3Provas+ (uma linha por disciplina). Um novo diagnóstico só é aceito aqui
+// depois do cooldown de DIAGNOSIS_COOLDOWN_HOURS desde o anterior (ver
+// getDiagnosisEligibility em performance-db.ts) — o mesmo cálculo que
+// /api/attempts/summary usa pra decidir se o botão de gerar deve funcionar,
+// então em condições normais este POST só é chamado quando já elegível; a
+// checagem aqui existe pra não confiar só no cliente.
 
-/** `null` quando o corpo não trouxe a disciplina (0 questões respondidas dela no período) — distingue de "respondeu e zerou". */
+/** `null` quando o corpo não trouxe a disciplina (0 questões respondidas dela desde o último diagnóstico) — distingue de "respondeu e zerou". */
 function parseNullableInt(value: unknown): number | null {
   if (value === null || value === undefined) return null;
   return Number.isFinite(value) ? Math.trunc(value as number) : null;
@@ -53,7 +55,6 @@ export async function POST(req: NextRequest) {
 
   const body = await req.json().catch(() => null);
   const accountKey = typeof body?.accountKey === "string" ? body.accountKey.trim() : "";
-  const period = typeof body?.period === "string" ? body.period.trim() : "";
   const totalAnswered = Number.isFinite(body?.totalAnswered) ? Math.trunc(body.totalAnswered) : NaN;
   const totalCorrect = Number.isFinite(body?.totalCorrect) ? Math.trunc(body.totalCorrect) : NaN;
   const overallAccuracy = Number.isFinite(body?.overallAccuracy) ? Math.trunc(body.overallAccuracy) : NaN;
@@ -62,7 +63,7 @@ export async function POST(req: NextRequest) {
   const fisicaAnswered = parseNullableInt(body?.fisicaAnswered);
   const fisicaAccuracy = parseNullableInt(body?.fisicaAccuracy);
 
-  if (!accountKey || !period || Number.isNaN(totalAnswered) || Number.isNaN(totalCorrect) || Number.isNaN(overallAccuracy)) {
+  if (!accountKey || Number.isNaN(totalAnswered) || Number.isNaN(totalCorrect) || Number.isNaN(overallAccuracy)) {
     return NextResponse.json({ error: "Dados incompletos." }, { status: 400 });
   }
 
@@ -70,19 +71,10 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "Recurso disponível apenas para quem tem o plano com desempenho." }, { status: 403 });
   }
 
-  // Contas admin (mesma allowlist do resto do F3Provas+) não têm o limite
-  // diário — precisam gerar vários diagnósticos seguidos pra testar o
-  // gráfico sem esperar 24h entre um ponto e outro.
   const isAdmin = PROVAS_PLUS_ADMIN_EMAILS.includes(accountKey.toLowerCase());
-  if (!isAdmin) {
-    const { rows: recent } = await sql`
-      select 1 from diagnosis_snapshots
-      where account_key = ${accountKey} and created_at >= now() - interval '24 hours'
-      limit 1
-    `;
-    if (recent.length > 0) {
-      return NextResponse.json({ ok: true, saved: false, reason: "already_today" });
-    }
+  const { cooldownActive } = await getDiagnosisEligibility(accountKey, isAdmin);
+  if (cooldownActive) {
+    return NextResponse.json({ ok: true, saved: false, reason: "cooldown" });
   }
 
   await sql`
@@ -91,7 +83,7 @@ export async function POST(req: NextRequest) {
       matematica_answered, matematica_accuracy, fisica_answered, fisica_accuracy
     )
     values (
-      ${randomUUID()}, ${accountKey}, ${period}, ${totalAnswered}, ${totalCorrect}, ${overallAccuracy},
+      ${randomUUID()}, ${accountKey}, 'since_last', ${totalAnswered}, ${totalCorrect}, ${overallAccuracy},
       ${matematicaAnswered}, ${matematicaAccuracy}, ${fisicaAnswered}, ${fisicaAccuracy}
     )
   `;

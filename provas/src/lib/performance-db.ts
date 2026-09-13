@@ -51,8 +51,39 @@ export async function ensureDiagnosisSnapshotsTable() {
   diagnosisSnapshotsTableEnsured = true;
 }
 
-export const PERIOD_TO_INTERVAL: Record<string, string> = {
-  "24h": "24 hours",
-  "7d": "7 days",
-  "30d": "30 days",
-};
+// Cadência do diagnóstico: um novo só conta como "novo diagnóstico" (gera um
+// ponto no gráfico de evolução) depois de pelo menos 24h desde o anterior. O
+// resumo em si (attempts/summary) sempre olha só pras respostas depois do
+// último diagnóstico salvo — nunca uma janela fixa de dias — pra cada ponto
+// do gráfico refletir só o que é novo desde a última vez.
+export const DIAGNOSIS_COOLDOWN_HOURS = 24;
+
+export interface DiagnosisEligibility {
+  /** ISO da criação do último diagnóstico salvo, ou null se essa conta nunca gerou um. */
+  sinceDiagnosisAt: string | null;
+  /** Se true, ainda não passaram as DIAGNOSIS_COOLDOWN_HOURS desde o último diagnóstico. */
+  cooldownActive: boolean;
+  /** ISO de quando o cooldown termina, ou null se não há diagnóstico anterior. */
+  cooldownEndsAt: string | null;
+}
+
+/** Busca o último diagnóstico salvo da conta e calcula se o cooldown de DIAGNOSIS_COOLDOWN_HOURS ainda está ativo. Contas admin nunca ficam em cooldown (usado pra testar sem esperar 24h). */
+export async function getDiagnosisEligibility(accountKey: string, isAdmin: boolean): Promise<DiagnosisEligibility> {
+  await ensureDiagnosisSnapshotsTable();
+
+  const { rows } = await sql`
+    select created_at from diagnosis_snapshots
+    where account_key = ${accountKey}
+    order by created_at desc
+    limit 1
+  `;
+  const lastAt = (rows[0]?.created_at as Date | undefined) ?? null;
+  if (!lastAt) return { sinceDiagnosisAt: null, cooldownActive: false, cooldownEndsAt: null };
+
+  const cooldownEndsAt = new Date(lastAt.getTime() + DIAGNOSIS_COOLDOWN_HOURS * 60 * 60 * 1000);
+  return {
+    sinceDiagnosisAt: lastAt.toISOString(),
+    cooldownActive: !isAdmin && cooldownEndsAt.getTime() > Date.now(),
+    cooldownEndsAt: cooldownEndsAt.toISOString(),
+  };
+}

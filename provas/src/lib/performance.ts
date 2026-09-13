@@ -1,8 +1,6 @@
 import { BASE_PATH } from "./base-path";
 import { getCurrentAccountKey } from "./account";
 
-export type Period = "24h" | "7d" | "30d";
-
 export interface TopicPerformance {
   discipline: string;
   topic: string;
@@ -13,7 +11,14 @@ export interface TopicPerformance {
 }
 
 export interface PerformanceSummary {
-  period: Period;
+  // Sempre "desde o último diagnóstico salvo" — nunca uma janela fixa de
+  // dias. null quando essa conta ainda não gerou nenhum diagnóstico (nesse
+  // caso o resumo cobre tudo que já foi respondido).
+  sinceDiagnosisAt: string | null;
+  // true enquanto não passam DIAGNOSIS_COOLDOWN_HOURS desde o diagnóstico
+  // anterior — o painel deve bloquear a geração de um novo e explicar o motivo.
+  cooldownActive: boolean;
+  cooldownEndsAt: string | null;
   totalAnswered: number;
   totalCorrect: number;
   totalWrong: number;
@@ -61,12 +66,10 @@ export function logAttempt(params: {
   });
 }
 
-export async function fetchPerformanceSummary(period: Period): Promise<PerformanceSummary | null> {
+export async function fetchPerformanceSummary(): Promise<PerformanceSummary | null> {
   const accountKey = getCurrentAccountKey();
   try {
-    const res = await fetch(
-      `${BASE_PATH}/api/attempts/summary?accountKey=${encodeURIComponent(accountKey)}&period=${period}`
-    );
+    const res = await fetch(`${BASE_PATH}/api/attempts/summary?accountKey=${encodeURIComponent(accountKey)}`);
     if (!res.ok) return null;
     return await res.json();
   } catch {
@@ -76,8 +79,9 @@ export async function fetchPerformanceSummary(period: Period): Promise<Performan
 
 /**
  * Registra um ponto no histórico de diagnósticos (gráfico de evolução do
- * F3Provas+), no máximo um por conta a cada 24h — o servidor reconfirma o
- * limite e ignora silenciosamente (`saved: false`) se já houve um hoje.
+ * F3Provas+), no máximo um por conta a cada DIAGNOSIS_COOLDOWN_HOURS — o
+ * servidor reconfirma o cooldown e ignora silenciosamente (`saved: false`)
+ * se ele ainda estiver ativo.
  */
 export async function saveDiagnosisSnapshot(summary: PerformanceSummary): Promise<boolean> {
   const accountKey = getCurrentAccountKey();
@@ -89,7 +93,6 @@ export async function saveDiagnosisSnapshot(summary: PerformanceSummary): Promis
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         accountKey,
-        period: summary.period,
         totalAnswered: summary.totalAnswered,
         totalCorrect: summary.totalCorrect,
         overallAccuracy: summary.overallAccuracy,
@@ -141,7 +144,6 @@ export async function clearAttempts(): Promise<boolean> {
 const DIAGNOSIS_CACHE_KEY = "f3_last_diagnosis";
 
 interface CachedDiagnosis {
-  period: Period;
   summary: PerformanceSummary;
 }
 
@@ -177,8 +179,33 @@ export function clearCachedDiagnosis() {
   }
 }
 
-// Abaixo do que isso de questões respondidas no período, o diagnóstico sugere
-// responder mais em vez de tentar tirar conclusões de uma amostra pequena.
+// Preferência "não mostrar essa explicação de novo" do popup que explica a
+// cadência do diagnóstico (cooldown + questões novas) — não é dado de conta,
+// só uma conveniência de navegador, então fica fora do JSON por-conta acima.
+const DIAGNOSIS_EXPLAINER_DISMISSED_KEY = "f3_diagnosis_explainer_dismissed";
+
+export function isDiagnosisExplainerDismissed(): boolean {
+  if (typeof window === "undefined") return false;
+  try {
+    return localStorage.getItem(DIAGNOSIS_EXPLAINER_DISMISSED_KEY) === "1";
+  } catch {
+    return false;
+  }
+}
+
+export function dismissDiagnosisExplainer() {
+  if (typeof window === "undefined") return;
+  try {
+    localStorage.setItem(DIAGNOSIS_EXPLAINER_DISMISSED_KEY, "1");
+  } catch {
+    /* ignora */
+  }
+}
+
+// Abaixo do que isso de questões novas respondidas desde o diagnóstico
+// anterior (ou desde sempre, no primeiro diagnóstico da conta), a geração
+// fica bloqueada e o painel sugere responder mais em vez de tirar conclusões
+// de uma amostra pequena.
 export const DIAGNOSIS_MIN_QUESTIONS = 20;
 // Um assunto só entra como "ponto forte"/"ponto fraco" se tiver pelo menos
 // essa quantidade de respostas — evita destacar um assunto injustamente com
