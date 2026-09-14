@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import { Minus, TrendingDown, TrendingUp } from "lucide-react";
 import type { DiagnosisSnapshot } from "@/lib/performance";
 
@@ -82,8 +83,20 @@ function TrendBadge({ label, color, previous, current }: { label: string; color:
   );
 }
 
+interface HoveredPoint {
+  lineKey: string;
+  label: string;
+  color: string;
+  x: number;
+  y: number;
+  accuracy: number;
+  createdAt: string;
+}
+
 /** Gráfico de linha (sem lib externa) com a evolução do acerto por disciplina, um ponto por diagnóstico gerado. */
 export function DiagnosisHistoryChart({ snapshots }: { snapshots: DiagnosisSnapshot[] }) {
+  const [hovered, setHovered] = useState<HoveredPoint | null>(null);
+
   if (snapshots.length < 2) {
     return (
       <div className="rounded-2xl border border-border bg-card p-6 text-center">
@@ -114,7 +127,7 @@ export function DiagnosisHistoryChart({ snapshots }: { snapshots: DiagnosisSnaps
       const x = chartLeft + step * i;
       const accuracy = s[line.accuracyKey];
       const y = accuracy === null ? null : PADDING_TOP + usableHeight * (1 - accuracy / 100);
-      return { x, y, accuracy };
+      return { x, y, accuracy, createdAt: s.createdAt };
     });
     const [previous, current] = lastTwo(snapshots.map((s) => s[line.accuracyKey]));
     return { ...line, path: buildPath(points), points, previous, current };
@@ -138,67 +151,109 @@ export function DiagnosisHistoryChart({ snapshots }: { snapshots: DiagnosisSnaps
             ))}
           </div>
 
-          <svg
-            viewBox={`0 0 ${WIDTH} ${HEIGHT}`}
-            className="w-full"
-            role="img"
-            aria-label="Gráfico de evolução do acerto por disciplina, um ponto por diagnóstico"
-          >
-            {[0, 25, 50, 75, 100].map((mark) => {
-              const y = PADDING_TOP + usableHeight * (1 - mark / 100);
-              return (
-                <g key={mark}>
-                  <line x1={chartLeft} x2={WIDTH - PADDING_X} y1={y} y2={y} stroke="currentColor" className="text-border" strokeWidth={1} />
-                  <text x={chartLeft - 8} y={y} textAnchor="end" dominantBaseline="middle" className="fill-muted-foreground text-[10px]">
-                    {mark}%
-                  </text>
-                </g>
-              );
-            })}
+          <div className="relative">
+            <svg
+              viewBox={`0 0 ${WIDTH} ${HEIGHT}`}
+              className="w-full overflow-visible"
+              role="img"
+              aria-label="Gráfico de evolução do acerto por disciplina, um ponto por diagnóstico. Passe o mouse sobre os pontos pra ver o valor exato."
+            >
+              {[0, 25, 50, 75, 100].map((mark) => {
+                const y = PADDING_TOP + usableHeight * (1 - mark / 100);
+                return (
+                  <g key={mark}>
+                    <line x1={chartLeft} x2={WIDTH - PADDING_X} y1={y} y2={y} stroke="currentColor" className="text-border" strokeWidth={1} />
+                    <text x={chartLeft - 8} y={y} textAnchor="end" dominantBaseline="middle" className="fill-muted-foreground text-[10px]">
+                      {mark}%
+                    </text>
+                  </g>
+                );
+              })}
 
-            {linesData.map(
-              (line) =>
-                line.path && (
-                  <g key={line.key}>
-                    <path d={line.path} fill="none" stroke={line.color} strokeWidth={3} strokeLinecap="round" strokeLinejoin="round" />
-                    {line.points.map((p, i) =>
-                      p.y === null ? null : (
+              {linesData.map((line) => (
+                <g key={line.key}>
+                  {line.path && <path d={line.path} fill="none" stroke={line.color} strokeWidth={3} strokeLinecap="round" strokeLinejoin="round" />}
+                  {line.points.map((p, i) => {
+                    if (p.y === null || p.accuracy === null) return null;
+                    const isHovered = hovered?.lineKey === line.key && hovered.x === p.x && hovered.y === p.y;
+                    const point = { x: p.x, y: p.y, accuracy: p.accuracy, createdAt: p.createdAt };
+                    const onEnter = () =>
+                      setHovered({ lineKey: line.key, label: line.label, color: line.color, ...point });
+                    const onLeave = () => setHovered(null);
+                    return (
+                      <g key={i}>
                         <circle
-                          key={i}
                           cx={p.x}
                           cy={p.y}
-                          r={i === lastIndex ? 6 : 4}
+                          r={isHovered ? (i === lastIndex ? 8 : 6) : i === lastIndex ? 6 : 4}
                           fill={line.color}
                           stroke="var(--card)"
                           strokeWidth={i === lastIndex ? 2.5 : 1.5}
+                          className="transition-[r] duration-100"
                         />
-                      )
+                        {/* área de toque maior e invisível, mais fácil de acertar com o mouse que o ponto visível */}
+                        <circle
+                          cx={p.x}
+                          cy={p.y}
+                          r={12}
+                          fill="transparent"
+                          onMouseEnter={onEnter}
+                          onMouseLeave={onLeave}
+                          onFocus={onEnter}
+                          onBlur={onLeave}
+                          tabIndex={0}
+                          role="button"
+                          aria-label={`${line.label}, ${formatDate(p.createdAt)} ${formatTime(p.createdAt)}: ${p.accuracy}%`}
+                          className="cursor-pointer outline-none"
+                        />
+                      </g>
+                    );
+                  })}
+                </g>
+              ))}
+
+              {snapshots.map((s, i) => {
+                // Com muitos pontos, só rotula alguns (sempre o primeiro e o
+                // último) pra não amontoar datas ilegíveis no eixo.
+                const labelEvery = Math.max(1, Math.ceil(snapshots.length / 8));
+                if (i !== 0 && i !== lastIndex && i % labelEvery !== 0) return null;
+                const x = chartLeft + step * i;
+                const boldIfLast = i === lastIndex ? "font-bold" : "";
+                return (
+                  <g key={i}>
+                    <text x={x} y={HEIGHT - paddingBottom + 18} textAnchor="middle" className={`fill-muted-foreground text-[10px] ${boldIfLast}`}>
+                      {formatDate(s.createdAt)}
+                    </text>
+                    {hasDuplicateDates && (
+                      <text x={x} y={HEIGHT - paddingBottom + 29} textAnchor="middle" className={`fill-muted-foreground text-[9px] ${boldIfLast}`}>
+                        {formatTime(s.createdAt)}
+                      </text>
                     )}
                   </g>
-                )
-            )}
+                );
+              })}
+            </svg>
 
-            {snapshots.map((s, i) => {
-              // Com muitos pontos, só rotula alguns (sempre o primeiro e o
-              // último) pra não amontoar datas ilegíveis no eixo.
-              const labelEvery = Math.max(1, Math.ceil(snapshots.length / 8));
-              if (i !== 0 && i !== lastIndex && i % labelEvery !== 0) return null;
-              const x = chartLeft + step * i;
-              const boldIfLast = i === lastIndex ? "font-bold" : "";
-              return (
-                <g key={i}>
-                  <text x={x} y={HEIGHT - paddingBottom + 18} textAnchor="middle" className={`fill-muted-foreground text-[10px] ${boldIfLast}`}>
-                    {formatDate(s.createdAt)}
-                  </text>
-                  {hasDuplicateDates && (
-                    <text x={x} y={HEIGHT - paddingBottom + 29} textAnchor="middle" className={`fill-muted-foreground text-[9px] ${boldIfLast}`}>
-                      {formatTime(s.createdAt)}
-                    </text>
-                  )}
-                </g>
-              );
-            })}
-          </svg>
+            {hovered && (
+              <div
+                className="pointer-events-none absolute z-10 -translate-x-1/2 -translate-y-full whitespace-nowrap rounded-lg border border-border bg-popover px-2.5 py-1.5 text-xs text-popover-foreground shadow-lg"
+                style={{
+                  left: `${(hovered.x / WIDTH) * 100}%`,
+                  top: `${(hovered.y / HEIGHT) * 100}%`,
+                  marginTop: "-10px",
+                }}
+              >
+                <div className="flex items-center gap-1.5 font-semibold">
+                  <span className="size-2 rounded-full" style={{ backgroundColor: hovered.color }} />
+                  {hovered.label}
+                  <span className="font-heading font-extrabold">{hovered.accuracy}%</span>
+                </div>
+                <div className="text-[10px] text-muted-foreground">
+                  {formatDate(hovered.createdAt)} · {formatTime(hovered.createdAt)}
+                </div>
+              </div>
+            )}
+          </div>
         </>
       )}
     </div>
