@@ -70,7 +70,7 @@ function TrendBadge({ label, color, previous, current }: { label: string; color:
         {delta !== null && (
           <span>
             {delta > 0 ? "+" : ""}
-            {delta} p.p.
+            {delta}%
           </span>
         )}
       </div>

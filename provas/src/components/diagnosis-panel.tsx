@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { Clock, Lock, Sparkles, TrendingDown, TrendingUp } from "lucide-react";
+import { Clock, Lock, RefreshCw, Sparkles, TrendingDown, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   fetchPerformanceSummary,
@@ -184,7 +184,12 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
       <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
         <DiagnosisInfoDialog />
         {mode === "result" && (
-          <Button variant="outline" size="sm" onClick={handleGenerate}>
+          <Button
+            size="sm"
+            onClick={handleGenerate}
+            className="gap-1.5 bg-gradient-to-r from-cyan-500 to-brand-orange text-white shadow-sm transition-transform hover:scale-[1.03] hover:from-cyan-500 hover:to-brand-orange hover:brightness-110"
+          >
+            <RefreshCw className="size-3.5" />
             Verificar novo diagnóstico
           </Button>
         )}
