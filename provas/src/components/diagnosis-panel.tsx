@@ -181,8 +181,13 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
 
   return (
     <div>
-      <div className="mb-4">
+      <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
         <DiagnosisInfoDialog />
+        {mode === "result" && (
+          <Button variant="outline" size="sm" onClick={handleGenerate}>
+            Verificar novo diagnóstico
+          </Button>
+        )}
       </div>
 
       {mode === "result" && (
