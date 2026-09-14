@@ -167,6 +167,7 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
       clearCachedDiagnosis();
       setMode("idle");
       setSummary(null);
+      setHistory([]);
     }
   }
 
