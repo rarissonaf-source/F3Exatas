@@ -255,8 +255,8 @@ body {
 }
 
 .path-card-icon img {
-  width: 92px;
-  height: 92px;
+  width: 132px;
+  height: 132px;
   object-fit: contain;
   filter: drop-shadow(0 10px 18px rgba(0, 0, 0, 0.3));
 }
@@ -706,7 +706,7 @@ body {
   .path-card { aspect-ratio: 1 / 1.1; border-radius: 16px; }
   .path-card-top { top: 10px; left: 10px; right: 10px; }
   .path-number { font-size: 11px; }
-  .path-card-icon img { width: 46px; height: 46px; }
+  .path-card-icon img { width: 64px; height: 64px; }
   .path-card-overlay { height: 72%; }
   .path-card-body { padding: 0 12px 14px; gap: 3px; }
   .path-title { font-size: 15px; }
