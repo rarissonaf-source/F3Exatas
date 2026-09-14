@@ -155,8 +155,8 @@ export function QuestionCard({
         </div>
       </div>
 
-      <div className={`mt-4 ${imageUrl ? "grid gap-4 sm:grid-cols-2 sm:items-start" : ""}`}>
-        <div className="text-base leading-relaxed sm:text-lg">
+      <div className={`mt-4 min-w-0 ${imageUrl ? "grid gap-4 sm:grid-cols-2 sm:items-start" : ""}`}>
+        <div className="min-w-0 text-base leading-relaxed sm:text-lg">
           <LatexText text={question.statement} />
         </div>
 
@@ -221,10 +221,10 @@ export function QuestionCard({
                 <img
                   src={optionImageUrl}
                   alt={`Alternativa ${OPTION_LABELS[opt.label]}`}
-                  className="max-h-40 flex-1 rounded-lg border border-border bg-white object-contain p-1"
+                  className="max-h-40 min-w-0 flex-1 rounded-lg border border-border bg-white object-contain p-1"
                 />
               ) : (
-                <span className="flex-1 pt-0.5">
+                <span className="min-w-0 flex-1 pt-0.5">
                   <LatexText text={opt.text} />
                 </span>
               )}
