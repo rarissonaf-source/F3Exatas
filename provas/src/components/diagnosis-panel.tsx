@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { Clock, Lock, RefreshCw, Sparkles, TrendingDown, TrendingUp } from "lucide-react";
+import { Clock, Lock, Sparkles, TrendingDown, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   fetchPerformanceSummary,
@@ -20,6 +20,7 @@ import {
 import { getTopicsForDiscipline } from "@/lib/topics";
 import { DiagnosisHistoryChart } from "@/components/diagnosis-history-chart";
 import { DiagnosisInfoDialog } from "@/components/diagnosis-info-dialog";
+import { DiagnosisIcon } from "@/components/diagnosis-icon";
 
 const DISCIPLINE_NAMES: Record<string, string> = { fisica: "Física", matematica: "Matemática" };
 
@@ -181,19 +182,22 @@ export function DiagnosisPanel({ allowed }: { allowed: boolean }) {
 
   return (
     <div>
-      <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
+      <div className="mb-4 flex justify-center">
         <DiagnosisInfoDialog />
-        {mode === "result" && (
-          <Button
-            size="sm"
-            onClick={handleGenerate}
-            className="gap-1.5 bg-gradient-to-r from-cyan-500 to-brand-orange text-white shadow-sm transition-transform hover:scale-[1.03] hover:from-cyan-500 hover:to-brand-orange hover:brightness-110"
-          >
-            <RefreshCw className="size-3.5" />
-            Verificar novo diagnóstico
-          </Button>
-        )}
       </div>
+
+      {mode === "result" && (
+        <div className="mb-6 flex justify-center">
+          <button
+            type="button"
+            onClick={handleGenerate}
+            className="group flex flex-col items-center gap-2 rounded-2xl px-6 py-3 transition-transform hover:scale-[1.05] active:scale-[0.98]"
+          >
+            <DiagnosisIcon className="size-24 drop-shadow-md transition-transform group-hover:-translate-y-1 sm:size-28" />
+            <span className="font-heading text-sm font-bold text-foreground">Gerar novo diagnóstico</span>
+          </button>
+        </div>
+      )}
 
       {mode === "result" && (
         <div className="mb-6 flex flex-wrap gap-2">
