@@ -20,6 +20,10 @@ function formatDate(iso: string) {
   return d.toLocaleDateString("pt-BR", { day: "2-digit", month: "2-digit" });
 }
 
+function formatTime(iso: string) {
+  return new Date(iso).toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" });
+}
+
 /** Últimos dois pontos com dado (não-null) de uma disciplina — usado pra comparar com o diagnóstico anterior, não com o primeiro da série. */
 function lastTwo(values: (number | null)[]): [number | null, number | null] {
   const withData = values.filter((v): v is number => v !== null);
@@ -93,8 +97,14 @@ export function DiagnosisHistoryChart({ snapshots }: { snapshots: DiagnosisSnaps
     );
   }
 
+  // Se dois pontos caírem na mesma data (comum ao testar com o bypass de
+  // admin, gerando vários diagnósticos no mesmo dia), o rótulo passa a
+  // incluir o horário também — senão pareceriam o mesmo ponto repetido.
+  const hasDuplicateDates = new Set(snapshots.map((s) => formatDate(s.createdAt))).size < snapshots.length;
+  const paddingBottom = hasDuplicateDates ? PADDING_BOTTOM + 12 : PADDING_BOTTOM;
+
   const usableWidth = WIDTH - PADDING_X * 2 - Y_AXIS_LABEL_WIDTH;
-  const usableHeight = HEIGHT - PADDING_TOP - PADDING_BOTTOM;
+  const usableHeight = HEIGHT - PADDING_TOP - paddingBottom;
   const chartLeft = PADDING_X + Y_AXIS_LABEL_WIDTH;
   const step = snapshots.length > 1 ? usableWidth / (snapshots.length - 1) : 0;
   const lastIndex = snapshots.length - 1;
@@ -173,16 +183,19 @@ export function DiagnosisHistoryChart({ snapshots }: { snapshots: DiagnosisSnaps
               // último) pra não amontoar datas ilegíveis no eixo.
               const labelEvery = Math.max(1, Math.ceil(snapshots.length / 8));
               if (i !== 0 && i !== lastIndex && i % labelEvery !== 0) return null;
+              const x = chartLeft + step * i;
+              const boldIfLast = i === lastIndex ? "font-bold" : "";
               return (
-                <text
-                  key={i}
-                  x={chartLeft + step * i}
-                  y={HEIGHT - PADDING_BOTTOM + 18}
-                  textAnchor="middle"
-                  className={`fill-muted-foreground text-[10px] ${i === lastIndex ? "font-bold" : ""}`}
-                >
-                  {formatDate(s.createdAt)}
-                </text>
+                <g key={i}>
+                  <text x={x} y={HEIGHT - paddingBottom + 18} textAnchor="middle" className={`fill-muted-foreground text-[10px] ${boldIfLast}`}>
+                    {formatDate(s.createdAt)}
+                  </text>
+                  {hasDuplicateDates && (
+                    <text x={x} y={HEIGHT - paddingBottom + 29} textAnchor="middle" className={`fill-muted-foreground text-[9px] ${boldIfLast}`}>
+                      {formatTime(s.createdAt)}
+                    </text>
+                  )}
+                </g>
               );
             })}
           </svg>
